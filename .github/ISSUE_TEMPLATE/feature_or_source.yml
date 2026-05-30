@@ -1,0 +1,16 @@
+name: New feature or data source
+description: Suggest a feature, a new public data source, or a code improvement.
+title: "[Idea] <short summary>"
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to add or change?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: If it's a data source, link it (and state its licence)
+      description: We can only use sources that are legally re-usable as open data.

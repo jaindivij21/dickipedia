@@ -1,0 +1,39 @@
+name: Data correction
+description: Report a wrong figure on an MP's page. A public-record source is required.
+title: "[Data] <MP / constituency>: <what is wrong>"
+labels: ["data-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for improving the record. Corrections **must** cite a public source — no source, no change."
+  - type: input
+    id: mp
+    attributes:
+      label: MP / Constituency
+      placeholder: e.g. Narendra Modi — Varanasi
+    validations:
+      required: true
+  - type: input
+    id: field
+    attributes:
+      label: Which figure is wrong?
+      placeholder: e.g. attendance %, declared assets, criminal cases, victory margin
+    validations:
+      required: true
+  - type: input
+    id: correct
+    attributes:
+      label: What is the correct value?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public-record source URL (required)
+      description: ECI, PRS, Sansad, ECI affidavit, CAG, court order, gazette, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / screenshot (optional)
