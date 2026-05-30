@@ -15,7 +15,10 @@
     "mplads": "tsx pipeline/07_mplads.ts",
     "canonical": "tsx pipeline/10_canonical.ts",
     "db:generate": "drizzle-kit generate",
-    "seed": "tsx db/seed.ts"
+    "seed": "tsx db/seed.ts",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.0",
