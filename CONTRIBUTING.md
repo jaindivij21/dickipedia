@@ -7,11 +7,13 @@ dickipedia is an open, public-interest accountability record for India's elected
 Please keep every contribution inside that line.
 
 ## Ways to contribute
+
 - **Spot a wrong number?** Open a **Data correction** issue and include the **public-record source** (ECI, PRS, Sansad, the ECI affidavit, CAG, a court order, a gazette). _No source, no change._ This is the v1 crowd-correction channel; Wikipedia-style in-app editing comes in v2.
 - **Know a public data source we're missing?** Open a **New feature or data source** issue with the link **and its licence**.
 - **Code:** fork → branch → PR. The TypeScript pipeline lives in `pipeline/`; `npm run eci | prs | sansad | canonical` rebuilds `data/canonical/mps.json`.
 
 ## Sourcing & legal rules (non-negotiable)
+
 - Public **officials** only — never private individuals.
 - Facts + arithmetic from public records; **the project authors no accusation**.
 - Criminal data is shown **"as self-declared (pending ≠ convicted)"**.
@@ -19,4 +21,5 @@ Please keep every contribution inside that line.
 - No re-hosting of non-open sources (e.g. MyNeta parsed dumps, Sansad portraits) — see `ATTRIBUTIONS.md`.
 
 ## Licences
+
 Code: **MIT**. Aggregated data: **ODbL-1.0** (attribute the upstream sources). Photos: each under its own licence. Contributions are accepted under these terms.

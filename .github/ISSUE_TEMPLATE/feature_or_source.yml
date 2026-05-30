@@ -1,7 +1,7 @@
 name: New feature or data source
 description: Suggest a feature, a new public data source, or a code improvement.
-title: "[Idea] <short summary>"
-labels: ["enhancement"]
+title: '[Idea] <short summary>'
+labels: ['enhancement']
 body:
   - type: textarea
     id: idea

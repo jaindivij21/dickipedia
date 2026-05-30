@@ -1,0 +1,19 @@
+---
+description: Drizzle schema, seed, and migration rules
+alwaysApply: false
+---
+
+# Database Rules
+
+## Schema (`db/schema.ts`)
+- Wikibase-style, not flat-relational: `subjects` → `revisions` (full snapshot blob = canonical truth) → `facts` (rebuildable index) → `fact_sources` (every fact ≥1 source). Plus `relationships`(+sources), `scores`, `properties`, `actors`, `comments`.
+- New verticals extend via `subjectType` + new `properties`/`FACTMAP` entries — do not bolt on parallel tables.
+
+## Seed (`db/seed.ts`)
+- Reads `data/canonical/mps.json`. Deterministic (`now = 0`, sha1 hashes) so re-seeds are reproducible.
+- Imports `SOURCE_REGISTRY` from `../lib/sources.ts` and `PROPERTIES`/`FACTMAP` from `../lib/schema-constants.ts`. Never inline these.
+- Validate the canonical row shape before insert; fail loudly on a missing critical field.
+
+## Migrations
+- After editing `schema.ts`, run `npm run db:generate` and commit the generated SQL under `db/migrations/`. D1 applies them via `wrangler d1 migrations apply`.
+- Never hand-edit generated migrations; change `schema.ts` and regenerate.

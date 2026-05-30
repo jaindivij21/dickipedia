@@ -1,11 +1,11 @@
 name: Data correction
 description: Report a wrong figure on an MP's page. A public-record source is required.
-title: "[Data] <MP / constituency>: <what is wrong>"
-labels: ["data-correction"]
+title: '[Data] <MP / constituency>: <what is wrong>'
+labels: ['data-correction']
 body:
   - type: markdown
     attributes:
-      value: "Thanks for improving the record. Corrections **must** cite a public source — no source, no change."
+      value: 'Thanks for improving the record. Corrections **must** cite a public source — no source, no change.'
   - type: input
     id: mp
     attributes:

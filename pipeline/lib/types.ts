@@ -10,7 +10,7 @@ export interface EciSpineRow {
   eci_pc_no: string;
   pc_name: string;
   pc_name_norm: string;
-  reservation: "SC" | "ST" | "GEN";
+  reservation: 'SC' | 'ST' | 'GEN';
   winner_name: string;
   winner_party: string;
   winner_party_full: string;

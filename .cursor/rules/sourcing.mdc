@@ -1,0 +1,33 @@
+---
+description: Legitimacy invariants — applies to all data, pipeline, and PR review
+alwaysApply: true
+---
+
+# Sourcing & Legitimacy (non-negotiable)
+
+dickipedia stands on one rule: **every claim is a sourced public record about a public official's public conduct — neutral, no accusations.**
+
+## The six registries (the only allowed sources)
+- `eci` — Election Commission of India (results, NOTA)
+- `prs` — PRS Legislative Research (attendance, questions, debates, PMBs)
+- `sansad` — Lok Sabha Secretariat (identity, profile, contact)
+- `myneta` — ADR/MyNeta, from sworn ECI affidavits (criminal cases, assets)
+- `mplads` — MPLADS eSAKSHI (fund allocation/utilisation)
+- `bonds` — ECI/SBI electoral-bond disclosure (party-level funding)
+
+The single registry definition is `lib/sources.ts`. Never inline a second copy.
+
+## Invariants the code must enforce
+1. **Public officials only** — never private individuals.
+2. **Every fact carries a source** — in the DB, every `fact` has ≥1 `fact_source`. In the UI, every figure shows a SourceChip.
+3. **No platform-authored accusations** — report facts + arithmetic. Use "declared", "reported by", "as recorded in". Forbidden: "corrupt", "misappropriated", "criminal" as a label for a person.
+4. **Criminal data is self-declared** — always rendered "self-declared (pending ≠ convicted)". Convictions, if ever added, must cite a court order.
+5. **Electoral bonds are party-level** — never pinned to an individual MP.
+6. **No re-hosting non-open data** — hotlink portraits; honour upstream licences (`ATTRIBUTIONS.md`).
+
+## When adding a source or field
+- It must map to one of the six registries (or add a new registry to `lib/sources.ts` with publisher + url + sourceType + licence, justified in the PR).
+- Wire it through the existing canonical join (`pipeline/10_canonical.ts`) and `FACTMAP` in `lib/schema-constants.ts` — do not invent a parallel ingestion path.
+- Handle "data not available" gracefully; never infer a value.
+
+Legitimacy is earned through sourcing. Every PR is an opportunity to strengthen public trust.

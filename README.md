@@ -5,6 +5,7 @@ Open-source accountability hub for India's elected Lok Sabha MPs (18th Lok Sabha
 > Coverage grows over time as records are verified and contributors pitch in.
 
 ## Licences
+
 - **Aggregated dataset:** ODbL-1.0.
 - **Photos:** each under its own licence.
 - **Code:** MIT. **Community content** (edits / discussion): separate contributor terms.

@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 @theme {
   --color-surface: #e7e5e4;
@@ -20,7 +20,8 @@
   --neu-dark: #c2c0bf;
 }
 
-html, body {
+html,
+body {
   background: var(--color-surface);
   color: var(--color-ink);
   font-family: var(--font-display);
@@ -28,15 +29,52 @@ html, body {
 }
 
 @layer utilities {
-  .neu-raised   { box-shadow: 6px 6px 14px var(--neu-dark), -6px -6px 14px var(--neu-light); }
-  .neu-raised-sm{ box-shadow: 4px 4px 9px var(--neu-dark), -4px -4px 9px var(--neu-light); }
-  .neu-inset    { box-shadow: inset 5px 5px 10px var(--neu-dark), inset -5px -5px 10px var(--neu-light); }
-  .neu-inset-sm { box-shadow: inset 3px 3px 6px var(--neu-dark), inset -3px -3px 6px var(--neu-light); }
-  .neu-flat     { box-shadow: 2px 2px 5px var(--neu-dark), -2px -2px 5px var(--neu-light); }
-  .neu-press    { transition: box-shadow .16s ease, transform .12s ease; }
-  .neu-press:hover  { box-shadow: 7px 7px 16px var(--neu-dark), -7px -7px 16px var(--neu-light); }
-  .neu-press:active { box-shadow: inset 4px 4px 9px var(--neu-dark), inset -4px -4px 9px var(--neu-light); transform: translateY(1px); }
-  .text-balance { text-wrap: balance; }
+  .neu-raised {
+    box-shadow:
+      6px 6px 14px var(--neu-dark),
+      -6px -6px 14px var(--neu-light);
+  }
+  .neu-raised-sm {
+    box-shadow:
+      4px 4px 9px var(--neu-dark),
+      -4px -4px 9px var(--neu-light);
+  }
+  .neu-inset {
+    box-shadow:
+      inset 5px 5px 10px var(--neu-dark),
+      inset -5px -5px 10px var(--neu-light);
+  }
+  .neu-inset-sm {
+    box-shadow:
+      inset 3px 3px 6px var(--neu-dark),
+      inset -3px -3px 6px var(--neu-light);
+  }
+  .neu-flat {
+    box-shadow:
+      2px 2px 5px var(--neu-dark),
+      -2px -2px 5px var(--neu-light);
+  }
+  .neu-press {
+    transition:
+      box-shadow 0.16s ease,
+      transform 0.12s ease;
+  }
+  .neu-press:hover {
+    box-shadow:
+      7px 7px 16px var(--neu-dark),
+      -7px -7px 16px var(--neu-light);
+  }
+  .neu-press:active {
+    box-shadow:
+      inset 4px 4px 9px var(--neu-dark),
+      inset -4px -4px 9px var(--neu-light);
+    transform: translateY(1px);
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
 }
 
-::selection { background: color-mix(in srgb, var(--color-primary) 25%, transparent); }
+::selection {
+  background: color-mix(in srgb, var(--color-primary) 25%, transparent);
+}

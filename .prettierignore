@@ -1,0 +1,12 @@
+node_modules
+.next
+.open-next
+build
+dist
+coverage
+data
+db/migrations
+db/*.db
+package-lock.json
+*.log
+.vercel
