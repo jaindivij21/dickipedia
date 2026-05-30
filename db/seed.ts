@@ -59,6 +59,11 @@ const SOURCES: Record<string, { publisher: string; url: string; sourceType: stri
     url: 'https://commons.wikimedia.org/wiki/Category:Symbols_of_political_parties_in_India',
     sourceType: 'document',
   },
+  wikipedia: {
+    publisher: 'Wikipedia (English) — descriptive bio, attributed CC BY-SA, excluded from scoring',
+    url: 'https://en.wikipedia.org/',
+    sourceType: 'document',
+  },
 };
 
 const PROPERTIES: [string, string, string][] = [
@@ -86,6 +91,18 @@ const PROPERTIES: [string, string, string][] = [
   ['mplads_works_completed', 'quantity', 'MPLADS works completed'],
   ['party_bond_total', 'quantity', 'Party electoral-bond income (Rs)'],
   ['party_symbol', 'string', 'Election symbol'],
+  // deep record (steps 11-18): time-series + structured records via generic facts + qualifiers
+  ['declared_total_assets', 'quantity', 'Declared total assets, per affidavit (Rs)'],
+  ['bio', 'monolingual', 'Biography (Wikipedia extract)'],
+  ['criminal_case', 'string', 'Declared criminal case'],
+  ['income_source', 'string', 'Source of income'],
+  ['govt_contract', 'string', 'Contract with govt / public company'],
+  ['committee_membership', 'string', 'Committee membership'],
+  ['contact_email', 'string', 'Public contact email'],
+  ['contact_phone', 'string', 'Public contact phone'],
+  ['contact_address', 'string', 'Public postal address'],
+  ['social_link', 'url', 'Public social / web link'],
+  ['debate_record', 'string', 'Debate participated in'],
   ['represents', 'entity-ref', 'Represents (constituency)'],
   ['member_of', 'entity-ref', 'Member of (party)'],
 ];
@@ -193,7 +210,10 @@ async function main(): Promise<void> {
       srcKey: string,
       revisionId: number,
       rank = 'normal',
+      qualifiers: [string, string][] = [],
     ) => {
+      if (sourceId[srcKey] == null)
+        throw new Error(`no source "${srcKey}" — every fact needs a source`);
       const fid = (
         tx
           .insert(t.facts)
@@ -203,7 +223,7 @@ async function main(): Promise<void> {
             value: String(value),
             valueType: propDatatype.get(propertyKey) ?? 'string',
             rank,
-            factHash: sha1([subjectId, propertyKey, value]),
+            factHash: sha1([subjectId, propertyKey, value, qualifiers]),
             originRevisionId: revisionId,
             current: true,
           })
@@ -213,6 +233,18 @@ async function main(): Promise<void> {
       tx.insert(t.factSources)
         .values({ factId: fid, sourceId: sourceId[srcKey], ordinal: 0 })
         .run();
+      qualifiers.forEach(([qk, qv], i) =>
+        tx
+          .insert(t.factQualifiers)
+          .values({
+            factId: fid,
+            qualifierPropertyKey: qk,
+            value: String(qv),
+            valueType: 'string',
+            ordinal: i,
+          })
+          .run(),
+      );
     };
 
     let facts = 0,
@@ -265,6 +297,115 @@ async function main(): Promise<void> {
           facts++;
         }
       }
+
+      // deep facts (steps 11-18) — time-series + structured records as generic facts + qualifiers
+      const history = (mp.assets_history ?? []) as {
+        year: number;
+        total_assets: number | null;
+      }[];
+      history.forEach((p, i) => {
+        if (p.total_assets == null) return;
+        const rank = i === history.length - 1 ? 'preferred' : 'normal';
+        addFact(mpId, 'declared_total_assets', p.total_assets, 'myneta', revId, rank, [
+          ['point_in_time', String(p.year)],
+        ]);
+        facts++;
+      });
+      const cd = mp.criminal_detail as {
+        pending: any[];
+        convicted: any[];
+      } | null;
+      if (cd)
+        for (const cs of [...cd.pending, ...cd.convicted]) {
+          const q: [string, string][] = [
+            ['case_status', cs.status],
+            ['provenance', 'self-declared (ECI affidavit); pending ≠ convicted'],
+            ['charges_framed', String(!!cs.charges_framed)],
+          ];
+          if (cs.court) q.push(['court', cs.court]);
+          if (cs.sections?.length) q.push(['sections', cs.sections.join(', ')]);
+          if (cs.fir_no) q.push(['fir_no', cs.fir_no]);
+          addFact(
+            mpId,
+            'criminal_case',
+            cs.fir_no || cs.case_no || `Case ${cs.serial ?? ''}`.trim(),
+            'myneta',
+            revId,
+            'normal',
+            q,
+          );
+          facts++;
+        }
+      if (mp.income) {
+        for (const s of mp.income.sources ?? []) {
+          addFact(mpId, 'income_source', s.source, 'myneta', revId, 'normal', [
+            ['owner', s.person],
+          ]);
+          facts++;
+        }
+        for (const r of mp.income.itr ?? [])
+          if (r.income != null) {
+            addFact(mpId, 'income_source', r.income, 'myneta', revId, 'normal', [
+              ['owner', r.person],
+              ['financial_year', r.fy],
+            ]);
+            facts++;
+          }
+      }
+      for (const ct of mp.contracts ?? []) {
+        addFact(mpId, 'govt_contract', ct.detail, 'myneta', revId, 'normal', [['party', ct.party]]);
+        facts++;
+      }
+      const contact = mp.contact as {
+        emails: string[];
+        phones: string[];
+        address: string | null;
+        socials: { platform: string; url: string }[];
+      } | null;
+      if (contact) {
+        for (const e of contact.emails) {
+          addFact(mpId, 'contact_email', e, 'sansad', revId);
+          facts++;
+        }
+        for (const ph of contact.phones) {
+          addFact(mpId, 'contact_phone', ph, 'sansad', revId);
+          facts++;
+        }
+        if (contact.address) {
+          addFact(mpId, 'contact_address', contact.address, 'sansad', revId);
+          facts++;
+        }
+        for (const s of contact.socials) {
+          addFact(mpId, 'social_link', s.url, 'sansad', revId, 'normal', [
+            ['platform', s.platform],
+          ]);
+          facts++;
+        }
+      }
+      for (const cm of mp.committees ?? []) {
+        addFact(
+          mpId,
+          'committee_membership',
+          cm.name,
+          'sansad',
+          revId,
+          'normal',
+          cm.role ? [['role', cm.role]] : [],
+        );
+        facts++;
+      }
+      for (const d of mp.prs_detail?.debate_titles ?? []) {
+        const q: [string, string][] = [];
+        if (d.date) q.push(['point_in_time', d.date]);
+        if (d.type) q.push(['type', d.type]);
+        addFact(mpId, 'debate_record', d.title, 'prs', revId, 'normal', q);
+        facts++;
+      }
+      if (mp.bio?.text) {
+        addFact(mpId, 'bio', mp.bio.text, 'wikipedia', revId);
+        facts++;
+      }
+
       // relationships (sourced graph edges)
       const repId = (
         tx
@@ -323,6 +464,19 @@ async function main(): Promise<void> {
             scoreType: 'accountability_score',
             value: mp.accountability_score,
             breakdown: { source: 'v1 performance - integrity' },
+            computedAt: now,
+            computedFromRevisionId: revId,
+          })
+          .run();
+
+      // inferences: derived projection (arithmetic over facts; never a primary, sourced fact)
+      if (mp.inferences?.length)
+        tx.insert(t.scores)
+          .values({
+            subjectId: mpId,
+            scoreType: 'inferences',
+            value: mp.inference_count ?? mp.inferences.length,
+            breakdown: mp.inferences,
             computedAt: now,
             computedFromRevisionId: revId,
           })

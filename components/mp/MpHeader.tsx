@@ -5,6 +5,7 @@ import { getParty, type Mp } from '@/lib/data';
 import { scoreBand } from '@/lib/format';
 import { ScoreGauge } from '@/components/ScoreGauge';
 import { PartySymbol } from '@/components/PartySymbol';
+import { Portrait } from '@/components/Portrait';
 
 const PHOTO_SRC: Record<NonNullable<Mp['photo_source']>, string> = {
   sansad: 'Lok Sabha Secretariat',
@@ -13,15 +14,6 @@ const PHOTO_SRC: Record<NonNullable<Mp['photo_source']>, string> = {
   inc: 'inc.in',
   bjp: 'bjp.org',
 };
-
-const initials = (n: string) =>
-  n
-    .replace(/^(Shri|Smt|Dr|Adv|Prof)\.?\s+/i, '')
-    .split(/\s+/)
-    .map((w) => w[0])
-    .slice(0, 2)
-    .join('')
-    .toUpperCase();
 
 function Flag({ token, children }: { token?: string; children: ReactNode }) {
   return (
@@ -69,17 +61,12 @@ export function MpHeader({ mp }: { mp: Mp }) {
 
       <div className='mt-8 grid items-start gap-x-8 gap-y-6 sm:grid-cols-[auto_1fr] lg:grid-cols-[auto_1fr_auto]'>
         <div className='border-border bg-surface-2 shrink-0 rounded-lg border p-3'>
-          {mp.photo_hotlink ? (
-            <img
-              src={mp.photo_hotlink}
-              alt={mp.mp_name}
-              className='border-ink aspect-[4/5] w-32 border object-cover object-top grayscale-[12%] sm:w-36'
-            />
-          ) : (
-            <div className='border-ink text-ink-soft grid aspect-[4/5] w-32 place-items-center border font-mono text-2xl sm:w-36'>
-              {initials(mp.mp_name)}
-            </div>
-          )}
+          <Portrait
+            src={mp.photo_hotlink}
+            name={mp.mp_name}
+            imgClassName='border-ink aspect-[4/5] w-32 border object-cover object-top grayscale-[12%] sm:w-36'
+            fallbackClassName='border-ink text-ink-soft grid aspect-[4/5] w-32 place-items-center border font-mono text-2xl sm:w-36'
+          />
           {mp.photo_source && (
             <p className='eyebrow text-ink-soft mt-2 text-center text-[9px]'>
               Portrait · {PHOTO_SRC[mp.photo_source]}
@@ -100,12 +87,34 @@ export function MpHeader({ mp }: { mp: Mp }) {
             />
             {mp.party_full}
           </p>
-          <p className='text-ink-soft mt-3 max-w-[46ch] leading-relaxed text-pretty'>
-            <span className='text-ink font-medium'>{mp.mp_name}</span> represents {mp.pc_name},{' '}
-            {mp.eci_state} in the 18th Lok Sabha
-            {mp.minister ? ' and serves as a Union Minister' : ''}. Every figure below is drawn from
-            the <span className='mark-accent'>public record</span> and links back to its source.
-          </p>
+          {mp.bio?.text ? (
+            <>
+              <p className='text-ink-soft mt-3 max-w-[60ch] leading-relaxed text-pretty'>
+                {mp.bio.text}
+              </p>
+              <p className='text-ink-soft mt-1.5 text-xs'>
+                From{' '}
+                <a
+                  href={mp.bio.url}
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  className='hover:text-accent underline-offset-2 transition-colors hover:underline motion-reduce:transition-none'
+                >
+                  Wikipedia
+                </a>{' '}
+                · {mp.bio.license} · every figure below traces to the{' '}
+                <span className='mark-accent'>public record</span>.
+              </p>
+            </>
+          ) : (
+            <p className='text-ink-soft mt-3 max-w-[46ch] leading-relaxed text-pretty'>
+              <span className='text-ink font-medium'>{mp.mp_name}</span> represents {mp.pc_name},{' '}
+              {mp.eci_state} in the 18th Lok Sabha
+              {mp.minister ? ' and serves as a Union Minister' : ''}. Every figure below is drawn
+              from the <span className='mark-accent'>public record</span> and links back to its
+              source.
+            </p>
+          )}
           <div className='mt-4 flex flex-wrap gap-2'>
             {mp.nota_gt_margin && (
               <Flag token='var(--color-warning)'>

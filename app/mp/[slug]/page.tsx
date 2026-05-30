@@ -4,8 +4,11 @@ import { MpHeader } from '@/components/mp/MpHeader';
 import { ElectionSection } from '@/components/mp/ElectionSection';
 import { WorkSection } from '@/components/mp/WorkSection';
 import { WealthSection } from '@/components/mp/WealthSection';
+import { AffidavitSection } from '@/components/mp/AffidavitSection';
 import { MpladsSection } from '@/components/mp/MpladsSection';
 import { PartyFundingSection } from '@/components/mp/PartyFundingSection';
+import { InferencesSection } from '@/components/mp/InferencesSection';
+import { ContactSection } from '@/components/mp/ContactSection';
 import { SourcesSection } from '@/components/mp/SourcesSection';
 import { MpInfobox } from '@/components/mp/MpInfobox';
 
@@ -36,8 +39,11 @@ export default async function MpPage({ params }: { params: Promise<{ slug: strin
           <ElectionSection mp={m} />
           <WorkSection mp={m} />
           <WealthSection mp={m} />
+          <AffidavitSection mp={m} />
           <MpladsSection mp={m} />
           <PartyFundingSection party={party} />
+          <InferencesSection mp={m} />
+          <ContactSection mp={m} />
           <SourcesSection />
         </div>
         <MpInfobox mp={m} />

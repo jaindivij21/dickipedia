@@ -24,6 +24,24 @@ axiosRetry(client, {
 
 export const sleep = (ms: number): Promise<void> => new Promise((r) => setTimeout(r, ms));
 
+// liveness check for a hotlinked asset: 200 + image content-type. Raw axios (no retry) so a dead
+// link fails fast instead of burning the retry budget. Used to drop 404 portrait URLs before record.
+export async function imageOk(url: string, timeout = 12000): Promise<boolean> {
+  try {
+    const res = await axios.head(url, {
+      timeout,
+      maxRedirects: 5,
+      validateStatus: () => true,
+      headers: { 'User-Agent': UA },
+    });
+    if (res.status !== 200) return false;
+    const ct = String(res.headers['content-type'] ?? '');
+    return ct === '' || ct.startsWith('image/');
+  } catch {
+    return false;
+  }
+}
+
 async function cachePath(url: string): Promise<URL> {
   const h = createHash('sha1').update(url).digest('hex').slice(0, 16);
   await mkdir(CACHE_DIR, { recursive: true });

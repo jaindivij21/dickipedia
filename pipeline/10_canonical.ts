@@ -206,20 +206,20 @@ async function main(): Promise<void> {
     const deduction = Math.min(crim * 6, 36); // declared cases (as self-declared); deep-pass refines by severity
     const score = performance != null ? clamp(performance - deduction) : null;
 
-    // portrait: sansad where present, else the in-registry fallback chain, else the party sites
+    // portrait: only validated, reliably-served hosts (PRS mptrack -> MyNeta -> party sites). All
+    // photos.json URLs are HEAD-checked live. sansad's image host is unreachable, so it is excluded;
+    // an MP with no live source resolves to null and the UI falls back to initials (last resort).
     const fb = photos?.by_pc_id?.[s.pc_id] ?? {};
-    const photoUrl = san?.photo_hotlink || fb.prs || fb.myneta || fb.inc || fb.bjp || null;
-    const photoSource = san?.photo_hotlink
-      ? 'sansad'
-      : fb.prs
-        ? 'prs'
-        : fb.myneta
-          ? 'myneta'
-          : fb.inc
-            ? 'inc'
-            : fb.bjp
-              ? 'bjp'
-              : null;
+    const photoUrl = fb.prs || fb.myneta || fb.inc || fb.bjp || null;
+    const photoSource = fb.prs
+      ? 'prs'
+      : fb.myneta
+        ? 'myneta'
+        : fb.inc
+          ? 'inc'
+          : fb.bjp
+            ? 'bjp'
+            : null;
     photoCov[photoSource ?? 'none']++;
 
     // party rollup

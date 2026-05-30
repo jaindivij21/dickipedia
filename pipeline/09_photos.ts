@@ -4,7 +4,7 @@
 // keyed by pc_id so 10_canonical does a clean exact lookup (sansad -> prs -> myneta -> inc -> bjp).
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchText, sleep } from './lib/http.ts';
+import { fetchText, imageOk, sleep } from './lib/http.ts';
 import { looseConstituency, normState, tokenSortRatio } from './lib/text.ts';
 import type { EciSpineRow, Provenance } from './lib/types.ts';
 
@@ -26,6 +26,20 @@ const BJP_URL = `${BJP_ORIGIN}/lok-sabha-members`;
 
 const CONST_FUZZY = 90;
 const NAME_FUZZY = 80;
+const HEAD_CONCURRENCY = 8;
+
+async function mapLimit<T, R>(items: T[], limit: number, fn: (t: T) => Promise<R>): Promise<R[]> {
+  const out: R[] = new Array(items.length);
+  let i = 0;
+  const worker = async (): Promise<void> => {
+    while (i < items.length) {
+      const idx = i++;
+      out[idx] = await fn(items[idx]);
+    }
+  };
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
+  return out;
+}
 
 interface SpineMatch {
   state?: string;
@@ -35,9 +49,6 @@ interface SpineMatch {
 interface PrsRow extends SpineMatch {
   photo: string;
   profile_url: string;
-}
-interface SansadRow extends SpineMatch {
-  photo_hotlink?: string;
 }
 interface MynetaRow extends SpineMatch {
   candidate_id: number;
@@ -210,51 +221,52 @@ async function scrapeBjp(targets: EciSpineRow[]): Promise<{ pc_id: string; photo
 
 async function main(): Promise<void> {
   const spine = await load<EciSpineRow[]>('eci_spine.json');
-  const sansad = await load<SansadRow[]>('sansad_18th.json');
   const myneta = await load<MynetaRow[]>('myneta_2024.json');
-
-  const sansadIdx = buildIdx(sansad);
-  const sansadGap = spine.filter((s) => {
-    const m = resolve(s, sansadIdx);
-    return !(m && m.photo_hotlink);
-  });
-  console.log(`Sansad portrait gap: ${sansadGap.length}`);
 
   console.log('Scraping PRS mptrack (paginated)...');
   const prs = await scrapePrs();
   const prsIdx = buildIdx(prs);
-  console.log(`  PRS photos: ${prs.length}`);
+  console.log(`  PRS rows: ${prs.length}`);
 
   const byPcId: Record<string, PcPhoto> = {};
-  for (const s of spine) {
-    const m = resolve(s, prsIdx);
-    if (m) (byPcId[s.pc_id] ??= {}).prs = m.photo;
-  }
 
-  // MyNeta backstop for the sansad gap (candidate ids already resolved by step 08)
+  // PRS is primary, but some mptrack listings link a profile_image that 404s (e.g. by-election
+  // seats) — validate every URL and keep only the live ones; the rest fall to the MyNeta backstop.
+  const prsCandidates = spine
+    .map((s) => ({ s, m: resolve(s, prsIdx) }))
+    .filter((x): x is { s: EciSpineRow; m: PrsRow } => Boolean(x.m?.photo));
+  const prsLive = await mapLimit(prsCandidates, HEAD_CONCURRENCY, async ({ s, m }) => {
+    const ok = await imageOk(m.photo);
+    if (ok) (byPcId[s.pc_id] ??= {}).prs = m.photo;
+    return ok;
+  });
+  console.log(`  PRS images live: ${prsLive.filter(Boolean).length}/${prsCandidates.length}`);
+
+  // MyNeta backstop (validated) for every MP without a live PRS portrait
   const mynetaIdx = buildIdx(myneta);
-  const mnTargets = sansadGap
+  const mnTargets = spine
+    .filter((s) => !byPcId[s.pc_id]?.prs)
     .map((s) => ({ s, m: resolve(s, mynetaIdx) }))
     .filter((x): x is { s: EciSpineRow; m: MynetaRow } => Boolean(x.m?.candidate_id));
-  console.log(`Fetching MyNeta candidate photos for ${mnTargets.length} gap MPs...`);
+  console.log(`Fetching MyNeta candidate photos for ${mnTargets.length} non-PRS MPs...`);
   let mnCount = 0;
   for (const { s, m } of mnTargets) {
     const photo = mynetaPhoto(await fetchText(MN_CANDIDATE(m.candidate_id)));
     await sleep(MN_SLEEP_MS);
-    if (photo) {
+    if (photo && (await imageOk(photo))) {
       (byPcId[s.pc_id] ??= {}).myneta = photo;
       mnCount++;
     }
   }
   console.log(`  MyNeta photos: ${mnCount}`);
 
-  // residual gap after sansad + PRS + MyNeta → only then attempt the party sites
-  const residual = sansadGap.filter((s) => !byPcId[s.pc_id]?.prs && !byPcId[s.pc_id]?.myneta);
-  console.log(`Residual gap after in-registry trio: ${residual.length}`);
+  // residual gap after PRS + MyNeta → only then attempt the party sites (validated)
+  const residual = spine.filter((s) => !byPcId[s.pc_id]?.prs && !byPcId[s.pc_id]?.myneta);
+  console.log(`Residual gap after PRS + MyNeta: ${residual.length}`);
   const inc = await scrapeInc(residual);
   const bjp = await scrapeBjp(residual);
-  for (const r of inc) (byPcId[r.pc_id] ??= {}).inc = r.photo;
-  for (const r of bjp) (byPcId[r.pc_id] ??= {}).bjp = r.photo;
+  for (const r of inc) if (await imageOk(r.photo)) (byPcId[r.pc_id] ??= {}).inc = r.photo;
+  for (const r of bjp) if (await imageOk(r.photo)) (byPcId[r.pc_id] ??= {}).bjp = r.photo;
   console.log(`  INC photos: ${inc.length} · BJP photos: ${bjp.length}`);
 
   const stillUncovered = residual.filter((s) => !byPcId[s.pc_id]?.inc && !byPcId[s.pc_id]?.bjp);
@@ -293,7 +305,14 @@ async function main(): Promise<void> {
       {
         by_pc_id: byPcId,
         _provenance: prov,
-        _meta: { prs: prs.length, myneta: mnCount, inc: inc.length, bjp: bjp.length },
+        _meta: {
+          prs: prsLive.filter(Boolean).length,
+          myneta: mnCount,
+          inc: inc.length,
+          bjp: bjp.length,
+          covered: Object.keys(byPcId).length,
+          total: spine.length,
+        },
       },
       null,
       2,

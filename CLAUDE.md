@@ -70,9 +70,15 @@ npm run format         # prettier --write
 npm run format:check   # prettier --check (CI)
 
 # data pipeline (in order)
+# Phase 1 — spine + base canonical + crosswalk (drives the deep pass)
 npm run eci && npm run prs && npm run sansad && npm run myneta \
-  && npm run wealth && npm run bonds && npm run mplads && npm run canonical
-npm run seed           # build local SQLite from data/canonical
+  && npm run wealth && npm run bonds && npm run mplads \
+  && npm run photos && npm run party_symbols && npm run canonical
+# Phase 2 — deep record, crosswalk-driven (throttled + disk-cached + resumable)
+npm run myneta_deep && npm run myneta_history && npm run prs_mptrack \
+  && npm run sansad_api && npm run wikipedia && npm run party_contact \
+  && npm run merge && npm run inferences   # 17_merge folds deep raw into mps.json; 18 computes inferences
+npm run seed           # build local SQLite from data/canonical (facts + qualifiers + inferences projection)
 npm run db:generate    # regenerate Drizzle migrations after schema.ts edits
 ```
 

@@ -48,6 +48,134 @@ export interface Mp {
   mplads_works_recommended: number | null;
   party_bond_total: number | null;
   accountability_score: number | null;
+  // deep record (steps 11-18): nested, fully typed, each may be null/empty for partial coverage
+  bio: Bio | null;
+  assets_history: AssetYear[];
+  assets_latest: number | null;
+  assets_earliest_year: number | null;
+  assets_history_pct: number | null;
+  criminal_detail: CriminalDetail | null;
+  assets_breakdown: AssetBreakdown | null;
+  liabilities_detail: LiabilitiesDetail | null;
+  income: IncomeDetail | null;
+  contracts: Contract[];
+  contact: Contact;
+  committees: Committee[] | null;
+  prs_detail: PrsDetail | null;
+  pending_cases: number | null;
+  convicted_cases: number | null;
+  charges_framed_count: number | null;
+  inferences: Inference[];
+  inference_count: number;
+  top_inference_severity: InferenceSeverity | null;
+}
+
+export interface Bio {
+  text: string;
+  url: string;
+  license: string;
+  title: string;
+}
+export interface AssetYear {
+  year: number;
+  total_assets: number | null;
+  source_url: string;
+}
+export interface CriminalCase {
+  serial: number | null;
+  fir_no: string | null;
+  case_no: string | null;
+  court: string | null;
+  sections: string[];
+  other_acts: string | null;
+  charges_framed: boolean;
+  status: 'pending' | 'convicted';
+}
+export interface IpcCharge {
+  count: number;
+  description: string;
+  section: string;
+}
+export interface CriminalDetail {
+  count: number;
+  ipc_summary: IpcCharge[];
+  pending: CriminalCase[];
+  convicted: CriminalCase[];
+}
+export interface ValueLine {
+  category: string;
+  value: number | null;
+}
+export interface AssetBreakdown {
+  movable_total: number | null;
+  immovable_total: number | null;
+  movable: ValueLine[];
+  immovable: ValueLine[];
+}
+export interface LiabilitiesDetail {
+  total: number | null;
+  lines: ValueLine[];
+}
+export interface IncomeSource {
+  person: string;
+  source: string;
+}
+export interface ItrRow {
+  person: string;
+  fy: string;
+  income: number | null;
+}
+export interface IncomeDetail {
+  sources: IncomeSource[];
+  itr: ItrRow[];
+}
+export interface Contract {
+  party: string;
+  detail: string;
+}
+export interface Social {
+  platform: string;
+  url: string;
+}
+export interface Contact {
+  emails: string[];
+  phones: string[];
+  address: string | null;
+  socials: Social[];
+}
+export interface Committee {
+  name: string;
+  role: string | null;
+}
+export interface PrsMetric {
+  value: number | null;
+  national_avg: number | null;
+  state_avg: number | null;
+}
+export interface AttendanceMetric extends PrsMetric {
+  sessions: { session: string; pct: number | null }[];
+}
+export interface DebateTitle {
+  date: string | null;
+  title: string;
+  type: string | null;
+}
+export interface PrsDetail {
+  url: string;
+  attendance: AttendanceMetric;
+  debates: PrsMetric;
+  questions: PrsMetric;
+  pmbs: PrsMetric;
+  debate_titles: DebateTitle[];
+}
+export type InferenceSeverity = 'info' | 'notable' | 'flag' | 'extreme';
+export interface Inference {
+  key: string;
+  severity: InferenceSeverity;
+  headline: string;
+  detail: string;
+  numbers: Record<string, number | string | null>;
+  sources: string[];
 }
 
 export const slugify = (s: string) =>

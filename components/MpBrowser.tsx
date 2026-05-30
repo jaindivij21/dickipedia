@@ -5,6 +5,7 @@ import { Search, ChevronDown, ChevronLeft, ChevronRight, X } from 'lucide-react'
 import { pct, rupeeCr, scoreBand, colorVar } from '@/lib/format';
 import type { SlimMp } from '@/lib/data';
 import { PartySymbol } from '@/components/PartySymbol';
+import { Portrait } from '@/components/Portrait';
 
 type Sort = 'score-asc' | 'score-desc' | 'cases-desc' | 'assets-desc' | 'funds-asc' | 'name';
 type Cases = 'all' | 'has' | 'none';
@@ -20,14 +21,6 @@ const SORTS: { v: Sort; label: string }[] = [
   { v: 'funds-asc', label: 'Lowest fund use' },
   { v: 'name', label: 'A–Z by name' },
 ];
-
-const initials = (s: string) =>
-  s
-    .split(/\s+/)
-    .slice(0, 2)
-    .map((w) => w[0])
-    .join('')
-    .toUpperCase();
 
 function pageWindow(cur: number, total: number): (number | string)[] {
   const keep = new Set([1, total, cur, cur - 1, cur + 1].filter((n) => n >= 1 && n <= total));
@@ -353,17 +346,12 @@ export function MpBrowser({
 
                 {/* Portrait + identity (grows so the stat strip pins to the bottom and aligns across a row) */}
                 <div className='flex flex-1 items-start gap-4 px-4 pt-3.5 pb-4'>
-                  {m.photo ? (
-                    <img
-                      src={m.photo}
-                      alt=''
-                      className='border-ink h-16 w-14 shrink-0 border object-cover object-top grayscale-[15%] transition-[filter] group-hover:grayscale-0 motion-reduce:transition-none'
-                    />
-                  ) : (
-                    <div className='border-ink text-ink-soft grid h-16 w-14 shrink-0 place-items-center border font-mono text-base'>
-                      {initials(m.name)}
-                    </div>
-                  )}
+                  <Portrait
+                    src={m.photo}
+                    name={m.name}
+                    imgClassName='border-ink h-16 w-14 shrink-0 border object-cover object-top grayscale-[15%] transition-[filter] group-hover:grayscale-0 motion-reduce:transition-none'
+                    fallbackClassName='border-ink text-ink-soft grid h-16 w-14 shrink-0 place-items-center border font-mono text-base'
+                  />
                   <div className='min-w-0 flex-1'>
                     <h3 className='group-hover:text-accent line-clamp-2 font-serif text-[1.0625rem] leading-[1.15] font-bold transition-colors'>
                       {m.name}

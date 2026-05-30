@@ -3,7 +3,7 @@ import type { Mp } from '@/lib/data';
 import { rupeeCr } from '@/lib/format';
 import { DataSection } from '@/components/mp/DataSection';
 import { StatCell, StatGrid } from '@/components/StatCell';
-import { GrowthBar } from '@/components/charts';
+import { GrowthBar, WealthTimeSeries } from '@/components/charts';
 
 export function WealthSection({ mp }: { mp: Mp }) {
   const hasAffidavit =
@@ -11,6 +11,12 @@ export function WealthSection({ mp }: { mp: Mp }) {
   if (!hasAffidavit) return null;
 
   const cases = mp.criminal_cases;
+  const series = (mp.assets_history ?? []).filter(
+    (p): p is { year: number; total_assets: number; source_url: string } => p.total_assets != null,
+  );
+  const trend = series.map((p) => ({ year: p.year, total: p.total_assets }));
+  const hasTrend = trend.length >= 2;
+  const overallPct = mp.assets_history_pct;
   const hasGrowth =
     mp.assets_2019 != null && mp.assets_2024 != null && mp.wealth_pct_increase != null;
 
@@ -42,28 +48,47 @@ export function WealthSection({ mp }: { mp: Mp }) {
           }
           sub='self-declared'
         />
-        {hasGrowth && (
+        {hasTrend && overallPct != null && (
           <StatCell
             icon={<TrendingUp size={12} />}
-            label='Assets 2019→2024'
-            figure={`+${Math.round(mp.wealth_pct_increase as number)}%`}
+            label={`Assets ${trend[0].year}→${trend[trend.length - 1].year}`}
+            figure={`${overallPct >= 0 ? '+' : ''}${overallPct.toLocaleString('en-IN')}%`}
+            token={overallPct >= 300 ? 'var(--color-warning)' : undefined}
           />
         )}
       </StatGrid>
 
-      {hasGrowth && (
+      {hasTrend ? (
         <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>
-          <p className='eyebrow mb-3'>Declared assets · 2019 vs 2024</p>
-          <GrowthBar from={mp.assets_2019 as number} to={mp.assets_2024 as number} />
-          <p className='text-ink-soft mt-3 text-xs leading-snug'>
-            Declared assets grew from {rupeeCr(mp.assets_2019)} (2019 affidavit) to{' '}
-            {rupeeCr(mp.assets_2024)} (2024 affidavit) — a change of{' '}
-            <span className='text-ink font-medium'>
-              +{Math.round(mp.wealth_pct_increase as number)}%
-            </span>
+          <p className='eyebrow mb-3'>
+            Declared assets across {trend.length} sworn affidavits ·{' '}
+            {trend.map((t) => t.year).join(' → ')}
+          </p>
+          <WealthTimeSeries data={trend} />
+          <p className='text-ink-soft mt-3 max-w-[68ch] text-xs leading-snug'>
+            Each point is a sworn affidavit filed with the Election Commission. Declared assets
+            moved from {rupeeCr(trend[0].total)} ({trend[0].year}) to{' '}
+            {rupeeCr(trend[trend.length - 1].total)} ({trend[trend.length - 1].year})
+            {overallPct != null && (
+              <>
+                {' '}
+                — a change of{' '}
+                <span className='text-ink font-medium'>
+                  {overallPct >= 0 ? '+' : ''}
+                  {overallPct.toLocaleString('en-IN')}%
+                </span>
+              </>
+            )}
             .
           </p>
         </div>
+      ) : (
+        hasGrowth && (
+          <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>
+            <p className='eyebrow mb-3'>Declared assets · 2019 vs 2024</p>
+            <GrowthBar from={mp.assets_2019 as number} to={mp.assets_2024 as number} />
+          </div>
+        )
       )}
     </DataSection>
   );
