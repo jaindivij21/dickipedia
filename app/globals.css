@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-surface: #e7e5e4;
+  --color-surface-2: #edebea;
+  --color-ink: #1e2938;
+  --color-ink-soft: #5b6470;
+  --color-primary: #006666;
+  --color-primary-ink: #004c4c;
+  --color-success: #00a63d;
+  --color-warning: #fe9900;
+  --color-danger: #ff2157;
+  --font-display: var(--font-space-mono), ui-monospace, monospace;
+  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+}
+
+:root {
+  /* neumorphic shadow pair derived from the warm-grey surface */
+  --neu-light: #fbfbfa;
+  --neu-dark: #c2c0bf;
+}
+
+html, body {
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer utilities {
+  .neu-raised   { box-shadow: 6px 6px 14px var(--neu-dark), -6px -6px 14px var(--neu-light); }
+  .neu-raised-sm{ box-shadow: 4px 4px 9px var(--neu-dark), -4px -4px 9px var(--neu-light); }
+  .neu-inset    { box-shadow: inset 5px 5px 10px var(--neu-dark), inset -5px -5px 10px var(--neu-light); }
+  .neu-inset-sm { box-shadow: inset 3px 3px 6px var(--neu-dark), inset -3px -3px 6px var(--neu-light); }
+  .neu-flat     { box-shadow: 2px 2px 5px var(--neu-dark), -2px -2px 5px var(--neu-light); }
+  .neu-press    { transition: box-shadow .16s ease, transform .12s ease; }
+  .neu-press:hover  { box-shadow: 7px 7px 16px var(--neu-dark), -7px -7px 16px var(--neu-light); }
+  .neu-press:active { box-shadow: inset 4px 4px 9px var(--neu-dark), inset -4px -4px 9px var(--neu-light); transform: translateY(1px); }
+  .text-balance { text-wrap: balance; }
+}
+
+::selection { background: color-mix(in srgb, var(--color-primary) 25%, transparent); }
