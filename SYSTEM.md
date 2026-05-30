@@ -1,0 +1,47 @@
+# dickipedia — system design & feature roadmap (Wikipedia-faithful)
+
+Keep MediaWiki/Wikimedia's *behaviours*; replace its *infrastructure* with Cloudflare's free tier. See `SCHEMA.md` for the data model.
+
+## System design (per layer)
+
+| Layer | Approach | Wikipedia analog | Cloudflare adaptation |
+|---|---|---|---|
+| **Read (current state)** | `subjects.latest_revision_id` is the only entry point; pages statically generated; infobox **generated from facts**. Never scan history on the hot path. | `page.page_latest` HEAD pointer; parser cache; Varnish edge cache | OpenNext static routes; edge cache + KV/Cache API as object cache; long TTL + explicit purge. D1 only on cache-miss/build. |
+| **Write / edit** | One D1 transaction: INSERT immutable `revision` (+ parent, actor, comment, sha1) + new/changed `facts` (copy-on-write: unchanged re-point) + `fact_sources` + `recent_changes`; repoint `latest_revision_id`; bump `touched_at`. Then recompute score + enqueue secondary updates. **Never UPDATE a fact** — write a new row. | `PageUpdater` → immutable revision → `page_latest` → `DerivedPageDataUpdater` | D1 transaction (step 1, strict); `waitUntil()` for cheap post-response work; **Cloudflare Queues** for heavier fan-out. |
+| **Cache invalidation (purge-on-edit — highest leverage)** | On write to subject X, invalidate **only** X's URL(s) + dependents (leaderboards, relationship counterpart) via `page_dependencies`. | Kafka purge → Varnish PURGE; recursive `templatelinks` purge | `revalidatePath`/`revalidateTag` + cache purge in the write handler; loop over `page_dependencies` rows = hand-rolled recursive purge. Drop Kafka/purged. |
+| **Job queue** | Deferred, idempotent, retry-safe: recompute-score, purge-dependents, reindex-search, recompute-leaderboards; batch to respect free limits. Never run jobs on user reads. | `JobQueue` (refreshLinks, htmlCacheUpdate) + `runJobs.php` cron | **Cloudflare Queues** (retries + DLQ ≈ abandon-after-3) + **Cron Triggers** (cron + `recent_changes` pruning). |
+| **Search** | Reindex-on-edit; full-text need is small for structured facts. | CirrusSearch → Elasticsearch (reindex-on-edit pattern) | D1 **FTS5** over labels/aliases/fact-text, **or** static **Pagefind/FlexSearch** built at revalidate time. **No Elasticsearch.** |
+| **Anti-abuse / validation** | Synchronous gate BEFORE the D1 insert enforcing the invariants in code: public-figure basis set; ≥1 source per fact/relationship; reject free-text accusatory fields; criminal only via self-declared qualifier. Per-actor/IP rate limits. | AbuseFilter (sync, pre-commit) + `$wgRateLimits` + ConfirmEdit CAPTCHA | Validation gate as **code** (you're the only rule author); KV/Durable-Object rate counters; **Turnstile** CAPTCHA. Drop ORES/ML → optional heuristic `review_priority`. |
+| **Patrolling / moderation** | `recent_changes.patrolled` (0/1/2) **is** the solo-dev moderation queue. Community facts land `patrolled=0` (flagged until cleared); allowlisted official imports autopatrol=2. Patrol marks are logged. | RecentChanges + `$wgUseRCPatrol` / NPP; pending-changes | Dynamic `/recent-changes` route over D1; one moderation view filtered `patrolled=0` by `review_priority`. |
+| **Diff / revert / rollback** | Nearly free from append-only design. **Diff** = field-by-field compare of two revisions (exact, better than text diff). **Undo** = new revision restoring prior values (tagged). **Rollback** = collapse a bad actor's run into one restoring revision (gated). Reverts **always add** revisions. | Special:Diff; mw-undo; mw-rollback; mw-reverted tag; 3RR | Pure D1 + app logic; 3RR throttle via KV counters on (actor, subject, window). |
+
+## Feature roadmap
+
+**v1 — read + structured data + history (no accounts):**
+Subject pages (static, infobox from facts) · Statement-model facts (rank + snaktype) · property registry · qualifiers · sources + `fact_sources` (NOT-NULL source) · relationship graph · **immutable revision history** · structured diff · computed scores · purge-on-edit + `page_dependencies` · **BLP-as-code** invariants · search (FTS5/Pagefind).
+
+**v2 — accounts + contributions + transparency:**
+Accounts + registered editing · actor-normalized attribution + Contributions · required immutable edit summaries · **RecentChanges feed** · talk threads (per-subject & per-fact) · watchlist.
+
+**v3 — moderation + governance:**
+Undo/rollback · **patrolling** (0/1/2 + review_priority) · protection (pending-changes default for contentious subjects) · user-rights tiers (computed autoconfirmed/EC + stored patroller/admin) · blocks (actor + partial) · **logging audit trail** · RevisionDelete (surgical field suppression) · soft-delete/archive · redirects/aliases.
+
+**v4 — scale niceties:**
+Echo-style notifications + Thanks · finer functionary tiers (CheckUser/Oversight — deferred for IP-retention privacy) · categories as **typed facet queries** (not manual tags) · public data export/dumps + API.
+
+## Where dickipedia must diverge from Wikipedia (and why)
+1. **Structured facts, not wikitext** → the entire wikitext/Cite-`<ref>`/template/text-blob/external-store/content-model stack is dropped; "content model" = structured Fact; diffs are field-by-field.
+2. **Derived is rebuildable; only revisions + logging are kept forever** (relationship *edges* are sourced source-of-truth).
+3. **Stricter than BLP** → public-record subjects only; source-required; zero platform-authored accusations; criminal data strictly self-declared (deprecated-rank, not deletion, for disputed claims). BLP = enforced code.
+4. **Solo-dev / free-tier** → ~10 D1 tables (drop the 5-table term store, change-dispatch bus, sitelinks, opaque Q/P-id allocator, external blob store); Cloudflare edge/Queues/Cron/Turnstile replace Varnish/Kafka/Elasticsearch/ORES/job-on-web-request.
+5. **Governance simplified** → anon / confirmed / patroller / admin for v1–v3; CheckUser deferred (IP-retention liability); AbuseFilter = code, not a DSL.
+
+## Open decisions to lock before freezing the schema
+1. **Datastore: D1 (truly free, FTS5/JSON1 only) vs Neon (Postgres, richer, paid ceiling).** Rec: **D1** for v1; blob-vs-index split makes later migration low-risk.
+2. **Canonical shape: per-subject versioned JSON blob as truth + rebuildable fact index** (Wikibase-faithful; rec) vs relational rows as truth.
+3. **Copy-on-write granularity:** true `slot_origin` per-fact COW vs snapshot-all-facts-per-revision (simpler; fine at MP scale).
+4. **Best-rank rule** for cyclical self-declared data (new cycle auto-`preferred` vs both `normal` + most-recent `point_in_time`).
+5. **Anonymous/IP editing in v2** (pending-changes + Turnstile) vs accounts-required (avoids IP-retention question).
+6. **Source-quality tiering** (official_dataset > affidavit > news) to power the high-quality-source gate + autopatrol — who curates it.
+7. **i18n scope at v1** (English-only vs multilingual labels without resurrecting the term store).
+8. **Pending-changes default** — all subjects (every anon/new edit reviewed) vs only high-traffic, to keep the solo queue tractable.
