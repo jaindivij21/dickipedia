@@ -9,7 +9,7 @@ You are an expert AI assistant working on **dickipedia**, an open-source, Wikipe
 ## Mission & Legitimacy Invariants (non-negotiable)
 
 1. **Public-record subjects only.** Subjects are sitting/contesting public officials and their public conduct. Never private individuals.
-2. **Every fact is sourced.** Each data point traces to one of six public registries: `eci`, `prs`, `sansad`, `myneta`, `mplads`, `bonds`. The single registry is `lib/sources.ts`.
+2. **Every fact is sourced.** Each data point traces to one of six public registries: `eci`, `prs`, `sansad`, `myneta`, `mplads`, `bonds`. The app-facing source registry is `lib/sources.ts`; the DB-seed source metadata (with `sourceType`) and the `PROPERTIES`/`FACTMAP` maps live in `db/seed.ts`.
 3. **No platform-authored accusations.** The project reports facts and arithmetic and cites them. It never characterises a person ("corrupt", "misappropriated"). Phrase as "declared", "reported by", "as recorded in".
 4. **Criminal data is self-declared.** Reproduced verbatim from sworn ECI affidavits, always labelled "self-declared (pending ≠ convicted)".
 5. **Electoral-bond funding is party-level**, never attributed to an individual MP.
@@ -26,12 +26,11 @@ You are an expert AI assistant working on **dickipedia**, an open-source, Wikipe
 
 Three runtimes share one repo. Know which one you are in before changing files.
 
-- `app/` — App Router routes only. Pages compose components; no business logic.
-- `components/ui/` — presentation primitives, route-agnostic (ScoreGauge, charts, Metric, Section, SourceChip, Stat).
-- `components/mp/` — MP-domain composites (MpCard, MpBrowser→MpFilterBar+MpGrid, detail sections).
-- `components/layout/` — Header, Footer.
-- `lib/` — shared, build-time-safe utilities: `lib/data/` (loaders + cohort aggregates), `lib/format/` (formatters + `scoring.ts`), `lib/sources.ts` (the source registry), `lib/schema-constants.ts` (PROPERTIES + FACTMAP), `lib/text.ts`, `lib/types.ts`.
-- `pipeline/` — numbered scrapers (`01_*`…`10_canonical`). Numbers encode run order. `pipeline/lib/` holds normalisation + a re-export of `lib/format/scoring.ts`.
+- `app/` — App Router routes only. Pages compose components; no business logic. The MP detail route (`app/mp/[slug]/page.tsx`) is a thin composer over `components/mp/*`.
+- `components/` (flat) — route-agnostic primitives: `ScoreGauge.tsx` (ScoreGauge, ScoreChip), `charts.tsx` (Donut, Bar, CompareBar, GrowthBar), `StatCell.tsx` (StatCell, StatGrid), `SourceCredit.tsx`, plus the `MpBrowser.tsx` index composite.
+- `components/mp/` — MP detail composites: `DataSection` + the per-topic sections (`MpHeader`, `ElectionSection`, `WorkSection`, `WealthSection`, `MpladsSection`, `PartyFundingSection`, `SourcesSection`, `MpInfobox`). The masthead/footer live in `app/layout.tsx`.
+- `lib/` — shared, build-time-safe utilities: `lib/data.ts` (canonical loaders, `getParty`, cohort aggregates `AVG_*`), `lib/format.ts` (rupee/percent formatters, `scoreBand`, `colorVar`), `lib/sources.ts` (the app source registry).
+- `pipeline/` — numbered scrapers (`01_*`…`10_canonical`). Numbers encode run order. `pipeline/lib/` holds normalisation helpers (`csv.ts`, `http.ts`, `text.ts` party aliases, `types.ts`). The accountability-score formula is computed inline in `pipeline/10_canonical.ts`.
 - `db/` — `schema.ts` (Wikibase-style: subjects/revisions/facts/fact_sources/relationships/scores), `seed.ts`, `migrations/`.
 - `data/` — `canonical/` (pipeline output, the truth the app reads) + `raw/`. **Never move `data/`**: the pipeline and seed read it through relative `node:fs` URLs.
 
@@ -45,17 +44,17 @@ Three runtimes share one repo. Know which one you are in before changing files.
 
 - **TypeScript strict; no `any`.** Use `unknown` + narrowing. Validate canonical JSON shape before seeding.
 - **No comments.** Code is self-documenting via names, types, and extracted constants. No TODO/FIXME — open a GitHub issue.
-- **DRY.** One home per constant: sources → `lib/sources.ts`; scoring weights → `lib/format/scoring.ts`; properties → `lib/schema-constants.ts`; state aliases → `pipeline/lib/text.ts`.
+- **DRY.** One home per constant: app sources → `lib/sources.ts`; seed `SOURCES`/`PROPERTIES`/`FACTMAP` → `db/seed.ts`; scoring weights & caps → `pipeline/10_canonical.ts`; band thresholds → `lib/format.ts` (`scoreBand`); party aliases → `pipeline/lib/text.ts`.
 - **No magic numbers.** Scoring weights, caps, and repeated marker keys are SCREAMING_CASE constants.
 - **Small files.** Split components over ~150 lines; one section per file.
-- **Tailwind via `@layer components`** for repeated neumorphic compounds (`.neu-card`, `.neu-tile`, `.neu-pill`, `.neu-select`).
+- **Tailwind: inline editorial utilities** (`border border-border`, `bg-surface`, `bg-surface-2`, `divide-border`). Only semantic helpers live in `@layer utilities` in `app/globals.css`: `.eyebrow`, `.rule-top`, `.mark-accent`, `.font-mono`. Do not invent compound classes; the legacy `.neu-*` utilities have been retired.
 - **Functional components, named exports.**
 
 ## Scoring (v1)
 
 Non-ministers with PRS data:
 `score = att·0.25 + clamp(questions/2)·0.20 + clamp(debates·2)·0.15 + clamp(pmbs·25)·0.10 + util·0.30`
-Ministers: `util` only. Integrity deduction: `6` per declared criminal case, capped at `36`. Final score clamped 0–100. All constants live in `lib/format/scoring.ts`; the pipeline imports them. After any scoring change, re-run `npm run canonical` and confirm `data/canonical/mps.json` diff is intended.
+Ministers: `util` only. Integrity deduction: `6` per declared criminal case, capped at `36`. Final score clamped 0–100. All scoring constants are defined inline in `pipeline/10_canonical.ts`; band thresholds live in `lib/format.ts` (`scoreBand`). After any scoring change, re-run `npm run canonical` and confirm `data/canonical/mps.json` diff is intended.
 
 Bands: <34 Poor (danger) · <60 Mediocre (warning) · ≥60 Decent (success) · null → "Not enough data".
 

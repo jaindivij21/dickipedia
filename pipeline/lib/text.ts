@@ -17,6 +17,31 @@ export function normConstituency(s = ''): string {
     .trim();
 }
 
+// looser key that drops the standalone "AND" token so "ANDAMAN AND NICOBAR ISLANDS" (PRS/MyNeta)
+// matches "ANDAMAN NICOBAR ISLANDS" (ECI, where "&" is dropped). Same UT-naming gap as Dadra/Daman.
+export function looseConstituency(s = ''): string {
+  return normConstituency(s)
+    .replace(/\bAND\b/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+const STATE_ALIASES: Record<string, string> = {
+  'NCT OF DELHI': 'DELHI',
+  ORISSA: 'ODISHA',
+  PONDICHERRY: 'PUDUCHERRY',
+  UTTARANCHAL: 'UTTARAKHAND',
+};
+
+export function normState(s = ''): string {
+  const up = stripDiacritics(String(s))
+    .toUpperCase()
+    .replace(/[^A-Z ]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  return STATE_ALIASES[up] || up;
+}
+
 export function normName(s = ''): string {
   return stripDiacritics(s)
     .toUpperCase()
@@ -64,4 +89,35 @@ export function tokenSortRatio(a: string, b: string): number {
   const d = distance(x, y);
   const max = Math.max(x.length, y.length) || 1;
   return Math.round((1 - d / max) * 100);
+}
+
+// Sansad publishes contact as "x[at]gmail[dot]com" / "x (at) gmail (dot) com" to defeat scrapers.
+export function deobfuscateContact(s = ''): string {
+  return String(s)
+    .replace(/\s*[[(]\s*at\s*[\])]\s*/gi, '@')
+    .replace(/\s*[[(]\s*dot\s*[\])]\s*/gi, '.')
+    .replace(/\s+at\s+/gi, '@')
+    .replace(/\s+dot\s+/gi, '.')
+    .trim();
+}
+
+// Propose a PRS mptrack slug (lower-cased, hyphenated, honorifics dropped). The 13_prs_mptrack
+// listing scrape is authoritative; this is only the fallback guess.
+export function slugifyPrs(name = ''): string {
+  return normName(name)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+// Ranked English-Wikipedia title guesses for an MP, honorific-stripped, with disambiguators.
+export function wikiTitleCandidates(name = ''): string[] {
+  const cleaned = normName(name);
+  if (!cleaned) return [];
+  const titleCased = cleaned
+    .toLowerCase()
+    .split(' ')
+    .map((w) => (w ? w[0].toUpperCase() + w.slice(1) : w))
+    .join(' ');
+  return [titleCased, `${titleCased} (politician)`, `${titleCased} (Indian politician)`];
 }

@@ -53,6 +53,12 @@ const SOURCES: Record<string, { publisher: string; url: string; sourceType: stri
     url: 'https://www.eci.gov.in/',
     sourceType: 'official_dataset',
   },
+  wikimedia: {
+    publisher:
+      'Wikimedia Commons (per-file open licence: CC0 / CC BY-SA / Public domain / GODL-India)',
+    url: 'https://commons.wikimedia.org/wiki/Category:Symbols_of_political_parties_in_India',
+    sourceType: 'document',
+  },
 };
 
 const PROPERTIES: [string, string, string][] = [
@@ -79,6 +85,7 @@ const PROPERTIES: [string, string, string][] = [
   ['mplads_utilisation_pct', 'percent', 'MPLADS utilisation %'],
   ['mplads_works_completed', 'quantity', 'MPLADS works completed'],
   ['party_bond_total', 'quantity', 'Party electoral-bond income (Rs)'],
+  ['party_symbol', 'string', 'Election symbol'],
   ['represents', 'entity-ref', 'Represents (constituency)'],
   ['member_of', 'entity-ref', 'Member of (party)'],
 ];
@@ -115,6 +122,10 @@ async function main(): Promise<void> {
   migrate(db, { migrationsFolder: MIGRATIONS });
 
   const mps = JSON.parse(await readFile(new URL('mps.json', CANON), 'utf8')) as any[];
+  const parties = JSON.parse(await readFile(new URL('parties.json', CANON), 'utf8')) as any[];
+  const symbolByCode = new Map<string, string>(
+    parties.filter((p) => p.symbol).map((p) => [p.code as string, p.symbol as string]),
+  );
   const propDatatype = new Map(PROPERTIES.map((p) => [p[0], p[1]]));
 
   db.transaction((tx) => {
@@ -206,6 +217,7 @@ async function main(): Promise<void> {
 
     let facts = 0,
       rels = 0;
+    const partySymbolSeeded = new Set<number>();
     for (const mp of mps) {
       const mpSlug = `${slugify(mp.mp_name)}-${slugify(mp.pc_name)}`;
       const mpId = ensureSubject(
@@ -291,9 +303,17 @@ async function main(): Promise<void> {
         rels++;
       }
 
-      // party-level fact
+      // party-level facts (bond total per existing behaviour; election symbol once per party)
       if (partyId && mp.party_bond_total != null)
         addFact(partyId, 'party_bond_total', mp.party_bond_total, 'bonds', revId);
+      if (partyId && !partySymbolSeeded.has(partyId)) {
+        partySymbolSeeded.add(partyId);
+        const sym = symbolByCode.get(mp.party);
+        if (sym) {
+          addFact(partyId, 'party_symbol', sym, 'wikimedia', revId);
+          facts++;
+        }
+      }
 
       // score
       if (mp.accountability_score != null)

@@ -19,67 +19,38 @@
 }
 
 :root {
-  /* SVG chart track / fill (gauge, donut) */
-  --neu-dark: #e5e7eb;
-  --neu-light: #ffffff;
+  /* SVG chart track stroke (gauge half-arc, donut ring) */
+  --color-track: #e5e7eb;
 }
 
-html,
-body {
-  background: var(--color-bg);
-  color: var(--color-ink);
-  font-family: var(--font-serif);
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-}
+@layer base {
+  html,
+  body {
+    background: var(--color-bg);
+    color: var(--color-ink);
+    font-family: var(--font-serif);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
 
-h1,
-h2,
-h3,
-h4 {
-  font-family: var(--font-serif);
-  letter-spacing: -0.012em;
-  line-height: 1.12;
-}
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-serif);
+    letter-spacing: -0.012em;
+    line-height: 1.12;
+  }
 
-::placeholder {
-  color: var(--color-ink-soft);
-  opacity: 1;
+  ::placeholder {
+    color: var(--color-ink-soft);
+    opacity: 1;
+  }
 }
 
 @layer utilities {
-  /* Editorial: structure via hairline rules + restraint, no soft shadows. */
-  .neu-raised {
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-  }
-  .neu-raised-sm {
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-  }
-  .neu-inset {
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-  }
-  .neu-inset-sm {
-    background: var(--color-surface-2);
-  }
-  .neu-flat {
-    border: 1px solid var(--color-border);
-  }
-  .neu-press {
-    transition:
-      background-color 0.15s ease,
-      border-color 0.15s ease;
-  }
-  .neu-press:hover {
-    background: #faf9f7;
-    border-color: #d1d5db;
-  }
-  .field {
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-  }
+  /* Semantic editorial helpers. Structural surfaces use inline Tailwind
+     (border border-border / bg-surface / bg-surface-2). */
   .rule-top {
     border-top: 2px solid var(--color-rule);
   }
@@ -95,17 +66,8 @@ h4 {
     background: linear-gradient(transparent 60%, rgba(185, 28, 28, 0.2) 60%);
     padding: 0 0.04em;
   }
-  .text-balance {
-    text-wrap: balance;
-  }
   .font-mono {
     font-family: var(--font-mono);
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .neu-press {
-    transition: none;
   }
 }
 

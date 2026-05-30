@@ -66,18 +66,23 @@ the detail header, the margin). "must" = non-negotiable; "should" = recommended.
   periodical issue line: `VOLUME I · 18TH LOK SABHA · 543 RECORDS · 2024`,
   `Featured record · the lowest score on file`, `Record №{pc_id} · 18th Lok Sabha`,
   `Contents`, `At a glance`. Record/file ids are mono (`№{n}`, `RECORDS x–y OF n`).
-- The eyebrow + rule IS the section header. Do NOT use icon-in-a-chip headers
-  (a lucide glyph in a rounded box beside a title); icons survive only inline in flags,
-  bars, and margin rows.
+- On the home and index, the eyebrow + rule IS the section header; no icon chips there.
+- On the data-dense MP detail page, a section header pairs the mono `.eyebrow` kicker with a
+  serif H2 title and a single hairline-framed icon tile (a lucide glyph in a `rounded-lg`
+  `border-border` `bg-surface-2` tile, §6 radius scale) — an intentional richness affordance.
+  Keep section icons monochrome ink, one per section; elsewhere icons stay inline in flags,
+  bars, stat-tile labels, and margin rows.
 
 ### 2. The rule hangs the type (rule/eyebrow rhythm)
 
 - A zone heading MUST hang off a 2px ink top rule: `.rule-top` + `pt-3` (eyebrow) or
   `pt-6` (oversized headline). 2px ink rules open zones; 1px `border-border` hairlines
-  divide content WITHIN a zone (stat strips, finding lists, info rows, and grid mortar via
-  `gap-px` on `bg-border`). Never mix the weights; never box a header in a surface-2 strip
-  or a rounded card.
-- Inter-zone spacing is generous: `mt-16 sm:mt-20` (home), `mt-10` (detail sections).
+  divide content WITHIN a zone (finding lists, info rows). On the home/index, never box a
+  header in a surface-2 strip or a rounded card. On the MP detail page, section CONTENT may
+  sit in `rounded-lg` `border-border` panels (charts, comparison strips) and separated
+  `rounded-lg` stat tiles (`grid gap-3`, hover `bg-surface-2`) for richness — the header
+  itself still hangs off the 2px rule.
+- Inter-zone spacing is generous: `mt-16 sm:mt-20` (home), `mt-14` (detail sections).
 
 ### 3. The single-accent rule (accent budget)
 
@@ -94,7 +99,11 @@ the detail header, the margin). "must" = non-negotiable; "should" = recommended.
   edge rail, a large color fill, or a chip larger than the score plate.
 - Never use `--color-accent` to mean "bad" — bad is `danger`; accent is editorial emphasis,
   landing on the franchise's load-bearing word (e.g. "powerful", "cites") or one defining
-  figure. Data-dense surfaces (the MP detail page) SHOULD spend at most ONE resting accent.
+  figure. On home/index a zone spends at most ONE resting accent. The MP detail page also
+  uses a small `bg-accent` rule tick (`h-0.5 w-10`) at the start of each section's 2px rule
+  as a periodical motif (consistent with home's category/feature accent bars) plus one
+  `.mark-accent` phrase in the standfirst — these structural ticks are the page's accent
+  budget; data meaning still comes only from the bands.
 
 ### 4. Type ladder & weight-not-color emphasis (Gelasio display)
 
@@ -119,7 +128,9 @@ sm:text-4xl lg:text-5xl max-w-[14ch]`.
 
 - Square corners (`rounded-none`/default) and hairline ink/`border-border` frames only. Do
   NOT use `rounded-2xl`/`rounded-3xl` container tiles, pill chips for structural elements,
-  or soft shadows. The `.neu-*` utilities are hairline-border editorial — keep them so.
+  or soft shadows. Structural surfaces use inline Tailwind (`border border-border` +
+  `bg-surface`/`bg-surface-2`); the legacy `.neu-*` utilities have been retired. Only
+  `.eyebrow`/`.rule-top`/`.mark-accent`/`.font-mono` remain as semantic editorial helpers.
   (Exceptions, sanctioned: the `ScoreGauge` band-label pill and the `Bar` track ship
   `rounded-full` internally; leave those component-internal pills as-is.)
 - A card-level score reads as a band-colored serif NUMERAL + a 7px band dot + a 2px band
@@ -148,26 +159,29 @@ sm:text-4xl lg:text-5xl max-w-[14ch]`.
 ### Anti-patterns (prohibited)
 
 - ❌ Full-height/left-edge color rails on cards or category rows (the removed motif).
-- ❌ Identical full-bleed photo-poster card grids; dashboard sidebars; `rounded-3xl` card
-  stacks; soft-shadow neumorphism; rounded structural pills.
-- ❌ Icon-in-rounded-chip section headers.
-- ❌ `--color-accent` used for data meaning, `colorVar('accent')`, or >1 resting accent/zone.
+- ❌ Identical full-bleed photo-poster card grids; dashboard sidebars; `rounded-3xl`/`rounded-2xl`
+  card stacks; soft-shadow neumorphism; rounded structural pills. (Detail-page `rounded-lg`
+  panels/stat tiles + the hairline icon tile are allowed; see §1–§2.)
+- ❌ `--color-accent` used for data meaning, `colorVar('accent')`. On home/index, >1 resting
+  accent/zone (the detail page's per-section rule tick is the sanctioned exception, §3).
 - ❌ Coloring multiple masthead/metric figures decoratively (≤1 colored lead figure).
 - ❌ Truncated `party_full`; centered display headlines; figures inside ring/inset boxes.
 
 ### QA checklist (run in code review)
 
 - [ ] Every zone opens with an `.eyebrow` + (where a heading) a `.rule-top`; spacing
-      `mt-16/20` (home), `mt-10` (detail).
-- [ ] ≤1 resting `--color-accent` per zone; bands carry all score/data meaning and render
-      only as dot/glyph/≤2px underline/arc/hairline tag; no `colorVar('accent')`.
+      `mt-16/20` (home), `mt-14` (detail). Detail section headers add a serif H2 title + a
+      hairline icon tile (§1).
+- [ ] ≤1 resting `--color-accent` per zone on home/index; the detail page's per-section rule
+      tick is sanctioned (§3); bands carry all score/data meaning and render only as
+      dot/glyph/≤2px underline/arc/hairline tag/bar fill; no `colorVar('accent')`.
 - [ ] No edge color rails; score = band-ringed-NUMERAL plate (dot + numeral + underline) on
       cards/featured, `ScoreGauge` only on detail; null → gray border + "—" + warning label.
 - [ ] `party_full` never truncated; long values wrap via `text-balance`.
 - [ ] Display headlines left-weighted, `tracking-[-0.02em]`, `text-balance`, capped measure
       (`max-w-[14–18ch]`); ledes `max-w-[42–46ch]`; right whitespace preserved.
-- [ ] Square corners + hairline frames only; no `rounded-3xl` tiles, no shadows (component-
-      internal gauge/bar pills excepted).
+- [ ] Square / `rounded-lg` (≤8px) corners + hairline frames only; no `rounded-2xl`/`rounded-3xl`
+      tiles, no shadows (component-internal gauge/bar pills excepted).
 - [ ] Band colors come only from `scoreBand`/`colorVar`; no hardcoded band hex.
 - [ ] All transitions `motion-reduce:transition-none`; focus-visible `ring-2 ring-ink/40`
       (ink, never accent); touch targets ≥44px (`h-11`); body ≥4.5:1 (ink 16.1:1,

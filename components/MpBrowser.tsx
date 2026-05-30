@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Search, ChevronDown, ChevronLeft, ChevronRight, X } from 'lucide-react';
 import { pct, rupeeCr, scoreBand, colorVar } from '@/lib/format';
 import type { SlimMp } from '@/lib/data';
+import { PartySymbol } from '@/components/PartySymbol';
 
 type Sort = 'score-asc' | 'score-desc' | 'cases-desc' | 'assets-desc' | 'funds-asc' | 'name';
 type Cases = 'all' | 'has' | 'none';
@@ -129,7 +130,7 @@ export function MpBrowser({
   return (
     <section>
       {/* Control bar */}
-      <div className='field flex flex-col gap-3 rounded-md p-3 sm:p-4'>
+      <div className='border-border bg-surface flex flex-col gap-3 rounded-md border p-3 sm:p-4'>
         <div className='relative'>
           <Search
             size={16}
@@ -284,7 +285,7 @@ export function MpBrowser({
 
       {/* Grid */}
       {filtered.length === 0 ? (
-        <div className='field text-ink-soft mt-4 rounded-md p-12 text-center text-sm'>
+        <div className='border-border bg-surface text-ink-soft mt-4 rounded-md border p-12 text-center text-sm'>
           No member matches those filters.
           <button
             onClick={clearAll}
@@ -370,8 +371,9 @@ export function MpBrowser({
                     <p className='eyebrow mt-1 truncate'>
                       {m.pc} · {m.state}
                     </p>
-                    <p className='text-ink-soft mt-1 text-[13px] leading-snug text-balance'>
-                      {m.party_full}
+                    <p className='text-ink-soft mt-1 flex items-center gap-1.5 text-[13px] leading-snug'>
+                      <PartySymbol code={m.party} full={m.party_full} src={m.symbol} size={16} />
+                      <span className='text-balance'>{m.party_full}</span>
                     </p>
                     {(m.minister || m.nota_gt_margin) && (
                       <div className='mt-2 flex flex-wrap gap-1.5'>

@@ -48,3 +48,41 @@ export async function fetchText(url: string, opts: FetchOpts = {}): Promise<stri
 export async function fetchJson<T = unknown>(url: string, opts?: FetchOpts): Promise<T> {
   return JSON.parse(await fetchText(url, opts)) as T;
 }
+
+// Graceful-degradation variants: a single dead page in a 543-MP crawl returns null instead of
+// aborting the whole run. Network/parse failures and non-2xx responses resolve to null.
+export async function fetchTextOrNull(url: string, opts?: FetchOpts): Promise<string | null> {
+  try {
+    return await fetchText(url, opts);
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchJsonOrNull<T = unknown>(
+  url: string,
+  opts?: FetchOpts,
+): Promise<T | null> {
+  const text = await fetchTextOrNull(url, opts);
+  if (text == null) return null;
+  try {
+    return JSON.parse(text) as T;
+  } catch {
+    return null;
+  }
+}
+
+// binary-safe fetch (images); caches raw bytes to disk like fetchText caches text
+export async function fetchBuffer(url: string, opts: FetchOpts = {}): Promise<Buffer> {
+  const { headers = {}, cache = true } = opts;
+  const cp = cache ? await cachePath(url) : null;
+  if (cp && existsSync(cp)) return await readFile(cp);
+  const res = await client.get(url, {
+    headers,
+    responseType: 'arraybuffer',
+    transformResponse: [(d) => d],
+  });
+  const buf = Buffer.from(res.data as ArrayBuffer);
+  if (cp) await writeFile(cp, buf);
+  return buf;
+}

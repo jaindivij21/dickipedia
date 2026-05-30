@@ -12,12 +12,18 @@ export function ScoreGauge({ value, size = 132 }: { value: number | null; size?:
     <div className='flex flex-col items-center'>
       <svg
         width={size}
-        height={cy + 12}
-        viewBox={`0 0 ${size} ${cy + 12}`}
+        height={cy + 18}
+        viewBox={`0 0 ${size} ${cy + 18}`}
         role='img'
         aria-label={`Accountability score ${value ?? 'unknown'} of 100`}
       >
-        <path d={arc} fill='none' stroke='var(--neu-dark)' strokeWidth={13} strokeLinecap='round' />
+        <path
+          d={arc}
+          fill='none'
+          stroke='var(--color-track)'
+          strokeWidth={13}
+          strokeLinecap='round'
+        />
         {value != null && (
           <path
             d={arc}
@@ -30,19 +36,21 @@ export function ScoreGauge({ value, size = 132 }: { value: number | null; size?:
         )}
         <text
           x={cx}
-          y={cy - 8}
+          y={cy - 10}
           textAnchor='middle'
           fontSize={34}
           fontWeight={700}
+          fontFamily='var(--font-serif)'
           fill='var(--color-ink)'
         >
           {value ?? '—'}
         </text>
         <text
           x={cx}
-          y={cy + 4}
+          y={cy + 10}
           textAnchor='middle'
           fontSize={9}
+          fontFamily='var(--font-mono)'
           fill='var(--color-ink-soft)'
           letterSpacing={1}
         >
@@ -50,7 +58,7 @@ export function ScoreGauge({ value, size = 132 }: { value: number | null; size?:
         </text>
       </svg>
       <span
-        className='neu-inset-sm -mt-1 rounded-full px-3 py-1 text-[11px] font-bold'
+        className='bg-surface-2 -mt-1 rounded-full px-3 py-1 text-[11px] font-bold'
         style={{ color: colorVar(band.token) }}
       >
         {band.label}
@@ -63,11 +71,11 @@ export function ScoreChip({ value, size = 46 }: { value: number | null; size?: n
   const band = scoreBand(value);
   return (
     <span
-      className='neu-raised-sm grid shrink-0 place-items-center rounded-full font-bold'
+      className='border-border bg-surface grid shrink-0 place-items-center rounded-full border font-bold'
       style={{ width: size, height: size, color: colorVar(band.token) }}
       title={`Accountability ${value ?? '?'} / 100 — ${band.label}`}
     >
-      <span className='leading-none' style={{ fontSize: size * 0.36 }}>
+      <span className='font-serif leading-none' style={{ fontSize: size * 0.36 }}>
         {value ?? '—'}
       </span>
     </span>
