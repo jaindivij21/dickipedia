@@ -1,59 +1,72 @@
 import type { Metadata } from 'next';
-import { Space_Mono, JetBrains_Mono } from 'next/font/google';
+import { Gelasio, Ubuntu_Mono } from 'next/font/google';
 import Link from 'next/link';
-import { ScanFace } from 'lucide-react';
+import { Stamp, ArrowUpRight } from 'lucide-react';
 import './globals.css';
 
-const spaceMono = Space_Mono({
+const gelasio = Gelasio({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-gelasio',
+});
+const ubuntuMono = Ubuntu_Mono({
   subsets: ['latin'],
   weight: ['400', '700'],
-  variable: '--font-space-mono',
+  variable: '--font-ubuntu-mono',
 });
-const jet = JetBrains_Mono({ subsets: ['latin'], variable: '--font-jetbrains' });
 
 export const metadata: Metadata = {
-  title: "dickipedia — the people's record of their representatives",
+  title: "dickipedia — the public record of India's powerful",
   description:
-    "An open, sourced accountability record of India's elected Lok Sabha MPs. Public records only.",
+    'An open, sourced encyclopedia that holds India’s public officials to their own public record.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang='en' className={`${spaceMono.variable} ${jet.variable}`}>
+    <html lang='en' className={`${gelasio.variable} ${ubuntuMono.variable}`}>
       <body className='min-h-screen'>
-        <header className='bg-surface/85 sticky top-0 z-20 backdrop-blur-md'>
-          <div className='mx-auto flex max-w-6xl items-center justify-between px-4 py-3'>
-            <Link href='/' className='group flex items-center gap-3'>
-              <span className='neu-raised-sm text-primary grid h-10 w-10 place-items-center rounded-2xl'>
-                <ScanFace size={20} strokeWidth={2.25} />
-              </span>
-              <span className='text-lg font-bold tracking-tight'>
-                dicki<span className='text-primary'>pedia</span>
+        <header className='border-ink relative border-b'>
+          <div className='mx-auto flex max-w-5xl items-center justify-between px-4 py-4'>
+            <Link href='/' className='group relative flex items-center gap-2 leading-none'>
+              <Stamp
+                size={22}
+                strokeWidth={2.25}
+                className='text-accent shrink-0 transition-transform group-hover:-rotate-6 motion-reduce:transition-none'
+              />
+              <span className='leading-none'>
+                <span className='block text-2xl font-bold tracking-tight lowercase'>
+                  <span className='text-accent'>d</span>ickipedia
+                </span>
+                <span className='eyebrow mt-1 hidden sm:block'>
+                  The public record of India&rsquo;s powerful
+                </span>
               </span>
             </Link>
-            <nav className='flex items-center gap-2 text-xs'>
-              <Link href='/' className='neu-flat neu-press rounded-xl px-3 py-2 font-bold'>
-                MPs
-              </Link>
-              <span className='neu-inset-sm text-ink-soft rounded-xl px-3 py-2'>
-                18th Lok Sabha
-              </span>
+            <nav>
+              <a
+                href='https://github.com/jaindivij21/dickipedia'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='eyebrow hover:text-ink -my-3 inline-flex items-center gap-1 py-3'
+              >
+                Contribute
+                <ArrowUpRight size={12} />
+              </a>
             </nav>
           </div>
+          <span aria-hidden className='bg-accent absolute bottom-[-1px] left-4 h-0.5 w-12' />
         </header>
         {children}
-        <footer className='text-ink-soft mx-auto max-w-6xl px-4 py-10 text-xs'>
-          <div className='neu-inset rounded-2xl p-5 leading-relaxed'>
-            <p className='text-ink font-bold'>
-              Public records only. The site reports facts and cites every one.
-            </p>
-            <p className='mt-1'>
-              Sources: Election Commission of India · PRS Legislative Research · Lok Sabha
-              Secretariat · ADR/MyNeta · MPLADS-eSAKSHI · ECI/SBI electoral-bond disclosure.
-              Criminal data shown as self-declared in sworn affidavits (pending ≠ convicted). Open
-              data under ODbL-1.0; code MIT.
-            </p>
-          </div>
+        <footer className='border-border mx-auto mt-12 max-w-5xl border-t px-4 py-8'>
+          <p className='text-sm font-semibold'>
+            Public records only. The site reports facts and cites every one.
+          </p>
+          <p className='text-ink-soft mt-1.5 text-xs leading-relaxed'>
+            Sources: Election Commission of India · PRS Legislative Research · Lok Sabha Secretariat
+            · ADR/MyNeta · MPLADS-eSAKSHI · ECI/SBI electoral-bond disclosure. Criminal data shown
+            as self-declared in sworn affidavits (pending &ne; convicted). Open data under ODbL-1.0;
+            code MIT.
+          </p>
         </footer>
       </body>
     </html>

@@ -1,88 +1,239 @@
-import { ALL_MPS, toSlim, parties, states } from '@/lib/data';
-import { MpBrowser } from '@/components/MpBrowser';
-import { Gavel, Coins, Vote, MicOff } from 'lucide-react';
+import Link from 'next/link';
+import { ArrowRight } from 'lucide-react';
+import { ALL_MPS, mpSlug } from '@/lib/data';
+import { pct, rupeeCr, scoreBand, colorVar } from '@/lib/format';
 
-function Stat({
-  icon,
-  value,
-  label,
-  token,
-}: {
-  icon: React.ReactNode;
-  value: string;
-  label: string;
-  token?: string;
-}) {
+const initials = (s: string) =>
+  s
+    .split(/\s+/)
+    .slice(0, 2)
+    .map((w) => w[0])
+    .join('')
+    .toUpperCase();
+
+function Finding({ label, value, token }: { label: string; value: string; token?: string }) {
   return (
-    <div className='neu-raised flex items-center gap-3 rounded-2xl p-4'>
-      <span
-        className='neu-inset-sm grid h-10 w-10 shrink-0 place-items-center rounded-xl'
-        style={{ color: token }}
-      >
-        {icon}
+    <div className='border-border flex items-baseline justify-between gap-4 border-b py-1.5 last:border-0'>
+      <span className='eyebrow'>{label}</span>
+      <span className='font-mono text-sm font-bold' style={{ color: token }}>
+        {value}
       </span>
-      <div className='min-w-0'>
-        <div className='text-xl leading-none font-bold' style={{ color: token }}>
-          {value}
-        </div>
-        <div className='text-ink-soft mt-1 text-[11px] leading-tight'>{label}</div>
-      </div>
+    </div>
+  );
+}
+
+function StatCell({ figure, label, token }: { figure: string; label: string; token?: string }) {
+  return (
+    <div className='bg-surface flex flex-col gap-2 p-5'>
+      <span className='font-mono text-4xl leading-none font-bold' style={{ color: token }}>
+        {figure}
+      </span>
+      <span className='text-ink-soft max-w-[18ch] text-sm leading-snug'>{label}</span>
     </div>
   );
 }
 
 export default function Home() {
-  const slim = ALL_MPS.map(toSlim);
   const crimDenom = ALL_MPS.filter((m) => m.criminal_cases != null).length || 1;
   const withCrim = ALL_MPS.filter((m) => (m.criminal_cases ?? 0) > 0).length;
+  const crimPct = Math.round((withCrim / crimDenom) * 100);
   const utilArr = ALL_MPS.map((m) => m.mplads_utilisation_pct).filter(
     (x): x is number => x != null,
   );
   const avgUtil = Math.round(utilArr.reduce((s, x) => s + x, 0) / (utilArr.length || 1));
   const notaSeats = ALL_MPS.filter((m) => m.nota_gt_margin).length;
   const zeroQ = ALL_MPS.filter((m) => m.questions === 0).length;
+  const featured =
+    ALL_MPS.filter(
+      (m) => m.accountability_score != null && m.photo_hotlink && (m.criminal_cases ?? 0) > 0,
+    ).sort((a, b) => a.accountability_score! - b.accountability_score!)[0] ?? ALL_MPS[0];
+  const fBand = scoreBand(featured.accountability_score);
+  const plateColor =
+    featured.accountability_score == null ? 'var(--color-border)' : colorVar(fBand.token);
 
   return (
-    <main className='mx-auto max-w-6xl px-4 pb-16'>
-      <section className='py-10 sm:py-14'>
-        <h1 className='text-3xl leading-tight font-bold text-balance sm:text-5xl'>
-          The people's record of <span className='text-primary'>their representatives.</span>
+    <main className='mx-auto max-w-5xl px-4'>
+      {/* Hero (kept) */}
+      <section className='pt-14 pb-10 sm:pt-20 sm:pb-12'>
+        <p className='eyebrow mb-4'>Volume I · 18th Lok Sabha · {ALL_MPS.length} records · 2024</p>
+        <h1 className='rule-top max-w-[16ch] pt-6 text-[2.75rem] leading-[1.04] font-bold tracking-[-0.02em] text-balance sm:text-5xl lg:text-6xl'>
+          The <span className='mark-accent'>public record</span> of India&rsquo;s{' '}
+          <span className='text-accent font-bold'>powerful</span>, in one place.
         </h1>
-        <p className='text-ink-soft mt-4 max-w-2xl text-sm leading-relaxed text-balance sm:text-base'>
-          Every elected member of the 18th Lok Sabha, on one page each — attendance, declared assets
-          &amp; cases, fund utilisation, and how they won. Only public records. Every figure cites
-          its source.
+        <p className='text-ink-soft mt-6 max-w-[46ch] text-lg leading-relaxed text-pretty'>
+          <span className='text-ink font-medium'>
+            A free, sourced encyclopedia that holds public officials to their own public record.
+          </span>{' '}
+          Every figure traces to a public source; the site reports facts,{' '}
+          <span className='text-ink font-semibold'>never opinions</span>. The 543 MPs of the 18th
+          Lok Sabha are the first chapter.
         </p>
       </section>
 
-      <section className='mb-10 grid grid-cols-2 gap-4 lg:grid-cols-4'>
-        <Stat
-          icon={<Gavel size={18} />}
-          token='var(--color-danger)'
-          value={`${Math.round((withCrim / crimDenom) * 100)}%`}
-          label={`of MPs declared criminal cases (${withCrim})`}
-        />
-        <Stat
-          icon={<Coins size={18} />}
-          token='var(--color-warning)'
-          value={`${avgUtil}%`}
-          label='average MPLADS funds actually spent'
-        />
-        <Stat
-          icon={<Vote size={18} />}
-          token='var(--color-primary)'
-          value={`${notaSeats}`}
-          label='seats where NOTA beat the victory margin'
-        />
-        <Stat
-          icon={<MicOff size={18} />}
-          token='var(--color-ink)'
-          value={`${zeroQ}`}
-          label='MPs asked zero questions all term'
-        />
+      {/* Featured — bordered dossier card */}
+      <section className='mt-16 sm:mt-20'>
+        <Link href={`/mp/${mpSlug(featured)}`} className='border-border group block border'>
+          <div className='border-border relative flex items-center justify-between gap-3 border-b px-5 py-2.5'>
+            <span className='eyebrow'>Featured record · lowest score on file</span>
+            <span className='text-ink-soft font-mono text-[11px]'>FILE / {featured.pc_id}</span>
+            <span
+              aria-hidden
+              className='bg-accent absolute -bottom-px left-5 h-0.5 w-8 transition-[width] group-hover:w-16 motion-reduce:transition-none'
+            />
+          </div>
+
+          <div className='grid sm:grid-cols-[auto_1fr_auto]'>
+            <div className='border-border bg-surface-2 border-b p-5 sm:border-r sm:border-b-0'>
+              {featured.photo_hotlink ? (
+                <img
+                  src={featured.photo_hotlink}
+                  alt=''
+                  className='border-ink mx-auto aspect-[4/5] w-36 border object-cover object-top grayscale-[15%] transition-[filter] group-hover:grayscale-0 motion-reduce:transition-none sm:w-40'
+                />
+              ) : (
+                <div className='border-ink text-ink-soft mx-auto grid aspect-[4/5] w-36 place-items-center border font-mono text-2xl sm:w-40'>
+                  {initials(featured.mp_name)}
+                </div>
+              )}
+              <p className='text-ink-soft mt-2 text-center font-mono text-[10px]'>
+                {featured.eci_state}
+              </p>
+            </div>
+
+            <div className='min-w-0 p-6'>
+              <h2 className='group-hover:text-accent max-w-[16ch] font-serif text-2xl leading-tight font-bold tracking-[-0.01em] text-balance transition-colors sm:text-3xl'>
+                {featured.mp_name}
+              </h2>
+              <p className='eyebrow mt-2'>
+                {featured.pc_name}, {featured.eci_state} · {featured.party_full}
+              </p>
+              <p className='text-ink-soft mt-4 max-w-[44ch] leading-relaxed text-pretty'>
+                <span className='text-ink font-medium'>{featured.mp_name}</span> holds the lowest
+                accountability score on file
+                {featured.criminal_cases != null && (
+                  <>
+                    {' '}
+                    —{' '}
+                    <span className='text-ink font-semibold'>
+                      {featured.criminal_cases} declared case
+                      {featured.criminal_cases === 1 ? '' : 's'}
+                    </span>
+                  </>
+                )}
+                {featured.attendance_pct != null && (
+                  <>, {pct(featured.attendance_pct)} attendance</>
+                )}
+                {featured.mplads_unspent != null && (
+                  <>, {rupeeCr(featured.mplads_unspent)} left unspent</>
+                )}
+                .
+              </p>
+              <div className='rule-top mt-5 max-w-[44ch] pt-3'>
+                {featured.criminal_cases != null && (
+                  <Finding
+                    label='Criminal cases'
+                    value={String(featured.criminal_cases)}
+                    token='var(--color-danger)'
+                  />
+                )}
+                {featured.attendance_pct != null && (
+                  <Finding label='Attendance' value={pct(featured.attendance_pct)} />
+                )}
+                {featured.mplads_unspent != null && (
+                  <Finding label='MPLADS unspent' value={rupeeCr(featured.mplads_unspent)} />
+                )}
+              </div>
+              <p className='text-ink-soft mt-3 text-xs italic'>
+                Declared in the sworn 2024 affidavit.
+              </p>
+            </div>
+
+            <div className='border-border grid place-items-center border-t p-6 sm:border-t-0 sm:border-l'>
+              <div className='flex items-baseline gap-2'>
+                <span
+                  className='h-[9px] w-[9px] self-center rounded-full'
+                  style={{ backgroundColor: plateColor }}
+                />
+                <span
+                  className='border-b-2 pb-0.5 font-serif text-4xl leading-none font-bold'
+                  style={{ color: plateColor, borderColor: plateColor }}
+                >
+                  {featured.accountability_score ?? '—'}
+                </span>
+                <span className='text-ink-soft self-baseline font-mono text-[11px]'>/100</span>
+              </div>
+              <p className='eyebrow mt-1.5'>score · {fBand.label}</p>
+            </div>
+          </div>
+        </Link>
       </section>
 
-      <MpBrowser mps={slim} parties={parties()} states={states()} />
+      {/* By the numbers — 4-up stat band */}
+      <section className='mt-16 sm:mt-20'>
+        <h2 className='eyebrow rule-top pt-3'>By the numbers · 18th Lok Sabha</h2>
+        <div className='bg-border border-border mt-5 grid grid-cols-2 gap-px border md:grid-cols-4'>
+          <StatCell
+            figure={`${crimPct}%`}
+            label='MPs with declared criminal cases'
+            token='var(--color-danger)'
+          />
+          <StatCell
+            figure={`${avgUtil}%`}
+            label='Average MPLADS funds actually spent'
+            token='var(--color-warning)'
+          />
+          <StatCell figure={`${notaSeats}`} label='Seats where NOTA beat the victory margin' />
+          <StatCell figure={`${zeroQ}`} label='MPs who asked zero questions' />
+        </div>
+      </section>
+
+      {/* Categories — the volume index */}
+      <section className='mt-16 sm:mt-20'>
+        <h2 className='eyebrow rule-top pt-3'>Categories</h2>
+        <div className='mt-5 flex flex-col gap-4'>
+          <Link
+            href='/mp'
+            className='border-border hover:bg-surface-2 group relative flex items-center justify-between gap-6 border p-6 transition-colors'
+          >
+            <span
+              aria-hidden
+              className='bg-accent absolute top-0 left-0 h-0.5 w-10 transition-[width] group-hover:w-20 motion-reduce:transition-none'
+            />
+            <div>
+              <span className='text-ink-soft font-mono text-sm'>VOL. I</span>
+              <div className='group-hover:text-accent mt-1 font-serif text-2xl font-bold transition-colors'>
+                Lok Sabha MPs
+              </div>
+              <div className='text-ink-soft mt-1 text-sm'>
+                All {ALL_MPS.length} members of the 18th Lok Sabha (2024)
+              </div>
+            </div>
+            <span className='text-ink-soft inline-flex shrink-0 items-center gap-2 font-mono text-sm whitespace-nowrap'>
+              {ALL_MPS.length} RECORDS
+              <ArrowRight
+                size={14}
+                className='group-hover:text-accent transition-transform group-hover:translate-x-0.5 motion-reduce:transition-none'
+              />
+            </span>
+          </Link>
+          <div
+            aria-disabled
+            className='border-border flex items-center justify-between gap-6 border border-dashed p-6 opacity-60'
+          >
+            <div>
+              <span className='text-ink-soft font-mono text-sm'>VOL. II</span>
+              <div className='mt-1 font-serif text-2xl font-bold'>
+                Bureaucrats, judges &amp; more
+              </div>
+              <div className='text-ink-soft mt-1 text-sm'>Future categories of public figures</div>
+            </div>
+            <span className='eyebrow shrink-0'>Planned</span>
+          </div>
+        </div>
+        <p className='text-ink-soft mt-4 text-sm'>
+          More categories of public figures will follow as the record grows.
+        </p>
+      </section>
     </main>
   );
 }
