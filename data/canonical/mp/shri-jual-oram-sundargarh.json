@@ -1,0 +1,596 @@
+{
+  "accountability_score": 55,
+  "age": 65,
+  "assets_2019": 74185014,
+  "assets_2024": 86325870,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5849545
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8208000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 43700000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 58365545,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 160000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 17208842
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 251850
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Bima Kiran Policy No 59101xxxxx 3,00,000 3 Lacs+ PNB Metlife Pl No 2187xxxxx",
+        "value": 3704318
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 331815
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 916000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4987500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 400000
+      }
+    ],
+    "movable_total": 27960325
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=2Fyt7uUiZP7i4ZJrzmjR",
+      "total_assets": 24202170,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=2Fyt7uUiZP7i4ZJrzmjR",
+      "total_assets": 74185014,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7296",
+      "total_assets": 86325870,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 257,
+  "assets_latest": 86325870,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jual Oram is an Indian Politician who is serving as the 7th Minister of Tribal Affairs since 2024. He also Member of the 17th Lok Sabha of India. He represents the Sundargarh constituency of Odisha. He is a member of the Bharatiya Janata Party (BJP).",
+    "title": "Jual Oram",
+    "url": "https://en.wikipedia.org/wiki/Jual_Oram"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "At Kendudihi, P.O. Kalaiposh, via-Lahunipara, Sundargarh Odisha, 770040",
+    "emails": [
+      "jualoram@hotmail.com",
+      "oram.jual@gmail.com",
+      "jualoram@rediffmail.com",
+      "jualoram@mpls.sansad.in"
+    ],
+    "phones": [
+      "9437123855",
+      "1123316475",
+      "1214120291"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://facebook@Jualoram"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://twitter@jualoram"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Obscene acts and songs",
+        "section": "294"
+      },
+      {
+        "count": 1,
+        "description": "Word, gesture or act intended to insult the modesty of a woman",
+        "section": "509"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR No. 62/2022",
+        "charges_framed": true,
+        "court": "JMFC Rourkela",
+        "fir_no": "PS Case No. 09/2022, P.S. Jhiripani",
+        "other_acts": null,
+        "sections": [
+          "294",
+          "509"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 480/2007",
+        "charges_framed": true,
+        "court": "SDJM Bonai (Now Case Has Been Transferred to Court of JMFC Bhubaneshwar)",
+        "fir_no": "GRP Case No. 26/2007, P.S-Bondamunda",
+        "other_acts": "Section 174 Indian Railway Act., Charges Framed Year 2007",
+        "sections": [
+          "143",
+          "341",
+          "283",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 62/1999",
+        "charges_framed": true,
+        "court": "JMFC Rourkela (Now This Has Been Pending Before Court of JMFC Rourkela)",
+        "fir_no": "PS Case No. 13/1999, P.S. Plant Site",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": null,
+  "dob": "22/03/1961",
+  "eci_state": "Odisha",
+  "email": "jualoram[at]hotmail[dot]com,oram[dot]jual[at]gmail[dot]com,jualoram[at]rediffmail[dot]com,jualoram[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2293756,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1821060,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1508089,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1534713,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1649974,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1367364,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1563070,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1497071,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1016891,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1025506,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1481806,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1356355,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 489000,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as Sitting Member of Parliament, Agriculture and Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Directors Remuneration, Rent & Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "Directors Remuneration"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹6.21 Cr between affidavits, while declared income across 5 ITR years totalled ₹88.1 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 62123700,
+        "declared_income": 8807592,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.42 Cr (2014) to ₹8.63 Cr (2024).",
+      "headline": "Declared assets grew 257% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 24202170,
+        "from_year": 2014,
+        "pct": 257,
+        "to": 86325870,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 32% of MPLADS local-area funds were spent — ₹11.79 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 117919396,
+        "utilisation_pct": 32
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10361616
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10361616
+  },
+  "margin_votes": 138808,
+  "minister": true,
+  "mp_name": "Shri Jual Oram",
+  "mplads_allocated": 173096757,
+  "mplads_expenditure": 55177361,
+  "mplads_unspent": 117919396,
+  "mplads_utilisation_pct": 31.9,
+  "mplads_works_completed": 8,
+  "mplads_works_recommended": 194,
+  "mpsno": 279,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kalinga TV",
+      "title": "President Droupadi Murmu to visit Rourkela on April 21: Union Minister Jual Oram",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcW9teVVxdG5wcUJuNlRrZUtlSzVwd1hjNXQzUUxjX0lBSURwNFlocm5DZ0pXR0lUOUVQb0JKZXBaZ3VucFllV3IzWkF2cDJHOTNrbTItMlJ2SWt2YkdldVZCOW03bWoxWFRuT1BFaW9CSDVOZzdsS1NsLWxxai14Nks1MzRVY19KSlU5TU9KY2lyM0pGazYwa19ucHQzZDZQWXkzc2t5bFhrVHFsbEE?oc=5"
+    },
+    {
+      "date": "2026-01-16T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Union Minister Oram writes to Mandaviya, wants ESIC MCH in Rourkela",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHBOYTBpMGc2bHZQajFNS0VZTTY5dXFkWmxJdDFWNW5jd3lLSEFtX09BQzhwNy1Da1FKVERVWTR4UDVMQzNPVkRra1hicXpzc2QtcnoydkxBSXRBVDRfNU9DYzc2Sm55TmZUWmtzUUlvV0MzR2V0Mmd5X0dnaTh4RmxxSWtkbFhvNTNOVlRkUTRpV2kwZS1KM090ellwNVlTZjBubVhnejhOelJPZkVCcXlYYVZWMHVHUVk0bXVsMVlwZUHSAdABQVVfeXFMTnMxMWtQN3VObFRLLTdtTDRlOHBYaWROYVFNbmc1Sl9GZUtLdllSeG0yT2laV3NVUmJ6SC12UTdsYXRaM2lOUFY1aU9uUmdSOXhGZFByZWc2NnZKQk5Zd0puT0ZWZ3JzMkFBV2w0NzhPZUMxamU1OXAweU9jRVowUXVVM1ozdGF4TzhpZk1DbWdBd0pRVktBeUhReTJnb09mel9UOXBLeFYySG9IN2dJYlZ4emFZX212a3NLSjBteXBnWWJJNkhaaVp4MG5wZVhLTA?oc=5"
+    },
+    {
+      "date": "2025-12-28T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "pragativadi.com",
+      "title": "Union Minister Jual Oram Unveils Atal Bihari Vajpayee Statue in Rourkela",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTh0LWxaa09DZHNjZl9tS3p0YWJCVWd6REU0N0Q1QV82REVBUER0N2ZNUUt0dlRmbWxqUEJ4SW1lSDN1UGJVN0VWb2dPSlRpVENXOGZ4Z1RvRmpvQnhzZGEwVEZVYXpqalIyYllXbzFrNEptOE9ZV1ZvVzFxWVREOW1sUUtJel9pdWZ4Tll6LXBpSUYyc1MxV1NIYi1Gdw?oc=5"
+    },
+    {
+      "date": "2025-08-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Union Tribal Affairs Minister Jual Oram seeks underpasses, train stoppages in Sundargarh",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ1ZMMXdUbTUxazQzbEwwZlJkbzRkakk5Z296RXpqVU5ENlUzVlcxbGtzM3E5V3F5eUdlTUZ3SHd6T05QVUJ0YnVBWUlIalhnSEhLNUlTM0RmejN2YVNFY3dtczhUMHBNOEZMM3VfeXNWTVJOaTlocE5kc2VtbjRsSlJQTmxUcTNibU91RnQyRlZabXlBWko2VnVVV3FJRUFUWHZnTGE0TTZ6NnZrNngwRUxSSkpJS2dJcHpYQzk5eElWcm53WXN4OHlzQU9EUmF6VkwyV25pNTI2eUdBb3Rj0gHsAUFVX3lxTE8zemZqVDZZNVJKbUZEZDRGaUx0b2ZvcVVTU01BMW1pWHJfY290QkljbVU4UXk2bUNPTUtTejJtVUpCMHBmWmdfbFNTTDBMSC1iSmN0R3dnMi1SOEJ3aG5qVnhHcGxibGdfRk0wY01XVUlJMk54TnRrUzNDSkVHZmFobzlPVm96dlR0VmpqeEVKaVN3LXhUY0cyRDJDTG1iMkFwZUVnYlhiOTI5ZGxrLUtlRDdsOEtrWDc4bVF3UUpvcHhmdm9FbzVUZEp1alVBZWhsT2M2b2VxZDZkQWN2aUxxNVFUNGQ2RFhSQ2VV?oc=5"
+    },
+    {
+      "date": "2025-07-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Will not contest polls anymore, says Union Tribal Affairs Minister Jual Oram",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGxuOVQwaXpGTVhIdFBYVFZPVlYtcVh3Z0xOQjRGd203ZGlnVzl6eEQ3eWVmNDh6Y0FFazRUc1lXcE1vQlNleGl4cDE0Z3lDX042ZVJTTkhTWWdkSGljaXdUVEZ3eV9oZDAwakRIcWpUZC13WnZTaWo1dDhDTUZoVVlmZ0MzRlo2TWEzSkZFQzU3eThaVWliXzBMUlpPRGhnNjNtMVVZdkRGU1p4X0dRSk5US1JYelVJYlFqYXljeWo0MkF5MGplekpXaVA3SGPSAdwBQVVfeXFMTWtsalFSUU5iRVNkY3NiNmRzMVB6OGJmTEhFZVhELUdaLUxod3dDc1VqdUh2OXJLNUJyTXByX2FBdUltUmFJam00ek1kaUx4c1hNVVM4V1MyQk9RSXpkcjNyQk5oSjRVeTdTb2lyXzBLa1RtSUNtdERkYTVlV1JjS05ENTJKckhNLS1SdU00UERHQ2RXM0Zqakx0WHFGdmdHWmQ1bEl6eXF0UGlFaUZVdE9VbF9BcTRaOEU5bFZBXzZGaVFid2dEaHU1dU5JNGR3QUh3ZFI1ZzJ0ZTZDSA?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 17801,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "1999",
+            "publisher": "Wikipedia",
+            "title": "Jual Oram",
+            "url": "https://en.wikipedia.org/wiki/Jual_Oram"
+          }
+        ],
+        "title": "First Union Minister of Tribal Affairs (1999)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Jual Oram",
+            "url": "https://en.wikipedia.org/wiki/Jual_Oram"
+          }
+        ],
+        "title": "Union Minister of Tribal Affairs (2024)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Jual Oram",
+            "url": "https://en.wikipedia.org/wiki/Jual_Oram"
+          }
+        ],
+        "title": "Member of Parliament for Sundargarh"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": null,
+            "publisher": "Wikipedia",
+            "title": "Jual Oram",
+            "url": "https://en.wikipedia.org/wiki/Jual_Oram"
+          }
+        ],
+        "title": "BJP Odisha state president"
+      }
+    ],
+    "office": "Union Minister of Tribal Affairs"
+  },
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-2",
+  "pc_name": "Sundargarh",
+  "pending_cases": 3,
+  "phone": "Tel : (011) 23316475, 23035769, 23310387 (R),Telefax: (011) 214120291 (O)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180308.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jual-oram"
+  },
+  "qualification": "Under Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "ST",
+  "runner_up_name": "DILIP KUMAR TIRKEY",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 8,
+    "legislative": null,
+    "mplads": 41,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 6,
+  "top_inference_severity": "flag",
+  "total_assets": 86325870,
+  "total_liabilities": 10361616,
+  "wealth_pct_increase": 16,
+  "winner_vote_share": 42.77
+}

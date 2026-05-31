@@ -1,0 +1,578 @@
+{
+  "accountability_score": 22,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 29676825
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 31831949
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 203356550
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 264865324,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 203057
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 44841684
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 989734838
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 102086906
+      },
+      {
+        "category": "IMFA Employees Superannuation Trust Fund (ICICI Prudential Policy No 0000xxxxx 3",
+        "value": 32649711
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 35886512
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2510676
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 8100000
+      }
+    ],
+    "movable_total": 1216013384
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=x7tYzWy7uDNwQnXAyDiC",
+      "total_assets": 161100792,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=x7tYzWy7uDNwQnXAyDiC",
+      "total_assets": 312432726,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=x7tYzWy7uDNwQnXAyDiC",
+      "total_assets": 574415842,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9427",
+      "total_assets": 1480878708,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 819,
+  "assets_latest": 1480878708,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Baijayant \"Jay\" Panda is an Indian politician. He is the national vice president and spokesperson of the Bharatiya Janata Party (BJP). He was a Member of Parliament in the 15th and 16th Lok Sabha from Kendrapara. He was also a Member of Parliament in the Rajya Sabha for two terms from 2000 to 2009.",
+    "title": "Baijayant Panda",
+    "url": "https://en.wikipedia.org/wiki/Baijayant_Panda"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "8 RN Singhdeo Marg, Near Raj Bhawan Bhubaneswar, Odisha, 751012",
+    "emails": [
+      "office@bjpanda.org",
+      "bj.panda@mpls.sansad.in",
+      "bjpanda@bjpanda.org"
+    ],
+    "phones": [
+      "6742395551",
+      "9937297080",
+      "6742394954",
+      "9810000044",
+      "7008008000",
+      "1147502112",
+      "9871695140",
+      "8527053111"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 8,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 8,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Uttering, words, etc., with deliberate intent to wound the religious feelings of any person",
+        "section": "298"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "2(C) C.C.No-22 of 2023",
+        "charges_framed": false,
+        "court": "ACJM (Special), Cuttack",
+        "fir_no": null,
+        "other_acts": "Sec 197(15) for Violation of section 197 of the Companies Act, 2013",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "2(C) C.C.No-21 of 2023",
+        "charges_framed": false,
+        "court": "ACJM (Special), Cuttack",
+        "fir_no": null,
+        "other_acts": "Sec. 206(7) for Violation of Sec 206 of the Companies Act, 2013",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "2(C) C.C.No-20 of 2023",
+        "charges_framed": false,
+        "court": "ACJM (Special), Cuttack",
+        "fir_no": null,
+        "other_acts": "Sec.129(7) for Violation of Sec 129 of the Companies Act, 2013",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "2(C) C.C.No-19 of 2023",
+        "charges_framed": false,
+        "court": "ACJM (Special), Cuttack",
+        "fir_no": null,
+        "other_acts": "Sec.134(8) for Violation of Sec 134 of the Companies Act, 2013.",
+        "sections": [],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "2(C) C.C.No-18 of 2023",
+        "charges_framed": false,
+        "court": "ACJM (Special), Cuttack",
+        "fir_no": null,
+        "other_acts": "Sec 86 for Violation of sec 77 of the Companies Act, 2013",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "G.R. Case No-303 of 2018",
+        "charges_framed": false,
+        "court": "J.M.F.C. Konark, Dist Puri, Odisha",
+        "fir_no": "0092 of 2018, dt-19.09.2018, Konark Police Station, Konark Dist-Puri Odisha",
+        "other_acts": "Sec. 66 of the Information Technology act, 2000 & Sec.30 of the Ancient Monuments and Archaeological Sites and Remain Act. 1958",
+        "sections": [
+          "153A",
+          "295A",
+          "298"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "I.C.C. No-217/2018",
+        "charges_framed": false,
+        "court": "S.D.J.M. Kendrapara, Odisha, Transferred to Speical Court, Cuttack",
+        "fir_no": null,
+        "other_acts": "Sec. 125-A of the Representation of the Prople Act, 1951",
+        "sections": [],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "2.C.C. No-36/1993",
+        "charges_framed": false,
+        "court": "J.M.F.C. (Rural), Cuttack, Odisha",
+        "fir_no": null,
+        "other_acts": "Sec. Rule 62-D of the Orrisa Factories Rules, 1950 framed under Section 41 of the Factories Act, 1948",
+        "sections": [],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "12/01/1964",
+  "eci_state": "Odisha",
+  "email": "office[at]bjpanda[dot]org,bj[dot]panda[at]mpls[dot]sansad[dot]in,bjpanda[at]bjpanda[dot]org",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 213010253,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 83386886,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 20659910,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 21829727,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 69648500,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 15885360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 16806870,
+        "person": "spouse"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 20302650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 15419400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 30545360,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Emoluments, Remuneration & Allowances, Rental Income, Interest Income, Capital Gains, Dividend, Tax Paid beneficiary distribution from Trust and Income from other Sources"
+      },
+      {
+        "person": "Spouse",
+        "source": "Emoluments, Remuneration & Allowances, Interest Income, Capital Gains, Consultancy, Dividend and Income from other sources"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹16.11 Cr (2009) to ₹148 Cr (2024).",
+      "headline": "Declared assets grew 819% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 161100792,
+        "from_year": 2009,
+        "pct": 819,
+        "to": 1480878708,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 7% of MPLADS local-area funds were spent — ₹13.62 Cr unspent.",
+      "headline": "93% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 136177128,
+        "utilisation_pct": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9040836
+      },
+      {
+        "category": "Indian Metals & Ferro Alloys Limited Towards Security Deposit Against Rent 6,60,",
+        "value": 810000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 9850836
+  },
+  "margin_votes": 66536,
+  "minister": false,
+  "mp_name": "Shri Baijayant Panda",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 10822872,
+  "mplads_unspent": 136177128,
+  "mplads_utilisation_pct": 7.4,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 56,
+  "mpsno": 4422,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-31T12:00:19.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "BJP National VP Baijayant Panda visits Kendrapara’s Aul, reviews temple renovation work",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFlaUXJydi1Ha3Rnbk9rYl92T2p6LUlQZWllMC1sdGVPaVJpdVN5c185S0N5VEdkX0xnOGJXQzRUOUdSTDF1cGU2Nm1WYlI2VW1RbVA1V3ZfZzBWdkFZelVmV3B0XzFxSjYwU2xvVjE2Rkx5WXpoWjVQMGNDY0hBMnpzZUF1UUt0eDBONzVRejhWRmVwZ3pxeTR3LXhGdFVBb2tsdGdJQjMyUzgxa2dhYldqRUJlTXhGWmlzWEV30gHDAUFVX3lxTE1XVDBtZG1tUVk1bzAwQmMwem5WZm1NSlNxQWJpdWtPUTBUal96QmdKMHBxWVU1eFJjSkNTM1NETGx5cTFRbjN6eWZYMUQwTDAzdmxuQ0MwSzlTQmM1c2R0aWpxaFFzaUFfMkpKcTdaZDFDSGVwR1pncE1XaG5vNTFiRWNDV0RHc1N4T3ZHLV9ISkRRZEFHWG1GaTVuT1puWlNtdTl6MzJDdGVCQmVBUFdmR19LR1hOaXo5ZTNDbWZfQWRCaw?oc=5"
+    },
+    {
+      "date": "2026-05-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "Odisha BJP in-charge Vijaypal Singh Tomar, National VP Baijayant Panda lead training programme in Kendrapara",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX3Y5NVlVQmVqVm9BZ18tcllPZkJqTlhSR1lsRTZYeFJTWmxFWDlFQlFfZXhjcUFNSGNpVm1sTDlFbWpQYnJSeG1oYzJ4NG1zOUxKcFVUT1l3TGhhTFAtRzVzOW1QYkppNFJpQ2FfbVZ6aWZZWmNTUlpqN0NJLVc2TXp4ZkNuSHh4aVFRMi1Mb0NkaFdwcmhmSXQ2dy1RVTZFQjF5OEpJTTJPXzBwUXZVOEx4VGVVcWp5aGJ6NFNXM3p6ZmN0TTlDMDFlamo2UnBUMVhwZERLWHd1cWPSAeABQVVfeXFMUHUwUUVSUVVpUlk5QjAxQmZVeDBud3ZRYmdGZi1OODdHaVJ3OVZvVldLVTdmOUNLQkhocGhJM0tBMkpwbWU3Sy1lQTE2NHo1YXM0a3VDNmlZWjlmVDlQMnhzT0gtWDdwRDhhazFDcGFCaUFOZ2NTUFRCQnZjZl9UazlQdlltbE44aXRoQjJweDNrTUJ4ZkV5SXpzSVl1eVlIWUpHSnV2VFJnUEI0NXNVWDgwTF9uTm81X0tVa1dud21LMUtsVGtfdXlxOWdkQmw5X254dEdDWlNNV21TWTdLV3g?oc=5"
+    },
+    {
+      "date": "2026-05-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "Vijaypal Singh Tomar, National VP Baijayant Panda Lead BJP Training Programme In Kendrapara",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmwzYWQtYVUxWlJOeUt1b0FFd1E0REdWdVR2MDJxeXJLTGZJYnBWSzJMMldhNHVKOHRlSUItMkxMTEUxTVJNU2pnT1ZBM0N6Rlk1RThMdjBVNjJfcUJfMlZQeXJuYzVZRE42dGJfNDRRRXphcEt6SWJ3d25nMVdkNThqMzVXM01XM1VPb195SjFHSFE5S21oc01YakRmNEUzM1ROY1REYUd2bVFPa1NXNUFhTVQ1OUVLczBIaHZsRXA1VFRyR01mXzBNZHpwMndlcnVWVtIB2gFBVV95cUxQTm5rdGJ5eUM5bHNDN013RjJsQWdNb2hLaDZNUnRzTHJQUmo4bXNacFNMdm5BRFZUSUhtUnRKdlgtYWxRbDlEZzBPNDd5QmFiU2tQbk9uN0F5U1JwQkhBOVNwTnp4OEJONkdfMzNGOFRIV0pydWttUUY0SEpYeS1ENThUQWdRM1ZRVWRVR3BPOU5CbS0tckRKY3dDU3d5VllEczJZQjlhWUpqYmZMTnNELVpRZW5ySlIxNnpLakh3TnJKMUJWWlNBM2gzQ09JQmtGMDdoRkd4NlhPQQ?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "PM Modi’s leadership and development push drive Assam poll trends: BJP MP Baijayant Panda",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnZlaFF0YWo0Y3FlTDh1TEd3Wm1LY0FCcWFUWUZFOEc3QjZONWI4bEREeUdLU0RUdHlBMlluWkRvYldDektaQVY1RW84VkxTLTNIdW9OX09vWlU2Z05LbXBMM1VEeTJhZVp1VzlLd05XMmtsZnhuQzhkOEtpUjQxblJVT282S1dnb2FteVpDWmtJWkhqbnY3QlM5aGZTQzEzc0RjODB6ZktDdFdCc2lWY3dBOC0zMFV2cVM4dFBkTWcybmvSAcgBQVVfeXFMUE5fMHNDSVhsTnRQTGdBN3VUS2FyWlVybGRRa09TbGF4Smg4R0FQQ1ZKWGc3bUZtTjBIYnMzY3ZVczRGdnZ3dFdFSGRqT0drYnNrWEljS0hORlJmZlU5RUpfckd1VWNBYXpSSnNDdEc5eml0TWxhOWFYZ2hTLV9PVjl5eXF1WXNpMmpMRWpYY1JOSTlZVk96Y01CTzY0VW03R3FKSXhDTlZnNmNEaVQ0ZEZrdktCX3dQSnVGLWNqZk16YzR2U3lNTU8?oc=5"
+    },
+    {
+      "date": "2026-04-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "Kendrapara MP Baijayant Panda’s Mahakalapara visit: A step forward in Temple and Healthcare advancements",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGZ6dnpNdXVmOUtzYm5TRmRENVpjWXJqZ1FIc0lHbkQ0VnZsS051YnpPc0NYcmFOTlBtV3p1cW4wZGdkWVVhN0JQell1YUdydzZhcklkWktFWDlxSmUzRW1IdGcxTlNzVDJ6TFVpQm13RExEbTBLcEtERk9BRjMzX1dJb2NyMl9RdkR4YUpUalNzUEJWT1JnbUFzOXdESXUzU1lKOUd0Wl9sQUZsaTZsMTVDWHo1akROYkZQU2tDT2tsU2VkMEtYWUV1SWIyM24wek43VdIB2gFBVV95cUxPSG81LTN2TGktOTh4amk3UVpVQUplc0hnZWVMaFFVc1hmNzZOZVFPVlFNa01WeFZZcXZqcTJSeF9zWHlCM3FDR25nczMxOUVGY3lTeVlwUUs1V3Z2Q0JnakZXbjdjVkJrUlBSSmlwTVhZMzVLSXEtSHFJaUFJa1hLSGs0Vmk0OUpNNEsxZXF6eFpDcVpsUDJXWVp4X0V1QndYMzNIWlRXOV9HS243ZU9nOVp1SkRObm9tNlFKTmpzRVJQTFB4M2FyMEpQVWdoaE9KdVFPR2ZyTWxhUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 7,
+  "nota_gt_margin": false,
+  "nota_votes": 5815,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-15",
+  "pc_name": "Kendrapara",
+  "pending_cases": 8,
+  "phone": "Tels.: 011-47502112, 40071211, 43519923, 9871695140, 8527053111 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180302.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to provide financial support to Odisha for development of Green Energy Corridor",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 135
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/baijayant-panda"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 39,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Development Of North Eastern Region": 2,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Road Transport And Highways": 3,
+    "Skill Development And Entrepreneurship": 2,
+    "Statistics And Programme Implementation": 1,
+    "Textiles": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ANSHUMAN MOHANTY",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 38,
+    "criminal_deduction": 13,
+    "legislative": 53,
+    "mplads": 17,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 7
+  },
+  "serious_cases": 1,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 1480878708,
+  "total_liabilities": 9850836,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.21
+}

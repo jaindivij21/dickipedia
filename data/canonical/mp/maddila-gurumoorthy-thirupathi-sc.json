@@ -1,0 +1,582 @@
+{
+  "accountability_score": 63,
+  "age": 39,
+  "assets_2019": 4725044,
+  "assets_2024": 13249134,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 0
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1635500
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1635500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 500000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4758628
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 30053
+      },
+      {
+        "category": "SBI Life policy no. 1K503950702 1,50,000 1 Lacs+",
+        "value": 150000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1308150
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4866800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11613634
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=NKBnQZ6MdFP3Un4eXzXH",
+      "total_assets": 4725044,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5125",
+      "total_assets": 13249134,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 180,
+  "assets_latest": 13249134,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Maddila Gurumoorthy is an Indian politician from YSR Congress Party. He was elected as MP in 2021 by-polls from Tirupati Andhra Pradesh, India. The bye-election, held on 17 April following the death of sitting MP YSRCP's Balli Durga Prasad Rao in September 2020.",
+    "title": "Maddila Gurumoorthy",
+    "url": "https://en.wikipedia.org/wiki/Maddila_Gurumoorthy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": null,
+    "emails": [],
+    "phones": [],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 9,
+  "dob": null,
+  "eci_state": "Andhra Pradesh",
+  "email": null,
+  "gender": "Male",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1216960,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 874240,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 958000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 480000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 419240,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as MP From GOI , Agricultlral Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture Income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹47.3 L (2019) to ₹1.32 Cr (2024).",
+      "headline": "Declared assets grew 180% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4725044,
+        "from_year": 2019,
+        "pct": 180,
+        "to": 13249134,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 29% of MPLADS local-area funds were spent — ₹12.83 Cr unspent.",
+      "headline": "71% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128327883,
+        "utilisation_pct": 29
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 16,118 votes; the seat was won by 14,569.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 14569,
+        "nota": 16118
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1097657
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1097657
+  },
+  "margin_votes": 14569,
+  "minister": false,
+  "mp_name": "Maddila Gurumoorthy",
+  "mplads_allocated": 180399007,
+  "mplads_expenditure": 52071124,
+  "mplads_unspent": 128327883,
+  "mplads_utilisation_pct": 28.9,
+  "mplads_works_completed": 70,
+  "mplads_works_recommended": 232,
+  "mpsno": null,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-12-08T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "YSRCP MP Maddila Gurumoorthy demands urgent action in Tirupati sexual harassment case",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMjRlTDRGLWsxTXR6WS16MXY5YkpwN09mc3c4Q3BFY2JXVjJQSjg5LTZiNE1VVG5XTFo1Z0ZzOU9fNVl5Q01xcHVJbjFXQXdIOWF3VGxrUEJJQ1JUWE1haTVMNEZKTFFwU0N4bkMtNmlOREt1Z0lkZUtLWVduVUZsYlFnbEUtaFFCMmJ6bWxfcmQ5bTJEN0VlN0xlVmVhWnR5MHc0YWJ5bG1pcmVMQUdHRy1JWk1xa0MtZ0tKc0g5b3hSd2V3d1dGQURhVnlSM25lZmRuc3JYMDMyTWhrMHEyVUVUNA?oc=5"
+    },
+    {
+      "date": "2025-12-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ysrcongress.com",
+      "title": "MP Maddila Gurumoorthy demands urgent action in Tirupati sexual harassment case - ysrcongress",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWo3a3c0WEY0RGRmdERPclVPMnhYRkROVExOaTB2RDZKSEZmRjZ6eTIwVlNCMmg4UWRyZzlhM1lsYXJHakhsak95djhtYzNNa29wTS1jZXhueDdpNWZJd19OYzJfT1RvblRMRkM5ZUNXQ0RLRlVEN0RCZEZ1WnhXaUln0gG8AUFVX3lxTE5pSF9ldVhtT1ZrNmtaTXBvMjlPS0MxU2VKamVyZDR2alItSG9iLTNsVEZXdkpGbFZWTzVtRnZIbHdKQmxLYmd0alVieGpnc0MxVERMZWdONURUU2YyYnZIU1FidU5XYkpjdmhud2lRLVBZa3hJaXlRUHNGRllyY05QZ0pJbU43bXIySHpEMlhKX1pKanNpZVphNHNNWGF5TFpYTko0eVktSExGeEQ5WHBzeUNlVUFnTEhVcTVx?oc=5"
+    },
+    {
+      "date": "2025-06-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ysrcongress.com",
+      "title": "MP Maddila Gurumoorthy urges Centre to rescue mango farmers - ysrcongress",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TREluNnNRV21tRURZenEtcWlkZVp3clRZOUUzcFZZSTZYOHlmZHh5dmVRb1k0R2d4dl9rMzJOYXFxcUFGcVdESVJWbWk0X1FGY0pNTk9JSFRGeDVuVHdlZXNTY01EOTVJWDZ5bUozbkdXZWJvVGRwS09NQV9RazTSAboBQVVfeXFMTkU5MUFaTGVHSUVLX3Z4RS01QTdZVXd3dGg4eURYeVZBSDRtT1IzM1ZSY2NTUjBkRTQyU3o2NXJ1dVpRajZmdTZ5SXZIb2NLckNuQXp3OVl3UGQtWnhFdnN2R25pRzFndzJWZTdqenJWRnkwQ3N0Q3dDenhxc1l0SFZyTEZjQmRxVjRmRVZGNW16LTBmTUs0OFVLVjZYeWk4T1J0T3ZWLXZ2SHp4V25MVzZIQ0Q2ZUw1QUNn?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "YSRCP's Maddila Gurumoorthy Wins Tirupati Lok Sabha Constituency",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclM5N1NVbnJxSGlYWk9MV0NuMkh0WmNuekY2ZU02WGUybVhXeG9VckUzRjE1NFRVR05zakZSWVhQbG95T2NSem4xWGJFTnNmaEVYS1VkdjVnWVVPWWdleXo3T3hxdFk5blJUOXdhNk9uMFJ0ZktrWGNoTS0zTzh1Z2pPZUNsY1NoZWkwck94bGJZWUFUQmtKaFN1aUxEWlUzZnR4a1dlU1VzTmpvNlB0VVY4OA?oc=5"
+    },
+    {
+      "date": "2024-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "YSRCP MP Dr M Gurumoorthy aims for a second term banking on rapid strides in development",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcmpicGhuOFB6UXdXQnFMZ3BULU93ZmlESEdaeWVqd0NNNVQ4dlpWd0FqOUhyak9HcEx5d0VfaU5tMFo0WTR3c3RoaTBDaElRaDhfcDd6SEVwR0pPRnRvb2UxaDVvTG5oQzQ1SU42ck01b2pQQlh2cjYtLWZtQlZ5QmFsVlc5NmVGaEx2WE9nZjhHbllpSXlQT3FrYXFJeU1lUGh6dW91NEVlel83QS1qNV9hQl9QV0M0VG1USHdfREl6MVl3Q01Ya3hlTkVQMS1odzZCbFRSMDZaZFplWjYzbTVlYWY0YTYtNUIxaXVlQlpGVi0xMkZ3Y9IB_gFBVV95cUxQLXF4eng5M0JYOHlzelpvUUJtNXN2ZXhOWmNpbnB0bFZWcjRnZ2pVallnc2ItQk9PMnhES1NlcVVWV1hNT21HanljTHVqMXJaR0xsd2JVX3A0Ykc5Z2ZvUzQ5Y0FIQXktMUV4QXJEYm5jVGViOGFDT2JQeXkwYzRnTGhUaVNSRlQ2clFpUWs5bTNiaG5rUnVWeUdySzRpWWhxVjJKQzZWNDhwRXNubWxOc2V2QTVqRDhJU3A1QUlReHNfLVNwb0dPNlh4UTRKcFc4QkRoYU5RdGczcFlUWWtla2FGQ1hlYVBkY2RmRnNwVzlfODBUUjZBRDFVZGdJQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 16118,
+  "notable_record": null,
+  "num_candidates": 23,
+  "party": "YSRCP",
+  "party_bond_total": null,
+  "party_full": "Yuvajana Sramika Rythu Congress Party",
+  "pc_id": "andhra-pradesh-23",
+  "pc_name": "Thirupathi(SC)",
+  "pending_cases": 0,
+  "phone": null,
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180017.jpg",
+  "photo_source": "prs",
+  "pmbs": 1,
+  "press_accountability": null,
+  "profession": null,
+  "profile_url": null,
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to take steps to resolve the long pending Inter-State dispute over fishing in Pulicat Lake region in Tirupati district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding clarification on Non-Convertible Debentures (NCDs) borrowing and its effect on Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to expedite approval of Government Medical Colleges established in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to take comprehensive measures to safeguard the interest of aqua farmers in Andhra Pradesh in view of situation after imposition of tariff by USA",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to make CGHS Wellness Centres in Tirupati, Andhra Pradesh functional",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding alleged breakdown of law and order situation in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding issuance of Non-Convertible Debentures by APDMC",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "regarding problems being faced by the chilli growers in Guntur, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Urgent Call to Regulate Online Betting and Gambling Apps to Protect Citizens",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Clarification and Protection of All India Services and Group-I Officers in Andhra Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding attack on elected representatives in Tirupati, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Urge upon to govt to take immediate steps to ensure that the anganwadi Workers, ANM Workers, ASHA Workers, and resource persons working under SERP & MEPMA schemes are provided fair wages in accordance with the minimun wages act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Raised the railway developmental issues in Tirupati",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding six-laning of Nellore Chennai National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding construction of the Inter Modal Bus station in Tirupati",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding safety and security of former Chief Minister and Members of Parliament of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding problems faced by fishermen community in Tirupati Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 34
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 136
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/maddila-gurumoorthy"
+  },
+  "qualification": "Graduate Professional",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Cooperation": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 3,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Petroleum And Natural Gas": 3,
+    "Ports, Shipping And Waterways": 4,
+    "Prime Minister": 1,
+    "Railways": 3,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "VARA PRASAD RAO VELAGAPALLI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 68,
+    "criminal_deduction": 0,
+    "legislative": 77,
+    "mplads": 54,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": null,
+  "top_inference_severity": "notable",
+  "total_assets": 13249134,
+  "total_liabilities": 1097657,
+  "wealth_pct_increase": 180,
+  "winner_vote_share": 45.73
+}

@@ -1,0 +1,424 @@
+{
+  "accountability_score": 46,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1750000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1750000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 377320
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 23967
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 38751xxxxx 49,140 49 Thou+ Bajaj Life Insurance Policy No 062526xx",
+        "value": 221522
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 612000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 982500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2217309
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=268",
+      "total_assets": 3967309,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 3967309,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mahesh Kashyap is an Indian politician. He was elected in 2024 to Lok Sabha from Bastar Lok Sabha constituency. He is a member of Bharatiya Janta Party.",
+    "title": "Mahesh Kashyap",
+    "url": "https://en.wikipedia.org/wiki/Mahesh_Kashyap"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village Kumharawand Kalcha, Tehsil Jagdalpur, Chhattisgarh, 494001",
+    "emails": [
+      "maheshkashyap3135@gmail.com",
+      "mahesh.kashyap@mpls.sansad.in"
+    ],
+    "phones": [
+      "7000940005",
+      "9425487755"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "01/10/1975",
+  "eci_state": "Chhattisgarh",
+  "email": "maheshkashyap3135[at]gmail[dot]com,mahesh[dot]kashyap[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2020-2021",
+        "income": 396270,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 386220,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Transporting Work"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture and Honorarium as a District Member"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 37% of MPLADS local-area funds were spent — ₹9.30 Cr unspent.",
+      "headline": "63% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 93033139,
+        "utilisation_pct": 37
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 34930
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 34980
+  },
+  "margin_votes": 55245,
+  "minister": false,
+  "mp_name": "Shri Mahesh Kashyap",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 53966861,
+  "mplads_unspent": 93033139,
+  "mplads_utilisation_pct": 36.7,
+  "mplads_works_completed": 32,
+  "mplads_works_recommended": 172,
+  "mpsno": 5626,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-09-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "PIB",
+      "title": "Nutritional Diet Essential to Prevent Diseases” – MP Mahesh Kashyap",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aT3lCZGFWa003dDRYcmcxeEE1ZkI2ZkljNUtTOVVXOEg5cHpfc0xxV19uYTBtOVRvN0g2LXFsMFJQR1dDd1h1b0hERDkzaXc2WFlOa3VoQWhMZllDWU1VZGRBMEJXLWI3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bastar (ST) election results 2024 live updates: BJP's Mahesh Kashyap wins against CONG's Kawasi Lakhma wi",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTE1XZWlKcm1BMDJJT3BzVjN6UkZ1aFdJYjhzbFFCaDJ0eXZTcHVSNWI3eHlSV1ZfMHJNRGlQbGN5d0JGR0FaVEFPSXFpZDJobFFWWnlaQURLZ1o0Qkx2UE1ENnBRRmhhUllKNzRSSkNneGEtVU5uOF8zamRxR2lEV1Jya1huLVNCdmkxX1Y5eFRQSWtzY1B2aFV1SzkzZmRDVV9HWWVKbWkwMFE2dWxBczAzUFpieVlwVGJyMElLdURWQTIxQThYYUJfN1hBZ3pjMS1QZ2hpSU84bnhMbXhqVW03czdEQVFDUnJUQ2FrZjcxbjRQamwySmsyWFNKNEF5M29jTklLWWpHdjdCX1lsaEI3WWl6UDFZZERDX29MNmlhLWFSQUdj0gGsAkFVX3lxTE9XeGJDd2dlUXk1Z3dxT1g5MVY0SjVXUGpiS2lSdk95RVhiMTdDc1AwbW9iQmh2dmYwVEdFcWdJdWY2SUFnNmRVT3d5TzRfWWhsSnAtenhuOGNiS1dwRk9fY3ZQUEZkak5QSWJvbVNMMlBpUG9FbmZSNzk1aHRYX0dLVDR0aWo2ZFphTVdmUXdEN1BhcXV3LWQtMWR1Z3lNc3ZvdG5wd25xaU5ONU13R2lETUVuV3NBeDJHRTJvU2hFaEhXVzNsSFF1QVQ4bnIyTW5MdEl3VlRuX2dPNkRTTS1vSFdmZHE2ZTN4eEM0VXdLZC1yc21HV2VUNi1EYXNFMUR0Vl9OUjg0SlNsZ1NpOXBweVpPVHV3MjhaOHRSSHVJZ2dILU9CUU1GZ1A1cQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bastar Election Result 2024 LIVE Updates Highlights: Mahesh Kashyap of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdnZ2YjZ3ZFdkXzUxejJySTdDZ1FjaGJkY1RmaXhVNFlneS16VDhRWFl2YXk0bEZQUVdlS19Eb3luME5xWFdLek9KVFd0WlVrRWJvYUFZdDZ4QWlFM2pSb1RXMVBhZ0ZoX2tlUWVuTkxyZWVlaXZRWVFwMVBGWW1GLWFZOE5fVWVNTTVsRVJGZGxzeWxmZGRjTnhPeWExejZnOHE2M3Q0cnJnSWZoc1hRRGhVUkM2TXFaYzJCVmNHaG9jd3ZLTFJZaFRMdnkxZjhsc0ZqWU05ajZkbE5wWmJyUNIB5gFBVV95cUxPTm5UZlFMaGhoa1hEdUdFSmM4V29kZkRnOUxxT1NtR3piNUlEeEdQbVR1ak1xa3RrTzl0cml3b01odHBlVXhxek1acUdIZjVJdHpZMktEMUZOY3poTTlIQUJRSG93cU11T1lJNEdEN3ZtWlE5d3htM2VOLXFZVU56N1lrTWZQTDVUY04wZGhwM1NJTUxsWUticVZWdFY1QWo3eEY2bWJSMFBMWnVXU0lWMmdFV0tuQTd1NUlST3d6blNyc2M4SS1lVnY1cGhPS2t0bG9jWDRBZjBzd1JhUzkzMmpyRDRWZw?oc=5"
+    },
+    {
+      "date": "2024-04-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Bastar Lok Sabha Constituency: BJP's Mahesh Kashyap to take on Congress' Kawasi Lakhma",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjZ4V2JvRkFBdzVjNTV1NENUb0FzVjQzRk4zSkJXMVBwNHI0amJrb0g2bGU2alZaZloxTVRZVDVTa045Y2h2MU9GSENuR0FQWDZZb3lQWmFFM212bzVMRGN0a0RoWHhKVXdZZ1Z0THhueGk1V2gwS0RuU2Ywb1I5Wm9paEg1LVdYa1p6b0o2S0xQdTJUaGNtNlA3c2EzU2JScG9mYldFU1dwMVRKTFJQVzd0bFNJRzh0ZXlObWdPZWMxWWQ0UU8yOXpsWDZRSVNEaC13OVVCWGh2OGc?oc=5"
+    },
+    {
+      "date": "2024-04-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Bastar Lok Sabha Election 2024: BJP's Mahesh Kashyap to take on Congress' Kawasi Lakhma",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaUJpVzlRN19paVlaSm95bm92aS10YnowNms0Sjd5QWFJdzBYbEVKYmJOcHV6R2dQQkVCTkU5VHdtdm1uNkVRYVVoRFljUnNiYnN3Y1dHOWNfVWc2XzJKTjBOdXNkdWE3OGhTVzN5OXVZQnFGUHJlSDZCaWFOU0RWOWZzZV9MS2NsSXdWTllVYjFpeHNvTVRhOFktbDNINDkzLXMxYVRsLVRKWDhzRUIyclhPZTJOM2hJV21SWE9DMFRHSmtaQk5qZlVYSUZmOEZVdE5veVYzNVFRRER4c3NfeVlsZDFIQWVBR3dWQ2pfUmswWWhDYXZ4RlpjZ255d1lJYkhSb083OE45aVp0NVNvNWxZYmh3UkXSAZwCQVVfeXFMTlZzUUZpd0QxMXhCT2hSQ0NCeGx0T0cyMlhEdzJGeTlIWkdVclhnUFQtLXhCY1VxSnFEUzBOdDFhQ1BpNEVhMWN3NWVENmxNT09TWURsMWFuVjh6ckN1N2pkUkd6dVVqcnJta0tkZjJuRTd4VVhNVGtfb19xT2NubTVscDk5UXBQV3RBbFRDOEttdnBZVGlFSlU4U2dQWWg2WjZOUERObHFzNUxrUE04TlJUc0RmejBfM0thWVZvcG1IX1FWS3c1b0JCdk9LN3JXeGdzRnZORDlMZjFHUkxkWTVNanFDY2dfSl93MWZJbTlUcmV4dnpOR0t5eFBOQ083ZW1mRTN3ZFZnbEpIQWZsOS14d0ZxdW5BRFc4Tnk?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 36758,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "chhattisgarh-10",
+  "pc_name": "BASTAR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180089.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 87,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding census in Naxal affected Bijapur and Sukma districts in Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to establish a sports University in Bastar, Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to develop various eminent tourist places in Bastar Parliamentary Constituency in Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding release of funds for development of newly formed Gram Panchayats in Bastar Parliamentary Constituency, Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for protections of women in Bastar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Immediate Resolution of Water Crisis in Bastar Due to Diversion of Johra Nala Affecting Indravati River Flow",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding distortion of image about Bastar, Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Issue related to the railway line in Bastar",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.3,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 123,
+      "value": 96
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mahesh-kashyap"
+  },
+  "qualification": "Matric",
+  "questions": 14,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Health And Family Welfare": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "KAWASI LAKHMA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 0,
+    "legislative": 39,
+    "mplads": 56,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 3967309,
+  "total_liabilities": 34980,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.5
+}

@@ -1,0 +1,583 @@
+{
+  "accountability_score": 51,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2650000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7250000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 358442
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 52500
+      },
+      {
+        "category": "LIC Thanjavur Policy.No 3059xxxxx 20,00,000 20 Lacs+",
+        "value": 2900000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 990000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9033450
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13484392
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1451",
+      "total_assets": 20734393,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 20734393,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "S. Murasoli is an Indian politician and Member of Parliament of India from Tamil Nadu. He belongs to Dravida Munnetra Kazhagam.",
+    "title": "S. Murasoli",
+    "url": "https://en.wikipedia.org/wiki/S._Murasoli"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "3/21, North Street Thennangudi Post Thanjavur Tamil Nadu, 613601",
+    "emails": [
+      "murasuporselvi@gmail.com",
+      "s.murasoli@mpls.sansad.in"
+    ],
+    "phones": [
+      "9677599329"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 6,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 6,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 6,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 4,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 4,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "C.No.965/2020",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "C.No.965/2020 Nadukkavery Police Station, Thanjavur District",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "341",
+          "188",
+          "269",
+          "270",
+          "341"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.No.958/2020",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "C.No.958/2020 Nadukkavery Police Station, Thanjavur District",
+        "other_acts": "R/W Sec 4 (1) of TNOPPD Act",
+        "sections": [
+          "143",
+          "147",
+          "341",
+          "188",
+          "269",
+          "270",
+          "341"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.No.957/2020",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "C.No.957/2020 Nadukkavery Police Station, Thanjavur District",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188",
+          "269",
+          "270",
+          "341"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.No.1467/2020,",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "C.No.1467/2020, Ayyampettai PS, Thanjavur District",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188",
+          "269"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.No.48/2021,",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "C.No.48/2021, University PS, Thanjavur District",
+        "other_acts": "R/W Sec 3 (1) of TNPPDL Act",
+        "sections": [
+          "143",
+          "341",
+          "353",
+          "269"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.No.1307/2020",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "C.No.1307/2020 Thanjavur Taluk PS, Thanjavur District",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "270"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "26/06/1978",
+  "eci_state": "Tamil Nadu",
+  "email": "murasuporselvi[at]gmail[dot]com,s[dot]murasoli[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 5231730,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4508789,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2918640,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1191693,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1287127,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 992340,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1436608,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 910816,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business, Agriculture and Advocate"
+      },
+      {
+        "person": "Spouse",
+        "source": "Assistant Public Prosecutor Gr-II"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 46% of MPLADS local-area funds were spent — ₹7.97 Cr unspent.",
+      "headline": "54% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 79652755,
+        "utilisation_pct": 46
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1713125
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1713125
+  },
+  "margin_votes": 319583,
+  "minister": false,
+  "mp_name": "Shri Murasoli S",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 67347245,
+  "mplads_unspent": 79652755,
+  "mplads_utilisation_pct": 45.8,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 66,
+  "mpsno": 5798,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-11T08:04:39.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Murasoli S , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1JjREE0WkNfaTRmN0w1N3pLVlVCLVRweFc4aWtMbm9kWWVLdGIxOWhIZzBYVlRDMmp0b3VKdGtpdlhTX0ZVaEdmR3dzc2lJV20tdzIzYlJnUlc2UFY0aFJRWDRDM21CRi1IZnEtMmd4QmtSVkRJckIwbHNsd0hVWg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Thanjavur election results: DMK's Murasoli defeats DMDK's Sivanesan to win Lok Sabha seat",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaU0yRm96SVNTVDJlRGFUdUJwcnVfLXhLZ19SYVNrNHNhalg0aE8wM3RYRWF6V05DXzdMcVQyMjdobWpwSjVSeTV5OC1JMUtqQUtSbU1RdnBZNHJSV29KQ2dPRXRfbTFDR2VwRC1RQjdWXzRxUERZX19aRUV2Wk0wemhCT0o3aFFYZG8zVnkxY3NyaFpnUFp2cXB5dVZzLU1PcDN6ZUFhZk5mLXNvd1k0ejVrZEhTRktXN0FHUjZtTXdLVUdWSkMwVUE4QXV5OHZmaXp0aTc4WDl2dXJLc3JqN1lFdGNZSG45MllEY0pseU5XckNCQzB0aEVaT3RIOVN3eTVhRGhMbDNwQ2MtRm9meXNaLVluRDloSjlmYzJJWUtBV2FHN1pTX3pESWVMcGFSallCSno2UlHSAb4CQVVfeXFMT1o4RDYwMW5TQ2pMeUFPNHhBUmtrWHZEdWNfc19zR25CbUh0SFlPcUozeE0zbGdKVUZLYVVfZDgxZ21BeFpHdXRGek9zamRUa3VRZHdxVUZDUU1sLXRVeW43NUFHR0xsLTVSc0FRa0xZU2pZTF8yVkZDcWF6ZEJjY1B6bUJlZkFJRTZTRWE1YzhFa1A5cG5tMmVaTFB0d2JNa0NNemR5WnVOVFVTZ3RpWURsNTFYOG1ZUjk5dEhBV2xpRm5kVnhyR1hKYm5Ya216SllqZzVTM2Via294QUdrdDE1VmliWEc2YVVNTkJzZ3pfM0h1Y0tyb1VlX2p4R0otS3VHU0pTeGl5QnRYUDBqNXNiOGp3QWl2enNxdVJIYmxpVWhQYnJjZzhNM3M2YW1ELTVrdlRCa19WcDlKY1ln?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Thanjavur Election Result 2024 Live Updates: DMK's Murasoli S Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcUJielhMVTZLbTQzNy1oOEMxdnA4c0tSN2dTMkIyTlgxZ2F2OW5ZX1JRM05pc2VmU1hmNlZpbzdudnpzZ3pEZHBVV3pJVEFycEpkc3Q0R0NpYWRZNXMxSV9QT0xKUUhMaHk2U2ZYaVU0cEcwcjlwN24xeFRpeFhIa3NfcEFfWU15eFNJR1pkUDU3a0YxcFpsNy00RXlac2tMX0R3SGJ4bEpwQXR0S3A0LVFqdHpjTE0zbmhvZmNJWDF1RWZCTVhPRdIB1gFBVV95cUxQTEFLRHBOS09LVEZrZUhsSEtqaUlJaWloT3JEZ0h0ZW1sZGM1cE83ZzdnRFhNWjNzcXJwY1VUMjBtelZFdTVvYXg4TkdtYjdLZDBrUFY4MUVJUTR3MnJZYTRaQkE2RGZidVVVVDRpZWJuMkc5R3pnalZWM3luWHNhaGZ2bkdKZy1SRm4zbzhqSFFDQXlPMHZQMHFJQmhNM0RSbHRTS1F3VkRiSDhlUDNWUm5iWHYtek5kU0lTdzdBbHptUmN2eDhRX0VyTHBzQW4zRmo5ZkJn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Thanjavur Election Result 2024 LIVE Updates Highlights: Murasoli S of DMK Wins",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjh0cTJDMnVLTVVubEg4U1piSXlUZHhaSV9QYk5BMEozTS1wYmpFU0pWREJtVmU4bC1teG1XUDZXX1dMX0tLNG5kV19PclJ1YXNOQmdkTFBOVklIeXYyajlkbENmNE05SWV3MS1WUUFDUi10OUlpQkJUTnV4NU1fOFgtdFl6UUtGSm13cHdwRXN6ZE1tenlVdDdGT2k3djlJemRWdDc3eUN1d3pua3NjLUFCelBHc1ZiRUo5bjFR0gHDAUFVX3lxTE0zRjJyVmlqRTBVR3J5UHpRLW9WOW8ydTRRR2Y5NGFmaERPYzRlbjI2cHk4bFJJNlNFLTBweGNaLUpBNnRHVGJBRmtMb2NxVTN0V2d6VlU5SGc2ejVpNi1qTnpYUHMxWnhDQzFLQkloTTlqMFpWeXlwOURYZkFHcTl4cjhVTkVGbzBQSUpIdHJmRGhOaFlKUHlLbjVWcmhYOGN2UHlUbVJfVUgxbjNfNkVucUsyOHpWbTJkbHYzdzE3cVJSNA?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:42:44.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Murasoli S, Dmk Party, Thanjavur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTdLYlRvTjZ3enpDUjRaa3JXUGRqTUtZb042dWZySzRDS3ViOUs0aUNqZl9hYkxfa1JlWEVWZ3dBRW1GN2dabjJEQ1lxRnZxZ0pwWXVQQ1UzcnBUVEdqSDF2TzZ2TlNCNjU5UThJRWJoREpCNXJZcnlDdXRoWjg5YlhadXE1cE9abmRaRGl4V0NWYmFpZk51UHdVRHU2V19Jd2V1Y1RIUG9VZ0tOZGczT3laODdyU3ZvRVk5Uno4Q3FHU0hmRUJMMUp4Sk9tUkhBc0pPSjJ4OHR1Zw?oc=5"
+    }
+  ],
+  "non_serious_cases": 6,
+  "nota_gt_margin": false,
+  "nota_votes": 12833,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-30",
+  "pc_name": "THANJAVUR",
+  "pending_cases": 6,
+  "phone": "9677599329",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180380.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding railway related issues in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to set up a Krishi Vigyan Kendra in Thanjavur Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to increase the moisture content of paddy and enhance the procurement quota by FCI in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Increase the Permissible Moisture Content for Paddy Procurement in Tamil Nadu�s Cauvery Delta Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Train Stoppages and Introduction of Vande Bharat Services for Thanjavur Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding establishment of Krishi Vigyan Kendra in Thanjavur Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Additional Funds for Synthetic Athletic Track and Youth Hostel Maintenance in Annai Sathya Sports Stadium, Thanjavur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to enhance the compensation for the workers who die during engagement under Mahatma Gandhi National Rural Employment Guarantee (MGNREGS) Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Urge upon to govt that the sufficient and prescribed volume of cauvery water should be released to mettur dam by karnataka",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 46
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/murasoli-s"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 17,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SIVANESAN P",
+  "runner_up_party": "DESIYA MURPOKKU DRAVIDA KAZHAGAM",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 6,
+    "legislative": 40,
+    "mplads": 82,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 20734393,
+  "total_liabilities": 1713126,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.82
+}

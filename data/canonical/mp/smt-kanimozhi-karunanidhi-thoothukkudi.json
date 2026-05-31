@@ -1,0 +1,629 @@
+{
+  "accountability_score": 55,
+  "age": 58,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1827000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 158802000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 47444550
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 208073550,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 13500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 378915673
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1000000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 13716290
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5537455
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 911627
+      }
+    ],
+    "movable_total": 400094545
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=6tGgEkDewBmGm9BGWLN",
+      "total_assets": 303373130,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=566",
+      "total_assets": 604056590,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 99,
+  "assets_latest": 604056590,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "The Karunanidhi family is an Indian family that has had considerable influence on the politics and cinema of the South Indian state of Tamil Nadu. The most well-known member of the family was M. Karunanidhi, who served as the Chief Minister of Tamil Nadu for five terms and was the leader of the Dravida Munnetra Kazhagam (DMK), a prominent political party in the state, from 1969 to 2018. The family traces its roots to Thiruvarur in Central Tamil Nadu, and later settled in the state capital of Chennai.",
+    "title": "Karunanidhi family",
+    "url": "https://en.wikipedia.org/wiki/Karunanidhi_family"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "No 14-I 1st Main Road, CIT Colony, Mylapore Chennai Tamil Nadu, 600004",
+    "emails": [
+      "kanimozhi@mpls.sansad.in",
+      "kanimozhimds@gmail.com"
+    ],
+    "phones": [
+      "4424670606",
+      "9123531157",
+      "1123782887",
+      "1123782886"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/KanimozhiDMKpage/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/kanimozhidmk"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for false evidence",
+        "section": "193"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC 1/2014",
+        "charges_framed": true,
+        "court": "Special Court Judge Mr O P Saini 2G Cases Patiala House New Delhi",
+        "fir_no": "01/14 ECIR No.31/DZ/2010 Enforcement Department New Delhi",
+        "other_acts": "Sec. 3, r/w 4 Prevention of Unlawful Money Transfer Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1/2011",
+        "charges_framed": true,
+        "court": "Special Court Judge Mr O P Saini 2G Cases Patiala House New Delhi",
+        "fir_no": "RC DAI.A 0045 Date 21.10.2009 Investigation Department Police Station CBICG Complex New Delhi",
+        "other_acts": "Sec. 7 or 11,12,13(2) 13(1)(d) r/w Prevention of Corruption Act 1988",
+        "sections": [
+          "120B",
+          "420",
+          "409",
+          "468",
+          "471",
+          "193"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "05/01/1968",
+  "eci_state": "Tamil Nadu",
+  "email": "kanimozhi[at]mpls[dot]sansad[dot]in,kanimozhimds[at]gmail[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 15834637,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 15525477,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 16665380,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 16757660,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 14735080,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rental, Interest received from the Bank, Mp wages"
+      },
+      {
+        "person": "Spouse",
+        "source": "Retired"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 0,
+        "pending": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹10.67 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 106667622,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "west gate logistic 31,45,387 31 Lacs+",
+        "value": 3145387
+      },
+      {
+        "category": "Rent Advance Amount 28,24,800 28 Lacs+ Rent advance amount 90,000 90 Thou+",
+        "value": 2914800
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6060187
+  },
+  "margin_votes": 392738,
+  "minister": false,
+  "mp_name": "Smt. Kanimozhi Karunanidhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 40332378,
+  "mplads_unspent": 106667622,
+  "mplads_utilisation_pct": 27.4,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 41,
+  "mpsno": 4960,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Outlook India",
+      "title": "Kanimozhi Karunanidhi’s Glass Ceiling in the DMK: Ideological Clarity Meets Political Limits",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ28wZ2hwcnpxcW5keFV2WjdPMllwemY2Y2kxOEdjalI4MndVbGlhM1Bzdkd1Zm9nLXBrV1F5TXZTWmk2Z2N6SHZPZk5SYTA4a0FYV0l1U1k4Yi1id3lsQ1VxVFdHWmxkUUNoaEp6Q1pTVjFOdmpoX2JkS1cxTUJDQU9SWEJWakE2LTVuWU5WRGRTYnVSdGNwekxPTG1zczk3d0JRYnRHM0R3UGdOYmI5eklpdjdDLTc0ZThUd05LclVJaHpOYlpF0gHUAUFVX3lxTE5NbGhWTE11VTFyeDhPNnRQVHJWUllZLUF0MHlaY3VTWTh1aWR5NjlFZl9WYWJ2ZWVoZ1RMSjdKUG54cGt4S2J6MHRPVUpLR3ZhQ1JGMHpCR0g1Wi14QWdPZmpwVmJDeHlybktzZnhjZWJnZFVwUEs5emJ1Z1lfVUtjMzQ5aHZjX2FjSVRfQmllY2hxV1JhM2NFSFFjU19DQ1MzOTJnRWd3WDdvZUlzUUVOMEpybFcyNjlVdnVMZU1hWDNTdFJJeTNNLUZLbDRCLVE0Q1RT?oc=5"
+    },
+    {
+      "date": "2025-03-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Land acquisition for space park will be dropped: Thoothukudi MP Karunanidhi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnBscE5VUUxtOGNyQzNPSi1RYk94Nzl2ZjB5QlRSdUdEanZRNmxUZDREY3A3TTZCcjBYbndiaGY3amh5NXJzeE93akNGTUZwcU1EWE9ObmpIWUJyVVNTT0YxbkVvQW1QRFk5WWc2QnZVRTRoRkFqMzdYNjcxSkIzVkV2S09CcFZtOEgyZkRTYzlhQlF3dUJBazNtSFdkNFBoTmI1YjE0aThHZ0VJQUltam0wYXE4QUxoOXJhWmtIM1VUcUx0QmhHTndwNHB2VTNlZC1z0gHgAUFVX3lxTFBaR1NIMkFuSTloTE5yaWhhVjZxUng3U3E4QURDLXhTNlp6RlBsMkZldk1KclNXb2JuYXZLR2hkSURvZHN1bGdCVnlfZmVta3JXWXlyQUlvd0JzQXNjN3ppbGFHRG1neXNTZnlvN1N5MnE1Y0FxLVJSTkdLRllydG5JZjJHQTMzQ3lDT1dIR09KUmQ4VG9LV0xPR18zWWdzdThaLUJYR1hVeWo1Z3lGcGFCNEpfVGpfUkx3cHRqX2doOF82Nm1ZODB4VVcwSHJTeV9TMTA1WEFsRzBDekh1MS0z?oc=5"
+    },
+    {
+      "date": "2025-01-26T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "BJP trying to amend Waqf laws with ulterior motives: MP Kanimozhi Karunanidhi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXhfUVl5VWtmM0ZHRUM0cElQeXl0QkFhVVQyTm4wTjd5MEM0bDBQNDVYNFFEYzdTd05zNlVvTkFrd2RyV21lR1JyQm8zUXRpemxqbkhZa0lCdzN0Q2dYcTZFNThqbExUa2dqSklUTGZOaUJKV01TS1BEbFpsTnVjRkZwQi1YcjZ3c2ZLQjl5Rk1veDlZQ2lRZ0Y4ejRRaFJ5bU85ZnA0NEhpcC1HWXhZbXBValdQaUFZUVBoOUpqN2JxX0lQdG5tUFlXdFBrZENnOVZQdjNR0gHjAUFVX3lxTE1uc1BaZDVwdEVXSm14VkFiTkNxRVY2RjlkZ1ZDZXk3V3Z2eVBjMG9xVUpxMDc1WEZYbHEyaG9BTkVHdndVZGxPTDdLUE5NYmdYOU8wOWE0WjdTWGZxem5ac2ZFYlZOWEYxeUhuVnN0WkZTUzV5SV9BWkh4dEVZVlA4VG9DQnNxWG8wLXN2ZWt5QWtyODUyeVZqMExvRnlzR2JHRV9VNzV3ek1rczdHaHJBbUM2Q3Z2amVZbkVpT0Q4Q1RWcmtwWWxaS0FMQ0tub0U5WjVZaDh5S0dPVklMZjlmdmlB?oc=5"
+    },
+    {
+      "date": "2024-12-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Thoothukudi: DMK MP Kanimozhi Karunanidhi greets Tamil Nadu Chief Minister M.K. Stalin – #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONW82UkVqdlotOS1VcTJvY0dUU0YzaUwwbmQ0SGoxY0RQSXV1ZUZrTnloeFQteGZYN09kSnFKM1l2UFVDakhBWjlWSWxobWR6cTRyOGVKVmpoOHlPVTlxVWtVZ1VQVDhNZG9oVlRVcVpuQlJ3YzRmNjhjVkdMdmczRkdiNUpjZU80eTVoUU10NUtIQ0dhaVdLWk85bVZWOVk2RzJ1VkQzWksyMVlWLS1LNXJQUFRjSWl6MFhXaWtrNmZuSXVhNktBcjlfTdIBywFBVV95cUxONW82UkVqdlotOS1VcTJvY0dUU0YzaUwwbmQ0SGoxY0RQSXV1ZUZrTnloeFQteGZYN09kSnFKM1l2UFVDakhBWjlWSWxobWR6cTRyOGVKVmpoOHlPVTlxVWtVZ1VQVDhNZG9oVlRVcVpuQlJ3YzRmNjhjVkdMdmczRkdiNUpjZU80eTVoUU10NUtIQ0dhaVdLWk85bVZWOVk2RzJ1VkQzWksyMVlWLS1LNXJQUFRjSWl6MFhXaWtrNmZuSXVhNktBcjlfTQ?oc=5"
+    },
+    {
+      "date": "2024-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "English Varthabharati",
+      "title": "DMK leader Kanimozhi Karunanidhi takes oath as Lok Sabha MP from Thoothukudi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkRILXBMWFM1SF9HSlltY2s4dnBTdEJZVVpKeVBGLTI4TTdPVl9RTGFIdWdCaHlBdGlCSkowcTBZSzZkZTc0ZS1lcDlMcnRGYW9LRk1SOVBwR3BFLVAwVURUZ2NNOGtHRlUyODNkUk93ZkdBa1JaTlpRVzdnQWZZTkdvUVp1MFZpMTY1elBTNUczSEh6MzNUUFJ6LXBYZ01RM2pkVlRucHJUNkwtWmlMbWtUTHFLZw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 9806,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-36",
+  "pc_name": "THOOTHUKKUDI",
+  "pending_cases": 2,
+  "phone": "Tel : (011) 23782887,Fax : (011) 23782886",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180373.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 70
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to give the hightest civilian honour to the late Jubeen Garg",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to take necessary steps to save 5 workers of TN take away by terrorists in Mali",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to ensure proportionate and timely contribution of Central Government share in centrally sponsored schemes implemented in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding publication of Keezhadi excavation Report",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Need for Adequate Funding and Reform in the Ex-Servicemen Contributory Health Scheme (ECHS)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Statutory Resolution on the proclamation of the President�s Rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding hardships faced by fishermen community",
+        "type": "LS - Calling Attention (Rule-197)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Halt Auction of Petroleum Blocks in the Gulf of Mannar to Protect Biodiversity and Livelihoods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to increase the family income ceiling to Rs. 8 lakh for Pre-Matric and Post-Matric scholarships of SC, ST and OBC Students",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Reduce Minimum Road Length Criteria under PMGSY-III to 1.5 Kilometres for Better Last Mile Connectivity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Issue regarding three language formula in New Education Policy",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to allocate Semi-Conductor manufacturing units to be established in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Urgent appeal to revoke tungsten mining license in Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. the export duty on onions should be removed immediately and NAFED should start procuring onions from the market committees and farmers directly",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to take measures to increase the height of platforms of railway stations in Thoothukkudi Parliamentary Constituency through which Pearl City Express is enrooted",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Issue related to the tamil nadu fishermen",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Demand to be withdrawn GST immediately from life insurance premium and medicines",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 28
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 93
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kanimozhi-karunanidhi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 36,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 3,
+    "Coal": 1,
+    "Commerce And Industry": 2,
+    "Communication": 1,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 4,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 2,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SIVASAMY VELUMANI R",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 60,
+    "criminal_deduction": 7,
+    "legislative": 71,
+    "mplads": 42,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 604056590,
+  "total_liabilities": 6060187,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 55.26
+}

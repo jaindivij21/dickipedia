@@ -1,0 +1,521 @@
+{
+  "accountability_score": 24,
+  "age": 60,
+  "assets_2019": 116790616,
+  "assets_2024": 170770037,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 59000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 45286196
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 45345196,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 125330
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 38127784
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 17671139
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1073616
+      },
+      {
+        "category": "No 712818425 Sum Assured 300000 having surrender value as on 21-03-2024 73,200 7",
+        "value": 1339700
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 4700000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 170000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 29026082
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 33191190
+      }
+    ],
+    "movable_total": 125424841
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=CjrScpmKPiKLu9ELwgQR",
+      "total_assets": 109429193,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=CjrScpmKPiKLu9ELwgQR",
+      "total_assets": 116790616,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1043",
+      "total_assets": 170770037,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 56,
+  "assets_latest": 170770037,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dayanidhi Murasoli Maran is an Indian politician and one of the prominent members of Dravida Munnetra Kazhagam party. He was elected four times as a Member of Parliament to Lok Sabha from Chennai Central constituency during the 2004 general elections, 2009 general elections, 2019 general elections and 2024 elections.",
+    "title": "Dayanidhi Maran",
+    "url": "https://en.wikipedia.org/wiki/Dayanidhi_Maran"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "3, First Avenue, Boat Club Raja Annamalai Puram Chennai Tamil Nadu, 600028",
+    "emails": [
+      "dmaranoffice@gmail.com",
+      "dmaran.office@mpls.sansad.in"
+    ],
+    "phones": [
+      "4424371515",
+      "9840022728"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/Dayanidhi.Maran.Official"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/Dayanidhi_Maran"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/dayanidhimaranmp/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 1,
+        "description": "Falsification of accounts",
+        "section": "477A"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CRL.O.P.No 7840 OF 2020 & CRL.O.P 7844 OF 2020",
+        "charges_framed": false,
+        "court": "Honourable High court of Madras",
+        "fir_no": "CR.No 1415/2020 Thudiyalur police station Coimbatore Dt.19.05.2020",
+        "other_acts": "Section- 3(1)(U), Sec- 3(1)(v)SC/ST Prevention of Atrocities Amendment Act- 2015",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CRLO.P.No.7841OF 2020 & CRLO.P.No.7845 OF 2020",
+        "charges_framed": false,
+        "court": "Honourable High court of Madras",
+        "fir_no": "CR No 643/2020, Variety Hall Road Police Station Coimbatore City Dt.-18.05.2020",
+        "other_acts": "Section- 3(1)(U), Sec- 3(1)(R)SC/ST Prevention of Atrocities Amendment Act- 2015",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CR No 189/2020 CCB-I Chennai CCB Dated 16-05-2020",
+        "other_acts": "Section- 3(1)(U),SC/ST Prevention of Atrocities Amendment Act- 2015",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C.No 10/2019",
+        "charges_framed": true,
+        "court": "Sessions Judge Special Court No II for Trial of Cases Related to Members of Parliament an Members of Legislative Assembly of Tamilnadu Singara Velar Maligai Chennai",
+        "fir_no": "RC/DST/2013/A/0019/ CBI/STF/DLI SR.SUPDT of Police CBI/STF New Delhi Dt.-23.07.2013",
+        "other_acts": "Section- 13(2) 13(1)(C) Sec- 13(1)(D) of P.C Act 1988",
+        "sections": [
+          "409",
+          "467",
+          "471",
+          "477A",
+          "120B(1)"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "05/12/1966",
+  "eci_state": "Tamil Nadu",
+  "email": "dmaranoffice[at]gmail[dot]com,dmaran[dot]office[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 29127740,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 29259210,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 32188710,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 28206530,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 26006825,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 10440800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 10669590,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 10736310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6388770,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5965730,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salaries, Dividend and Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Dividend and Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 0
+      }
+    ],
+    "total": 0
+  },
+  "margin_votes": 244689,
+  "minister": false,
+  "mp_name": "Thiru Dayanidhi Maran",
+  "mplads_allocated": null,
+  "mplads_expenditure": null,
+  "mplads_unspent": null,
+  "mplads_utilisation_pct": null,
+  "mplads_works_completed": null,
+  "mplads_works_recommended": null,
+  "mpsno": 4144,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-12-18T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Indians ‘cut off’ from internet in flights, Maran complains; Telecom Minister says norms in works",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMkRDZjMzVlFaS0xsb1ZuWjFVaUNWc3R5MzgtZDhZdlEwVVU2ZXo2YXBtX1pvRjc5TUVMQWVEcDRIX1VFcmt6Y0RCSDhKMEVJRW5oZzJtbEJKOWt4SWFLMGxsOGhaMXRkNzhBR2trY25aQnlIQnJsV3QzN0djUHRUV0hyRVpOXzlwMV9uOEdfbmdxdEpFdVJGYmFuLW02WXZMRDQzOVBMNEdhVUI1MzBKaFRtcUg1TndrYmJLSWFxTDczUWdyUFRnNTM1a2RDcFVuZzNMS2p6dzd5cGFoTHpjbnR3V0RFRXPSAe4BQVVfeXFMTVpxUGdxMVVNVEV6TUQ0bUtaZnYyemhDWDkyQmlQYS1aUzVsaTZuYWtPSUwtcXZVb24wTVJPNDhabTJaWFJhSklMWlUwejZuaFR0NW1JbVlka3hZTkJra21aYjVvY05PbU0wY2JxUk0zNkNyWk95Mmh5bFRCT1ozNk1uUURlRVdybW9nbmJiSEhDeGVOVDhpT0w1dF82MVpmem5rUXduNzF6NUh3bFJpSnpMVjRSaWtuY3laQ0V1SzRNY3hBRVZIbWR3emphWUFrQnphY001dUxXUUptRktRZldkejZrQTFZUVRXUEJGZw?oc=5"
+    },
+    {
+      "date": "2024-01-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "DMK Leader Dayanidhi Maran's \"Jobless Barbers\" Remark Draws BJP Fire",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWhOeXo5ZGFUQXJCX2pmRk5ZY0hhS2VrU0dQbUdWNVYxRnA2clVfR1N0eTlTVjI1SGI3MDV5blpRajRwMzV0M3RQX24wMTRjX2hjVXAxYlZTUWZVLV81R3hoVV9EVG1EYV95aklWWmNubnJ2bXZ2aEYwM1VVcXFZbzFab3J0OUhlQWYybWlIRjgtenJTMmhRblFQd3BrdkZQaGpYYzlFVjPSAbABQVVfeXFMTmU0c3ZNbDl4WE1VbjZMX19LQWtjOFRxNTVsYVJzT2JzUTVCY2dvM2VvLW9jUFU0RGRWUlJFZnpObnVlV1gxZE04dTJVVWg5VnRtTkN1S1M5XzB3dVlLbmdrck5URHF2aWRHVnFzRF9qZU9fbHlGd3NNZnBFV3VIQzdaeUcwNFpVZ0FGaEdxSHV0TzBqc2drR1hDOVZzQ05IZUlKU1NHMG8yWWs2NDg2a2Y?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 11163,
+  "notable_record": null,
+  "num_candidates": 31,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-4",
+  "pc_name": "CHENNAI CENTRAL",
+  "pending_cases": 4,
+  "phone": "Tel:24621515, 9840022728 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180364.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 67
+    },
+    "debate_titles": [
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 87
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dayanidhi-maran"
+  },
+  "qualification": "Graduate",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Commerce And Industry": 2,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Earth Sciences": 2,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 2,
+    "Finance": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 2,
+    "Road Transport And Highways": 2,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "VINOJ",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 9,
+    "legislative": 46,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 170770037,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 46,
+  "winner_vote_share": 56.65
+}

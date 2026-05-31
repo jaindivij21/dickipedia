@@ -1,0 +1,465 @@
+{
+  "accountability_score": 62,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3350000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3350000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 124000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3419601
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Max life insurance co. policy No 25151xxxxx 1,92,920 1 Lacs+ Max life insurance ",
+        "value": 1332098
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4203756
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9406582
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1400000
+      }
+    ],
+    "movable_total": 19886037
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=360",
+      "total_assets": 23236037,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 23236037,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bhupender Yadav is an Indian politician who is serving as the 20th Minister of Environment, Forest and Climate Change since 2024. He is also a Member of Parliament, Lok Sabha from Alwar. He was a Member of Parliament in the Rajya Sabha, representing the state of Rajasthan, a position he has held since 2012. He was reelected in April 2018. He resigned from Rajya Sabha in 2024.",
+    "title": "Bhupender Yadav",
+    "url": "https://en.wikipedia.org/wiki/Bhupender_Yadav"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "221/2 Farukhnagar,VTC,Jamalpur Gurgaon Haryana, 122503",
+    "emails": [
+      "bhupender.yadav@mpls.sansad.in"
+    ],
+    "phones": [
+      "9811227300",
+      "9013181300"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "30/06/1969",
+  "eci_state": "Rajasthan",
+  "email": "bhupender[dot]yadav[at]mpls[dot]sansad[dot]in,bhupender[dot]yadav[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1207970,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1540880,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 931060,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 972940,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1074050,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 12883620,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 15073870,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 38420390,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 29216150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4130600,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary being Cabinet Minister Govt of India"
+      },
+      {
+        "person": "Spouse",
+        "source": "Professional Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹9.88 Cr unspent.",
+      "headline": "67% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 98762469,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 48282,
+  "minister": true,
+  "mp_name": "Shri Bhupender Yadav",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 48237531,
+  "mplads_unspent": 98762469,
+  "mplads_utilisation_pct": 32.8,
+  "mplads_works_completed": 15,
+  "mplads_works_recommended": 68,
+  "mpsno": 5541,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-02-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "Tiger Conservation Policy Needs Update: Union Minister Bhupender Yadav | Akashvani News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlpDd0c2TGx0X3pvR0trX0oza2NkcXlyQVhmdXhSSVlTOGRtWmpsa1Q4Mk56X2tsdDUwcjZnMVZTVi1jMHlOelhVdEtiMkNQbXB5N1BUU0lEOUtZeGZoZ2NoeGpZZkphbzVJUmJoWHg5REZEUUUyamNFaTVDZjRud2JGWF9SenNhLVVOWDdsOENGQXducWxQak5ZV2tEZWJM?oc=5"
+    },
+    {
+      "date": "2025-10-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Alwar villagers accuse district BJP chief of land grab: Urge action from Bhupender Yadav; minister leaves s...",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONWhZZGgtQkdBV1dkMG15OHlrbnpzY1VDVXhOcDU1b1BSNHJvejJMdkJmSURILWJPVFE5Y0hpR1RQNGVRUWRRSmdnaFlNRkJtY0xvMmJYdHZiTDVydWItMWZiZEduVHZPakZNWnUtYlpuSnZidVlSdEM2ZmZhSk5WWGRMdVlHYy1WM3pKeUFDcmVhX0tIbkNiREJqcWh3Sk8tUzhYMnZTYW4yVU1QMFVBMkJlRzhMOGxoUFI3a0tIWVkxbWxTZ3ZOa0ZZOWF5LWFxWlJqSUxWWUhCU2RqTzJUbVFTckFpVnIwMDNLbjdJTjJoNG1BNGd0WEMtaGpTNlptTmo3N24tRUpIUVBiZk55cG5HQXFycWo3S29RN2NTRdIBpAJBVV95cUxQeTZRQUNwOC1hbFBWOXcyUTBrUEFDWkpDUVF0bVRoUGp5eWY0Rk5wZklfWWlmUmRucHh4RmEzUlVZVjI5MFlnMU00UnhsbVNvcWZhdk1mM3RsM1BJZGJoY0hWZlhrcnJpOEhvUlJHeXRFQmZMenA2NW9qOTFac0o3TmVLeEpiRGJhdG4zSi1MTzFyckc1cmlhblRwZ3l5eVV4eVdkYWtyaEg1RFVYNnBJUXYyWExmV2wzU0hIRUNtY05kWXFhZGRLQWUzbm11QlkzS3NzdGNEMG95NzI3VmZHSFZyQUxLVHBiZWs0QlEwemo1cFhKTXFsY1JEVm5FVXRqWmVMVnUtMkVLYTZreU15b1hqSFliY3dCZkYzYkdjNThtelV1?oc=5"
+    },
+    {
+      "date": "2025-10-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Outlook India",
+      "title": "Union Minister Bhupender Yadav Flags Off REC’s ₹5.71 Crore Mobile Units To Boost Rural Healthcare In Rajasthan",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlXZ1pQemVFa2NMYUNHY2EtZUxXM3RhSjQ3TmdXdHVoOWpwRVgtSTZpVFBBOGdwSjZ4QU0xWXBSR042MU1IME9IZEVUSG41TDZUX1JHWXNnV011aG1YRUFjNl9abXVtaUlKbEppU25Hbnpsajk4TmRYaFMzNzVFUFFVZzUzQUVpVGdWdGk5Z1FjMHJlRTRYQVhDcnNsZGlJWV9kaU54VTEzWlNwRHEwcnZNQ0hickgyNVlFMjZ3aFpOekxBTkw3UEVIZXA1eU9MQXdwbkl4OEZhUmxoVkVNMWtEOUvSAfIBQVVfeXFMTm8zNjVCT2JEYW1ES1ZjQnhJRWFBRDJuOTJCY3lWcEloaVp4U25WT0otU1gzb1VVbGhzR0pwLVpxWGtzcVFpcjl2akxubmk0Sk1reHZRQmoxTjJFRlFzeDBINGZfZ0t1c1BxMWczZzBhckszcGVjY0pKYmtkQkp3NFpiM2gzNzBaT0Q3NTY0YmlGV1RiZmxpbmI3Q2otamZnOWhfMzltN045QjRlQk04OGR0YV9Qbm5aTUkweG45NWhRX0dPTy1PdURoNjl2ZlljbHV4ZURtYVFUaFlKM3hEZEhUOUs1MmI0VkZWSEQ4S180RXc?oc=5"
+    },
+    {
+      "date": "2025-10-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "DD News",
+      "title": "Bhupender Yadav inaugurates Rajasthan’s first ‘Namo Biodiversity Park’ in Alwar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOemp2dmlnMjZ4d3ZPdEkxVWxSOEh3OW0wSUtQZHpzaFo2VWRPUlM0eFNfTG9zOHUyNVl6Y3U5dHc1TEtvN2ZkT1JPY2pKQm5wU0xDbTNGR2xOQUFTTDRsbVVPWVhHUF9Ob1kwRnEwT0lxQzBTYTJTc1lyZGFlVm80bWZXV1cyUHBMcHBjNGFyaTBjTTA3VUJ4U0U1NEtNR05NT2hMaw?oc=5"
+    },
+    {
+      "date": "2025-10-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "Bhupender Yadav unveils Rajasthan’s first ‘Namo Biodiversity Park’ in Alwar",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVy1aa3J5N2ptNkZ5WXVFaTNnUmRnYVB0MWZhU1oxMndiSlNFQXRFZjRCamdONHBPN25meGFFWENTS2JoSkxpLWlVOVJkOTJOamhQNEN6OS1WVmJBWjBQV09FeXR0OFdIQjZLYU5iZXdseE9EX0ZNZG0wQ1hybHhXeTBjbEtHeWJPVlVGMDdKTHM1MEFkOWFuaHRtaWQyZTE5dWNtYktLMC1OUm52R2RYTHBvSHh2N2Y1NnhnaV9nWXJ0UdIBxwFBVV95cUxPVWp3ZTRnaHNRaGhyNUpTamI3d2JyRC1waVc0WDFDMUJhWk1Zc1VjSElqZmdPZW5KMmZEVXlaYmlMZTBIQURvenRGTHlCT2NGbkpYRFh6UFhPbVZUQU1LWjd3dmsyazBKWFhSeFlGWjJ4aENSM0ZabVd1MHlHUVZLcGVaOGJtUWU2cTNlNzE4akJFTXd2NkMyM2hFNnBHOHRPRHNJZ2tiRU13RHV4NGFVV01yb0xINWZ5dWlpcGlDYWdiR085VVlB?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5822,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Bhupender Yadav",
+            "url": "https://en.wikipedia.org/wiki/Bhupender_Yadav"
+          }
+        ],
+        "title": "Union Minister of Environment, Forest and Climate Change"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Bhupender Yadav",
+            "url": "https://en.wikipedia.org/wiki/Bhupender_Yadav"
+          }
+        ],
+        "title": "Union Minister of Labour and Employment (2021-2024)"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2023",
+            "publisher": "The Tribune",
+            "title": "Convene Indian Labour Conference, scrap four Labour Codes: Labour unions to minister Bhupender Yadav",
+            "url": "https://www.tribuneindia.com/news/nation/convene-indian-labour-conference-scrap-four-labour-codes-labour-unions-to-minister-bhupender-yadav-446220"
+          },
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Bhupender Yadav",
+            "url": "https://en.wikipedia.org/wiki/Bhupender_Yadav"
+          }
+        ],
+        "title": "Four Labour Codes"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2021-11",
+            "publisher": "Scientific American",
+            "title": "Why India Defended Coal at the Close of the COP26 Climate Summit",
+            "url": "https://www.scientificamerican.com/article/why-india-defended-coal-at-the-close-of-the-cop26-climate-summit/"
+          },
+          {
+            "date": "2021-11",
+            "publisher": "The Wire Science",
+            "title": "'Phase Down' Over 'Phase Out': India's COP26 Coal Stand Necessary, Say Experts",
+            "url": "https://science.thewire.in/external-affairs/world/cop26-india-coal-phase-down-necessary-just-transition/"
+          }
+        ],
+        "title": "COP26 coal phase-down stance"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Bhupender Yadav",
+            "url": "https://en.wikipedia.org/wiki/Bhupender_Yadav"
+          },
+          {
+            "date": "2016",
+            "publisher": "Lok Sabha / Sansad e-Library",
+            "title": "Report of the Joint Committee on the Insolvency and Bankruptcy Code, 2015",
+            "url": "https://eparlib.sansad.in/bitstream/123456789/762113/1/jcb_2016_insolvency_bankruptcy_bill.pdf"
+          }
+        ],
+        "title": "Chair, Joint Committee on Insolvency and Bankruptcy Code"
+      }
+    ],
+    "office": "Union Minister, Environment, Forest & Climate Change"
+  },
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-8",
+  "pc_name": "ALWAR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180337.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhupender-yadav"
+  },
+  "qualification": "Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "LALIT YADAV",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 62,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 23236037,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.42
+}

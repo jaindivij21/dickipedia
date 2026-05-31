@@ -1,0 +1,448 @@
+{
+  "accountability_score": 18,
+  "age": 47,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1026000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10026000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 975000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10946981
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 22874696
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 5647455
+      },
+      {
+        "category": "LIC Policy no: 418617089 1,00,000 1 Lacs+ LIC Policy no: 577046249 2,00,000 2 La",
+        "value": 2500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1100000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 48244132
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5087",
+      "total_assets": 54978907,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 54978907,
+  "attendance_pct": 50,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sharmila Sarkar is an Indian politician from West Bengal. She is a Member of Parliament from Bardhaman Purba Lok Sabha constituency in Bardhaman Purba district. She represented the All India Trinamool Congress.",
+    "title": "Sharmila Sarkar",
+    "url": "https://en.wikipedia.org/wiki/Sharmila_Sarkar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "5/1 N G Basak Road Dum Dum Kolkata West Bengal, 700080",
+    "emails": [
+      "drsharmilasarkar@gmail.com",
+      "sharmila.sarkarmp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9831149424"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/sharmila.sarkar.161/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "01/01/1979",
+  "eci_state": "West Bengal",
+  "email": "drsharmilasarkar[at]gmail[dot]com,sharmila[dot]sarkarmp[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3033260,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2716340,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2412600,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2058500,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1789270,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4647600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4061200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3639160,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3557600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3018290,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Private Practice, Interest from Banks, Bonds, Dividends & Capital gains from mutual funds/shares"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Private Practice, Interest from Banks, Bonds, Dividends & Capital gains from mutual funds/shares"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 12% of MPLADS local-area funds were spent — ₹12.95 Cr unspent.",
+      "headline": "88% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 129531345,
+        "utilisation_pct": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 160572,
+  "minister": false,
+  "mp_name": "Dr. Sharmila Sarkar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 17468655,
+  "mplads_unspent": 129531345,
+  "mplads_utilisation_pct": 11.9,
+  "mplads_works_completed": 5,
+  "mplads_works_recommended": 114,
+  "mpsno": 5768,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-12-26T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "TMC MP Sharmila Sarkar urges PM Modi, MEA to intervene amid attacks against minorities in Bangladesh",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0hCOWtUWDNFT29sc2c5Ny1LUTBldXY3YVpabXZ4ZGRCNEw2VnNJVF9DdE5yWWhKdVk2WDlUZUNIWE9aODFjM1lpeFdPSlR6dXRKV0hrQ2RzbWJrSExYZnlreFpTTVMxTW9TdE9rcFYtZUJzYVJvNVJERVFMMHIxanBCRVh2OWZWbGx2LWNfMjJPcW92YkhtMFo5SC1zQ1pHTnZXc1BQS3dMSFdncldCelVBblJEX2RFM1BNYmZUNUt4TUhGaEVURmNLc0trVmRVOW41ZXZYc2RoNWVfOVB6RXhTRHlJNGNVdFlxU21Pb3I?oc=5"
+    },
+    {
+      "date": "2025-12-11T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Dr Sharmila Sarkar’s Zero Hour mention on instituting a stoppage at Bardhaman Station for Vande Bharat trains commencing from Howrah",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONUNqQ255ckNLSVlYUVcyNjE3R2NBUnVlRjhMdmFOSDh3N2N5YW5Hc0JGNElOS2hGZVY3QmhiSFhuazNCRm5jdTY3MDFrNlItZ0xzbFJicXB5LXRNeWRSeDRWdklCczJDTEo4bTdYMnNCVi14WndRSE5DM21DTnphajM4Nm1lbkJpYnpVODRlRW1fT05pVzhzclpGVEhBa0NvRW5NeGhiTUdHUW1pbUxDa2Z6WTBfMXJic3FSOUs3aXpkbkVVWTNkajFlWjAtN280UHRIRnE3Q3kxOG8xUmhpM0dkSHNCVWVmVmxfemR3?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bardhaman Purba (SC) election results 2024 live updates: TMC's Sharmila Sarkar wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPUEhxeGRHUXJfbnZfSXhDYmJVM3dUMWp4S25JMlhRc1BZNG1QaWlSRndZUTFScjN4aXYwS3VSSjUtUEdiMVVaUTBtaDZCNEVvYjUyS29lVXpWTDFKVmVWeEs5S0JwQnh5VlZkOWVWS0NjMHh4REI4RWU3ZkJXWmxGNEZiUmVqZUd4aFp2bUgwcS1JblBVNHhqOUNoTmRzd0pLX1VVVDM2SnVjSk96MF8xbDUtVkxLcTJlZWpDVTFFNjhJaVFZOVBHNVRVNW95TzZJaGRON0lidjZkanV1M3Y5bmZRc3lFSjNsR0YzdE0yd3hzTEVRQjVuRGxZOTZMWTlwS29FenRJTzg0ckZXemxrbTU0TUdBc1hoZmFKYktBdnd5M0tTTW1HQnloRU8yQWMydU84b1NWN0ZPczZoMHRMdldMNy1jOWFRVy1KWGNQZk5rUlFDekZiMWhYdU5EUmFN0gHmAkFVX3lxTE5wZG54R0J4RFkwMVZpVWVuZlp5RTBYLWpOdUo2Ti1MbE9WNE9kWFM1bkdxZU5PUGdqTmVDZ0lLMVlpSkkyS2NYNTBObjBtc1h1aHBfdVdmYTZoREJkZC1UbS1lZkZLSDAzV3F6ckN6RW5Ra3VzeE5QbEJOVFJxZTh0UjhNUlYwbU9wZlZXcWlEUUVtM2xENjVKamhZR0pIamY0dERQQmU0cmZaS0FhN0txZktkeHZaaHBGanQxcWVMbkdHUjlIQnlhQTJ2REMyd19wV1pWMmkwdnVYNlJiaGV3Z3hLbGlyVWJXWHBmZkZnN29iaXM2T1hqeDc2NGRPUzhma0djUDE2QnlVTFhyZ2s5eHpOcXFiYmozcmVIbGJYZzVQN09aeDRnVVlOdzVDUnROV05MMUptaWwwU0lsRXZKMG1JVERjeDM3eWczdy01cXVBdlN1aW1YOVBLdTdHMnhTbEZrOEE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bardhaman Purba Election Result 2024 Live Updates: TMC's Sharmila Sarkar Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dxRjF1OXpYS3RCeU13Q0FfWjN6a3YtYjlvVERKR3ZaNkhNcUFDVWR6ci1HSXNfdlJvU253aFhmYmJjYTM1NTZtS0RsRmVfNF91VjgtYkVkQkptYnZPdmUwVl9HNHBHdTNJby1hd3UxZHFsYjl4RnBIY0J0M3FfRVY4NFNCNXFiZHJBMUg0RVBKVTRrS3RSRmJpWW1vN1NvWEd0MHFtdlF0LTllV2ltb0prV1FSSzdwYjlxdDROVXd3c2pCNkw1MU1EaHlnUEJDRUHSAd8BQVVfeXFMTlRpeldCMllyaURvT3hNM0lFZUdwSXJiTFNGSEd3YnRzUHdsd2NkdVlnOXBXcTlXX0huOWRyX29zNFJud2ZpeEMxZlZQNDhfaHNZd29SYTNCMUYza2dFZG5hRGllc195Zm5Jd2phWUV1UEExb0FEa092WTBibnM4ZVE0elphMG9pM2FIX0ptOVI3Y3h0SFExcXgxLUFESmxjWmUySFhNX1JBWFlsMFR2MlBLYzFjWnpRU1BZSGNQRU9rdFJYRDM4ZDNCNDJmQWNMc0ZncDV5bFVnOGZhc1BvVQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Lok Sabha Election Results 2024: TMC Candidate Sharmila Sarkar Wins Election With A Margin Of 160572 Votes",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3NJbEpPYzlmaXl2NkpDSDFsejY1dGphbzg2RFJfbjZrM2xWMWtSTUtxdy1hY1JNY3R2UkhvVE5JdGVBeUhPMElRSUxIR1pBUzQ1YVFacUo0aGV1cDBseTZQaHN1bWJCQUF4Szl4U2N2anNyMnNRQkg1cW5Rd3dmZnQyRHRFOGY2LXVsOXFoRGI2Y3U4bnRYeWN1T3d3X1JJa2c5ZHpjQ2puSjlnejJ3a0lQU2FuSWhHQkgwVkZIUnVhR1IzbjZEYy1NTGx0TjRyLW1LSHNKbkl0eFE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12697,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-38",
+  "pc_name": "Bardhaman Purba",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180538.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to take comprehensive measures to prevent and address suicides committed by young persons in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need for revival of proposed NTPC Thermal Power Plant at Katawa, West Bengal for productive utilization of acquired land",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Provide Stoppage of Vande Bharat Express at Bardhaman Junction in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the facilities at AIIMS, Kalyani (WB)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Need for Mental Health Awareness and Government Action Post-COVID-19",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Declare Rash Bihari Bose's Ancestral Land as a Heritage Site and Honor His Legacy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon the minister to consider including �or� between �imprisonment and fine� so that either imprisonment or fine or both can be given as punishment depending upon the severity of the negligence",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt protect the various region of west bengal from river bank erosion by prioritize long -term strategies such as constructing embankments",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 10
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 44
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sharmila-sarkar"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "ASIM KUMAR SARKAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 18,
+    "criminal_deduction": 0,
+    "legislative": 18,
+    "mplads": 17,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 54978907,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.11
+}

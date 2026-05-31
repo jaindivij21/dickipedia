@@ -1,0 +1,747 @@
+{
+  "accountability_score": 51,
+  "age": 71,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 19452800
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 22999736
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 30354863
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 72807399,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 4869406
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 16851396
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 500
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 9195000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2583000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3733000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 232877
+      }
+    ],
+    "movable_total": 37465185
+  },
+  "assets_earliest_year": 2022,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=4uHtQEskbKJQdsNuoSJD",
+      "total_assets": 90174093,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8171",
+      "total_assets": 110272584,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 22,
+  "assets_latest": 110272584,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Lalji Verma  is an Indian politician from the Samajwadi Party and former member of the Legislative Assembly. He represented Katehari Assembly constituency in 18th Uttar Pradesh Assembly. In the 2024 Indian general elections, he was elected as a Member of Parliament in the Lok Sabha as a member of Samajwadi Party.",
+    "title": "Lalji Verma",
+    "url": "https://en.wikipedia.org/wiki/Lalji_Verma"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "7, Mohiuddinpur (Dihwa Daulatpur) Kedarnagar Ambedkar Nagar Uttar Pradesh, 224230",
+    "emails": [
+      "lalji1955verma@gmail.com",
+      "laljiverma.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9936890035",
+      "9519652984"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "False statement in connection with an election",
+        "section": "171G"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for assault or criminal force otherwise than on grave provocation",
+        "section": "352"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for forgery",
+        "section": "465"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of harming reputation",
+        "section": "469"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 127/2023, PS Ibrahimpur District Ambedkar Nagar UP",
+        "other_acts": "Section 7 Criminal Law Amendment Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "188",
+          "295A",
+          "153A",
+          "352",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 177/2024, PS Special Cell New Delhi",
+        "other_acts": "Section 66 C I.T. Act",
+        "sections": [
+          "153",
+          "153A",
+          "465",
+          "469",
+          "171G"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 16,
+  "dob": "05/01/1955",
+  "eci_state": "Uttar Pradesh",
+  "email": "lalji1955verma[at]gmail[dot]com,laljiverma[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1204018,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1236129,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2065583,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1599562,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 10300965,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 462154,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 548985,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 589373,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 662314,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 761902,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 479048,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 432163,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 497283,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 528652,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 565155,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, & Salary and Allowances"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, & Dairy"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1210979
+      },
+      {
+        "category": "Sri Prabhakar Singh Srinagar Sitapur Road ,Lucknow 10,00,000 10 Lacs+ Mohammed F",
+        "value": 8675000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 9885979
+  },
+  "margin_votes": 137247,
+  "minister": false,
+  "mp_name": "Shri Lalji Verma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 80517423,
+  "mplads_unspent": 66482577,
+  "mplads_utilisation_pct": 54.8,
+  "mplads_works_completed": 59,
+  "mplads_works_recommended": 201,
+  "mpsno": 5794,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Lalji Verma Wins From Ambedkar Nagar Constituency",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnFGZU9aSzNxVU1FR1hLLV9ncFlWUkkwSDVjZ2tfcGtDLTBiaUppZVJnemRxdWxSLW12dkEtVy1rakx1TV9TeG4zbkxWWk9Qc0QzZDJMVFI0Q3ZvQ1R0bEJjaDVHNElRQS14U2xYeGluajZBeTNtSktENXZlQW0wbDF6ajI2czNYcGhMRnREcmlrRm5uN3pGVHdFbXFxWFo5?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ambedkar Nagar election results 2024 live updates: Lalji Verma of Samajwadi Party wins with over one lakh",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjUtVjBYUUtxbTZkdGdwOUJadXBaRDlXbXJEUy0yNm9jZ0dCdHZxemtfWG83RmFWVXlKc0hxOWpnUW1neVJHQ2Y4RjFKWTV5WUVMb1VUb3V0WDRHUlBHeFU5WHFEbjlLOHh0WmxldmFPWF8yRHk0MnNWYTJ5clFrbFlOeGhWc25ZcnpqZ1dmSzFCdE1MUEE4NGhvcTl2dHNDdDZSelB0X3dnWWJ6R1A4bWlEcm5JSGhk0gG-AUFVX3lxTE94MTlGMHJja2ZMRlFvZ2NudWlDNUh0a2ZxYnFaaWxEdDRrcnJkd2d0M0VNNGhVMVp1b0xiZzc0SUJrdzlFNi1lM0JGalVqX0pKVXRzZy1WTmQxRmhraVptN3NKY2RxWXBKTGtvWkhsN0F3M3IzOHNyUkJ0dEJ6Q20yaERBNTgybFl4ZDF4MUwyeDBXQWlfU3VYa2tTU1A0MWtoRUhCSmtfRU5fa3FrRTNmZU82VnNtWnBTdHZZT3c?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Ambedkar Nagar Election Result 2024 LIVE Updates Highlights: Lalji Verma of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeEw1WDFnREtNU1NZUUdVQ2Z6Q1RpdHJaZnd4RWNoZ1dNRncyd3Nlc2U0YXFmN0djS3o4V0swRnRVbER6REl1RmFiaUpUWmF4NHlmXzZtYmR1M1hDdHdLODZ0aTFtWXprTVVBTldLVmhQTDhoQlMtbnZnVTdsdG5Ea0U0Xzhwc3VvaWliaE5UdGNObXhPVkxjXzBEUjNhTHI2Q2Npek9weHU5eTdnUzV3Q1JOZmRsR21YcFB5dFIzNWNvbkJlRVNjUExmeFhhVDlVNUo1bHNNNWFDX3hMWTdCM0c0MURYa3pPN3hB0gHwAUFVX3lxTE1ua0g4NV9sWktucXRQWVBGQ0VPTkY5OXNuSDhhRmtUOHcwcVdmcEtaSzlHU01OY29IQ0VxdUYtZzE3QWFxMk91cG5OcV9rX2tpUW9Ra2c1RkM3cmFWeUNUUFpUNUhoT0VscXFUbGkwSUZLSkN0UjhNblhFYVROWlZQZkpkSVhKZWNyMk90WVI5blpvS05DVUV1bXhFd21XS1ltRjRSNXlRWW5FcFh2ZS1QSVVLLTZ5eGZEVXZGR3V2eXluc2dLWEs0cHg5X25nRDUyVzdkbk9kNXdpMG1ycGlwMG1LUEVYRTVzX0ZGanRUcw?oc=5"
+    },
+    {
+      "date": "2024-05-24T21:16:04.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Lalji Verma, Sp Party, Ambedkar Nagar, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQellwOHgydFFEZFZVX2sxZ3d6YW5Zd2pmYlVzLVZMSklBNUNHOENNcURaNzVFczZpVTdvRXg0VmlydkxtNzhpV1owdWctUTBvWUtlWXBzMFZvWWV4czEyMWlnMWdHQWliS3FpNUhEX1RzY01odVNzcGZHT3hXVlhYb3BiWU1HeldSd3Y3SmtDSzd5TFhyVDZLd3FzbTZhZGU3SVpvVmlxQWoydVBxcmZlbXpYeVZXUVN0c0xtNGQ3ZWw1M1A2V3ZWN1ROUjBkNjVWSHlZWGdCTHVGRFAtcTNveUFXYXU1UQ?oc=5"
+    },
+    {
+      "date": "2024-02-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Lalji Verma: An Uttar Pradesh Political Veteran",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOU5lU29IRHNPM0dreUhBVW8tRThFbE5HN3R1SHRMd01ET0lIS0JFSVFaWlZfZThwOXFnaTJLbk9yeWpxM1F3alFLMzVmWjAxcGRXYjZNSEtka2RkTnZ4N3JJLWxWVEg5aWlpU2Flam5OcnFLYm8xdkJLSmZZMkFka3RFS0UxV1ltb2c?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7448,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-55",
+  "pc_name": "Ambedkar Nagar",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180460.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to establish an AIIMS in Ambedkar Nagar district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Regarding Non-Payment of Honorarium to MGNREGA Workers Since July 2025.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to convert the Lumbini-Tanda road and the bridge on Ghagra river between Tanda and Basti in Uttar Pradesh into four lane",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to provide stoppage of various train at Akbarpur Railway Station in Ambedkarnagar district, Uttar Pradesh and also increase the frequency of train No. 22104 (Ayodhya-Mumbai)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Ambedkar Nagar district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding the issue of teachers eligibility test",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to ensure compensation to and rehabilitation for people displaced due to NTPC project in Ambedkarnagar district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding setting up of a Kendriya Vidyalaya in Ambedkar Nagar, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Issue of vacant faculty positions for ST, SC, OBC in educational institutions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Exemption of Existing Teachers from Mandatory Eligibility Examinations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to run a train between Ayodhya and New Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding need to install lift for convenience of passengers at Akbarpur railway station in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to establish Departments of cancer and cardiology in Government Medical College Ambedkar Nagar, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of closure of schools in UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Statutory resolution regarding the extension of President�s rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to include Brick Soling Road for construction of roads under Pradhan Mantri Gram Sadak Yojna",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding construction of Railway underpass at level crossing between Khajurhat and Kurebhar in Ayodhya district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Approval of MS and MD Courses and Establishment of Trauma Center at Government Medical College, Ambedkar Nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Statutory Resolution on the proclamation of the President�s Rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding continuity of service of employees appointed on contractual basis in NTPC, Tanda, Ambedkar Nagar District, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to construct overbridge/roundabout at intersection of Maya-Tanda road and Tanda- Bariyawan road on NH233 in Ambedkar Nagar Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding four-laning of Tanda-Banda National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Ensure Full Implementation of Reservation in Higher Educational Institutions and Inclusion of SC and OBC Members in Expert Committees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Rehabilitation of Villages Affected by NTPC Ash Dam Seepage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Ambedkarnagar district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Request to Revise the Definition of OBC Creamy Layer and Exclude Agricultural Income and Salary Components",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding water contamination caused by the Ash Dam of NTPC Tanda, District Ambedkarnagar, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urge upon to govt to approve MS General Surgery, MD Medicine, MS ENT, MS Orthopedics, MS Gynecology, and MS Ophthalmology postgraduate programs at Ambedkar Nagar Medical College",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt resolve the issue of NTPC Tanda and Conduct a fair and transparent reassessment of compensation for the affected farmers and families and Provide priority employment opportunities in NTPC's outsourcing jobs to displaced individuals and Implement immediate measures to address pollution from the ash dyke and ensure clean water and air for the villagers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Issue related to the pollution created by the NTPC project in tanda",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Demand to govt that a new railway line should be laid between tanda and basti and a separate train should be run for basti from akbarpur junction to khalilabad, gorakhpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt provide a lease of 0.051 hectares of residential area that the land taken by NHAI from farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt an inquiry should be set up against the delhi govt. in the incident of 3 student deaths in old rajinder nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding need to provide compensation and employment to farmers affected due to land acquisition by NTPC",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding need to construct a metalled diversion road at Shamshuddinpur, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 48
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 39
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/lalji-verma"
+  },
+  "qualification": "Post Graduate",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Education": 1,
+    "Power": 2,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RITESH PANDEY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 63,
+    "criminal_deduction": 12,
+    "legislative": 49,
+    "mplads": 84,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 110272584,
+  "total_liabilities": 9885979,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.3
+}

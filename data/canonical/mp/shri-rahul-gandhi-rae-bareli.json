@@ -1,0 +1,898 @@
+{
+  "accountability_score": 0,
+  "age": 56,
+  "assets_2019": 158877063,
+  "assets_2024": 203961862,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 21013598
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 90489000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 111502598,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 55000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2625157
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 83205831
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 6152426
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 420850
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 92459264
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rqohbcMW3xRXyaJDtuY",
+      "total_assets": 5538123,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rqohbcMW3xRXyaJDtuY",
+      "total_assets": 23274706,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rqohbcMW3xRXyaJDtuY",
+      "total_assets": 94006549,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rqohbcMW3xRXyaJDtuY",
+      "total_assets": 158877063,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7651",
+      "total_assets": 203961862,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 3583,
+  "assets_latest": 203961862,
+  "attendance_pct": 0,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rahul Rajiv Gandhi is an Indian politician. A member of the Indian National Congress (INC), he is currently serving as the 12th leader of the Opposition in Lok Sabha and as the member of the Lok Sabha for Rae Bareli, Uttar Pradesh, since June 2024. He previously represented the constituency of Wayanad, Kerala, from 2019 to 2024, and Amethi, Uttar Pradesh, from 2004 to 2019. Gandhi served as the party president of the Indian National Congress from December 2017 to July 2019.",
+    "title": "Rahul Gandhi",
+    "url": "https://en.wikipedia.org/wiki/Rahul_Gandhi"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "10 Janpath New Delhi NCT of Delhi, 110001",
+    "emails": [
+      "office@rahulgandhi.in",
+      "rahul.gandhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "1123795500",
+      "1123794477"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/rahulgandhi"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@rahulgandhi"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "Lease Agreement with Simpliwork Offices Pvt. Ltd.",
+      "party": "the candidate"
+    }
+  ],
+  "convicted_cases": 1,
+  "criminal_cases": 18,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "Complaint Case No.18712/2019",
+        "charges_framed": true,
+        "court": "Chief Judicial Magistrate Surat",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 18,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 15,
+        "description": "Defamation",
+        "section": "499"
+      },
+      {
+        "count": 15,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 2,
+        "description": "Dishonest misappropriation of property",
+        "section": "403"
+      },
+      {
+        "count": 1,
+        "description": "Disclosure of identity of the victim of certain offences etc",
+        "section": "228A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for forgery",
+        "section": "465"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "The Honorable High Court Delhi",
+        "fir_no": "240/2021 Dated 09-09-2021",
+        "other_acts": "Sec. 23(4) Pocso ., Sec. 74 Juvenile Justice Act, The Honorable High Court of Delhi in W.P.(C) 8210/2021 its order dated 24.01.2024 referred to the existence of the aforementioned FIR. The FIR per direction of the Honorable High Court is in sealed cover. I am therefore, not aware of the details of the FIR",
+        "sections": [
+          "228A"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "9th Addl. Chief Metropolitan Magistrate Court Nrupatunga Road Bangalore City",
+        "fir_no": "0362/2022 . P.S Yashwanthpura Bengluru City , Date 4.11.2022",
+        "other_acts": "Sec.63 Copyright Act, Sec.66 IT Act",
+        "sections": [
+          "120B",
+          "403",
+          "465"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No 311/SS/2023",
+        "charges_framed": false,
+        "court": "Court Of Metropolitan Magistrate 9th Court Bandra Mumbai, Maharashtra",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No 1698/2018 (MP MLA Case No 16/2021)",
+        "charges_framed": false,
+        "court": "Special Court MP/MLA . Ranchi Jharkhand",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case CR No 559/2016",
+        "charges_framed": false,
+        "court": "Chief Justice Judicial Magistrate , Kamrup ( Metropolitan), Guwahati Assam",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No SCC 2425/2014",
+        "charges_framed": false,
+        "court": "3rd Jt Civil Judge, J.D. ,J.M.F.C Bhiwandi, Maharashtra",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No 18/2019,",
+        "charges_framed": false,
+        "court": "Ms. Taniya Bemniyal, ACMM -III, Rouse Avenue Courts New Delhi",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "403",
+          "406",
+          "420",
+          "120B"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Criminal Case No 29989/2019",
+        "charges_framed": false,
+        "court": "Addl. Chief Metropolitan Magistrate 13, Ahmedabad Gujrat",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Criminal Enquiry Case No 36580/2019",
+        "charges_framed": false,
+        "court": "Metropolitan Magistrate 16, Ahmadabad Gujarat",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Criminal Case Complaint (P) 1551/2019",
+        "charges_framed": false,
+        "court": "Special Judicial Magistrate MP/MLA Court, Patna Bihar",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No 1993/2019, (MP/MLA Case No.17/2021)",
+        "charges_framed": false,
+        "court": "Special Court MP/MLA Ranchi Jharkhand",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case C.C No 6200/SS/2021",
+        "charges_framed": false,
+        "court": "40th Metropolitan Magistrate Girgaon Mumbai Maharashtra",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No 229/2021",
+        "charges_framed": false,
+        "court": "Special MP/MLA Chaibasa Jharkhand",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No 628/2018",
+        "charges_framed": false,
+        "court": "ACJM (Custom) Lucknow Uttar Pradesh",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Criminal Misc Case No 126818/2022",
+        "charges_framed": false,
+        "court": "ACJM Court No 27, Lucknow Uttar Pradesh",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 15,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Criminal Case No. 1943/2018",
+        "charges_framed": false,
+        "court": "Special Court MP/MLA Sultanpur Uttar Pradesh",
+        "fir_no": null,
+        "other_acts": "The process was issued on 08.01.2024 and the accused was admitted to bail on 20.02.2024. A plea is yet to be recorded and the trail is pending.",
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 16,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Complaint Case No. 7399/2024",
+        "charges_framed": false,
+        "court": "Chief Metropolitan Magistrate, Bengaluru, Karnataka",
+        "fir_no": null,
+        "other_acts": "Matter is currently pending for service of other accused parties",
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "19/06/1970",
+  "eci_state": "Uttar Pradesh",
+  "email": "office[at]rahulgandhi[dot]in,rahul[dot]gandhi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 10278680,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 13104970,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 12931110,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 12154470,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 12037700,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rental Income , Mp Salary, Royalty Income , Interest From Bank , Bond Devidents, Capital Income And Mutual Fund, Shares & Other Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "From ₹55.4 L (2004) to ₹20.40 Cr (2024).",
+      "headline": "Declared assets grew 3,583% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5538123,
+        "from_year": 2004,
+        "pct": 3583,
+        "to": 203961862,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 0% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 1% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 0,
+        "percentile": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.84 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128382669,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 1,
+        "pending": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Security Deposits from tenants 49,79,184 49 Lacs+",
+        "value": 4979184
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 475130
+      }
+    ],
+    "total": 5454314
+  },
+  "margin_votes": 390030,
+  "minister": false,
+  "mp_name": "Shri Rahul Gandhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18617331,
+  "mplads_unspent": 128382669,
+  "mplads_utilisation_pct": 12.7,
+  "mplads_works_completed": 72,
+  "mplads_works_recommended": 170,
+  "mpsno": 4074,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-29T08:37:16.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "Rahul Gandhi retains Raebareli Loksabha seat, Priyanka Gandhi to contest from Wayanad",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3haZlRsYkdILWJvX1I3TmhYVnB3N0JGZnN2QXc5eEN5WlQtYkdvMllfVWRtbTR1d1gtQ3g1SFpfNVhuaVBFV3k2Z0NpN3JCdkQwWkM5d29UYkQ5N1RIVDVyQWhRVzFwSUowaVVld0RWQmNLMks5MFAwYi1rT3lndEpKSVRWdjhPb1lPU2xqeHdGYkotdEQzWVJSY2drRXVCY2lfbVRvYXpPUEVzVDVnSEo3QQ?oc=5"
+    },
+    {
+      "date": "2026-05-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Rahul Gandhi refuses to apologise after 'traitor' remark draws BJP ire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZmJOLXFxV1BmOWJ5MzRxeENyNzg2WFdQX3JyaWVQZlFoVFU4UDlVR1hzaE45UnlNZ2UtYUFrbUV1dFVVYnNhcGt4b1JQTEpybk00WlNrTjFMT3g1WHZEWVBfVk5qbE1ySGdPWllHaE5iZ3U4M1JITzZPTzRCU0Y1U2ZUUFVZRDBTRlRZdVpPUm45c3ctRWVBUjJhOU5LTEpVQmFkOE5Vc25raW5fNGlGNXNraEVCSmdGUnpjRXlzdWc0SjB2MEN1cG1VaUJVTjIyWDl3d2xGclQwUDJBNGVLZDJZcjRHNm9UWUIyYTNyRQ?oc=5"
+    },
+    {
+      "date": "2026-05-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Rahul Gandhi faces nationwide backlash over 'traitor' remark",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTXZ5QmQzdGpRNlFwVjh1NlpjSUs5THRHaDNuUGQ0ekg2V3ozeEkwY0tMc2U4UTdRZkZUWHNJYmgzU0lpZ3VHQnZjWldNVmdHUmlHaFJvUmpId0p5bGxYT09BSWpTbDlGU3ZQbWkwekpWek9ITHJ1VHVaRXNtV1YtczRHT2stcng3ZXI5M1piRzJmamhLc0RFRDlENERyTTEzVXIxNzR2ZW9zOUloVUgxWGZkWVJydGRrZkVuVnJMcFprMm1uX0xGNVhMRnpxYUJoNXdFU3JQT3FpNzhnLWRRWHBIOA?oc=5"
+    },
+    {
+      "date": "2026-05-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "BJP, CMs demand apology from Rahul Gandhi over 'traitor' remark",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbDNENVZGMmozZXBCdFdnOTREa1lDcEFJeTNkZ0QwVkRZSnRmNHlGOWRuX0c3U1Z1dUxxX0ZKSXFnUWRhODVLVGo1SFBxSU9YQ0NUal8tV284b0pIdmdfNk1kcHBiVHcwZlRCV2MwU1Y2SzNFNC1LaVpBREFtQWJ1MkpPZ002UWdWZng2NFpvSEtRUENDbnRPVXJPWEZGZDNDeXo1TkN3SzdjMk9NZkpBWGV4dzk5NHFLQjdpZzhVZ1F3QllXcTZtcGRkRFo3aUtmQTd3eml0RGdrQWdZal9UWEJGQXdraU1BZ1NUMXJaM1RBLTNLYkE?oc=5"
+    },
+    {
+      "date": "2026-05-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Rahul Gandhi's 'traitor' jibe sparks political, legal storm",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRk44SlZtMGlweHhHTHcxMFNmNlIteEZ4S0FreXFFWmppbWVZZ0xWUHk0dk5DZ2c0TGw4WHNUTXBQcko0RU4zRUd6anJjQVZMcXdMa1Qyd1VZYmFWZ3pvQkJGMUFaVzRmeTJ3VmhFWmEwYlFNZEN3bWY4aWZ4YjUtN2NmNTZTYnJJSkl1TExkaU9zellpWmtZSFJtX1ZOZ3ZvYkVhQ0F4bS1jb2UtSUJRd0pJeGp2Tll1b1lmMTBDTHViSTV6N0s3R1lwWE80bFBBbDRyNGoxZ1FZRE44YjM0?oc=5"
+    }
+  ],
+  "non_serious_cases": 16,
+  "nota_gt_margin": false,
+  "nota_votes": 7872,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Rahul Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Rahul_Gandhi"
+          },
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Leader of the Opposition (India)",
+            "url": "https://en.wikipedia.org/wiki/Leader_of_the_Opposition_(India)"
+          }
+        ],
+        "title": "Leader of the Opposition, Lok Sabha (2024-present)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2017",
+            "publisher": "Wikipedia",
+            "title": "Rahul Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Rahul_Gandhi"
+          }
+        ],
+        "title": "President of the Indian National Congress (2017-2019)"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2022",
+            "publisher": "Wikipedia",
+            "title": "Bharat Jodo Yatra",
+            "url": "https://en.wikipedia.org/wiki/Bharat_Jodo_Yatra"
+          },
+          {
+            "date": "2022",
+            "publisher": "Wikipedia",
+            "title": "Rahul Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Rahul_Gandhi"
+          }
+        ],
+        "title": "Bharat Jodo Yatra (2022-2023)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Rahul Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Rahul_Gandhi"
+          }
+        ],
+        "title": "Bharat Jodo Nyay Yatra (2024)"
+      }
+    ],
+    "office": "Leader of the Opposition, Lok Sabha"
+  },
+  "num_candidates": 8,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "uttar-pradesh-36",
+  "pc_name": "Rae Bareli",
+  "pending_cases": 17,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180474.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Strategy Consultant",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding steps taken by the Government in response to disruption of the Global Energy Supplies arising from the ongoing conflict in West Asia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Motion of Thanks on the President�s Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Motion of Thanks on the President�s Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding air pollution in major cities of the country",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request regarding India's territorial integrity and foreign policy concerns involving China and trade tariffs",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Discussion on Allegations Regarding Voter List Irregularities Across States",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Urge upon to govt to give a comprehensive rehabilitation package for wayanad and declare the wayanad landslides as a national disaster",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 55
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rahul-gandhi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 3,
+  "questions_by_ministry": {
+    "Communication": 1,
+    "Health And Family Welfare": 1,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DINESH PRATAP SINGH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 26,
+    "legislative": 16,
+    "mplads": 43,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 2,
+  "terms": 5,
+  "top_inference_severity": "extreme",
+  "total_assets": 203961862,
+  "total_liabilities": 4979184,
+  "wealth_pct_increase": 28,
+  "winner_vote_share": 66.17
+}

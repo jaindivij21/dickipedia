@@ -1,0 +1,551 @@
+{
+  "accountability_score": 57,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7810000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 44000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 30200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 82010000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 130000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 219164
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 450000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 550000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1018350
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 108000
+      }
+    ],
+    "movable_total": 2475514
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9455",
+      "total_assets": 76085514,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 76085514,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ramashankar Rajbhar  is an Indian politician and is Member of Parliament of the 18th and 15th Lok Sabha of India. He represents the Salempur constituency of Uttar Pradesh and is a member of the Samajwadi Party.",
+    "title": "Ramashankar Rajbhar",
+    "url": "https://en.wikipedia.org/wiki/Ramashankar_Rajbhar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Sheopur, Deoria Rudrapur Deoria Uttar Pradesh, 274204",
+    "emails": [
+      "r.s.rajbhar03@gmail.com",
+      "r.s.rajbhar03@mpls.sansad.in"
+    ],
+    "phones": [
+      "5568297578",
+      "9453016220",
+      "9818623690",
+      "1123352251",
+      "9334866517"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 16,
+  "dob": "01/01/1960",
+  "eci_state": "Uttar Pradesh",
+  "email": ",r[dot]s[dot]rajbhar03[at]gmail[dot]com,r[dot]s[dot]rajbhar03[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 499970,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 499690,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 496230,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 493910,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 485500,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 655870,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 484960,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 464800,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agticultura, Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹10.68 Cr unspent.",
+      "headline": "67% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 106835199,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 7,549 votes; the seat was won by 3,573.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 3573,
+        "nota": 7549
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 750000
+      },
+      {
+        "category": "BOB Rudrapur 2,50,000 2 Lacs+",
+        "value": 250000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1000000
+  },
+  "margin_votes": 3573,
+  "minister": false,
+  "mp_name": "Shri Ramashankar  Vidharthi Rajbhar",
+  "mplads_allocated": 160056927,
+  "mplads_expenditure": 53221728,
+  "mplads_unspent": 106835199,
+  "mplads_utilisation_pct": 33.3,
+  "mplads_works_completed": 31,
+  "mplads_works_recommended": 210,
+  "mpsno": 4305,
+  "myneta_serious": false,
+  "news": [],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 7549,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-71",
+  "pc_name": "Salempur",
+  "pending_cases": 0,
+  "phone": "011-23352251, 23352252, 9334866517 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180481.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Conduct of Student Union Elections in Uttar Pradesh Universities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to provide reservation to ex-servicemen in Group 'B' & 'C' posts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding appropriate measure to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Verification and Implementation of Notification Granting Scheduled Caste Status to 17 Extremely Backward Castes in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to re-employ the contract para-medical employees who rendered their services in Railway Hospitals during Covid period",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of sudden deaths of young people in the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to set up a system and frame law to curb superstitious activities in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need for legislation to uproot superstition from the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding hardships faced by fishermen community",
+        "type": "LS - Calling Attention (Rule-197)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Opening of Canteens for Military in Deoria and Kushinagar Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt include the bhojpuri language in the eighth schedule of the constitution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to provide caste certificates to SC, ST in Salempur constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Request to Revise the Definition of OBC Creamy Layer and Exclude Agricultural Income and Salary Components",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Request to govt for resolution of farmer and worker grievances in Deoria District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to frame laws to abolish superstitious practices in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to ensure proper implementation of SC, ST, and OBC reservations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from govt. to waive off the loans of those whose houses have been submerged in the river and they should be rehabilitated",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Demand from the govt. that ashram based school in district balia and deoria, all of them should be investigated and children should get fresh food",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to ensure return of money to people duped by fraudulent companies and societies in Deoria district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding refund of money to investors of Sahara Cooperatives",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Problems related to Revti and Bankata railway stations in UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 37
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 71
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ramashankar-rajbhar"
+  },
+  "qualification": "Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Corporate Affairs": 2,
+    "Education": 3,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 2,
+    "Law And Justice": 1,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAVINDAR KUSHAWAHA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 60,
+    "criminal_deduction": 0,
+    "legislative": 66,
+    "mplads": 50,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 76085514,
+  "total_liabilities": 1000000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.2
+}

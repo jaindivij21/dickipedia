@@ -1,0 +1,955 @@
+{
+  "accountability_score": 31,
+  "age": 46,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 16634242
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 21236380
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 124906983
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 162777605,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 300000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1179872
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 32304350
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 94345xxxxx 11,59,470 11 Lacs+ ICICI Prudential Life Insu No 2377xx",
+        "value": 1414094
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 93149437
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 25868157
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 18979760
+      }
+    ],
+    "movable_total": 173195670
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=T8wG63sd3b3u42dRDpXD",
+      "total_assets": 217156936,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3856",
+      "total_assets": 299065726,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 38,
+  "assets_latest": 299065726,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "A/P,209 Patil Galli padmale Tal-Miraj Dist. Sangli Maharashtra, 416416",
+    "emails": [
+      "vishal_patil@hotmail.com",
+      "vishalpatil.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9890073333",
+      "9822489000"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 9,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 9,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Forgery",
+        "section": "463"
+      },
+      {
+        "count": 1,
+        "description": "Making a false document",
+        "section": "464"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for forgery",
+        "section": "465"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Summery Criminal Case No. 464/2018",
+        "charges_framed": false,
+        "court": "4th Civil Judge Junior Division and Judicial Magistrate First Class Vadgaon Maval Dist. Pune",
+        "fir_no": null,
+        "other_acts": "Section 138 of Negotiable Instrument Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 813/2019",
+        "charges_framed": false,
+        "court": "Judicial Magistrate First Class Kolhapur Dist- Kolhapur",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "406",
+          "420",
+          "34"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 38902/2019",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate Gurugram Dist- Gurugram",
+        "fir_no": null,
+        "other_acts": "Section 138 of Negotiable Instrument Act",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 41567/2021",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate Gurugram Dist- Gurugram",
+        "fir_no": null,
+        "other_acts": "Section 138 of Negotiable Instrument Act",
+        "sections": [],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 14093/2022",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate Gurugram Dist. Gurugram",
+        "fir_no": null,
+        "other_acts": "Section 138 of Negotiable Instrument Act",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 47411/2023",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate Gurugram Dist. Gurugram",
+        "fir_no": null,
+        "other_acts": "Section 138 of Negotiable Instrument Act",
+        "sections": [],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 2133/2019",
+        "charges_framed": false,
+        "court": "Judicial Magistrate First Class Miraj Dist. Sangli",
+        "fir_no": "189/2019, Miraj Rural Police Station",
+        "other_acts": "Section 37(1) (3), 135 of Bombay Police Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Regular Criminal Case No. 14/2023",
+        "charges_framed": false,
+        "court": "6th Joint Civil Judge Junior Division & JMFC Sangli, Dist. Sangli",
+        "fir_no": null,
+        "other_acts": "Section 190 of Cr. P.C.",
+        "sections": [
+          "463",
+          "464",
+          "465",
+          "406"
+        ],
+        "serial": 8,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Summery Criminal Case No. 947/2023",
+        "charges_framed": false,
+        "court": "5th Joint Civil Judge Junior Division& JMFC Sangli",
+        "fir_no": null,
+        "other_acts": "Section 138 of Negotiable Instrument Act",
+        "sections": [],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 25,
+  "dob": "13/08/1980",
+  "eci_state": "Maharashtra",
+  "email": "vishal_patil[at]hotmail[dot]com,vishalpatil[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4000043,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2219476,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2121716,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2461335,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3215239,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 601569,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1421195,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 550686,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 247929,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 246444,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business / Profession Income, Agricultural Income & Bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture Income, Business/Profession Income & Bank Interest"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹8.19 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.40 Cr.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 81908790,
+        "declared_income": 14017809,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7685894
+      },
+      {
+        "category": "Sahyadri Motors Pvt Ltd 6,88,16,666 6 Crore+",
+        "value": 74993655
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 82679549
+  },
+  "margin_votes": 100053,
+  "minister": false,
+  "mp_name": "Shri Vishaldada Prakashbapu Patil",
+  "mplads_allocated": null,
+  "mplads_expenditure": null,
+  "mplads_unspent": null,
+  "mplads_utilisation_pct": null,
+  "mplads_works_completed": null,
+  "mplads_works_recommended": null,
+  "mpsno": 5756,
+  "myneta_serious": true,
+  "news": [],
+  "non_serious_cases": 7,
+  "nota_gt_margin": false,
+  "nota_votes": 6565,
+  "notable_record": null,
+  "num_candidates": 20,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "maharashtra-44",
+  "pc_name": "Sangli",
+  "pending_cases": 9,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180291.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Establishment of Addiction Treatment Centers in Sangli District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Relief Measures and Assistance for Farmers Affected by Hailstorms in Solapur, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Text not available 65",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Need for Rehabilitation of Slum Dwellers Along Railway Land in Mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to strengthen and stabilise the SNA-SPARSH, the Centralised Payment System to ensure timely payment of salary and grant of funds involved with Centrally Sponsored Schemes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Request for Protection of Children and Villagers from Increasing Leopard Attacks in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Issues Relating to Social Security Pension in Chandigarh and Income Tax Exemption for Armed Forces Personnel",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to exempt the teachers appointed before implementation of RTE Act, 2009 from mandatory Teachers Eligibility Test (TET) qualification",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to release the pending central funds under Jal Jeevan Mission to expedite completion of drinking water projects in Sangli district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Strengthen Driver Licensing Norms to Reduce Road Accident Fatalities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need for a statutory urban employment guarantee policy on the lines of the MGNREGA to address unemployment in urban areas",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Intervention to Protect Teachers from Mandatory TET and Ensure Fair Recruitment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Action Against Student Harassment and Violations of the RTE Act Leading to Rising Student Suicides",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for relief to farmers affected by heavy rains in Marathwada",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for safety audit of Maval, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to provide help to rainfall affected farmers of Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding alleged rise in drug manufacturing and trafficking in Sangli district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to establish a Sub-Regional Office of the Employees� State Insurance Corporation (ESIC) at Sangli or Kolhapur in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to expedite work on six laning of Pune-Kolhapur National Highway in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to continue the subsity to grape farmers in Sangali",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to increase the facilities for the treatment of cancer",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Relaxation of Ban on POP Ganesh Idols for a Smooth Celebration of Ganesh Chaturthi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Granting Shaheed Status and Bharat Ratna to Bhagat Singh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Implementation of Koshyari Committee Report and Increase in Minimum Pension under EPS-95 Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Streamlining and Extending Cotton Procurement by CCI",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need for implementation of Pradhan Mantri Swasthya Suraksha Yojana in Miraj Region of Sangli, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding alleged disputes over prayer and worshipping rights between two sects of Jain Community in Antariksh Parshwanath Mandir at Shirpur, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to the Government to Prevent Privatization of IDBI Bank and Maintain Its Current Status",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Special Security Measures for the Protection of Goldsmith Community",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Increase Minimum Pension under EPS-95 Scheme and Provide Free Healthcare Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt that the GR bring by the maharashtra govt should be postponed immediately",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to the government restore pension for old artists",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding fixed timeline for clearing subsidies and other formalities under PM Awas Yojana-Urban",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to establish Jani board for the development for the said community",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Atrocities on minorities in Bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding Vijay Diwas",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to conduct a survey to identify the eligible landless families in Maharashtra and provide them land legally ensuring them to avail the Government facilities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding the Prime Minister Mudra Yojana (PMMY) and the challenges faced by entrepreneurs and other individuals, particularly in Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt take an effective steps for awareness, diagnosis, and treatment of cervical cancer among women and provide cervical cancer screening services at District Hospital, Primary Health Centers (PHCs), and Community Health Centers (CHCs)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt for resolving train service disruptions in mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt increase the MSP of cotton and soyabean",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to include �Dhangar� community of Maharashtra in the list of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt take an appropriate steps so that discipline and control can be established in the field of online gaming",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt complete the construction of the kavalpur airport as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to construct a dry port at Sangli in Maharashtra to promote export of agricultural produce of the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt take some serious steps to stop flood situation in western maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 84
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 182
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/vishal-dada-prakashbapu-patil"
+  },
+  "qualification": "Graduate",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 4,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJAY (KAKA) PATIL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 19,
+    "legislative": 83,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 299065726,
+  "total_liabilities": 82679549,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.91
+}

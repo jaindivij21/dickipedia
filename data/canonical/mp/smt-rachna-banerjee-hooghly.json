@@ -1,0 +1,432 @@
+{
+  "accountability_score": 31,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3952774
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8046000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 149924001
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 161922775,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 200000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 19576486
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 85225587
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 6714300
+      },
+      {
+        "category": "LIC Jeevan Akshay VII 3,66,50,000 3 Crore+ LIC Jeevan Akshay VI 45,00,000 45 Lac",
+        "value": 77597347
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2952800
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5273594
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 197540115
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7209",
+      "total_assets": 355317030,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 355317030,
+  "attendance_pct": 30,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rachna Banerjee, also credited mononymously as Rachana, is an Indian actress, politician, entrepreneur and television presenter. She is known primarily for her works in Bengali and Odia films, besides a few Telugu, Tamil, and Kannada films.",
+    "title": "Rachna Banerjee",
+    "url": "https://en.wikipedia.org/wiki/Rachna_Banerjee"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Tower 3 flat no 0801 783 Anandapur Madhurdaha Kolkata West Bengal, 700107",
+    "emails": [
+      "rachna.b9@gmail.com",
+      "banerjee.rachna@mpls.sansad.in"
+    ],
+    "phones": [
+      "9433009417",
+      "9903426086",
+      "9033426086"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "02/10/1972",
+  "eci_state": "West Bengal",
+  "email": "rachna[dot]b9[at]gmail[dot]com,banerjee[dot]rachna[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 31122080,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 24131380,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 14420210,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 23104650,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 23374140,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 239240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 63810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 420510,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 492400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 494250,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional Fees, Capital Gain, Interest, Dividend"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income from Business, Capital Gain, Dividend"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Attended 30% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 3% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 30,
+        "percentile": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 21% of MPLADS local-area funds were spent — ₹11.57 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 115716905,
+        "utilisation_pct": 21
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 76853,
+  "minister": false,
+  "mp_name": "Smt. Rachna Banerjee",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 31283095,
+  "mplads_unspent": 115716905,
+  "mplads_utilisation_pct": 21.3,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 101,
+  "mpsno": 5638,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindusthan Samachar English",
+      "title": "Denied ticket, Asit Majumdar targets Rachna Banerjee",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVpkWUpUdGZFVVQtSE12dVRIMU56NEI1bHJ0STRMUmJvQUpPVnp6TEdxZlAtVlJ6WDFIb1VaVWREamh2T0NQUXlTQTNNSktHVnVLMTJWdDdzZktyM1FyQ0E2T1lJLXJDWUM4eGNGSDNYUzdOakQ4LUZyX1EzWnZKdXBrR0hBMmxJdHZKdkY0Yw?oc=5"
+    },
+    {
+      "date": "2024-08-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "MillenniumPost",
+      "title": "Rachna Banerjee urges to formulate Balagarh Master Plan in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGZQUGdpQXRtY2xRRE04NEhQVC1PYnZDUzZ0V21XLVlxM1g5OVF5RFJHRjVzSmExekdteGlPWU8wT1FoSzd5WDlfZGZNUk8xNDlDSlBnMlFRQkVRaW5zclJMc19zbkdyc1ZJcUZ0LWVXOTF3Ry1XbzRUaXBrVW1MaWlObXhNWE5nZ3VhRGpGSmw3bGNLc1p6MTdBZUZxNk5sWnFhSDBwVXZwaHdCV1ZQV2tR0gG3AUFVX3lxTFB6aEUzUS04bFpzQ3ZEVHhySnJBLXQ2Yk1zNFJjRHFROEV0NkpJdDFYMHk0MEZvSEFDWWxlcnVwTXZaZVJBZjh3dWozNFJaTWxfVWhHeXphbmVNSzAxVWpJcGw5RVRBS0xyZWVnR3VaQU1ITXdiREVDTF9kQ1VjM2pnNF9NcXdhTi1nVEdGOWlFaFRJaVFucGZoR2Vsa3pfQmtueHg1aDRNSUJwMHc3MnN0YmF3ZXFxQQ?oc=5"
+    },
+    {
+      "date": "2024-08-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Hooghly MP Rachna Banerjee Takes On Teacher's Role During Visit To Pandua School",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEU4TEZrckUzT0VjT1hNYzdwNHlQVklaRGRkSlNuSFVYWnRYY1dLZGpCVGVmRnRDVEZYTGx5c1ZMekRjMGh6Y2hGdnhGdWp2dHZmRkRqcWI4ZTVKRGpTOEpTUUp3N09rN1l2c0g2QmFRUWg5RXlmQV9NclJjb3lMbDFYVUFOckRfczhfTXY1NXRzNllxUWNFcWZBZ0xXWEhKc2p0ZUNPUzRiLW5wMGxNUmFNT0FTWk1NbUNqbGJ30gHDAUFVX3lxTE03cnhwSEZ5UzBIVHRZZ210cGIyZDh6SnFONDdPWGpkMVlFemJYTHpwMXpNc0Z6Mjl0QnJlM2ZqU2l4RHdmcWY2YlZlOUc1ZmdUcklCd3pteXlLZlFkVHRUZHJJdDlkZ1k0U1JOZzQtZTd6ZlFrU3dib2ZWNHkwTExjc1ZKd2tXbFRaYlRNVUhhb0tLVnhRTlFOeTBvaUJ0R3pMV0t3QU4zYkctMkp5MnpUb2RmUV9SbThQaldoT3VHUXc3MA?oc=5"
+    },
+    {
+      "date": "2024-07-01T02:14:20.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rachna Banerjee , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGl0ZE9vSDFXSGtiMjlmcWZQdm5rNjZlbU5BWGFsSVBpaFhROHU2SWl0OGJhaWtMMGQwUVNLQzBFeHlZUmlGU1RmOGVLN0pKRnlFd3RuaXExZ05rS1NEbnBZZXVFS3BMUWcwTjFVZ3RHbENPbklwX1BneXhJOXN5QlhQamJqVm8?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Hooghly election results 2024 live updates: TMC's Rachna Banerjee wins",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcEI0clExeE95ZEdpMmVqd2Z6ckVxb0NIYnZDTkw2ejBHU3QyYkxpZWpWX2pWVE5oOFQ2T3d4X3pyR01teDhJZmswel9IQVM1UXhvQXZKb25HMk1DY2k1OUlIaGc0SmtpVC00OVRhRW55a0loUkFsMkUtRGdkWkpCeGlZWmZuZWwzZUJ6SGlhLTBEblN0ZXNfTTFTMXpJMkM3WWo5dXFaMTVpRV9UemI4c0NiVEZzZG1kNjVyZ2UwdkNsWHhYT185eTBBYUg1Q3JUM3lEUnlRa1B1S2hMM3ZZQTBhSXVYUUVyb2MyeDFrUTdSMzFuRU9uYUtDTkdpMnBvXzI3WVVnVGRQVHdTalEzWG1fcFhYWEVsM2JsWmZZM1BxRG9wemJ5MFBHMnFHR2pGdEtXYThGQVh1Z1RfQU91TU9qcmh0QTTSAcwCQVVfeXFMTjVQbEVPcGhRVnBFU2R6VUtIWnhOeG0zUlhDaUk3VGJCX3RWZ3ZCYUxJWFdjLWIwRGtpTl95NzJsazJ2XzZ3T2IwQ0Q2VDZBYlp0ZDc3X3ZQNm9DOHVMWFlpdWx5NDR2eVN2U3B1N3lkVVRmLWc4Yk8wWW1PTlBlOE4ycjZ0MVJXdGJnNS1yVHZaa2RGSWxXQ3haOUFmLTlUNElVV2M2bENBV3dSckk5U2tiOUI0TEc5RVNXa1FjQk9JY0NTRUZNS0M3dWIxb0kxVjRTZEVVRHBxWXNmSE5FbDhoWGNKUzRTR05MTzBRSFo5SHU4T0dYdHQ3eG92MW9xLWw1ZTRjbG1waXhWV0RyZjZDUnM5S0lTRXZGNXNnLWowUGxtUnNwZXhOVWM3NEhWYWVkMUdWLVAzZ1E3Sl9qUXNzNTRmTjdRblZQUlU?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13352,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-28",
+  "pc_name": "Hooghly",
+  "pending_cases": 0,
+  "phone": "99033426086",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180531.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Actress in Film/Theatre/Television",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 39
+    },
+    "debate_titles": [
+      {
+        "date": "12.12.2025",
+        "title": "Demand to release pending dues under Samagra Shiksha Abhiyaan in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to conduct a safety audit to the Tejas fighter aircraft",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Sealdah�Ajmer Express to Halt at Bandel Junction to Improve Connectivity for Hooghly Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt. to protect our riverbanks, safeguard our communities, restore hope to the people of Balagarh, and ensure that their plight is alleviated through timely and effective action",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 100
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rachna-banerjee"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 17,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 2,
+    "Finance": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 3,
+    "Rural Development": 2,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "LOCKET CHATTERJEE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 31,
+    "criminal_deduction": 0,
+    "legislative": 23,
+    "mplads": 43,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 355317030,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.31
+}

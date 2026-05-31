@@ -1,0 +1,555 @@
+{
+  "accountability_score": 55,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 18100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 11300000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 32600000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 175000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 243135
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Tata AIG Life 5,40,000 5 Lacs+",
+        "value": 3840000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2548838
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5241000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2650000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 14697973
+  },
+  "assets_earliest_year": 2016,
+  "assets_history": [
+    {
+      "label": "Tamil Nadu 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=8vP33Cnrb3uSeGzGfskx",
+      "total_assets": 14688530,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=164",
+      "total_assets": 47297973,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 222,
+  "assets_latest": 47297973,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "V. S. Matheswaran is an Indian politician and former minister ( 2006-10). He is a member of DMK party. He has been elected to Lok Sabha from Namakkal Lok Sabha constituency.",
+    "title": "V. S. Matheswaran",
+    "url": "https://en.wikipedia.org/wiki/V._S._Matheswaran"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "3/34, Gounder Street, Pottanam, Sendamangalam TK, Namakkal Namakkal Tamil Nadu, 637409",
+    "emails": [
+      "kongumathu@gmail.com",
+      "vsmatheswaran.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9538413397"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 1,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "163/2016, Nallipalayam Police Station, Namakkal Dist",
+        "charges_framed": true,
+        "court": "STC No. 723/2018, JM Court No.1 Namakkal",
+        "fir_no": null,
+        "other_acts": "Alter charge sheet filed 294(b) only the FIR stating that Madheswaran for filthy language",
+        "sections": [
+          "294b",
+          "353",
+          "355",
+          "506(1)"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",
+        "section": "355"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "STC No. 1812/2022",
+        "charges_framed": true,
+        "court": "JM Court No.1 Namakkal",
+        "fir_no": "86/2016, Sendhamangalam Police Station, Namakkal Dist",
+        "other_acts": null,
+        "sections": [
+          "294b",
+          "323"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "149/2016, Valavandhinadu Police Station Namakkal Dist",
+        "other_acts": "Pending not referred to court",
+        "sections": [
+          "294b",
+          "323",
+          "447",
+          "427",
+          "506(1)"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "21/06/1972",
+  "eci_state": "Tamil Nadu",
+  "email": "kongumathu[at]gmail[dot]com,vsmatheswaran[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 495380,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 480580,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 415530,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 393120,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 221620,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 914870,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 677450,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 739900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 701030,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 603760,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "Profession Junior Advocate in Chennai High Court"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹3.26 Cr between affidavits, while declared income across 5 ITR years totalled ₹20.1 L.",
+      "headline": "Declared assets rose 16× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 32609443,
+        "declared_income": 2006230,
+        "itr_years": 5,
+        "ratio": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 1,
+        "pending": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹1.47 Cr (2016) to ₹4.73 Cr (2024).",
+      "headline": "Declared assets grew 222% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 14688530,
+        "from_year": 2016,
+        "pct": 222,
+        "to": 47297973,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 44% of MPLADS local-area funds were spent — ₹9.14 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 91413231,
+        "utilisation_pct": 44
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4539079
+      },
+      {
+        "category": "Finance 1/3rd of the Loan 5,00,000 5 Lacs+",
+        "value": 500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 5039079
+  },
+  "margin_votes": 29112,
+  "minister": false,
+  "mp_name": "Shri Matheswaran V S",
+  "mplads_allocated": 162539930,
+  "mplads_expenditure": 71126699,
+  "mplads_unspent": 91413231,
+  "mplads_utilisation_pct": 43.8,
+  "mplads_works_completed": 96,
+  "mplads_works_recommended": 175,
+  "mpsno": 5542,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-03-16T22:39:12.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Matheswaran V S , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSllXcXdPUl9TMnBZX00zc0daNUZYSzc1dVlhbmRCV1FDT0poeUJDT1dINDZuenBwTjBtMjNnTjB5OXI0MWlyaDZkenljWHAwWnhsamI1eHZOdlVUODZtazFEWEZLbXM1NHRQeHloU0ZoNVlJZkJvSE5RYzVoSS1NcG0tcU9aQQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Namakkal election results 2024 live updates: DMK's Matheswaran V.S. wins",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaGVCUUpWNDYwU2pzc0pQYUZScFh2ODVReU1GYUpaYUVKejJnMjB2N0xSeThKT2VkOG8ybVJ1bkRSa0EwZGlfSzRzSmY1eEhLZkZzZl8zcVZWWUF3YmdKVXVmZVdEUjJSOFd2ZlVrT21zSTMyQmRGZ0tRQVg5NThoOENOd3ZFaXFPbEZUd2hJM2dHMmxwSzlFTV9FZTA5S0Jnb0ZyS2lKM2R5ekpfOVdtWGhGQy16ODRDSE5ZR25RV3RLSlpNR1hqbVVYdDFsQllfQmMtdVZzODVOYmVWT1F5WS13VEpMbnhIU3VaUkNDbldtdVJSNnlTZ1EyQlU1QXV5WWl2amZ5cTBCVHQ1a09DbnJINEtkamwzZVJ5SENuQVpESUV1T1dLcTNIRlE3TnNTN3k1NjdKb081WFdGNkZQQdIBxgJBVV95cUxNd2ZsYXczOVVYZ0ViMzRaYkJCbmpua25IV2dMcnNSWlZfUXRhQWZIWXVIN2lxN2tHM01ka2l2VFNSeENXZUQwanRvNkdaZWdlX2JpLXFqRmtoaVpZQjRLN01mR0xWd0VnRUpad3RIeUM4MEE5OXZzdnRLNmp4QXJ2WVNrT2NWSGNyTWxBT1B1cDBtN1k0OHU5dXVkdmpodVY4UkhQRHFrSDlBRTA0RXo0YTFrSzJVS1loMDJlMG9BbGtWQ0t2LUhJaUwwTlBlRUQxUWV1UVBQVDBIdjhxSjBybk1LbnZMeEZwSmdCVW0yNF9FS1B2WXhaV0NrLU1Ca0VlelRTRW54Mkl4UjFya0I5Uzg0eXJublZyNmpDNmRaaXljeDl3LTZjZnIxaVY3R1hkNmQxZ1BybV9MMU5MWlBuQjFkOFlwdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Namakkal Election Result 2024 Live Updates: DMK's Matheswaran V S Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1JQM3hkR3R5ai1WdGpFRHJBa2NpZnA5SVpDWE1Wb1BMelFrLXRRajQ3ZXlxT2lNNHVFR0pLLVNjd3hQNEdNeVZJdkh5MzFsMDlWMkpDUS1aUGZkbW5fWElKOHRpS2pLU0RCMldTQ3ZjNG5aaXhCLUNlZmI3bjRZZ0UtNmlRblBSS080bk1OTmhvbmxYVzR6SHkta0Y4d2pqeDZ1V25MNFk3QVRTbENLc3F6VE9SWVVueUJ6VkZ5V1B2WjhZRnhz0gHUAUFVX3lxTE8tQXgwRVV1Y2Z1aFA0Z3lEeU9NTC1JS0xWLXRXSVJ0dlJqRlR5MTI3a0xuWVpQWkZCZlZlazZnTWkwc2psclRxOFdIbmNtRHN0aHQzanFQSlhOcF9fU0RuYlNzcEJpd0tqU003Z0JHb096TFZSaXBFOUlad0RhN0lsQnB5aTc0U1NLNGxtU1JWMkktbXVLdUEtNVMwaks5bmFDNzhhUFJnZ2k5eURnaHNqRUZzTGlweVUzWkZLQWhfeFR2ZTFYRVg5UXl0MEJYdXBLeUFD?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Namakkal Election Result 2024 LIVE Updates Highlights: Matheswaran V S of DMK Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNel9ORFFJNHNxUDUtalAzUXRwR3NPdDNpSldRUkIyREVMZWdLSVJOWUtoYmhHV09LM2M3YUpsUlRCbWVqc051M1oxRGFNd0ppUlVzNmJ6R3lkWHhqM2RjQW5mc000Yktwcy0xZHZPem9lVWp5ZWlDOVoyNlVTV2xQTEJMTmdFZFBMVllDN1RDUU1HcWw0NE93YV9LUkZsTVdKeGRvTU45VDRSRFZoVEhoSm93VnpHdUVGWUd1dnNNZnlrSldQblhmUDlNWXZQREJQN1pHTUQ2eE04MjVkZVItSWJzMNIB6AFBVV95cUxOb3B4TnZBNm5naUN6MWtUTU85ME9UcEtfVmhiTzl2bG9PSy13RVBEaDNrTVk1bS0tYkp5eTAyRXdING1WbjFSR1hjNFlkVTJNZWFjUEYwTzhnMi1fMjdJZVZQM2JuakZoa1RqZU1mLVZNajlZWDNoMWxXUDczSzc0WVA2a2w4QURFRWJyYzBUR3JPdzI2TGprcmVwU3ZsM3VLWEpkNW5wOEp3WGJscVpSV2xfRVNFZlZQSlQxU0xZUXlqckdlekZlRUNXaGJ4QmxnNWx3MTJWS1ZySGNuQTFVNGV4MUFIUnpz?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 12984,
+  "notable_record": null,
+  "num_candidates": 40,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-16",
+  "pc_name": "NAMAKKAL",
+  "pending_cases": 2,
+  "phone": "Tel: 09538413397(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180379.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 70
+    },
+    "debate_titles": [
+      {
+        "date": "26.03.2025",
+        "title": "Request for Setting Up an Automobile Park in Namakkal and Addressing LPG Lorry Operators' Concerns",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Urge upon the union govt. to bring a law to tackle the problem of infected dog menace",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Halt Auction of Petroleum Blocks in the Gulf of Mannar to Protect Biodiversity and Livelihoods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 95
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/matheswaran-v-s"
+  },
+  "qualification": "Matric",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Civil Aviation": 4,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 2,
+    "Environment, Forest And Climate Change": 3,
+    "Finance": 1,
+    "Home Affairs": 1,
+    "Law And Justice": 4,
+    "Micro, Small And Medium Enterprises": 1,
+    "Prime Minister": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Textiles": 1,
+    "Tribal Affairs": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "TAMILMANI S",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 64,
+    "criminal_deduction": 9,
+    "legislative": 48,
+    "mplads": 88,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 47297973,
+  "total_liabilities": 5039079,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 40.31
+}

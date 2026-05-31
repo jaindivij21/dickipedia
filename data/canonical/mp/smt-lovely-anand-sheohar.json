@@ -1,0 +1,556 @@
+{
+  "accountability_score": 43,
+  "age": 60,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 52000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 32000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 84000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 167334
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 668733
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 400000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4519990
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4965000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 10721057
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7890",
+      "total_assets": 94553723,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 94553723,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Lovely Anand is an Indian politician from the Janata Dal United, and a Member of Parliament representing Sheohar in Bihar, India and former Member of the Bihar Legislative Assembly. She also served as a member of 10th Lok Sabha, the lower house of the Parliament of India.",
+    "title": "Lovely Anand",
+    "url": "https://en.wikipedia.org/wiki/Lovely_Anand"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Gokul Chowk Gangjala ward No.32 Saharsa Bihar, 852201",
+    "emails": [
+      "lovely.anand1966@gmail.com",
+      "lovely.anandmp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9708288355"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/LovelyAnandMohan/events/?ref=page_internal&mt_nav=0&_rdr"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/lovelyanand"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/lovelyanandsheohar"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 11,
+  "dob": "12/12/1966",
+  "eci_state": "Bihar",
+  "email": "lovely[dot]anand1966[at]gmail[dot]com,lovely[dot]anandmp[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 488000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 495580,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 498000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 517000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 334810,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pension & Agriculture"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.45 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 124527425,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 30,168 votes; the seat was won by 29,143.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 29143,
+        "nota": 30168
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3169916
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3169916
+  },
+  "margin_votes": 29143,
+  "minister": false,
+  "mp_name": "Smt. Lovely Anand",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 22472575,
+  "mplads_unspent": 124527425,
+  "mplads_utilisation_pct": 15.3,
+  "mplads_works_completed": 21,
+  "mplads_works_recommended": 73,
+  "mpsno": 3464,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "‘My son should have been made minister’: Behind Anand Mohan Singh’s explosive claims against JDU",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU1F0VmZ4Q0o2X1ZUUUFURVFzaFNzdENyZURfYTJPRXozanQyVWd5WEE2bDVUM1pTRXRoQzkxdk1lZ3Z5NGZoSmo2dlR0cV9vZUtDRlhKTnlTZy1wMktydUU2MEtjcUVDdmxVcGdCWlloRHptRkU5bUxlOGk1TnFNNmFadlhwaGNRRVB1d3k3UkI4UmN3d3NDXzk0cHk5dUliZXBUSFo2YkNkcmMxTEZHYXRXcl81YV9Pa2dxOVMzX3dEcUNUd1U3aVJMdFhzT3FOS3hPd1ZRMmdndw?oc=5"
+    },
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "JD-U's Lovely Anand urges Bihar CM Nitish Kumar to reconsider Rajya Sabha decision",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEdrOXZTWURiTkIwWUcxOGxhUlFEYWFKX3I5eUM3UkhDdXJNQ3prcjUyenIwUFo2a1VCOWFaQldJYTVUbzQwSm14dEdvVE1vVTB5NTNnT2hndHNNMjdJZWtfLVBhRVRkblR0enMybVcwU25kNHRKeTBhS0J1OU04QW5wZkN6ZUVQb1E0a3hPcHo2VzhYcnJNSUthWWxfUzM2akY4Q2ZSVXRqdGhwOFN6ejlleEk5NWVtM3laQ3hFVnhTUkZpVGxjM3lab3k?oc=5"
+    },
+    {
+      "date": "2025-07-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MLA Chetan Anand, wife ‘assaulted’ at AIIMS-Patna",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdUhJUXZPZWhmY3V3WFh3Q3Y3ZW8tQ0hDNElta3EyTzJVT3hDLVA1R3M0TWlBSW9lOW5yYzY0cmNKWW1JUk0xOUk1RkY1a2hfLVNLZFZHOEE2QUJ0Tml4NDFEN3RLODZwcWFNQmZxTGF5bU5kV0hYbEVGMEMwVkxlN1ZQUjZLS0pQcDFOdDBSZWNWbVBmS0lMMXBXSWh6MWZXR2ZpWEdzSVZnbUR1OXJlNlFHelU4QmkyS2Ew0gHAAUFVX3lxTE9VU1VaUUlKbWdONkg0ZHV3SGp1djZISk42NW1RWm1RcnY1aU5wbjdvaXZESUV4cWZsbTRZenBfVTdiOG1CbUpYMzllcFZsbjVTTWxYUjZCVEdESVJjYXgwWGxacGRxbzB3OE1sOERuMFE0bkdiSTFYbmZBTjhRTXBpZXZrUC1DX0IzT1pCeTFneHROdXFpbTExZWJ6VFRNak9ycFBZQjNwRi1DMDFrNGJpdW1fSm5qcjVuYkVqRkNKaQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sheohar election results 2024 live updates: JD(U)'s Lovely Anand wins",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbkQwSV9wZ2dLeFVTWHdfQmllT2NyTWk5X2p3MXBwNVh5X244dDA3SlQ4OTd5SWRldkhGbFBQOXJ0UGF4dExhSHREMVBFeWFIeEIzTzhvY2FjMG1CcUZsd05pNVlOa2oxdVpBajF6OHcxZ3d0cFdOa2VEOFVmelNjcXBueXgxQlhMQk9wblgwbUFuVm1DTzUxREMwZVNyUWZfWVBGOTQ5N3NTdTRobm8xZGNITkhBTHI3QlltRXY0TmhzQjFrWUVuSzk1MTJZUU9Ya0JJaE1USTR3QWdGV3NxY1RMYnZpcGtxVW9BVlRvWEJmTDRiUy1UbmFxdmowcTdsWU44SWoxYXYxbG1GSGExclcyQdIBmAJBVV95cUxNMVl5djVkMDQ0a1lUUDE0ZENDbVFreENwT0drR01KUFZubW95YU1PYnIwVmZRZDIybGNrTFo0U0ZXMG01cVdocVpsVldnSU05ZlN6SFozb1lhZXJ4LXNDZ2w1LWUxYmtaTUkzekJZamFpbm1FaGZwbGRxNldyWFhFcVRyWUw4MEpkRGNzSGM4VWNEbDhOemJwRmJ3dUZSbWtjSGRpekRUNThMVnY5Zk9uS1lPeDg5RTFhdVpDeFBfYkFNSm9qblNHSXZUMk9lNkJyQ2JLVVhKeElwTm1LQXhoMVZDOHc5ZEY3OFJpUVk1R0JvWENJMG4zXzlIM3UwM0ZOanNQVFhXbWdpNDQ4OVVaNXp4ZXhzM09u?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Sheohar Election Result 2024 LIVE Updates Highlights: Lovely Anand of JDU Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOFppSkxLTHluc0xrS2lCZU1rU0FwYXdNN25LNk9ScFJhMGQ0ME1YRVBvZVJ2VGpoVHk0eUNlcXo3cHZlQlR4UjRVemRUN0RTbGI5UUd2TnlTTlIwcDBPVXExYnQwbERISWJXZ3RwT3FBM2hGb29hOW1zdXFiSXlzYW96ZnB2TkQwUnNwSE5adGs2TXROWHp1YzZWSExxby1LZ3RETXJDTEdIZWlnTEpxdU1feFZCYkZySlNUSDZXZHZldUxRdzV2Q1V5dkRaaWctS2tqUDA1bVE1TlJxMUpOM3BR0gHnAUFVX3lxTE5VdmhkVTFvVnUxSUpGWDJPNnQ1eGIzRlNrSVZnZTNrZ194UDdpMTBtUWNKZVJmTm9Gb2N6TXR6bVpWU1RMdmVmQkt5d1pNNi1fek5JbE5UTTVTR1BxSW1LcHZKNjlRRENLVjRUdklBWUpiVEJrYzN5S0xhdVdMMzdaazdYazliNHN4YkNEME9OM09tZWdwVGtUb2cwNWdCRm51Ql90MnAzQmtTcW1pRzVESkZTeGpvWk0zRnpJMTloOXdVejJ0b284YlFEUDVIUi14amtpVjhPUjZFYWxXQURDNnFRSXoxaw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 30168,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-4",
+  "pc_name": "Sheohar",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180058.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Special Relief Package for Farmers Affected by Crop Loss in Sheohar and Other Districts of Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Provide Train Halts at Ghodasan and Bairgania Stations in the Sheohar Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Inclusion of Sheohar Constituency Railway Stations under the Amrit Bharat Scheme and Early Commencement of Rail Operations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding development of religious and tourist sites in Sheohar Parliamentary Constituency under �PRASAD� Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to confer Bharat Ratna on former PM Late Shri Chandrasekhar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Establishment of Main Post Office, Medical College, and AIIMS in Sheohar District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding construction of road in Sheohar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to establish a Sainik Schhol in Sheohar district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Declaration of Deokuli Dham and Kalnaur Dham as Tourist Sites and Improvement of Connectivity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to minister to establish a paper factory in sheohar as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding setting up of industries in Sheohar district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister to please take immediate action for the establishment of new industries in sheohar district",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to accord permission for speedy construction of bridge in Sheohar Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt that the uniformity of honorarium of anganwadi sisters across the country and they should be given breaks under maternity leave",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt stop using the old buses and sheohar rail project start as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Demand to govt for the construction of a bridge on the bagmati river",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 33
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 79
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/lovely-anand"
+  },
+  "qualification": "Graduate",
+  "questions": 10,
+  "questions_by_ministry": {
+    "Communication": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Law And Justice": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RITU JAISWAL",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 0,
+    "legislative": 53,
+    "mplads": 37,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 94553723,
+  "total_liabilities": 3169916,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.15
+}

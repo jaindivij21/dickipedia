@@ -1,0 +1,675 @@
+{
+  "accountability_score": 58,
+  "age": 52,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 60010500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 44420000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 10500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 90350500
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 205281000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 366400
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2287625
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 13197020
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policies Paid Premiums 5,63,948 5 Lacs+ LIC Policies Paid Premiums 14,39,676",
+        "value": 11928724
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 42650000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 390000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 13178449
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 8432250
+      }
+    ],
+    "movable_total": 92430468
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5299",
+      "total_assets": 287211468,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 287211468,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Chamala Kiran Kumar Reddy is an Indian politician, currently a Member of Parliament in the Lok Sabha from Bhongir, Telangana. He was born in Shaligouraram Mandal, Thungathurthy Assembly constituency.",
+    "title": "Chamala Kiran Kumar Reddy",
+    "url": "https://en.wikipedia.org/wiki/Chamala_Kiran_Kumar_Reddy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Villa No- 36, Aparna Shangrila, Opposite to US Consultate Gachibowli Hyderabad Telangana, 500032",
+    "emails": [
+      "chamala.kiran@gmail.com",
+      "chamala.kiran@mpls.sansad.in"
+    ],
+    "phones": [
+      "9908355699",
+      "9908377699"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/chamalakiran/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/kiran_chamala"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/chamalakirankumarreddy/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Undue influence at elections",
+        "section": "171C"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC 258/2022",
+        "charges_framed": false,
+        "court": "JFCM Nakrekal",
+        "fir_no": "48/2022 P.S-Shaligouraram",
+        "other_acts": "Section- 8(b) National Highway Act 1956",
+        "sections": [
+          "143",
+          "341",
+          "506",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 229/2023",
+        "charges_framed": false,
+        "court": "Metropolitan Magistrate Criminal Court Nampally",
+        "fir_no": "217/2023 P.S-Begum Bazar",
+        "other_acts": "Section- 21/76 CP Act, Sec-52, 177 MV Act",
+        "sections": [
+          "171C",
+          "171F",
+          "153",
+          "505(1)(b)(c)"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "PJCJ Cum xv Addl mm Ibrahimpatnam Court",
+        "fir_no": "207/2024 P.S-Adibhatla",
+        "other_acts": "156(3) Cr.PC, A Court referred case, filed by a third party of tress pass in a property dispute of 200 sq.yds",
+        "sections": [
+          "447",
+          "427",
+          "506",
+          "34"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "24/10/1974",
+  "eci_state": "Telangana",
+  "email": "chamala[dot]kiran[at]gmail[dot]com,chamala[dot]kiran[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 3009780,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3542470,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2312520,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2530090,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2755660,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1600540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1502380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1000000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1205360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1170150,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business & Rental Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 40% of MPLADS local-area funds were spent — ₹8.88 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 88768848,
+        "utilisation_pct": 40
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Margadarshi Chits Due Amount 35,53,937 35 Lacs+",
+        "value": 7348373
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7348373
+  },
+  "margin_votes": 222170,
+  "minister": false,
+  "mp_name": "Shri Chamala Kiran Kumar Reddy",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 58231152,
+  "mplads_unspent": 88768848,
+  "mplads_utilisation_pct": 39.6,
+  "mplads_works_completed": 153,
+  "mplads_works_recommended": 476,
+  "mpsno": 5755,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-12T04:09:59.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "`Fair share or political threat': Bhongir MP Kiran Reddy criticizes PM for `turning Telangana visit into political rhetoric'",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNQTVqV0lKRWJOODh5emFuQmNjbTlWOWhiWENMZWtzeEZVZXpoNlFxajRrS3B2REdmTG9DajlQcUZrcjdZZVVfR0pMblNodXg3Ty1CN2ZBSGc1ZXh5TXVKQVJjb3hubkQzWU5MNVoxT2s2eVctWVhncnJKNXFJYmlURkxxNnA1M2d6eDUyY3Rua3k2SEpxcld0VFFxYy1iSjRlVEs0Q3c1Nl9rNHNzT3paWnpGam9OS0dDdlBUdE51blg1WFJPdllzOTVDOHRiREFhTi1sZEtrS3h6di1qY2lRRUR5N083VXhwZlVMX2M1SEUzQW5MblI0bnplUlI4LVZWbndlT3g5cFVXeVdBTWdXZnY2VVZONEFBd1dNaUtYVGFCdjhyR2JHZUlNWWZQUFZ3aDk2OVF2NjRyQQ?oc=5"
+    },
+    {
+      "date": "2026-05-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "`Fair share or political threat’: Bhongir MP Kiran Reddy criticizes PM for `turning Telangana visit into political rhetoric’",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObjZKWjAtb0xXcmZ0NGY4eGFCaG9YOUxYM3pkRVltUVA1T19Vbk5sVGNYcndxNERzYjF2QkVWcW5GNE92S25oS1BtX1N2RkRDa2loQUpmR3ZrYjB1VkRhcW5FWUYwSXRIZGNUMmVLQjBQTFR4Y2FTZ2xpQmVPRzVZQkFEeWV0NExDQ1IyUHQxczQ5QWpHS0ZBSFZsQm9YQjRfSjRKQjFuSmVWSW5vS2xRaWEwWFFnN2h4bG44ZHFXVVRYbTVuVXEwMHhtWDdYOU1uNmlHU1RSSWVoQmhOSEp3M2dfRzR0emZnWUE4Mw?oc=5"
+    },
+    {
+      "date": "2026-04-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Congress MP Chamala Kiran demands implementation of 2023 women's reservation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0hDYnhjSmxkNDB3YWNHRE8xYUV1dC1pRzliak5GSEoxRGdFWGl4a0VEYjlmYjZVOE5YNHpxZk9jWHllR1dZRHJwM0xUUGc1US1tR2QzY2MxTnZHbGNTeWVwZUctVE1YemVuR0FGMjVrd1FUZnBJakFMR0xSemlxcXA0bndTSUFadWJIaExrcE5PU2lqZ3g3bDNSODY5d3JFRVBoZi12NkFzbEdmMzB5VDdKb0gycDVCUUU1V0ttWdIBxAFBVV95cUxOWElCVmhiZmZHUmtzZUgzOHhUTzRBNWMwcjQ2NW1nRHJlTnZ2ZHY0Tm9oMXUtOGJjY1NVYWFKdnNJZXpEM3N1bkQ2bHU3bXN2WmdWMFVPX1dFYjcxUlpnTHpRTHNnT3kwNW4yMGVyV3JRS05jckpjQXA0NUZLX1E0bFdVM2FlRXJBLVhZb256RWFtX3NKelJtX0xIa1RRUl9EMFRaZ1NrNGNjZkgxSkhieEpQNkJKV1lhNFdKMnhQcldHNE4y?oc=5"
+    },
+    {
+      "date": "2026-03-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "Prioritize public service, counter digital misinformation: Bhongir MP Kiran Reddy",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdl9hazIxWFRoUHdRWV9TRXVsajNMQkxjdUV5djNWWF94ME1XTHdCbWtLRW1SNlpsRXRRaVZOTWFFc2RNV1Z4MEVQYXdBZmFGOWYwOFpEVWx4MS1nQ3N0UGpJV3RhUkFuV01VQlpGVEVWdVF4VDRuY3hUUUdadUFzdlJwOHFYNkZiLVV0YlZMd3p6XzcydG1aazR4Y2YxYU9pcEZ2c2VPRHRTdGk5NmlramZ4U2t3c28?oc=5"
+    },
+    {
+      "date": "2026-03-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "Suspension of 8 LS members, including Bhuvanagiri MP Kiran Reddy, to be revoked",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzZlbVppYm1CY0NEZ0lKQWZUcmRRMGZEekdWZmlha2VDNnVOLVNEQVc0NzczUTNPa2Jxdlk1SWdDQVV2UE5UcWtReE5WdV9felBnTFlJM0ZxMnVPd1BtU3g4Yzk4Rkt2cXlCaDByRjdRck56SFlNRDdTUzRQOWVMc19wdzlZdnJHeVI2RVdaWWlOYnJFNDJObTkxZWxsLVBqeFlBUi1EUXowZWJUNDV4R05B?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 4646,
+  "notable_record": null,
+  "num_candidates": 39,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "telangana-14",
+  "pc_name": "Bhongir",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180402.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Approval of World Bank Loan for Musi Riverfront Development in Hyderabad.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Concern over BCCI rule restricting OCI players from participating in Indian tournaments",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need for urgent intervention to expedite transfer of outstanding funds from Andhra Pradesh Power Finance Corporation to the Government of Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Approval and Implementation of 42% Backward Classes Reservation in Telangana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to expedite completion of the Outer Regional Ring Railway line Project in Hyderabad, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Protect Pre-2010 Appointed Teachers from Mandatory TET Requirement and Amend the RTE/NCTE Acts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to expedite approval to the Bill providing 42% reservations to Other Backward Classes (OBCs) in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to expedite the River Musi Rejuvenation Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to expedite approval of Hyderabad Metro Rail Phase �II expansion proposal covering 5 corridors as a Joint venture project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Completion of Ghatkesar�Yadagirigutta MMTS Project to Improve Connectivity in Bhongir",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Reconsider Commission Cuts and Policy Changes Affecting LIC Agents",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding need to sanction Hyderabad Metro Rail Phase-II Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to provide stoppage to various trains at Ramannapet Railway Station in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishing Atal Tinkering Labs in Telangana�s Integrated Schools",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Reconsideration of Funding and Support for NIRDPR",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding financial assistance for Musi River Rejuvenation Project in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need for construction of foot over-bridges and underpasses on National Highway 65 and 163 in Bhongir Parliamentary Constituency in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding dumping of biological waste in public places and agricultural land by pharmaceutical companies in Yadadari Bhongir district",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 135
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/chamala-kiran-kumar-reddy"
+  },
+  "qualification": "",
+  "questions": 36,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Commerce And Industry": 1,
+    "Communication": 3,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 1,
+    "Defence": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 1,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. BOORA NARSAIAH GOUD",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 66,
+    "criminal_deduction": 8,
+    "legislative": 64,
+    "mplads": 69,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 287211468,
+  "total_liabilities": 7348373,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.89
+}

@@ -1,0 +1,526 @@
+{
+  "accountability_score": 65,
+  "age": 55,
+  "assets_2019": 26417937,
+  "assets_2024": 88159766,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 6100480
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 25497000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 7000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 52097480,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 464500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 18648457
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 34404xxxxx 7,03,527 7 Lacs+ LIC Policy No 34724xxxxx 2,75,192 2 La",
+        "value": 3823641
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1255443
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9484500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2385743
+      }
+    ],
+    "movable_total": 36062286
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Madhya Pradesh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=DNvMsQk9GN6HUJdyqQAM",
+      "total_assets": 26101931,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=DNvMsQk9GN6HUJdyqQAM",
+      "total_assets": 26417937,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5170",
+      "total_assets": 88159766,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 238,
+  "assets_latest": 88159766,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anil Firojiya is an Indian politician serving as the Member of Parliament in the 17th Lok Sabha from Ujjain. He was elected in the 2019 Indian general election as member of the Bharatiya Janata Party. Firojiya was member of the Madhya Pradesh Legislative Assembly from the Tarana constituency in Ujjain district from 2013 to 2018.",
+    "title": "Anil Firojiya",
+    "url": "https://en.wikipedia.org/wiki/Anil_Firojiya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "6/2 Bhakt Nagar, Dushehra Maidan Ujjain Madhya Pradesh, 456010",
+    "emails": [
+      "ujjainmp22@gmail.com",
+      "anil.firojiya@mpls.sansad.in"
+    ],
+    "phones": [
+      "8120003005"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "14/07/1971",
+  "eci_state": "Madhya Pradesh",
+  "email": "ujjainmp22[at]gmail[dot]com,anil[dot]firojiya[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2151470,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2287890,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2013010,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2060430,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1191210,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1350430,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1585250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1474680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1319690,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1288180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1030460,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1174200,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1130750,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 995420,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 790210,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Pension, Allowances, Property Brokership, Interest and House Rent Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Beaulty Parlour Business, Interest and House Rent Income and Agricultue Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Salary, Shop Rent and Interest Income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹6.21 Cr between affidavits, while declared income across 5 ITR years totalled ₹97.0 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 62057835,
+        "declared_income": 9704010,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.61 Cr (2018) to ₹8.82 Cr (2024).",
+      "headline": "Declared assets grew 238% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 26101931,
+        "from_year": 2018,
+        "pct": 238,
+        "to": 88159766,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 48% of MPLADS local-area funds were spent — ₹7.64 Cr unspent.",
+      "headline": "52% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 76441241,
+        "utilisation_pct": 48
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 13942370
+      },
+      {
+        "category": "Neeraj Kumar Shah HUF 10,00,000 10 Lacs+ Shreya Shah 6,00,000 6 Lacs+ Yash Shah ",
+        "value": 12804173
+      },
+      {
+        "category": "Ramesh Aanjana 36,00,000 36 Lacs+",
+        "value": 3600000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 3148258
+      }
+    ],
+    "total": 33494801
+  },
+  "margin_votes": 375860,
+  "minister": false,
+  "mp_name": "Shri Anil Firojiya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 70558759,
+  "mplads_unspent": 76441241,
+  "mplads_utilisation_pct": 48,
+  "mplads_works_completed": 88,
+  "mplads_works_recommended": 246,
+  "mpsno": 5071,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ujjain election results 2024 live updates: BJP's Anil Firojiya wins",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPV0tpejdvR1YxeW45cmp2MVlNd2lWV3c5eGg2a0FvZjBVZ3JsTDhDUkpldUhMOGgwOTNiTUtsOTduWmJmWExjT3NHY2xGV3ZvaEtEVVJWZk5ZakdZMTcybDNWYk1rdllRZ1hRWk5laWdrT0NqamxNbnNteDlWTW5XNHNEeXFaU0hQdklpdk1JWHlhVGRoTWk5UHg0eXVYQlJGd2FsQjIxUFFBZ0lJY3p2WnF2dlZSZ2tRV0ozaU5fVDBqREVOQml4WlV3Vk80MmxOZ0hadkdUbmRWSnBieU5EQU1HTmNySkJzSzFmY1E3Z1ExN3FaemZsSktRWVUzc1Vtd1R2RENvbXY2Y2RRa1Etc0h1N3hOdXlLSzF1WU1UN3hLMXFzTzNNS083SFNxcDhXX2FFN3JNRm1oYlFETFQyLUFZLVdJdXpu0gHOAkFVX3lxTFB1RC14b293LUJoQ1MzZmlKOXNWbElMdzZDTVZqOHFCZFdLcmU5MXZtUmtZNXVQMmZXcVFMOUxfV0RhX1hYN1pqQU50TVVKcUlPbzlRQWxUNEd6UjJfVU1ZUERLSUROeHJXWk5oWVU5MGs5aG43UEh2c3BMTDJUSXJGRDFXTW5PakdwSk80SkY3cWJHYm8wckZOZ3p2aVVvN1RMNGJNYW9FZXltLU9DaTlUM2hPeVotcmtQeXFmWm11Xzcwa2oyR2dMdnNXbmYxMzFvZE1vbVoxTWllMDQ4RkdBZHlrOEM4WmpjX1A1eFJ3SXZ5SjVFTk1MSVZWanhPcTVpYzRicGx2Sl9Janc0WG9ERHhjaWhfYkd3dzk4WnNSaTBtZzQ5V1Z1S2RjWjYxVmJkaHd0RDNTblpfZjZhMkJkbkNLcXdWSFlXOU9OMkE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Ujjain Election Result 2024 Live Updates:BJP's Anil Firojiya Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjFLc2Q2aFpGX0hTRi1SN0tSNTFKdmt6VmhLRVF1MXFtcmZ4aGhmQTEyd2tkdWlKM2RQWXI2LU9HMTlfdTBXX0VkYlJWT05RMEkwSVJvaDJPQ3c5NjRUVTIxa1Q3bzVkZzNZREE4Tnc5cHNHLXZmS2xBS3F3RWI0WnVHUXNmYWlWMi16NXBWUHVwY0R5VDVFbGJ4R0pNbVo1a082aXR0aXJNcG5TVS1Cby1pUHMyb0pNWW80LTFNUVN2ZDdhcEh3dlBn0gHXAUFVX3lxTFAycFdtZ3JMaTFRSWNLanlZMGw3SkxaTXhLSzZlUFl1WDVaV3l0Smx1SWxwdmM5RVRwR1lBRk05dEpNNDNya2gyUzFGTGhRTnFfTUd6NzJWRVFiYmhSVjJlTjEtNkFkbTRxR0JBbllHMG5zNnRxSHZpZkNFYXUwM2ZrY3JJSnpkaG1DYU9KNjdOR0RSYVVRRU81R21VaWo4bHdoM0dPeVlpcUdORF92WS1wUzdUSGQ1Ymd1NWVRWjBZenBfekM3WjhnbUxmdE5NbmlFVVI5X1lR?oc=5"
+    },
+    {
+      "date": "2024-05-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Ujjain Lok Sabha Constituency Results 2024 Live: BJPs Anil Firojiya With By 3.75 Lakh Vote Margin",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR05LNTRQbXJmbjlFMFRNckNfLVFGU3h4dFFrazN4d0s5Z3VOM21pZ0g5endxVndqeUE2RnVQNG5MX1JzRUJrTVB2LUxhX0dBREd2NUZhSFhLM2J5cHhzZy16WldTS1A0ZDJzdzlFdjdmN0JGLWhmVHJxYUFYdUJuTllqYWpPWjBrVGE2akJZcEtWa28ybXFqNUU4MjVIN2dOU194cnFIRG1DRTZCdnM2b2I0OWVmWmJxeXh0SGFQTkl5WjlGR3RhUldSNTZqbjBOLUVwOWQ4YnhNQdIB3wFBVV95cUxNQlU5TUJ4UWVORktUV1NMNXBvQk54Z1VYZFo4M1NQZWdUQnpHZE1oU0t6cF9yWEZHRVZ3bnJuc2pVNHNtOUFaWm1MdnlIazJQRS0yQTBDaDVsMDQyVi1CVzRYT2VnOTJYbXFZRTVfSFhPNDIxM2N5eElkUTFYSkk1dDlGYW9FZWVuMXJPUjg0Mlh0dkYwRWFhUW4zSDd6NXB5dDVFSTVRRmdRTVRSZGY5S1dGVUxad0V6WHYwcnp4MFhjVEVUaGtxcWxic1dBaUVwOURwc0xVanlTRWFXMm5J?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:33:20.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Anil Firojiya, Bjp Party, Ujjain, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU3ppR1h5eE0zX1ZYNF95WUtKb08zSk9odG9xeEZfYU1UalVYT1FXRXIxVG5IZkc0cUFJa0FKYzBIX29TVERGa3NXam5waXpyVWRhanRabzJtQVZjUU1IYVNQTnRVTVk4SWxEU1J0VWw0M0RPalNaUkdJb2V3RU12T1dWdmkzaE95ZENPeHpmampZM0VDLWg2b1h4SWxuTGY3dWlQZV9YR29ubkxkekNrVFM1aUhieE9CVFJ6eV9YZkFXcnBWOE9mZzY0NjYzN21VdHZkNVcteEYwZUFXRTBF?oc=5"
+    },
+    {
+      "date": "2024-03-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Anil Firojiya: Sitting MP Vies For A Second Term From Ujjain",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0F1QUJnWFZTbk5QdEJXVlBKT3ZhYXF5Y2lIZjhiXzNBOVdZZXl4eWhpamtHc3hRVGc0bHZvR2FITEtOREkxcXJEV2ZBMXpFcFUtMXBIX0J6S2tIdGd0cVBURk0tT20yU2NKc1VGeXpidERTR0VBRzFCYmxZU2J3cU4zSEdQQUhGZ2RrTGxRdWxXNzJGYTJLdkRTOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9332,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-22",
+  "pc_name": "UJJAIN",
+  "pending_cases": 0,
+  "phone": "Tel : 011-23310863 (011) 23740863",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180216.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 88
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Deployment of Central Security Forces at Shri Mahakaleshwar Temple in Ujjain",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Establishment of a Sainik School in Ujjain",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for the deployment of CISF in Ujjain",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Demand to Ban or Regulate Bigg Boss and Similar Shows Due to Negative Social Impact",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt for Promotion of Traditional Clay Cup (Kulhad) Usage in Railways to Support Small-Scale Pottery Industry",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding the issue of petrol pump allocation to SC, ST",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to stop the atrocities and violence being perpetrated against the Hindus in Bangladesh and Chinmoy Das Ji and all other innocent individuals currently imprisoned be released from jail without any conditions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt please make the DPR of ujjain-jhalawad rail line as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Demand to extend Right to education till graduation",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 11
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 116
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anil-firojiya"
+  },
+  "qualification": "Graduate",
+  "questions": 25,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Civil Aviation": 3,
+    "Coal": 2,
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Education": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Rural Development": 2,
+    "Statistics And Programme Implementation": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "MAHESH PARMAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 63,
+    "criminal_deduction": 0,
+    "legislative": 51,
+    "mplads": 81,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 88159766,
+  "total_liabilities": 30346543,
+  "wealth_pct_increase": 234,
+  "winner_vote_share": 62.93
+}

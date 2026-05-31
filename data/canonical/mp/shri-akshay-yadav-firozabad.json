@@ -1,0 +1,501 @@
+{
+  "accountability_score": 34,
+  "age": 40,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 523653135
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 414333622
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 107880000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1045866757,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1634072
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5136291
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 84878889
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 26551xxxxx 15,00,000 15 Lacs+ LIC Policy No 26306xxxxx 6,00,000 6 ",
+        "value": 176540000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 32669614
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4456000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2935900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 7595223
+      }
+    ],
+    "movable_total": 318481893
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=DhWrLaHB4zQpmzL48uoU",
+      "total_assets": 100883304,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=DhWrLaHB4zQpmzL48uoU",
+      "total_assets": 321157801,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3481",
+      "total_assets": 1364348650,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1252,
+  "assets_latest": 1364348650,
+  "attendance_pct": 95,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "103 Village PO Saifai Etawah Uttar Pradesh, 206001",
+    "emails": [
+      "akshay.yadav@mpls.sansad.in",
+      "yadavakshay@yahoo.com"
+    ],
+    "phones": [
+      "9627278000",
+      "1123794848"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 3,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "1006/23",
+        "charges_framed": false,
+        "court": "ACJM (First)/MP, MLA Court Firozabad",
+        "fir_no": "C.C.No.89/22 P.S. Sirsaganj, District Firozabad",
+        "other_acts": "Sec.3 Epidemic Act.",
+        "sections": [
+          "171H",
+          "188",
+          "269",
+          "270"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "28156/21",
+        "charges_framed": false,
+        "court": "ACJM (First)/MP, MLA Court Firozabad",
+        "fir_no": "C.C.No.150/21 P.S. Matsena, District Firozabad",
+        "other_acts": "Sec.3(1) Epidemic Act.",
+        "sections": [
+          "188",
+          "269",
+          "270"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "28163/21",
+        "charges_framed": false,
+        "court": "ACJM (First)/MP, MLA Court Firozabad",
+        "fir_no": "C.C.No.285/19 P.S. Matsena, District Firozabad",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "341"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "25/10/1986",
+  "eci_state": "Uttar Pradesh",
+  "email": "akshay[dot]yadav[at]mpls[dot]sansad[dot]in,yadavakshay[at]yahoo[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 20533371,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6355235,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5160187,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 524653,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 7774661,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 20925411,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3337491,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4955976,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5114195,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1972653,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business, Ex MP Salary and Pension, Agriculture income and Bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Doctor, Business, Bank Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹10.09 Cr (2014) to ₹136 Cr (2024).",
+      "headline": "Declared assets grew 1,252% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 100883304,
+        "from_year": 2014,
+        "pct": 1252,
+        "to": 1364348650,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹126 Cr between affidavits, while declared income across 5 ITR years totalled ₹4.03 Cr.",
+      "headline": "Declared assets rose 31× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 1263465346,
+        "declared_income": 40348107,
+        "itr_years": 5,
+        "ratio": 31
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 1,252%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 1252,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3160799
+      },
+      {
+        "category": "Amit Agarwal HUF 5,00,000 5 Lacs+ Jaydayal 25,00,000 25 Lacs+ Suraj Singh 29,95,",
+        "value": 113400559
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 116561358
+  },
+  "margin_votes": 89312,
+  "minister": false,
+  "mp_name": "Shri Akshay Yadav",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 95931875,
+  "mplads_unspent": 51068125,
+  "mplads_utilisation_pct": 65.3,
+  "mplads_works_completed": 19,
+  "mplads_works_recommended": 43,
+  "mpsno": 4779,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-04-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "SP MP Akshay Yadav defends ‘dynasty politics’: Outlines party's strategy for 2028 MP polls",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalB0Qm5KMkZnd2xNSXkxdnJuTnJRNnBZekRKc1hJZnYtWWJRQk9YZWQ5NXdkWDBUM1FGdEl3M2NId0dWeFB0TGtnRXdoRTJEcXFIOUlLbDRJRDZwWW95dlo2T1FBQWtySUlTS0NuZ0NPa2k2SndYdzRmZ25ZRVdlQ1NKN3g3Mnk3TGFBcEN6STJfWjRkSDQ0ajU5eVNreTlwdzdOWjY5RHFNb2U3MDBYSGtPYlduWkttZ19XNWt3Mmd3V3RGb2JhdHRCZ0RScjjSAdQBQVVfeXFMTWNuZF9JQU1PenJ3Z1VEbnhYQnRUMERwUEFmYWNaSTBqTWEzdXlGc3VzS0hwTEM3eXBkWHlXcGZlNTRWOVEtdU5CMlNqckhjdHRrVE04Q3BqX0hhQkJ0VFJvY3JYdDBxdElZcUl0VFh4N1hJYzF4NHRSalhFWGV1Z0JES1I0YUxGVVZZUlFGTDBlYzlrNjJnNkR6ckstVnpkQnA2cWFVbWRIczdmZF9IY1JGellLWE1fLXdva1hqWEc5ZmRBT2VDMU5HVl9LSHZQMGc1a1k?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Firozabad election results 2024 live updates: SP's Akshaya Yadav wins against BJP's Vishwadeep Singh",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOYVlRbFpZaHZhcWlSWGJ1NC1nLWJsbWR1MHRZRTZPaFFtazY3V3FpWFZiQ3B2eU1sM2NNZjdzc21HWlI4SXlaN2lmaEVuZEJHWDB2OUpwMlNYYlBQR0E2Z3pMd1Bwb2JmdHRSSXFUX2M3bk9Mc2VpeGZwNTVPaHVvdlRyYzY1TGFqVmNraS1jRUFVdU9uVTM5SzdRX213Wk5Za2xPLU8yNVJSaWgzYU15WTBFa2dYSjBJZnN5TkQ0Z0p3Rk1YYUVKYU1LTVF1eDlJMnhEUkpxV3FCN2FlVWY3UW0tUVBncnlreGlrWHhGdVp6U082Wlh3dVFBZXZiVDMtSmFkbmlLempRa2k4Ny1ZTVhUdWJLa1Z4amVzWmJRREVVOFAzN2RhRHMwQWdwOFg1empEYlpRd3BKZXhwRzdMMFktb0RBUTlJQzlVSm9jNNIB1AJBVV95cUxOWE5ONlVnRVltV3ROblNIVDA2TkNuckZnaFoybkxWbV9UUGNhQnBlQ055cllXcEFJd3U2Vi13Qm9aU251MEh3eHJGaWdWWk5SeTFkamd5NkF0VFpIeExSV2ZUOC0wSXNjZHlLVzc2cnN3aFVHUmwySWUyek84YUtoRExkZm1fMHVZWlV6Mkw5emdPU1l3TENaSHJKbm83UUNpYmVfTFM4bjNpOUFzX21aLTJSV0w5MWVLcHlUQ211QjFzZjRoYnVaVmVGV3AxMnlLUHo4aUZzSWsteUtobnVlQjBMYnNERi00akZpRlJPSl9nT29xMDdZQzlrUmk3V1VUdlJkYzdhaTNhMUVNS2h4NFFSampwejV2UkMwWVNFRWNXTDhELU1iS2RGM1dIeXRqYk91RWFXMWFkWmNmZExubGhzMy1fLW5ibGZxd0M1UjdmOTFM?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Led by Akhilesh Yadav, all 5 Yadav clan members elected to Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORzd4QWk3RzRidHp5U1BuZ3ZyUldLd0hpWkdzaG1vdWNuTThHbTlPU1BRVGZXbU5oaU45UEpiR18xcTdOQlduY1c3RXh3MEc1Z0pSdDdnZ1A2Zk4tdWYwVEJ1SXF4R2JqT0Q3REdVbTlLVkdsYmVRZ2NYQTdlWDZpUGtZMURHcHpWZFYzU0hLU1QwYm5USUtPODhzWjY5LVdpdzlCVG84czFUblp1V1Rza2hmRjliMFowc1ZJaVpEd1lKSUhVUFc3UGwzdE1hWWR1Z3ptQXBvdWFBTVRsMnEtR2hMZlVrMTNtVGfSAe8BQVVfeXFMT0NfckZzY3NFeS1tQWd2eTdkWEFLcUJydi1VTnNleVY2Qkp5VjB3RFA4UVFPcXBlb0tvVG5sbWRtdGVzVk03UTJEQ3R2a2x6by00OW9rZzU0X0ktWWFLcENVeDdHRDRkMUR5b0c0NkxiTVUxdGNvWHhaVlB2ekZkaHZwMHVXSklyNGNKYzQwVXZaR05SQVRLU0V1RmRqaGR3ZnU4M25EZklrWnBIVHQ2NkxoODVrT2ljTDJmdGF3S0lNUWhEeXVENEVpR0Rma0w5OWtOUEllenZRZTdnUEdLZzFNUDNOa1Uya0lPQS05R1k?oc=5"
+    },
+    {
+      "date": "2024-05-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mint",
+      "title": "Lok Sabha Elections Phase 3 polling today: High-stakes battle in Samajwadi Party bastions for 3 Yadav family members",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMU5rOTV4UEhEMk9BaEFnRzdjdlZtUTlXUWs3eEprbXhyRG1fRVgxOGxjc1NtNHY1ck84R2RiR2xwSXdvVnBUUkp1SWNsYlVGd1JsT0NobjlKb21yYmdLd2ZyalBId1dmUUJ2REFwck5ld3F4ZjV3UElOYXBoSjFCS3BJbjBiSkItQkpFcDRIbFRvandRMVlvNjVibHdiRV9Na1pIYnJlVlhMUkJqMFp5NmZuVWxKR2FCMlRyVlhXWWV4US1UY0FpNVYwb3laYkNySU5DbWQ1YnlUMWRWRUppUVdaQnQ2NEt0eWZjV0o1VGJpZll3bFR30gH8AUFVX3lxTE94WkNUVkItV3NxQVB2c3dGWF9FYnhkdnktcGI4NXVxVXpBa05RdENkOG5ud3JMeVA2c1JBdG1xbGVZTGtYYXc0Z241VUY2WjBndXVOcjZaVWQ1MXBlLW4xdTVSREpMQmt6cmU2Tnk4QU5MM09NRnNYOGtWZm94LXlYdVpFQ3FnQkdqLVUxc0twdWU3NVFCd29TbXc3YldkLTNnVzJpRV8xRTNUSlg2Ul8xbE9UMlFNWTRLZWk1S2NVUU11ZGxvQ0hrcUFhekZGclVFd3FPdHpLb1JCeGRvdnBrY2JaRF96alVxNUpyeFI5eHpZRkJvV2xnSk1tbg?oc=5"
+    },
+    {
+      "date": "2024-05-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "Lok Sabha polls phase 3: Key seats, candidates in Uttar Pradesh as focus shifts to Yadav family",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOT29KUkVkZk9JZl84ZTRYeTQ2dktTZ1VzU0NlSm9MZXptN1VFQWNubU8tSTVScm9PNTJRYWJ1T1JkM1Jtd2RzYl9Ka2VWNENNX3RDSlloREI5Vm1KQ1J0NlpGZkxHM1JhMDhUc2VzZ0pZSzhhNldpQXFxazdJSUZlb29wN1ZSOGVWYWFvcHdMZFd1YXVlcHZNMFFfR2V0Y0NCbjFjQ1lsRVY1d3QxRTRVUkVPbVpVeGlmNkdnMFd5MVdKeEs1MHloLVlBOXFfZzBfXzgtMmRvaE5ncjlqaDh0NUo5ckhqMC1nMHkwZHR1bDFyYjFsN01V?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 5279,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-20",
+  "pc_name": "Firozabad",
+  "pending_cases": 3,
+  "phone": "Telefax : (011) 23794848, 09627278000 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180421.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "03.04.2025",
+        "title": "Request to Establish an ESI Hospital in Firozabad for the Welfare of Industrial Laborers",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/akshay-yadav"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "VISHWADEEP SINGH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 8,
+    "legislative": 24,
+    "mplads": 94,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 12
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 1364348650,
+  "total_liabilities": 116561358,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.04
+}

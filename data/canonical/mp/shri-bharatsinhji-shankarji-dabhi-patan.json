@@ -1,0 +1,418 @@
+{
+  "accountability_score": 52,
+  "age": 71,
+  "assets_2019": 47373221,
+  "assets_2024": 68430049,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 41664000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 58164000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 375000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1063319
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1705424
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy 11,37,786 11 Lacs+",
+        "value": 1137786
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4544770
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1439750
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 10266049
+  },
+  "assets_earliest_year": 2007,
+  "assets_history": [
+    {
+      "label": "Gujarat 2007",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=eYsGSNfRKfJyzmpsSpmh",
+      "total_assets": 13769501,
+      "year": 2007
+    },
+    {
+      "label": "Gujarat 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=eYsGSNfRKfJyzmpsSpmh",
+      "total_assets": 57883854,
+      "year": 2012
+    },
+    {
+      "label": "Gujarat 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=eYsGSNfRKfJyzmpsSpmh",
+      "total_assets": 46876616,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=eYsGSNfRKfJyzmpsSpmh",
+      "total_assets": 47373221,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3603",
+      "total_assets": 68430049,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 397,
+  "assets_latest": 68430049,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bharatsinhji Dabhi is a Member of Legislative assembly from Kheralu constituency in Gujarat for its 12th, 13th and 14th legislative assembly.",
+    "title": "Bharatsinhji Dabhi",
+    "url": "https://en.wikipedia.org/wiki/Bharatsinhji_Dabhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "40, Sansad Office Shree Bungalow, Opp. Vipul Party Plot, Chanasma-Harij Link Road, Patan, Gujarat, 384265",
+    "emails": [
+      "bhartatsinhjidabhi@gmail.com",
+      "bharatsinhji.dabhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9978406377",
+      "9664848942",
+      "9426521265",
+      "9426521253"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "18/03/1955",
+  "eci_state": "Gujarat",
+  "email": "bhartatsinhjidabhi[at]gmail[dot]com,bharatsinhji[dot]dabhi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 977180,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 957500,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 591750,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 485530,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1165080,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Salary of M.P. & Bank Interest, Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Bank Interest and Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.38 Cr (2007) to ₹6.84 Cr (2024).",
+      "headline": "Declared assets grew 397% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 13769501,
+        "from_year": 2007,
+        "pct": 397,
+        "to": 68430049,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹5.47 Cr between affidavits, while declared income across 5 ITR years totalled ₹41.8 L.",
+      "headline": "Declared assets rose 13× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 54660548,
+        "declared_income": 4177040,
+        "itr_years": 5,
+        "ratio": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 38% of MPLADS local-area funds were spent — ₹9.07 Cr unspent.",
+      "headline": "62% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 90736182,
+        "utilisation_pct": 38
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2957861
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2957861
+  },
+  "margin_votes": 31876,
+  "minister": false,
+  "mp_name": "Shri Bharatsinhji Shankarji Dabhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 56263818,
+  "mplads_unspent": 90736182,
+  "mplads_utilisation_pct": 38.3,
+  "mplads_works_completed": 115,
+  "mplads_works_recommended": 273,
+  "mpsno": 5024,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2019-07-31T18:13:32.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Bharatsinhji Shankarji Dabhi: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlMtand0aFFXOEc4dnZMYUlHeUd5X2NtSTBSc0h1YWVLUEM2MEdtT3FZclBwQkNOM1dsdUt2bkdFMlhRZ2ExR3NRbnN5U0czenZ5am9OaGhVYW1MUjRNbEYwQkxCbVdHc0NiV2c1RllVREFZOEFkd3l4WHRVMDNOSUZ3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 16722,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-3",
+  "pc_name": "Patan",
+  "pending_cases": 0,
+  "phone": "Tels :09978406377, 09426521253,\n 09664848942 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180112.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "12.03.2025",
+        "title": "Regarding construction of allweather Road in Patan Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding construction of four lane road from Radhanpur to Patan in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to expedite construction of broad gauge railway line from Chanasma to Radhanpur in Patan Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to reduce the number of toll booths on NH-14 between Santalpurn and Palanpur in Patan Parliamentary constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 51
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dabhi-bharatsinhji-shankarji"
+  },
+  "qualification": "Graduate",
+  "questions": 8,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Corporate Affairs": 1,
+    "Finance": 1,
+    "Housing And Urban Affairs": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Social Justice And Empowerment": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "CHANDANJI TALAJI THAKOR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 74,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 68430049,
+  "total_liabilities": 2957861,
+  "wealth_pct_increase": 44,
+  "winner_vote_share": 49.61
+}

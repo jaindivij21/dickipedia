@@ -1,0 +1,507 @@
+{
+  "accountability_score": 48,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3380000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 375000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 135605
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC No 55788xxxxx 14,705 14 Thou+ LIC No 555348xxxxx 30,654 30 Thou+ LIC No 5579",
+        "value": 175198
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 400000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 842000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 100000
+      }
+    ],
+    "movable_total": 2027803
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=h8hNJHHE6ijv7KufrSHZ",
+      "total_assets": 4069525,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=h8hNJHHE6ijv7KufrSHZ",
+      "total_assets": 5111665,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5153",
+      "total_assets": 5407803,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 33,
+  "assets_latest": 5407803,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kali Charan Munda is an Indian politician and currently serving as Member of Parliament of Lok Sabha from Khunti. He belongs to the Indian National Congress. \nKali Charan Munda has been serving as a member of the Committee on Labour, Textiles and Skill Development since 26 September 2024.",
+    "title": "Kali Charan Munda",
+    "url": "https://en.wikipedia.org/wiki/Kali_Charan_Munda"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village Mahil, P O Mahil, P S Murhu Khunti Khunti Jharkhand, 835216",
+    "emails": [
+      "kalicharanmunda9@gmail.com",
+      "kalicharan.munda@mpls.sansad.in"
+    ],
+    "phones": [
+      "8809405770",
+      "7360087391"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/kalicharanmunda.in"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/incKCMUNDA"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/kalicharanmunda.inc"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "10/11/1961",
+  "eci_state": "Jharkhand",
+  "email": "kalicharanmunda9[at]gmail[dot]com,kalicharan[dot]munda[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 784000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 784000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 784600,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 784000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 866364,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 305520,
+        "person": "huf"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 249982,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 249895,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 350350,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 300195,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Cultivation, Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Cultivation, Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 33%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 33,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 149675,
+  "minister": false,
+  "mp_name": "Shri Kali Charan Munda",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 76328795,
+  "mplads_unspent": 70671205,
+  "mplads_utilisation_pct": 51.9,
+  "mplads_works_completed": 13,
+  "mplads_works_recommended": 265,
+  "mpsno": 5810,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Khunti Lok Sabha Seat Result 2024: Kali Charan Munda Defeats Union Minister Arjun Munda",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXV5c0Q4QnhxbDBxLW05Z1Q2OUlJUTltRXR2RzVUUGJQTnViZDNQRUtDLUpvX0lXSFY4S2NSNTN2aGg4UkcydlhiUjVlQ0t5cVBHQWxxTTBsTFZXQy1GRGVWZ2JSQzY5bFBLeXI1aDI1ZS1GX0R0cnI0RXgzckJOOUNKT1ZTeV83aXNRS2REQkhjUmJxZGZpRWg4aXlWc2YyZlFnb0VRMVRBY2VnXzhGUDVKX1hWcGZNejh6dE45ckt6RnY5LTY2a3p5U1lHNkc4R3JWSkw4WTl0X19EUFpXamFKTzlXQ0QtVkNCZ2ZXelJOazRpdHR2SEhQZzEtcE1xX0lHMHJYWdIBjAJBVV95cUxOZnJMdkJ6ampQX29na3ZrWUI0dDAxVVNabTdoVVowcTJWS0Q1WEI4d0xIbnRMYjUwQUEyV3FWeFBWNE03YnlCWjBrbnlYbnVDTWg3bzI3NkN2RGFIN2V2eHYtRXVCZmVIdDg2MVc4RnIyTFNGaU9PX005S0w5OHRBTXl4YXk4bENWS1ZjT3lGYmdaSlhUbDI0b2JONEE0MFU3SXVUXzNxUm1nNW4yWFFkZjEySjJfUmdHV0o3OFFwZDhVSmRjdF9UZ29JVDQzVHE3dktDYmhETXktRlk0elFOU1dIT09PSU1FVmhVaFRIOG1CbGpfZVNpYWE5ZXByNi14TzhKQmFmdHFDRFNo?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Khunti Election Result 2024 LIVE Updates Highlights: Kali Charan Munda of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYmUyczljMFZHV2JGX1RJcXdPWU9VYS1kX0hQbkw1dUp6eVQtMWJIUDljb2dMLTQ2ZUtKaGlteVZrQXBTUEVOZmxnQmRlbFBTcjkxM1BBTE9SaVJuQXEzaXNtUTdZZlVsek5nLUpHMDVRbkxKSVpFaXEyOEJHM3Vmellfc3ROcldveU9ydW9HUms5SXpJS1lWbHNyNXpNNmFtZUtxR0pZTDJ5cXNlNm1mYkRkc0hQeG9CdDJnRDR1NHhCbHhNX1lnX3lJRENMMzhILVpsOVNXRHdqbE5tZEYwTdIB5gFBVV95cUxNeXVTQTNobmVJTUxIcGdONWMxczlXMlBHMkRGQkFLNUVGRDRmc1RrUHZObW56a2pQQm85RWtMbXhCRmtYUWI5MWRWdW1iY3I1VWVlTzFPUjhjb1Z0b0lrZlFNWkh2dVJEanZDZEVwRXZNaTdXRUl4em5JY3Y4V3BNeE41VVRlMHdwUHd0b3d6T0Z3R3Q4RGpCU2VmcHJqYUlrWlhLZno3NXpxZktuWUN5ak5Fc0Z5bXROMHhXNUpfaVhLYjZMbTVNcGdsbXlSLWd4RUk5dmk5ZlR3V3BCZHpqZzYzNVFIQQ?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:30:21.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Kali Charan Munda, Inc Party, Khunti, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVUpWWDJNVUVtSVB4cE03VThFejhIbEU2TFZpWk9qbnhScUszSl9OX3ZNRkRGRE9RTHpkYlZ4YWdjVlNtOEFTNUYwajhtTmRRcllrTGtIYTFOVTZHN2JJeTZFcU85bEtxQnQ3dDdIV0IzLXF0NWtRRVlwNmluNDctRnkzMkZyaC0zV0VVbldwR1NTWXBnRlQtOG9WdWdiM25PNXA4Wmpqai1QZF9PN2sxU2hVMVotMTE1Z1dMcXphMXRvOWthNVpWRG8wTnJna01nQnF0N1RoRFl0ZU5NTGc?oc=5"
+    },
+    {
+      "date": "2024-05-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Khunti Lok Sabha constituency: BJP's Arjun Munda versus Congress' Kali Charan Munda",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlZ2YVVCS3dIWUlIeDZjWTBoSUtzTjJ6cFJENGZ2cU5SbHB0WWdLOXk2OVZBeTc3Q3J3cmE1d3VvTHpxcmwzWEhGUjVGTEdYWnpaYWpfT3gtWXMzaVdfOEsyTEs3dk9BLWVPendOaGpHSF85T1FYeDBpYnM4NFJaYmZpU0NmU3hPZU5nWkZKVWJtT2ctQW1vb0lCUVgxd1l3LUpSWGxXcWFRMk1xTnFNcEV2SGN2SGNxYU5BNjRkVmRJT2JwVTZoSXlMVUhUY3pLTFZzYW5wbmpUTGRE?oc=5"
+    },
+    {
+      "date": "2024-05-09T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "The Indian Express",
+      "title": "Arjun Munda: ‘(On Hemant Soren issue) no one will support corruption, and more evidence is coming after seizure of crores’",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXlURHN3TktJTkdZZFIydUlubXkxOFZJMXMyTFdTbDJXU2d6ZDhISm00WjBRVTVGLV96OEZTaEhhV2hUS3JFSGRZY1NQX1NaOTRJUFlwVnhBWmFjWU1zRjVGanppeWluT2JpOHlOR2dPaFRtcGdFSUNzNG1zTmVEd2xQU1pVR1AwOTcwalZzanJFNVc0aFItRWc1LUNOamZQMGxLazJic214bHp5TW1BNXhRQW5TMWdXdVg1amE5RVhXVGhSdEHSAcwBQVVfeXFMTW1mM2lpdGR4ZWZ6YnhvbkpfU2hzN1dHdWtLNHpvSl9yYWJaZEEzT1gwb0g0STBPWmVZUnBveEhxRHhIQmREQmRDYnVqRVRqcUdnM1l3cVBSX1FtdXlQdXRYWGJ4WHhad05HWHlOYml4YzNQZWpBZnFRbUdhSTlCRE9aQkQwTndfb0VjNHFuTFV0SzcxZFZjZkxUYW54TTVfMmVkMWQ0QTNnelF0SEF5b0swZ1REX2taUmZRWW5BVzJRbDhhQWZpaVh3TzUt?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 21919,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "jharkhand-11",
+  "pc_name": "Khunti",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180156.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to establish a Government Medical College in Chatra district, Jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding construction of a dedicated corridor for transportation of coal mined from Magadh and Amrapali Coal Projects in Chatra district, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding construction of Hunterganj bypass road in Chatra Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding progress of Gaya-Chatra new railway line project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to recognise 'Itkhori Festival' of Jharkhand as a National Festival",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to establish a Government Medical college and Hospital in Chatra district, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to recognize �Itkhori Festival� of Jharkhand as a �National Festival�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Timely Release of 15th Finance Commission Development Funds to Panchayats in Jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to accelerate the pace of work on Chirmiri Railway Line Project in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to establish a Government Medical College and Hospital in Chatra district, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding rail connectivity for Chatra district headquarters, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to provide the electricity and pucca roads in Lawalong Block in Chatra Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to address the problems arising out of coal mining activities in Tandwa Area of Chatra Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding extension of electricity connection to villages under Lawalong Block in Chatra Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Demand for rail connectivity from Chatra to Chandwa and request for stoppage of trains in Chandwa, Chipadohar and Kechki",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to minister immediate action required for the construction of khunti bypass",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding construction of Rail over bridge at Chandwa",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.8,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 126,
+      "value": 2
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kali-charan-munda"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "ST",
+  "runner_up_name": "ARJUN MUNDA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 48,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 65,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 5407803,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.62
+}

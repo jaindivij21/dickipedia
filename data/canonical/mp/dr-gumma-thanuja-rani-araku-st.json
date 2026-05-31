@@ -1,0 +1,440 @@
+{
+  "accountability_score": 56,
+  "age": 33,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 600000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 600000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 180000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 615177
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 959500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1754678
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5099",
+      "total_assets": 2354678,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 2354678,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gumma Thanuja Rani an Indian politician from Andhra Pradesh. She was elected to Lok Sabha from Araku Lok Sabha constituency representing Yuvajana Sramika Rythu Congress Party.",
+    "title": "Gumma Thanuja Rani",
+    "url": "https://en.wikipedia.org/wiki/Gumma_Thanuja_Rani"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "5-79, Gudivada Colony Gudivada, Paderu Paderu Andhra Pradesh, 531024",
+    "emails": [
+      "thanujagumma12@gmail.com",
+      "dr.thanujavinay@mpls.sansad.in"
+    ],
+    "phones": [
+      "9381172450",
+      "9966633304"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 7,
+  "dob": "09/07/1993",
+  "eci_state": "Andhra Pradesh",
+  "email": "thanujagumma12[at]gmail[dot]com,Dr[dot]Thanujavinay[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 440490,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 500250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 185500,
+        "person": "self"
+      }
+    ],
+    "sources": []
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 39% of MPLADS local-area funds were spent — ₹9.06 Cr unspent.",
+      "headline": "61% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 90614617,
+        "utilisation_pct": 39
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 50580,
+  "minister": false,
+  "mp_name": "Dr. Gumma Thanuja Rani",
+  "mplads_allocated": 149458905,
+  "mplads_expenditure": 58844288,
+  "mplads_unspent": 90614617,
+  "mplads_utilisation_pct": 39.4,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 125,
+  "mpsno": 5679,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Araku MP Thanuja Rani seeks reopening of Chinabhogili railway gate in Parvatipuram-Manyam",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmQ3a2dYYm1ucURoN3JNT01ZTGE5Zm9iZGlURlVlclRBLXg1X29FZFQ1OWl3bXdiemRSSkhnOExlNWZIZFdraTYtRmRKWlREU3RzS0ZkSGdrU0hoN1NuLXJQUnNUQktsbU5ZZzB4UDFwbnFFNDlIczlFbk1NeWdVaFAzc3Z5QU5uUWhvcWZ4TUlfUUM5Snd5MVBycEJpV09WTjMybkhyVkhmdEU1M3pxNkJEMFl6c0R0ekJfYl9FQ0tCMnp1bFhqYk1GRVZuelpjZlN2QlU2cmljc183Ym45VmF2MmhzdkpOVk5mWUcxMURaODBjUmfSAfwBQVVfeXFMTXQyQWtYQlE0WEJHbERtUndJOUZraFh2VjVsT09vT19vVlk0b2E4WEc1dWNtTmgzbDRmUnZydVNBSFh2VjhOYThtQUFuOUZrc0ZodnRoYkotcjFkRm12TVgtc3ptR3lBVTVNQW9xUkZiM0QzVG9mR0FDV09FRG85NVBsLVI3T0pRYzJfQjFjRlVFWFpRa1EyMGpnM2JLNlhzdGxoSDlHMlRHRzA0UkhYbDhkb2t0OVpKTFY1aWVkY0Iyek9wVzV3UTBYY2FMQXJnbnhPOGJsTnNSV3d3bzBNOVFHUW5CZ1c5dFFJZ3J5N1BOVDB3R2FuMmpncVlQ?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Gumma Thanuja Rani: Age, Biography, Education, Husband, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00WDJwWEFlX2R5MUN3RVVRbVZkRndZSUNTYXFpZGdUMldUWTVvYmlpUnV3TlppMFItZXVQdXBQdWluZnRtejliT3NIbXgwVUkyaDB5ci05cEtLYlBPem14M3lEZ0tEUG5HT0J2M1ZIcnpYYWNQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Aruku (ST) election results 2024: YSRCP's Gumma Thanuja Rani triumphs in Aruku (ST) election, defeating B",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQaG5QeXBIZ291bTJlOTdwby1GdTRFZ0haTzRWRzJibHRubVE2N3p6SUhmQXM3VWdhVlJKZmVkYURWblEyaEI1VktHYWZwZXJHcWxwdUVMbEpNT2YzQXM2TnQ1TkU1Y1ZLZWJ1QmJpRlR0Rml2cnlZUzEySmowWjBXVHhrb0hMeUFOa3hCVGdPM2pJQ0MzclBwa0loMnNRYnlSZ1pjc05qN0lNNmx2bnNIMUlacmxfUk03dHhDVTJ0cG5jbVVSU0poREQ5TWR4U0FIaXk5cmVtdUJDenc0NHFBYmF5ZjY2YXB1RnlJOEZ1R05ocUVjOEFLTWhwMDlmYzlKMnIxTXNzWXBJSFl3QUx0T09peGh5bkdDUzRVbmowRVlaTzM4UUNDTWhiNWlnLUwwamN6UzkwWGxiT1g3bGU0ZGxyNlbSAcoCQVVfeXFMTzM2WVNBNlJQU1AteUtKN2wwcUFqNWl2R1NWS3Q3THNVcXNqa3dONHNsUDhRaWVHandTaUFoUmZoNG1YOEpsZ0VjUHhfWndOc0lzaW1HLTR3WGNYY2JNeUE1WWtrNGZaWldkMVNPcUc5cXF1LU5TQkNWNVJ2T3JkZ29YVFN0bC1HNzA3dkFKV2NFaWFjZEFxM2YtOHowZkpRcEV6T1kySmVYRGdaZHcxSDltT1h6SndyZ1NpSU40Q0pDOUxIeW5zeEVtVEQ3cFNweERQMGxUZzE2T3IxTjFNOHVfU1RoVU8wVHgtTFg4emNESlNvNG8xNmdwRmJCSFp2WnRvMTNCNW41SlNVUVo5c2xRaG45THNpMjExakd0Y1R3amMyMVJwLXVJYUxwRWM0cklYLTRCdE80WHIxTHJVWmdINVc1bzFWMUhn?oc=5"
+    },
+    {
+      "date": "2024-05-19T03:26:31.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Gumma Thanuja Rani , YSRCP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTIxbVR1UVhYbU82X0RsalY5MVBmUlJyUzJLaGNjb21CVWdSTUtTeGVKNlBZM1BvTW51T000SG1UclZJQmc1eVdwWnZlZjNTM2xmc0ZEVmQtdjJEbU5TWWtLNktxcWRKS2g5QXNPUUxFUE1BNVdDUGs0eDF1MU9LU3A2ZHgyY1d4bG5J?oc=5"
+    },
+    {
+      "date": "2024-04-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "From a doctor to a politician, Thanuja Rani looks forward to serve society",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFNkVnRBLWFPMERJd2VKOXduQXQxbGR1enBha1BSUjgyUkczaDFfWHV5bUxqV3JPcU45Z1V4MndWZ2N3LWx3UzB0aXVBSE54SE1CQWRQcTJVbUt1X0hmcHpxWEJsYzBsREFZeTY2ejJzNGp4WThlVF9RUWZPbGZRSFJxUUtzSjBvbnFpZGNlWm9Da1A4NF9qZHRkSDZhLW9XUFFFbnFWMlM0YnlqckU3TmJaTERybDZnYlZLaWtKSXp2UdIBxwFBVV95cUxNQUNKeUhpWTE1OXEzUWdyZ1I2Tk8wdHo1WDBzd2FiTzJtLXJfNkVlN0RneW5nSFoxY0pGd1hTd2k4TGg1YVdrOHZhMnc1cl9ib0ltZlpFWWhvVEtGcU9QUmZfNUVwWUNrblI5U0h4SG80MDMwYWpoS3hkVC1XeWF5MEtrODZPMDEwaTZjZUxYcURrNHVwaGJOVThxNzZqMzdiMFRna29BWGF5ZnNtM0YxN25GZk5NX0FWT21mY0xpTEF5VVFUaVRZ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 50470,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "YSRCP",
+  "party_bond_total": null,
+  "party_full": "Yuvajana Sramika Rythu Congress Party",
+  "pc_id": "andhra-pradesh-1",
+  "pc_name": "Araku (ST)",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180013.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Medical Practitioner",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to ensure food safety and nutritional standards in hostels meant for marginalized communities in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt to look into the matter related to the insufficient recruitment of faculty from OBC, SC, ST in the central institutes of higher education",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 85
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gumma-thanuja-rani"
+  },
+  "qualification": "Graduate",
+  "questions": 34,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 2,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 3,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "ST",
+  "runner_up_name": "KOTHAPALLI GEETHA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 56,
+    "criminal_deduction": 0,
+    "legislative": 62,
+    "mplads": 48,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 2354678,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 40.96
+}

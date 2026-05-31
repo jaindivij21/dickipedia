@@ -1,0 +1,646 @@
+{
+  "accountability_score": 37,
+  "age": 64,
+  "assets_2019": 9244092,
+  "assets_2024": 24455903,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1621000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2037500
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3658500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 10000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1336542
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 7458925
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI, Life Insurance No. 1H516939506 10,00,000 10 Lacs+ No. 1H381801410 5,00,000 ",
+        "value": 3322436
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 8680000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 20807903
+  },
+  "assets_earliest_year": 2016,
+  "assets_history": [
+    {
+      "label": "Tamil Nadu 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=58gFFjTcY6WKgLy3bAMm",
+      "total_assets": 7351740,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=58gFFjTcY6WKgLy3bAMm",
+      "total_assets": 9244092,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=816",
+      "total_assets": 24455903,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 233,
+  "assets_latest": 24455903,
+  "attendance_pct": 65,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Anganur Village, P.O. Anganur Ariyalur Tamil Nadu, 621709",
+    "emails": [
+      "mpchidambaram2019@gmail.com",
+      "tt.valavan@mpls.sansad.in"
+    ],
+    "phones": [
+      "9444358869",
+      "7678431080"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 7,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 7,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Negligent conduct with respect to explosive substance",
+        "section": "286"
+      },
+      {
+        "count": 1,
+        "description": "Word, gesture or act intended to insult the modesty of a woman",
+        "section": "509"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Uttering, words, etc., with deliberate intent to wound the religious feelings of any person",
+        "section": "298"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC No.39/2021",
+        "charges_framed": false,
+        "court": "DM Cum JM, Peraiyur Madurai",
+        "fir_no": "Peraiyur Madurai",
+        "other_acts": "Sec.67 IT Act",
+        "sections": [
+          "120B",
+          "295A",
+          "298",
+          "500",
+          "509"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "STC-909/2023",
+        "charges_framed": false,
+        "court": "JM.1 Perambalur",
+        "fir_no": "268/2019 Perampalur",
+        "other_acts": "Sec. 4/[1] TNOPDL Act",
+        "sections": [
+          "286"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "STC-1064/2021",
+        "charges_framed": false,
+        "court": "J.M.1, Ariyalur",
+        "fir_no": "24/2019 Ariyalur",
+        "other_acts": "Sec.3(5), 3-A TN Town Nuisance Act 1889",
+        "sections": [
+          "143",
+          "341",
+          "171(1)"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 83/2018",
+        "charges_framed": false,
+        "court": "JM.II Integrated Court Complex Puducherry",
+        "fir_no": "31/3014 Urulayanpett",
+        "other_acts": null,
+        "sections": [
+          "153A(a)B(c)",
+          "295(a)",
+          "504",
+          "505(a)(b)(c)"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "SC-23/2023",
+        "charges_framed": false,
+        "court": "PDJ Chengalpattu",
+        "fir_no": "729/2012 Mamallapuram Chengalpatu",
+        "other_acts": "Sec.3(1) TNPPDL Act",
+        "sections": [
+          "147",
+          "447"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SC-41/2022",
+        "charges_framed": false,
+        "court": "J.M.I. Mayiladuthurai",
+        "fir_no": "448/2003. Mayiladuthurai G.N Nagai District",
+        "other_acts": "Sec.31 of TNPPDL Act",
+        "sections": [
+          "147",
+          "148",
+          "188",
+          "332",
+          "307"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "STC 114/2020",
+        "charges_framed": false,
+        "court": "JM.1 Thanjavur",
+        "fir_no": "56/2018 Ammapet, G.N Thanjavur District",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "188"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "10/07/1962",
+  "eci_state": "Tamil Nadu",
+  "email": "mpchidambaram2019[at]gmail[dot]com,tt[dot]valavan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2024-2025",
+        "income": 1383288,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1269840,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1238390,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1187160,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1188154,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Leader of the Liberation Tigers of India"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹73.5 L (2016) to ₹2.45 Cr (2024).",
+      "headline": "Declared assets grew 233% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 7351740,
+        "from_year": 2016,
+        "pct": 233,
+        "to": 24455903,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 35% of MPLADS local-area funds were spent — ₹9.61 Cr unspent.",
+      "headline": "65% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 96104109,
+        "utilisation_pct": 35
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 83969
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 83969
+  },
+  "margin_votes": 103554,
+  "minister": false,
+  "mp_name": "Dr. Thirumaavalavan Tholkappiyan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 50895891,
+  "mplads_unspent": 96104109,
+  "mplads_utilisation_pct": 34.6,
+  "mplads_works_completed": 20,
+  "mplads_works_recommended": 81,
+  "mpsno": 4549,
+  "myneta_serious": true,
+  "news": [],
+  "non_serious_cases": 4,
+  "nota_gt_margin": false,
+  "nota_votes": 8761,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "VIDUTHALAI CHIRUTHAIGAL KATCHI",
+  "party_bond_total": null,
+  "party_full": "Viduthalai Chiruthaigal Katchi",
+  "pc_id": "tamil-nadu-27",
+  "pc_name": "CHIDAMBARAM",
+  "pending_cases": 7,
+  "phone": "09444358869 (M)\r\n07823999872 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180395.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 64
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Appeal to Resume Delayed National Census and Include Caste-Based Enumeration",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 115
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/thirumaavalavan-thol"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 39,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Education": 2,
+    "External Affairs": 1,
+    "Finance": 4,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 6,
+    "Heavy Industries": 2,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Prime Minister": 2,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "CHANDRAHASAN M",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 22,
+    "legislative": 54,
+    "mplads": 58,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 3,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 24455903,
+  "total_liabilities": 83969,
+  "wealth_pct_increase": 165,
+  "winner_vote_share": 43.28
+}

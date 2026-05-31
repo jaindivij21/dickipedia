@@ -1,0 +1,433 @@
+{
+  "accountability_score": 22,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8582500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 15082500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 155500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 11138680
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Vinidhan 1,43,850 1 Lacs+",
+        "value": 143850
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2241000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 48000
+      }
+    ],
+    "movable_total": 13727030
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Madhya Pradesh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=wuVreNjbrqxXt3cvfvEH",
+      "total_assets": 11912806,
+      "year": 2018
+    },
+    {
+      "label": "Madhya Pradesh 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=wuVreNjbrqxXt3cvfvEH",
+      "total_assets": 30167409,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3554",
+      "total_assets": 28809530,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 142,
+  "assets_latest": 28809530,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bharat Singh Kushwah, alternatively spelt as Bharat Singh Kushwaha, is an Indian politician from Madhya Pradesh, who was elected to Madhya Pradesh Legislative Assembly from Gwalior Rural Assembly constituency in 2013 Madhya Pradesh Assembly elections. Kushwah is a member of Bharatiya Janata Party and has served as Minister of State in the Ministry of Horticulture and Food Processing of Madhya Pradesh. He is a two term MLA from Gwalior Rural Assembly constituency. In 2024 Indian general election, he was elected to Lok Sabha from Gwalior Lok Sabha constituency.",
+    "title": "Bharat Singh Kushwah",
+    "url": "https://en.wikipedia.org/wiki/Bharat_Singh_Kushwah"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Dangiya pura Rangwa Via Behat Gwalior Madhya Pradesh, 475002",
+    "emails": [
+      "bharat.bjp2010@gmail.com",
+      "bharat.kushwah@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425742521"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "04/09/1970",
+  "eci_state": "Madhya Pradesh",
+  "email": "bharat[dot]bjp2010[at]gmail[dot]com,bharat[dot]kushwah[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2759712,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1564690,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2199547,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1760500,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1732755,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Honorarium and Interest Received From Banks"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹14.43 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 144347137,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹1.19 Cr (2018) to ₹2.88 Cr (2024).",
+      "headline": "Declared assets grew 142% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 11912806,
+        "from_year": 2018,
+        "pct": 142,
+        "to": 28809530,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4776267
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "15,00,000 15 Lacs+",
+        "value": 1500000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6276267
+  },
+  "margin_votes": 70210,
+  "minister": false,
+  "mp_name": "Shri Bharat Singh Kushwah",
+  "mplads_allocated": 151455276,
+  "mplads_expenditure": 7108139,
+  "mplads_unspent": 144347137,
+  "mplads_utilisation_pct": 4.7,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 22,
+  "mpsno": 5609,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-05-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "BJP's MPs Scindia, Kushwah spar over credit for Bengaluru train: Congress's Singhar mocks both, says, 'wres...",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNWU9tbTRobzhIVXZBQXotTm5pdk9CWXl3cy0yNTgxMHk1X1Fvd1VUX2EwcFlySTY3TEV2YmtMLWQtYjViSnNCeFlXeWI4WjJWNnBBUXNhMXVNU3RQYVZqeXRELUEyS01oa2ZUTFVsSlBBeGdzbGRmcXY3MGJfanVuSy01bVkzM2UwdWoySVZqeElzQTBoc0NpYWtuZ3FpQlpaZDl5Ynk1RVNONWxWQ1MxY3Awazg1LWlpTFgtekJYQ09JN1lhekdfS1AyeGpDbU1LTEdxMEtRcjczcVliSUV4TmxLWW1jLWRKemRDcW5yTEEzeHJfYVN3ZDZDZGdiUm5Cakl0TFJVWFZOek5kWVZfTVBXcHQzdWtQNFl3ZTFQM1RJbGVWYzdsSzFJcURsR21vZXlPd0U1X3M2SnVoc3NRYWw0NTRrR0VNdUd3b0NNNkFZbzU3WXF2MjViZjZXb1dubERpMEpjdEduVy1oUEHSAfMCQVVfeXFMTlhxVXVIS0t3SDBHdzJpSHA5WElUMVJaejZpMDN5aEI2dm44LXVQeVRCUWNibkhrR0w4cFRGb29tc3FHdlhCZU8tZ0VMdEJ3ZUwtN0V2LUhxc1JXOF9mN0lHTV9hNXQ3cVZkbk5UXzlaWEUtUUNPd2l2MFh5SDVPb1N2eUctSGZiU2pIWnZqSjR2eDl0Zm1PbWdHZHZpcURyRm8xWXY5aU9CRUZmSEI4UVFHdkhNZkJJdDlXMlcwT3IzUDdzMkxfcW1oS1VhSWFsdnpPa243cy1MN3F4VFY0SUthYlVBNnV4djg3SWRNOG9BMERPNVhsY1pIdHhyXzd6eFd4LXNDUlZNZ0NDX1d5YWhHX21fOXBkb0xlYm9YUjBUN0tlUVFtclJtSFJSQ0J5V19WeUkyNjlVaEdyWnBucEJ2aFh3eW9kYTZSSGREcGRpM0t6UVlkOTZZRGtrVGNHWnhIekdWNjBpLUhhWGlZaWdxWWM?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Gwalior election results 2024 live updates: BJP's Bharat Singh Kushwah wins",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSTlzNEgyaV9xekY5MnpaeTZRMDFVNTl3anRqQW1BVk1WQjdWYVI4OFVVUWxZUEVYOFJVajFIaWdkaEE5TmxwNGFsNG1sdGlURU0zWmJOLWFtdVdHWUFHQTZtN2xGdHdaek9iSTk2Nm14SlJwelduNnJlcXFVTkJIZVdfYzJSbjJLeThMZlpCRnVIekU0Zm1janZqeFlJNkdDLXY3S0Qta25aZ2VTa0xkb0lmZWVaVk5zVU9Eb3ktRl9VaktSUlZVVUhKdEFlVnhWVVVxbmlDV081b280OGRiYndhRF9NNEtoQWlXT1EzS05TQTJXb0J6N3BHOFVQMFNyRXFPV1FrWDczallydF80QnQwU1l5ZFJnQU1ZQ0RiczlQMlJLLWpkZ2VIQTQ0UG1TeFBLejNicGhNZlBvZnMtaFlRLTE3V01ta1ZsZ0NfcUxfU1FsaWRNYzRBQWXSAeICQVVfeXFMTkVocy15UmNZYk1mejkxVFlGYTBjbndYZ3M2TmVXVUVTWmdMWF90RUVDb2g5R21qTjdISjNDbG5qUXhCMlNNQWxvSVlBbWZUVm41NWZZcW9PZHFZT1l4Yko3ang2Yno3czZxRGNLSG1BZVdCc0Q0NDVwMTFIbEVNVWJWX001dmQ4c1NVVWFHcEFvODZDallNZXI5Q1kxNXpabDhUNlpoVUNkZFAxa2cwRW1NVU1xNEFhWmdHYnJrX3FGY2ZvQkNTSEFhQUlKeW02T0IxNEJsTkVyaEdFZUZFSkptbHZTYmhkMnpGZ0gyc0YxY2c1S3pZZGJiZXdZbnpqbmJSelZRc2xncF9KbkVxaWFXVEpxOHFhYmdwRWI3U0VHZTNZdHUyb0k2LUZpNE5nbURvUnloMUtyakIwUjY5T1ZTWC1sWGxQdUdFU2N6OG8yQU9NODEzR0o1Nk5iLWlZRk93?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Gwalior Election Result 2024 Live Updates:BJP's Bharat Singh Kushwah Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWk5HLU5wYXVmd2pmZWVaWHR0SHRqU1pfMmFNcnpDc0RkRF9PQVEza09jSWlrZE1UYkU3Q3NkblFyV1lsa1BLajJCdEV4aGh4S1BodGlXZWF5Z25yVWtSTFItVlFId3J1VFZTaUpYSjdZSXhJd0NUUzBaNDdjampCRk43dGhncDhkNlN6c2Z0a3F3a05RX1VxZGN4TkVTdnhTaTJIaWdzZVdYNEdwRm4yYjQwVXBDUGFWRTk3QUk2R3lWbENLdGF4Q1ZLTdIB2AFBVV95cUxNWFE0TWdJXzVOLUJaMGFQa0tEdDdpZTl3bnEyU2plVnNoMnRjVUFyVlNlRTI2czBtZF9TaEdRNDJFMXp6UkpQdDl0N1o3OHFGNy1heTNWQTNxNURvck4taHZsRXVTZmdKV3dRTjNkeEJhOC1jODV5b2NoN1pwZEhuOE9jYWU4TmhwZWhnckNCVGgtdEdPSGhadDdZUlg1M2hBT2h6ZzlBb2diT0F0RHFnT2hGekJZVHFFa2ViSC1OVXpxMUJvcG55RFJHNDhHXzZQS3ktMm1wU0s?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Gwalior Lok Sabha Constituency Results 2024 Live: Update: BJPs Bharat Singh Kushwah Wins With A Margin Of",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRlVnQWd1MXk0Y2JabkVqbnJna1FWOUh3LU1zRnRSZGVPRE5LN081M3VsbzduenZjOVlmNzA4UmlLUHY5WnZyNGZCcGdEVDNMeWhfM1Y2dUJIWXRuNV9nSk5fdGxQWV9lR3JxemhpYW1CaXR1cEtQZGs5VDhlSmxPX2h5c0ZOMzA3clMybE52QnNrdzVPS3ZkSHN0dGdwQ1dnMFV2WEN6aFU4LTFqcjJxSUlZUWwzSzI0WFo2ckNYQk8wRTlSUHNPUkNPRjN2YVBJYVVEZU9B0gHbAUFVX3lxTE5JckI0N0doQ19Rel8xQXhJVkNiZ2FFY1BocGR0T3V2bkoyYWRFNnNnbjdUQlFVNktrX0tTVnZtWXJzQjhVSGVnUGxScmwzY1RtZWtXbHd5YkREZG5IdzVCenJIWUE4aEdSakgtSmRwejA5a2RrSEF6a1FJcV9zbUlST01hOTJlaVJSc3FCNmhjcDlpMTNseE9WeGVsM2x2a1hfU01WdXNJU25KanZPMzhHSW9Pclg3OFdrX0hSR1JVdlhpZ0FjNFZ5TUhlR2pMUjVuQ3VTRGJkUzhlaw?oc=5"
+    },
+    {
+      "date": "2024-05-31T19:55:30.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bharat Singh Kushwah",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmpPN256UzVOZjNWQTJhYWxVbXVRVU9BRkRSejY2XzEtM0hTblZITkJXX1N0ZjZzSlJiRG5fblZFa0M1VW5LT1h5SGtBVVZPTXhGcGNlNUg5R0NrRFRBaHctZnBhcE9JbnoyM2w4ekMxTF9BNWNJRDd1VGw3cEZ3aWtFbFZOZ25TMXUtRUlSZmp2ZGZVazdNVVhSVUI5c1BVeDM1cUVmdzJIUnktZGhMeWlkYmx6SlZLZVVUMkNBTzJhT0VIRWUw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3341,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-3",
+  "pc_name": "GWALIOR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180219.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Early Completion of Gwalior Railway Station Redevelopment Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Request for National Heritage Status for Ahilyabai Holkar Associated Shiv Temple near Paharganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding setting up of Investment and Business Facilitation Convention Centre in Gwalior, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request to Develop Industrial Zones Along the Agra�Gwalior Green Corridor.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Need for Proper Drainage System and Sewage Treatment Plants in Gwalior",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to establish AIIMS in Gwalior, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 44
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bharat-singh-kushwah"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 12,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Civil Aviation": 1,
+    "Cooperation": 1,
+    "Culture": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PRAVEEN PATHAK",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 22,
+    "criminal_deduction": 0,
+    "legislative": 32,
+    "mplads": 6,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 28809530,
+  "total_liabilities": 6276267,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.99
+}

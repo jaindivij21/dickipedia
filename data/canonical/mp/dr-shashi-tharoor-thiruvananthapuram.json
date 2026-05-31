@@ -1,0 +1,884 @@
+{
+  "accountability_score": 34,
+  "age": 70,
+  "assets_2019": 350022585,
+  "assets_2024": 560656126,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 156875
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 62025130
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5238525
+      },
+      {
+        "category": "Others",
+        "value": 84091
+      }
+    ],
+    "immovable_total": 67504621,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 36000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 102362917
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 209190988
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 164980000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2268506
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 11119194
+      }
+    ],
+    "movable_total": 493157605
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=6Rmu6kriS4V9jsZQ8pf",
+      "total_assets": 230275186,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=6Rmu6kriS4V9jsZQ8pf",
+      "total_assets": 350022585,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2313",
+      "total_assets": 560656126,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 143,
+  "assets_latest": 560656126,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shashi Tharoor is an Indian politician, author, public intellectual, and diplomat. A member of the Indian National Congress, he has represented Thiruvananthapuram, Kerala, in the Lok Sabha since 2009. He was formerly an Under-Secretary-General of the United Nations and ran for the office of Secretary-General in 2006, coming second.",
+    "title": "Shashi Tharoor",
+    "url": "https://en.wikipedia.org/wiki/Shashi_Tharoor"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Apt. Gj Condor Marigold, Bhakthy Vilasam RD.Vazhu Thiruvananthapuram Kerala, 695014",
+    "emails": [
+      "office@tharoor.in",
+      "shashi.tharoor@nic.in"
+    ],
+    "phones": [
+      "4712324555",
+      "9013180980",
+      "4712324666",
+      "9560905727",
+      "1123354158",
+      "1124644383"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ShashiTharoor/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/ShashiTharoor"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/shashitharoor/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 12,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 12,
+    "ipc_summary": [
+      {
+        "count": 9,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 9,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 8,
+        "description": "Conspiracy to commit offences punishable by section 121",
+        "section": "121A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Sedition",
+        "section": "124A"
+      },
+      {
+        "count": 1,
+        "description": "Imputations, assertions prejudicial to national-integration",
+        "section": "153B"
+      },
+      {
+        "count": 1,
+        "description": "Statements creating or promoting enmity, hatred or ill-will between classes",
+        "section": "505(2"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt by dangerous weapons or means",
+        "section": "324"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Uttering, words, etc., with deliberate intent to wound the religious feelings of any person",
+        "section": "298"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "76/2021, Noida Police Station, Sector 20, Dist. Commissionarate, Goutham Budh Nagar UP",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "82/2021, Mautai Police Station, Dist. Betul, Madhya Pradesh",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "67/2021, Sarni Police Station, Dist. Betul, Madhya Pradesh",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "45/2021, Misrod Police Station, Dist. Bhopal, Madhya Pradesh",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "13/2021, Shivpur Police Station, Dist. Hoshangabad, Madhya Pradesh",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "22/2021, IP Estate Police Station, Dist. Central New Delhi",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "9/2021, Cyber Crime Police Station, Dist. Gurugram, Haryana",
+        "other_acts": null,
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "24/2021, Parappana Agrahara Police Station, Dist. Bengaluru South, Karnataka",
+        "other_acts": null,
+        "sections": [
+          "153A",
+          "506",
+          "34",
+          "504",
+          "120B",
+          "124A",
+          "153B",
+          "295A",
+          "298",
+          "505(2)"
+        ],
+        "serial": 8,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1650/2023, Museum Police Station, Thiruvanthapuran, Kerala",
+        "other_acts": "Section 39, 121 of KP Act, Section 5 of Kerala Prevention of Damage to Private Property and Payment of Compensation Act 2019",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "324",
+          "353"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1416/2019",
+        "charges_framed": false,
+        "court": "Addl. Chief Judicial Magistrate Court, Thiruvananthapuram, Kerala",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "500"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACMM Court Kolkata 1971",
+        "fir_no": "Complaint Case No. 471/2018",
+        "other_acts": "Section- 2 of Prevention of Insult to National Honour Act",
+        "sections": [
+          "121A",
+          "153A",
+          "295A"
+        ],
+        "serial": 11,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Rose Avenue Court, Delhi",
+        "fir_no": "Complaint Case No. 23/2019",
+        "other_acts": null,
+        "sections": [
+          "500"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 10,
+  "dob": "09/03/1956",
+  "eci_state": "Kerala",
+  "email": "office[at]tharoor[dot]in,shashi[dot]tharoor[at]nic[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 43256834,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 33530370,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 38566706,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 34985873,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 42663186,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary, UN Pension, Books & Articles Royalty and Fee for speeches"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.44 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 114427479,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹23.03 Cr (2014) to ₹56.07 Cr (2024).",
+      "headline": "Declared assets grew 143% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 230275186,
+        "from_year": 2014,
+        "pct": 143,
+        "to": 560656126,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 16077,
+  "minister": false,
+  "mp_name": "Dr. Shashi Tharoor",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 32572521,
+  "mplads_unspent": 114427479,
+  "mplads_utilisation_pct": 22.2,
+  "mplads_works_completed": 33,
+  "mplads_works_recommended": 114,
+  "mpsno": 4569,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "‘There are things that all of us can learn’: Shashi Tharoor backs Modi-Shah poll playbook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV2wyd1F4d0t5czhrZy1uSkx5enZMMkhUY05qSUhaZlVCM0YtR0lKdk1OT25VLWNFY1RhUVBqMW5RS2J2azNJV2MwMzNFbVE3aXE0ZU9mWm5VNDl3OTRfeTU5Q3JHcm5idVp6SUk2ZFczcFk3UHFkMDRobjcwNjF4RDEwRDNKOFc3U19UalhtOEpxeFdIZC1vdF91U0poOFl0Zjc0M0ZhTzFRZWU3bnZSTTJIX052YlMtUTZHalBISWVPdzI0NmFjZUNuVlNSQWptY2dN0gHYAUFVX3lxTE5MZVEzR0ZHSXNTaU5scmcxc1U2cFpXdFhQaVBjRDJlc2d1Zlp4WE1hN0c2eHlVaXhIc3l1VFdDMzVjYkRlVjFNeEVMdXhfMzE3YUkzMzZQZ1lPWHRuWkFfLVRnVzVjNGJqZkt2NUVXZVhsd3VEdVJHYUpIdFgyVnd3QmtpZ0oyM3F3RGw3NXNTVlQ3Z3Q3eWN6WHRXSFg4SG1hYjZqZXJxa2xuNzBVNUZxaEYxNHBxMDRKbGI1X3hTaWVJc3dMaENkRzlRMDhEcGNTMHc1TEEtMA?oc=5"
+    },
+    {
+      "date": "2026-05-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Shashi Tharoor interview: ‘Vijay might yet be invited to join the INDIA bloc. He’s not being excluded’",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVG1fa09qakUzVnVyNkVVcGNYeFkzVGZNMWVUUTlDSHBUWmRhWU8tdW1RYVFscXFEdHVCRkE2MmgycEktUjRka3Z4V1ZIUkNsSmx2bU1tQ2Npb3VTcWRTalZ3SUJ1UmVzdVNqcVppRFE5TDl2TGpWb1FTVGh2UUZaR0FwMEF4LXZucjY0MVRJYlpmamN2Q1JvUW5welVTTjlqckdfUzlVcmxyYlhRVElxcnV2OFkxbHFzRGdzdDRiOE9VXzI5Y29sMkdwcEsyYUVFRTE0eXRxajltamR1REdvaGJRYnhWUWFURXlKS0VB0gH0AUFVX3lxTFBtb2hWQnhOczRfNzlMUWpIR0pXZDhLaExpV2hwMUtxZWc4ODlDd1FCeTZ5S2FDNlgxQWpWYTlXV2tfS2I0cV9VMEYtcnl6UjE5R2RYaDQxdHFfV09wQUNjWGxOTXlNLS0tbE15MmdSUmJKSHhWWmNxWnZpNEotclFveGNOQnJuUlB5RlZPOFlpU3kya1BVY09rZzczSGVQRlQ5WktaNUg1TklBc3NLTk5pcGE5ZnhudTlSY0NoV214UlZ6SzVWX2lkSjFvODN2SzJaOG9lN0hWRXJwcHdwdWFUUDgwMS04T05iaThQTkVDMDkycnM?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "UDF wins 4 of 7 assembly seats in Tharoor’s Thiruvananthapuram stronghold",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRE9rSUNOQ053bE1PMDlXNFMxdEhGUTJGTjFfSEZpU1Vla3c3Ulo2TXJzaDRJZU1VYV9IcllDRTVhTGx0MS1Ub0ktYlRfeTlNVzY0Y0VZRjExUUJoTE9VZ3ZNZFlTZlpqQ0M5RF9QVHJHSnJ0YTRsV1ZHS1JVUVh5UnJ2RUVGMm9fb1BNYmROOXhqemtiNVFDSm5PNU40U2hBd18xN21ROG9uYWlZdXJlQ3N3dl9reDBqcEhpLdIBwgFBVV95cUxOTDg1V1JzeS1GWWxyVXl0R2FBTEhOWHhvLTdWbXRRY1dWcU5DQmhTWDJFWVBJeGkyMDk1bW80dndkUTZjT012WVZHeDJiRHdlUkt4NzV5eG14aGxGODhwMDd1M21xNUVHcU0yNVlET2hDQ29DSGUyRUJQZ2gzWDV2ZzBRek5oRGRhQnpHbGhsa3VJbDlMOWFfRTd6M0toZmN2cm5ncEZud2c5TXRjMUZMcXFRdXBGbnBQRjNqLWdmdDlpQQ?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "‘Historic Day, Even Greater Than Expected’: Shashi Tharoor As UDF Leads In Kerala",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUJYa2tyQjctUXNpRk03NGtQZ3gzdlVySlJnSWwtS2RQUThESVIyQVktckVXaTNHYjc2VENIV0psT1JERS1VWW53WEkweElOSGhuTzRHazZxSFFHU0NuOUc0UXZXUXRYRjdvdGFVYU52VzY5SG1Na0RRczdOcExpUFRhVVVscFlmYncyTW1lZmJtcmc0cGZoSjV1OGs1LWN1cVNJUHMxQUdWS2JFN1AzalpB?oc=5"
+    },
+    {
+      "date": "2026-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "From rebel to star campaigner: How Shashi Tharoor found his way back in Congress",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEUwNFROS1ZHSVQ1Tnl6VzNwZnQ1cmFwTVhZb0JBNkxWMnlTXzlLX0FTS3hDeTlaMVRneHBncXVvdmRpbm5kVHFJTmRlNFc2dzVmdFY5dnpCRWppd0FLTDJMNVZqRlBJeWFDVGF5S1VkY3oyVlE4WmJ5d2NmU0dGTUZSTFRZWW9BdEZCa0FiMWs3ZkhMemlmNkN2eFNSUjFaeHRZU2xLN3JzTzlfMWh2YW1RQW1SOGE30gG-AUFVX3lxTE5rVE1vMzUybS1Oa2NWMEV5bF9FWnBoSWZwNTBMcTRFLXRSTEtRSEFCaXlmWTV3R1JIZDhZRl8zWnNPYnlVRXo5VTZjMkNDWlQ0WF8tRTB5ZUpBdVY4OEt3UVBpZnRHVExDQmU3cnBGbm5WT1lPcUZlRG9RWm94dHljVkI0cXhFd1ZnTXozbUNlN2t1Sk5KYXFBQjZ1LWRLZGloODFnSjU2eHBzRk9zenJ6U1d2a1BuN3YwbTZJNWc?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 6753,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-20",
+  "pc_name": "Thiruvananthapuram",
+  "pending_cases": 12,
+  "phone": "Tels. : (011) 23354158, 23354035, 23354383\n 011-24644035, 011-24644383",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180209.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "Author",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 88
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to include Thiruvananthapuram, Kerala in the vision 2030 Infrastructure Upgrade Initiative",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need for comprehensive measures to control production and distribution of Narcotic and psychotropic substances in Kerala and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Opposed the introduction of The Viksit Bharat � Guarantee for Rozgar and Ajeevika Mission (Gramin): VB � G RAM G ( ?????? ???? - ?? ??? ??) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to address the severe macro-economic and public health crisis arising out of acute air pollution in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Call for Safety Audit and Accountability in the NH-66 Aroor�Thuravoor Corridor Construction in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding need to provide Ex-Servicemen status to former Military Nursing Service (MNS) Officers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need for an Integrated Framework to address maritime issues including situations arising out of accidents of vessels carrying hazardous cargo",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding situation arising out of the decision to delink Brahmos Aerospace Thiruvananthapuram Limited (BATL) from Brahmos Aerospace Private Limited (BAPL)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to accord �Institution of National Importance� status to Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Statutory Resolution on the proclamation of the President�s Rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding hardships faced by fishermen community",
+        "type": "LS - Calling Attention (Rule-197)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need for GST exemption on all products of Khadi & Village Industries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Action Needed to Curb Illegal Fishing Practices in Kerala's Territorial Waters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to address the problems being faced by ASHA Workers in Kerala and other parts of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to restore allocation of funds under various scholarship schemes meant for students belonging to marginalized communities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Immediate Action on Vijayamohini Mills Crisis and Workers� Pending Wages",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request to Stop Offshore Sand Mining to Protect Fishermen and Coastal Ecosystem",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to reopen the National Film Development Corporation (NFDC) Centre in Thiruvananthapuram, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt take an action to promote work-life balance and enforce working hour restrictions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to take stringent measures to control the production and distribution of banned narcotic substances in Kerala and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding situation arising out of merger of Ananthpuri FM with Akashvani AM",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt an inquiry should be set up against the delhi govt. in the incident of 3 student deaths in old rajinder nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to minister to provide other kind of engines to our fisher people with genuine subsidy otherwise they should provide more kerosene",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding plight of handloom sector in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding need to take steps to check coastal erosion in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 33
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 6
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 119
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shashi-tharoor"
+  },
+  "qualification": "Doctorate",
+  "questions": 40,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 3,
+    "Commerce And Industry": 1,
+    "Communication": 3,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Earth Sciences": 1,
+    "Education": 3,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 2,
+    "Health And Family Welfare": 6,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Petroleum And Natural Gas": 1,
+    "Prime Minister": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAJEEV CHANDRASEKHAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 68,
+    "criminal_deduction": 40,
+    "legislative": 84,
+    "mplads": 46,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 9,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 560656126,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 60,
+  "winner_vote_share": 37.19
+}

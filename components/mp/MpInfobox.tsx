@@ -1,4 +1,3 @@
-import type { ReactNode } from 'react';
 import {
   ExternalLink,
   Landmark,
@@ -11,19 +10,8 @@ import {
   ClipboardList,
 } from 'lucide-react';
 import { getParty, type Mp } from '@/lib/data';
-import { PartySymbol } from '@/components/PartySymbol';
-
-function InfoRow({ icon, label, value }: { icon: ReactNode; label: string; value: ReactNode }) {
-  return (
-    <div className='border-border flex items-start justify-between gap-3 border-b py-3 text-sm last:border-0'>
-      <span className='text-ink-soft flex shrink-0 items-center gap-2 font-mono text-xs'>
-        {icon}
-        {label}
-      </span>
-      <span className='text-right font-medium text-balance'>{value}</span>
-    </div>
-  );
-}
+import { PartySymbol } from '@/components/ui/PartySymbol';
+import { InfoRow } from '@/components/ui/InfoRow';
 
 export function MpInfobox({ mp }: { mp: Mp }) {
   return (

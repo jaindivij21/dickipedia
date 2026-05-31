@@ -1,0 +1,449 @@
+{
+  "accountability_score": 45,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 12500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 27500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 94600
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4150381
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5683466
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Insurance Policy No 12899xxxxx 45,153 45 Thou+ Insurance Policy No 14496xxxxx 38",
+        "value": 590844
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 392023
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2412700
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13324015
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Municipal Corporation for Delhi 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=kV6iG6WSQuCqvj62Jjs",
+      "total_assets": 15941664,
+      "year": 2012
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7899",
+      "total_assets": 40824015,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 156,
+  "assets_latest": 40824015,
+  "attendance_pct": null,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H -31 Naveen Shadara delhi NCT of Delhi, 110032",
+    "emails": [
+      "harshdeepmalhotra@gmail.com",
+      "harshdeep.malhotra@mpls.sansad.in"
+    ],
+    "phones": [
+      "9811106331"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/hdmalhotra"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/harshmalhotrabjp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "24/04/1964",
+  "eci_state": "NCT OF Delhi",
+  "email": "harshdeepmalhotra[at]gmail[dot]com,harshdeep[dot]malhotra[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 905910,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 859130,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 866800,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 805040,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 751530,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 484560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 476180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 470780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 480630,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 450180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 443240,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 441660,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 439580,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 437740,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 432650,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Printing Press Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Editing and Proof Reading Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹2.49 Cr between affidavits, while declared income across 5 ITR years totalled ₹41.9 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 24882351,
+        "declared_income": 4188410,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.58 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125833150,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹1.59 Cr (2012) to ₹4.08 Cr (2024).",
+      "headline": "Declared assets grew 156% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 15941664,
+        "from_year": 2012,
+        "pct": 156,
+        "to": 40824015,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 93663,
+  "minister": true,
+  "mp_name": "Shri Harsh Malhotra",
+  "mplads_allocated": 147134131,
+  "mplads_expenditure": 21300981,
+  "mplads_unspent": 125833150,
+  "mplads_utilisation_pct": 14.5,
+  "mplads_works_completed": 5,
+  "mplads_works_recommended": 109,
+  "mpsno": 5563,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T15:12:09.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Delhi BJP chief Harsh Malhotra to train party workers in Chandni Chowk",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU05fbkVvcEh2Vk96UlprbjljX2lHd1N1eGtuZ19ST0d3WktGYnZkQ3JBN1lsN3ZpeEdEQjNzeTIxRVE1c09UQ3hsWEV0b0xTc3ItcS1TRjUwOFJNWHhFQTUyMWpfbHdHa205V3ZteC11bWJnLVp6Xzdsbm5OWWpBb0FScXQtQjF0S0tETkpSM0phc05Tc3AwUHR0Y1J0ZkQ5UDhDenRQV24wbTJRVkVzV3ZUZ29hQjRRMTRDZTBtUHdaY0HSAcMBQVVfeXFMUFNOX25Fb3BIdlZPelJaa245Y19pR3dTdXhrbmdfUk9Hd1pLRmJ2ZENyQTdZbDd2aXhHREIzc3kyMUVRNXNPVEN4bFhFdG9MU3NyLXEtU0Y1MDhSTVh4RUE1MjFqX2x3R2ttOVd2bXgtdW1iZy1ael83bG5uTllqQW9BUnF0LUIxdEtLRE5KUjNKYXNOU3NwMFB0dGNSdGZEOVA4Q3p0UFduMG0yUVZFc1d2VGdvYUI0UTE0Q2UwbVB3WmNB?oc=5"
+    },
+    {
+      "date": "2026-05-30T14:44:23.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "New Delhi BJP chief Harsh Malhotra wields organisational expertise, close ties with RSS",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWVIzVUtiS3d5V2hRV1FTZGhFQVhmUkFDbFJUN05pNmRNcy13SDBBdGd2Ymc5WTk0WGpVVHJpdEZUV2JmamFxT0FKSVhzZFR4eUdiQjNMSlRfdHZLaGYtQXQ3NGtxWWdvdTJTRVBadVJUenk3ZjZJaXYyREY1NTV5aXI2dENBZkNhbnNyR3NEWjNTdWhlN09oZ0hyclVDR0s4LVRhaHk1d0YxRm9ibVR4Z2plbGhYOWJURFJnMXU1cEpsR0hodUZsSGx2Mno0WW0xWGdvYWJsWHFxemJ3RUlhMkxJOTZSRlFRYWJXekxSbEZ3ZHMtMFNwMXVQR2dhWmdsTmpyWFlQOHduN2c1eFZCRTVnckRkN1FqOFUzODhxd0hjSzVOSFdmaEhOWjF3dFllaTZCRnZPUjc4Yk9OcHNGd2VlclFWU1ZkdFNWU1pDdGZFNzc5eFhnVTNFeU9qMFM4RC1BOTJKOA?oc=5"
+    },
+    {
+      "date": "2026-05-30T13:41:15.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Harsh Malhotra launches ‘Sansad Khel Mahotsav 2025-East Delhi’ at East Vinod Nagar Sports Complex",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPa2xZTWpJdkdfMlcwNXFDZS1kTDgtZk9fVmxsd3l1RVhPeE1OcS1UV1RrSGM1YXVsSGFTckFtbGJDYlUyaWJlMUZIZU94MGdXR0VTRlA4MzlkcGI5Tl8teTBxX1lrZWJBdWZ4TTQ1cWxkbkxCMkZZdEhxYzM5NlRYVU4zX1pLU0owSjJOSDV2X3VNa25xb0lOVjBMcHJPVGRoYnMwTWxKT2tCQlpOZXhlYWU1WFlNdTFSd05WY3RXck8yLWZfOF9DQVNMTjFrWjRwbUdGc2FnRnJNc3VTTEt1ai1LUnp6emVLWW9NWG1oV2VPTjNCeERkQllocTVzVzZ5NjlSc3BLU2Yxd3Y1RDJqcXdhbmYzR2luNjdVY2N5aE5KWjh4ZndrVTBQM2xZOFV2b19GMnBEMHhWc2pHRVRyUG9yM2FwRmNlTWFUODh0MndtazIxM0h4NGpBeG1ld1RMNjY1bU5naXJNcUticjh1WnRmTQ?oc=5"
+    },
+    {
+      "date": "2026-05-30T09:53:59.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "From MCD mayor to union minister; Who is Harsh Malhotra, now leads Delhi BJP",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZXl4MGZZeEZrcVNNNlVzN09Jd1VzTlBGMTRMMEJNalhUZnZ3NFlYYk1DLXhUWm5NUVh6Q3VTV09vU1ZkdHBmVUJmYldkakxPVGQ3RzV5U0Zsc2FvcEdMVUhlWWpxQzhyM2FEbTdQWWl0RzV6NVR5cWxWSnljcFZrVGJDU1FUX0tldjFaSjZVV20zZVI3cW9GTzFCRUVCN2hrcV9BemoxYTdjRjAweVpXV2pzRU96YnJNeDBCVWVfM0NPRF9WN2VydnhnbjBNcXdIcTZmRUM4OEZQOS1rQTJZZVlyUFJRb21HT01JUUhQcUJMWUdQVlI4c2k1a01nZ1Ny?oc=5"
+    },
+    {
+      "date": "2026-05-30T02:53:34.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "New teams for districts soon: Delhi BJP chief Harsh Malhotra",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalQtSmR2OHlHMVFwNE90OWh2Q29OcHJfYnZRNE1DMk11NmlLMzktbXkwdFd6SnVQT1g0azIwQnNvNXc4UGFNcXd4d09NSW5sc2JRLUZvWG9aU0MxQTEzSzNic0YwTFltVjdheTZxdmRtYmtjMWRKMGw1OW03SkZsWVZZRmppdWR3b3RtYUx5U3BubkNFeFQwOGFuNUxKaEZwVHc5cmxHTGFVcWtNVG9JZ3kwUXNZU2Zi?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5394,
+  "notable_record": null,
+  "num_candidates": 20,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "nct-of-delhi-3",
+  "pc_name": "East Delhi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180098.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/harsh-malhotra"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "KULDEEP KUMAR (MONU)",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 40824015,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.59
+}

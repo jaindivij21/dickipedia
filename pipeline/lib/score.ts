@@ -1,9 +1,3 @@
-// Accountability score v2 — the single home for the formula, weights, caps and constants.
-// Computed in 17_merge.ts (not 10_canonical.ts) because the integrity tiers (pending/convicted) and
-// declared wealth-growth inputs are only folded in during the deep merge. Cohort-relative: a pillar's
-// "excellent" anchor is the sitting cohort's 90th percentile, so the scale auto-calibrates to the
-// 18th Lok Sabha instead of arbitrary fixed caps.
-
 export interface ScoreInput {
   minister: boolean | null;
   attendance_pct: number | null;
@@ -36,53 +30,28 @@ export interface ScoreBreakdown {
   seniority_bonus: number;
 }
 
-// positive base — parliamentary track earns legislative + MPLADS (weights sum to 1)
 const W_LEGISLATIVE = 0.6;
 const W_MPLADS = 0.4;
-// legislative internal, questions-led (sum to 1)
 const WL_QUESTIONS = 0.4;
 const WL_DEBATES = 0.25;
 const WL_ATTENDANCE = 0.25;
 const WL_PMBS = 0.1;
-// MPLADS internal: spend vs works-completion (sum to 1)
 const WM_SPEND = 0.65;
 const WM_COMPLETION = 0.35;
-// minister executive track: base = MINISTER_BASELINE + MINISTER_MPLADS_SLOPE·MPLADS pillar (range
-// 0.35–0.85). The baseline avoids a misleading near-zero for ministers (no PRS metrics exist for them)
-// while staying below the parliamentary ceiling, so the very top is reserved for measurable records.
 const MINISTER_BASELINE = 0.35;
 const MINISTER_MPLADS_SLOPE = 0.5;
-// integrity (self-declared) — weighted by the project's serious/non-serious split (pipeline/lib/serious.ts).
-// Serious charges carry the signal; a pile of minor/political cases (defamation, protest-related) is held
-// to a low sub-cap so it can't zero an otherwise-active MP; a conviction aggravates on top. Fallback to a
-// flat per-case ding only when the deep affidavit (and thus the split) is unavailable.
 const DED_PER_SERIOUS = 6;
 const DED_PER_NONSERIOUS = 1;
 const DED_NONSERIOUS_CAP = 8;
 const DED_PER_CONVICTED = 6;
 const DED_FALLBACK_PER_CASE = 3;
 const DED_CRIMINAL_CAP = 40;
-// declared asset growth (% increase across recorded affidavits) — cohort-relative: nil at/below the
-// cohort median (normal), ramping linearly to WEALTH_DED_CAP at the p90 and beyond. MP wealth growth
-// over 10–15 years is enormous cohort-wide (median ~2×), so an absolute threshold would penalise the
-// median MP; this flags only the genuine outliers.
 const WEALTH_DED_CAP = 30;
-// weak local legitimacy: NOTA exceeded the winning margin
 const DED_NOTA = 5;
-// transparency: a curated, sourced press-accountability flag (e.g. refusing open-question press
-// conferences). Applies only where the flag exists, so it dings documented avoidance without
-// compressing the distribution. First slice of the broader public-reception factor; kept light.
 const DED_PRESS_FLAG = 10;
-// seniority experience bonus, per term beyond the first
 const BONUS_PER_TERM = 2;
 const BONUS_TERM_CAP = 8;
-// PMBs are ~zero cohort-wide (p90 is 0), so any bill is exceptional — fixed small cap
 const PMB_CAP = 2;
-
-// ACHIEVEMENTS / PUBLIC-RECEPTION HOOK (not yet active): when the curated `notable_record` and press
-// `press_accountability` reception data reach real coverage, add an achievements pillar here and shave
-// W_LEGISLATIVE / W_MPLADS so the base weights still sum to 1. Deliberately omitted for now: current
-// coverage is ~0, and a pillar everyone scores 0 on would re-compress the distribution.
 
 const clamp = (n: number, lo = 0, hi = 100): number => Math.max(lo, Math.min(hi, n));
 const norm = (x: number, cap: number): number => (cap > 0 ? Math.max(0, Math.min(1, x / cap)) : 0);
@@ -104,8 +73,6 @@ export interface CohortCaps {
   wealthP90: number;
 }
 
-// p90 anchors for the positive pillars; p50/p90 for the cohort-relative wealth ramp. Legislative
-// metrics exist only for non-ministers; MPLADS and wealth growth span both tracks.
 export function cohortCaps(mps: ScoreInput[]): CohortCaps {
   const nonMin = mps.filter((m) => !m.minister);
   const growths = mps.map((m) => m.assets_history_pct).filter((x): x is number => x != null);
@@ -147,9 +114,6 @@ export function scoreMp(
     base = 100 * (MINISTER_BASELINE + MINISTER_MPLADS_SLOPE * mplads);
   } else {
     track = 'parliamentary';
-    // attendance is unrecorded for a few MPs (the mirror shows 0 despite filed questions/debates); treat
-    // that as missing and renormalise the legislative weights over the metrics that exist, rather than
-    // scoring a phantom zero. A genuinely inactive MP (no questions/debates/pmbs) keeps the real 0.
     const attMissing =
       mp.attendance_pct == null ||
       (mp.attendance_pct === 0 &&

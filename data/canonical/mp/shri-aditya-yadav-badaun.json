@@ -1,0 +1,497 @@
+{
+  "accountability_score": 57,
+  "age": 38,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7065870
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 17155230
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 24221100,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 469685
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2755048
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 93315182
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC & Other Insurance Policy 9,74,529 9 Lacs+",
+        "value": 974529
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 22655133
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1474270
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 402800
+      }
+    ],
+    "movable_total": 122046752
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3490",
+      "total_assets": 146267852,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 146267852,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Aditya \"Ankur\" Yadav is an Indian politician and the Member of Parliament, Lok Sabha from Badaun Lok Sabha constituency. He is affiliated with the Samajwadi Party.",
+    "title": "Aditya Yadav",
+    "url": "https://en.wikipedia.org/wiki/Aditya_Yadav"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No 108 Village and Post Saifai Saifai Etawah Uttar Pradesh, 206130",
+    "emails": [
+      "akkuryadav@gmail.com",
+      "adityayadav.sp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7881186999",
+      "9839086999"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/socialistaditya/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/socialistaditya?lang=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "12/06/1988",
+  "eci_state": "Uttar Pradesh",
+  "email": "akkuryadav[at]gmail[dot]com,adityayadav[dot]sp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1954880,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2625910,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2332560,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1308410,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2689890,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 715450,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 704360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 659490,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 486090,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 637520,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Remuneration , Business & Consultancy"
+      },
+      {
+        "person": "Spouse",
+        "source": "Remuneration & Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 45% of MPLADS local-area funds were spent — ₹8.11 Cr unspent.",
+      "headline": "55% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 81098659,
+        "utilisation_pct": 45
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Abhay Ram Singh Yadav 11,50,000 11 Lacs+ Ankur Rice Industries Private Limited 1",
+        "value": 23713481
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 362582
+      }
+    ],
+    "total": 24076063
+  },
+  "margin_votes": 34991,
+  "minister": false,
+  "mp_name": "Shri Aditya Yadav",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 65901341,
+  "mplads_unspent": 81098659,
+  "mplads_utilisation_pct": 44.8,
+  "mplads_works_completed": 35,
+  "mplads_works_recommended": 104,
+  "mpsno": 5802,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Badaun election results 2024 live updates: SP's Aditya Yadav won with over 5 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOeWNhSXg2VlBHUlFXQmNSNzFCQWFsNFYtaFNkZHhuVEFJcnRHbGhQMC1FMEZFbEx3TzJPc0sxckJHblhOdnp4WVJVWV9XeDNGalZDaDF5ZktHQ3dtd2JNeEJpZVB6ZE1uMDFtbmsxZXJiRGVOZGZDUGdQQ3FwRUU5aVdsZURsazdoMWxWUktzb1dDdFlhTG41bThNWW0wYi11V2FjaHRfNy05NGJsTVBOTGxFY190SVIxSWRHZm1zM01HZFpqY25udExpektRX3JyM3paSktRU3RyNEVERmctS2tmcGMzVnk4SjlNSUZnVU9DU2gxT2pJYTMzOXc0N3VxdDZiVF9ZMXNwM1dSTVRNWVZFR1RSckhGZ2pHLUpMaWNnREczZHI2TzRGUU1UaFFYdVJ4SmtUbTR6bktvNFlmN21lYWHSAcoCQVVfeXFMTUswMC1mLXpFZmRKY3ZZWEZXTkE3MUhWUG43YW11d0x1NmxFRVRCTWdyckhjMF9jeXAxQjI3QlVkUG5tVF93bTRTMGZuM0drRWZSZEpfTXdwV0pTWTlpM2doUUY0RTE2SzhfdzRad0dzbjFoLWhmS05FWVp0aDJldjY5TEljZnVSUUJ3RWJBb0ZjMU9fWkdmN204VEJsd0hpZVZvNnJfU2dlZXRkVGdKdDR1eUs0R3UxTTg4clRiazhTdE9ZRkVZNlhIZHFJcldWMmYyWDBOWkNVNmk1QlBwNWNha3FlT3lCMFBkWmxiOUdCcHF3dHluUUU1cExjNnVPMEloZkdPVkthbFdWaXVGTGlLWnZEVHk5Sllha2M3QXNYOEE5QkkwdEJ3bm8wREozZ09zV2ZEOVJEN3RoYVl5bVBYeEVmVUlNaTRR?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Led by Akhilesh Yadav, all 5 Yadav clan members elected to Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORzd4QWk3RzRidHp5U1BuZ3ZyUldLd0hpWkdzaG1vdWNuTThHbTlPU1BRVGZXbU5oaU45UEpiR18xcTdOQlduY1c3RXh3MEc1Z0pSdDdnZ1A2Zk4tdWYwVEJ1SXF4R2JqT0Q3REdVbTlLVkdsYmVRZ2NYQTdlWDZpUGtZMURHcHpWZFYzU0hLU1QwYm5USUtPODhzWjY5LVdpdzlCVG84czFUblp1V1Rza2hmRjliMFowc1ZJaVpEd1lKSUhVUFc3UGwzdE1hWWR1Z3ptQXBvdWFBTVRsMnEtR2hMZlVrMTNtVGfSAe8BQVVfeXFMT0NfckZzY3NFeS1tQWd2eTdkWEFLcUJydi1VTnNleVY2Qkp5VjB3RFA4UVFPcXBlb0tvVG5sbWRtdGVzVk03UTJEQ3R2a2x6by00OW9rZzU0X0ktWWFLcENVeDdHRDRkMUR5b0c0NkxiTVUxdGNvWHhaVlB2ekZkaHZwMHVXSklyNGNKYzQwVXZaR05SQVRLU0V1RmRqaGR3ZnU4M25EZklrWnBIVHQ2NkxoODVrT2ljTDJmdGF3S0lNUWhEeXVENEVpR0Rma0w5OWtOUEllenZRZTdnUEdLZzFNUDNOa1Uya0lPQS05R1k?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Badaun Lok Sabha Elections 2024 Result LIVE: Aditya Yadav vs Durvijay Singh? Will the bicycle run or will the lotus bloom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYm54bXplRVk5UEtieWVWenROcUpici1vTTRyQ1JJRkJuREJYVFVkN2Uwci0zRWt5RDRvUEpfN1h2Z0tHMjd2WWJDdEhiMU0zQThnME9wdXlKR2ZfNUZKNXJKMGRuX0p3ejd6X0laT1ExMktDREFYSVhYT3E3NzBXUjV1UTNnZW9EY1hndksxaTlNejdRMUk1Nm9EWHU3REIxcEhvMksySUk2a1ZJVEc2bE5HOTVNNUQtaHotVll1VkkzR3ZmUzJB?oc=5"
+    },
+    {
+      "date": "2024-05-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "SP leader Shivpal Yadav forced to leave Badaun as per Election Commission guidelines",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXhQNFpQY2t6VjMxc1RmNHhCUmdNSDVPaGtSSjRiVVZMUk45MXY0SEdGRnM5VzRQd1pLUlBzNnhRZFI5djJEeHk3dVB5QWR6aUMtLUs2VU9LMEhPc05YdS1Sa0xQdTVKeE5pTGhZa0VyLTlaSEhHVmROSzI0NHBWUDRTcjh1RS1yb2tGM3FB0gGUAUFVX3lxTE83RWt0NXJnNDh3SGxyR2ZodWxCOEFES3M3SUdad24yZ0s4YVdnWUJKTG5DN3g5SFdHeUtiUFpjUlJxREtFU1VqSlNjempNX3dJbkdOWFpBSnZ5aTRPSjFaOEFHakoxSG9kQ0RCcVo2WjZKOE00UzBUcnlLUmgyNUt2UkpXamRtc1ppbVVIU2daSDFQVWk?oc=5"
+    },
+    {
+      "date": "2024-05-07T06:20:22.000Z",
+      "flagged": false,
+      "publisher": "AajTak",
+      "title": "Aditya Yadav Latest News, Updates in Hindi | आदित्य यादव के समाचार और अपडेट",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GbUtsVnhJTVB2MUR4MDBPcGZnYkhIenZRQWU2blBrZldzMEtvbmpsNVZXeVpwMmxJT1A0MGZSaDV3aFZOTkdQZ01mRDNuWEZzalE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8562,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-23",
+  "pc_name": "Badaun",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180417.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Construction of a New Railway Line Connecting Chandausi, Bisauli, Badaun, Usaini, Kasganj, and Kaimganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for CBI Investigation into the Daylight Murder of Two HPCL Officials in Dataganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Construction of a Bypass between Badaun�Moradabad and Badaun�Bijnor to Reduce Traffic Congestion and Improve Road Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to repair village roads affected by Ganga Expressway construction in Badaun Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Construction of an Overbridge at Badaun-Dataganj Railway Crossing",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding merger of Government Schools in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need for giving options to Government Employees in Uttar Pradesh to choose Unified Pension Schemes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Construction of an Outer Ring Road to Ease Traffic and Boost Industrial Growth in Budaun",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding alleged irregularities in Lodna area, Jairampur Colliery under BCCL in Dhanbad, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding action taken in the incident of boiler blast at NTPC Plant in Unchahar, Raibareli, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding construction of Outer Ring Road in Budaun district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding establishment of Kendriya Vidyalaya in Gunnaur, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 98
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/aditya-yadav"
+  },
+  "qualification": "Post Graduate",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Earth Sciences": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DURVIJAY SINGH SHAKYA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 0,
+    "legislative": 45,
+    "mplads": 76,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 146267852,
+  "total_liabilities": 23713481,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.97
+}

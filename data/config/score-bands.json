@@ -1,0 +1,9 @@
+{
+  "null_band": { "token": "warning", "label": "Not enough data" },
+  "bands": [
+    { "max": 30, "token": "danger", "label": "Poor" },
+    { "max": 55, "token": "warning", "label": "Mediocre" },
+    { "max": 75, "token": "success", "label": "Decent" },
+    { "max": 101, "token": "success", "label": "Strong" }
+  ]
+}

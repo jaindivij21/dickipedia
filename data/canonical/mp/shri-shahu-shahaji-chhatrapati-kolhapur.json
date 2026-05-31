@@ -1,0 +1,438 @@
+{
+  "accountability_score": 21,
+  "age": 78,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1340554660
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 115972368
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 314393000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1770920028,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 255000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 367247732
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1169665264
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 947201682 10,00,000 10 Lacs+ LIC Policy No 947201705 10,00,000 10 ",
+        "value": 7500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 61946430
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 62519000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1669133426
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3847",
+      "total_assets": 3428668000,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 3428668000,
+  "attendance_pct": 45,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "New Palace Kolhapur Maharashtra, 416003",
+    "emails": [
+      "shahuchhatrapatikop@gmail.com",
+      "shahu.chhatrapatikol@mpls.sansad.in"
+    ],
+    "phones": [
+      "9823035353"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/chh.shahumaharaj"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/shahuchhatrapati"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/chh.shahumaharaj"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "184/2024, Dated 03-04-24 Laxmipuri Police Station Kolhapur",
+        "other_acts": "Section 135 of MPA",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "07/01/1948",
+  "eci_state": "Maharashtra",
+  "email": "shahuchhatrapatikop[at]gmail[dot]com,shahu[dot]chhatrapatikol[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 20833290,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 25134250,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 21417660,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 20710270,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 20044670,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2696950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2170520,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1017550,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 854520,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 794850,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 768250,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 798930,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 875720,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 729490,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 821150,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Investor"
+      },
+      {
+        "person": "Spouse",
+        "source": "Household"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.40 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123957446,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 45% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 6% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 45,
+        "percentile": 6
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 154964,
+  "minister": false,
+  "mp_name": "Shri Shahu Shahaji Chhatrapati",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 23042554,
+  "mplads_unspent": 123957446,
+  "mplads_utilisation_pct": 15.7,
+  "mplads_works_completed": 20,
+  "mplads_works_recommended": 101,
+  "mpsno": 5766,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kolhapur election results 2024 live updates: Chhatrapati Shahu Shahaji of Congress wins",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVkJHWWMxbzhtQ3Z1NUJJa25xalNESTJTaFpDWnAyNVRZVTg5RXhhaEJOSVd1Rkg3MWpOY1MtU3VSdllMOXY2QzhjeG1aNjlCellGRU96X2FZYmRsNVM2aXUySDhLRjVzUXlxVnRrbTVxMWFfRkFXbHU2ejBBVlJ4QnJqN3FUOFVoTFZmcm9CbHRySFBLVEZERmgxc1NLRlo3b2dqXy1jeTNkWXdoNmRSYk1yVTN6aGNPTlR5YkE2TGd6Uk5nZXRSVXFDejJYNmRhQm01MDhIb24tYVBVMG1HSjRGOV84d0wyeV9MbTYxcTlJbVZBUk94X0FZYWtITVdQbE91WTA2aF_SAY4CQVVfeXFMT19hclpPU3JJbDJFZDNaMUhfeFliWEhrQ21mMnptalhQWE1pc1JHRFpUV21JY0dRUGNZVUpOeXFhTHdnVmV2MldRbG9ZVmV0RzBBZzRiRFFEMTZDdUhlVDVTcXVfbjVYdjUweTQ3c2NIcVlOd3o2TldRXzlORnl2Qk50blNwVFlQVVMtQVJ0V0FVdHRIQ3M3d0FvM2YtN0tBbDBzUXFYc2VxUi00Z0I0TzdJTWk3MWJrQnFLNGJVVkRXMjEyWmVwRmgtb3VkQkZZYXdDeDRabnZJN1p5RDJKOGJQWndTMUlxaWFncTVxUkN5dkYwRzkzVTZqU01NX0twNHktcEltZWZWa0FObFF3?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 5983,
+  "notable_record": null,
+  "num_candidates": 23,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-47",
+  "pc_name": "Kolhapur",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180258.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 53
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request for Response on Employees Pension Scheme 1995",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Issue related to the old-age pension schemes",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 18
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/chhatrapati-shahu-shahaji"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "SANJAY SADASHIVRAO MANDLIK",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 22,
+    "criminal_deduction": 1,
+    "legislative": 15,
+    "mplads": 32,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 3428668000,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.15
+}

@@ -1,0 +1,723 @@
+{
+  "accountability_score": 35,
+  "age": 53,
+  "assets_2019": 6206286,
+  "assets_2024": 26442931,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 13000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1099260
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 9263140
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Life Insurance Policy in ICICI Prudential Life Ins.Co. Policy No 2461xxxxx 1,50,",
+        "value": 162845
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 150000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1663686
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 794000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 310000
+      }
+    ],
+    "movable_total": 13442931
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "Assam 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ubLkYUSYmUUBDbNpAZ2",
+      "total_assets": 1049227,
+      "year": 2011
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ubLkYUSYmUUBDbNpAZ2",
+      "total_assets": 6206286,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2753",
+      "total_assets": 26442931,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 2420,
+  "assets_latest": 26442931,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dilip Saikia is an Indian politician serving as a Member of Lok Sabha from Darrang–Udalguri. He is also the Member of Panel of Chairpersons of the 18th Lok Sabha since 2024. He has served as the president of BJP Assam since 2025.",
+    "title": "Dilip Saikia",
+    "url": "https://en.wikipedia.org/wiki/Dilip_Saikia"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Ward No. 9 Bhebarghat Mangaldai Assam, 784125",
+    "emails": [
+      "dilipvcnyks@gmail.com",
+      "saikia.dilip@mpls.sansad.in"
+    ],
+    "phones": [
+      "9435102073",
+      "9101910213",
+      "8810600815",
+      "1126117059"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Contractual School Teacher",
+      "party": "spouse"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 19,
+  "dob": "01/09/1973",
+  "eci_state": "Assam",
+  "email": "dilipvcnyks[at]gmail[dot]com,saikia[dot]dilip[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 3496453,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3510331,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2298038,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2674423,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 662411,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 611801,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 520931,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 576185,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 542699,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 482168,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary and other allowances an MP"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary from Govt.of Assam as Contractual TET teacher of LP School"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹10.5 L (2011) to ₹2.64 Cr (2024).",
+      "headline": "Declared assets grew 2,420% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 1049227,
+        "from_year": 2011,
+        "pct": 2420,
+        "to": 26442931,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.81 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128073920,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3480107
+      },
+      {
+        "category": "Unsecured Loan 1,00,000 1 Lacs+",
+        "value": 250000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3730107
+  },
+  "margin_votes": 329012,
+  "minister": false,
+  "mp_name": "Shri Dilip Saikia",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18926080,
+  "mplads_unspent": 128073920,
+  "mplads_utilisation_pct": 12.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 230,
+  "mpsno": 5107,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "Dilip Saikia assures support on Central Government Health Scheme(CGHS) issues",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGNwb3JnTjlHR2pxSkRQWmt2MGZfSERNeXhKM0xMbHY3R0dfTHFzU3pWSWtXcmZCTmNkSEhIendZQjc2a0s1d2xmbFFzalFQWjVHdndNMFB3ZjlpWTdLTzlLeFlBajNLcWdPWFNYeEFtbncwTFJsNFJlaE1SOEVieFpxcmdKbVp1OC1EUE9ELXJqRDc5N2xxM21pU1hFNWdpNmtwUGVzN0lzb1ZIUlJiY25ia2Z3eER1QzFzM1dGNk8tRmRs0gHSAUFVX3lxTE4yX016dlFEcDNrMmg0dlZGVE1IbXg2WFJtNVJQSUFyU3o1aHhKOTRUQ1FEcUNvVEtLOVhVNWs3eUd3YnJmNHJCT1M0NUNtQ0lnRkZZeHEtdzFseUdsZVE5VU1Yb0psZkcwNGZGWHZNeUtna1ZmVEU3b3pJcUZuejQ0SWJqUlBxNDZEYXI0LVBKVkszb002TEVsMksydFA4Z3AycFd4bnV1UHJTRmRxZkF4cWtIb1ZtRUtKQ0hUWmZiTkNKNnZ2bzlIMDFQeGlmQmNsQQ?oc=5"
+    },
+    {
+      "date": "2026-04-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "BJP To Launch ‘Mahila Aakrosh’ Campaign Against Congress On April 23: Dilip Saikia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeThtLVAxNUtWeDBxYkVfM3UtX2p1bUpDRWNBZTV3ZEppQ3o1OEdWT3lnZlJSSGpfVlRuVnV2bjhDSlVQeEY4WnYwQzRZakZOM3BXcjdQQnd2MldMUktRRkZWbVVDV2g1SzhjWVZFZ1cyU1hDOU1oYklYb2JyOGo0UkhnRkdWbmN2TGQzeHRMVWM4V2xKTWJMcURjMlRFN2l6STFveVl0Z3kzeXY3azFDelRqSk90YnhOcE42ZS04NA?oc=5"
+    },
+    {
+      "date": "2026-04-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "BJP to launch 'Mahila Aakrosh' campaign on April 23 against Congress: Dilip Saikia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHdjdEFUV3lULVR2XzNTbGpVYmFqWW84MlRoTWdrWXA2OTY4dFVKOVk4OVpxMWdEVkZKWWk2RGRvMjlxam1va3hSSmhSVEdKckZOUXpQeG9lUW45TlhOSDFmR0pVQTZyUUNKOVNfQlVzT0ZlRDQ1WjlXb1lGcTgtZWlDV21GczJSR1NVUmlJTU1ncDJrYS1ucHJjVFRZOWIxMnptajAtOWxBS1R4bkhFN2o5NWlPSGhpRjRqd1ZSTXlVMEtKM0dTUk81R3VCdGp0QmxDOEhRRDdTc2M?oc=5"
+    },
+    {
+      "date": "2026-02-13T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "Assam: MP Dilip Saikia Lays Foundation of Indoor Stadium at Mangaldai",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbkRQR1N6NU4yajJWaGpHbzMwbUJ4M3RLOE1zVWF3SHFONm9EeEt5T3c0WFg5MlNqbXJkZTRsbG1ZWnZJei1sM0gwU2N6dFhtcUc0QmR1eGZyT1dPa0RaLXFtdnpCM2NpMFFTT05uRks1a3FtYWg1TXBmTmw2V1prSGVsQWYtUTZxVGFFenVObWVubUE3Nm42dy1rR20wbGYxdHFmOWxNaGxVZmp3WnFV0gG8AUFVX3lxTFBLZGZBLUdvb1Qwd01ISXhaeVF3VGRzcjg3NG9pWm1JNjVIajRjSjd6ejFNcWNhdkRpVEpycklwbXVzQmRYcUJXenBTcGJOZkZ3VXdlVlVXdDAxRl9udTU0NXpHYzNwdVZNODJ2MWpGZVpzb2stRk9XSDVuTFZfUm1fN25meE1MY1lveVNzYmZBbWFiamM2SjVfb2JtVnhiUVFNQU1fX2x5WE1zM08zdUIwZjB1a3lPZ2VwVlAy?oc=5"
+    },
+    {
+      "date": "2026-01-25T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "State BJP president Dilip Saikia lays foundation for 15-km road project in Sipajhar",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZjJiRUNIaFlmSlhMQklFYkRLUThxWmw0OTR6amo0YmVFM1d2OG5xV3gxMjFVZ2ZkejV0Mng0T2JheFlOZGQwN1BPSXozMVQzcURnVlh4NXBseWVISDF1eDdpRURjY05OWjZqSE51RUR4b251SWxPWHlXR2xiM3dYamhibjZRSzdWYzd5dC1lNTcyZnVWR2R4T2RTcFNueXNOYXlIRkp4dnZkQy1PcVJoMVVNZEg5Qy1wVkNsWXZsV2NFYUJZZFZRZ2RlOWxpUTBWZmlLQkJfNGxyNVBPOS0w0gHsAUFVX3lxTE9LbVA3TFJUTnNmanFaYWFhR25Id0N0QnhrS3hvN0lZbFIxRE4wRWo4czMzNU9BN0RUQUM0Mnh4bEZBQUNrQmhUWm10MEZnSnZzNUREUTNMb0J0QkpqU3dtdWxQVnBsenp3a0FMVGJxRzIzWHF4VlY3azVzNzg0c25mVjFIX2ROWGtGT2h6ZXVIRHdrbkFwakgyS3phRHU3c3VGLWgyLS1JRHlrR2Ryb3h5bzRvZTJUQ2lybk15V1ZMRGRmRGZHdkFpX1lXc096SDZyMFpaMFdqNVRGUXNVanBvTy1xbURhZlRxZmVG?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 23204,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "assam-4",
+  "pc_name": "Darrang-Udalguri",
+  "pending_cases": 0,
+  "phone": "9101910213 (M), 8810600815 ,Fax : (011) 26117059",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180031.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to expedite four laning of BaihataChariali-Mission Chariali - Tejpur highway in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding infiltration of Bangladeshi nationals in Assam and their repatriation to their home country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to open regional campus of Indira Gandhi National Tribal University in Bhairabkund",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding connecting all the North-Eastern States through an integrated tourism circuit to promote tourism and generate employment",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Implementation of Youth Development Agreements and Stoppage of Rajdhani Express at Rangia Railway Station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to ensure full implementation of Peace Accords with different organizations in Northeastern States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to deport Bangladeshi infiltrators from Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to restore stoppage of trains at railway stations in Darrang-Udalgiri Parliamentary Constituency, Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "The Indian Ports Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need for an effective policy to curb increasing incidents of drug abuse among youth in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of drug and alcohal addiction among youth",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to implement National Flood Management Policy and River Interlinking Project to prevent the devastation caused by annual floods in the rivers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to frame �National Population Control Policy�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Nationwide Celebration of Panchayati Raj Day and Strengthening of Gram Sabha Functioning and Transparency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding increasing demographic change in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to restore train stoppages at railway stations in Darrang-Udalguri Parliamentary Constituency, Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Establishment of Regulatory Authority to Monitor Fake News and Misleading Content by News Channels",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to set up Regulatory Authority for online news channel portals",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishing a Regulatory Authority for Online Digital News Portals in India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Make Sanskrit a Mandatory Subject in All Universities and Establish Ancient Studies Universities in Every State",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to implement Peace Accords with insurgent groups of North East in a time bound manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Ensuring Full Implementation of Peace Accords for Lasting Stability in the Northeast",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt take necessary steps to stop the construction of the dam making by china so that the entire north-east india including assam can be saved from future crises",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to increase the distance between two Toll Plazas on National Highways to 100 kilometers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to establish a central university and a center of Indira Gandhi National Tribal University in Udarguri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to establish a Tribal University in Karbi Anglong district of Assam and also set up a Campus of Indira Gandhi National Tribal University at Udalguri in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to fix minimum distance between toll plazas from current 60 KM to 100 KM",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding expansion of capacity of Bongaigaon Refinery in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt to adopt a resolution and send a message to Bangladesh govt to totally stop the atrocities on Hindus in Bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding air pollution in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from govt. that just as India's western border has been made very strong similarly the east and north-eastern border, indo-bangladesh border should be made very strong",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to formulate a solid national population control policy to save the country from a situation like population explosion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to frame a population control policy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding implementation of Rivers Linking Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding need for proper planning to check floods in North Eastern States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding Rail connectivity to Darang District, Assam",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.4,
+      "value": 54
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 242
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dilip-saikia"
+  },
+  "qualification": "Graduate",
+  "questions": 63,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 4,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 3,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Defence": 1,
+    "Development Of North Eastern Region": 2,
+    "Education": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 5,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 5,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 5,
+    "New And Renewable Energy": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 5,
+    "Power": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Tourism": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MADHAB RAJBANGSHI",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 60,
+    "criminal_deduction": 0,
+    "legislative": 90,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 27
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 26442931,
+  "total_liabilities": 3730107,
+  "wealth_pct_increase": 326,
+  "winner_vote_share": 47.95
+}

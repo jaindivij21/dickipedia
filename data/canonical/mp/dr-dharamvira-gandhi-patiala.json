@@ -1,0 +1,466 @@
+{
+  "accountability_score": 42,
+  "age": 75,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4875000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 16600000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 21200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 42675000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 138000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 39248885
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 780000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 42666885
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bXKzS7EGPiRDfyuYDyo",
+      "total_assets": 45115421,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bXKzS7EGPiRDfyuYDyo",
+      "total_assets": 44984048,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8759",
+      "total_assets": 85341885,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 89,
+  "assets_latest": 85341885,
+  "attendance_pct": 75,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "25 B, Sukh Enclave, New Officers Colon, Patiala, Punjab, 147001",
+    "emails": [
+      "dharamv.gandhi@mpls.sansad.in",
+      "dvgandhi@yahoo.com"
+    ],
+    "phones": [
+      "1752215969",
+      "9814205969",
+      "9013869336"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "01/06/1951",
+  "eci_state": "Punjab",
+  "email": "dharamv[dot]gandhi[at]mpls[dot]sansad[dot]in,dvgandhi[at]yahoo[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 9660900,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 9739810,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 8967110,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 10138300,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 13681975,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1671970,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1422620,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1335930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1264860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1521507,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pensioner- Self Employed Doctor"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pensioner and Pvt job"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.28 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102816603,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 14831,
+  "minister": false,
+  "mp_name": "Dr. Dharamvira Gandhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44183397,
+  "mplads_unspent": 102816603,
+  "mplads_utilisation_pct": 30.1,
+  "mplads_works_completed": 22,
+  "mplads_works_recommended": 328,
+  "mpsno": 4676,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Centre rushing ‘Nari Shakti Adhiniyam’ to bypass delimitation of constituencies: Dr Dharamvira Gandhi, Patiala MP",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmVoTWU2MHRkVXBIbWJnR0JNSzlXY0dYcGR4SFo2Nnd1WU9RcGRfQnhic0o0Zk9xSURKVWZJQ01pSEkwVkVxV3BoVGQwcmxmVmhCNUdJWndWaUhmMVkxVFlUSENrTjNGalRzTWQ4TzE2N0FpQks2Y1dIZHNMY25xWmVoTTdQMmFkMkJEeDNEdGRNeTM3WV9PRkNKNlc0X3RNejJYekFBcEFDdm5yUEE3eXRrQ0xKcXY5TjU1ZlZlNFJpMWdZY2tQMHRGUzRQOWhPdGZEMHo2QjctY2FoOXJrVWZNNDJYRzA?oc=5"
+    },
+    {
+      "date": "2026-03-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Dharamvira Gandhi meets Jaishankar, seeks help for Punjabi youth stranded near Russia-Ukraine border",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTE1SbVRDcWtqdUdpYkpyUWEyamJ1cWtzTDFFeFRGREVjV0xmQ1U2RkdCbnlMek56aTk4X3Q5SGhnQXMzVUlwNHRnVnRNVVYwT3QxODVROHplS1pOSXZBMTM2U2VyLVlFdkhtc2daRm1ya1E3Q25uZDlxZnVSNHZLTEhNTy1PbVNlQ2RYUXdvaXNMZFMyazZHZDRRSllKNjMyNnhhQ0NVUkFSTjJjQ2xWdFBFY0M3eXVmbzZTRWY1V2ROTXFkOTA2ODZ1QmFEU1UzN3ZFQ3BBZ1pQZw?oc=5"
+    },
+    {
+      "date": "2026-02-28T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Patiala national law varsity moots dropping prefix Rajiv Gandhi from title",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakVjS1RWWUptcnRTbl9SMkJUSENKaFFtMVVKYVhMamhja0g5X051OHROUGJuZEt1dDc3ZDNSWWpYSW5BeE9lcVNZdzRDT2h2Y3NSSHE4bFM1eFljOFpvaFYwTXJQb3k2c0ZzaHFIRlItekdEUTNYVG0tOXJvRThxQ3A2TWdUNy02ckNTeUI3Q3pBMUxVM0R4VHRHMElwZjFMTWhibVprZV96cGtiNnY3TF9rYw?oc=5"
+    },
+    {
+      "date": "2026-02-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Patiala law university: Rajiv Gandhi name to be dropped",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd09PZEpxM1FHVF9FbVJSUU1McjZaOTlBSXNPOU9feWstT2pjZjgwQVNlV2dIZTV1QjRCeUVEMnJCQU9JdlJ4N3BYSjNsMHFXRG5PZE9pd1paMGZ4VnpRQ0hwTWRWVmE4WlpYN0Uwa3lMNF9zalNDWXpRLWxxT05wT0hIaFNwOXhETUVwWXY1d0xHbzdnakpEN1Bud3ZuektZTmZOejFsd3VicURhblVXcF8wQzd4YUs5NXVOYnpBVVFqYVh1SWlGREVLMVFTYm9fOHBsZ1hYMUI5ekk?oc=5"
+    },
+    {
+      "date": "2026-02-11T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Rajpura-Mohali rail link likely in 18 months: Patiala MP Dharamvira Gandhi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZk5GeG1QU1k4UkpiZTI3NVRwUVJuc29mQXR6eVZoZHYtWDU3R1Z2OWt6QWlyU1R0Y2dYcjRXdXgtVnYzM1dra2lvM3NrX09VNk9nMjZ4U2ZieERhNkt0YjJubkF5SGJGS3dGOVh3RXlybHJBSXYzQW0zV3dsNzV1Sm1hOTRXeGZEZHRJSHpCUlRjcFVDWTJ0VEpYZU1CY1gzQWdN?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6681,
+  "notable_record": null,
+  "num_candidates": 26,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "punjab-13",
+  "pc_name": "Patiala",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180324.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Consultant Physician and Cardiologist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 70,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Appeal for Release of Prisoners Who Have Completed Their Jail Terms in Punjab.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to enhance the honorarium of Aanganwadi workers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to provide a special package of Rs. 70000 Crore to Punjab",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Revival and Optimal Utilisation of Patiala Locomotive Works for Employment Generation and Regional Development",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Immediate Relief and Support for Punjab Affected by Floods Due to Excessive Dam Water Release",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to build an embankment on Ghaggar river",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Improved Railway Facilities in Patiala and Malwa Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to ensure treatment of patients in private hospitals under Ayushman Bharat Yojana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand for the immediate withdrawal of Kanwar Yatra order in UP and Uttrakhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.2,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 63,
+      "value": 44
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dharamvira-gandhi"
+  },
+  "qualification": "Doctorate",
+  "questions": 18,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Commerce And Industry": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 3,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR BALBIR SINGH",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 40,
+    "criminal_deduction": 0,
+    "legislative": 40,
+    "mplads": 40,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 85341885,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 26.54
+}

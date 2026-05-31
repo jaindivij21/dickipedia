@@ -1,39 +1,13 @@
-import type { ReactNode } from 'react';
 import Link from 'next/link';
 import { AlertTriangle, Gavel, MessageSquareText, Megaphone, Mic, MapPin } from 'lucide-react';
 import { getParty, type Mp } from '@/lib/data';
 import { scoreBand } from '@/lib/format';
-import { ScoreGauge } from '@/components/ScoreGauge';
-import { PartySymbol } from '@/components/PartySymbol';
-import { Portrait } from '@/components/Portrait';
+import { PHOTO_SRC } from '@/lib/constants';
+import { ScoreGauge } from '@/components/ui/ScoreGauge';
+import { PartySymbol } from '@/components/ui/PartySymbol';
+import { Portrait } from '@/components/ui/Portrait';
+import { Badge } from '@/components/ui/Badge';
 import { MpLede } from '@/components/mp/MpLede';
-
-const PHOTO_SRC: Record<NonNullable<Mp['photo_source']>, string> = {
-  sansad: 'Lok Sabha Secretariat',
-  prs: 'PRS mptrack',
-  myneta: 'MyNeta',
-  inc: 'inc.in',
-  bjp: 'bjp.org',
-};
-
-function Flag({ token, children }: { token?: string; children: ReactNode }) {
-  return (
-    <span
-      className='border-border text-ink-soft inline-flex items-center gap-1.5 rounded-md border px-2.5 py-1 font-mono text-[10px] tracking-wide uppercase'
-      style={
-        token
-          ? {
-              color: token,
-              borderColor: token,
-              backgroundColor: `color-mix(in srgb, ${token} 8%, transparent)`,
-            }
-          : undefined
-      }
-    >
-      {children}
-    </span>
-  );
-}
 
 export function MpHeader({ mp }: { mp: Mp }) {
   const band = scoreBand(mp.accountability_score);
@@ -91,31 +65,31 @@ export function MpHeader({ mp }: { mp: Mp }) {
           <MpLede mp={mp} />
           <div className='mt-4 flex flex-wrap gap-2'>
             {mp.nota_gt_margin && (
-              <Flag token='var(--color-warning)'>
+              <Badge token='var(--color-warning)'>
                 <AlertTriangle size={11} /> NOTA &gt; victory margin
-              </Flag>
+              </Badge>
             )}
             {cases > 0 && (
-              <Flag token='var(--color-danger)'>
+              <Badge token='var(--color-danger)'>
                 <Gavel size={11} /> {cases} declared case{cases === 1 ? '' : 's'} · self-declared
-              </Flag>
+              </Badge>
             )}
             {mp.questions === 0 && (
-              <Flag>
+              <Badge>
                 <MessageSquareText size={11} /> asked 0 questions
-              </Flag>
+              </Badge>
             )}
             {mp.attendance_pct != null &&
               mp.prs_detail != null &&
               mp.prs_detail.debate_titles.length === 0 && (
-                <Flag>
+                <Badge>
                   <Megaphone size={11} /> 0 floor interventions
-                </Flag>
+                </Badge>
               )}
             {mp.press_accountability && (
-              <Flag>
+              <Badge>
                 <Mic size={11} /> {mp.press_accountability.flag_label}
-              </Flag>
+              </Badge>
             )}
           </div>
         </div>

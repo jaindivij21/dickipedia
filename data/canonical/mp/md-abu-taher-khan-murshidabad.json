@@ -1,0 +1,582 @@
+{
+  "accountability_score": 22,
+  "age": 62,
+  "assets_2019": 8926616,
+  "assets_2024": 38476131,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 12500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 34000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 90000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1350201
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 2058192
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 10000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 967733
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 4476131
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "West Bengal 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=NE2CAunFKmPWXwM9wagb",
+      "total_assets": 4848800,
+      "year": 2011
+    },
+    {
+      "label": "West Bengal 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=NE2CAunFKmPWXwM9wagb",
+      "total_assets": 4906800,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=NE2CAunFKmPWXwM9wagb",
+      "total_assets": 8926616,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3377",
+      "total_assets": 38476131,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 694,
+  "assets_latest": 38476131,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Abu Taher Khan is an Indian Bengali politician, agriculturalist and social worker from Murshidabad. He was former Legislator and is the current Member of Parliament from the Murshidabad representing the Trinamool Congress.",
+    "title": "Abu Taher Khan",
+    "url": "https://en.wikipedia.org/wiki/Abu_Taher_Khan"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "Vill & P O; P S Nowda Murshidabad Behrampur West Bengal, 742121",
+    "emails": [
+      "abu.taher@mpls.sansad.in",
+      "mpabutaherkhan@gmail.com"
+    ],
+    "phones": [
+      "9732514853",
+      "7908615405",
+      "1123310499"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt by dangerous weapons or means",
+        "section": "326"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Mischief by destroying or moving, etc., a land- mark fixed by public authority Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees",
+        "section": "435"
+      },
+      {
+        "count": 3,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Abettor present when offence is committed",
+        "section": "114"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for house-trespass",
+        "section": "448"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "G.R.No. 1157/18",
+        "charges_framed": false,
+        "court": "Barasat Spl. Court",
+        "fir_no": "101/18, P.S. Nowda, Msd.",
+        "other_acts": "Section 25, 27 Arms Act",
+        "sections": [
+          "341",
+          "326",
+          "307",
+          "114",
+          "34"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "G.R. 1862/09",
+        "charges_framed": true,
+        "court": "2nd CJM at Berhampore, Msd",
+        "fir_no": "G.R. 133/09, Nowda, Msd.",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "448",
+          "323",
+          "427",
+          "506",
+          "34"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR 229/2001,(Disposed )",
+        "charges_framed": true,
+        "court": "3rd Court",
+        "fir_no": "13/2000, PS Nowda Msd",
+        "other_acts": "Status- Evidence Stage",
+        "sections": [
+          "323",
+          "435",
+          "34"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "23/11/1964",
+  "eci_state": "West Bengal",
+  "email": "abu[dot]taher[at]mpls[dot]sansad[dot]in,mpabutaherkhan[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3063380,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1185430,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1185427,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 568704,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 495921,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Cultivation, Honorarium s MP & Rent from Commercial Building"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "Sections 326, 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for voluntarily causing grievous hurt, attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "326, 307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹48.5 L (2011) to ₹3.85 Cr (2024).",
+      "headline": "Declared assets grew 694% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4848800,
+        "from_year": 2011,
+        "pct": 694,
+        "to": 38476131,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.36 Cr between affidavits, while declared income across 5 ITR years totalled ₹65.0 L.",
+      "headline": "Declared assets rose 5× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 33627331,
+        "declared_income": 6498862,
+        "itr_years": 5,
+        "ratio": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 23% of MPLADS local-area funds were spent — ₹11.40 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 113954600,
+        "utilisation_pct": 23
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 164215,
+  "minister": false,
+  "mp_name": "Md Abu Taher Khan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 33045400,
+  "mplads_unspent": 113954600,
+  "mplads_utilisation_pct": 22.5,
+  "mplads_works_completed": 143,
+  "mplads_works_recommended": 327,
+  "mpsno": 5052,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Hope he does good work for Bengal\": TMC MP Abu Taher congratulates Suvendu Adhikari on becoming West Bengal CM",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWWswVmNEbEtlRy1manlGWXktS3RMdVI0NUwwODk5bnpZM0pzQUxEQWVlbDg4d1JTenQxZm5QQXQxTV9uNDduaGFjMUtJbXY5anV2ZjYtQS02Sm96MWxXRDFEbnNrT2RsdmdjRFFUd3Q0bXpxdjdZN2EzYm43Smc2Vl9FVmJiMmlFS0ZqZVE3ZVlJX3RLbW5SMk5MdjhNSHRLRUJhdXBkTWE3SS1BeC1hNWNJNnRIOV93ZXNDRjlQSmJTbGZzYmtNU1FZZ1FCWC1GTzRIVl9hZ3F1OVV2aVBZYzRVaGhtN0lzaC1sbU5yVC1OYVl4bWl1X2o2b21OSFlXWVE?oc=5"
+    },
+    {
+      "date": "2025-01-23T21:00:23.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Abu Taher Khan , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM0VISXVKNlZZOVMzZjVST2x3Vy04RmVmSTc1YURGVlhpbFRzMlh0dy1QazFUdmxKbW0taGhoMEdpejlGQVF3TG9KMW4xWThrZUxfYllURGxxSkpRS0JlSHItYjRBdW50QUFQZDctSzBxLWo1NEV3RHpQV1NUcTVxRjlDUXZKQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Murshidabad Lok Sabha Election Results 2024: Abu Taher Khan Defeats Mohammed Salim By Over 1.60 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0VXRUhUd28xTzQ4NWV2ZEJBRkd6N0tqYTlWVEEzcXg4TDR2NXFzWFVJbUVVVDI2VTltUE9idU1rV3pMUE00Zk9PR0ptTjBPVGlaSTlXVGI1aWpjRGx2QWthLUtiRV9NRmVCQlZkcVY2Nm1Ld0RKZ1VGa0pPVTZ6ZlR4Qi0tclRQRFFRUlhqc05OQlNKZDYwSk1Kcy1RSmNOSmdnRDFVbzhNYmdBN1Vxb0pHX042ZGpSaklIUmhVVjg1NnpBNXBkSk93c0RLUG5CZ3hyUmc0VVpKUEHSAeABQVVfeXFMTUVYWU5nUElIMXV1WGhFX2REOTI3TF9GekZUdVhjdzUwOEN3VGZzRjdFeG1vcXp5dzl1amtyLTQycGlZLTR5NFlyT0ZkY1QtWkZid2FzRVlfejVYeGdVTFdjV1VYa0FocUtraGxYTWxGNDdWMmNHMGl4WnB5aTB2MmhtV1hpcTBlQnBpZ0k3VGx4VDN4VFlmQWhoQUVTSXpQRjB6YUNOV1E2bjlrN3FpbW1fOVB5TEc5NnVDRFZoeEtBeGpocEI5MU5qSzFVWmJBZmc3Y3R2U3ItaGxDNjd0LVQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Murshidabad election results 2024 live updates: TMC's Abu Taher Khan wins",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNci1mZ2dPV1pqbXZFNHIySTlfUFIyUVd5ajdBTlEwdVBhVUxldE9hSUhtdjZWdnZTY3dBX05MRkRhdWZvRU5FZUZQRXpJNHdhNW1qWVZCRE5QVnJEcFJGMlB3TkgzTHV0b09oaWFlWE1DTGx1clJ6dkhCVmJqYUQwQ1EyelZsR3RMbGpiSXU5YTd5amhodUlfcFpPRVB2ZmhoeTdVX0hIeEVUTHRWN2ZGSHdiaUNMYXowMGZra2hSZVlqV3BBZGE3dDAzeWtkWllLOHRHNlgtaHNfM2VKeFgxVVk4LVI3RS11V3Bpdnh6SzdWa2FDdGxPYWpzX1JTc0FZOF80Z2tlLUN2eW5XY3g3ZXVSai1FZ2VYWjU2YXUwTUlqM0lPYTkxTHd5eV94NWRiX2RUWk1YR1NzQW9LbmhVemY3V0VFelRMenhR0gHQAkFVX3lxTFBYbjlPZjRPWmI3dnNnTXFBNF9zeDdZa1FtSnc2WUNxY0pnWXBiYzBoZjBQYXNUUU9MQ1lDQ1FEcFFDR1F5NXJwWHdSUl8waW1TeGotQ18xbkRBQmNsc0F3TVRPZ3g2RHlKcHQ2RFZuX0NSNGYyRU5PbFVuLW5taUQ3dHRzTkR1YVZYTTBCRGlBRU43dVdqeThBOEN6SlJwVkZCdmZiaFFUbVZXdFcxcmN3WDEtMm1DcnVGQ3hvSnk5X01jbENyeUlYeTMxVnI1WjdWOHgwMHVpN3hYS3RldWJidGN1ZHNVc2E1Mkh5ekxZd2hRbk1sTEdOMldkM0VyWVNEZm5vLTJ4UkNOSDFjWHdKbGZSWnUxZ1o4d3RfU1RjRk1tN3BvUVNqZFBuay14SGNaZ2FwMEFNVndoZE1qOUZpMUVNVmxqS21oWGo5YTZoVA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Business Today",
+      "title": "Murshidabad Lok Sabha Election Results 2024 LIVE: TMC's Abu Taher Khan takes a lead over BJP's Gauri Shankar Ghosh",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQVTlKY2FiNmRNUTNYMFRMeE9DT3hjV3daWGt2QzlTeVQtMzZtUHk4dDE3d3h1dUFUNVJJYUViRWZtYnVKYTFTMTdHMEpiY0txN0w0TkxVSHRTU1JybTFSZWFfeF9Ta0NyN0Y5a3FUQUQzeFdNblRnS3p3OTJ2aUwySGRIUDZKeXVmczlXV3FvUmhDNU9mcEhLYWNDT294eEROdEdFdm9kWS1haFF1NWRPNnhlMlZvLXhXM3k1Tm9FSS1aRUI4UlhYcXpHNTF1cHB0RVNoTGVnWnR6LTRybVRfc0JUcmlvRG1nMW9iUXVaSkJwVkJubUM1VnFoMWNYVjVIRnNlS1BRaGdyWXl4R3dmb3prZHEyZHJSMFVfWW1xMlFUazBEZk9JRzhXRV8wTndjNlI2RWdpaUg5REtyRjdPeDVmT0hhYWNZRHJzRm9tQzBBZUtDVkRRV0tjeFpuSGpuZW5oeWN2SdIB7AJBVV95cUxQTVV2M3pUWXlrVExSeXozNF9WMUFvYkZseWZGMUpxd054SFJ6OXBuZ1dCbkVsZVFMZ0JXV0UwXzR4V1FIR2F4QTFNNGFQVTVwTGQ4S2IwenJRTkZqYUt1NUoybVBUVXJKaDVXXzdnRkhVdXQyOEZlRVNGUGxwRm9aakRia0hPelFFMU9MdmpZWENFZllVZUxLZ0JyZ18zZjBSdmN0VFNzUXRpLUZzMHg2amRSN0JvNFI3c2JBa1ExaFVpVXNoZXdtYktsWEIwZ2RCeVc1RXJlWndlN3pDX1FFMjZ5QnA4SWU0cVRNUUdpMFdCQm8wdmEyN053NzNzckdLNkU4aDR1RnNEbGRtQUN4NzduOUpaU1N6R0xjX0FTUDRaSk9CQ1E5ZElhWmVWSEVIWHpGd2cwRHlBTE1WRWh2b015bnN0dEFnd2FnZXpzdjhSQlJKSnpjc010VXVIVVRDTTBKRXhHMVMwdkYy?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13270,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-11",
+  "pc_name": "Murshidabad",
+  "pending_cases": 3,
+  "phone": "Telefax:(011) 23310499",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180504.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "11.12.2025",
+        "title": "Request for Immediate Release of Pending Central Funds to Bengal for Water Supply, MGNREGA, Housing, and Disaster Management",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Financial Support and Proper Management of Aligarh Muslim University and Its Murshidabad Campus",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Immediate Allocation of Funds for Maintenance of BADP Roads in Murshidabad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. resume rail services through nashipur rail bridge and a rail line needs to be constructed from krishnanagar to karimpr",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 62
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/abu-taher-khan"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 12,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 2,
+    "Communication": 2,
+    "Education": 1,
+    "External Affairs": 1,
+    "Jal Shakti": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MD SALIM",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 44,
+    "criminal_deduction": 18,
+    "legislative": 36,
+    "mplads": 56,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 6
+  },
+  "serious_cases": 3,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 38476131,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 331,
+  "winner_vote_share": 44.27
+}

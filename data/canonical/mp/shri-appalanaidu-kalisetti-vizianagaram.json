@@ -1,0 +1,500 @@
+{
+  "accountability_score": 57,
+  "age": 53,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 18479000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6776000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 19288000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5553980
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 50096980,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 37000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5997502
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4333205
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1900500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 12268207
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5132",
+      "total_assets": 62365187,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 62365187,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Appalanaidu Kalisetti is an Indian politician and the elected candidate for Lok Sabha from Vizianagaram Lok Sabha constituency. He is a member of the Telugu Desam Party.",
+    "title": "Appalanaidu Kalisetti",
+    "url": "https://en.wikipedia.org/wiki/Appalanaidu_Kalisetti"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Friends Colony, J.R. Puram, Post Ranasthalam Mandal, Srikakulam, Ranasthalam, Andhra Pradesh, 532407",
+    "emails": [
+      "kalisettibrothers@gmail.com",
+      "naidukalisetti.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9440436426",
+      "9499400369"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "01/07/1973",
+  "eci_state": "Andhra Pradesh",
+  "email": "kalisettibrothers[at]gmail[dot]com,naidukalisetti[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 777000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 504000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1015000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1000000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 811000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 527410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 500000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 710000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 490000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 532000,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rents"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 11% of MPLADS local-area funds were spent — ₹13.02 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 130192757,
+        "utilisation_pct": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6670915
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 14565799
+      }
+    ],
+    "total": 21236714
+  },
+  "margin_votes": 249351,
+  "minister": false,
+  "mp_name": "Shri Appalanaidu Kalisetti",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 16807243,
+  "mplads_unspent": 130192757,
+  "mplads_utilisation_pct": 11.4,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 91,
+  "mpsno": 5697,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "PM Modi praises TDP MP Appalanaidu Kalisetti for his hard work, dedication, innovative ideas",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONEpKSTN2Y08yUzZ6ZEdadzhUT2tvVHJaY0tPYkdrSklqMnhtX19CaG1GbTBKVldESjBqUWJLLVRhYkRzMVYzUHgwVmF3c2U1dmJ1U1VJYU5QbFZZOWJrTndLa0pyWVNvQ0dhUFhWOEJVa1JtMnNjbkJTT01iN3c0UDZRcG94My1DMVZfcHRZakRxVzAwb3R4SmxheWZBcTh4YVRneGl3RzlwcWRGTl9zNlM3MGN2UjkzRHhSaDNmeWZiRDhyYnJ0RVRtQnUzbW1WVjV1ZlhYeFNpMFdxaUR3ZnVrVjBhdlh5cGc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Vizianagaram Election Result 2024 Live Updates: TDP's Appalanaidu Kalisetti Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmRzclZid0VTalp2Nm03XzQ2Qng2bmRPMVh5dHRjd25jc3drNy1KWlhybFE5U0NnTnhCdkYzbHc2RjJ3dW1LZlpmcTBVS0NpTXRNTlgyQ3lISHlSalBDWlZieEZ3TjNMTGpoQkRjdC00Sk41Nm1kM1VLTUtiRGZIZnRlaTc2TlZFVW53a3FBWXprcWRLVzlyTVVnRFUtOURIYzNVVHl1NlBRMjJzRlhHZG5XSEl4RnZkaVFiZXNwUVRJb1p1Y0h4ekVkOTBhOGpoZXfSAd8BQVVfeXFMUHhOTXNLaGsxRXNEeVFXTFhOMG1sYWVrdXQ0NVY5Y2pWVDFONEFMNGs0bkpfUGQtSVc2Z19CdzB4c3JMQWxfdXZBWU10RktHb2JSMXN1YzBLRzkxZC1mbmNReDYwV2NhVGhJelNRbk1QMUFWNmg4U0VWY3FuMi1uOWNZV0xnYy05bE9XbExNYWRWYThhYXM0TVV5b2JLZ1dUTnFVelRWQ3NlaElrd0N6ZnVtTUxqT0xKRUNNaFJoRW5OVWgyeUpLSUJiMGI1S3lrbkZwcUZ5TDl6R3NXbUdkdw?oc=5"
+    },
+    {
+      "date": "2024-05-31T19:00:47.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Appalanaidu Kalisetti",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcWUyZFFFbjJLTkVkam1HaF9OUlpqeWFQb0Rnem1MTVM5SHE5cVE1S1gtbGw1ODB2NTRXSXlqbWtsMk84SFItNDBDeUFYaDBVd1ZRV21hTUNhRDlGcVk5YlNLbG42bkRES19qUHlIN2p2dVk2T3hHOFIyVDd5YkFyLVpKdEFJbXdfS1BMX3g3RXpQTkRfTGxqSjkxWmJlSUxMc0gyMXFQNHNrRFozcHFLMFYxei1CSlZ4RllnREdaenNYYnJmYkNXQ05Rbi1HNU0?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 23250,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-3",
+  "pc_name": "Vizianagaram",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180003.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to provide training to Community Paramedics to serve as Community Primary Healthcare providers and integrate them wth public health framework in country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to exempt the teachers apointed prior to implementation of RTE Act, 2009 from mandatory Teacher Eligibility Test (TET)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to provide stoppage for Bhubaneswar - Visakhapatnam Intercity Express or Brahmapur Express at Sigadam Railway Station in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to develop infrastructure of the Government college of Music and Dance at Vizianagaram, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need to set up a Central Armed Police Force (CAPF) training centre in Uttarandhra region of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to establish a Services Selection Board (SSB) Centre for Centre for Army at Vizianagaram or Vishakhapatnam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to expedite completion of construction of Rehabilitation and Resettlement Colony under Kovvada Nuclear Power Plant Project in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to relocate the Jonnada toll gate at the bypass road near Modavalasa - Chelluru in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding extension of the route of train No.17219 link express",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Urge upon to minister kindly construct a railway line in rajampatnam in vizianagaram parliamentary constituency",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 158
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/appalanaidu-kalisetti"
+  },
+  "qualification": "Graduate",
+  "questions": 53,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Defence": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 1,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 1,
+    "Planning": 1,
+    "Power": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 3,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "BELLANA CHANDRASEKHAR",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 0,
+    "legislative": 73,
+    "mplads": 33,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 62365187,
+  "total_liabilities": 6670915,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 57.2
+}

@@ -1,0 +1,569 @@
+{
+  "accountability_score": 58,
+  "age": 42,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1536000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 13894000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 37973930
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 58021266
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 111425196,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 70000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 295253
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 10887000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 4153600
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 18000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2800000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 36205854
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5114",
+      "total_assets": 147631050,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 147631050,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Byreddy Shabari is an Indian politician from Andhra Pradesh. She was elected to the 18th Lok Sabha from Nandyal Lok Sabha constituency in Nandyal district representing Telugu Desam Party. She won the 2024 Indian general election in Andhra Pradesh with a margin of 111,975 votes.",
+    "title": "Byreddy Shabari",
+    "url": "https://en.wikipedia.org/wiki/Byreddy_Shabari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Door No. 1-54-2, Patha Muchumarri Village Pagidyala Mandal Nandyal Andhra Pradesh, 518411",
+    "emails": [
+      "byreddyshabari@gmail.com",
+      "byreddy.shabari@mpls.sansad.in"
+    ],
+    "phones": [
+      "9000373333",
+      "1123310111",
+      "9958585545"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "SC No. 39/2023",
+        "charges_framed": false,
+        "court": "Special Court for SC & ST (POA) Act cum 6th Addl. District Sessions Judge, Kurnool",
+        "fir_no": "40/2021 Muchumarri Police Station, Muchumarri Village, Circle of Nandikotkur Rural Police Station",
+        "other_acts": "Section 3(1)(r), 3(1), (s), 3(2)(va), SC/ST POA Act.",
+        "sections": [
+          "147",
+          "323",
+          "506",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "251/2020 of Kothapalle Police Station, Kothapalle Mandal",
+        "other_acts": "Section 151 Cr.P.C.",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "04/01/1984",
+  "eci_state": "Andhra Pradesh",
+  "email": "byreddyshabari[at]gmail[dot]com,byreddy[dot]shabari[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 602280,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 629480,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 162080,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 378530,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 346000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 10426810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 9092310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4133000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5087430,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3756810,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rental & Profession"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rental & Profession"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.90 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108970627,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 27344423
+      },
+      {
+        "category": "Nil",
+        "value": 4689000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 32033423
+  },
+  "margin_votes": 111975,
+  "minister": false,
+  "mp_name": "Dr. Byreddy Shabari",
+  "mplads_allocated": 150675889,
+  "mplads_expenditure": 41705262,
+  "mplads_unspent": 108970627,
+  "mplads_utilisation_pct": 27.7,
+  "mplads_works_completed": 69,
+  "mplads_works_recommended": 189,
+  "mpsno": 5687,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-30T09:38:44.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Lokesh established himself as a supporter of women’s cause, says MP Shabari",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTHVCdTdRWEtsbVJsdW5PYWFDeFFSekpUVjJUUnpzNDV5LUJORloyMXg2NkxxSlFpRTQ2S3dhNDBLcEVEc0JZRVdYbmotT0gzdDFmM1M2S25XcU9pQlpQZW5qUjQ5YVZTSEFjMGRPSjNaLWFDanZ3MDVIbHdLMm1jbXR6MElub0QzT3hGeENmT0stY2hpa2xOLWs4bFNlYTdFcG1ZQUR2WWQyUlplUmhETGdVRnpBS19PZVl0RjN0YUphNXdtSm5ucmNKWG5jcWp5Qk1vYkRnV2NXNm1pbzBVddIB5wFBVV95cUxQRXEzREFTekpWVExTLTZEd04xNnRmLUc0SjhyRUEtY0s5M2p5Rkkzd2NpSFAzd0dneWdBdWFUejVNSllQT0hyT2JaRmttMlhfdHZrVUFvWDVCUjJFT0l3Rm83VERTU29HUUU2cGIxM3dNOXhkQUFxdHd5R0xkM0tRcTdXSG5mcUM3YnAydEdYV21CY21CTHRHM21hLXhWc0d5b2VBMzF5TFRBUDBtTmdjMlI5bjdBbGtFYjY4WUs2cGNSQ0dmOE4takhkdXVCMlVWTVhtY2Utb0lYaWs1LTRKbHJtR0U1LUk?oc=5"
+    },
+    {
+      "date": "2026-04-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "TDP MP Byreddy Shabari﻿ appointed party’s first woman general secretary",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2NBR3N4MGs3RTdxZGtIdWVwWlNLUjVSVm1pNFVxaWNhUkVTOUlDRHFCV3VGcGhSWUxJR1NEQUNtVU1jWHRjVzBFQzVMTzEyWXVTLXlOQUl2d2x6UksyTXhKMFJ0N0FCUldTMXlPTGt3V3dJTm0zcHRYeng5endCbk02R1JRWWx2UDZneXYydkoxeTJ6dTRVWVpOQVY0NTUtbVhVSmZDZWJXVnZ6aGfSAbsBQVVfeXFMTVdYYXFDNmE5S2tpNlY1Q1VwN3ZTaFRDeXRKazR4Nno1QXZldTB0ZHludXlMaHpOaU5aZWNSVjczR3RXNldtUWMxdWZLdWwtdHN6ckpjS0NXREczWGk2STNjbGhBc19NazZUenhhRnY0SUtnWWNLb1h2Qk9fOFBnYlJ4SUh4LXRidHBzbFdRNi1jYzVSNE45cFpPMmZ6bDRWMGFPN25qakt0YTR4M3FXNkNuUkc1Rm5WbThZaw?oc=5"
+    },
+    {
+      "date": "2026-04-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "TDP MP Shabari becomes party’s first woman national general secretary",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWlBLXByTmsyX0ZwQ29BVXU4bVUyelE2bjlYODJoWVEwV2hXd1I3OVgyalZqdm15cnhyNDlFazJfLU9zMEJfeFFod2U2LVlIQUd0a0stbXROSzFkX0QyMGxHcV9GVjVuR2IxTzUtMTRsb2ZaclpKZ0x1RGxPTWFRSEZ3WWhleWhXajk4amZiUlFQR0FSbmRiLWdxUkc3d3B3LThVMm1yX3h2S1k3cDZ2TUlUb0JTcW9rU2lTUWVxYWRUelRIMXN2UC1hc1I1eTN2YVHSAdgBQVVfeXFMTUZOODFfM0NYTXAtYnRUaHdOelZ5VW1QclI0THFvbDlNYVV2dWRqOTVVMG5EcVlYTEtYMDl0VWV3aWdvbzkxdWdMbEQyRFMzaUk2VUkzMGNrVmw3eldlUU91SjhUUk9UMHNkX3YzR3FKbU9Ld2hOMnNJZTdvTi15NlhqRDFfNENqeTdLRzQxUDRpajJodFJ1WjBTcWtnWlpQSlA2ak5QdjY0RXM2RlFrdkJIX2d1ak42M1UwSlAwRzhLMFd6dmVUZzRGaHNaMGF2R2t2TGJkVWgx?oc=5"
+    },
+    {
+      "date": "2026-02-20T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Nandyal MP Shabari participates in consecration of temple in Old Muchumarri village",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaml6ZnAtU2NRNzdUWVM4cVBJT1N6RHRJeHR2QThyNjhtQjNTWXhldXVuTkV6akJvVzc2QmxBN1dMb0IxTkotUEg5a1BjZDJIdC1JQjdxb1pzTW00b2FaYWxuNVdJR05ieERoWVN1UWs3Z2tCdzlwMnhvSlU3dUM5UmFHM0hqS3JSa0Z3SjR2YWNoaGk0Z25uMzFqaVk0SkxnN2ZYV09YSHYxNmlJR2VoV2dXLS16UEwzbktLVmdDNnlLVU5MQ2VIOW9VWnhjZE5BOFVxdVJIWEhqdHh5ejZCeFRfNzRmamVwSDNFaXJB0gH0AUFVX3lxTFBlRnp6dVJ4MEpZamw4NzZVSDBUZzZWYXJJcmhuOHlBN0JOMmhVaGNBcTZwM0NnejhaWG5LN0xGajNvOXBqVVJQbmZWVF9GN3l2UVQtN0cxQ0ZHaGlpSW9ZUDhPdXRyYmdqbldLUkl6ai1OZGtkYVRudnV1TGlMM0Q5Vm5oZ2JiTEptWlZhSXJKU2J6Nk5Ma2xSOUtuSkNzRUdYMUF2Rlc5TUlPUWoybi12emVKejBJVTFZblNZeUtmMU8wVWxpal9oZWQ2SnJTMG9tOWs2dWs5czZRTG5sRVNZUy1pY0U1OXJRRHVzblVvQ2poaVA?oc=5"
+    },
+    {
+      "date": "2025-10-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "PM’s visit will help development of the region: Shabari",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3dXeTFObHQ2dU9XVVhlZFpNdldtZVBsR0xObXZvdEs1RGlrVWNPRlI3eXM4cFVvX3RwWWxoc0RfQS1iWnp2UEMwVVNlb1c2V0VkbnRUbTZPM2hUYkUtMVpjek9CQnlzYXBsRnNnNWlnNjBoZGRUank5ZlMyX1luNkFQVXNsbUZCYk1GemREYTI5WjBuZDNsV0RpSWp0U3RLdW51V2pzdXBUekp6Q0ZPNlZWbUZzbjY5MUhxRkVrd21CRU1TVmfSAcwBQVVfeXFMT01MdktTZEtIbHFWbFJEVXpVRzAwek5FM3Yyc2dsMGRXOFJrMzBscUtGOTMzUU9HYzdCNEVJY19FS1BXSmsyQTNVODd2c2FFak1pRkJCdGxNWDdUQzFQTGMzbmo0UHBBWVNzVXVTWmh1R3FNbDQwWWY0T1dGUlJjVFJGcW5GY3hyWXFZcDdIaEpXOXRST3VKYVh2QW1IOEFPbHJBbjY3N3pjZUtYU1FzM2tOTE1fVTZmVW5CbUtRRTVRLUlfeTdaMVFsak1E?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 10697,
+  "notable_record": null,
+  "num_candidates": 31,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-17",
+  "pc_name": "Nandyal",
+  "pending_cases": 2,
+  "phone": "011-23310111, 9958585545",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180007.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor (Radiologist)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for UNESCO Intangible Cultural Heritage Tag for Paruveta Utsavam in Andhra Pradesh.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to strengthen institutional capacity of organ transplantation and provide all round support to families of Organ Donors in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to put in place effective measures and infrastructure to address increasing cases of Chronic Kidney Disease and other health conditions under AB-PMJAY",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to extend Capacity Building Training Programme to all the targeted Anganwadi workers in Andhra Pradesh under mission Saksham Anganwadi and Poshan 2.0",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Demand for Implementation of DoPT-Aligned Spousal Transfer Policy in Autonomous Medical Institutions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for social security and protection for railway porters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to inclued Boya-Valmiki community in the ST list",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of denigrating remarks made by YSRCP leaders against women leaders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to provide Health/Life Insurance coverage to Sanitation workers of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Inclusion of Beda Budaga Jangam Community in Scheduled Caste Category in Andhra Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to establish an Ayurvedic institute under National AYUSH Mission in Nandyal, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to address the gaps for effective implementation of education policies of Government by various Statutory Bodies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 158
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/byreddy-shabari"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 47,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Defence": 1,
+    "Education": 4,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 4,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Prime Minister": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Textiles": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "POCHA BRAHMANANDA REDDY",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 60,
+    "criminal_deduction": 2,
+    "legislative": 62,
+    "mplads": 57,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 147631050,
+  "total_liabilities": 32033423,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.92
+}

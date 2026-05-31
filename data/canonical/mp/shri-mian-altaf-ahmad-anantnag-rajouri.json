@@ -1,0 +1,466 @@
+{
+  "accountability_score": 27,
+  "age": 69,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 100000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12400000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 60000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 172400000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 31855000
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1125000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3800000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 36930000
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Jammu & Kashmir Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bFvnvaCcHP9tYGnBFSD",
+      "total_assets": 138342956,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4199",
+      "total_assets": 209330000,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 51,
+  "assets_latest": 209330000,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mian Altaf Ahmad Larvi is an Indian politician from Jammu and Kashmir. He is a Member of the Lok Sabha from 2024, representing Anantnag-Rajouri constituency as a Member of the Jammu & Kashmir National Conference party. He was a five time MLA from Kangan Assembly constituency in Ganderbal district.",
+    "title": "Mian Altaf Ahmed Larvi",
+    "url": "https://en.wikipedia.org/wiki/Mian_Altaf_Ahmed_Larvi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Wangat, kangan, kashmir Kangan Srinagar Jammu and Kashmir, 191202",
+    "emails": [
+      "mlakangan@gmail.com",
+      "mp.kanganaltaf@mpls.sansad.in"
+    ],
+    "phones": [
+      "9906000880"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/wangatlar/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/mianaltafsahib"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "01/01/1957",
+  "eci_state": "Jammu and Kashmir",
+  "email": "mlakangan[at]gmail[dot]com,mp[dot]kanganaltaf[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2191000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1200210,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1070460,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 754267,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 918140,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agricultural Income and Monthly Pension"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹7.10 Cr between affidavits, while declared income across 5 ITR years totalled ₹61.3 L.",
+      "headline": "Declared assets rose 12× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 70987044,
+        "declared_income": 6134077,
+        "itr_years": 5,
+        "ratio": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.61 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 126128329,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 281794,
+  "minister": false,
+  "mp_name": "Shri Mian Altaf Ahmad",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 20871671,
+  "mplads_unspent": 126128329,
+  "mplads_utilisation_pct": 14.2,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 66,
+  "mpsno": 5781,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kashmir News Service",
+      "title": "MP Mian Altaf urges Railways Minister to consider Vande Bharat Stop at Anantnag Station",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnhyMlhwOTAtZjJSVTFoMHplMDVTZlJZVkd6SjVVYXA2MHl0ZHE4VmI2aC1BVkpkSE9ubEtmYzJ0MUN1LVB6amRWYWZEV1NDd24zOTI2ZHNGRFgxVnNfM3BaOUNrM2F4aldla09ySDlScmlWRGhlbFl2cGh1OXlSMGl5T0Y4a0gyREFsMVJ3cEFPYmpGa2t0MDhBSExPcDBxZTNMd29RWVNBODdqSWRiYU9WOXR1Y1F5VV9KYmtqdw?oc=5"
+    },
+    {
+      "date": "2026-04-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kashmir News Service",
+      "title": "MP Mian Altaf Seeks Parole for Er Rashid to Visit Ailing Father",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXFJUnRwQzRhQmFrYkR3SmNqa3J0a05yay1tM1VqOVVpRlRzNGNVSzR2RlR3SlFjUjVxdGgxc2lWcjFBTHVucXUzbUNoTHBkQ3NQT0dvX29qbFJMeGlBQVloOFk4R1BJZDVzTE1jbDBmRmxTbjE0OEdBWU8xNDlZV09aNExjVW5IUE5EaHlOel9Wel9OTmRDUEhrblI2QQ?oc=5"
+    },
+    {
+      "date": "2026-03-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Greater Kashmir",
+      "title": "MP Mian Altaf Ahmad chairs DISHA meeting in Anantnag",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGJsb20yOWsyblFCOTVubjBpekN0TS05dy1zcmRXQUk5bkZXS2piTnFvRlJFbjZqcy1kRTN5czJweVEtOWx4ZklXdF9iV3ZJWlAwNUVzZlc2ZlZ5SG9ZSENKVmk2cGkzb2xzVmlKaVkweGNENHJxdUphTTdQMWxrS0R0UGNkRnhpZDRJc0pPYjVqNXI0YWlMcXVn0gGeAUFVX3lxTE1GcWF5cUc2UlRrU3Y4LWR3LUUxM1A3emZVWmZhN3FjakJGQWxUVWFmc21PZjFCMDNzVGJPazR0XzJqd3NQVHZFMVp6anktLWxHaHpvNEQ2c3NNMGhoQkVPb2VvaHJtZmJTX2h2UDVCRmJOR24yV3lVamtBRXBEcjFSSlJTREZ3ZWowbXJNZXNnT3UtZnRHdEo1Q3E4NUxR?oc=5"
+    },
+    {
+      "date": "2026-02-03T14:17:41.000Z",
+      "flagged": false,
+      "publisher": "Greater Kashmir",
+      "title": "MP Mian Altaf welcomes Union Railways Minister’s announcement of Jammu-Rajouri railway project",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdjFKQjNacmpHTXNSUTAyU1NvNVhUU2RQaDBVMC1QR0dLVFNiek1NNm5HWHFQbmM3NW02c1EydlkxZU9HWVhkLU9pVGlyLWZ4Z29taF9NVkJtWXpiTUVkdGNvWDFQRldJQmhqZ2N0M3dvTWJrOUZ4UlAtdWJaYnJhcC1xOUZXUk11SkZacXZJOG5Hck1RNE1weEt2N01vQmV0S2JBbTJaaGY0Rmo2SmQ5aGxoTG1MNzNpaXY3TzBXWklUUVFpY0U5UWlsa9IBzwFBVV95cUxOeEFOdnV5V0pkZGxrQ2VjY0haR3Z5QmVtSGF5S1dJMXpqUHdxLUhsc1lTTDlIMkhnYUtZU2xBbmVWV3U3UFlpd1A1VjVIdnVFT2RjNDByY1NSQm42YVdfUE04RDFOYmlhWjJXWWhuVl9nX3BhRVo3UTZSQnJFRDhPU2dZeF83S2hWTGVLUWJpNW52RmhTWVpsMWZUcGRlN0kwcFpHZnFwM1pLb2tNbE9zYmdDdmR4UHVKdFVIMmVONmh3dVRmRjBIZjNWNk1jelE?oc=5"
+    },
+    {
+      "date": "2026-02-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kashmir Life",
+      "title": "MP Mian Altaf Welcomes Jammu–Rajouri Rail Project",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXh1NHdFYVVCa1hZbXpMOFFPMjF4Zmx4SnFkNHdmLWVvRVFHaGs2ZThzYk9sSG5naHBxZFp1aC1hMTZ6Zk1QSGRvb0wwdnkwQzRMSjlLbHZ4S3piSmFRMDItQk14U1N2blZrR1REeU5IdHFoZW9rVVVnYVpoaVMzSE1hbXAtbjY2?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6223,
+  "notable_record": null,
+  "num_candidates": 20,
+  "party": "JAMMU & KASHMIR NATIONAL CONFERENCE",
+  "party_bond_total": 5000000,
+  "party_full": "Jammu & Kashmir National Conference",
+  "pc_id": "jammu-and-kashmir-3",
+  "pc_name": "ANANTNAG-RAJOURI",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180150.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 64,
+      "value": 64
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Social Security Benefits for Doordarshan Contract Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.7,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 69,
+      "value": 11
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mian-altaf-ahmad"
+  },
+  "qualification": "Graduate",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Defence": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MEHBOOBA MUFTI",
+  "runner_up_party": "JAMMU & KASHMIR PEOPLES DEMOCRATIC PARTY",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 0,
+    "legislative": 30,
+    "mplads": 23,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 209330000,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.85
+}

@@ -1,0 +1,535 @@
+{
+  "accountability_score": 27,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 210000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1397000
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1736000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1787000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6246000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11376000
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2577",
+      "total_assets": 11376000,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 11376000,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mahima Kumari Mewar is an Indian politician from Bharatiya Janata Party. She was elected as a Member of parliament from Rajsamand in the 2024 general election of India.",
+    "title": "Mahima Kumari Mewar",
+    "url": "https://en.wikipedia.org/wiki/Mahima_Kumari_Mewar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Samore Bagh Tehsil Girwa, Udaipur Rajasthan, 313001",
+    "emails": [
+      "mahima_kumari@hotmail.com",
+      "mahima.kumari@mpls.sansad.in"
+    ],
+    "phones": [
+      "9820248113",
+      "9820912254"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "22/07/1972",
+  "eci_state": "Rajasthan",
+  "email": "mahima_kumari[at]hotmail[dot]com,mahima[dot]kumari[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 588330,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 495060,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 494900,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 512250,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 244864,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 740530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 529790,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 549650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 481940,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 210723,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Director - Sarvritu Horticulture Farmers pvt ltd"
+      },
+      {
+        "person": "Spouse",
+        "source": "Director - Sarvritu Horticulture Farmers pvt ltd, MLA Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹14.92 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 149187865,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 392223,
+  "minister": false,
+  "mp_name": "Smt. Mahima Kumari Mewar",
+  "mplads_allocated": 183892143,
+  "mplads_expenditure": 34704278,
+  "mplads_unspent": 149187865,
+  "mplads_utilisation_pct": 18.9,
+  "mplads_works_completed": 9,
+  "mplads_works_recommended": 106,
+  "mpsno": 5683,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-10-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "President Murmu’s visit to Udaipur palace comes under criticism from Mewar ex-royal family, including BJP MP, MLA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3M5N0s4ejdiUXl0Snl1cEdSQjRMT0Nvd0NaZEF5X2RTU2lGb003VjlSa1ZhRjR4RkhqS2hUOG85OE0zczZ4SG9HcEpid09uNVFPSU1FaUkyUUx1ZUhVWm5KbmMyRDJqVlp6emg3SlB1cGlKemFuWkxGN0tfTUwzdGVKODN6SkV5cE9oTkRoMTBLdjVOV1NjV01La1BiT1F6TlJiczZ0Vmw2MDhzaDNsVTIwOTlkdnZHREHSAcABQVVfeXFMUEhuMjNWYTgyS0VwV3dnTlFKQzJpbXFEMThLcy1JWkJicTI1cXhBd0sybU90OVdGZThMTkJubEpDR3QwblBQaG1rNUdLTGpWdXhHTmtfN3RXNEV4OEdrOHFBVlJmb1J4MDhLT1J4Z1BpYm43RjBiVW1qb3NvY042ZXlVRmJ1Qm0xZTA1Vkw5MU5hQWpfS0ZvSlVTak0xb2xxbVJqTHYxR3paTzVpeWY1VzUyWWxONko1cDVTbWtaSFJh?oc=5"
+    },
+    {
+      "date": "2024-10-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Murmu’s Visit To Udaipur Palace Irks Mewar Royals Including BJP MP, MLA: Not Right For Dignity Of Her Office",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOWcwcmhISmdhczRNSlV4SUd1dUNWa2lCb1pITlpVdEc5eHlxT0xhWGlNaHFoRlVKdFFJLVlCOFV2dzAxZVYxcFZDbExLd0l5QVVqOFg3aXRjSGFCSjVPNDFFVzUwbkpXdlZQeVhjbjl2RGR4LThENUE1R2QwWWJvVFhXNnpmQ21SQkVpcnZRbDRIaDA2a2FfUXRqX010VXhncXVoNk5IWm5fMXRlOVk1ajlDSXVTX29ubGNVaWhMTjFaNXRCTWxTbDQ4YTVaeGMxOS1pYmdsTFFGQlZJaDZhaEYyenlyR19nYjlvU1p4ZnFnaFN1VzY1QzVnZWJFUdIBgwJBVV95cUxOVW5CMFpIdkpwMkd1aS1YN0U2ZGRWeGR3c29sdGZ3QVNPcERtMXVranNDNVdBRzQ4OFR1alRFZWlxWmtGM2YwYjIzSzhZQ0pFZW01VHRZZFFlX0xTY1Y3RUpldlpWbUhlMExyX20wZE5uWVAwMWdPVDJpbW5Takg3N0lHcTFoY3Z1N0g1aGNqYThKV3dmMXNXQXpGYWhCQzhHUU1USHctbEFEYUVWVGZMTFg1MGlGbUNNQnhoYXpHNlJUc291OWVUSUw4WnNTUF8xT0xQdjlCLUxYNU9FdjdrVHh3emU0TFhuVzRvN0dRdEU4ZEJKUkhGRTdWSEgtVmJzY1Fj?oc=5"
+    },
+    {
+      "date": "2024-06-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "SheThePeople",
+      "title": "Royalty To Rajsamand Constituency: Meet Mahima Kumari Mewar",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU5teWRiZTBmVHNlak9LVDRjd0wzdldpVjBGV1BTdm1KRzczWEFLdFBKcU9yT1hUNXFxb19EajZfamtKbUUtSzRaYXU0cUtiRzJYaExJZi15T1FKTVZubFlZYnNvSlpvTmV3TDVwTTF5WkJ0VWRnV3ctMEdRandoUmxSZ0toRDQtMGI4OGwtWU9LcXFJU3p5QVRER25kWjliT0ZqczFKVmRHQdIBqgFBVV95cUxNSU5teWRiZTBmVHNlak9LVDRjd0wzdldpVjBGV1BTdm1KRzczWEFLdFBKcU9yT1hUNXFxb19EajZfamtKbUUtSzRaYXU0cUtiRzJYaExJZi15T1FKTVZubFlZYnNvSlpvTmV3TDVwTTF5WkJ0VWRnV3ctMEdRandoUmxSZ0toRDQtMGI4OGwtWU9LcXFJU3p5QVRER25kWjliT0ZqczFKVmRHQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Rajsamand Election Result 2024 LIVE Updates Highlights: Mahima Kumari Mewar of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOWRjUFljYVVwRWdlMlFSWEFVamx5Z2ktVVAyNEM5WEhpR0NWNGd5Nk9sMWNSTGxENThaMS1ZaEFmRUlZbVpycWpkZ3FMRlVpQWdfVGM5UzlhWDBDbE5wOVgxRjJSMkVJdG9NMWRNU2oyN0pKVjZpcmhjZmkwMm9tTFprRmxrdzFvbGZFWkpKd0l1YXZkOV9zSDZjTE9oQUJsUi1oX3VJSEYyUENhVHdiY29fa0ItWFJsbXdnZUJaYkQ5RFliSk0xemFqUVRwNE9XVVdORzFDN0VMa3MyWkY5NlAybEnSAeoBQVVfeXFMTnlzMHJ6ZVdta0czb2Fkbnc1TERrQ05tLVI3Nlp5aGZ6bkRUOVp6VEc1RFNCYkpwcFBaRTNRTV9RUmh4anRsUEpZcHU5ZjFMMFdOeWJJMVBSc0wweFJ5SUlRQk5ZWnRVU1hyS1NXdkxCaDF3aUs1S2tqNGFjbWtyYWNMUmJkN0ZMNUNnLXE1VWtEcUhGTFdSNjFoUWRNRWNzNWZJUFZGU2FkR1RpT0RjRmNtT1BhTTdqWUJNT2J6Y0Y2VG5WRENRemtCemZURVprdFBndDAyWlBabEUzRUlxWVlmYm56TkJ3RXNR?oc=5"
+    },
+    {
+      "date": "2024-05-31T23:03:26.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mahima Kumari Mewar",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMTBBb04tZWJjUnk1OTA2bHNLLWlmUGZwY2hvM0VSQ3R2Q2puY1RLb0hrSVRnTGY5MTNzLUZ5SUV5aDdzRkJQRldkTTFoRFpDZzdGQjRDX0VaZGMwNTRnTnF5aU01R3NWYkpNd3JlSUoxQV9Nd2Z2bkRYU2d5bEZmdWZEUElOd1lGN19QSGxOeUhOa0IwQ1c1UGoyYW9CYjE2dmcybFV5WXg3WXd3akVYNmtVNE5BT3NjV0JxSDM1YnVXdw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12411,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-22",
+  "pc_name": "RAJSAMAND",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180347.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 94
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Regulation of Mining and Construction Activities in Aravalli Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Refund of Deposits to Investors of Sahara Group Schemes.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding establishment of Zila Sahkari Kendriya Bank in Rajsamand district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to restart Mahalaxmi Mills, Beawar district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to provide adequate compensation to farmers whose lands have been acquired for Merta-Ras and Merta-Pushkar Railway line projects in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to develop NH-89 (Ajmer to Nagaur via Merta) as a four lane road in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to set up a modern Meteorological Station at Rajsamand district of Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding resolving disputes between Hospitals and Health Insurance companies for patient welfare",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding establishment of a medical college and expansion of medical facilities in Nathdwara in Rajsamand Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to expedite the establishment of medical college in Nathdwara and provide healthcare facilities for the people",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to take remedial action to prevent frequent accidents occurring on N.H 162-E in Rajsamand Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to establish a Division office of Department of Posts in Rajsamand headquarters, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to restart Mahalaxmi Mill, Beawar district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to provide stoppage to trains at Ren Railway Station in Rajsamand Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to remove thedilapidated railway quarters obstructing traffic in Degana onNagaur-Merta road in Rajsamand Parliamentary Constituency,Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Acknowledge and Respect the Legacy of Maharana Sanga in Parliamentary Discourse",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Development of Meera Bai's Birthplace in Mewar to Promote Tourism and Preserve Cultural Heritage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to ensure protection of environment affected due to indiscriminate construction in Rajsamand Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to establish a Navodaya Vidyalaya in Beawar district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Establishment of a Navodaya Vidyalaya in Beawar Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to make efforts to prevent road accidents in Rajsamand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Rajasmand District Headquarters, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding no entertainment business in the religious places",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding alleged irregularities in construction of NH-48 between Kamalighat and Beawar and request for sanction of an underpass in Rajsamand Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 30
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 156
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mahima-kumari-mewar"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DR. DAMODAR GURJAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 0,
+    "legislative": 26,
+    "mplads": 28,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 11376000,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 64.4
+}

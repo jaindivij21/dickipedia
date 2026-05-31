@@ -1,0 +1,633 @@
+{
+  "accountability_score": 73,
+  "age": 49,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 12100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 45000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 20500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 79440000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2165630
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1143560
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 8140000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 99920620
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 330000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1338800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 287358
+      }
+    ],
+    "movable_total": 113325968
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Rajasthan 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yUtjNjetpgLR4YaAfY",
+      "total_assets": 135794155,
+      "year": 2018
+    },
+    {
+      "label": "Rajasthan 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yUtjNjetpgLR4YaAfY",
+      "total_assets": 185684874,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2547",
+      "total_assets": 192765969,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 42,
+  "assets_latest": 192765969,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ummeda Ram Beniwal is an Indian politician from Barmer, Rajasthan. He was elected to the Lok Sabha from Barmer in 2024. He is a member of Indian National Congress.",
+    "title": "Ummeda Ram Beniwal",
+    "url": "https://en.wikipedia.org/wiki/Ummeda_Ram_Beniwal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Nibmbaniyon ki dhani Pooniyan Ka Tala Barmer Rajasthan, 344037",
+    "emails": [
+      "umedb@gmail.com",
+      "urbeniwaloffice@gmail.com",
+      "ummed.mp.barmer@gmail.com",
+      "urb.mpbarmer@mpls.sansad.in"
+    ],
+    "phones": [
+      "9928765128",
+      "9461995128",
+      "2982225128"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/UmmedaRamBeniwalBaytu/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/UmmedaRamBaytu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ummedaram_beniwal/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 11,
+  "dob": "15/07/1977",
+  "eci_state": "Rajasthan",
+  "email": "umedb[at]gmail[dot]com,\r\nurbeniwaloffice[at]gmail[dot]com, ummed[dot]mp[dot]barmer[at]gmail[dot]com, urb[dot]mpbarmer[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 5687306,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6051214,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 8107700,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 7780808,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4731860,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1681200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1395920,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1250000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1188720,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1460450,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Company Director, Business, Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Company Director, Business, Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 39% of MPLADS local-area funds were spent — ₹8.96 Cr unspent.",
+      "headline": "61% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 89605860,
+        "utilisation_pct": 39
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 17167803
+      },
+      {
+        "category": "Achlaram 8,50,000 8 Lacs+ Balkishan Soni 5,00,000 5 Lacs+ Pradeep Kumar 9,50,000",
+        "value": 49076689
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 66244492
+  },
+  "margin_votes": 118176,
+  "minister": false,
+  "mp_name": "Shri Ummeda Ram Beniwal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 57394140,
+  "mplads_unspent": 89605860,
+  "mplads_utilisation_pct": 39,
+  "mplads_works_completed": 71,
+  "mplads_works_recommended": 166,
+  "mpsno": 5762,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "From Constable To Congress MP, Ummeda Ram Beniwal's Remarkable Journey To Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3ZuNWtkbHhneWVfMGV5Z2QwdEhIZ2R5YXhSWmR1aEphVkg4dGRHY0Z3emVfRVVmTzd5MEp5T3pPMnBHX2hheXY4c25naFJqSVBkS0c3OGw2c2lJaGtMdW1sZ0ctTjFueGVoRDdlemdfdXRuTEowZ01zb091M1lDZzVvQXljUjlMWm1URmthSHh2cVBaT0Rxc0o3SDJWQVcyanpuRlBES2p1WWxuY1Z3NTI2OFhKb25LSFRvWnFMQm91Skh1V2l4bEJCcWpNSHPSAdQBQVVfeXFMTlQyZFlpNzIxUmxBaUcwVGtuS3FVb3ZBS0liVk9UTF9JUmpfZFpFa0lSWl9mY1Nic1RUMkU5SkpvZVlMWXBrU1c1U3BkOEhMUmlRdVM4c194Qml1b3ctZlhmcWJtOXJJRnNrMUphcDlRNmhjSjF4UGZqY0RpTF9pRk5GMHd1RDlseS00SWlJaDlVMl9Jbjg3QTlRcXoxWDA3LUlFMUdhWWlEcVFSLWxOVG8tVEthS19mUG4xN2VxQldtcVYzY20tTzhNQnFmMDdfWTV3N2w?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "Ummeda Ram Beniwal: How an ex-Delhi Police constable became Barmer’s Lok Sabha MP | Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeWlfZFdZbFA5dDBGNkRsZ2dyTnZzMXlBNVFicUViRU5GRnJQcVFJa0dSTDM3bXFmMnNpYjdzSjI3NVFFeVo2SFdHNHZUX2VOWmYwUVZpclZEU0FuNDV4OS0wRE5TQ2tfMWgzTjNqRm9qUkVHcDRfVHpwVnpaT211U01ReVBNR1VsbURxQUVTdkRpWEl1RVQ0ZjdSVlZTMkRxdEFRZk1jbHJCWDlyT1NzeHNXNHBTTzEwTXo5UmZWQjhFSFl5SFVncHViX0pKN01PTVVDdjJHSk4tdTB2VGFDRFB0TWxPUdIB6wFBVV95cUxQWnNFekxvRGd1LVRmMnNrWGJyS3EwOFFTZEl5QXRDcVBtSmhmR3BwV2c2MURyd0h0WE05dWZiR1ViYk95emFTMWlWQVdXeFFpRkZUS1l0R0JFeWRjdkpsMDkxbEJSNHQ2M1I1RUxSNy1RaHBJdTk3UV9OYjl4Q29oTVNsLUFIcHBzRnM1NEVoVE9ERE5fR3J4aW5hZkhjcDQwc2hFNUgxN0JZQ0FRcUxKc3dkeWFlNlRxNlVHWlRBcnc3a2FVQXNaN3RscUNuUU94QXJZMGo2cVUzMHVPcGZqVmdGNTVZeHNhODhZ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Jagran Josh",
+      "title": "Barmer Election Result 2024: Ravindra Bhati lost to Indian National Congress Leader Ummeda Ram Beniwal, Check Deatils Her",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWnF6WmwwSWRhYkZNbUtHMF9ZdENsRVNKWFlqWjRVSjVVUUhjWGpLWnNhclFpeEhXbnczN1VXOGIzY1c1dVhKU2MtdXJkM2czRk9SZnJiSzRheEVJbGNWb2xfdGlPdkEtZEVfbDRSZ0h0aHd3NkxwQTJZTmdIQmNKcGxac05SMXR4cHRCdmh0c3RHWkN4UHAtemJMYkFGT1FJS3g2ZEJzTFNmclh3TzA1S0Q0eDNIY05xR3JKYlFjQS1YYmZ3WUFESXVKaTdndG1jellnZWdZQzc1eTlTS3FLTHlsMHh4OVZ3cUVJYXB0d3pnRmNmeWs2RFZIRmtmUmw0?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Barmer-Jaisalmer Lok Sabha Seat Result 2024: Congress's Ummeda Ram Beniwal Wins by Over 1.18 Lakh Votes",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNdmV4OWk1enU2MldrdnlxemV1VzVKeGhGZm9wNUgtNjMtdE5ZcXRZSmpyaUN1ajY4NzBVS1Q0bU1zQmxxRGQ4ekotS1ZyV25IT0RXMzBsZHRPR2d2OVZ2RkxmNTQ1clZMZG5MUFo0MlByaDhlTGRDc0ltd2ZTUHJqOUFhRXlGUzFKRjJBM2xxTVBaNnFMVzR6RzRiQlhWa0gybXVlSWlrQ3V4VVFvRjVRSWNUcWo2VXdPMnNvdUZ6SllLeHpOR3gxN0I3MVBwaFc5N3piS2NXOEl2eDcwU3RaUmJYLTRPVnNEdXJRY193RzREZ2hOcmFuWGtRYlNzaG1mM3RHSzY0WllHcnFsVHNJREREcEp6Z1l0OVJwUHVlX0tTZnJOQ1dhbDNkTVNTWk90b3Y2MtIBugJBVV95cUxPTnAwaXU1OUdFRFZ3Nkw3VzQ2ckR4WDhXbV9MVUdTeHRXenJ6Z0wwX1ozNGFCT1RsVGtUNUxyZTFMTDBNSUZZb3RNdEN6THBMZnRTRjYxNDg3RWVwVXJYZkltVTNRZmk3SlVOVHlkRDhtQXBJTmV2UkJDcFVZVFBMSVl2WGZ1aHNmVm55aUh5eXR2NDJrOXk1Q0lsWFpyQmRreWNCYzNHMTVXZG5uZGhsYkxQZGVTdy1jODFUZFV0YlVIX2VMVXFoT0FqRUR0QV83bDlob0tzT0ZYTXZwWUJVVURtQjZBNHl3UzlXT0VOQ3RPWGI5UE5hS01vMDV1Z0o4Y21MM0VkSVlhM3Y2N0NuWmhNSWx2d21VaU55UF9oLTVNdDJsV0VPQ29SX2h0Wkp6YjhLalhSNDV1dw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Congress’s Ummeda Ram Beniwal wins Barmer Lok Sabha elections 2024, defeats BJP and Independent candidates",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkdydGRDMFRMZEhxX2tFMnhGWkJ2VmZfSnJLWVZIblpZVVprSF9Ka1g2c2VJUEJDVkgweUFWc2JDb0cxanN4QTdjSXFHYmtGcUNvRmx4NTZidHZwdF93WTltY29oanFpV3Bab1QwdmFlb1BFSmhZaDY0YUhrTHdESXVRdWVJZ0MxdHNrR2tkMW02a2lxNmkzd0VTUkxkakJxY0J2a01HUWlGaHRvNkE1d3NhRmtDVUFDbUp1bFZZR3HSAccBQVVfeXFMUHpjeEdnSFRZTTE2bGdPSi01UW1VTXlVV1o3RzY0UUtpVWd3d0JhZDY5b2E3UjBxMFhDRC1RM2FqdkRDUk1xeTJNczgwNjZUUk44YXhNVWdSdFR0S1p5SjNkOWgzSEdPQXlUN0tNaE42c1FkbFJRX2lJckU2Y3JBVEJWZWJQT09iallDT0NHSEV4LThUS3c4cmZLWmhIWDVrbjBWelY0aUx2MHQyUXpaTVBiUTlhQk0zR1V6R1FSYWN3akN5NHdhMA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 17903,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "rajasthan-17",
+  "pc_name": "BARMER",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180357.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for an Urgent Review and Investigation into Implementation Irregularities of the Jal Jeevan Mission in Barmer, Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Concern Regarding Inadequate Compensation to Farmers for Transmission Line Projects in Rajasthan.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to ensure effective operation of sewage treatment plant in Balotra district in Rajasthan and related issues",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding incidents of cyber frauds during transfer of money under Pradhan Mantri Fasal Bima Scheme in Barmer and Jaisalmer districts, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding alleged irregularities in Reservation Roster for recruitment to various posts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to improve Aadhaar Update Services in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding payment of pending wages and other related issues under Mahatma Gandhi National Rural Employment Guarantee Scheme in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need for adherence to Environmental norms in the course of setting up of solar power plants in Badmer, Jaisalmer and Balotra regions in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Address Serious Negligence and Environmental Disaster Caused by the CETP Plant at Balotra Industrial Area",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Healthcare facilities in borderline areas of Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to ensure transparency in the functioning of insurance companies under Pradhan Mantri Fasal Bimal Yojana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Immediate Action Against Illegal Polluting Factories in Jodhpur, Pali & Balotra and Strengthening of Wastewater Treatment Infrastructure",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding payment of pending dues under MGNREGS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Strict Action Against Drone-Based Smuggling and Restoration of Border Development Schemes in Sri Ganganagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Investigation into Irregularities under Jal Jeevan Mission and Provision of Safe Drinking Water in the Thar Desert Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding allocation and appropriation of Lignite Mines in Barmer, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Compensation or Farming Permission for Farmers Between Zero-Point and Border Fence",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding alleged illegal transaction of land in border areas of Barmer district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for CBI Inquiry into the Brutal Murder of Rajkumar Jat in Rajkot, Gujarat, to Ensure Justice",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to take strict action against production and smuggling of drugs in Barmer Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Upgradation of Medical Colleges and Improvement in Medical Education Infrastructure",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Electricity issues in Barmer, Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to restart Border Area Development Programme and include the border districts of Rajasthan in the Vibrant Village Programme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from govt. that the hazardous chemicals and sewage water from textile industries being released into the river should be banned",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding implementation of BADP, BRGP and VVP Schemes in Barmer & Jaisalmer in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt that a special team should be formed to investigate the work are going by the vedanta oil field",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding need to give priority to local people for employment in Companies set up in Barmer Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 39
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 119
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ummeda-ram-beniwal"
+  },
+  "qualification": "Graduate",
+  "questions": 33,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 1,
+    "Coal": 1,
+    "Communication": 3,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 2,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAVINDRA SINGH BHATI",
+  "runner_up_party": "IND",
+  "score_breakdown": {
+    "base": 73,
+    "criminal_deduction": 0,
+    "legislative": 72,
+    "mplads": 75,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 192765969,
+  "total_liabilities": 66244492,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 41.74
+}

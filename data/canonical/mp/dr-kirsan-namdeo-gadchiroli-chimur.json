@@ -1,0 +1,506 @@
+{
+  "accountability_score": 47,
+  "age": 68,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14150000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 25000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 44150000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 20000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3758195
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 10000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Life insurance Policy 25-10-2012 10,00,000 10 Lacs+ ICICI Prudential Life Insura",
+        "value": 2350000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1162800
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3337287
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4687760
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15326042
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=317",
+      "total_assets": 59476042,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 59476042,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr.Namdeo Dasaram Kirsan is an Indian politician and the elected candidate for Lok Sabha from Gadchiroli–Chimur Lok Sabha constituency. He is a member of the Indian National Congress. He is a notable scholar who holds various degrees across different fields. He is a member of Parliamentary standing committee on Energy and Consultative Committee on Commerce & Industry.",
+    "title": "Namdeo Kirsan",
+    "url": "https://en.wikipedia.org/wiki/Namdeo_Kirsan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Near Sanvidhan Sabhagruh, Ashirwad Nagar, Chamorshi Road, Gadchiroli Gadchiroli Maharashtra, 442605",
+    "emails": [
+      "ndkirsan@gmail.com",
+      "nd.kirsan@mpls.sansad.in"
+    ],
+    "phones": [
+      "9423912394"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "24/05/1958",
+  "eci_state": "Maharashtra",
+  "email": "ndkirsan[at]gmail[dot]com,nd[dot]kirsan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 591316,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 512253,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 641556,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 598337,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 492893,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension And House Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Dependent On Husband And Father Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 10% of MPLADS local-area funds were spent — ₹13.29 Cr unspent.",
+      "headline": "90% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 132915805,
+        "utilisation_pct": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2828488
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2828488
+  },
+  "margin_votes": 141696,
+  "minister": false,
+  "mp_name": "Dr. Kirsan Namdeo",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 14084195,
+  "mplads_unspent": 132915805,
+  "mplads_utilisation_pct": 9.6,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 120,
+  "mpsno": 5727,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Gadchiroli-Chimur (ST) election results 2024 live updates: Congress' Dr Kirsan Namdeo wins",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRWRYUU55V3JDM1F1Vi0zejFNLVNBRGpjY3FNUlg4eHlIVnc3Y2JiVGdNNzB6UUNKdkxfWkoxMzNaQW1HclY1OWNUY0diWWFFaE1TZkJpSWdZTEpVNlZKR3p0M3YzZjFZWm5qSzNNanN1NmFLaXB1d212Uko3MnUxV0E2REgwQnZ6OWV4WDV3dl8wdTIwM1NadjdzRUZlTFlPWXNMTFFJQVNrbFNKUWlrdGFyTzhKaE9OWFdzYms2LXFGWF85SVkzMkx1NW1KN21VWEdNcDZpSXVtNnJIQTJXaC1pYTZzbXFFd3BZbWJjZzYtQmJuNWRxWmlWVjEwZFpHQ3dOOdIBigJBVV95cUxPMnl4VkJfaUNnX1lkSGtpc3hXNUNwa1lLV2lxdWw0SXNiOVRtZzZobG9pNlBRc1JQa0tNRVNRQ2VHY1RFbjRWSnpqUmQ4VXVnR1ZibUVIVUVNUGRJN014UTJMRDM0UHB1LWwybUU5QVNjaWxwMDRwTTdjUzViTXA0VERvV1lKQ2hRMm1yVU1kYnd5WktTbWpueEJlak1NQnJpRVpDeWRURDVVVkhYcHY4SUJhRjU4NEgxdTdaUWpBQUVMZEw4YlFCTkFuQnlCZUowYjF0ZDV3Q3hWOFl6aVlRanZlZEhQdWxQNVY1aUtzZ1ZGNEdfR1BIekRaejFLdC1xdVJXd3JrUWZtUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Gadchiroli-Chimur Election Result 2024 LIVE Updates Highlights: Dr Kirsan Namdeo of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSzVoYk5RV28xNW0wTTJtMVRZd1BJTFZBbzVUc0ktMlJUTzBTRWZUc0tkQnlUbEs0Sk8tZWgwRmFBTUFZRGx0UjBuTHFZU0VDZ1ViQ2ZuOEI5dWEzVU5WZm92ZzZqSGw2YWRNdXI4Vm5oYm9KQlA5ZGd6a2ZMRVlPQmZVV25DMGJFWUpOVzFjbkxsVWdvUno1N0o4SmlJcmk3Sm9UQzJGWmNKRV9velpoLUJzS0NVSVdJSnczRjFpZnpWcEZxeVowWkJqTGNWVl85RDAxTzVZVTh6c0dQYVpzeTFDWGQ0QjN3aTQ0dFYyRdIB9AFBVV95cUxNb3hzV1hzWkN2LWF6a2pMTFM2QUdCa0tCeHdvcDhKU3BwQ3I1eEFhNkVEWXJNMVhKbWVJR2FEbVp0R1FKUzhnbEZqNlhGanc0TWozbjlWN3hIOGFSczV1NWxFeGp3ZDBlYS1GdVVkX1RhSldrb2lnV1pZWEUtYjQtUlFwMWVuVXVnWV85cDQtOGh5WlJxdDdiMHVuRGpqbWZXTzYxWmR4RDVsOXM5ak05WHlIVlFTdy1Ldks1enF1dERwOVByQThycWtIc1ZEQnhIZ3otRi1WOEkwMzE0b2xyZk8tSGdtOHVNbTZERzViWE5OR0Nr?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 16577,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-12",
+  "pc_name": "Gadchiroli - Chimur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180269.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Immediate Release of MGNREGA Funds for Well Construction.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to enhance the target and timeline of procurement of paddy alongwith releasing of pending payments in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand to Stop Proposed Iron Ore Open Cast Mining in Forest and Wildlife Corridor in Chandrapur District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to release funds pending under Jal Jeevan Mission to Maharashtra and ensure effective implementation of the scheme in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Issue Regarding Acquisition of Fertile Agricultural Land for Industrial Projects in Gadchiroli",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding restoration of cancelled posts of special police officers to strengthen security support in Naxal affected Gadchiroli-Chinnur Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding alleged irregularities in implementation of Skill India Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of farmers in Gadchiroli and Chimur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Strict Action Against Rice Mills Involved in MSP Procurement and Quality Fraud",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Timely Completion of Restoration Work at Markandeshwar Temple in Gadchiroli by the Archaeological Survey of India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need for cement concrete paving of dilapidated rural roads constructed under PMGSY in Gadchiroli, Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Payment of MGNREGA Wages and Full Allocation of 100 Days of Employment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to expedite completion of restoration work of Shri Markandeshwar Devsthan in Chamorshi Tehsil, Gadchiroli district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Increased MSP Benefits, Uniform Loading Charges, and Continuous Electricity Supply for Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding request to restore the pension scheme for old artists",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to increase Pradhan Mantri Awas Yojna (PMAY) subsidy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding completion of irrigation projects in Gadchiroli Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 29
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 154
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/namdeo-kirsan"
+  },
+  "qualification": "Doctorate",
+  "questions": 45,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 4,
+    "Cooperation": 1,
+    "Education": 3,
+    "Environment, Forest And Climate Change": 3,
+    "Food Processing Industries": 2,
+    "Home Affairs": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 2,
+    "Railways": 3,
+    "Skill Development And Entrepreneurship": 3,
+    "Social Justice And Empowerment": 1,
+    "Tribal Affairs": 4,
+    "Youth Affairs And Sports": 3
+  },
+  "reservation": "ST",
+  "runner_up_name": "ASHOK  MAHADEORAO NETE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 0,
+    "legislative": 69,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 59476042,
+  "total_liabilities": 2828488,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.97
+}

@@ -1,0 +1,467 @@
+{
+  "accountability_score": 46,
+  "age": 67,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 22500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 13500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 61000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 95000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4018181
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1940000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 10253181
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Punjab 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bcx2WRbDeJBF4HQMViR",
+      "total_assets": 35819784,
+      "year": 2017
+    },
+    {
+      "label": "Punjab 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bcx2WRbDeJBF4HQMViR",
+      "total_assets": 51187545,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8728",
+      "total_assets": 71253181,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 99,
+  "assets_latest": 71253181,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sukhjinder Singh Randhawa is an Indian politician and former Deputy Chief Minister of Punjab. He is currently serving as a member of the Lok Sabha, the lower house of Indian parliament. He is a member of the Indian National Congress and has served as a member of Punjab Legislative Assembly (MLA) representing Dera Baba Nanak.",
+    "title": "Sukhjinder Singh Randhawa",
+    "url": "https://en.wikipedia.org/wiki/Sukhjinder_Singh_Randhawa"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "VPO DHAROWALI TEH DERA BABA NANAK GURDASPUR Punjab, 143605",
+    "emails": [
+      "randhawasukhjinder01@gmail.com",
+      "randhawa.sukhjinder@mpls.sansad.in"
+    ],
+    "phones": [
+      "8559017777",
+      "1871298469",
+      "1123311331"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "No",
+      "party": "the candidate"
+    },
+    {
+      "detail": "No",
+      "party": "spouse"
+    },
+    {
+      "detail": "No",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "01/02/1959",
+  "eci_state": "Punjab",
+  "email": "randhawasukhjinder01[at]gmail[dot]com,randhawa[dot]sukhjinder[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2374232,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2823420,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2286770,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2422870,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2777413,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 498650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 495880,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 238130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 499690,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 441800,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Salary as MLa"
+      },
+      {
+        "person": "Spouse",
+        "source": "Educational Consultant/Rental Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.13 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101349344,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 16132136
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 16132136
+  },
+  "margin_votes": 82861,
+  "minister": false,
+  "mp_name": "Shri Sukhjinder Singh Randhawa",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 45650656,
+  "mplads_unspent": 101349344,
+  "mplads_utilisation_pct": 31.1,
+  "mplads_works_completed": 56,
+  "mplads_works_recommended": 281,
+  "mpsno": 5752,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-24T14:46:04.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "Punjab Returning to Dark 90s Era, Says Randhawa After Police Officer Killed",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTI2eWNfZUhnbDRBeTFkY0RGb3lyN0pFY3FsWEF1UWFIdUhtYWZLWHJfUklqZ21FejYxSGdGci1lSmp0WFRLUFFZUFdlaEtZMlJ2T1lxNWlrQWhadG5leV8zZzI4X2l1eTEwRERBVzV1RUhyUFZqLTVZVFdtQjZkaTlERjVEVW1CLUdPaFBPNDk5TlRwYWhhckw5c2NSZG43Q2VweUxrQmJDTmhveERv?oc=5"
+    },
+    {
+      "date": "2026-05-23T16:41:23.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "Surplus or a Sign of Economic Distress? Randhawa Raises Questions Over Centre’s Financial Condition",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeDV5TVhJeTV3RERNQnBxaU9FUFB4dnpQMlEzTTdvVnJvci1KSkRVRVlUTVZvV1RNM1BkVHBCUmlQSkpLRUVTYTZzRUlQcDRZUXJNQ3lRbkZLcVJUWWVEY05jcVNEREc1eF90SFBXNzBjQlkyb2VIcjlKVFlmT00xZUpyODllQldPWlJhRW5hSzF0WmwwbTUzcHVCdmlwUVVONEdSdGVPRGVkVXBsSkxKaXBwRElWV05DRzY4NTl3eUlWV1dwdzBPeDk5QldIdw?oc=5"
+    },
+    {
+      "date": "2026-05-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "Punjab, land of warriors, will firmly oppose SIR irregularities: Randhawa",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZm93emtNY1NwbFM5YTFtTld6WWdPVDIxei1QOUUxTzk4Uk1CZklxT1FHblVvZDVIUDVzVlNQTUR3UW14QUlVZWozNUxMZzk3b0VudHhpOW9LWjlodWhLcTFoWjNUQ2t4OVd4NzRWam1XNUZBaFFvVGRPY2k2bHpvcm1VNVltMk5DY2cyYnowbHlKZGhsMGhCdDdBTHk5NTJLbHllOUNlcmFsUQ?oc=5"
+    },
+    {
+      "date": "2026-05-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "\"Weaponizing Security in a Democracy Is a Constitutional Betrayal\": Sukhjinder Singh Randhawa",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0M0a1EyNktsNzhCRXAycVpuQjhTNFBxcWdHalhvUlozLXZOdkxVVlR1Q0pNYXBPYklVempFbTRoX1N1SzZjNlNfeXpla0dnUkpHSnlqa1pSVVpiY1Y2OHNpVlJUcUg0UG9aUGd1TWpKbjJVbGRfRFEyUG9HVzJZeWRnaEozeGRWQWE4TkktZ2RtZ1FvblJodldjaTlaRjVUUjB5XzRKUGc1WEpGOS03OW9MeV9aUFN1bElhMDFaWXRoY0ll?oc=5"
+    },
+    {
+      "date": "2026-05-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "Old Pension Scheme Will Be Restored Once Congress Forms Government in Punjab: Sukhjinder Randhawa",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTFQ3OHNDSmxnT0xWb2JOc3lqODloNENrVUFDdzVZR0JKSW9ZQ1BIbUVteS1IMHRxTU9UMV9vUC1qNzVTcks1cXI4SVYtQjdGdUIyTUVvUUxweWdXSjJqSWdKUENmb2lYNENBdndleWUwaERJbmRpcXpucFpZV1QzWmNLUXRLN3ZmZjFLVDZqMmNrWFNFZG84ZTNsMm5NS05JOHN2UWNyR1FNNE1ZOVRNekFzZ1haRExZRjlZVHlybnA2UjdOSnM5VlF6ZDQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3354,
+  "notable_record": null,
+  "num_candidates": 26,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "punjab-1",
+  "pc_name": "Gurdaspur",
+  "pending_cases": 0,
+  "phone": "011-23311331",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180332.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 70,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Need for Strong Measures Against Terrorism and Gangster Nexus in Punjab",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding shifting of Manawala (Nijjarpura) Toll Plaza on N.H.-3 in Punjab",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to construct a bridge over river Ravi in Gurdaspur district of Punjab and release funds pending under Rural Development Schemes to the States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to construct a permanent bridge on Beas River at Makora Pattan in Gurdaspur Parliamentary Constituency, Punjab",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to develop and beautify Shri Achaleshwar Mahadev Temple in Gurdaspur Parliamentary Constituency, Punjab under PRASHAD scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Action Needed to Combat Drug Trafficking and Security Threats in Punjab",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.2,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 63,
+      "value": 80
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sukhjinder-singh-randhawa"
+  },
+  "qualification": "Under Graduate",
+  "questions": 23,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Corporate Affairs": 1,
+    "Defence": 2,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 2,
+    "Heavy Industries": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Social Justice And Empowerment": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DINESH SINGH BABBU",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 0,
+    "legislative": 43,
+    "mplads": 50,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 71253181,
+  "total_liabilities": 16132136,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 33.78
+}

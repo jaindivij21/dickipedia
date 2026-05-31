@@ -1,0 +1,419 @@
+{
+  "accountability_score": 50,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1496000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 2596000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 104900
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 106294
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 4900307
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1455071
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 341000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 7171555
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=337",
+      "total_assets": 9767556,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 9767556,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Angomcha Bimol Akoijam is Indian academic, filmmaker and politician from Manipur. He is an associate professor at the Jawaharlal Nehru University's School of Social Sciences,\na public intellectual, and currently a Member of Parliament. He was elected to the 18th Lok Sabha from Inner Manipur constituency in Manipur in the 2024 Indian general election as a member of the Indian National Congress",
+    "title": "Bimol Akoijam",
+    "url": "https://en.wikipedia.org/wiki/Bimol_Akoijam"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Keishamthong Top Leirak Imphal West Imphal Manipur, 795001",
+    "emails": [
+      "bimol.akoijam@gmail.com",
+      "bimol.akoijam@mpls.sansad.in"
+    ],
+    "phones": [
+      "9958482964"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "01/03/1967",
+  "eci_state": "Manipur",
+  "email": "bimol[dot]akoijam[at]gmail[dot]com,bimol[dot]akoijam[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2621940,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2279510,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2082440,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1994770,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2250510,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary From Government"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3484121
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3484121
+  },
+  "margin_votes": 109801,
+  "minister": false,
+  "mp_name": "Dr. Angomcha Bimol Akoijam",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 79216366,
+  "mplads_unspent": 67783634,
+  "mplads_utilisation_pct": 53.9,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 37,
+  "mpsno": 5788,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "MPCC Clarifies MP Bimol Akoijam’s Remarks On NRC 1951",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0ttaTd1MnRuNkVDZXlXVjFSUGY4YmZOc29BRkwyMWNUNEFmcHFsdXFGX2JKRWs2RHVJaGtlTE5sdGFIZHY4LUpkNWl2NmNfZUpJd21ZSHBNbnZ5b2VTTnZuUWQ2ZEdod0otc1Fnd1RvX2hqQmFjVTg2OGtHcWVzem5BbVNYY1VUcGdPMVpJc0lpU1E?oc=5"
+    },
+    {
+      "date": "2026-04-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "Congress MP Bimol Akoijam slams Centre over fuel crisis, Census plan amid instability in state",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTBPU2pFN0RlRTcteWl1amJhSEd0VFpSVVFjZE1pZk1BdjBvVVB3RVpaRGZ6bV9LRWVmb2ZmTkxIeTA1TkRsWHVPYzdHakItWG9VQTVnN3ZPMnVvV3BzbHlZYmMtWkoycGtaZEQ5bURFdlV3enQ4TjU4RnowbVN3d25EWmlZSHZxNE5UUktqS3NqUmFZZC1iWktFc1ZZdElzdkRSSmVLWEh3TkJTTlpSYlZQU0JsMDk1Ty1IN254WFRXalJ2T1FXdWk4YVNHSndBd3cyS2laeTJYYTBjcGdvYzl2WkFSaVhGVnfSAe8BQVVfeXFMT0VvdldLaWJzRV9PNlFMMUs5YnYyVnF0bjRhSjJESVIyWl9QNEV3U0djRVhINTJJSXl2WVlGYWpOdFRpSnRhZVJiNVV4cERQejliaF8ySzNBWW05ZmdFR1lmaXp5NFBPaUpWQmg3SWRsR0ZpOGFTQ2R0NkhnVUg3elEwMkNRTWEtTHhGelM1bk5UTG53eEtLb3NNcEtHTXZyRHNpWmRqT1JvWUNJOTVwSEpEWHRwb2JGQm0xcHE0aU9hd3BWTmNwZDRTNjF4RW5FazVNOGRINXk0Q190WDB2MGdTWWRERFRCZnVRMHg0WXM?oc=5"
+    },
+    {
+      "date": "2026-03-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "MP Bimol Akoijam Raises Manipur Crisis In Lok Sabha, Seeks Urgent Action",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2VTb0diRm4xVm5Ddl9aRDhOdUVCWWJFSWRHcUxyZnVTYVRQRTVXTWdET294aUlJTzlTQ3U4YTN2X3pUM0dtTTRvZGFFTFZPV2RuREF1YlliUExxYUtTVDJlaEpqd0dHWjZGYlZyakRsTjNDeV85MmFKaENza3VJTlJ0SE9XZ3I4MEpUZVlCYzJnak8wWnBVT1ZRSEJWOHpIbWpSaWNiNmcyYlha?oc=5"
+    },
+    {
+      "date": "2026-03-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "KSO slams MP Bimol Akoijam for questioning Hill Areas Committee in Manipur",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLU4zZG9wSmNoZGJTeGxYa3pOWl9RRVEwRmVaXzBram1oZzBhajVMQXZTR1dVdnluemt5LXJJS05SN2xRUzdjZDhwZk92X0xLYjdvZVlkdzc4ZEV1Y0M1dFptSTcyOXFYTko5cmx1Q0VRdFhuVHMtWE5RSF9DT3AtN0hTblF6LVZNb0x2Sk1HZlV2QkpBVUlxb1lVbGxNeTg5aFVEWnZIWnVuRk5sSndiYjd3WnNCWEtwTExvMFU4Nm1BMkYyTVJPeFJhbkdTc2ZH0gHWAUFVX3lxTE1hclFSanBfd25GbmN5eFBjbzZYTGlDQjBKd3ZIbkh2NVVqVlJib2lYSWdDOEU4VWdrVEoxRlBPcUVpckUxaHN4a2VlLTBlcWU0LXVSX1NCdW5ka0FSeUotRjZiclVyMVFBSkhHZEVza3VpVTRZLUpEMjktaFoyUHhLYTlibk16RnlKT2d4VmNIcnFERUZuWXNSTlp5Mm43d0lZa2M1REg5UHFieGw5MEd4S2ZPV1FidmRKZ3FkeHVqcEtoalVwNTJUTVpoVmI5c3VEakNHVGc?oc=5"
+    },
+    {
+      "date": "2026-01-08T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Cong MP Akoijam files RTI, seeks clarity on ‘buffer zones’ in Manipur",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUE9wMFR4M1k5NTY0M3RxVDNOWVlSYmxuVlA2U2pFdTVhaEdQbHJEUWxHZ1NVS1RYS2Jqa0l6MnR4amxqN2NrMzBybFZ5SHZuNVQ1Mm1OcXAyMzJmNWFuNU1OaVNzLXliUUV5aUREVGMwWElqbDBWal9NWHNlMmV0ckp2bFU0dUlLUXk4ZnpzQ29aZ1ItRmFCNHE1NEIyS2J1YlZiTkgxUE5RTmhuNlhZdTNZLU9sWkhfSkhQTFdvbWpPOTR6b3hDQ2tuSXc5Ylp3T29TcC1kNkJVd9IB3wFBVV95cUxQZlItYnlQVk1BaUVsMHhlWHd0Z0lrYnM2bWZqSldnenhRLUJ6Y2w0ZHFlNVJlaHAxZ1lOT0RTSjMyN0cyVGJ5MjRFUUlpVEg0WS1La3BCUmN6UG1DNnFEdzdHdDBiMTBPV1NFT3I0LTkzSWhIcTJDM0w1TXdzZTd5cGh2RFNKNlVpRDJKTUViX211SkdmSjdsMHd6amQ4QmdBX0pmbXZwak04aHZXcnlpSDNJcngwYWVQTjVTcDVTV0ZDdElDaE5fZlFZdU5MdjNFY0ltSHpQTmVTSTZGSWkw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3797,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "manipur-1",
+  "pc_name": "Inner Manipur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180293.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Teaching",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 77,
+      "value": 83
+    },
+    "debate_titles": [
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to complete the verification of illegal immigrants in Manipur before exercising the census and delimitation process in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Request for Justice and Accountability for Ongoing Violence in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Remembered and paid tribute to the women resistance in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Rehabilitation and Safe Return of Displaced People in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Statutory resolution regarding the extension of President�s rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Investigation into Disappearance of Youths in Jouzangtek and Ensuring Citizen Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to End Highway Blockades and Restore Free Movement in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt take immediate action to ensure that the properties of the displaced people are protected in the State of Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 9.5,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 30,
+      "value": 59
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/angomcha-bimol-akoijam"
+  },
+  "qualification": "Doctorate",
+  "questions": 7,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "THOUNAOJAM BASANTA KUMAR SINGH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 0,
+    "legislative": 38,
+    "mplads": 68,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 9767556,
+  "total_liabilities": 3484121,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.93
+}

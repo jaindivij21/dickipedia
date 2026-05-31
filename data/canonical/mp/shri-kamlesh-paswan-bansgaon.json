@@ -1,0 +1,751 @@
+{
+  "accountability_score": 0,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 47151500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 29908000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 117800000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 26980000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 221839500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 320000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 20610315
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 24878244
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 20877977
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 39982000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2468149
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3905000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 26949556
+      }
+    ],
+    "movable_total": 139991241
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zMPQpiQrSVohQzrd5BnN",
+      "total_assets": 171706883,
+      "year": 2019
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 171706883,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kamlesh Paswan  is an Indian politician and is a Member of Parliament in the 18th Lok Sabha of India and Minister of State in Ministry of Rural Development. Paswan represents the Bansgaon constituency of Uttar Pradesh and is a member of the Bharatiya Janata Party political party.",
+    "title": "Kamlesh Paswan",
+    "url": "https://en.wikipedia.org/wiki/Kamlesh_Paswan"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "Paswan Niwas Near BRD Medical College Gorakhpur Uttar Pradesh, 273013",
+    "emails": [
+      "kamlesh.paswan@mpls.sansad.in",
+      "kamleshpassi67@gmail.com"
+    ],
+    "phones": [
+      "5512500350",
+      "9013180277",
+      "1123792794"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/Kamlesh Paswan"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 2,
+  "criminal_cases": 9,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "C.C. No. 22/2008",
+        "charges_framed": true,
+        "court": "MP/MLA Court , Gorakhpur",
+        "fir_no": null,
+        "other_acts": "Sectioin 7 CLA Act, Gulriha Police Station",
+        "sections": [
+          "147",
+          "341",
+          "435",
+          "511"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "convicted"
+      },
+      {
+        "case_no": "C.C. No. 130/2004",
+        "charges_framed": true,
+        "court": "MP/MLA Court, Gorakhpur",
+        "fir_no": null,
+        "other_acts": "Section -147, 174 Railway Act, Police Station RPF",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 9,
+    "ipc_summary": [
+      {
+        "count": 5,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 3,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 2,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Mischief by destroying or moving, etc., a land- mark fixed by public authority Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees",
+        "section": "435"
+      },
+      {
+        "count": 1,
+        "description": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+        "section": "365"
+      },
+      {
+        "count": 1,
+        "description": "Kidnapping or abducting in order to murder",
+        "section": "364"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for dacoity",
+        "section": "395"
+      },
+      {
+        "count": 1,
+        "description": "Causing death by negligence",
+        "section": "304A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt in committing robbery",
+        "section": "394"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+        "section": "511"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 4,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 2,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 2,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for cheating by personation",
+        "section": "419"
+      },
+      {
+        "count": 2,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for assault or criminal force otherwise than on grave provocation",
+        "section": "352"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "318/2011",
+        "charges_framed": false,
+        "court": "ACJM- 2",
+        "fir_no": "Police Station Gulriha CC. No.- 001/2011",
+        "other_acts": "Section 7 CLA Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "323",
+          "332",
+          "341",
+          "353",
+          "394",
+          "427",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "CJM",
+        "fir_no": "Police Satation Cantt CC.No.- 1041/2018,",
+        "other_acts": null,
+        "sections": [
+          "120B",
+          "419",
+          "420",
+          "467",
+          "468",
+          "471"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "CJM, Gorakhpur",
+        "fir_no": "Police Satation Cantt CC. No. - 292/2014",
+        "other_acts": null,
+        "sections": [
+          "171F",
+          "188"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJ - 2",
+        "fir_no": "Police Station Gulriha CC. No.- 1032/2008",
+        "other_acts": "Sectoin 26 Child Labor Prohibition Act",
+        "sections": [
+          "304A",
+          "420",
+          "506"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "16389/21",
+        "charges_framed": false,
+        "court": "CJM, Gorakhpur",
+        "fir_no": "Police Satation Cantt CC. No. - 149/2016",
+        "other_acts": "Sectioin 7 CLA Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "323",
+          "342",
+          "427",
+          "447",
+          "504",
+          "506"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "FR. No-. 3781/2023",
+        "charges_framed": false,
+        "court": "MP/MLA Court, Gorakhpur",
+        "fir_no": "Police Satation Cantt CC. No. - 286/2020",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "323",
+          "352",
+          "395",
+          "504",
+          "506"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "FR No. 2316325/18",
+        "charges_framed": false,
+        "court": "CJM, Gorakhpur",
+        "fir_no": "Police Satation Cantt CC. No. - 059/2016",
+        "other_acts": null,
+        "sections": [
+          "342",
+          "364",
+          "365",
+          "419",
+          "420",
+          "467",
+          "468",
+          "471",
+          "504",
+          "506"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": null,
+  "dob": "06/08/1976",
+  "eci_state": "Uttar Pradesh",
+  "email": "kamlesh[dot]paswan[at]mpls[dot]sansad[dot]in,kamleshpassi67[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 8342850,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4944550,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2306380,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4489340,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5516688,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 5245160,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2450450,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 435120,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1376360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1780387,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 320752,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 326941,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 366901,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 330500,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 294813,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary , Firm Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture Interest"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Sections 420, 467, 364, 365 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security, kidnapping",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467, 364, 365"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 3% of MPLADS local-area funds were spent — ₹14.31 Cr unspent.",
+      "headline": "97% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 143089015,
+        "utilisation_pct": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 2,
+        "pending": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "NOTA drew 9,021 votes; the seat was won by 3,150.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 3150,
+        "nota": 9021
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 28095161
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "36,44,025 36 Lacs+",
+        "value": 7188049
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 35283210
+  },
+  "margin_votes": 3150,
+  "minister": true,
+  "mp_name": "Shri Kamlesh Paswan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 3910985,
+  "mplads_unspent": 143089015,
+  "mplads_utilisation_pct": 2.7,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 121,
+  "mpsno": 4303,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-07-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Kamlesh Paswan receives grand welcome on arrival at his Bansgaon constituency after become MoS",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORVY1V1lMNTlsYWpHOXEweU9za3RvUnVudF9jMEQxc1M5Zk1UVDk3Q0NtYzhoWkVQWUpyajJhOHF2TEFVWGEzZG9RR2ZNM0hJeERwcE9tSnBRZEVLOFdhN2l1SWhEVG91R3hRNlplejJjTjV2Y1pFR3pOdnBUY3RvbDdYRXZHYjZJOEFTbFJnbDNYbTg2LVFpUVo2S0hDYTJxaUJyTGN5bk51MS0yMFpLUW9CWlpVZlpUdUFDVGZMUHl4bHU3OXhYTkNmb2pablRtMzA0M2ozUG9MdWltQ3hLRXNQdVFwc2pjaDNNcUFNWQ?oc=5"
+    },
+    {
+      "date": "2024-06-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Four-time Lok Sabha MP Kamlesh Paswan takes oath as Minister of State",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV25TTE1HZlgxelBHWVU1RVBSbFRuR2NNY2hjLUhMNFcycWpCMUdDQ3hVQklaSUlTZUpjS3ZmVXoxekJ1bVhiQW1fM29Bb3pNSFhGQjVMTkhMcmdRazcwVUtEOFdobWludVJqd2p3T2dSMHp4N0ktQmVfQlU5QkNFVnZjSjVmLXpuV2FRR1RaTXBfODd3T094QkwweHBfc0MzNXFGZEFnVExFZ9IBrwFBVV95cUxQNDNJNmt6bHM5TG5icXVQMWRTQTVfMHJBMDV2N19Kdkdoa2tNNmVCdkU4OEw5REl5Q2ctQ3A2TnFaaFZ5Z25iSXVyVlNsLWNfSUh4WjhXZjU3NXFBTHhzSmtGUWZkSTJfS0d1OGhpaDltS2llMXpCWHJIMmIyTHg4XzFuR1dNZUV2ajFHY0loNDZYa1JSdjB5bExoRXFQdGZhekxEZWVHNjRHXzdVSVdN?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "PM Modi 3.0 council of ministers: Who is Kamlesh Paswan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNU4zOGhVM2o0NmJJUmo2N3dKQUxhbjhweG9oRkVabmxJcC1Ecml5Q0lYNjRzV0JSZDdFVGFwS0hzRFQydTNIV29SbE9mNVFzVURhZUJKYVZwNE16LWNmWm5uems2Q3ZwUlZERkQxQlpia3l0cFE5alJudWxrbWREMmRJaVNkM1g4WDJrVnZjYjA0Z1VYVHZiQ0ZpdzVtUkRsc2dDY0poa0F4aEx0R0Zqa2N5R2RaS3NGNXRYdVUzUdIBxAFBVV95cUxNSHdCMGFkbXMzUXVPcEVqMDNXa0hERFE5VGVUblJiUFp3bjNZUkVIaFJHU1JHX2tMNXZIN3F6X0RxejRDeTlvdWtHd0RZa1JSSTgtdVMwc0dvRFRjVHZqYURGYTRsRDVsRGtvUDBUSnR4eUJfSExTTFEwc2piVHhMQ1JKNE5rNk9pek1iREs1cjRjZi15X21zcjA0bkFmZXJSZnZNLUZ2S3ZhUDV5LUN2bUgxU2RYWThtbjdjeWVqQmd1a0Vz?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Moneycontrol.com",
+      "title": "From Kumaraswamy to Chirag Paswan: Meet the fresh faces in Modi government 3.0",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbjlhZm94MHBxTlhwSFpEV0Y0MndCYWRnTmRjbHBtZi1EWUtzWGk2bzV4dnMtbDcyOUlRMFBNX0FXWlE5dmNCMGxTSjhfY1VaTXdjLUN6MWJWb3JxREhpRzRVekF1d2t3MWUxUkROVk91aE5GS3ZOS0VVR3NLTWw3Rl80dlUzN0k0QWZPWElmLU9kamFyTHNSM3h1dWJMbmJvbjhVaW1JYlFIQ0hZZ181Z2c1SVhUaTJaWGljWVd1M1BueUlmWEtJRjJHT2d6bW9DV2tuQlNyNXFnblo3MjRRdWRxOTdMNjNRTC02OU1n?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Kamlesh Paswan Becomes MoS After Fourth Consecutive Lok Sabha Victory",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRy15SXhiNzI5RXJQNHFqREVTVk1QN0EtVS1MM2VqVVd0SDVCUDZueFEyU1Y4Z2lIbGl2VkZpSUtrYVBOR2JKSXJOY2Nhajh5d0lVdXBhQ0EzZTg1ZWhUVndJMGM0bU4yUW52aF9tWDNqUFlVbFNTUjl6SXk5SS1TdGJDUEVkcm9pVTk1dEJ4cm9Ncl84d09tLTZTSjVTZw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": true,
+  "nota_votes": 9021,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-67",
+  "pc_name": "Bansgaon",
+  "pending_cases": 7,
+  "phone": "Tel : (011)   23792794, 09013180277 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180454.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kamlesh-paswan"
+  },
+  "qualification": "Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "SADAL PRASAD",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 40,
+    "legislative": null,
+    "mplads": 3,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 8,
+  "terms": 4,
+  "top_inference_severity": "extreme",
+  "total_assets": null,
+  "total_liabilities": null,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.38
+}

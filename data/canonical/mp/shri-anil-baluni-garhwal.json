@@ -1,0 +1,403 @@
+{
+  "accountability_score": 18,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 19100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 23100000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 100000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 13202991
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 400000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 995800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 14698791
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=273",
+      "total_assets": 37798791,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 37798791,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anil Baluni is an Indian politician who is serving as the chief spokesperson of the Bharatiya Janata Party. He is currently serving as a member of parliament from Garhwal Lok Sabha constituency since 2024. Prior to that, he also served as an MP for the Rajya Sabha from Uttarakhand from 2018 till 2024.",
+    "title": "Anil Baluni",
+    "url": "https://en.wikipedia.org/wiki/Anil_Baluni"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "A-2, Pine Wood Tower, Nainital Road, Kathgodam, Nainital Uttarakhand, 263002",
+    "emails": [
+      "anilbaluni71@gmail.com",
+      "anil.baluni71@mpls.sansad.in"
+    ],
+    "phones": [
+      "9717798638"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "02/12/1970",
+  "eci_state": "Uttarakhand",
+  "email": "anilbaluni71[at]gmail[dot]com,anil[dot]baluni71[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1233250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1214260,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1193100,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1210090,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1284010,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2910100,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2247570,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2766690,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1902300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1686758,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary rajya sabha"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary Uttarakhand Government"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹14.57 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 145734549,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 163503,
+  "minister": false,
+  "mp_name": "Shri Anil Baluni",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 1265451,
+  "mplads_unspent": 145734549,
+  "mplads_utilisation_pct": 0.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 11,
+  "mpsno": 5557,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Direct train between Ramnagar and Dehradun soon: Anil Baluni",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVZ1a0htNWpnS283M2NrSDZ6NTVPTmZ5ckFmMFppeHo3cjNlQ2VfaW5MSG1WWlI5cU0xbTNJdVVnVllldmZWVFM2SUt5M3JCMklrLThjX0dWVHkyTzBGMFV5czRLUHdnYjdtd2NZSlViUGRrem5UVVhrY3lHVWl4QWd6NnM0YUFuWm9J?oc=5"
+    },
+    {
+      "date": "2026-05-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Boost for U’khand connectivity as Ramnagar–Dehradun train cleared: Anil Baluni",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUpSYmJDSW15M2NXeFhaNWVpXy1PV1A3TWQ0VEFoNlFadjAwc1hJeUp4Z1VneEx1OFZUQWd0ZmMwT2JxT0NkRnpqNExlczFGSnllUU5ZYk1fa2w2WHB2T243OS1tTkZQVVlvcU9iN3VjYTlVb2ZjNkV0MGtvWk5ZZXhOdm95Skh0VEJiR3kzQ0RVd1dwRldjRHh5dHhOVmd4dGc?oc=5"
+    },
+    {
+      "date": "2026-03-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "BJP MP Baluni plays Holi in 'ghost village', seek return of ex-residents",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHF6QUE5VktXb3Jfd1N1b3doa2pJQjZBMmQzcW9DX3ZubkZzN2J5ZlRwODlzNlJEOVJ5MWpUbXlUYmJ2TTBHczVpU2ZsZTltczVvSkdJeXRqT3pXWEROU09OMER6RUNxbnYyRkVKUGpvbUsyaXV2TjYzdmt3VnNMbXpreHN0U0laU0tlY080Y0ZLb0l2MGNPS0xrdWJUZ3lQV1NMTEtTeFg3Ynl0SU1NLWZLRURSSjZwbVZrcHRySTVmczI2QmkwczN3cGlXazJad09F0gHYAUFVX3lxTE9nbTJqbFFJQWZkN0lzTThKc3N6M3VyTWIzM2hhcFFyY1JkeGZjSlhDNHl0OU15dkVScWY1dUluc3RkMXBUUjNZM3NHVjdOejk1YVRMSlBIOEh3TnV3QzBmNkIwWWVLWDRjTHM5LVNUanhwTGJwY1ZGTmJtcTJyMEFWa0J1MnNOZW1fd2tKeVpLSXhON3ZQLXBwYk9nenpCRGlaMkhaeFo4amItX3J3b0RsdzFDZWhCb003bTBISDZzZlJxczJGbXVsUTNZaEc2a2lGRmVpSS1RTA?oc=5"
+    },
+    {
+      "date": "2025-11-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Uttarakhand Man-Animal Conflict: All Activities Halt In Garhwal Post Sunset, MP Baluni Seeks Help From Union Minister",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWNRTnU3TlU0UjY0RGJoRUFubC1OLVRWS3ZWdTRITWN0YlpxVFc2WlBvTkdadDFacEpSYUUxWnZCbGtlbVRiWWFXZ0RSOVdHUGNGR2MxT1BmcVk5aHFqT2xEaThZQnFQNnJQQ0owV1RXdWFhbWFrMDBrVEI5VEcxS2NPRUdGSDhvMVpnMjZvWWMyUGlGRVFPVnpfb0RWY0s4a3RrRjMxaVZQSGhXMVJoaEZnNnVMSXJLbXdmZm0wNlZEdnpRS0lOSkNyU3poVEZpdXBwTzZhZEpLVF9uTWtlTXdnRdIB6AFBVV95cUxOX0U3NXM4aFlHaEhrVGVmSTkwalg2WG9laWZXTGIzd1RkVkt6RzFpT0NvMjZ5S3NPMDZvMXRYYURTX3VzcVItalkydERvVFJDeHB3RmJJTVNiMTRXYUxOVGZURUxEQlktTUU4NG9DTkF4bUYtbFlNWVVKS1h1cnFWTHNGalh0elhTRTBpR0JMMTlBWmM0Q1VlZURYWXNvQzdOTTlZOWZabWNjS19Ddi1vallXcnA3UUpWTXNpSXhkZ0pNTlNnUkcwSzhfOWw1X3Y4MldRUWpfcVc2Nl8wNnJTWUlXaDJTZ21i?oc=5"
+    },
+    {
+      "date": "2025-11-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Amit Shah participates in Igas festival celebration at MP Anil Baluni’s residence",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmlhMGRJYkNpcFpucGJtYzlGQlBqVy03VVpsSjFaUm9XZ21lYlpyN3lwaTFwVGZXUkcwdnNGT3FQSU5lblNqZW1fV3d5bEMzTEwxOE5admVBUVo4dDlRMmZZQzBRdmlReGtKczlwQ1I4VzltdFBCb1dYUkZWMDNvaWhybTJhSEJpWkxxN0JLQVN0a19kZzhOb08tMUszQkl4UkxwdHpXdw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11375,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttarakhand-2",
+  "pc_name": "Garhwal",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180499.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Appeal to Address Rising Human�Wildlife Conflict in Uttarakhand�s Garhwal Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 9,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 14
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anil-baluni"
+  },
+  "qualification": "Graduate",
+  "questions": 3,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Cooperation": 1,
+    "Home Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "GANESH GODIYAL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 18,
+    "criminal_deduction": 0,
+    "legislative": 30,
+    "mplads": 1,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 37798791,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 58.6
+}

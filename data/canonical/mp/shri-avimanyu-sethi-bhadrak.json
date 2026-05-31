@@ -1,0 +1,423 @@
+{
+  "accountability_score": 24,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 12800000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1210000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 19500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 33510000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 357383
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 910190
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 19177555
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Health Insurance MET LifeNo 0053xxxxx 6,94,319 6 Lacs+ Max Life No 87307xxxxx 6,",
+        "value": 6286162
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4699500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 853500
+      }
+    ],
+    "movable_total": 37284290
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=WMhEa745PFy8H8JdJWEG",
+      "total_assets": 47223493,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9413",
+      "total_assets": 70794290,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 50,
+  "assets_latest": 70794290,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Avimanyu Sethi is an Indian politician from Bhandaripokhari, Odisha. He was elected as a Member of Parliament from Bhadrak Lok Sabha constituency. He belongs to Bharatiya Janata Party.",
+    "title": "Avimanyu Sethi",
+    "url": "https://en.wikipedia.org/wiki/Avimanyu_Sethi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Shree Jagannath Gas Agency, Biswal Market Complex, Naya Bazar, Bhadrak, Odisha, 756100",
+    "emails": [
+      "sethiavimanyu@gmail.com",
+      "avimanyu.sethi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9937011133"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Transport Contract with HPCL By M/S Shree Jagannath Gas agency",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "29/06/1970",
+  "eci_state": "Odisha",
+  "email": "sethiavimanyu[at]gmail[dot]com,avimanyu[dot]sethi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1829440,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1555910,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1503730,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1270090,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1210970,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 825280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1025850,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 906640,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 444950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 412628,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Partner Shree Jagannath Gas Agency, Bhadrak"
+      },
+      {
+        "person": "Spouse",
+        "source": "Partner Shree Jagannath Gas Agency, Bhadrak"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 9% of MPLADS local-area funds were spent — ₹13.39 Cr unspent.",
+      "headline": "91% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 133942038,
+        "utilisation_pct": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7809172
+      },
+      {
+        "category": "Shree Jagannath Gas Agency 28,50,000 28 Lacs+",
+        "value": 2850000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10659172
+  },
+  "margin_votes": 91544,
+  "minister": false,
+  "mp_name": "Shri Avimanyu Sethi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 13057962,
+  "mplads_unspent": 133942038,
+  "mplads_utilisation_pct": 8.9,
+  "mplads_works_completed": 12,
+  "mplads_works_recommended": 271,
+  "mpsno": 5610,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhadrak election results 2024 : BJP's Avimanyu Sethi triumphs in Bhadrak Election, Defeats BJD's Manjulat",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQbklUOEdENHdUM1R2eHRWNlpGVklCMUdESGlndWRTWS1mN0U0anh4N2hUVVFNa3V3UHplUlhsM29WdVhhcTdwb2ZmeUQ2cEt4NF9GRUE3aGxkX1hIMTg0RktzRmVzTDF6eHJXNlhMVnNMVFRwRWppTnd5elotRjh3dFNIMFpfR2RFdkpwN3l3WURjd3dkTXl0U19BUUdxcVlRejZ1LTVPVzMwX25maFhrcjZzcWtxTGJ0enJfR1ZCcmh4cWhLNUxqdTg4SkxBTENQNDJmS1BJTFVUWnR5SjRnTnl2Y2tGckdOMmVVVWJoR24td2gtbVJiN1RGYWtWSi11aHhtd25xSTRkUllKVEswSk9TQWx1R3dNVC1GTHdWdmM5aTRvenZrdHNMOWxacll0ajJjQ3h2MnM0RFFDQmtOSTVaN2k4NUdXaElILUE1Rm1YN1JO0gHaAkFVX3lxTE8tY3FjNkR5ejJab2NUd1dSSU54dTNTSkFrWTA0X0daa1BnVmszTDdBSm02bldGMEFvOGllUzh2SWc2d0xBZHo0Z2JBX01VakVMOG52SWljVldsNG4yOFN6VEloMFN5V1I1bXNaRnJyX2QzZGN1VS1NeHF1VG1mZXhzUllid2NoNzBZM0JreFk1VURMdWo3TWV0TUluTjIzWGY0QlI3NTBSazRSSVY4eFFuSFNaT3J5WE1jZFQ2Ujl3RlFSaW1SVkFPa1dacUtpX2pnc3FCSUNPMFluTmxFQ0VMM2tqLXJOeFhqdTlLSzEyakVfYVRUWmY4MnduOHk1SjNWQVl6N242M2ZYRDQzOGFFWHZObGRpVDdLaFUxdElOb3BXYkFGQmFUMkl0Qm9KR19QQkI3dV90aHZtSjFXRHZzXzB2OWFadHRHeUNQa3JLU2pzWkNsanBQU1E?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bhadrak Election Result 2024 Live Updates: BJP's Avimanyu Sethi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQng1UGk1djF5LUZ2Q0g0UXlrLXVfbWJOWElRTV9wWTVJeHExMjRWUmlMbHUyQlZBcFE4MUc5N25EazctNzVFMEFhWnNzT0FHUXhLZHJUSzZvcDUzVFlaemU5bk96SlRhemJtYlJrMmRWdlRUT1ZWUE1vZGVZTDVFRjVFdTN2RUpmNWR1RWRZODYtRm84UmRzSXhRSm9uYWFfSUNkQnJwMGZheHdBck1SSGJHZGZBWHJEd2RKUzZZUy3SAc4BQVVfeXFMTzRVWTg2QjliSm5KWmRfSUVfZ19wZEtDbzljQjVORVdkQXhNQkEzejdZNXRuSWFRdkF3bWxTMlZaV0lmV2VIMGZud19hYUhMS0k2V0VzRUxiMlFiRVE0dlVIa0JTY0hOd2ZWdklPMVo4QjlzM2VIbjNBNVlKT1NnUWo5UmFhMmJ5SkQyUlAwU0tPODVrSk5qaDh6RHRsb0U2R1h0eGhObk1jRWg4WmFlbW5oODN2RnhQTFFnS1hxZ2NCOFJGdWtydHpSRE1nRFE?oc=5"
+    },
+    {
+      "date": "2024-05-24T23:57:21.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Avimanyu Sethi, Bjp Party, Bhadrak, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnJCLW53ak15MzRaSHpRX1RYOWMyRzZ1czlmOVluLXFhZVduUUVaVmt3X0tDdVdOSVhFM2xXSTZ6UmJ4MktRWWRtNHdzVDgtMVJDdDRtUy1wNkRlWUxQQUJ3QjhhLUdNMWUwX2hldjlBVy1UTmRiRWRGY2NXRzRjYWdJZkh2S1BCeklObFk1TzlXMER1Wms3QXc1VFdob2FkWjJGNDdIeDltb2xCOUJxaGVUSFk3WWtMaG9oSC15anBEbGVpN01Ld1o0QllWSDhhMXg3QzVMQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5478,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-7",
+  "pc_name": "Bhadrak",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180301.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "23.03.2026",
+        "title": "Demand for Bringing Back the Ashes of Netaji Subhas Chandra Bose from Japan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Restore Train Stoppages at Key Stations in Odisha as before the COVID",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for more information on proposed Highway between Dharmapuri and Jamujhadi on NH-16",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to curb illegal immigration of Bangladeshis into Bhadrak in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 58
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/avimanyu-sethi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 5,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Road Transport And Highways": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "MANJULATA MANDAL",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 24,
+    "criminal_deduction": 0,
+    "legislative": 30,
+    "mplads": 14,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 70794290,
+  "total_liabilities": 10659172,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.19
+}

@@ -1,9 +1,3 @@
-// Pipeline step 20 (runs before 17_merge): MyNeta's own "serious criminal cases" determination per winner.
-// MyNeta/ADR classify a winner's affidavit as carrying serious charges (offence punishable by >=5y, non-bailable,
-// electoral, against women, against the State, etc.). That determination is published only as a paginated winners
-// list, never on the candidate page — so we read the list and record the flag, joined to pc_id via the crosswalk.
-// This is the AUTHORITATIVE serious signal; pipeline/lib/serious.ts derives a per-case split that is cross-checked
-// against it in 17_merge. Source: ADR / MyNeta.info (from ECI sworn affidavits); non-commercial, attributed.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';

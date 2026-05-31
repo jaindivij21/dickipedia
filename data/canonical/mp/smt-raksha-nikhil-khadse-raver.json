@@ -1,0 +1,368 @@
+{
+  "accountability_score": 45,
+  "age": 39,
+  "assets_2019": 172713734,
+  "assets_2024": 182117790,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 54094000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 83302000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 9206250
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 22983000
+      },
+      {
+        "category": "Others",
+        "value": 450000
+      }
+    ],
+    "immovable_total": 170035250,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 450000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 34928307
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 37687932
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1315786
+      },
+      {
+        "category": "LIC Policy 18 88,72,529 88 Lacs+ Max Life Insurance 1 10,23,572 10 Lacs+ HDFC Li",
+        "value": 25269220
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 7075500
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3805900
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1470000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 112002645
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Dt2e55i2SVhqbrqYL76n",
+      "total_assets": 144222841,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Dt2e55i2SVhqbrqYL76n",
+      "total_assets": 172713734,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6921",
+      "total_assets": 182117790,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 26,
+  "assets_latest": 182117790,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Raksha Nikhil Khadse is a politician from Maharashtra and a member of the Bhartiya Janata Party. She represents the Raver Loksabha seat in the lower house of the Indian parliament and is a Minister of State in the Government of India.",
+    "title": "Raksha Khadse",
+    "url": "https://en.wikipedia.org/wiki/Raksha_Khadse"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Muktai Kothali, District Jalgaon, Muktainagar, Maharashtra, 425306",
+    "emails": [
+      "nr.khadase@mpls.sansad.in",
+      "rakshataikhadse@gmail.com"
+    ],
+    "phones": [
+      "2583235235",
+      "9823590590",
+      "1121400755"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "13/05/1987",
+  "eci_state": "Maharashtra",
+  "email": "nr[dot]khadase[at]mpls[dot]sansad[dot]in,rakshataikhadse[at]gmail[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 8953390,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 8582280,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 12995360,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 12079180,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5091010,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture And Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Passed Away"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹14.72 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147240613,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1593805
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Jagdish Patel 28,00,000 28 Lacs+ Saga Seeds 1,51,100 1 Lacs+ Muktai Sugar And En",
+        "value": 6142576
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7736381
+  },
+  "margin_votes": 272183,
+  "minister": true,
+  "mp_name": "Smt. Raksha Nikhil Khadse",
+  "mplads_allocated": 153112586,
+  "mplads_expenditure": 5871973,
+  "mplads_unspent": 147240613,
+  "mplads_utilisation_pct": 3.8,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 9,
+  "mpsno": 4722,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-12-24T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Children competing are India's Olympic champions of tomorrow\": MoS Sports Raksha Khadse",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVl5aUwyUGtWMzhZUW1mdjJtZzdUcFFNSzhqYWU2c2JrcHFfUXRSNVBwOHV3dG1WU0NTdS0wcnFfVloyNGpJdmk0UGFuWThhdVJUMUNnbUNtd2FzcEQ1OElTMUdBX284OUZtTHFPQ1QzVTV3VFhfbjlDekhWYXl6eVpOSGdmNTkyX0RzS3Rsci1TaWdXNzFfQ2J1bDZTOTVqcHNrQnVZTF90V2FlRldqQW5fS3VRdlNSUm50eURXeGxUQnBKMXhxNnE2OFZRQ0RiNUpkaTBEYw?oc=5"
+    },
+    {
+      "date": "2025-08-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "- Khel Today",
+      "title": "Raksha Khadse launches “Khelo Raver – Sansad Khel Mahotsav” in her constituency, urges maximum participation from sports fraternity",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTzRCeF90WFl3dE9qTzBMU2JRdW54ZGtyRXRqZy01a2lYZF9FT0s1VlB5SC10dGlGV3ZMMGg5LS1XdjZBR3oyRjIxX0VNQWVFM0hlQ3Rmb3B3VVFVZTlmcXNiRVlMblZNOTRwa20tNkVicVFNOUtZUDRodW5oeTI0WUs4ZTM0TnVUbUtmaU82QTRsMW13SmhMY0I1U1Z3eEN6YjFmb2ZWc1lHTWI2VWJvQnYxQXptcmlvVzJRdmNWcFdhZ3VwLVJnRmY4NlBTREIxay1Oa2pKYUExbG9lSHlFaGlYLWh5WEdrSXM1aUpFS284VkNhVW9mRndVSGtrZw?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Modi Cabinet 3.0: Raksha Khadse youngest, Jitan Ram Manjhi oldest in PM's Council of Ministers",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQW05WkwyNHc4QkNtR28zTVEweHd0NTd5R29GeFczLWNOQ2FWWFJpbTF3T1BncE52UVpFelQ5R1BrLVN3NzdMdzJHSVRhckdiajlNOW51YzlBZW02V1k1X3A0SV9WdFBrdFdseElVZGl4Zi0zNVNQODU2Q0ctM1AzYkhEeWtrS3Jod2Zxb2l2aDRBS1dPQ1QxS2FCVHV6VGFkWW5kZGFBeWtCSlZ3TVRXQWdHS0d4TE1ST1Yzc1NpRkkwdmxPVzN5RXdMejJ5UGhyb3ltU3ZDaDNhUdIB5wFBVV95cUxQMXhfVWlFZjloeXlLNUVkNFdlV3ZDdV9rVlYtWVIzN3hMUmFCZzhVNjVRS01TVGptaWNkNEY1SExuNEZmanppWWJ5TjdJdHhULWxUSkZOc2hZcXNRR3V1OGxjUW9VODlxQm5pQU9OaXRFZEF3ODBkNEhtWkdMZ25GREQzamV0cjU1TWdUb0RJN0UwN2lfUEJ5TzVnaFJoMEFkQjJsSC13WGJoV25VaXoyT3lkMldPRmVEWmRLTlM4SVNkUExpT0xqRkRjelR3OWNxX0xoMFg5dzVKUGswOUdrNjUyRGU4QnM?oc=5"
+    },
+    {
+      "date": "2024-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mid-day",
+      "title": "Exclusive | Lok Sabha elections 2024: I have been working for development, says Raksha Nikhil Khadse",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWJ0bE96MFB5S3huRm1lekVYMFFDa1BYVjRzQ0xfa01KY1psdnJqVjNlT3lJV2JzYTIwZEx4U2Y1akl1TEhWN0c5MGFTMGxZRkZvbjl0dkxSb3ZWZ0tLRzczRFpSS3YyaUtKbl9sWC0zci1WbnJILTVOa1VJQmxUNDB6QTRNb3R2MzJEa1RqeU52cE1UMkM5Q2RIc3M3Q0JNWExkTTJEQU80ZEZ1YmdnTVBkR1ltRUdFZGRENDQ5ODNkVF9ieWhVeWZ1enRxeEpnSEpJYUZzY3Fyd1lEM3FBNm9ROVVBY2pqMXFzbdIB8gFBVV95cUxQbDJ4X2FGbmJ0aXBucDgwN1JlY3RHT3E5cGhpcDJtaXBnbTVueDRMWHBUQ21RS1hGTWxKVEM3dERoRHdEWkVfTzViWHVUeVN2bWppVE9CdUlGbUlwSjljeWhaSG9rOUQwX0lBWnBfTmdBRk52ZTcwQVBLdUMyVVdxMm91WmkxMUJxSnNGeUNFWHdOdHJKdnl3YzZwRVF3YkNhSWxIV0ViZjVxVHNZbnhyYTUwU3MwQzd0OENjTHlnN25aNGlwUHJtTEtWWXh0Rk41M1lQX0JQcm5wdklPYnVDLUczT1Z5a05FbDUzb3RVTWZSQQ?oc=5"
+    },
+    {
+      "date": "2019-06-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Video | Young India's Incredible MPs: Raksha Nikhil Khadse",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlpFZmlYVVp5OUlNTEhXdlRsSkV5Z1FpdFJNOHlVZzk3THVtTUVMQzRFeUxMRHJRYURmZmRkd0dwUEJyR001cHE3OUhxMHRieVRnZUl6VVBrQkF5LVZKWGpQdzBBQjA1anBIVU1VNlZHalJDX1pxX2Rrb0pqQXZfSnNzR3RiUVJwMW9N?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4100,
+  "notable_record": null,
+  "num_candidates": 24,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "maharashtra-4",
+  "pc_name": "Raver",
+  "pending_cases": 0,
+  "phone": "Tels : 011-21400755, 09823590590 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180278.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/raksha-nikhil-khadase"
+  },
+  "qualification": "Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "SHRIRAM DAYARAM PATIL",
+  "runner_up_party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 12,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 182117790,
+  "total_liabilities": 7736381,
+  "wealth_pct_increase": 5,
+  "winner_vote_share": 53.84
+}

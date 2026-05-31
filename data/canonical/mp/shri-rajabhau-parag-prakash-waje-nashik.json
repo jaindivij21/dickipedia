@@ -1,0 +1,568 @@
+{
+  "accountability_score": 34,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 81266515
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 31092395
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 19983926
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 448200
+      },
+      {
+        "category": "Others",
+        "value": 3500000
+      }
+    ],
+    "immovable_total": 136291036,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 91000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1548153
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 7951115
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Insurance Mahamandal Policy No 965523244 2,71,440 2 Lacs+ Insurance Mahamandal P",
+        "value": 290580
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 7213194
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3574700
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1677600
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 22346342
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=dQjD8gGXiZDcUk7p7Qcn",
+      "total_assets": 79622997,
+      "year": 2014
+    },
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=dQjD8gGXiZDcUk7p7Qcn",
+      "total_assets": 102413448,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7124",
+      "total_assets": 158637378,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 99,
+  "assets_latest": 158637378,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Shivbapur, Nashik-Pune Highway Sinnar Nashik Maharashtra, 422103",
+    "emails": [
+      "rajabhauwaje.mpnashik@gmail.com",
+      "rajabhauwaje.mpnsk@mpls.sansad.in"
+    ],
+    "phones": [
+      "9822448127",
+      "9960277777"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/RajabhauW"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/rajabhau_waje"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "14/12/1965",
+  "eci_state": "Maharashtra",
+  "email": "rajabhauwaje[dot]mpnashik[at]gmail[dot]com,rajabhauwaje[dot]mpnsk[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1892532,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1764066,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1571497,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1478459,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2049463,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business- Agriculture, M. Shankar Rao Balaji Vaje H P Dealers Petrol Pump, Sinnar"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹7.90 Cr between affidavits, while declared income across 5 ITR years totalled ₹87.6 L.",
+      "headline": "Declared assets rose 9× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 79014381,
+        "declared_income": 8756017,
+        "itr_years": 5,
+        "ratio": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹13.16 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 131567077,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1918865
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1918865
+  },
+  "margin_votes": 162001,
+  "minister": false,
+  "mp_name": "Shri Rajabhau Parag Prakash Waje",
+  "mplads_allocated": 152878682,
+  "mplads_expenditure": 21311605,
+  "mplads_unspent": 131567077,
+  "mplads_utilisation_pct": 13.9,
+  "mplads_works_completed": 12,
+  "mplads_works_recommended": 95,
+  "mpsno": 5790,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Nashik election results 2024 live updates: SS(UBT)'s Rajabhau Prakash Waje wins",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObDM1WDg3S3dSM0Rzdm1aeXJBQjJlemVzalpLczROOU4wNDJaVXRieFgyc1R5YjJwcnFQYjBmeGxPbFh2V0V6dWxFUVRHejFwa2Zlck5sRFNMTnFNbHpZZW1GYk1JdmlNaERZUnMzLU5SV1lteF9mdWk0ZXFqeGh5NERnUDFGTmZhbm1sOGRlZkhTZXRVLWdjeXdGZUxhRFNkamcyUi02djA4N3VfOUFUU29HWVJ4TmNkazFTOEVuMHd1WVBhUTAtcWlTeHotbm9FZFk1QVhUU1JaY3Jyc1hpS2FfdzFwTXVWTHZacnJZRXUzYlJr0gH6AUFVX3lxTFBOWjVVZ0NIeGVVQ1pqNHJVZ2lmbWxMSzBpVlZIRWw0RUlVX2o3cTRVR1VGT3NSNkNaSTBEX21lNDJKWjRFLTBYd0kxX3FFWEF1WEpvOWNzT054cmdibDg3ZGpjVXUtLWdtTEZGRU82aVNKMXM3ODBsSjNlLWpjNkZRa0hiY2tjRzlSTTdsbGVHZFZ6MzJ2Vl9SZTNtOVlVY29ZZ09DYlRNVFNVRkloTWpUMXEwc1VaakxLeEVUMUs0aGlBbzEwT3RZWmE4bG5iQlN6MXM0UXk2V19OQ0diVHNURUFkcjZabWRHLVlBNlJQTlZzS1dReDhRZFE?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Nashik Election Result 2024: Shiv Sena (UBT)'s Rajabhau Waje defeats sitting MP Godse by 1.62 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYWhqM05MY3RWUzNJS1NKdnJXWVFDN1RrZEdxSEktdjZGUXBUQnNiUGxOUzd2NC1fVWVOaHpRYzlkb2ZNbE95a3M5ZlU4VVBQNWFKQndBRXNFOUF1SHJaRGp1UDJQbjZhZ1hSTGhmVmhYeUJNTm1rN3JXQ3N3SmpLQlJlTk9TbFNPNVozVVBrZUZLMkpOWm1VVktKR3Nha2hFa3dtTHBIY2FNWFNOV1ZpTGdnUjBQTDJycFpoc3REVlRJbmxxcDd3bVF6eDY2Y3UxM2pwSUt4b1RacnFQOGFJTnNHVGx6d1XSAewBQVVfeXFMT0JNSzM4WlcxcjdpaWV1dndmb0psWjM1aVZSZjA3YTVNNWNmVVZhNzc2a1FjU1FfdHVaRFhyaExzQXhWMWJVNWwzdVRQSEZOME8zS1NzMDhpQ1FTVldwU0M1bmNzaXNkU2ZCUW4yU2ZKdUlUd3E1aHZQeGo3V1VscmoyeFlqNXplT3pqSzlnNW9UdHE3V29YWW5YS2RMeFNIRjNubEd0M1IzSFJsbmp0bnFIc0xoXzV3R3N0MXJBckE3MkNsRHlhTndSclgxNzZsRHhjYjRzWWo2XzQ1MkQ4QjBQd1lQeV9iS2NRZFc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Nashik Election Result 2024 LIVE Updates Highlights: Rajabhau (Parag) Prakash Waje of SSUBT Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXMyVzVDSGJhTFdFS1BiYUdLX2U4VE51R1hOTUhTUld1OFdqMXpwSldmOTRyM3RKSGMweFFfZGdRanRibjBjRy1Ra2Nfa0drdDFXSFZvc200NFIxdFJsem93NnRvSi1LT3FqX2Y0N0JDYUV6RVRMckdqQllJaDRHdXNfRWVKNlk5cmhFczBzaENyemRTLXNSZE1IbTlMUmRzUWI1ZHBVRUlOWFcyMm5HN1FuQ1lYak1NRTR5N3BnME9BeG5wNHk3QVpwWDlwU08zdmozS2pVV0VlZEptX2xEZNIB5gFBVV95cUxPenZJTXFWUngyLW1iQThZYWR1NGNtLXNRQjlfeUNQbl9qb1VMZUNXQkVRMmFGempuc281RTk1eVpQM19BVjlUQUxUaGhlTE5sZVpFa2twSC0ycHZaVXNLWjctY0F4aWNjeFdXUWRwRW5EcENleU5nVUwydjlQUXdtUElPR2lPX3FmeThpQlBVakNyeUc3VHNGTC1oYWRJOVhjMzBkbkpGVTlCZW1ISklVMlJfTXo0b1BRTUt2dWdYNy14RmM2UF9uV3Z2QXVmNEZ6U2ZYeHB3RE5aTmR0dVJ2eVIyeUQ2Zw?oc=5"
+    },
+    {
+      "date": "2024-06-02T23:24:29.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rajabhau (Parag) Prakash Waje",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEZJdmpEU3BTSF9QOGxaUXk3dGE1c1V0V01kaE9kVUliSGhBLTdDdzk0S2xlVzktNmJsWml3b1ZkVklYaXlQbmQtVEtDcDJhQmpmb3pReUVZdU55cVFXdEJNSmF0NFVseWJrUUlFYm9WZnhMX0RmTEVmNEFOeWloTjlZNEloT1YzdzRNb2gwbW9iV0hHSXdn?oc=5"
+    },
+    {
+      "date": "2024-05-21T04:40:50.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Rajabhau (Parag) Prakash Waje",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZktlelRydWR0SGJmc0xkRC01YkxiVk5kb294eTd2anRibUFVbG9JNVdGSF9fT0ljRnpGRGoxdHFEeUktTldfRXhROElCYmpPZS0ybENEYlZNUFlOUHJUd0Q4N0x2djN3VWFEblhQUlJNcDdNWUhNVnBodGh1c2NCajVLS1hxWnBoSFRmNzhjdzUtWEdaSXllNzNsUl80VnZuTHdXaTIzZkJIYXpIam9PTnlkTnNwZHdzNW1n?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6185,
+  "notable_record": null,
+  "num_candidates": 31,
+  "party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+  "pc_id": "maharashtra-21",
+  "pc_name": "Nashik",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180275.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for National-Level Cyber Security Audit of AI-Based Surveillance Systems for Nashik Kumbh Mela 2027",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to integrate essential dental treatments with Standard Health Insuance Policies and public health schemes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to address the problems likely to arise out of Indo-European Union Trade Agreement in wine production and automobile and auto-component manufacturing sectors in Nashik district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Full Implementation of the Prohibition of Women as Manual Workers and its Rehabilitation Act, 2013",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Immediate Intervention to Reconsider Tapovan Sadhugram Construction for Kumbh Mela to Protect Biodiversity and Local Environment in Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need for EMU/MEMU/Local train services between Nashik Road and CSMT Mumbai in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Special Relief Package for Grape Growers and Guaranteed Pricing for Onion Farmers in Nashik District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need for a comprehensive action plan to address drug menace in the country especially in Nashik district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to provide budgetary support for railway infrastructure development in Nashik, Maharashtra in view of Sinhastha Kumbh Mela proposed to be held in the state",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to release the delayed grants to local civic bodies in Maharashtra under 15th Finance Commission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Free Insulin and Support Measures for Children with Type 1 Diabetes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Investigation into Misuse of Subsidized Urea and Its Impact on Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to provide free treatment and medicines to the children suffering from Type-1 diabetes in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Release of Pending Central Share for Maharashtra Tribal Development Corporation (FY 2018�19)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Streamlining and Extending Cotton Procurement by CCI",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to expedite the release of central share under various schemes meant for tribal development in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request for Urgent Construction of a Dedicated Truck Terminal in Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for a Dedicated Truck Terminal on the Outskirts of Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for amenties for the upcoming Kumbh Mela in Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister to take immediate steps for the completion of the nashik-pune high speed rail project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Demand from govt. for a local train service between nashik road and kasara and kalyan station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 34
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 69
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/parag-prakash-waje"
+  },
+  "qualification": "Graduate",
+  "questions": 7,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Commerce And Industry": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Railways": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "GODSE HEMANT TUKARAM",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 34,
+    "criminal_deduction": 0,
+    "legislative": 40,
+    "mplads": 25,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 158637378,
+  "total_liabilities": 1918865,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.85
+}

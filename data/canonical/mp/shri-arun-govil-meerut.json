@@ -1,0 +1,551 @@
+{
+  "accountability_score": 61,
+  "age": 74,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 14200000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 69783900
+      },
+      {
+        "category": "Others",
+        "value": 775500
+      }
+    ],
+    "immovable_total": 84759400,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 782500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 18392220
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 28218828
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1565971
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6299000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4382342
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 59640861
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1923",
+      "total_assets": 144400261,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 144400261,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Arun Govil is an Indian actor and politician from the Bharatiya Janata Party. He is best known for portraying Lord Rama in the 1987 Ramayan TV series and reprising his role as Lord Rama in the 1993 animated film, Ramayana: The Legend of Prince Rama. He also appeared in films like Paheli (1977), Sawan Ko Aane Do (1979), Saanch Ko Aanch Nahin (1979), Jiyo To Aise Jiyo (1981), Himmatwala (1983), Dilwaala (1986), and Govinda Govinda (1994). He is currently serving as a Member of Parliament, Lok Sabha to Meerut Lok Sabha constituency from June 2024.",
+    "title": "Arun Govil",
+    "url": "https://en.wikipedia.org/wiki/Arun_Govil"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "305/306, Amarnath Tower, Off Yari Road Vesava Mumbai Maharashtra, 400061",
+    "emails": [
+      "govilarun@yahoo.com",
+      "arungovil.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9820021208",
+      "8850345960"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "12/01/1952",
+  "eci_state": "Uttar Pradesh",
+  "email": "govilarun[at]yahoo[dot]com,arungovil[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 6102850,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3550590,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3331230,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1622140,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1492210,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1674660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1340810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 503200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 422160,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 819200,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Bank Interest & Profit, Consultancy and Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Bank Interest & Profit and Professional Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 40% of MPLADS local-area funds were spent — ₹8.83 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 88338103,
+        "utilisation_pct": 40
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1464028
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1464028
+  },
+  "margin_votes": 10585,
+  "minister": false,
+  "mp_name": "Shri Arun Govil",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 58661897,
+  "mplads_unspent": 88338103,
+  "mplads_utilisation_pct": 39.9,
+  "mplads_works_completed": 36,
+  "mplads_works_recommended": 132,
+  "mpsno": 5564,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-24T13:44:33.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "‘Mere Ram Aaye Hain’: Women break down on seeing Arun Govil; MP visits Meerut Central Market on day 15 of p...",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalhnTk16b3R6QTZOMlM1X0p4b01qY0NrZFIxRlZjbTdkbjFCN0dlR3BDb3Znc3NfTEVtTG5qYjFrT083bG9YZVFNYk5DTjFpdkJoZlBtZVYxcU1DYThiNlJoZ0k1S2QweDZ2NkhNNFpwanc3Q09WX1ExYjk2VEMwdVBXemp5TVFRT1JoWDl3REkyRFFOQ0FtcnFjLThXQ0JhcXFoUEdhOHpZYW1lOENxaHNjZHdibUNjRkRzLWVTSDltMXAwLVFz0gHMAUFVX3lxTE1GS1ktcEF2cVBZbFpLaURmWWxwVjc0NzhUWFlIamFRYVNZcTAzWm0wWnZsdkxkTjNPM1FPYVhYS2dGQ0thOGRmS2R6VlgzVlF2a2QyeEN2MERoWWVuY2pYbmZ5ODQ3X3htaG5IeUFtNHlBSThtMG1xSjNXcW5vcloxYzBDZW1BRktLUHRMOHM4SVkxSFpFTUlQVnVKbW44c1RFeURVdXJpZzNrVTc2NVVSNjdoMUNsa3pweW5zMGdhWDZEZnpKTTJkb0tJaw?oc=5"
+    },
+    {
+      "date": "2025-12-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Muslim Mirror",
+      "title": "BJP’s Arun Govil calls for CCTV cameras in mosques and madrasas citing “national security concerns”",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1BQQ2pqQWpKdGotbWhpVVRmNVZyVDVPNkd3SGstdjVUUWZfVWNsZUVTOUlsY2pKR1JobzRNSkhmMU9KUEhlUkdUQVlSU3dfSDJrMWlIZUJMa1VNLU9CN1h6X0NCWUNmWmNaSGZnWlpYWDc2c3JVR3JkQmlsRDdKc1lxWURVXzJrTmRHR3dqMk5aVmhEWnlQWjlHYU45aTA0QUx6TlcxRjJfaVZzSkd6Uy13VkdOdHZGczI5V0h1bw?oc=5"
+    },
+    {
+      "date": "2025-12-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "‘Install CCTVs in all mosques, madrasas for national security’: BJP’s Meerut MP Arun Govil tells Centre",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS203RXZrazFNZ0xma0FVSTFRd0dMdXJaSlA0SkpJREZycnM0UVRRMnVLdDBjbGFBWnF5VGNSc2RFeEw4VnZ0bndmdEFIT1g4MGlTeTdYVGtQdEtOM1pEaUtzbU1LV3VRbnlENHNET2RSclBJbThUREM0RmZwOGpuQ2ROcUlOVjg0LVlHSWNYcW43ZmNtQzJuOEp1cGVRRE1wQmdTNEFQRGJqT3VPbEplQXFNckdKLWxzYTFRQm5qdWVmRk4tOV9HYmVXaHJNaW9RR2MzdXRMZVBVcnhncllTM0o3NGM5alZ2b0VPQW5n0gH0AUFVX3lxTE9jamtEZTEwUlROaGRqcEZ5MUdNdXNNcmhQd3RNMzBsc05VTVJmQnVZRlU3S2ZWZFJVa2dmWDgyajRuWmNkRDJ3R3RrLW14aTRsTkJMMnRFcS11R0RVZmhENFZ0Z1QwSjZ2cDZpeHhoaWMtOWZ0Zlk0Ry12dE44WkVMT0EwXzlWUmFiS1pXb0pnSUlibVZmcGVTTTB1WHBIZG1Nc3dmVXFrZGxoZmhCSzRiM0pSR282RGxzT0dMZDhueGFaY3didnR0bGwyODY1WHhXRTFuN1RlNmpjaWxFZ1NOT3hpNzU2dEFpNmFpdFJrRm9kckg?oc=5"
+    },
+    {
+      "date": "2025-06-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ICAR",
+      "title": "Union Agriculture Minister Shivraj Singh Chouhan interacts with farmers at Jangethi village in Meerut on Sunday. BJP MP Arun Govil also attended the interaction",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13eE4zb0JSdG53WGZZdHNQRFpUX0g1cVc3YjU3TU9sZ2htWklyc2M4R2sxMUFOUjhzbVpDaGRXejVSazhoZFcxcG1OaUJqZw?oc=5"
+    },
+    {
+      "date": "2025-03-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Business Standard",
+      "title": "Arun Govil meets Meerut murder accused in jail, distributes Ramayana copies",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWZpWUxSZGFCS3B3X1JVMC16NS1aN3pUTGZLc1hONXRSQkNFa3lwVEFLb2hBWklxLTJYWVNRRXQzRm9tZmhZMTh5LUc4cVN4akY2bk5FenBwNmZubi1Xc1dCU2lqNTVSZWNtMnA0REZuV3JkR3YyR2E1ejJtWHR5N0RURDBCblc2U2ZxbnR3M0hvczFiZ09XQXVLWFMtQ2JUTU1wNkIyVWZycVdRSWxJXzhRT09oWWVyUXfSAb8BQVVfeXFMTkx4UlRkdk13NGtQTF9yMzh6TG1sUk9mM3d2d1hMdGpUMHBISTAzM0x3S19CekNnZ0RNNkpTVFFlSmI0QWowQTJPam80ejU1X0ZabVRIV3Jmakp0WlR6d0JZdFowVmd1R1hIdUI3MHBOSS1oeWtQOU5nOUJ2NVV0X1BGVFlwZGR0Q194VWotakRnYTgtMmphTGhpYXdqM2RLLWIwd3lfdFlUT2UyMWFXM0w4Y1hOUWNJM2F6Y2w1ZDg?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4776,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-10",
+  "pc_name": "Meerut",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180427.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Self Employed",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Construction of ROB/RUB at Railway Level Crossings in Meerut",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to establish AIIMS like hospital under PMSSY in western Uttar Pradesh particularly in Meerut",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to expedite setting up of Automated Testing Centres for vehicle fitness testing in all the districts in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to make Cyber Crime Monitoring System more effective",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need to construct Ganga River Barrage in Muzzafarnagar district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to develop an IT hub along Meerut- Prayagraj Expressway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need for establishment of Cow Sanctuary at Meerut and Hapud in Meerut Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to take immediate stringent action to regulate severe industrial pollution in NCR rivers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for a Uniform National Security Policy to Install CCTV Cameras in Mosques and Madrasas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to promote and establish �Jaivik Haat� in every district and town in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need for effective implementation of Pradhan Mantri Poshan Yojana in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding establishment of Cow Sanctuaries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to sell the unutilised government properties",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to extend Delhi-Meerut Namo Bharat Corridor (Rapid Rail Transit System) upto Haridwar in Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to record and broadcast programmes from Akashvani Meerut",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Relieve Banks from Insurance-Related Work to Boost Deposit Growth",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to establish a National Museum in Hastinapur, Uttar Pradesh and include Hastinapur in the Krishna Circuit",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for proper wages for Film Industry workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding facilities for Senior Citizens",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding modification in Ayushman Bharat Yojana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to establish a National Sugar Institute in Meerut, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 29
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 152
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/arun-govil"
+  },
+  "qualification": "Graduate",
+  "questions": 28,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Culture": 2,
+    "Education": 2,
+    "External Affairs": 2,
+    "Food Processing Industries": 1,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 3,
+    "Jal Shakti": 2,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Rural Development": 1,
+    "Steel": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SUNITA VERMA",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 0,
+    "legislative": 58,
+    "mplads": 66,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 144400261,
+  "total_liabilities": 1464028,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.21
+}

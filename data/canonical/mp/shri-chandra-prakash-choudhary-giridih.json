@@ -1,0 +1,693 @@
+{
+  "accountability_score": 22,
+  "age": 59,
+  "assets_2019": 13456889,
+  "assets_2024": 49849182,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1850000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 31404157
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 33254157,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 406865
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3230845
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2138500
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 3,47,107 3 Lacs+ Reliance Life Insurance 25,000 25 Thou+",
+        "value": 2727636
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 4724500
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1413000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1717915
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 235764
+      }
+    ],
+    "movable_total": 16595025
+  },
+  "assets_earliest_year": 2005,
+  "assets_history": [
+    {
+      "label": "Jharkhand 2005",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xDw7HHxxpUapisNHY3uz",
+      "total_assets": 1287632,
+      "year": 2005
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xDw7HHxxpUapisNHY3uz",
+      "total_assets": 2942581,
+      "year": 2009
+    },
+    {
+      "label": "Jharkhand Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xDw7HHxxpUapisNHY3uz",
+      "total_assets": 7730325,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xDw7HHxxpUapisNHY3uz",
+      "total_assets": 13456889,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8523",
+      "total_assets": 49849182,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 3771,
+  "assets_latest": 49849182,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Chandra Prakash Choudhary is an Indian politician and member of Lok Sabha from Giridih constituency. He is a senior vice president of AJSU party and a 3 time MLA from Ramgarh Vidhan Sabha constituency (2005–19). He has also served as a Minister for Water Resources in the Raghubar Das government.",
+    "title": "Chandra Prakash Choudhary",
+    "url": "https://en.wikipedia.org/wiki/Chandra_Prakash_Choudhary"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill. & P.O. Sandi, Block Chitarpur, Distt. Ramgarh Ramgarh Jharkhand, 829150",
+    "emails": [
+      "cpcajsuparty@gmail.com",
+      "chandra.choudhary@mpls.sansad.in",
+      "cp.choudhary@mpls.sansad.in"
+    ],
+    "phones": [
+      "9572863363",
+      "1126739011"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://wwc.facebook.com/CPChoudhary AJSU"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://wwc.twitter.com/CPChoudhary AJSU"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "CJM Giridih",
+        "fir_no": "85/2019, Town P.S. Giridih",
+        "other_acts": "Section 127A R.P. Act. 1951",
+        "sections": [
+          "447",
+          "188",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "MP/MLA/5/2023",
+        "charges_framed": false,
+        "court": "Spl. Magistrate MP/MLA Ranchi",
+        "fir_no": "201/2021, Lalpur P.S. Ranchi",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "341",
+          "323",
+          "332",
+          "353"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "18/08/1967",
+  "eci_state": "Jharkhand",
+  "email": "cpcajsuparty[at]gmail[dot]com,chandra[dot]choudhary[at]mpls[dot]sansad[dot]in,cp[dot]choudhary[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1216030,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1387730,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1611800,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1643756,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2653013,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 489980,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 781100,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 750870,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 406310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 914553,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1151570,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1173200,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 254160,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 862450,
+        "person": "dependent3"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 274400,
+        "person": "dependent3"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 202450,
+        "person": "dependent3"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹12.9 L (2005) to ₹4.98 Cr (2024).",
+      "headline": "Declared assets grew 3,771% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 1287632,
+        "from_year": 2005,
+        "pct": 3771,
+        "to": 49849182,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹4.86 Cr between affidavits, while declared income across 5 ITR years totalled ₹85.1 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 48561550,
+        "declared_income": 8512329,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 32% of MPLADS local-area funds were spent — ₹9.99 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 99851681,
+        "utilisation_pct": 32
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 19557170
+      },
+      {
+        "category": "Laon from Mother 4,00,000 4 Lacs+ Loan From Brother 5,00,000 5 Lacs+",
+        "value": 7474500
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 27031670
+  },
+  "margin_votes": 80880,
+  "minister": false,
+  "mp_name": "Shri Chandra Prakash Choudhary",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 47148319,
+  "mplads_unspent": 99851681,
+  "mplads_utilisation_pct": 32.1,
+  "mplads_works_completed": 29,
+  "mplads_works_recommended": 632,
+  "mpsno": 5115,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Giridih election results 2024 live updates: AJSU's Chandra Prakash Choudhary wins against JMM’s Mathura P",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRUJMU3Mxa0RERmM0dkN1ZEpRQ19Yemh1RGJqdTNMb1FVNmxhOURGRzFLWk51QWotMkJUeWJZQzRRLTZnNTYtcThrZXZQV0x0X01wR3VlWmFVbERxLWNMSWR1MGg0bU9udHFMdW5YSjdSejZTczBfdFBraDM2ZjRrYmx4OEg2RHQ2Q2gyR2YtUWRPTGZLQWY3ZUZYR3J2T3ZJeVlDc05pZW1ydTYzbWV6bFVjLUR3ak9ldXpFbmhnay1mSGNWU2tqYVByT2Fsa0FWZDE1Y2dSZ1ExOEU0S0Nvc0VBN1RJbWVvREw2aUdmQ3JXTVRfWDUtZzctX25RWDdWSE5xUVdscHZKT0o5MHfSAZMCQVVfeXFMT0lUQWNxX2FPZmhyVGdKclBRUmdtMlRoa3lVMlNodG5QbnlZMWxqNlptYmFldzVaV0hZRGllVldVQkx0V3RKYWItdlVEREdBc3dVeWluNnZRZ0VMekVkUmIzNDFxd3ZSWkFCcE0zdzhWNno5YzhkVWhYNEhkc0J0NUVMVGxlb3J5SWVpbUlkZW5jaGMtM1pzcWYzQ1JQX2Y1d0czdGk1bTZFYkhQMktjbUw0NVhjbW4tNVdWanNYaDVfQXU0R2w3UjUyY0JmenlCLXp1cFhWTnBrUlNDTHJ2N25xMHBTaXBTQWs4MFB2cng5NWtIbFZCYWZkaHEzUThuUmlnYWpxTEZpNVJCX3RaQ3JkVWM?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Giridih Election Result 2024 LIVE Updates Highlights: Chandra Prakash Choudhary of AJSU Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNak14UnlNTVJLNTNPOV9xd1l6MHp5d3ZLa0lUaVhGMTVad1lpdHBZMjhPbnF1U3dCejJVLTBCcTJlSFZoTTlkNnR4MFlyYkZOOUN6WjZMMENNZVIzTVgtTVotT1otam1JTGUtYWF6NGNZWnZZSUg4eEF1eWdnX1J0M25rRHFkVFYyczFvUFNEUzEtb1hOZlo4Sjd6NldFR2FPRVN6eE5KaXdIbFc3VEdCQ1ZSelZ1blQtTVRBUDFEY3N5UEMyZy10Y3NjMkxBeEZfWFJhRkpSOENGblNkU2s0aVlR0gHnAUFVX3lxTE4wa1c3NTNJNk9mTU1oTkhNNDZZMUxUOTdKUzlPdXFhUlhyN3VwMXNfNE1JU3VlVVlRQkllcWRzVS16STh0dEJxSkpiaGp3VzRHWmUwa1R0Zk9NdGp0X0U3STFVZG5iRUdFcEJSUHNUbmpzM2J4b0hoM2NFa0tKcVFtelhRbENKWEI2OE5kdHhoTEJiMUJkSF9xTVFNSXMzLVBwZThtaEJ4LXVNc09TZ2g3aDZOM3J0ZFNCUGdVX0hlNUYwUnFwTnRrX3dyc2ltZi1zbmItS3NvX1k4NTNRUlZ2SGJ6dVRkYw?oc=5"
+    },
+    {
+      "date": "2024-05-31T16:40:23.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chandra Prakash Choudhary",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnUyVUxUcEZVNzBDaTZ1MjI0Z0FZd3dnUWpfemhNc3VYU2RhLUVHVjhqUGV4bmZUUWg3Snd3MlZ3NHpSOFpwZDlYNlZfN2k2R2xZWW9rcng0ZjBUU2laRTFVS2dwV3lyMTFJMkNfQjQ1TWY1WnRrVzhDazhaUXN2RHBUdjZCd2ptT2s2c0FyOXhsNGJuMTlIbDV4WmtaNENxNFVMUEdYZl9icVh0b2RXRjYzeGlRNHB1TDNjVmNFRURHLTFzYUo4?oc=5"
+    },
+    {
+      "date": "2024-05-24T23:56:18.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Chandra Prakash Choudhary, Ajsu Party Party, Giridih, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdWxUVDdOZXBpcWZiejAyRXIwaGxRemd1S2xxN2V2bGZXbU9SYzBNeldfVVRWNVUyb2pRa0xuV1RMVkJnNklQeG4tQVVfVFBsTHJ0YTBSLXRjMlRfS0VGdzVpalAxRDVZbW5FZ3Uwa2hSNFpNVlZmRy03MzVnRUlCSTRyVGVtYjFwa194dXFIWHFLY0JXb2FGU2x3RmFweTJfQ2tSZ2plV1VWaGhwUWhWcXBRWlNueDdNNlFXZnhTZU5uUUFWb21IM2xZMTI5YVA4SldKMFpXTHJxN2NUTWVrZ01UdTZYcmNiQlE?oc=5"
+    },
+    {
+      "date": "2024-03-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Lok Sabha polls: All Jharkhand Student Union fields Chandra Prakash Choudhary from Giridih",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS0t1T0hocUVuZE5HRk1oOVVOZmVYRFZaN1M2UGNaUUh5b2tybGhQYWtMYkh5NDlYNDlJcHJMRm1aQ1dOY082Rng5VjdvMnNMcG5RaUtJR2tDRk1sbzczTi0wOUlXQk9XTkFZNnZfQ1RxZ21SR0lmN0JuNHNNY1pOVkhYazREdzIxb29HSU5jUTlrVTlWX0NKak1qWl92TkFDS0Q3Mk9iN3VrMEZ5T2M0UUprQkxvQ1d6UTdOVDdjenZMclFWZl94R2E1dWQtMDhtaDNVMG5hb3N1WU1nQTRYQVg2aw?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 6044,
+  "notable_record": null,
+  "num_candidates": 16,
+  "party": "AJSU PARTY",
+  "party_bond_total": null,
+  "party_full": "AJSU Party",
+  "pc_id": "jharkhand-6",
+  "pc_name": "Giridih",
+  "pending_cases": 2,
+  "phone": "Tel : (011)  26739011, 26739051,Fax : 26739005",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180153.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 88
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Regarding establishment of 100-Bedded ESIC hospital in Bokaro district, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand to Expedite the Parasnath�Madhuban�Giridih New Railway Line and Expand Rail Connectivity in Bokaro",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand to Include Kudmali Language in the Eighth Schedule of the Constitution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding payment of minimum wages to contractual Labourers in Central PSUs",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to retain the Accounts Section of all units of Damodar Valley Corporation in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to set up Damodar Valley Corporation headquarter in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need for immediate release of Central share of pending post-matric and other scholarships to SCs/STs in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding abduction of Indian migrants by armed gunmen in Niger",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding railway services in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to address the issue of land subsidence caused by Coal mine blasts in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Environmental Compliance Audit and Suspension of Operations of Polluting Coal Projects in Giridih Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding alleged coal-pilferage in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for New Train Services from Jharkhand to Mumbai, Surat, Chennai, Bengaluru, and Kolkata for Migrant Workers and Students",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding pollution caused by factories in Giridih district, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding need to give land ownership right to people displaced due to Bokaro Thermal, Maithan Dam and Konar Dam Projects",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to establish two Universities for Kudmali language",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding inclusion of Kudmi Tribe in the list of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to take action against fraudulent travel agents",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding setting up of a tribunal for displaced persons affected by Bokaro Steel Plant",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.8,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 126,
+      "value": 114
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/chandra-prakash-choudhary"
+  },
+  "qualification": "",
+  "questions": 37,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 3,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 3,
+    "Mines": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Rural Development": 2,
+    "Steel": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MATHURA PRASAD MAHATO",
+  "runner_up_party": "JHARKHAND MUKTI MORCHA",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 2,
+    "legislative": 59,
+    "mplads": 42,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 49849182,
+  "total_liabilities": 27031670,
+  "wealth_pct_increase": 270,
+  "winner_vote_share": 35.67
+}

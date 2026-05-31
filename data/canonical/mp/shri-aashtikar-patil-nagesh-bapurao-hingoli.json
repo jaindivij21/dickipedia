@@ -1,0 +1,432 @@
+{
+  "accountability_score": 49,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14995775
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 4000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 37000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 63995775,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 800000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1394921
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 96,587 96 Thou+ LIC 31,686 31 Thou+",
+        "value": 225128
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4820000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 350000
+      }
+    ],
+    "movable_total": 16590049
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3vcbJQ6aTtcqx6jobRYy",
+      "total_assets": 39538513,
+      "year": 2014
+    },
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3vcbJQ6aTtcqx6jobRYy",
+      "total_assets": 54589678,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2408",
+      "total_assets": 80585824,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 104,
+  "assets_latest": 80585824,
+  "attendance_pct": 60,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "R/o Ashti Tq Hadgoan nanded nanded Maharashtra, 431712",
+    "emails": [
+      "nageshpatil4545@gmail.com",
+      "patil.nagesh@mpls.sansad.in"
+    ],
+    "phones": [
+      "9764471777",
+      "9322414245",
+      "9623807789"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "27/07/1972",
+  "eci_state": "Maharashtra",
+  "email": "nageshpatil4545[at]gmail[dot]com,patil[dot]nagesh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 498460,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 467980,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1582030,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2458258,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 314680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 287410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 202300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 585977,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture/Rent/Business/Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture/Business"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹4.10 Cr between affidavits, while declared income across 4 ITR years totalled ₹50.1 L.",
+      "headline": "Declared assets rose 8× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 41047311,
+        "declared_income": 5006728,
+        "itr_years": 4,
+        "ratio": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹3.95 Cr (2014) to ₹8.06 Cr (2024).",
+      "headline": "Declared assets grew 104% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 39538513,
+        "from_year": 2014,
+        "pct": 104,
+        "to": 80585824,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹13.96 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 139597784,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 43
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7267236
+      },
+      {
+        "category": "Anil Patil 2,00,000 2 Lacs+ Rajeshwar Kadam 2,00,000 2 Lacs+ Suresh Darak 2,00,0",
+        "value": 1600000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 8867236
+  },
+  "margin_votes": 108602,
+  "minister": false,
+  "mp_name": "Shri Aashtikar Patil Nagesh Bapurao",
+  "mplads_allocated": 190289442,
+  "mplads_expenditure": 50691658,
+  "mplads_unspent": 139597784,
+  "mplads_utilisation_pct": 26.6,
+  "mplads_works_completed": 28,
+  "mplads_works_recommended": 94,
+  "mpsno": 5640,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-04-06T07:09:33.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Aashtikar Patil Nagesh Bapurao",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVljT25Mb0hTRVFyVHlLLUhoZTlKOUY1R3U3cUk0aFlUNXp4TEYxbk5MV2w1S19HVTFzdVBvdk5FQ2k5Y0xacDNsZ2RyZVpMZjkzMFhkSTFJTEFIeFRmRWJ0Sl9aSEFwU1pac0xYSnAyLU9IbkJsbHFiS0xKbnhTb1ZJUzRCUFdjS0c3Y3dzN2tKdUdkcjB2VFZOOA?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Hingoli election results 2024 live updates: Aashtikar Patil Nagesh Bapurao of Shiv Sena (UBT) wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNTdLX2VVcUgzOHRjVTU0ZzRuNG84QUdVcmJsOHUtYUJqbm01bmliYnhNOGd5M2ZzUmtLOGhjS3A0dGZXdE5jT01xRkhsOFpHNlA0ajNfd1Y0eFh5QXh3OVFPY1RPMzhFLUpYS3ZBXzBWUlRiM196Z2JZZ09Wb3RqbUlGUnczaEt5OXFiWmpIR1lrVmV1X1hYREdUT1FQLXJ3aFV5NFBFaER6cHg1WVlPQ3Joek01b2VuU09lMXBsTmVIVEI1Z3pDM1VvUnJENkM3SGRhc09iOGplTkpmWjFlWElMeEN4Z9IB6wFBVV95cUxPTUtkNGlIdlhZVldaY2ZmOUVhZlNzdk5WbHdFdmpEYzRrUVNBWHl0Q3BrbUF0dll3Z0dyUlQ0NTFVOFBxY2dEcy10cFZXSEhRZTVXQVRQd011U3lvVFFqU1NLQ0VNcWpOVC1PM0lSdTRkWmhqMHFLSmlKbG8tOEJkZ1VKM015OHkyd2p5TVJBMnN0djVsOXh5cmluU29UaXJiUC13NWY2SGdkZE5ldFBnVTRkX0F0T0hMSXYzQ3V4aUc1MkVzaVg5cV9RRWJxazlMcG9lcmR5MjF2Mnl4UEZ1UnY0Uko3aGNkV0VZ?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:22:21.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Aashtikar Patil Nagesh Bapurao",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDVJNG1lMWpwajhtaV9OUW1jUkR2ZW1hMGhSWlRUN2R4N0loMVYzaWQ4bDZVeExsYlJ3UnR5MWQ3dGlvbFo0OFFhZHNUazBqZ1pUaDZWTzZyNlhaUlR0eEQ2dWNtWF9Zem55WVg2RkotbDB2cTQ0Y1RtTE1FY2dUZHU4RG5wek5Tc2hCSGJUd2hrSDJuVnFpVnBMLXh5OFpZQUJ3ZXlWSDFHZGZsTTU1bHZPZGI2Z1Z4bXlJaGN2UVJTeW4yR0w0Ul9fRGtCVXc3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3123,
+  "notable_record": null,
+  "num_candidates": 33,
+  "party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+  "pc_id": "maharashtra-15",
+  "pc_name": "Hingoli",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180244.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 64
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 80
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/aashtikar-patil-nagesh-bapurao"
+  },
+  "qualification": "Post Graduate",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Atomic Energy": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 5,
+    "Commerce And Industry": 2,
+    "Consumer Affairs, Food And Public Distribution": 4,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 3,
+    "Labour And Employment": 1,
+    "Panchayati Raj": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 3,
+    "Tourism": 1,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "BABURAO KADAM KOHALIKAR",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 0,
+    "legislative": 48,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 80585824,
+  "total_liabilities": 8867236,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 42.49
+}

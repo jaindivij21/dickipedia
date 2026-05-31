@@ -1,0 +1,398 @@
+{
+  "accountability_score": 60,
+  "age": 60,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 23000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 24500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 151000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 124838
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 15000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Insurance Premium 72,855 72 Thou+",
+        "value": 72855
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 407000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 844500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1615193
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3743",
+      "total_assets": 26115193,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 26115193,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Nimuben Jayantibhai Bambhaniya is an Indian politician, social worker and incumbent Member of Parliament in Lok Sabha for the Bhavnagar Lok Sabha constituency and Minister of State in government of India as a member of Bharatiya Janata Party. In the 2024 Indian general elections, she defeated Umeshbhai Makwana of Aam Aadmi Party by 455,289 votes. Nimuben Bambhaniya belong to the Koli caste of Gujarat.",
+    "title": "Nimuben Bambhaniya",
+    "url": "https://en.wikipedia.org/wiki/Nimuben_Bambhaniya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "68, Kalyan Nagar, B/H Balyoginagar, Ring Road, Ghogha Road Bhavnagar bhavnagar Gujarat, 364001",
+    "emails": [
+      "mos.cafpd@nic.in",
+      "nimuben.bambhania@mpls.sansad.in"
+    ],
+    "phones": [
+      "9825566302",
+      "9904561842",
+      "1124621996"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/nimubn.bambhania"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/Nimu_Bambhania"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/nimuben_bambhania"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "08/09/1966",
+  "eci_state": "Gujarat",
+  "email": "mos[dot]cafpd[at]nic[dot]in,nimuben[dot]bambhania[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 499220,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 371170,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 315990,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 281060,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 319090,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 444980,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 433420,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 361429,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 280490,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 337270,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Coaching, Other Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Coaching, Other Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.47 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 124697621,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5829447
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 5829447
+  },
+  "margin_votes": 455289,
+  "minister": true,
+  "mp_name": "Smt. Nimuben Jayantibhai Bambhaniya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 22302379,
+  "mplads_unspent": 124697621,
+  "mplads_utilisation_pct": 15.2,
+  "mplads_works_completed": 24,
+  "mplads_works_recommended": 49,
+  "mpsno": 5614,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Nimuben Jayantibhai Bambhaniya: Age, Biography, Education, Husband, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkloN3J2R2dzdDVkU0NiaXVNbThYOVE3dmNqSVNaV3pzSmN1SDZtQ0JQS1VxazFMdVkxOHV6bTJ3ZkJaS3VjaExIN3NrUnAyMW9GZTFkOWZ4ZGFfMnR1MGthZHBrSjZLRk9BSWVyX3hHOGJJYUJWXzZ4anU5OUpZeHppQ18?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhavnagar election results 2024 live updates: BJP's Nimuben Jayantibhai Bambhaniya wins",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWU5PQmFzekNFdnM4M09UUXhiMGpiZmVHWjRWczRTcUltaXVOME82WVpSTnp4bk8zclA0al9xc2hGMjlmVTlYcjdxRGpaeXcycGlOeWlXakJjQWF1YjdLdlNkc0xxZVMybmRhVDdabkN6SzFUalJXc1ltZ2kyQVNuV0ZzSTJUVzNvNERXYmFldHFxN0RYSUlibUY2SGFGTEtkUDFQZDVLaFZDTndsLUk4cFNNdUtnZFNfQ1p4ZlE3UWxPRmlUM3p5TE0tYjU4aU9ycElWY3ZRSGcxQlpWeXE4d1hrM3VrQXdSREpUZkJGMDJ4bVNFcVB1SjJKWU1jdHVwNjJoRFdlcnBPbEFYUTNYN1E1dF9BbHc0MmJuUm1BN2lUVVc0Y2FkadIBrgJBVV95cUxQdWFkazFtRmdxQ0dxRldsZHdhdlhUZTQyOG5kcUE0Rk1IYTNkbndwN2VoZThtbjJoWlhuSDNycjBLNEZNdEx5bTAwd2dqMC1rM0Q3MEx3Q0FRRmkzWDZMbFJYTkYzcWY4dEhkbXVrYzkxblpiMks3cVNCQ2F1Z1lKZ0FUUERQaFFPWVNVSjBYUy1mN280dmhQTHBiWVZneHNvMk5rZjRTUldMcGZUNFVac0w5anM1a1lHZUNFR1puLVkyZkc1MWt4OTlSRkQzcGY1UmstMG1kd2dCYnJnMjF0NW5BdFlzR1ZlRDduWTVjSGpaaEJXZWt0dkc0anBzYXZSUjdqeU92WUdSVVF1dmlNdVd4dHZsazV3NzlBeUlzbjZJcXREVDlVSTEzdURGdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bhavnagar Election Result 2024 Live Updates: BJP's Nimuben Jayantibhai Bambhaniya Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTdBU25xMUVjaTgwbHVDZ3BYYjljbDN4cFcwWDg4OHo0dVFVWnFPYXc4RzVBR2d1SXBydlN5eTlnUjZfbjFHNXo2cmVpOUJCYllNV1RKS19OeGpTRk5hSjJTR3JmeGV4bC1SZ210RUdzUFNnenJELWdDbGp2aUZlUnI5aVZHazBSS1RWdllyNDJfa3hGRkpVMlBtVXBvWHlxTUNnWlYzeXhxcHg0X3JtNTEwX19WdzhXaU90RXRQV2VXeHpQ0gHSAUFVX3lxTE9BZWh6ODRseVlxYVFEaGJTZ3lhQnc3ZXJHLUhiQ0o3VTR4NjdzRHNyT1BpR01HOXJJSjBXdkFnR3Q4NTMwMmk0VGpJdDd4NnRYR01OUnBsYXJPNHpqLTJkRDJ3YnkycldXNG15b192OUp6d0Iydjh3UVJLRVVRSjg2bTFTMlM3Y1BGbEJCR1I3MzFQc0hkeDVNYk5OTDRONEpTTXVBSGZuNWlPWFlLa3FwVEtiZ2RYMjdRdHh1cXhObHVNaVFueUFuT2pVQ2pleWtZZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bhavnagar Election Result 2024 LIVE Updates Highlights: Nimuben Jayantibhai Bambhaniya (Nimuben Bambhaniya)",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX19oVEtmVWpvWDhlY1FLUFVuV3JvT05qOFlHVWlnYWpXaUhKRWFvd2kwcVpIT3h0bEJnOGhWRFJwZkFUTzZsR1FqRU94MS1QWTRuWmxZSGFPaC04WjREYTZMdjhnVmZjT3ZjdU5hWU5nSlpYYk9lckhqdENNc0FOcUFSdXdneWR3cWZuUzlzbnFMWGNDV0xpNGwyTkd4Z3FadDBYdjEyR1JKT1BJZS1OR3dxQzlXQU1kekdRdTJieHR2Zk5OYkJVU05IYk5RUjJKemFzX05XeUJlYmI1bEh0a3V5TWnSAeoBQVVfeXFMUGhRbkxpeVBfRWkyQnNmY2VsTnBVUDhIR3MzY2swY1hEZmdscXppLW1OYjJVakdmQnNrNkpBZkNyX3FLTDRONTZZUEItZjlZTFB4R2JweGppNVpkbjlkNENMRXAzSUZWQnU4b1lnWWczR2dKU0s5djlPOFlXU0x0c3lPa2FVR0FkZ0JiWkVJd2pSY0NpenNuS2hydVhPNmFDTTl3aXZzTGhUN2VKbDNoVVlsQTVQMGM0UmM2OVNDV3Ezck5iaDV5Sy1HT3BZblQ0VF9OQWRnUnlwWloxTHZBRXNDRWtSaFdTMVln?oc=5"
+    },
+    {
+      "date": "2024-05-31T14:35:31.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Nimuben Jayantibhai Bambhaniya",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzRwbzB0VlpzZWR4TFJ3SlpsMklqSXVpZUlDakl6NmZiZGp5VkN2aGZJX3h1ZzZ1c1oxNHVlMU1FazQtNmJHaUNOQ3E2LXZ2VWtzdFVYRjFDTHBsdDdwX1ZUVUNCXzFPbzd6Rzg0cWs5bHRoeEF6aEw1dkdzcmUxRXRkMnVvS0JEcWh0SXo0MUtBYjVBT25rSWszWVNwRUpHVjZIb2tUNV8zTWtYQklSdkpqSjVmWTBDSURxaXhZZ3YtV0dIdlFlVFV3RWhOdw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 18765,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-15",
+  "pc_name": "Bhavnagar",
+  "pending_cases": 0,
+  "phone": "011-24621996",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180126.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Teacher",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/nimuben-jayantibhai-bambhaniya-nimuben-bambhaniya"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "UMESHBHAI NARANBHAI MAKWANA",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 60,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 50,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 26115193,
+  "total_liabilities": 5829447,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 68.46
+}

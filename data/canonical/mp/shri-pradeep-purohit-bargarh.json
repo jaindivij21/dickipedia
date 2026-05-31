@@ -1,0 +1,825 @@
+{
+  "accountability_score": 5,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2987000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 3400000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 800000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7187000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 400000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10430515
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Insurance Policy No. 1K550978608 5,00,000 5 Lacs+",
+        "value": 500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1989000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 288894
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15408409
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Odisha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=sAbBqmoKR6XQZpEaY4b",
+      "total_assets": 908734,
+      "year": 2014
+    },
+    {
+      "label": "Odisha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=sAbBqmoKR6XQZpEaY4b",
+      "total_assets": 16005591,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7148",
+      "total_assets": 22595410,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 2386,
+  "assets_latest": 22595410,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Pradeep Purohit is an Indian politician. He was elected to become the Member of Parliament in Lok Sabha representing Bargarh in the 2024 National Election. A candidate from the Bharatiya Janata Party (BJP), he has led his party to a win, securing a total of 251,667 votes which is the highest in Odisha in terms of vote margin.",
+    "title": "Pradip Purohit",
+    "url": "https://en.wikipedia.org/wiki/Pradip_Purohit"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "At /Post- Paikmal Dist-Bargarh Bargarh Odisha, 768039",
+    "emails": [
+      "pradeeppurohit.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "1123730201",
+      "9868978306"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 8,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 8,
+    "ipc_summary": [
+      {
+        "count": 5,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 2,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Mischief by injury to public road, bridge, river or channel",
+        "section": "431"
+      },
+      {
+        "count": 1,
+        "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+        "section": "452"
+      },
+      {
+        "count": 8,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 5,
+        "description": "Obscene acts and songs",
+        "section": "294"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 3,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 2,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR Case No.1069 of 2022",
+        "charges_framed": false,
+        "court": "Court of JMFC Sambalpur",
+        "fir_no": "219 Dt. 01-11-2021 of Paikmal P.S. At/PO Paikmal Dist. Bargarh (Odisha)",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "149",
+          "341",
+          "283"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No.191/20",
+        "charges_framed": false,
+        "court": "JMFC Sambalpur",
+        "fir_no": "33 Dt. 11-03-2020 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh (Odisha)",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "149",
+          "341",
+          "283"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No.72 of 2011",
+        "charges_framed": false,
+        "court": "JMFC Sambalpur",
+        "fir_no": "21 Dt. 18-02-11 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "341",
+          "431",
+          "149"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.T. Case No.307/189 of 2012-13",
+        "charges_framed": true,
+        "court": "3rd ADJ Bhubaneswar",
+        "fir_no": "03 Dt. 06-01-11 of Padampur P.S. At/Po- Padampur Dist. Bargarh (Odisha)",
+        "other_acts": "Sec,3(i)(x) ST & SC (PA) Act",
+        "sections": [
+          "147",
+          "294",
+          "323",
+          "506",
+          "149"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.T. Case No.58/18,",
+        "charges_framed": true,
+        "court": "3rd ADJ Bhubaneswar",
+        "fir_no": "05 Dt. 03-01-11 of Paikmal P.S. At/Po- Paikmal, Dist. Bargarh (Odisha)",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "323",
+          "294",
+          "307",
+          "506",
+          "149"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.T. (G.R) Case No.9/011",
+        "charges_framed": false,
+        "court": "JMFC Sambalpur",
+        "fir_no": "174 Dt. 31-12-2010 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh Odisha",
+        "other_acts": "Sec. 7 CRL Act",
+        "sections": [
+          "147",
+          "341",
+          "353",
+          "332",
+          "294",
+          "506",
+          "149"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.T. (G.R) Case No.10/2011",
+        "charges_framed": false,
+        "court": "3rd ADJ Bhubaneswar",
+        "fir_no": "175 Dt. 31-12-2010 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh Odisha",
+        "other_acts": "Sec,3(i)(x) ST & SC (PA) Act",
+        "sections": [
+          "147",
+          "341",
+          "452",
+          "353",
+          "332",
+          "294",
+          "506",
+          "307",
+          "149"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.T. Case No.135/16",
+        "charges_framed": false,
+        "court": "3rd ADJ Bhubaneswar",
+        "fir_no": "72 Dt. 24-06-2010 of Paikmal P.S. At/Po- Paikmal Dist. Bargarh",
+        "other_acts": "Sec,3(i)(x) ST & SC (PA) Act",
+        "sections": [
+          "143",
+          "294",
+          "342",
+          "506",
+          "149"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "05/04/1964",
+  "eci_state": "Odisha",
+  "email": "pradeeppurohit[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 683740,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 703580,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 500330,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 492420,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 503300,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 361820,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 297630,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 267210,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension PMT House Rent and Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Home Maker and Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "From ₹9.1 L (2014) to ₹2.26 Cr (2024).",
+      "headline": "Declared assets grew 2,386% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 908734,
+        "from_year": 2014,
+        "pct": 2386,
+        "to": 22595410,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹2.17 Cr between affidavits, while declared income across 5 ITR years totalled ₹28.8 L.",
+      "headline": "Declared assets rose 8× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 21686676,
+        "declared_income": 2883370,
+        "itr_years": 5,
+        "ratio": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 11% of MPLADS local-area funds were spent — ₹13.07 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 130653456,
+        "utilisation_pct": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 0,
+        "pending": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 676737
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 676737
+  },
+  "margin_votes": 251667,
+  "minister": false,
+  "mp_name": "Shri Pradeep Purohit",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 16346544,
+  "mplads_unspent": 130653456,
+  "mplads_utilisation_pct": 11.1,
+  "mplads_works_completed": 29,
+  "mplads_works_recommended": 231,
+  "mpsno": 5668,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-28T09:46:46.000Z",
+      "flagged": true,
+      "publisher": "The News Insight",
+      "title": "BJP MP Pradeep Purohit Demands Vigilance Probe into Alleged Dhanuyatra Gate Scam",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWZRQmVKeFM5TG5yc1psSTF4STBGMXNVSDRZNHZsZEg5X0Y3MWtBRGhzRWxvRVI2YlRjSzdIbVVWd29xRmpMSG54YmVVaEZLRk9tbUhXejlwSDk5V25hMm9lTk43ZzI4eW02bk5zcWd6cm5EM1B0QUVaMVZWTnhjU19qeW1kSHN2dUFrY2JYMkptTS1HX2gxOWNMS2UxQmtqeGhlTEtSeUVVQQ?oc=5"
+    },
+    {
+      "date": "2024-10-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "Fly ash dumping in Jharsuguda: BJP MP Pradeep Purohit urges Union Environment Minister to constitute high-level enquiry team",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2hNTWN0bmhMUjV6RDBHdVhzX2FieE1SWGZYZmc1SkhtS0c3U0doV2VVRkhlSm9LNG1JSzFiVm5UM1pSQUZibGxXOTN1SVdyLUtfZ3EweG5BdjJFMHBEVzZnUzlxVWVPSnBONE1WNmU1MkhlVFgwcjVMOU1jQXhHaEVuWmZYT2RzMG5PRzZuSW1HTDJERHBUSlBZaTJCX3VPSUdGXzlFaFdFVjQwcGVNTTZjR0NwalNzSkY3d240Vmk4SGZqQzMyUHJ0RFRocERJdS1v0gHYAUFVX3lxTE1NeU9uLWNNZy16V0Q5aFQ0Rm12Wi1WdVdxVnJWX0hXTzQtb3drTHlCVHZwUldwbG5XZ1REdC0tbkk3Y2syS0FnQV95aVFkMDdxRVdZb0tYUjlkbzJtZXJWbWRzQVlGclFQRHhyTmVKTkdBdXMtM0laY0IycmRRdTM2djlRSjBRaDF0dlJrSFpKMHpmak1DMnAyRWFXclVQbDc1cnlXamhRSjBuSDN5eWxNN0I2QXI4YlJvMjVldVVRelYtV0RaY3lqLWRNVUF1SzFZQVo3NFIwZw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bargarh election results 2024 : BJP's Pradeep Purohit triumphs in Bargarh, secures decisive victory over",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOU3JvbHhhdHZmYW1oUXpfaXhuVXljU2MwaXFWU1loeWgwd3gyajNSRk1rSXhyVUEwMVRVYVdaSzhxZmVkX3BnRnVmWlpWemIwc1J5SFVDLXRNNlVLNEEtRkJuYkhFUDduMTJtMkdDVmJPMVpWcU5DMS12NHNRVDVjMDJRZF9nOUZYbFRWLW5pYjlNdTFsOXpiZ2ZKQ2hVVnZXSHpPNUw0dzN4aFJ0TkdjWjdNMEhEYm92UnVOcS13Z1ZOb2VkM3dVSmtPNXhvbG55N1UwZkFqc1gxeHpIekhpN19LNE1yR0t2X3NBRzVCbmJkYTNaV1ZtSEpiLUMyTlE5cGRFejB2ZFJuQUNfT3ZUYXYwZHNQQmVwUWRFdENYQWdkSlNoLTEwNWFRVVNhOFdEVnd6bE9feGJER1l3YURVbXNn0gHHAkFVX3lxTE1XWk9Ob2FQTWRHcUN0ZjV6eE1aSUxqQ0ZWSlBNUVJySV9nMEdBU2x4ZTJDNjcyWkc1S1A2S2VnYUZKY1Z2aTFTYnRxbUVodGFBcFJjRmdvUFJYd0I1ZlhqSEJWNmJjUXFhR3VnandOZzJiclNqVmtSUl9YR21BLTY2V09nWUlMbC1ZckFFZ1BEbXAxdGdYVmp0U3FKbmRvSVI3b2ROS1FwT19YYllEMFdDQnpSUVp4UjF3Vm9rMWsyVGFHZ19QYnJQOG1xZ19lSGI1dWd4MERLTWhUemQ3T3B3cnh3ZDhza294MUljdFJMSy1FUU90RnNaV0NONHVPOVE3ZmFlQXpFVWJ3TnBmT1ZfQjJtbEJJR0pWSC1mUFFncTd6M1pVNFNEUElNSWhoVXQ3Yy1ueUFjbXFZNXFOZ3BPdVgzRFBUMA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bargarh Election Result 2024 LIVE Updates Highlights: Pradeep Purohit of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWE96WVNfZ194X1NyX2FORGRwSDZ6OTBrRHJZX25fVzhyUkJjbXVkcEVHZUhsZ01BZ0RMZWJNdjlBS0hGQllmZ3FkUWV6endURDQ3eEZQMGxPVk44VkpTRzIxT0RKQmtCVWZfQ1k1Nk9OTDRNd3RYdHJRSE1XcnpCc1dhT1dDRDRXSmwxUkR3d2tPel9VTTFXNEZkanBBRF8xNGkzVE5yVEpyVnlRZmhhRWRGOHpYdFJTV2J6ME5MNU5yVGJxRHk2THgtY29WMUl1a0ZPdHIwTWVRb2s1Z2R1SlRB0gHnAUFVX3lxTE9CYm0xMFF2YUJmTVYyT3FWcURvR2pPR2FERWVLU3p5X2tIRGpzZmhMR0ZybUI4eVBabTgzaUdXRHdTWlhQcUFvTWtnU3I2ZnI4aHE2dGZMNFlvWjZDRXlhc2xnN2Izak0ycC0taEVnelhObk9BX200QkViNXp3cHFFMmxFNk13WGRuSnBhSmdpalZYRGZXckhDQmZQeFB5WkhqUGFrZEFRVDAzLUN3bXpJT3J0b1g3RWRKVjlzQ3VSVllyUTdaVnMtaTA5NHVtaHQ4dHJuTDBiTkhKNVpXZTl6Wk8zTTg1MA?oc=5"
+    },
+    {
+      "date": "2024-03-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Pradhan, Pradeep & Purohit find place in Odisha BJP list",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGJOeG5EczRwNzVOTEFycmdRSWIyV0xQcnFCV1BoUDR2dFdtcFRjeVU0OU11Q0FXRGpYdWRnNjh5TEJhLWg0akJmc2Z4R2xkbW5uSkJuanZjbExkMXVCVmU1d3RLdzc2dmgzbERwQmxIT3dqTE9nT2U5M0ZiWTlxek5wVkJma255SzhsNmtQbzNRcnlzR0JuRVl0RXVCNF83T0hkR1dlUFZyMVZ5cEVydml30gG_AUFVX3lxTE51akJEanVnOXF4dEJWemp5N25NSGg2NEQ0RkVueTFfNUFWczg5UGZRY1ZEc29PUDAyMElsdWpZb3dSMUxhMHlHbEZ1ZmJjUzFhUXBuREt5eXMtTzU4LU83X2twUU1oSmFSVnVHb18yMWlRQ21CeS10WmVYcGxEZzNCWWhRRndMZ056cDY2dFpPNFZvUXVFQWNqNU14emFJcFl3RmlraVB6TW82Q2Fic3NNV2pUSks1Z0JSZVJDTjNJ?oc=5"
+    }
+  ],
+  "non_serious_cases": 5,
+  "nota_gt_margin": false,
+  "nota_votes": 12541,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-1",
+  "pc_name": "Bargarh",
+  "pending_cases": 8,
+  "phone": "Tel: 011-23730201, 9868978306(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180311.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Need for Establishment of Dalkhai Academy for Preservation of Cultural Heritage in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Related to Alleged Protocol Breach During the Visit of the President of India to West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to celebrate the bicentenary (200th Anniversary) of the rebellion led by Veer Surendra Sai in Odisha at national level",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to ensure disposal of IFR and CFR claims by scheduled Tribes and other Traditional Forest Dwellers in Odisha under the Forest Rights Act, 2006 in a time bound manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to depute adequate medical staff and provide essential facilities in Cancer Hospital in Bargarh, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to erect a memorial in honour of Shaheed Madho Singh, a revered freedom fighter of Ghess movement in Bargarh, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Attempts to draw attention to environmental violations by private companies in Jharsuguda district",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to expedite Bargarh-Nuapada new railway line project in Odisha and also run a new train between Bargarh and Bhubaneswar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Investigation into Mismanagement and Financial Irregularities by FCI Officials in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need for an enquiry in misappropriation of CAMPA fund in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding storage and distribution of grain stock by Food Corporation of India in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to issue instructions to stop the dumping of fly ash on roadsides by overloaded trucks in Jharsuguda district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Central Assistance to Promote Tourism at Nrusinghnath Temple on Gandhamardan Hills",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to set up a monitoring system to oversee the utilization of funds allocated under MGNREGS in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to control the spread of spurious liquor in Odisha and other parts of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Local Employment in the Ethanol Related Project at Bargarh, Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to grant the status of Scheduled Tribe to the Kalanga Community of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to declare Gandhamardan Hills in Odisha as national wealth",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Raised the issue of Bargarh Nuapada Railway Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to start Graduate Courses in IIHT, Bargah, Odisha and also provide basic infrastructure facilities at Balijori Handloom Market",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to declare Gandhamardan Parbat located in Bargarh Parliamentary Constituency as national asset and develop it as a centre of Tourism, Sports and Sustainable Development",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to include Sambalpuri/Kosali language in the Eighth Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding request for investigation into alleged irregularities in Iron Ore mining in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding need to bring Ayurveda College in Paikmal, Bargarh under Central Government",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 28
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 148
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/pradeep-purohit"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 51,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 2,
+    "Corporate Affairs": 1,
+    "Education": 3,
+    "Environment, Forest And Climate Change": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Rural Development": 4,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 3,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PARINITA MISHRA",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 23,
+    "legislative": 76,
+    "mplads": 22,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 26
+  },
+  "serious_cases": 3,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 22595410,
+  "total_liabilities": 676737,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.69
+}

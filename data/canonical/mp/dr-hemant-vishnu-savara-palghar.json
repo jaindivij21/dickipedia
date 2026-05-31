@@ -1,0 +1,684 @@
+{
+  "accountability_score": 49,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1694750
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 23300000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 39994750,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 590900
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4397475
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 21586582
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 241965
+      },
+      {
+        "category": "Life Insurance Corporation 923110925 4,05,168 4 Lacs+ HDFC 22490668 2,41,224 2 L",
+        "value": 2658806
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2856571
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5690000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3605000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 41627300
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yprPn9oo7S3Hu5MdqYGr",
+      "total_assets": 39548951,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7349",
+      "total_assets": 81622050,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 106,
+  "assets_latest": 81622050,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Hemant Vishnu Savara is an Indian politician. He is a member of Bhartiya Janata Party. He has been elected to Lok Sabha from Palghar Lok Sabha constituency. Savara is the son of late state BJP minister for tribal development Vishnu Savara. He graduated from Mumbai University's Grant Medical College with a Bachelor of Surgery and Bachelor of Medicine degree.",
+    "title": "Hemant Savara",
+    "url": "https://en.wikipedia.org/wiki/Hemant_Savara"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "5/367, Behind New Court Utkarsha Nagar, wada, District Palghar Palghar Maharashtra, 421303",
+    "emails": [
+      "hemantsavara@yahoo.co.in",
+      "hemant.savara@mpls.sansad.in"
+    ],
+    "phones": [
+      "9819240221",
+      "9869640986",
+      "1121400114"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/drsavara"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/Dr.hemantsavara_official"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 10,
+  "dob": "14/11/1976",
+  "eci_state": "Maharashtra",
+  "email": "hemantsavara[at]yahoo[dot]co[dot]in,hemant[dot]savara[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3059040,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1944640,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2205670,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3596890,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4023820,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 944020,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1126500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 710950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 566350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 776680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 173490,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 632430,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 240790,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 409620,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 448500,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Profession Income, Capital Gains And Income From Other Sources"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Capital Gain, Income From Other Sources"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹14.50 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 144950420,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹3.95 Cr (2019) to ₹8.16 Cr (2024).",
+      "headline": "Declared assets grew 106% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 39548951,
+        "from_year": 2019,
+        "pct": 106,
+        "to": 81622050,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5883056
+      },
+      {
+        "category": "Shraddha Hemant Savara Unsecured Loan 23,93,000 23 Lacs+ Nisha Vishnu Savara Uns",
+        "value": 4893000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10776056
+  },
+  "margin_votes": 183306,
+  "minister": false,
+  "mp_name": "Dr. Hemant Vishnu Savara",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 2049580,
+  "mplads_unspent": 144950420,
+  "mplads_utilisation_pct": 1.4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 80,
+  "mpsno": 5669,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-24T14:52:26.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Palghar MP Dr Hemant Vishnu Savara Honoured With Prestigious Sansad Ratna Award 2026 For Outstanding",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZjNjc3BUMnpZZTlRcWdjWVl6V2dOaW85MFdadklPUXhNNHJtZlltZUFaVGxabS1WLUhHVDJkb3VzX0plQThMNWlLNGM5ZUZRR1JiazlLY3FWX0VtTEdLLURtdl9zWDRYc0VFa3RlWHlFUnpBNDEyeUp3dkVaTFpFdzRhRVBYZGVmcHEzQkt4OXF4S2IzOS1zNUxoU1pEd0syMGJPOWhFYVl6Z2RPOHZfeVBmQjRtaVBBY1Zid0ZqWmZMQWhEVTNVYUdpNHRCcVI3VkFKRmJJdmZXSnpJRkc5b0Y4TkRkSVZrNkppSVZFaWlpR1lLSDBVedIB_gFBVV95cUxPNVJlRnRuT0pmLXBpblpRZTVQdHpCa2xQdGQ4SGVRT1dtZ2wyWkFjbC12Q2l5VGZyMHJaUkE0ZTh4cEQ3VHItQ0R5SjZZOU5aY01hdmRoRTBaREY5Y0ppaXNyWG9MZng1Y3Z2aWRvQkIyUXpfZndiRWxkYnBpMHh4Z0dneXAwdVZ3eEhDVzI1TlZURjNnNEplQk52WWhPcEVjcFk0ejhuOWQ4ZF9vUkJ1QzB3WVFqMWloZDcxYVVnU3d1T29tZ1VULUZZSUJLVjBVYjJ0eWlzdHpDU09GZ1lXSW9JQnZDOThaZnhzaHhlellqdVRQN19oS3hsOW9Fdw?oc=5"
+    },
+    {
+      "date": "2026-05-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "UNITED NEWS OF INDIA",
+      "title": "BJP MP Dr Hemant Savara Escapes Major Accident on Ghodbunder Road",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmphS1NuV3FPbF9pWElZN09vc0FMY1ZseXBpbEJMcjJxT2VBd29BaXhjUmlQQWhVX2tWaWt2VFQ4YWFwTFpFWTlZenNCX3JfZzBKUklSLWRHRnNWSndMZFQwcFZhZGNta2FMUHI3andNSWtVN0xsUHdPeTZBRUJGazZRQTR0ZTZpT1BMZkVPY2djWm1raUJwci1FMHpYY1pfYlQ0SUx2aE9rbkp3ZzhlYVRsYw?oc=5"
+    },
+    {
+      "date": "2025-01-20T12:48:07.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr. Hemant Vishnu Savara , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWI4THVWbWRuMkI4Nm40N0pUZ1E0eVFBVVd1ak5mTmpsTzJMU0lqTFNJMEI0dV9nNWR2RUprbGViQVlaeHFtdmx5LUlOS3o0dTJIVWZJeUMxdXlJczlGcjdSTTRnU19PTlRMX2ItNmJyUjZzT3RlLWpFVG84QW1nTTdHeF9OTzhVM2JfamZ2cFVwUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Palghar (ST) election results 2024 live updates: Bharatiya Janata Party's Dr Hemant Vishnu Savara emerges",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOUE1nZnpvWWc5TVZ3VnlXbDNJMEw2bFlKSUVTMFhCWnJJZXNxMURGbUdlZk9HNFc3OHhTdWFYM1pDTk01QWhYXzA1Q3liQVVmWkt1cXFIcVhkRVkxUk5IV3lOMEFZQkEtZHVXTWtHSzdTeDJydEszRW93bjZfQVB2bmJoSnNNQUNqQkRYa0R4MWZVeHFqUU9mRTFPNDYtejZadXU0bVQtUFNFbDc3b25uOWlMQk5HX1JtMEVBdDJSNWlIdGZ3MGNOckptd1hESjFzdXRkQnRmbmdNM0o1M2ZuSEFuYXFka2U0cHN0bFh0N0t5X0ZMeGNjdGl2OTFDZ1hMZ1hZbXRmNTBUajlBZ1FfVGFJSVB3emQ3N1lLSVFhV0E0dDVDNW94Nm8yTEJLQjdEeXV2RFpHOExPd9IBvwJBVV95cUxNdDJvVklfUWg3QjNyN0tsdlhtdW8xOUNGcU1Sa1JQXzVtOVJrSW50Qk1yQ3NneHhXM3dqcE82M1dGclJpRGhxdXE2YWMtbkptZ1lGZ0F3ZFlnZlMzS3BteU0ydzNpa292SEFQQVVJczV5WTM4bkR2WnlieW5hTF85VXZyWmk0cUx1X2kwS1RwTm1kSkRSNklvTktSZDJKWmpkV0E2aElKUVYxRUdjY2NBSGtaNmVjYUtjZUdWTGx2NXhiOGkzR1RKRmJMX0lsQ2xFcHZZV1VqTDhHSnBSXzNQX01yMm9vZlRtcW1SSEN1VUJPc3Rua3BUNTdrcWFHMnFacEllaDRKN01HRkZqb1FNTUUxSUdKTEhZR0ZnWWFYVXcwczYzR2U0MmVtZzZTSk9nWVZZWWtZdHExMVE2Vldr?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Palghar Election Result 2024 Live Updates: BJP's Hemant Vishnu Savara Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUl4VnNlN1lhNG1jOGpwSWFOQ1NERkRXbm9OclFpaUlnSnhZMURacHBMd0o0SjJ5b01zTC11ZktEanhzZEpCQl90aHJUaWhKMUdfVlNUWEhmcG9sZ0ZaMkJkYUwySDRNaDJpMXl6WWUxVUVZYlBmQk5XckctV3IzbXN1d0kyWW1LdVBSY3YtVmszVHM3UGpfQXpwaUMwU1ZPUzZtY0dneWoyd3NhR2RrcXp6SmxXMGxGRWNMTWYzbUxuMkNpNGRv0gHUAUFVX3lxTE1xUkxVdG5HdjVCUlAzWk44M1J3c2E0cjhYWHBpN3VQcGtGS092UWJ5MzNyZmdBT2RYMWx1NWlVTi1OZXJKVjh3MlhWRm5xMmNzU0xCaUxmNURZNEw5bUxncWRkazlSZUFfb2l4c0xPXzZkN1UyUkRCMTNRTGd6SWFRSFRNd1V3dEZ1RHpxczJmYkszWUpMc1NHWGQ5NDV3RVJWVVZvV1Z1NjRaNG5uTlNhbWlIWDMzVTEySUtkTGdXZVRDUVF1Q19mamUtLWd6THBiRUZv?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 23385,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "maharashtra-22",
+  "pc_name": "Palghar",
+  "pending_cases": 0,
+  "phone": "011-21400114",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180264.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding alleged cancellation of cultural programmes and political interference in art and culture in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Request to Ensure Equitable Land Compensation for Farmers in Dahanu and Palghar Talukas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Request for National Heritage Status for Ahilyabai Holkar Associated Shiv Temple near Paharganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding establishment of 200-Bed Radiation Emergency Hospital in Palghar district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Regarding High Diesel Prices Affecting Fishermen in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to strengthen the public safety alert and emergency response system in Palghar-Vasai Industrial Area in Maharashtra in the wake of recent Chlorine Gas leakage in the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Declare Indigenous Cows as Rashtramata/Rajyamata",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Demand for Introduction of 15-Coach Local Trains and Increased Local Services on the Virar�Dahanu Route",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Enhance Frequency, Capacity, and Facilities of Virar�Churchgate�Dahanu Local Train Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to give recognition to sports certificates given to students by Navodaya Vidyalaya Samiti at par with those of State/National level",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to sanction central assistance for establishment of �Warli haat� in Palghar district Maharashtra for promotion of Warli art and culture",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Train Halts at Palghar and Safai Railway Stations and Restoration of Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to improve passenger facilities at Gholvad Railway Station, Palghar district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Extend Train Services Beyond Dahanu and Improve Passenger Facilities at Gholvad Railway Station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Strengthening Healthcare Infrastructure and Expedited Construction of Medical Facilities in Palghar District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to set up coaching centres for NEET and JEE in Eklavya Model Residential Schools and Tribal Schools in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding need to establish an AYUSH Centre in Palghar district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Development of Basic Infrastructure and Facilities in Pilgrimage Sites of Palghar, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Strict Regulation and Censorship on Social Media, Broadcast, and OTT Platforms",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to extend pension benefits under CCS (Pension) Rules, 1972 to teaching and non-teaching employees of Jawahar Navodaya Vidyalayas",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to improve mobile telecommunication service in Palghar district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to construct a wall along coastal area of Palghar district in Maharashtra to prevent soil erosion",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. provide benefit of crop insurance for the year 2022-23 to the farmers of jalgaon",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt take an appropriate steps so that discipline and control can be established in the field of online gaming",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding establishment of an airport in Palghar, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding setting up of an ESIC Hospital in Palghar Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Urge upon to govt to establish a jawahar navodaya vidyalaya in thane district as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand to promote tourism in Palghar, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding various railway related issues in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 41
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 247
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/hemant-vishnu-savara"
+  },
+  "qualification": "Post Graduate",
+  "questions": 69,
+  "questions_by_ministry": {
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Coal": 2,
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 5,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 3,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 3,
+    "Prime Minister": 1,
+    "Railways": 6,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 4,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "BHARTI BHARAT KAMDI",
+  "runner_up_party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 0,
+    "legislative": 80,
+    "mplads": 2,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 81622050,
+  "total_liabilities": 10776056,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.69
+}

@@ -1,0 +1,655 @@
+{
+  "accountability_score": 44,
+  "age": 53,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 36400000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 38220000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 160820570
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 235440570,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 520680
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 17240985
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 42619949
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 30322400
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 263291
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7755320
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 98722626
+  },
+  "assets_earliest_year": 2013,
+  "assets_history": [
+    {
+      "label": "Karnataka 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qveUdXza79SCBzQiWP2e",
+      "total_assets": 22939732,
+      "year": 2013
+    },
+    {
+      "label": "Karnataka 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qveUdXza79SCBzQiWP2e",
+      "total_assets": 176392938,
+      "year": 2018
+    },
+    {
+      "label": "Karnataka 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qveUdXza79SCBzQiWP2e",
+      "total_assets": 298128784,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1881",
+      "total_assets": 334163156,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1357,
+  "assets_latest": 334163156,
+  "attendance_pct": 95,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "347, Peresandra Chikkaballapur Chikkaballapur Karnataka, 562104",
+    "emails": [
+      "drsudhakarofficial@gmail.com",
+      "keshava.sudhakar@mpls.sansad.in"
+    ],
+    "phones": [
+      "9845204040"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Printing or engraving matter known to be defamatory",
+        "section": "501"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "PCR No.220/2020, CC 35460/2022",
+        "charges_framed": false,
+        "court": "42 ACMM Court Bangalore and Special Court",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500",
+          "501",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "06/06/1973",
+  "eci_state": "Karnataka",
+  "email": "drsudhakarofficial[at]gmail[dot]com,keshava[dot]sudhakar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4410750,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3347080,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1708909,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1009765,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 974030,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 10572360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6191651,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 6143557,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6207749,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5534320,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Minister,Interest from Bank,Income from Preethi Consultancy,Income from Agriculture and Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salay from Endowment Impex Pvt Ltd,KSP Hospitality Service Private Ltd,Income from SASA Store Pvt Ltd,Income from Preethi Consultancy,Interest from Bank,Income from Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹2.29 Cr (2013) to ₹33.42 Cr (2024).",
+      "headline": "Declared assets grew 1,357% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 22939732,
+        "from_year": 2013,
+        "pct": 1357,
+        "to": 334163156,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹31.12 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.15 Cr.",
+      "headline": "Declared assets rose 27× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 311223424,
+        "declared_income": 11450534,
+        "itr_years": 5,
+        "ratio": 27
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 17% of MPLADS local-area funds were spent — ₹12.27 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 122693343,
+        "utilisation_pct": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 92265058
+      },
+      {
+        "category": "Preeti G A receivables 40,33,726 40 Lacs+",
+        "value": 111183891
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "72,000 72 Thou+",
+        "value": 72000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 203520949
+  },
+  "margin_votes": 163460,
+  "minister": false,
+  "mp_name": "Dr. K Sudhakar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 24306657,
+  "mplads_unspent": 122693343,
+  "mplads_utilisation_pct": 16.5,
+  "mplads_works_completed": 10,
+  "mplads_works_recommended": 160,
+  "mpsno": 5602,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-26T15:47:15.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Empowering women with self-reliance is the biggest guarantee: Chikkaballapur MP Dr K Sudhakar",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQOU11cF9JRUFKZW1CZW16NnlIdWpId28yMU9NMERzVUl4VGFialFyQ2VSajAwOHZhODFQdHdibmF2OWFYeExKUFNQa0l1azVzV1R0MFl1Sk1yckpFeG9jVm51eC1LZGFSX2lhMlVHYW9uYWpSSTk0V3pHY2VLYTZEcE9MVThwZVhZeUM3cW5pMzZIeGVWXzIwNmVlMExlZFI2b29ZMVl2UFIxZDh2UXAyS2NobVBhckNuQ0k2cVo5cGdWR3VmeHpzTkFSVC1ZRkNqa040SXlZZERhVGQtaDRBMUwxRnpiV3UxWXFCd2JkM0tzUXlrNnIzSk8zdlVON01jMjRkemJwWDVwTTAzM0xiRHMzZUxSVUhJMTA0d3hLMGYwWWVDcXFyclAtaWF5UnU5YXFNbG80VnJmWUpmQzFNSzl3X3pOUzdlMFV3Y21fazF3TzNLUFROSVYwMWtQY3BmdUhsY2ZYRi0yNERUamVjQTc4MFdxUVJoeWNWX09iSjRVcnZIS2JR?oc=5"
+    },
+    {
+      "date": "2026-05-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Asianet Newsable",
+      "title": "Empowering Women With Self-Reliance Is the Biggest Guarantee: Chikkaballapur MP Dr K Sudhakar",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX2hFRUxQYmM2ZzU3cThfdkJCbmZpbEVKd0xzWVZXd1l6LXN4MW5wS054Q2gxUlB6VklFYUtCeGJRbVhIUGdWaHB4UEZMQ1pXSDdMQWk1ODJqamVCMjVJMllEYzBLMHROdWdBWS1ISlBRVzJSamt6Y0Z4c3hHeFo5NFZZMUdpTjNmRGZ3eTlHQ1N5M1V5X3EyUVVmSkktZzBfVTZXMkVUVUU1UmRSeGc4ZXZZUUk3RVh0eVp6ODd1eV80RE45VmJkalpLcDhZRnRkSEFvMEg0ai1Gbk95cUctek9iWGhiN3lBUzh0b3NHYWVoUdIB9wFBVV95cUxPcVl6WFAxSGhZZ1dsb1hOaVJsQ3hjSExiVWktblJCNnRzcUVwX29tN0E4RXJSVHdhZE5BU1ZJeXF0WE5ITnh1bWc2aXNDUjBiUjNlZVo0QUV2dzFUc3F1Zkc0UlVPYk50NGp5dG11Tm5nOGY0ZTRGczBFMUQ0X1ppejItRjlGdFFjSFZCVlo2MEcteXlfRkpGWUVhZ1FrZWI0OURoODJJbFF1SkdQMXJNaW1nTHgyVlRKMndON1h6QUFRZVF3S1o4cjJqYzZzTXY1ZEtwMVB5OTM3X3JWYm90VjVrS01jemRrQ0FaSzU4YkU5RHFqMUpv?oc=5"
+    },
+    {
+      "date": "2026-03-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Karnataka BJP MP Sudhakar warns of padayatra over water quality in Chikkaballapur, Kolar regions",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1Q1c3FYOEtHR0dWSWNfODFaOGRFT19ndUhPUVdOS3RvXzJ2X3JZTXhLZWV0VUxvOWg0S1ZHcjZIWl95c2tyNEppaV83OWR0YndrV0lvRDkwdW9kRW4zNjhnNTJ5YS0zcllqR1R5ZnFRQ1dORkE0XzFFWlY0dWlDTFlsVlhBWnRudWJpdXdLWHFEYjNUYnVNSmxydExSRHRtUVpSWUdpWVB0LS0wTHM5THl6ekVBR05jUXhrc3Q0ekl1cEJ1TVVmaHZMQkZzNVdKaElNZmJvbjZXUGpYVFJSaTdn?oc=5"
+    },
+    {
+      "date": "2025-09-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "GST reforms benefitting people across the nation: Chikballapur MP Dr K Sudhakar",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVmNZVjNpb0FIek1RRWVqNnBqVmttX05FbUs1V1liVTJQODVRSDRFQmtPbjhpNUQyNjl3Mk0yUEM1STFnWkZ5RlRSLTV6dXc1X1BXdlBtQ1BqN3J3R3U4dGY1U3RhZnVSdWdGN3ZEMnUyOFNaVG4ySGozcUwzdzQ1YUZwV09sSmFCY2RiazZHUnhSNWxiRGxPUGpUNlpqOC05VDlhd0VfVFotdktOS2w1aUxrWk9ZN29JTkNYVjFtWG1OSTYzVEFydDVNVXBqRzZERXB0dXg5c9IB5AFBVV95cUxNZ0dDZW5od0lfMWx3NllpdkNYWEhaa2dXck5oR1hIclQ1YUtfSjFxSzlkMFl6eXdCMlBRcTFWQ2M5YU0zM0h5NFN1RzZtUkxFQ0Q2SUJPR3JXRjBGREdaM1VoQVRoQndDd0IxMUtmSHRkTkJ2b1lYXzJEejFGRXhIZDBHaTJ5QWx0UXo1RUhqaFI5Tl8zN2ZGYUhCaXh5Y2RlTkNaMjhjVTJlRG9EV0tyREE0bUR5NnJWQzhNaTEySDNQT0FZUEJueW5qVl9PNWcwVlRHR0lUX3pCR0JhdzN1VmRReEk?oc=5"
+    },
+    {
+      "date": "2025-08-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "Karnataka: BJP MP Sudhakar booked after man names him in suicide note",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVNNVGczd0M1QTNKTUlwQ3EyVW9zNmxfelp3VVNOdjBrMEYzcUJDSjNUTUlyb0JpRS1sWVRVUmlRR1BzWDg1bm9ZMTBwVkdNNmNHVFdIWk5lTHFGbkkzY0J4YlRHSVV5MGZNeDRrbGRseHJoVF9FclRGNVNyZHBfNEVONW9EMGFtTW1HTmh5R3IyQmJSdllOSTlaZ01yZzBFWEc1bFBkbktvRk9Y0gG6AUFVX3lxTE5OWlRmVFBmTTFPTjR4Q3hBQzlrVWYwT2NsZ1puQUdBOXdLZkNFZXNJZzVrUlQwdlNremc5ajgyemR3V2R1MVhUc2txM2xaOUpndGdCM3ZhMXdTM3I4QWh2bGpiNS13UU1hYUVndXRCNllnZWpKSTBoc09SM1BieVo5R2taQ053WVpaa01lakI2dXhTTmdBMlZIT2lMUnhtcU5Ea3JKdmlncEp6bUVmRTl3Q21EQmJCeTd5Zw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 6596,
+  "notable_record": null,
+  "num_candidates": 29,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-27",
+  "pc_name": "Chikkballapur",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180174.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 92
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Concern Regarding Irrigation and Drinking Water Scarcity in Bayaluseeme Region of Karnataka.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to ensure district level contingency planning to address likely adverse impact of El Nino on monsoonal rainfall and agrarian activity in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to put restriction on selling of cocktails containing high alcohol spirits in retail outlets adjacent to educational institutions in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need for expeditious implementation of the Krishna river interlinking project to address water crisis in different parts of Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to take comprehensive measures to control drug addiction cases in Karnataka and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need to develop Chikkaballapur in Karnataka as a tourist destination under PRASHAD and Swadesh Darshan 2.0 Schemes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to impress upon the State Government of Karnataka to expedite completion of Bangalore Suburban Railway Transport System",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Demand for Fair Wages and Social Security for Anganwadi and Midday-Meal Workers in Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to ensure efficient functionality of Nandi Medical College and Research Institute at Chikkaballapur in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to expedite the process of land acquisition for Bengaluru Suburban Railway project in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding shortage of fertilizers in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for the proper distribution of Urea and DAP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to comply with crowd management regulations strictly during religious or cultural gatherings/festivals to control stampedes in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding delay in distribution of assistive devices to Divyangjans and Senior Citizens in Chikkaballapur Parliamentay Constituency under ADIP and RVY Schemes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to establish a Cooperative Bank in Chikkaballapur district, Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to extend Namma Metro (Bengaluru Metro) to Chikkaballapur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to establish Regulatory Authority for private Coaching Institutes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding adverse impact of Social media on children of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to convert Pradhan Mantri Fasal Bima Yojana and Pradhan Mantri Kisan Samman Nidhi as umbrella schemes and extend the scheme to other agricultutral activities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to provide relief package to farmers of Karnataka affected by drought",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding problem of Drought and Depleting ground water level in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding establishment of flower board in Chikkaballapur",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 33
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 195
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-sudhakar"
+  },
+  "qualification": "Graduate",
+  "questions": 49,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 3,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 3,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 6,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Petroleum And Natural Gas": 2,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 5,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "M.S. RAKSHA RAMAIAH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 59,
+    "criminal_deduction": 1,
+    "legislative": 83,
+    "mplads": 24,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 14
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 334163156,
+  "total_liabilities": 203448949,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.74
+}

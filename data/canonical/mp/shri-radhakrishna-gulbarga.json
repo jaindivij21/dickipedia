@@ -1,0 +1,480 @@
+{
+  "accountability_score": 13,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 20343000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 295951152
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 35222983
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 97139057
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 448656192,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 350000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 27485188
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 18037238
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 434000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 28703961
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 386356
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 8527025
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1320000
+      }
+    ],
+    "movable_total": 85243768
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3398",
+      "total_assets": 533899960,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 533899960,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Radhakrishna Doddamani, better known as Radhakrishna, is an Indian politician and Member of Parliament for Lok Sabha from Gulbarga constituency. He is a member of the Indian National Congress. He is the son-in-law of Rajya Sabha LoP Mallikarjun Kharge.",
+    "title": "Radhakrishna (politician)",
+    "url": "https://en.wikipedia.org/wiki/Radhakrishna_(politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "5/98 Main Road Gundagurti Village, Chittapur Taluk Gulbarga District Karnataka, 585317",
+    "emails": [
+      "radhakrishna.doddamani@gmail.com",
+      "radhakrishna.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9731399999",
+      "8023615050"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC No 9564/2019",
+        "charges_framed": false,
+        "court": "Add. Chief Metropolitan Magistrate Court Bangalore",
+        "fir_no": "280/2014, CCB Police Bangalore",
+        "other_acts": null,
+        "sections": [
+          "420",
+          "468",
+          "471",
+          "34"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "16/09/1960",
+  "eci_state": "Karnataka",
+  "email": "radhakrishna[dot]doddamani[at]gmail[dot]com,radhakrishna[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 7938480,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6781770,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5306340,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4758870,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4535902,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4052780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3611950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2945830,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3104990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2967824,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 660940,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 451740,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 455810,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 452200,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 635730,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business, House Property & Interest from SB/Fixed Deposits"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary & Interest from SB/FD"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3190776
+      },
+      {
+        "category": "Ajay Chordia Infrastructure Private Limited 15,00,000 15 Lacs+ Dr. Jayashree 39,",
+        "value": 69195471
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 72386247
+  },
+  "margin_votes": 27205,
+  "minister": false,
+  "mp_name": "Shri  Radhakrishna",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 29,
+  "mpsno": 5757,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-10-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "MP Radhakrishna Urges Centre to Prioritise Kalaburagi Airport Under UDAN Scheme",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX19SdnkzVmZoTURZeUV0OUh4bmRPbUZpbmVzQW1ta3N0X1pNWWJXZU4teFlhc0ZReTF5UGc2X3Jzc3ZKOFNXSDZ5MzNJaTJrRlhkcXJCRXM1UWgtTWwySkdKYV83VC1jczlWZnRFU1Y0Mm1xeEMwNWo5ZTJaMHZjTjNVM0x5VnZFUUFKQkxBemlaeS1JWm9iZWhUd3VnTnRfZjliTEVEMTV2U0ZNZUVXZzdMbE0wVW9vMXhQS2xJRUxPOU5TYzNLaWVhU1F2WHEzcnVpRllJT0lXOVA0S3fSAeMBQVVfeXFMTlY0alEtbVRXeG03Y1FXOGZDWWZtMjJCSVNRVVZKQlpWckFreXR6Sm8yb3psX05FdGNnQUNlaWg2VlNqSjI1blhwMUpJMzNXcWoyN2NvcnpJNUJlR2NBZktLMkFOM0tUREVFS1pVdlZ0QkdiaGVTTk1JeWlJaV84dzE3QkNkaUx6bzN3Rm5lUG9QTElXcFAwX0I1X3dkMzR3STdlUDhOVFpENm5fU3J2QU5Sa1hjdWNWdFNkMEg1MzhYR2ZhSF9wTjNGUENPaEZuSlliMUpBNktISkxBbGx3YTNGenM?oc=5"
+    },
+    {
+      "date": "2024-10-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kalaburagi MP Radhakrishna Doddamani felicitated",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEN5WEZ5UHZ5MzRpSjc0WENzR1FSMXlxcm0zcHE1YVlFNVgxWFhRTGxKWjFmWEFDUjI3aXRQRnRmemFQbWlKOWFWSWZFWmRsWDg1NzFyZmNHVjZGSENQSUdzVUtSNGFmNTlGMXRLdFpLaXlSeUp2Wml3YzRRSkZPT1dKSVhORW9SdmFNOWdsXzVXVnVGQi1BdXNrZHdXMmlMc2pvdm9fWW5fcGFFeHFBNEJEUGtvSFNJ0gG_AUFVX3lxTE9BcUlMeHlGd0FhRjJ2N01aU25kNnZnOU5oWGc3YUhuaGRjWkVkTTBvS1RPazZDTjBJdXg0RGZWVWdrc05RelpYaEZGb1I0U3JJNHNTb3BYSUotRUF3Qkt2cXIwcV84S2lZQ0pnSnZVY0NUSVItZEp3VFhJMlpOWTB1dHptWFZPUnMxVk9obmdZdzFRSHc5ZzFnNnBVZkJjWHI3b0FnTGg3Y1k2UG5yb2ZNRkNIb3V5MGtZT1BtRWtJ?oc=5"
+    },
+    {
+      "date": "2024-07-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "Radhakrishna Demands Swift Action on Kalaburagi Railway Division",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnJkMDRhb05POU9SOTNWZ3Jpb0RmVFMyYUsxaENCNEtwRnp6S0hvN0RvY25takZLMGN3UDBHbEw0XzRqQngzc0VLR0tfWFZRaXRqbHRwV0NlVlBVbFAtdS1waUxSQVUtbFBsYlNuNUFjY29DRmxYUnpaZUJtaVFjX1Zsekw1RkhhaFlmd0MxYVF6TTJXeWhDWWNtZDJSaFVrUmVreWppcy02aVRScDZKcdIBtgFBVV95cUxQcE4tLWt5STVBNkVwM0NOT2YwQW50YWptdFpvV3NabW1qLVdmRzVfMWFrcU5pLXBIY0tXSnJRNkxEeU9WSGRqWnpXcHlFblAtT0dPY2NMOGZ4ZmpKSjhCdmtIN0E3d003aFR2UFlLTklmdFl1SGExYkp0MFRaY2d5QnJ1bEtoOG54WHhVczZIWFpKb0Vxc0pmd2IxRERRREpBa0diMmRMeEhDdXdNWEsxeldGUkZQZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Gulbarga (SC) election results 2024 live updates: Cong's Radhakrishna wins against BJP's Umesh G Jadhav",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSmVZcHJXaXlDVVZFXzh2TkdFVEdNQkIzWUlJQXJqOC1WREJJRFNxNjFFblV0am5NUkE5UzN6LV9xOUJuUnNta1JlYm1aUHY3b25CY1JNM2x6T0s0N01nVV9iQ18xWGtIRnNHaHR2UkV1WDVjVlZrZGFzeGFlcVRERXlwLU9hQkVBSnBZTW9jT1BjY2c1SkRBOTNxX19UdzA0alBSZk13WWs3ZVVVYy1zUTBqYWFUT1lybnNBblJIU2pndERoekZJak5vSnhDdUEzTC11RVY2XzZBWHZDZXg0Q2pBeHA5T1UxNE9CVU10b3VTaVZyaG83YmtuUW1wdWR2NXlCUWoxdVZSRHZkeVdhYXFIRFFjbldCSnhvTWpCMXBtcnJSQ1l1bm8xRVJsV3hRd2FJ0gG4AkFVX3lxTE1OZVZMemtTa0E3OVlfQk1WSWRxdkgwd1B4YWgzZG1YVXRQSEpqZnM5RDJ1TEFOc3YweTdWdHBCQVdLNmZOemtYZ1lham45NkpkSGk1LUpVUG1aQ3Y4R1hKaUh3Wkppa1BELUZNSzFoQWJ5Q01QbmszWlE4cE53ZGNUQUtXRndScEpNZzd5THdEcDhpeG00TzRvY0FhRDBYS1Z4ZVk1Wkc2UmF6c3JmOGNoUzVCNnNEMnhLVGJmMGx1TThqMENJRUZGMU9kVTUxTE9WWWZON1FHYkpSLTZiUkRtdnNGTEdBcUNPOThoLXI4Zi0zR0xvUmlnRHlfbzRFTWJXTmNhZEZ0QmNOYjhEeUdHVkNReVNXTDRPVWh5OXluVVk5ZXljMHJmOVM5NDMwN1FoMVk3RHdRZg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Lok Sabha Elections 2024 | Mallikarjun Kharge's son-in-law Radhakrishna Doddamani wins Gulbarga seat in Karnataka",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObHVvaTZFVG9LbXgwMkRsTFJHeEhRZFlmZjFRR2tTa01Wcm9CbEtBazhjX1dNY2dRWUxXdTBuWkZsd0l6QTR2ZWtvTk5UQ3ZmMERzVTd1TDlsRXFJbjR0X01SZUsxOWRpc0JrYWpqU2EwcldkYWJsajBmUXV1OURSUjFfUF9lU0c1cWhfREx3cWd4NzJDMzZIUXVxYVBQNHU3ci1Ld2JtYWtYMzU1dDJGcVlLa1FrdF9LSk5WU3FCYUpNaVB4c2gwYk45R2tyTWZGd3lVczVRUDM1TTNfVk9oeU1hdnFmRTR2ZGtOcVR3SU1sUnlKUGc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8429,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-5",
+  "pc_name": "Gulbarga",
+  "pending_cases": 1,
+  "phone": "08023615050",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180183.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 44
+    },
+    "debate_titles": [
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding need to bring back stranded Indians from Russia",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding establishment of railway division in Kalaburagi, Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 35
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/radhakrishna"
+  },
+  "qualification": "Under Graduate",
+  "questions": 14,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 4,
+    "Rural Development": 1,
+    "Textiles": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "DR. UMESH G JADHAV",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 19,
+    "criminal_deduction": 6,
+    "legislative": 32,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 533899960,
+  "total_liabilities": 72386247,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.78
+}

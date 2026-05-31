@@ -1,0 +1,404 @@
+{
+  "accountability_score": 41,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2378000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 5598000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 83000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 40946
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 436000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2220800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2780748
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4067",
+      "total_assets": 8378748,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 8378748,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bharatbhai Manubhai Sutariya is an Indian politician. He is a member of Bharatiya Janta Party and current MP of Amreli.",
+    "title": "Bharatbhai Sutariya",
+    "url": "https://en.wikipedia.org/wiki/Bharatbhai_Sutariya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village-Jarakhiya Post- Jarakhiya Amreli Gujarat, 365430",
+    "emails": [
+      "bharatsutariya096@gmail.com",
+      "bharat.sutariya@mpls.sansad.in"
+    ],
+    "phones": [
+      "9726590025"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/bharatsutariya.bharatsutariya.79"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "01/06/1969",
+  "eci_state": "Gujarat",
+  "email": "bharatsutariya096[at]gmail[dot]com,bharat[dot]sutariya[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 462990,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 424990,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 424760,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 419530,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 248921,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 445660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 438800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 487530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 426890,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 299350,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Housewife"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 35% of MPLADS local-area funds were spent — ₹9.61 Cr unspent.",
+      "headline": "65% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 96124682,
+        "utilisation_pct": 35
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 321068,
+  "minister": false,
+  "mp_name": "Shri Bharatbhai Manubhai Sutariya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 50875318,
+  "mplads_unspent": 96124682,
+  "mplads_utilisation_pct": 34.6,
+  "mplads_works_completed": 126,
+  "mplads_works_recommended": 275,
+  "mpsno": 5616,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "​Amreli election results 2024 live updates: BJP's Bharatbhai Manubhai Sutariya wins",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ3pNa3Q0WTZMMXpnUlRzbzNiOGtseGVGNk1LUm1zMVotSURWanZlS1RINzBtQXpGM1JkVkJyV2xIZ21QSDJGbDE4Z3JySjYxazJCSTVteXlYWW5jSk1aUXpPMlJJYWZqdVBiRGY0VkxmZktFN25XMHFGVEVBU0ttS3M5c1ZhOF82R0NqY1cxUm1ua2c4dWYwQXBoN2xMdGxzMnRHRTFUaVhQU3F6cEFWcmtvS3NPQXJpUHU2OHJ1dTJkZ0dwMjRSNjFtaW15eFpMejB6dmpzam5PdXJyZkRIay1fWjRkTFVPSTZxcmgxN19SaUFzcmd2NlpBYUg4UkJpTnhwRG9sekxrVl9HN2ZNSTJSRWhtNTRPTmpiOTRMZnVTc25aQWt0YWx5cUVQei1vaHVLTXNyY9IBvAJBVV95cUxQSnBEd3JxZS1VOFJvYW9ncUhXVFBVdEZlMG9SbHJucVIxenpyZS1fNXZCS3pEX1h4bk1aTDgybTlPbWxwWFY5V3JFc1pIMUprME8tM2ZTRTZTbHo4cUN1SFdUNEFEYXJISG5KT3dINVh4OVBoZENRSWlldi1fM2ZEeHZ2WWU2TklWVkpDZVE4aEt0NkhHN29ob1NqZ3pYd2xTVUhkQW9GVmZTZGRMZjJrVkZWb1lzZmpXa1Z3ak5kZWU1YXVYMVQ5b3JsWkNoQlB2djBkNG56aWo0VHlhcWtBdENHbmgwYkRsYjA0bk9fTUZGb1EyOVhDMmEyb1JrdlQ4LVg3WHVHTmhtT1JLb2FLQmVGeHIxU2pyVXFBdEtNSVl6cE5ZY19jQ0d6VWk1c2NTeVRUbzR2RkFMZm1L?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Amreli Election Result 2024 LIVE Updates Highlights: Bharatbhai Manubhai Sutariya of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXRVT1l1aFVieGVXaXRsZWk1WGtnQjZiSndzMFBqYjBNWW9rVTgxU1hCVzI2YjAtb0xlNFBSTjFiQjdsNXFCRHlqMjczLVFUcjhPdWI3UUNCOFdrREpVMzJxQUp1OEpRYzRodF9vU0NxYUZpRVF6QmZKcDJYcXZtdU9mY2ZMTTU2X3NYTFRFd2tvZ1AzNFNjdkpWbTZ5TkFjUmxpWnZwR3pZVHF0MEZDc2psTjZabUthelpyUTItR2dCS1NPVWNidG0tX1ZxRGxPTlpMRW92Zk96RGx6N1IzNdIB5gFBVV95cUxNT0NRTlpCYmJidXJMZmM1NVVfZkswWUloRUtGLWZpNVFFUkxpQkd1MVlYQ3hkdmttX1ZwRzhOelJkbV94T085cElWTEFrTXVQWUl3VkVsNlFYTGt3YUZLYWx4SjVuSnRkb1dVbEs1eGJQT1pqbjRSMjFoTHM0TVNrNGxZTlkzN1ZTQnNqV1dvaHB0MFEzNHBjRW1nNGZ1blZrRW54NnA4N1Zqa2Y0U2tmcTg5VU5tSWhTcGxIN19sZTQxUUZsX2lqOTlZLXNjY0J3dmJwY2o0eFE3cWVxMnFicGhpRnpBZw?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:50:33.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bharatbhai Manubhai Sutariya",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFNDeWUyb01lQVFoV2didUVxUU1CVE9zbTI5eU5aOHpPZ1Z6blB5SGNIbVlpWkR0MU5BMF9vZEpQTGxlUDVkaDF4dnJUeXNaZ0QwTUdqZFN4ZXZXWkNYNjhOWTBKTWZyUGJ2WFA2SVNfMW1scmg3bG5PM2ItME8xR1JlZFFyaGFrQW56SFFvbmNaTmRfZ1BmSjk3OHlPbFFUR3J4YnRSUzRBT2owTndqdmVaMk1odTZjTnROdU5VRnlwVEdYdnc?oc=5"
+    },
+    {
+      "date": "2024-05-06T08:03:08.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Bharatbhai Manubhai Sutariya, Bjp Party, Amreli, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQXzFSTWlXXzhoMWFTbkgzTXk5Wi0wRFpLOTFRYnhjRXkxcC1FWDhad1czaDV3TGw4WUg3UDFxQ1BJZ0l5cFZmUmRWa01iMjZ3X25YQU1jOWNWWEtMMVpQSXpEUTZvRXJoTEtYOHJuN3dTTUhvSmhlZmE2U1JXOV9JZmliNlJIWjBOZEo3SnloRXBiazFGYkVndllVMndldTAtN3pGWVFZSzAyRmhCUzZLTkNjV082bG1QOXNLelNMdDBDYmVQNW5oaExWQU9paTVFelBiWVNHclNRc3M1MGRMUDlyWWEwd3Fzd2c?oc=5"
+    },
+    {
+      "date": "2024-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Amreli Lok Sabha Constituency: BJP’s Bharatbhai Manubhai Sutariya to go against Congress’ Jenny Thummar",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGdxek9RT1ktUFhoZjVWSzZKcFFLeEEwazlnaTRMNll6SWZzZTlpVURsVDl4bTVvWTR2WWt0cDhGaFNqMnEyRWs4UThfV3p3Qy1keVhKR0lrLWlyWS0wck5sM3FScUZBUURWaHhIZDI4d0NlTTVtMkZwLU1sLTJTOXh3eFNSVGhKUzd2Z3pNUVFQWWppSjRIUnNIR2NPcTEyYU9OZmVJS3RrdXV4U3VrMGJYNUxleXdDQkRQaXItVUhOeWpUdDVkaE54eTVBenpvQTd5ZkV3bktOemFmQVHSAeQBQVVfeXFMUHdTZklROHVvMGVyYlMyYy1tRkRlTFpaZEEzQ3BTcXo5MTBIb2NaaEZxaWFkR2hIdDI0REV1TE04ZnJNQUNBUzNfd05ETlo4eTBza2FEOGc3RWd2Q0xuTnNSUVQwU3FTZ2p0OTNxb0VTa29STE9kSnE5dU8zbFZ2Q2dOOGJLMHhQdjBTTWFYQ1lxYy1kYktKcVpGdWMydXozZFNuY0NVQnFfQ3pIcDkxamR5aGdvVEh0WHJmc3hxTHhpcWhfZDNFY0NJaEFFWXk4ZVJnRW0xTmpqUGVBaDBsLUItWmhq?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11349,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-14",
+  "pc_name": "Amreli",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180107.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Approval of 3BT and 4BT Cotton Seed Varieties",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Immediate Tendering and Commencement of Broad Gauge Railway Line from Amreli to Junagadh",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 9
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bharatbhai-manubhai-sutariya"
+  },
+  "qualification": "Matric",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "JENNY THUMMAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 0,
+    "legislative": 21,
+    "mplads": 72,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 8378748,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 66.28
+}

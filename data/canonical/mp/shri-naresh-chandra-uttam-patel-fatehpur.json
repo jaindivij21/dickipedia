@@ -1,0 +1,475 @@
+{
+  "accountability_score": 22,
+  "age": 70,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 23900000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 25900000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 143000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 21389708
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1773500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 142000
+      }
+    ],
+    "movable_total": 23448208
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7595",
+      "total_assets": 49348208,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 49348208,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Naresh Uttam Patel is an Indian politician, leader of the Samajwadi Party and a former member of Uttar Pradesh Legislative Council. He first became an MLA as a Janata Dal candidate in 1989 and is one of the founding members of the Samajwadi Party.\nCurrently, he is Uttar Pradesh State President of Samajwadi Party, second only to Chief Minister Akhilesh Yadav in the organisational setup in party state unit. With his clean image and educated background (post-graduate from Kanpur University, he has earned a reputation of grass-root leader with wider following among the dominant Kurmi caste voters, the community to which he himself belongs.",
+    "title": "Naresh Uttam Patel",
+    "url": "https://en.wikipedia.org/wiki/Naresh_Uttam_Patel"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H No. 361, Village Lahuri Saryan, Majre Saryan Dharampur Post Birnai, Tehsil Bindki Fatehpur Uttar Pradesh, 226401",
+    "emails": [
+      "numob2015@gmail.com",
+      "nareshchandra.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9415905871",
+      "7309995074"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://x.com/NareshUttamSP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "10/01/1956",
+  "eci_state": "Uttar Pradesh",
+  "email": "numob2015[at]gmail[dot]com,nareshchandra[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1478290,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1359620,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1173910,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1144990,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1049390,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Advocacy, Member Legislative Council"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, House/ Shop Rent"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 10% of MPLADS local-area funds were spent — ₹13.17 Cr unspent.",
+      "headline": "90% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 131651179,
+        "utilisation_pct": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 33199,
+  "minister": false,
+  "mp_name": "Shri Naresh Chandra Uttam Patel",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 15348821,
+  "mplads_unspent": 131651179,
+  "mplads_utilisation_pct": 10.4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 81,
+  "mpsno": 5801,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Fatehpur election results 2024 live updates: SP's Naresh Chandra Uttam Patel wins against BJP's Niranjan",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPZlh6REJhNTJ1ZnlGLW1DNk4zLTI1REpoNnVfZTRiWVJnb1BBcEFMTEpjdzBncGFVZkRLVmJOWDA5VDJyeHp2RW1LVGNaMnIwSG1MaE5HZ0RIc0k2LVN3TURCeTVQY0hDTGptOWZ4dHBjTml0OWxJZkF1QjVMaEVXdHgyVWhmTDk0c3pqcGVlakczOGs5TFRwcUNIQkVJLVhKamFwV2JxeGxWUFJ3X2hmN2tNRmQ2S1ZCRUh5WHRnaWozVFdLVjZGX3pmM0pDSG8wTzdaWWMxbThESHJrUThDZk16SFlpbks0bVNHeGJWODV6TGtKVFQ5Z1c5YkVPRkZnQXlTQ25LczZKRXZrbHJUWUNJZ1ZpQjQ4emttNVhtaTVGNm9rZXl4SkhpQW1CbV82dzBuY3lFYlU1ak56YzNwX0NQTjRuTWt3c2tpVk9HTE5DMXR2Z2xJSWh6SFQ5Z9IB4wJBVV95cUxNQzVFZ2RXNDhvTE4wemlqajRRdmtXcVMtSmtkOTIzVEkyMnRaZV84TlFvNFdJSUg0dm91U3VvVVVHUS1Bc3RCZmdpa08tZ2lVUU83Wk45R2xFVDZET0lRbVBjV1QxdTlvLVM1UUtDeHgtRC1RQ29vNDc4Z2k4b3piVEZTUVFuS0xVOVVZQWhIRW9pMHg5aHFDbjNtMkhKQUp1djZEM2hLUjZXRHFaMmpuX2pVbWRUMnFkRkdNZ2x6Q3Z5WnRQMk5lT0dabnl3bHh6VkFqYk0wUEZEN1BWUjJEODlKOWZYaTFpVloyZGVvUi1UQ3dyQ1o5cy1OMGlpVVUxTHcwWmwtdXJaNXF6Z2s2d3JnZjd4QS1aSmV1cXdfWjJzbFF6eFh3cWZZNFJ2blY2X0ZMZ2ZDYnE5RWJFRmFqdU5EMGx6R21CQnRMY1JnU3JfY1AwN1cyWnNjY1hMWWtGTF93?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Fatehpur Election Result 2024 LIVE Updates Highlights: Naresh Chandra Uttam Patel of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVzhRSVZOY0dTamw2YUd0Yi1WWWZaYkl2X3RURTZHYVNLYkdoeVc4MjREMjZiSFV6OVpWM0V4LXd5bjhGVzc1bW9sbWg5Tk9xeExuTU1YU1B3eXhtbHJJdnJyQVF5M0s0dmxYT3hZR21OTlhzNG50Vjg5cEtPZEwwb3h2NWI0clBUUzlseTZXTGpWX1hXRndMYmZFNFZWdkJfaFlWTldLLUQzckVtWXNuSklhMmdsVXdUM1gxQk5iR0RzaFduNDk5T0lWeUNWSjBnaWVQY1hxLWVEUlZ4VTNHbXlFMNIB6AFBVV95cUxOODBSbjg2cEowbHFCdjdjWXlvSzBBc3pqQ2JnZ3VXU0E3RTk0OS1aOUUyOEpTTHpoRkVJNk1OOGM5dlRMN2lEbVlIVEpsYm1TMWFienlkWFloZWJ4c3hoZXd4UW1Id09kcmJBeS1saGM4Rm1QZjlEMkRKc19nU19KY0VkcDktU1BsSjk1ZS1CNm15REYta2tLdDE0SjBOVmNIakNZa0FhSGQ1ZWhxcUtLU2E5Q2xWS293OUVyWWRmLXBwdFJ5aWJyMF96N1BwNTI3aWcwNjZmTUFYTjFSUV8yRnNNVlFKVUc3?oc=5"
+    },
+    {
+      "date": "2024-05-31T20:02:10.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Naresh Chandra Uttam Patel",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWR4X2stTG9HbFdHUjh3V0w0WmhiSDdWRlJ4dVk0U0VzNTRmdG1qOTVYUkRlM2I5UDVNNVl0U1JlM0JpeGIwTzdyREN6V2g1eGVULTQ2TndKanExcFVmMFV2NnUxd3RIUUNLSERyOVJ0YVpFZ3Q0cGNLTmNtNkg4N3VBcVdJRXZkWGRreF9OcElVYi01c2FfcklfQURPUUpQYVROOHZsWkhUVGwyLWNodVpyb2ktbW11V1ZXUGF6Q3NGUzJ2UDR2ZFhsNEt4Z2s?oc=5"
+    },
+    {
+      "date": "2024-05-31T18:57:58.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Fatehpur Uttar Pradesh Sardar Patel Siddhant Party",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXkzNjJCTy1CaV92eVQzVER3NWpwNmx6czg0clJxN1kzTlplWURfY21oVFRnMFEzaC1Pc2dDenNEbGg2M2pFQXM2MHhvTXlETG1YYi1IRWN4MjVRblZxbE1YdjFyTVBtRWlqVUt6dTU3TDBIZEQ3bjhOLXdxckpuX3Y1WUlzRVNRREJSdXRmUVlxYnZRbmFpbXFpMkxTT3lqRkl4WFJTc1daU0RFUjRBOXp2cjh5S1NFcXlmZmh2aWhHT0pH?oc=5"
+    },
+    {
+      "date": "2024-05-17T15:16:50.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Naresh Chandra Uttam Patel, Sp Party, Fatehpur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM1NFdGdqNXFHS3RpRVJLRzhCLU55cWJHUDJJSlJIVGNMUXc2cTVMNXo0RXR1TDBjODdQdm84RnRPWGdtQUZRbFFfSXpTYy1QOGh3eXo4TlBJbGJZWUVJbTExOFVCUWNOMjF2d2JSRklXYjJGeEg1dHB3ZzRNVGNhVnRyRjk0YnJZVGpDbUtVM0hKdzZMNUJRbTdnYjV3RUFlRXJaVDBOUHd1VXRJTlBOcXJ6X0FDOTF5YkFxcTJNa20wZEZBYktnb1VBbTFKV3RyZE55b1pPc1Yxc1JxLUVSUnd2WkhZeHhpRG5Eb0JSY2ZlUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8120,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-49",
+  "pc_name": "Fatehpur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180467.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 97
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Action Against Illegal Sand Mining and Restoration of Ganga Flow at Historic Ghats in Fatehpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Financial and Job Security for Shiksha Mitras in Uttar Pradesh.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Request for Timely Disbursement of Scholarships to OBC and Minority Students in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding provision of separate column for enumeration of OBCs in the upcoming Census",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding employment opportunities for B.Ed, B.P.Ed and BTC degree holders",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Immediate Implementation of 33% Reservation for Women in Lok Sabha and State Legislative Assemblies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to the Government to Ensure Minimum Support Price for Paddy Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of closure of schools in UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Connect Bundelkhand Expressway with Ganga Expressway",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Expedited Recruitment of Qualified Youth in Teacher Positions in Uttar Pradesh to Address Unemployment Among B.Ed and BTC Graduates",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Inclusion of Bhat Community in Scheduled Castes Category in Fatehpur District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Request to govt that farmers should be helped by declaring Fatehpur lok sabha constituency as drought",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 17
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/naresh-chandra-uttam-patel"
+  },
+  "qualification": "Post Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "NIRANJAN JYOTI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 22,
+    "criminal_deduction": 0,
+    "legislative": 28,
+    "mplads": 12,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 49348208,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.2
+}

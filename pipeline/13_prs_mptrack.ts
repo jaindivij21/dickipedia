@@ -1,7 +1,3 @@
-// Pipeline step 13: deep PRS mptrack per MP. Resolves each ECI winner to a PRS profile slug via the
-// paginated mptrack listing (constituency-anchored, name-confirmed — same matcher as 09_photos), then
-// reads the member page: attendance / debates / questions / PMBs each with the PRS national + state
-// averages, plus the list of debate titles participated in. Source: PRS Legislative Research.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';

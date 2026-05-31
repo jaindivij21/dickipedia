@@ -1,0 +1,351 @@
+{
+  "accountability_score": 35,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 20000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 36507200
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 56507200,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 100000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5435049
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Tata AIA Life Insurance, Policy No. C238566329 10,00,000 10 Lacs+",
+        "value": 1200000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1200000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6980000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1422599
+      }
+    ],
+    "movable_total": 16337648
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5273",
+      "total_assets": 71664809,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 71664809,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bhupathiraju Srinivasa Varma is an Indian politician from Bhimavaram, Andhra Pradesh. He was elected as a Member of Parliament from Narasapuram Lok Sabha constituency. He belongs to Bharatiya Janata Party.",
+    "title": "Bhupathi Raju Srinivasa Varma",
+    "url": "https://en.wikipedia.org/wiki/Bhupathi_Raju_Srinivasa_Varma"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Flat No 601, Raghukula Towers Apartment Street, Kumudavalli Road Bhimavaram Andhra Pradesh, 534201",
+    "emails": [
+      "varma.bjp@gmail.com",
+      "varma.bjp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7287944493"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/BhupathirajuSrinivasaVarmaBjpVarma"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/BjpVarma"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/Bjpvarma"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "04/08/1967",
+  "eci_state": "Andhra Pradesh",
+  "email": "varma[dot]bjp[at]gmail[dot]com,varma[dot]bjp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 819710,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 904710,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 921520,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 740950,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 760890,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 493680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 487140,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 504270,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 463870,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rs 819710/- Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rs 493680/- Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 450000
+      },
+      {
+        "category": "CBI, Bhimavaram No 201609xxxxx 1,05,75,127 1 Crore+ BOI Bhimavaram, No 515031xxx",
+        "value": 16476961
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 16926961
+  },
+  "margin_votes": 276802,
+  "minister": true,
+  "mp_name": "Shri Srinivasa Varma B J P Varma Bhupathiraju",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 1,
+  "mpsno": 5745,
+  "myneta_serious": false,
+  "news": [],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7677,
+  "notable_record": null,
+  "num_candidates": 21,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "andhra-pradesh-9",
+  "pc_name": "Narsapuram",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180006.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhupathi-raju-srinivasa-varma"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "UMABALA GUDURI",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 71664809,
+  "total_liabilities": 16926961,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 57.46
+}

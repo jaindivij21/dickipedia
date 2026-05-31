@@ -1,0 +1,721 @@
+{
+  "accountability_score": 0,
+  "age": 67,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 16373800
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 22095000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 27052800
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 31000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 96546600,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2808300
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 18827143
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 6073490
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6873781
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7625134
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 42207848
+  },
+  "assets_earliest_year": 2005,
+  "assets_history": [
+    {
+      "label": "Bihar 2005",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=68uQ9BCaqqyM7uCNZG5L",
+      "total_assets": 8966000,
+      "year": 2005
+    },
+    {
+      "label": "Bihar 2010",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=68uQ9BCaqqyM7uCNZG5L",
+      "total_assets": 22908662,
+      "year": 2010
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=68uQ9BCaqqyM7uCNZG5L",
+      "total_assets": 49462901,
+      "year": 2014
+    },
+    {
+      "label": "Bihar 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=68uQ9BCaqqyM7uCNZG5L",
+      "total_assets": 63050587,
+      "year": 2015
+    },
+    {
+      "label": "Bihar 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=68uQ9BCaqqyM7uCNZG5L",
+      "total_assets": 87873231,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9601",
+      "total_assets": 138754448,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1448,
+  "assets_latest": 138754448,
+  "attendance_pct": 30,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Surendra Prasad Yadav is an Indian politician from the Rashtriya Janata Dal, and a Member of Parliament representing Jahanabad in Bihar, India and former Member of the Bihar Legislative Assembly. He also served as a member of 12th Lok Sabha of India from Jahanabad. He was consecutively elected eight times since 1990 to 2020 in the Bihar Legislative Assembly.",
+    "title": "Surendra Prasad Yadav",
+    "url": "https://en.wikipedia.org/wiki/Surendra_Prasad_Yadav"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Rampur Chiraya Tar Gaya Gaya Bihar, 823001",
+    "emails": [
+      "surendraprasadyadav5444@gmail.com",
+      "spyadav.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9873466743",
+      "9499400177"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 7,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 7,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt by dangerous weapons or means",
+        "section": "324"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt by dangerous weapons or means",
+        "section": "326"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Undue influence at elections",
+        "section": "171C"
+      },
+      {
+        "count": 3,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Disclosure of identity of the victim of certain offences etc",
+        "section": "228A"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Putting person in fear of injury in order to commit extortion",
+        "section": "385"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Word, gesture or act intended to insult the modesty of a woman",
+        "section": "509"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Sikha Sharma JM-1st Class, Gaya",
+        "fir_no": "11/2008 P.S-Delha Dist-Gaya",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "447",
+          "323",
+          "504",
+          "506",
+          "385"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJM-1 Gaya",
+        "fir_no": "09/2011 P.S-Magadh Medical College Dist-Gaya",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "323",
+          "324",
+          "326",
+          "307",
+          "120B",
+          "34"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Addl Session Judge 6, Special Pocso Court, Gaya",
+        "fir_no": "140/2018 P.S-Magadh Medical Gaya",
+        "other_acts": "Section -77 JJ Act, Section 13 Pocso Act",
+        "sections": [
+          "147",
+          "149",
+          "228A",
+          "353"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "ACJM-1 Gaya",
+        "fir_no": "23/2015 P.S-Mein Dist-Gaya",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJM-1 Gaya",
+        "fir_no": "401/2015 P.S-Barachati (Mohanpur) Dist-Gaya",
+        "other_acts": "Section- 3 Bihar Property Defacement Act , 23.01.2016",
+        "sections": [
+          "188"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJM Patna",
+        "fir_no": "64/2020 P.S-Sachivalaya Dist-Gaya",
+        "other_acts": null,
+        "sections": [
+          "171C",
+          "188",
+          "269",
+          "270"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJM 10, Gaya",
+        "fir_no": "615/2023 P.S-Fatehpur Dist-Gaya",
+        "other_acts": null,
+        "sections": [
+          "500",
+          "509"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "02/01/1959",
+  "eci_state": "Bihar",
+  "email": "surendraprasadyadav5444[at]gmail[dot]com,spyadav[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 5959452,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 7966440,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5158228,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3893333,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5073672,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1004140,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1719420,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1888133,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1728133,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1715505,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business And Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business And Agriculture"
+      }
+    ]
+  },
+  "inference_count": 7,
+  "inferences": [
+    {
+      "detail": "From ₹89.7 L (2005) to ₹13.88 Cr (2024).",
+      "headline": "Declared assets grew 1,448% across 6 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 8966000,
+        "from_year": 2005,
+        "pct": 1448,
+        "to": 138754448,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 326, 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for voluntarily causing grievous hurt, attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "326, 307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 30% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 3% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 30,
+        "percentile": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 1,448%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 1448,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 0,
+        "pending": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 29% of MPLADS local-area funds were spent — ₹10.51 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105076378,
+        "utilisation_pct": 29
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 142591,
+  "minister": false,
+  "mp_name": "Shri Surendra Prasad Yadav",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41923622,
+  "mplads_unspent": 105076378,
+  "mplads_utilisation_pct": 28.5,
+  "mplads_works_completed": 118,
+  "mplads_works_recommended": 284,
+  "mpsno": 3955,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jahanabad election results 2024 live updates: RJD's Surendra Prasad secures victory in lok sabha election",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPRHllRHJ2RkJOeTBWdFdNNEhsSGZWTmxlTGxJQWpLSXlMOG5zdDRqanBWeGZ1WjVnNnViMWhuRGNOSHNXZHJQNE5TekNSa1hkN2FCR1phZmdfREZYbEhyV0dIckJ0QzBsLW5BNkU3REp3WjlBXzhvMXRKa2tMVG83akNOYlFqb2pZTUJ6ZVNqVXh2M1FqYVM4NzQxY0c3dzFXOWNQbXJWaDA2NnE4NE1rZkxvRXlCb3FEY1l0dmt4RzdnOEZIYTN5MVFLS1RXcHJSdW9LTERvX2hwZENwb25RMlI5aEtuRjJrQUdrcDE5RWNYNmRtbkJkbTNLWnBfT2VxTi12UWRnTXI3VW0zSDJYNXFSSGhXWUxhVHRxZ0ZRM2hYajVpZGFabmdJSGZlY29OSDFF0gG4AkFVX3lxTE9FVGcyZ2VFQVltOEM2YWx5YmpncmhiMTJJMlc3dzlieDZVOTdoVjVhY0xMdFZUTkFsWjZxRnVndkYyd3lWckNUa2NfN09DYi1qblo1czFQZ2doQzN2SFAzRE1uRmpvMXNPZnl0TUFFVEpiSUVNT0hmSUtyR252ZU1EbE5tRm9sY2l1eXlMS1lobWQ0UlhWaVdKSjVkLVI1dmFFb3NCeHBjQy10cW9fMm9tMV9wMVpVMFlKTWJMdTk4X1lOU1pFOEJmZEhDVndZRk5Cald0aVpiMTJnTGdYM2Z4RS1vcmkwVFpGQUVpUW1nLWpyZG9OZEwtX0s5WUFwT0l0bWEyeGZOQmtZNk02VGl2c1hYYjB4UWVha1F2UDRTdE1YN0FReWdqeW1zZDR0MHNVR1lzeV9KVw?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:25:52.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Surendra Prasad Yadav",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWVoTmhUbjExZUkxQ1pMbng2ZDRYVTdpWFdNb0FKcHhFTXlUZ09sbGd3UGtCajRhV0U1TjhmekpZbnlLZWJ5NXZVMnVPd3ZJWENJN3REMG9FVk9KUnliZG1OSW9UanB4UW9FaVFzcHJ2TlNZZGtkYUJWOGtVamJ1VTdJaGxnN2c2dTVqbGVqWmxKaWNKRkN1VExkd3NiazMtWkNaYzAxOVU5QjFaVFM3ZlJ4T203WDFLN1Y2cnN3SQ?oc=5"
+    },
+    {
+      "date": "2024-05-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Jehanabad's Rematch Between JD(U)’s Chandreshwar Prasad And RJD’s Surendra Prasad Yadav",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDN0THBHcG5GSml2ZkhyLU4tSlJ0eDVxUDAxeEFIZUZEY1N5SzdvTXlPaGxoRXo1MDZtb2F1ZnViTlNvSmtiRXVGOXZqUUp0bUlrZ3l2eXFpNmNsS016bVhjVHUyekpCYlJESnotXzAxQS1XU0JRNG9MbG1nNHFmRmJZSVpkN2pVb2ZvNlFrenN6RGZLZVYweVY0NC1oeEdTU1VqQjlsUG5NUVd0QXZJdjRzUGtDSjZNN0E?oc=5"
+    },
+    {
+      "date": "2024-05-24T21:16:02.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Surendra Prasad Yadav, Rjd Party, Jahanabad, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTzU2Y3cwYkR5cklzY0R0WDN2c2JLcm9YTVBYZUFRRU1BakdQZ3JtbjhjMl9PV1c3M2FSTTBRVWMwdW8yMUtJYnhFODR2UmJpUG0zWl9ZNFRPZnZQQzV3ZXJFSUkwc25zV1M2YVdHamtrNkJ0SWtDTkw1ZGpzZGlCaWF6SnpueFF1Wjg5c1FMSWJlQ0RoYmRqdGVvU1RCaEZSOENUYjh0bUl6TkRCWnp4a1o5V0NzdU40YjJJOWJTeDdSbXY2eUNOQ3dCY1E5RTBJY0ZTMG5vVnk3elJuT0xSVklB?oc=5"
+    },
+    {
+      "date": "2019-05-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "Jehanabad (Bihar) Election 2019: JDU candidate Chandeshwar Prasad Chandravanshi faces RJD's Surendra Yadav",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeV9XRTUyTEh5bFNsSFREWHk5N28zUXJrckN6T2JUZmZIT3FPMWhBNFR1VEdUUFcxOHJveVJhR2h0SHI1RjQ2SXBvcjk3TGU0R3dPMEZzZ3dDd2QyT21Dc0hfY3lsRmc4UmI2bzBvRXN2ZnpDR0RLS0otSUwtbWVacEJOXzlfNTJiT0w1aEMzQ00zcmpvQXBVWlBkczlMankta2RoWXVzZjl1bVYwVE50S2QwYkVlV19lMDZ2Q2RmYmotOFZnTHZ4Y1hBU2o5bTlBYWszbzliV2Z1UWR3SlRyZHh2a3ZqdG1XcXFrYWNR0gHzAUFVX3lxTFBkR1kxUnJaSFA5WU9xMUdNQmFXMVBoNms3SnVQRGI4S3BxQktZUG54Q0NtblhjTzRYTzVUSUcwYUxFMndrV1Y0VFp3YmFHdGZ5eEJwelFPa0FHRUNwNFRVeW9YZ1RDRzIzVUcwN1RBaEw4cERCOFRvM2xvemRyRVpnN3o5UDc0cUJ4SFVpcm0zOHFhQWRMbkJBOEZ6YThPMlQ1SWhiRTZGa1Q5YjFxY2ZhVmZfdkY4d2lFQ2RKTHNqU1BTT1p6TGhFY3VhYnNycjB3Y2FHNnZ5OGl1bXNVbDZpZWwzdmVSUUVyc1Q2ZGxFeHVVcw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 11055,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "RASHTRIYA JANATA DAL",
+  "party_bond_total": 10000000,
+  "party_full": "Rashtriya Janata Dal",
+  "pc_id": "bihar-36",
+  "pc_name": "Jahanabad",
+  "pending_cases": 7,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180078.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 67
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/surendra-prasad-yadav"
+  },
+  "qualification": "Doctorate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "CHANDESHWAR PRASAD",
+  "runner_up_party": "JD(U)",
+  "score_breakdown": {
+    "base": 29,
+    "criminal_deduction": 37,
+    "legislative": 8,
+    "mplads": 61,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 15
+  },
+  "serious_cases": 6,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 138754448,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.88
+}

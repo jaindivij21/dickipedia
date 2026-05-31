@@ -1,0 +1,411 @@
+{
+  "accountability_score": 23,
+  "age": 52,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14266000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 1000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 17630000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 32896000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1535000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1183951
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1396764
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Investment of Life Insurance 94,525 94 Thou+",
+        "value": 214464
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 566678
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3640000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 9400000
+      }
+    ],
+    "movable_total": 17936860
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1801",
+      "total_assets": 50832860,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 50832860,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kartick Chandra Paul is an Indian politician and social worker. He is serving as a Member of Parliament, Lok Sabha from Raiganj. He is a member of the Bharatiya Janata Party. Kartick Paul won by 68,197 votes over his nearest All India Trinamool Congress rival, Krishna Kalyani, from the Raiganj Lok Sabha seat in the 2024 Indian general election.",
+    "title": "Kartick Chandra Paul",
+    "url": "https://en.wikipedia.org/wiki/Kartick_Chandra_Paul"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Seth Colony Kaliyaganj Kaliyaganj Municipality West Bengal, 733129",
+    "emails": [
+      "kp2426502@gmail.com",
+      "kartickpaul.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9434743351"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "08/10/1974",
+  "eci_state": "West Bengal",
+  "email": "kp2426502[at]gmail[dot]com,kartickpaul[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2516150,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2462980,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2204700,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2048580,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2166223,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1722320,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1641950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1406510,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1462772,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1802831,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 591910,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "Gift"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹17.64 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 176447917,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 23683961
+      },
+      {
+        "category": "Unsecured Loan Biplab Saha Pan No. CLBPS9518R 2,30,795 2 Lacs+ Unsecured Loan Di",
+        "value": 3132777
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 26816742
+  },
+  "margin_votes": 68197,
+  "minister": false,
+  "mp_name": "Shri Kartick Chandra Paul",
+  "mplads_allocated": 202677987,
+  "mplads_expenditure": 26230070,
+  "mplads_unspent": 176447917,
+  "mplads_utilisation_pct": 12.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 403,
+  "mpsno": 5691,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-11-15T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "MP Kartick Chandra Paul's plea to chief minister Mamata Banerjee for AIIMS clone",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1haQ1hZalRQc3JURV9BZzNoaGNoSWd6UWNGRk5SeUtMZFpUWGQwM3oyS3lJckl5dFJSYVB6OGpVTzlDemJBYzZqMTNfWG1LaE8zU25LR1JSZTVhUFBRMlhYTXFQRThwTVVMSUZtNjlrWHo2bkVlVHVKUzEtb0xOd3ZROHBMMlQ4MHFnUWZCZkZESVZFcV96cUEzZzBmYTBTRXJuaXFRVmRCU2ZSQS1wbEZtM2ZqclQ0UVFLTGdfXzBldEJHZU84a052ZXRfSzjSAdQBQVVfeXFMTkRDcHF2T1hHWHVoSDhGNzJ0a0hHZmtrVC1INUZNYzJxdE5IWkpXUHI0TXMtQWNtc0IyWmk0STRoaVBhLTRJTU5QUl9LVmprb25pLTQwOXI4b0toTUlDMjFyRktnN084REhNRWRkdnJQZVV3eWprd3Jtam5XRjB0TXVFRzFfbmdTamd1em8ySlNVQV9KSWVwdUYxeXp0N1pmVkF4YVhJb0l4ZGxrc0pmYjZCZGw3X0xjbDBYN2xiZFZNVW52LWp3V3c5WDRGTE1GVzl3NVc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Raiganj election results 2024 live updates: BJP's Kartick Chandra Paul wins",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOMWRlMmJEREtnSFlfRWZ5b0xXUlU3dmgxMDJqdjlmYUl6TXNFNEJQVFBmTXFpcmhsOTF5MHh1c29PWElkTjFQdHd0MzNOYXZndF9xVGVYV19WZEJEcmV2MGtQS0FyVUN5ZXlmOHF3d2ZmcFBDNFBkamNFeklYZUdHczRidHpPcXAxX3VTVTIxbFU0aW9IUWtVTlFFdkVtMHBTOEhSU3BDOWFIVkNmSGRMVUpXUkZZWWtGa3pqbXZ4R0JDTU9zV0FZNEQ2QmhjNjdGa2kzaUNPN1JpVHh5ZnBzOG9iWm1leGZTbGhtZEJZMFh4OEZNNVFmQjlRWlRJZUtUcVdYSjBCX3RTZl9rb0t0eWc1ZzFKXzdtQlZ3aEFzQXE2TWVRdWhBSkFPVVdlczNVTmlqUHE5RHBjeFhndnYtM2tndTZ4c1hoQmMtZEFB0gHTAkFVX3lxTE1hVXh0akRFNjBJN0pCVGQxcjAtN0g2Vm5SZDh2WWZhc2JrUDBxLVRMQlpyZDZHaEJmV0hWVnl4ZW5GRkFhc2lVME53ZHBWdjdidmlkenJGRU8zOGtmN0pRTm9aaENWRFBZQ2ppUkp6WFBrYjlHZXYwMlVqZHFVQjQ0ZjIzbUgwUXoyREVncjVCWkVMQnlFcU9GTDhYazJNOWloVlFROWhiQ25WWW1Ha25UQmM4WFdseG0tZTZjTkxxZ09FQzVfU2M2Vmc1cWdVSzlmM2RXUk1YVXNodGtXXzQwTG5OYnNXTElDNkFOdlNIaFdtUU9tU21nYXpVMXFncXE0OFZJV1JqU25MU0EtaW50RG1ROWRMYllHWERMQnY3OW1uUVBpVmZ2SXdpeGhsTGNlZHBCYTQ4V3dZQ19hZ2UwVng5OWNRa0h3WGplSmt0TzAzQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Raiganj Election Result 2024 Live Updates: BJP's Kartick Chandra Paul Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQODBOalR0RTUxMTFYSXNBUHYyVV80T3pHNGhxdTVBTWR0eDE5dVRVSkd5VHZ1Tzg2alRqeHhQZVphMklEejJQa2hjUElMeFQ0SWlqRWNnbk5vT2p0YW5NREQyUlpBc004eWZIcUJyYXRKRW9ubEFYZ2hnY3dlMnZmbTV2U1NvcENJb083aDA5MjMwR0R5cWl3WHVEXzI1c1V1T1FBTzU3VHk1TTJfeVBaVHlURVREUHlNZ3MtUkh4cWxEbGFvRmw40gHUAUFVX3lxTE5DMHc3aGpfMmdoQmpsQU1fRGJhVDVtc3ozOTgxOHdtcU4xMExxX1o2SUpHdGJIQWd2NzVWSUY4SllsUWRrRU9BczlQZUUwNXFxMl9JbXRrTk1LY0I1UW05aUVsWWRrRWFCS0FmaDNvaW9odWJCcndJRk13bE9kLVFBSHNRY3N2LThZNnVnME5LYi1Dc2YzLXVXbklKdUtrZzBrbnlMZU1oQmZ2QnEwVlNvUTRfQ0hWV3ZZQmN5YzRITHh2eEN4NTJQS0MyUktQZDdhZVlD?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Raiganj Election Result 2024 LIVE Updates Highlights: Kartick Chandra Paul of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPenpZdmRlckVCb1ZWZDR3eUI3STJlUkNRTnhNdGdRVkFtVFNqd1hTcW9IREtaMHhKMjZrT013N1NyN3RTNnc4dWJialN3VEpaVi13LXNqM0lrMWVLSnA4R2tpUzhNRll6MF9aZEhPc2dWYmQtZ1lfaVpoeFdxWXZvZFozaUsxNXpqUlRyUFprai1FYWJtN29jTlRhN2hnM3JXQU5YQ250a2tBdEVRUnlSMmhHNXFyeEJhVjhEZnl4NEhHSjAtNGdvVWtGMXVGRTQ5UkY3bE1UU1VraG8xMEgycllR0gHnAUFVX3lxTE5Wd1h6TEV0aWtwYzg3MkVtUlczNHlCZ1FyN3F2Qk1XVkRFcXBfcmU4dlRzTzF6ZW9NbGV0ZkJQcXlzUy1BX2twMGhFcGU4WTRJX05SUm5LMVotbDdMejk2d3BhR0lxcXpCY2JKc3ZNeFZDQ0hPLWM0bTJyZWl0RHVvVzhQTUJJb1JLanExMXZfamVnVFo5c0V3YzdlWGo4MDAyLTk5TkVwaHpxSGFRWVlXcU9WWWtBNFp5SW10Wk1hcEdGYVFVZ3pWUDRtZlJNRGlMSTdzU1M2N2VaNTZHOEFUMkdYSmNoVQ?oc=5"
+    },
+    {
+      "date": "2024-05-31T18:51:27.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kartick Chandra Paul",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUFYdjBUR0hTUENmZGRJblNuTkZYanpUVDJLSnQ0b1FOWVdqWmFBb1MwQ01yZVVxMnBVZ0FqdEN3Z2w0N2M1M0tHcTdzZ2l4YzVQVDMtbzI0LXFacFN5UENDcTZHS0NsOHFZcU9hLWs2TFlnWG5sb2Nzc3JFUGhxdHdFMkVpWWpiM0FDV2V2TGhFV0ZTR3dBUUVJOGpyZWREcTUtN2dUdmNYN0R5SFNhLWEwSUZfQkw5ampLb1FOckNMa00?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 1940,
+  "notable_record": null,
+  "num_candidates": 20,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "west-bengal-5",
+  "pc_name": "Raiganj",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180520.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Establishment of a Second AIIMS and Educational Facilities in Raiganj, North Bengal for Regional Development",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to establish an AIIMS & an Tribal School, and Women's College in Raiganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to establish an AIIMS hospital in Raiganj",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 21
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kartick-chandra-paul"
+  },
+  "qualification": "Graduate",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KALYANI KRISHNA",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 23,
+    "criminal_deduction": 0,
+    "legislative": 28,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 50832860,
+  "total_liabilities": 26816742,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 40.99
+}

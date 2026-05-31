@@ -1,0 +1,459 @@
+{
+  "accountability_score": 37,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 255000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 250342
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 400000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 100000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1005342
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=902",
+      "total_assets": 4505342,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 4505342,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mohibbullah Nadvi is an Indian Islamic scholar, politician, and current Member of Parliament of Lok Sabha from Rampur constituency. He is the Imam of the Parliament Street Mosque in Delhi and a member of the Samajwadi Party.",
+    "title": "Mohibbullah Nadvi",
+    "url": "https://en.wikipedia.org/wiki/Mohibbullah_Nadvi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village Razanagar PO Suar Rampur Uttar Pradesh, 244924",
+    "emails": [
+      "muhibullahnadvi1976@gmail.com",
+      "mohibbullah.nadvi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9971826809",
+      "9810550480"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Husband or relative of husband of a woman subjecting her to cruelty",
+        "section": "498A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "4871/15",
+        "charges_framed": false,
+        "court": "7th ACJM Agra",
+        "fir_no": "Police Station Sadar Bazar Agra",
+        "other_acts": "Section 3/4 D.P. Act",
+        "sections": [
+          "498A",
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "2448/19",
+        "charges_framed": false,
+        "court": "Court No-II Family Court Agra",
+        "fir_no": "Police Station Sadar Bazar Agra",
+        "other_acts": "Under Section 127",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1025/17",
+        "charges_framed": false,
+        "court": "Civil Judge (JD) FTC Agra",
+        "fir_no": "Police Station Sadar Bazar Agra",
+        "other_acts": "Section 12 D.V. Act",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "01/01/1976",
+  "eci_state": "Uttar Pradesh",
+  "email": "muhibullahnadvi1976[at]gmail[dot]com,mohibbullah[dot]nadvi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 436660,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "AGRICULTURE"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 39% of MPLADS local-area funds were spent — ₹8.97 Cr unspent.",
+      "headline": "61% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 89734179,
+        "utilisation_pct": 39
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 87434,
+  "minister": false,
+  "mp_name": "Shri Mohibbullah",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 57265821,
+  "mplads_unspent": 89734179,
+  "mplads_utilisation_pct": 39,
+  "mplads_works_completed": 95,
+  "mplads_works_recommended": 335,
+  "mpsno": 5633,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Alld HC upholds SP MP Mohibbullah’s win in Rampur",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2pKVTRsSWRFMmxaaGliZ1hVVV9IWFhXdlNOWU9OQW5zbk5md3gxdlBRSnVEN1lzM18tR0lPZXRZb09NTXM5Q3FYMS1VOHp1X2ZyTTczSWd4OXpmUk8wS3pmT3ZKbFVJYUs3eG9EbDlPcW9MNWNyWThaQzN3ZHVZS2lHNU5TWmhnOElneWtMbWJ4Z2ZhLTlFYlRBWkp2T1p6TEJic0hhQkI4RF85VzNZNU1HRWVvRGQyU3JtTlgyNTkzbDDSAcgBQVVfeXFMUE5iOHRqZU1hRE5Rd05LaW54MXE1U2VhR3F6ZVdCclFLZlVNUWxRQ0FrRTBUWU9RTkU0WS03dzl1QTVhdnVkUXVRaGVwSnE4by1MVlN6WU0taHRfazdaOGFpWUlxaTlEVGtGa2FTMVFRbExsZU9ZaEZCUm1saUlFVzVwdkdYUjI4Tlk1Tkk4em1JOExLbUptdGxJLW9JU21tdDR4UnRLUDNoM2FRX3k2aE5EcmFIZmkwRDBtTXVuZjRmaWUyMjE5UEE?oc=5"
+    },
+    {
+      "date": "2025-12-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Republic World",
+      "title": "'Muslims Will Be Forced To Wage Jihad': SP MP Mohibbullah Nadvi's Open Threat in Parliament Sparks Row",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEpfWEhWMEtuejhxQkF6RkNDMHA5ckoxVUZuVU1qWjdzcFZxaU8weW10WTl0UzJHVHpramVxdUJBOENQemhyclVYTVh2QmFJWmNmM05CSVZZWDVGNkt5VnJtZmk5X0I1bWpvV1pkY0d2bFhkWENJMFd2aDQ1RTZ0NlNabXhjNC1RbkRGZEkyU1hKbElkUW96WUFvczdSSzRrU2FJd1dUV1dKX21LcW1QYUtnUG83VjFlY25LNllaQ3JBeDM2ek1zSVJUckZYUdIB0wFBVV95cUxNWnZIRXlPZU5VUHBLWExtS3BrV0czZUh1WFBRZDhZcHhEbWh2VXJRT0N2TXRkbkVqSldIemNSNnptMWJDVzhpNWFZZjNLYktPVDRHcXZVSTBRRXFUTTdxaEJuYWs1WVpUdVc1UlBVZGRrZzVTTmRfcGM4ZmFZLWhRZVF6Mi1WU05OZkZfeGlsOE1zU3YwZXBhSFNLQklRakNUYmdvSGZfeVFNTDltbEs3aTV4TDlocHgwOE9JVTNfa01KYlhYd1ZzWk9yblJCVVdNUFk0?oc=5"
+    },
+    {
+      "date": "2025-10-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "HC orders Mohibbullah Nadvi, Akhilesh Yadav’s party MP, to pay ₹30,000 monthly maintenance to fourth wife",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONFJpWk01MlJUZ1BxS0VpQkdDVUpWUDFLbEJUWEVQeURVcERFTUVvSDRGMGFaQnBTZE50bEtDdmtTZ3ZqTXlqVmk3QmszVWJ0N0Fuc3BxNTVfdzl1VXVyVWJEQVgxVFZoRUROOWhiNVkyV0dXYlZVTHBkWUhOLVhJLUlJVG96VzBUaXUzSExaOEZBU3FnUzNqWUhPdzRzYmxUV1EyUEQ4OWg0a2o2VEExckFERWMwdlM3VG04eFE1RTFiTkNFcWVFb2xUQkcyTC1SQmdGcmp3NzZiMUtKTHU4bjZnRWZVNkR4TVZnel9QOHFFQ2RfN1JoWtIB_gFBVV95cUxQUzFzVl9ubHlxOEplcmM3V2dQcVk3RTc3bzVjSzYtNkgzWGZzZjI4OVEwS3BHQkNHQS1iN1hqeVJSNW9JM1p0eXNBZWQ3NThyNzUzaFZwRWRCNzd4M3c1R2hRdGpqOE9FVlhzVDdMTEptZHp3T0VfbDlhbDBWWVJpQm10Z1M1aHUtdFg0SHRXdENiWGhkOWsxVDRCYmhiTzdra2FBbHFXcnllMUUySDlrQmdXX0hzeXpOdlNNV09zamdCQ09ETmdHUmp1bDNsamVvd1VCM1lDbDA0bmJHaTVrZEJFdHVpRmRLQmItUjVUT0FsVWZSaHNsTnJCc3lhQQ?oc=5"
+    },
+    {
+      "date": "2025-10-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'Pay Rs 30,000/month as maintenance to 4th wife': Allahabad HC to Samajwadi Party MP Mohibbullah Nadvi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlFENXVJMWZNbkV2WlJqcHQwVF9QeXZmX1IyREw3bURPcU5oYTcwQ0RsYVpUUUc4cnZKZ19TUm9rNnktZnRvWXNEaFpSVjNsY1R6NmdCenE0TFFaLTYzSTJUWE9sTVU0SEJWMGhER3lVX2wwY00yRmhiRDlJdHV3MU5UdjQ4akZXUTEzQ2o4OU1XbEVSLWFKMFJYWjR4VWxfMFAwQU5DaWtmREtPdi1OQ1JCQjFUdnprZjh5RGJnT3Q3cHFHUEs0Sk9nU0RxRjFCY0JiR0xR0gHbAUFVX3lxTE5tZGU4cjBvS3FOQm50ZjNMX0lnTWFBWDFPLWFNcS1NRWlnaTVIYkVHR1NRY3o2bUgtQkk3MEFrak5SMGF3bnJvOUJGTERZd2p0ZmtKUGxDTVBLVXZyeGsybVUzQnhLNW5uLVlfOVVxYnpRN2VQRjdmS0xRNkdmWHE1ZmVOSUJORXpIbzV5QkRmMkFDVEh4WlktOUNrUHZKbUlpa3FQZjBVSm5YVThRcVRzb1UtUXNfa1FTZThTTlBDOXdMeWU3d0c4QUtTd19HdV9fN01YOWxhYldXQQ?oc=5"
+    },
+    {
+      "date": "2024-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Parliament to mosque and back: A ritual MP-imam Mohibbullah says will continue",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWV9EdXdPbmxDdTNMckt5Q20xVU9hTGRFRHlwYkxVZUhid2paSkNaUFMtVXMtemU0M0lmOUxQa2kwVUkyN0pLY0QtdEFKR3czTXJ4aGppdENidHFwRU54OHNCbnVEcUJyYkh0TS0wNTkxOFd5Qy1EdE85VkVBdXZOTU5CWmRMVmRnbGptc2hxZ3RRakp5UTdSWm5SZk84bTdzZ2xueUFtbGs4WjhEaWdQeFJVQlNtbGNKeFBoTDhMOGc1X1pIRUI5RUstZ9IB0gFBVV95cUxQRlJmZkdnZU1UMm1sTE9jdXBvMU1zS1pUY2tUVGlUaGJKYzdhQ3dRMElPdzlxRUNQREdMaklYNU5IYmJEemJSOFBSS251TnhscTBrb05KbHN6THp3WGJxcjBpTlcyTDNULURLTEU2Tldzd3kxNm41eUtEMFdfN0lwRExKWVhJRmN2OTdMbGZ1d05ZQzdIdjVPcDM3ZHhZQk91R0VHVGJBSXhKd2l2Ukk5X0pEZkIxNkZCdXNLZ0ZqUTl1X0RlSjFpUGdMb1p0X1A2VkE?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 5653,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-7",
+  "pc_name": "Rampur",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180463.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Establishment of AIIMS in Rampur District, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Protection and Preservation of Heritage Mosques and Other Religious Structures in the Central Vista Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to strengthen forensic facilities in Rampur Parliamentary Constituency, Uttar Pradesh under National Forensic Infrastructure framework",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the glitches in the Umeed portal and the issue of Waqf institutions not being registered",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to comply with the order of Supreme Court to constitute the Haj Committee as per Haj Act, 2002",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Appeal to Stop Unjust Demolitions and Ensure Rehabilitation of Affected Shopkeepers and Worship Places",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Connect Agra Expressway via Rampur for Regional Development and Connectivity to Uttarakhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Development and Connectivity of Shahabad and Swar Tehsils in Rampur District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to establish All India Judicial Services on the lines of other All India Services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to minister to pay special attention to the development and improvement of rampur railway station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Urge upon to govt to provide an AIIMS like hospital in Rampur",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 47
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mohibbullah"
+  },
+  "qualification": "Post Graduate",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Information And Broadcasting": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "GHANSHYAM SINGH LODHI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 8,
+    "legislative": 32,
+    "mplads": 65,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 4505342,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.74
+}

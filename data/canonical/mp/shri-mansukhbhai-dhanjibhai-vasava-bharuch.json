@@ -1,0 +1,529 @@
+{
+  "accountability_score": 65,
+  "age": 69,
+  "assets_2019": 6835957,
+  "assets_2024": 25499808,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 13240000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 16340000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 190000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2987412
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 22248
+      },
+      {
+        "category": "LIC Policy Joint 50% 75,000 75 Thou+",
+        "value": 200000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3427148
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2328000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 9159808
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=fPWgHKiEcUeGZH54niZz",
+      "total_assets": 6835957,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3455",
+      "total_assets": 25499808,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 273,
+  "assets_latest": 25499808,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mansukhbhai Dhanjibhai Vasava is an Indian politician associated with Bharatiya Janata Party and former Union Minister of State for Tribal Affairs in the Government of India under the Prime Ministership of Narendra Modi. He is a senior leader of the bharatiya janata party. He first got elected to 12th Lok Sabha in a by-election held on 25 November 1998 from the Bharuch Parliamentary Constituency of Gujarat, once a stronghold of Congress President Sonia Gandhi's political advisor Ahmed Patel. He was re-elected to the Lok Sabha in 1998, 1999, 2004, 2009 and 2014 from the same constituency ; five times in a row. He also served in the Government of Gujarat in 1994 as a Deputy Minister. He holds a master's degree in Social Work (M.S.W.) from Gujarat Vidyapith, Ahemadabad and was graduated (B.A.) from\nSouth Gujarat University.",
+    "title": "Mansukhbhai Vasava",
+    "url": "https://en.wikipedia.org/wiki/Mansukhbhai_Vasava"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Rajendra Nagar Society Rajpipla, Jalaram Road, Distt. Narmada Narmada Gujarat, 393145",
+    "emails": [
+      "md.vasava@mpls.sansad.in",
+      "m.vasava@nic.in"
+    ],
+    "phones": [
+      "2640224300",
+      "9868180050",
+      "1123094674",
+      "9013869133",
+      "9427110866"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "01/06/1957",
+  "eci_state": "Gujarat",
+  "email": "md[dot]vasava[at]mpls[dot]sansad[dot]in,m[dot]vasava[at]nic[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1235280,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 959000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 664000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 894000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 833730,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 414860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 339130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 300730,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Lok Sabha Salary, Interest Received From Bank"
+      },
+      {
+        "person": "Spouse",
+        "source": "Interest Received From Bank"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹68.4 L (2019) to ₹2.55 Cr (2024).",
+      "headline": "Declared assets grew 273% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 6835957,
+        "from_year": 2019,
+        "pct": 273,
+        "to": 25499808,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 39% of MPLADS local-area funds were spent — ₹8.95 Cr unspent.",
+      "headline": "61% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 89484240,
+        "utilisation_pct": 39
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1104414
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1104414
+  },
+  "margin_votes": 85696,
+  "minister": false,
+  "mp_name": "Shri Mansukhbhai Dhanjibhai Vasava",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 57515760,
+  "mplads_unspent": 89484240,
+  "mplads_utilisation_pct": 39.1,
+  "mplads_works_completed": 171,
+  "mplads_works_recommended": 373,
+  "mpsno": 501,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-01-21T21:13:30.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Mansukhbhai Dhanjibhai Vasava",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlppblZ6VHF2c0Fma09XZFRfeHpaaTNTTTB0T0kxM1B2UkhyT2hianZGdnZKTzBORXNQUkFUbU5oelRUUHd3OGt4UkRwRkhqRWFxeC1Ia1BMS3lZbmdJZnZIVmNqSHhJNDdhX2NvTzdQTmpEWTBBTjI0Zk53OEdEc25oYW5UUm15dHR1TnNKMTFSYlFQLThWOFNn?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bharuch election results 2024 live updates: Mansukh Vasava of BJP wins",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOY1JVNTdvTU53WG1KY29IcE0yQnl3bnZXazJXSFh1R1lKb2JhNFFZZ0VjSld1ZUV5RlpXTW8tN3daM2t1QWZuMHRsNXd5WERWSnVRMmpQc1VEU09mZHpPc0xrcFRQLVJaU1pCWXJLMFNvYWVmUzV1S2xGREVVSkNLZ0JoSzhDY3V4S0hpRTk3ZFVERml1NzhCM3RCNk5JcTVxcXEwck1oVHZ4d0J4dWxEQk1sSl9FVTAzR21vYXRuVm4tZW5iZ0U2cExtb2d4LWJaZk95VnhaUjJGRC1CaGlBUmhDci02NHI5ODVfa0x0UUxFdWJ2OXV4UzlhQmdVcTRxTWxjS1dJTEVBVVR0S1pubnY5N2xMMC1SUFJPNGJJX0ZqNHR3ekNBR1VhUGVSZ9IBswJBVV95cUxNcF8tV19LQXFKR25FT0c5OWVlanFLaWZkR0JZTlMxNGg2WW1jVEhQMkV3bTlDMnItQ054NVlqUDNjQzczc1lvRkJpYUlWaERELVV5bUttcC03bmNFcGNSMFY4ZTh1ckRoZ2xXLW9TejFvamttQUtPOXJORzhoUXY4ckVDTTY3V093UXJFM0NRNmp6MllWclVxSnBsbjA5Ymd1Q0w1STZRVFJkRlRIUnBZZFVFTTZHOWhPQVlsNXBhaEI0eWdjZWNfdjcwZ3hQSjJYZlJtMm10UzIzRURaR0tQcHpYcWk0cXdnUDBRQUZWYmVjY2FJUWFmOWV4bUVwR0xCeEpXQXpsNTh0RTFwbWJoaXhvME9Ba0tvMFJVR3VJbnJuX2xOUVBpRC1fSWVld3pONE44?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Bharuch Lok Sabha Seat 2024 Result: Mansukhbhai Dhanjibhai Vasava of BJP Wins By Over 85,000 votes",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT2JlRHRPMnB4b1RieUxBZGRsdHdHLXNYb3hLSG5lVlNjWG1uajNwTlFIR0RhRG1kTmozanhRV0FkSjY3bW13ZkpqUXJic09COFU2bVhYRVl2RHU4OFAtYlZrelpNM0dzZDFRUktmVmFOdjhMZ1l0UGtQd2NmVFRiSUxkZkM4cHY3aEZpTTJyMUxYN3RteTJIME9BRmI2QXdneHBNamEzLUNKRXVqbXFKbXhocXFQd0N1YjZSY0N6bUV3WWlDcG14RHM2NndNV2lIQ2NOUUYtX0pvZ18ybW5wR2VYVms2WjNnTWgzU0JFUWMwMmMyVVJLRnkxT2JKN0ljN3VUMHVxYWJpajJFZnFrWFZyc3lBa09LbnfSAZ8CQVVfeXFMTXZtSUctUk1hdjB0R1NaV1JCNlNIdW9EVGQzWDduQXB5VU5qV3lKb016QjdibG5QcjFTVVY0N2xiZHY5M0dENTJaX0NBMlBtSFZTZkJ0OTRMdU82VWhoYnNwZlhmN2FfRWtxeVo1b3JUbjhGdUQyZGo0RnV6bFE3VWZaSWZ3REtGR2V6bUh3aHZCSHZsNXc0bll4bDBraFhlazlkZE94Q2VXbUxCUFVycnFpaHVQWXJKMS1xVEhtVDN2My03WHZiS2p0NVpKVU1NTkRWRlplYnhWdDl5SjNqcVlORnRLejJDUjNkMWtNRW5Od1VIZjBSZ3BxVjFjXzF0UjZGOFNGeS1wa0kyTXpkZEh5NUxjdTBYZGVSVTBzLVE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bharuch election results 2024 live updates: AAP's Chaitarbhai Damjibhai Vasava vs BJP's Mansukhbhai Dhanj",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNT2NVYm1kYW1EYkU4ckVBUjBESmxqV2hST3NLOHFjUnFuTk9US1pPNW5LamxsaGNhOXhoSGNoc0V1S1B1Y1I1bUFReU9DTkk3NzNrdTZxLXJQU0ktQUZDNFpzOTBHT3BzNTRCMFI2b0xweHZtbzYza3lRcE5sazBubXh4VUs0eWN5TG9Ld0dWejFsaDJlRGhabkJEaUVvbVM5UlVmVkhoazUwT3FQLWVvZm1TN3VBOW1oUlFxNzJBdm05NG01YmdhVUFRaWhoakVBWDVtSDJ6RTdQR2FhakZEbDhMeU1TUjA2LXVzcFdIR3Vhc255WTdOU0NnZGRTbERLNW1rblU3bzZ6cEl5ckZtNEZ1RjEzeXhxQTExMEhqTGQtUdIBpwJBVV95cUxOT0dTdFFERnIwZFBMR0lmX1RRcWpiby1SYUNPVUlOcXZZLWc2bFhfZVhPZFgzODBCV2JqLUlJczlEeU1kVUlmbkdnb2ZpSjdKYk9qYVVxdzFqMjA4T2VuR210RGR2bFJnM0hibFpqMjNuLVNMTUZBSS14RlZpRk5wSEY4eFFubG90ODZuQ3F3UGpieTlDRW55QUMtNU54dW54enRNaFhQVmVXVXNQZ200YkhiaVltbTdWY2hvSDgzZV90TlphS0lmaFJCTXE4RFFUUUxQQ1V6ci16aDcwSW44ZWp4MjNQRTJZcFNfOWtaSE1KcGlHR2FjYzFWTy1KYjFkVHVKUmJBdGtXQXJqamFTRlMwcXkyZjZ2eGtVSXptUmx6M2ZWdXl3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bharuch Lok Sabha Election Result 2024 Live Updates: BJP's Mansukhbhai Dhanjibhai Vasava Has Won This Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXpPaWgzX25jSU9qOHI5TjRBd2c0bkN5Rlh4cHRGbjBSeDBfdENydGgtX2VDSU9hc2tMd3pSZF9sYVBKZF9uOUZvYk44WVduQnZlNGY3REhSZ1U2TlhxcjYza1BJbkY3ZWg3Rm5XTFZ3QW5hTkFlNWtJY1o1TmVqYzhFOFhJUkdDQ2c1U3I3eS1OMWpzTUhuRTJON1ZFN2Raam1aX0FtYjRTMXlWa1pMWE5DdHBNQVdpaHBvcHc1Ti1fd9IBzwFBVV95cUxPZVd3SllCQ29HY3QtNjktVlE4Vm1KWmxKZGtSaGpKUWw1WlJoTnVoODNOYTY5Um1tcFBhSmtTS19MWkR6QU9INWVrZkU4S0hLOTZLUl81cHRtd21zRmlUMGtWa24xTUEwLTdtQ3V1dnNQS3p3Y1FTMy0wU3prV05wWHhIZU1UVHF5dDVGdTBsTThkejh1MU80ZDdoaGFpZDcydjZsRUpjSFM5d2Qxd3Z6bG5PbWlZSU5sbDBDQmV1WjI5ZjNlYnJrVDdSeGlyS0E?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 23283,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-22",
+  "pc_name": "Bharuch",
+  "pending_cases": 0,
+  "phone": "Tels : (011) 23094674,09013869133,  09427110866 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180123.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 88
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to improve the primary and secondary level school education in Bharuch Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Immediate Repair and Reconstruction of Bridges on National Highways in Bharuch.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to channelise the Narmada river water to Gangapur and Karjan dams in Bharuch Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to expedite establishment of Bulk Park in Jambusar in Bharuch district, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to curb illegal mining activities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need to provide stoppage of various trains at Bharuch and Ankleshwar Railway Station in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to provide irrigation facilities to farmers in Bharuch and Narmada districts in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to provide irrigation facilities to people living in Tribal areas of Bharuch Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to increase green cover in the cities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding railway related issues of Bharuch Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to enhance the amount of honorarium of Anganwadi workers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to undertake repair of stretch of NH 64 and NH 56(B) alongwith bridges constructed on the National Highways in Bharuch Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Provide Irrigation Facilities to Farmers in Bharuch Constituency through Narmada Dam and Drip Irrigation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding production and disposal of solid waste in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need for exemption of Toll Tax on National Highways for Olympic medal winners, Arjun awardees and Dronacharya Awardees",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to set up Healthcare and Welfare Centre for elderly people in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to make legal provisions to ensure vesting of educational and employment rights to orphaned and abandoned children",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to increase the amount and number of scholarships disbursed to students on the basis of socio � economic background",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding providing medical facility by deploying Trained Doctors in remote Tribal Areas",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding deployment of trained teachers and starting of training programmes for employment generation in tribal areas",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 41
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mansukhbhai-d-vasava"
+  },
+  "qualification": "Post Graduate",
+  "questions": 13,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 2,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "CHAITARBHAI DAMJIBHAI VASAVA",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 0,
+    "legislative": 44,
+    "mplads": 77,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 7,
+  "top_inference_severity": "notable",
+  "total_assets": 25499808,
+  "total_liabilities": 1104414,
+  "wealth_pct_increase": 273,
+  "winner_vote_share": 50.72
+}

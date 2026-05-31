@@ -1,0 +1,574 @@
+{
+  "accountability_score": 52,
+  "age": 45,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4350000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4350000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 80000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 190939
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 720425
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 815001
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 900000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2706365
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1889",
+      "total_assets": 7056365,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 7056365,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Captain Brijesh Chowta is an Indian politician and the Member of Parliament, Lok Sabha from Dakshina Kannada Lok Sabha constituency. He is a Member of Parliament from Bharatiya Janata Party assumed office on 4 June 2024.",
+    "title": "Brijesh Chowta",
+    "url": "https://en.wikipedia.org/wiki/Brijesh_Chowta"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "306, Sonar Apartment, Carstreet, near Mahamaya Temple, Mangaluru Karnataka, 575001",
+    "emails": [
+      "captainchowta@gmail.com",
+      "captain.brijesh@mpls.sansad.in"
+    ],
+    "phones": [
+      "9739953063",
+      "6360232113"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/captbrijeshchowta/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/CaptBrijesh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/captbrijeshchowta/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [],
+    "pending": [
+      {
+        "case_no": "CC No. 199/2018",
+        "charges_framed": false,
+        "court": "Prl. Civil Judge & JMFC, Nanjangud, Mysuru",
+        "fir_no": "112/2017 at Hullahalli Police Station, Nanjangud Dated 01.04.2017",
+        "other_acts": "Section 127A & 133 of The Representation of People Act 1950, 1951, 1989",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "31/08/1981",
+  "eci_state": "Karnataka",
+  "email": "captainchowta[at]gmail[dot]com,captain[dot]brijesh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 651590,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 547860,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 470080,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 485000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 529201,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income from Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 25% of MPLADS local-area funds were spent — ₹11.06 Cr unspent.",
+      "headline": "75% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 110630821,
+        "utilisation_pct": 25
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 962010
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 962010
+  },
+  "margin_votes": 149208,
+  "minister": false,
+  "mp_name": "Shri Captain Brijesh Chowta",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 36369179,
+  "mplads_unspent": 110630821,
+  "mplads_utilisation_pct": 24.7,
+  "mplads_works_completed": 63,
+  "mplads_works_recommended": 205,
+  "mpsno": 5627,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Karnataka pushed into debt trap under Siddaramaiah govt: MP Chowta",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYzRUUk5mOEo4Z3dtQ0poOWZ4TmFDRWtoSERGZkZFTWZVc0labFZnVTMwS2l1X1NPbXhkQTRtWEU5V0RvaEhkS2xnc0JfMWdEVDBwUU9ESHZHNTNyeERrTjdJZWNuVU9SM0xYV05TOGVPeEpYTW5zQzhya19UQjBiMGlaQlI4NndkbmpOYVVkbFdHYzFiLWlSbnZnOEJOOGhBMmhWYlhwaWlJTHpGRzdWM0lvQ1FFRGZ1YnhMTGtqVWtSdFdSVVFtRmRkR09EbG52dHZqV3BkY1Jmd9IB3wFBVV95cUxNZk5QNklSVHpfR01kUVVTM2dNQTBrY3o1ejQwVFpjWTNxaWxYaE5jYl9GbndkNUdFWW51ZXgyZDVReHhxRlZzeHMwLTBya1pXbDliamxuaGdrcTBNVV9fbXlIbkItSHo0WDJFc2syWGVpenlkdGZSUmNyd1lyWUEyT1E5X0wtZ2dHMEF0TkNPbXRBbkVQSUxBQVMyUUJ4aWk5WmZJY0l1UGFROEMwRXYzYWFrZkhoSU1Ba3RiekJySlpiMjFlZld4RDVUeGlCOUNyMmZXdV9UbjhKdlZkX2Nj?oc=5"
+    },
+    {
+      "date": "2026-05-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Capt. Chowta urges NHAI to immediately construct missing service road link at Bannadka on NH 169",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVzZqUW1FV2phRE5Id1NMT2xoMzhwcC05Nks2RWVfRmpzLWFDd1ZXVmNKQ3pYNkdkSVNfakd2cEhTWVVVUHZYSW9YSmo4RWU1TG42RlJ1ek4zMEFwLVJlc05PcUNVbjAxQVJfVERXc3EzSklNRGVFWHgtQVd3UThydTh0ZDBiU1RESGF6OVdqOXpxX0ZNamtzZjVPWW9iUXhkY3RwNFExY3BicDl1bXZad2h1aU9jelNkOTNIcUMwZFdMV0FoMkZmU3pvWXFTbGRwa1pDM3FTbUo3OUc0RUZ1emt6WjJ2Z0tqaGR5MFg1YWwtQ3gw0gH7AUFVX3lxTE5UcXZoTjRWYnpNV2xEWGhzcldwLUEyNHU1VHE1Nk1SUHpKZFdZb0Q0TFZyNUdrUlVBNWhPRWcxWVVUeVpQMHpDMzhfb3lzNWNtaEdhZGZHV2JJV21iS3pfLV9YRUNNQTNvUC0yVXlDb3pja1BRZFNGRWhoY3FCMDdiUkp3WkZ4aHV1VE5PTTJNdC1pbEo3Wm5JWlFWNEkweVlXWVlNLVFNejZGd3RXOWRwaENUaDdnRUM4Z3BkNU9VczE2TjVyRlVRSk42S2FveHI5NTQ3OERMVzZkOU4tYmtfN1ItRnVKaFVXOXdxUV9DZUo4dWYycUhyenRV?oc=5"
+    },
+    {
+      "date": "2026-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Union govt. releases ₹64 crore for highway projects in DK, says Captain Brijesh Chowta",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXZBQ0ZSbFBaZFdiNUV5SFZ1a2ZCaXlTb3NxbF9yekFBbkNrdHczbTBhWDN4OFQzNGZMQlhqNkxiS0xuck1LemMxX19IbTZ2WVJTeVlkam8xUllaVUNmaFFNSWtnNVNuWGFaLWlBQmk2amRlWkZ4MzJRNU82SzJGeTFMT1RfeVRFQWY1UnNiT3UzYW1EY2Y0d1M1bFRQM3FsQUpkalNjbUhvTWljbEdPTHduZWJKUjM1QU1VWTZtUkFNcGN4V3VtdFNYRTRfXzNDM3EwejgyWU5ZZ3Jnd21PZUJRcW3SAesBQVVfeXFMUHRkeHF2YWIzaXNqenk3T21GbXJSTnFaZkpoN1VIQzFjY3JEaGl6WFpqd0ZvOHotX1lSRDhJOTc0Qlk4QUxRUmtveVRSZHZTcHFmemtBbkMzdnZfTmZtVU13WEVGSkhvaFFQUS1TSm5VR3BsWG9FSHNKSWxCdkpFNzVCVVhXdFFWNWVFaW50UGs1ZWM0LTRVNVNFU09td052bERqS1h1U3Z3ZUpjclVJMzBmOVNUMHdCckxldmJFYWtndnhOekVERDVZYU1XekFFZjB0aFlCMVZiOV9Pb2lzU3d0MUlnNG1XNGtlSQ?oc=5"
+    },
+    {
+      "date": "2026-03-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Investing in early childhood mental health support systems is not just a social priority, but an economic necessity: MP Brijesh Chowta",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYWt6cTlKRHZNMlZNMjRtZnhmOHgwYThnX1c4OXltYTZRaUpiS1pDX25ZaWpMZEN5bVRsaGFUNGxDNVBJVEs0UU9Db2JEQ09RNDRUYmhhTnhFSTZ3NTNBUG1qUFRyZ1o0X1ZNMnk0NG5zQnExOWU3UXQ1Z2dqQVBmWkQ3WFZmT2hvelYxQ1Q2VFNvWF8xT1dTbWg5SUx2YUt5TXZ6R3hrX1JtNFdVVkxuRm42ajlFOWs2UVJVWGVaOHg2V1V2MFVLbTlWcGVraUZ2T2U4ZzBsdmp5NVRHSWhSWFhnRVBhNGI2QndpMkpnLWFyREdfNHFDSHdDbC0yMjZpbkJVZWo5YkJ0R0ZITXlvTFln0gGYAkFVX3lxTE95eHZUREJuckVZdUVVT2psWkRsMUxEa01TV19CM1BHRWItTHBfd0tMMU5nUTVNb0RzemJjWFJvZDdZbkVLSVAteTBJUEJUVDVGT2loVVN2N0VBOWowYzhDU1cxZ2pqT1lQcTF1QldSX1JVX0IzSWk4bmRrbmJYcy0wZkNEWHg1U0FLWDU3UVdrN1ozVkxvR1d6b2xBU2liMnBEX2lXaXRQYXp2S2lEdXlXOUhIUXlUR1gxLVNHaWlWdjZXZFFjdGpqTXdJcFZzTU5ub2JsTEVJQWpKd0RzZk0wemg5MHNPTW1sa08tN3ZmandCWGRuN0xnSkMyMlVXU3JXaGtkOXNZaGZrVWZEbS11cXRoRloyeWE?oc=5"
+    },
+    {
+      "date": "2026-03-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Konkan Railway’s merger with Indian Railways essential to address KRCL’s structural problems and development of the West Coast, says Capt. Chowta",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQM1lZVDN4TG9Ra3FvS1J0YXpsU1J4a1JWQnNNUGhwblFmdUpEWE9yT194VVdtLXZiMi0zSnM1M3ExX1pnOTdVM3RWbVF6VGF5ckhHZ3dNZ2h1eGxTdk1ZVXl3MWg1WHU1UWliaFVjSWRteGxzanp5WWhTaUl3anVhWjVid0J1Vm9kTXIxUXJSS1U2SkY1OEhSMHg2aGJkTmFOMDZmVVdycEpNOE91dmktY0hhS3JKbVZxMFg3M0xJXzh4SW9ieHJXQ1pROUo5UHNWeGV5SHBwNHdUbU1PSEVNa0VwdE41Rk02ZXhpMmVZeHYtQTJJWTVFS09GclhYdUZtVU1nX25nWXdDWkZoQjRYMWktWEtTbEdrUWRnOTRUQmNrN2hqc3NxMDEwUnprZlRZWnfSAbgCQVVfeXFMUFpMSWNNMXRqUGlmYU1JbnZXS19mc0JlR2JiQlRTVG9NVWw5V01oOEFHRXphWTFWT1JuZUpQSktldTNteVdsQ3llUmxTYkZMUENNT09ETzJtd1ZzS1BubmVzdXN6bHp2SUFlZmV0VndlVkhucXFWTndOX2xmdmI0VVloaFJTV2FnRERYWDFzV2RwclVwNFJiYnliaGVTSURaNUR2aFhHTTZpc2wxM1UyaTRWQlI4dU9MamVHOTYxODk4bGpfVXdjNW5wZzdlVVh3OE1JSENuZkZZSVB5RzRzRVAxd25fQVN5Q3BDcTJNVnZjc1RHbjVyZnpib1dKNjJJb1ZKX1BTaW95TmVkQVRWOVNvTkJURW81RWpIcXhFZnBENUd0dllEWHNmY21VR3ZKSm5HUVIyQWcy?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 23576,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-17",
+  "pc_name": "Dakshina Kannada",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180167.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need for early identification and effective support system to address neurodevelopmental disorders among children in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to expedite operationalization of approved Nari Adalats in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need for comprehensive measures to address the problems of sea erosion along costal stretches of Dakshina Kannada district, particularly Ullal-Someshwara belt in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need for establishment of a marine Finfish Hatchery in Dakshina Kannada in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to prioritize the Mangalore Offshore Wind Zone in Karnataka to meet the demand of non-fossil energy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Timely Reimbursements and Improved Functioning of ECHS",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to include Mangalore International Airport in the list of �Points of Call� under bilateral air service agreements",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Demand to Prevent Banned Organisations from Re-emerging Through Political Fronts and Safeguard National Security",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to exclude arecanut from the Duty Free Quota Free Preferential Trade Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to impress upon the Government of Karnataka to implement Ayushman Bharat Scheme in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to reclassify the districts in Dakshina Kannada and other Western Ghat districts of Karnataka as hilly terrain and accordingly relax the norms under PMGSY-IV for road connectivity therein",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "The Merchant Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to expedite implementation of Mangaluru-Lakshadweep dedicated Jetty project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Issue of Difficulty Faced by Veterans in Availing Disability Pension",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Urgent Land Acquisition and Coordination for Mangalore Airport Expansion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding rolled back the decision of Karnataka government for approving a 4 per cent reservation for Muslim contractors in government tenders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to the Government to Abolish Religious-Based Reservation in Contracts and Protect OBC Rights",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need for a long term plan for conservation of Olive Ridley Turtles along the coast of Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to introduce a mandatory internship progamme for Nursing students to ensure quality healthcare in hospitals",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding prevalence of drug abuse in Dakshina Kannada",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding plight of Arecanut farmers affected by spread of yellow disease in Dakshina Kannada Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 34
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 181
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/captain-brijesh-chowta"
+  },
+  "qualification": "Graduate",
+  "questions": 24,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Culture": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Minority Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 1,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PADMARAJ.R.POOJARY",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 1,
+    "legislative": 54,
+    "mplads": 50,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 7056365,
+  "total_liabilities": 962010,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.97
+}

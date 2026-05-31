@@ -1,0 +1,488 @@
+{
+  "accountability_score": 32,
+  "age": 43,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 588240
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 588240,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 115000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 598521
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC policy no 698851941 sum assured 1200000 4,75,458 4 Lacs+",
+        "value": 494737
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 7730050
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3393079
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2661400
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 14992787
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5252",
+      "total_assets": 15501028,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 15501028,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kadiyam Kavya is an Indian politician and the elected candidate for Lok Sabha from Warangal Lok Sabha constituency. She is the daughter of senior politician Kadiyam Srihari",
+    "title": "Kadiyam Kavya",
+    "url": "https://en.wikipedia.org/wiki/Kadiyam_Kavya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H.No.2-7-1041/3, Road No.2 Kanakadurga Colony, Waddepally, Hanamkonda Mandal, Hanamkonda, Warangal, Telangana, 506370",
+    "emails": [
+      "drkadiyamkavyampwgl@gmail.com",
+      "drkadiyam.kavya@mpls.sansad.in"
+    ],
+    "phones": [
+      "9885856065",
+      "9491626666"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/kadiyam.kavya"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/kadiyamkavya"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/kadiyam_kavya"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "10/04/1983",
+  "eci_state": "Telangana",
+  "email": "drkadiyamkavyampwgl[at]gmail[dot]com,drkadiyam[dot]kavya[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 928620,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 797960,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 727690,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 657060,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 334310,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1316500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 505990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 609530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 682060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 410000,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary & Allowances"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary & Allowances"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.39 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123856333,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10259201
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10259201
+  },
+  "margin_votes": 220339,
+  "minister": false,
+  "mp_name": "Dr. Kadiyam Kavya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 23143667,
+  "mplads_unspent": 123856333,
+  "mplads_utilisation_pct": 15.7,
+  "mplads_works_completed": 24,
+  "mplads_works_recommended": 212,
+  "mpsno": 5783,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Kadiyam Kavya inaugurates Rs 1.40 crore UPHC in Waddepally",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS01FaVEwLU9ieXpoY2oxTFYxWi1VdDNiT05wbkUwbXNzbnYtcTNLVTFRNzlodUxkMGhreXZFYjNrdnhVRWcycHYxeXF6V1lTM0J1R0sxOXJySm1XOU15UGxWVmktU3hhQ3NoaEVxemFRb3RyU2trU2ZabXJBZmFYZWlLLTZBTXlqdnROMEpUSExJQUNNUVFlRDQ5cXJNeTJBVWQwOUN2QdIBrAFBVV95cUxPbTNjeGNiMkNVUmZ1RDZla0VBemN3LUdSenVXVU5HUzl2Q1dPSTY5Y2h3eFk1MmY4WFFLVVdaUVlfcDlqRFpGRkFnSGZMX0RnaXRqUFFhUUM3eVpzZEN5UnZWdnE4TlRWdVpaVENBN3dacnBmZ3NBWExwWXBKYUZKcWJaV3U4MmJMQWJCSEFOYVFJWTJHcG9WNnNWOXpxRXdWRXcwZk5vNXRrbDVI?oc=5"
+    },
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Warangal MP Kadiyam Kavya urges Centre to ban paraquat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXVWc29KRlV0cHJINVA0NW9wVi01Z0RGSVI3cnJpQXdxMWNaMzdUN2NxbE5qSDR1RGZZaVBHQ0c0NWVMa1F2VXBjVnRacmNRN3g4RWNZWGxWTWxxbXBoUnJMaHFNVDAxWDRwaUh3bjVHdWhkczZ5VjFlajdjS3dtc2UyV1pNZzlwajg2ZnBsWkgwTnFnRDIyVkhLZkZXRzI2V1hvZ200SDRrUHZJQzhhQlAwTVltdW9yU1NteDBiXzhxSGRiLUN4dmVoZ9IB0AFBVV95cUxNQWN3YnlVN05MR1JfSXhtcVhiYnpEY3BGQm9ONHR5WUI1bkY2Rzg3eks0TmFfTlVFMEpsSlFwa2wtbXcwTmtkR20wYmIyb1E1X0F0STZ5Nm9oWUF4ZlhKR0w4ejE4S0FXYTBnNkNBQlZwc2o1VURkcjBockdycmx0Q0o4Qk1xTVBid1NHLVZrZDRkVzgwSmZFdHhPeGNBenNpOGlYWW01Z3lWYWlWMFZlUjlzNlBjdDJuWFJkQUI3d2dNaDhLQXc0Zl9CX1FDOTQ4?oc=5"
+    },
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Siasat Daily",
+      "title": "Warangal MP Kadiyam Kavya raises paraquat ban demand in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGVUbkg5Zlc5SXpIZUdSSTlBOVZ1amNmZTJyaEFrM0haSWhzYktlX09zVWpxMDN5amhvMmlEQnNSUFQ4YWlRLXBqZVVqek9nSnpqYUxnbkFaR2l2OUdJQ2QxbDlIZ3h2UW1LWHhGcXBUY1Y0WktWX2kycFJjaHRCeENfYXBTa0p1ZnRyVmV4M25scXc2bEZaaDlhMWtnUdIBowFBVV95cUxOSmxQZTl3RWRaQVBoWjBBcGR1SHVIQVpXdGdTTTU3dUVYaGJ6U0kyUmtRblZwaVdsMkp5M0NENmZrQUNjOWV6WWJ0VldyMi04Q1hCUHFFcHpkYUtfakZsSThkY1k1bFp3Y01rMVl6RjZEcjM1c1RScFpvWko4QnJOVXJiVXEtQXR2MjJaVHJLdWdmaUp0UU9JWDJZM2c2U3lXNldN?oc=5"
+    },
+    {
+      "date": "2026-02-26T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "Warangal MP Kadiyam Kavya Named To India-Saudi Parliamentary Group",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzN3M3VTZVlrRXViOHhBSlk1WnlTWFU3c0FjLUVkV1ZTS0NDb3I5UlhHZndSU3JUU0RGVEtFUGtTa1lpbFRUdTRaWG5LbkRaTVhRNGNrR0JvSE91SjZkTzMwUTE2UVRpU0lCV3NFMnFSbEJEMTBWWTQ1SGFPNEE1WUdoNjFrbVY2UFFFMldwSUt4VHV4YkFnQUZGZGdmMmhHV3M2OFZHazE4dWU4N2ZrQkltdmhOcEZBZlVUWkxzUC1WOVRzN1V6NWNNNTbSAdIBQVVfeXFMTUl6bWpGNEVOYWxLTE5VbVpnUGlEdGJPWUs2eWNaV3cwaVF3eHN0NmJhZXByZVZ2SUZ5NTJqYWJYdWR2VWNkX0YybFpqbG5VZmp4TDcxX2JFNkd2RUo5a0dCQV94VUtKMTlDNVk3cmVLVFdaMnI1M0xEZnJOYWRwdXg5WjFiRjFVcG85QU0xZEpXWGJibk5ZX3k2clA0ZmZ1ZnJPWFJUbU5wTERRSFdPWnl5VloySnJaYlNjNkdfMXQwWEhzWDM1emYzX1MwZkVMOUtB?oc=5"
+    },
+    {
+      "date": "2026-02-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "BRS files complaint against MP Kavya over ex-officio eligibility",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnRteTlpbGtUZFdva3ZCcHZLdmZiNTlFeW5vRmhKYU8yS19LOXcwOG9DVnVObzVnbDBVSUpTdm9DZm9yODZCcTRQekVJWWhJaUdQMHdGd3JtYzZFUDNQcWl4S1NhYU1aeGhBX2F5NzFOWEFvUVNxSHhDOHRHQWVHNTFJaXBZcUZYY3JHTHVNWXhhbkMxNE9nTGc0d0NtM2VSaHNJQU11bDRoN1FPeVFZcdIBtgFBVV95cUxNVW9KZ0ZXaE85Y1B0OGpueXFWdlhYM2pvVjZqY2pCakZlLUpNVWlQS2psbS0zTW5lOXFkOEJWMGJudWtWVl96QjVKSkpWcURvbzZ0R0JFSDFlRUxqWHVDRTdFUDRBNUhWX1NxT0tWVlNmYlpLU1FnMm16T0dWNUVjSVN0MUdtSHJBanFVM24xVHh3cUxGQWZoQUt6QUNIR0xsek03cWU1X1dyZ0dxMkRRbTVUakRCQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8380,
+  "notable_record": null,
+  "num_candidates": 42,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "telangana-15",
+  "pc_name": "Warangal",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180406.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 88
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Issue Related to Rising Mental Health Concerns Among Children Due to Social Media Usage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Opposed the introduction of The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Nationwide Ban on Paraquat Dichloride Herbicide in India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need for enhanced financial and infrastructure support for fully operationalisation of Kakatiya Mega Textile Park in Warangal, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to increase procurement quota of paddy and cotton along with need for additional godowns and rakes for their transportation in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to announce a relief package for the cyclone hit Wrangal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Fill Vacant Posts and Retain Staff at Kazipet Loco Running Depot in Warangal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Comprehensive Tourism Development in Warangal, Telangana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 86
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kadiyam-kavya"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "AROORI RAMESH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 32,
+    "criminal_deduction": 0,
+    "legislative": 36,
+    "mplads": 26,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 15501028,
+  "total_liabilities": 10259201,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.85
+}

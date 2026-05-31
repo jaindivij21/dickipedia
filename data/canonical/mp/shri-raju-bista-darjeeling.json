@@ -1,0 +1,694 @@
+{
+  "accountability_score": 55,
+  "age": 40,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 67002375
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 43092005
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 72022623
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 182117003,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 86728
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 55802602
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 105986225
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "HDFC Life Term Plan 3,79,560 3 Lacs+ HDFC Life Insurance 20,00,000 20 Lacs+ LIC ",
+        "value": 88846266
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 491375
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2905980
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 39121086
+      }
+    ],
+    "movable_total": 293240265
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=duhL6v2dUXWiNws9TPLB",
+      "total_assets": 195373460,
+      "year": 2019
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 195373460,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Raju Bista is an Indian politician and managing director of Surya Roshni Limited. He was elected to the Lok Sabha, the lower house of the Parliament of India, from Darjeeling, West Bengal in the 2019 Indian general election as a member of the Bharatiya Janata Party. He is a National Spokesperson of the BJP. On 14 July 2021, he has been appointed as a National General Secretary of Bharatiya Janata Yuva Morcha.",
+    "title": "Raju Bista",
+    "url": "https://en.wikipedia.org/wiki/Raju_Bista"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Bunglow No. 6, Barsana Garden & Apartment Matigara, Khaprail Road Siliguri West Bengal, 734010",
+    "emails": [
+      "raju_bist@yahoo.co.uk",
+      "raju.bista@mpls.sansad.in",
+      "rajubista@mpls.sansad.in"
+    ],
+    "phones": [
+      "3542257999",
+      "9899792706",
+      "7303932706"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/RajuBistaBJP/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/RajuBistaBJP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/rajubistabjp/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Public servant disobeying law, with intent to cause injury to any person",
+        "section": "166"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJM, Sealdah",
+        "fir_no": "95/2020, Date 05-04-2020 Police Station Entally Kolkata",
+        "other_acts": null,
+        "sections": [
+          "505(1)B",
+          "153",
+          "166"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CR Case No. 12/2022",
+        "charges_framed": false,
+        "court": "ACMM, Rouse Avenue Court, Delhi",
+        "fir_no": "200/2022, Police Station Civil Lines",
+        "other_acts": "Sections 3 PDPP Act.",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "186",
+          "188",
+          "332",
+          "353"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "03/01/1986",
+  "eci_state": "West Bengal",
+  "email": "raju_bist[at]yahoo[dot]co[dot]uk,raju[dot]bista[at]mpls[dot]sansad[dot]in,RAJUBISTA[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 66082110,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 58282080,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 52673090,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 45083300,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 47275310,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3530920,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3485560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2448240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1843810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2038089,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary and Other Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary and Other Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹10.75 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 107451349,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Security Deposity 6,45,000 6 Lacs+ Other payable 21,49,788 21 Lacs+",
+        "value": 2794788
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2794788
+  },
+  "margin_votes": 178525,
+  "minister": false,
+  "mp_name": "Shri Raju Bista",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 39548651,
+  "mplads_unspent": 107451349,
+  "mplads_utilisation_pct": 26.9,
+  "mplads_works_completed": 19,
+  "mplads_works_recommended": 160,
+  "mpsno": 5042,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-23T01:57:45.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "Darjeeling BJP MP Raju Bista 'scraps' toll collection on Rohini Road; GTA agrees, decision triggers fresh political chatter",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1ZhM2dmdk5PVVpUdVhXekx5NmRHTzg5S05kZnN0WDlBNDJtRmxISUw1T2VYY2cyVEdJM0ZCYktIMl83QnNzTTg0Wk5vU0pLdHJSTlpyckV4T2lzSU1pejFKV0F5eGxodWxpWnhPempjQy1MNFZSZ0w0aHk4d0pUYWJlaXNGTW8tT0FYR1V2TlFkNkdwRURid2RsNks3OWdNSFRJTE1CRmpsV0QySUJ5QWRxcmU4Z3YxQndkVXVJS3ZuY0pDVE1FVDlrV1NDa05FLVVPbXhURXhEUHhM0gHiAUFVX3lxTFBoT0xrR1ZEMEEyQkNuOTZkX1JuM05sQ1lKNXVxTGZZTFlWbnJVR2RQS3dhSS1CS01wSklmWVJYbXFYdWdDaEdFT19QckZ2SGl4S1l5T2c5WVFXbGxDTDFnZGZnalQ3MVp6OENjcVY5dW5ZYnZGNHd0ZTFRdXMwaEktcG1IeG5ZVWY1Zl9RNkstb0tIZkpXX2d1X3BXQW8xSkVoV1Uza3NSR0E4bGZIa0x2aGE4NmFIQjhycVM3d05kMWRGUUd5WWo4ZGtHZVZTQ0g1bkt2Q1RyR1o0V0tMSjlEbHc?oc=5"
+    },
+    {
+      "date": "2026-05-21T19:38:04.000Z",
+      "flagged": false,
+      "publisher": "MillenniumPost",
+      "title": "Roads, reforms & resolution: Raju Bista unveils Hill vision",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUZRNFdYeDhxTmI3MkEtWWh3LWRqbVB4V2xpcFN2Zy1MRGdxTWVPay1Jb2ZGWDdKazlDNEVrRDhBeEplQmtiWTVOZzhBWDRMSEtfV1hPZnJzQzNiOHF0TW1PS0lxSWVmX1hBMmVna1NRRjd4bFE4WUFwcTE1SXBDX05lc0dUMWFDM2l4cGxZZGE5ZkxJM05KV1JDZ2lfZXpu0gGmAUFVX3lxTE5ubzdGMEJGdTZXTFdYUkFpY3JIdnFiMFlrZU1TMVNjVDdpUmtXSkphWHRxeldsVGlDZ3gwcWpjdkZ2T21YTlZxczhSU1ZQOFdPU05UNWd2b1JXTU5OdDFoYnRGQ1VjNDI5OGFJZXhSNnZtX2lVR3lEaExYUzRaZE1NY3pSLTZTLUtLdkhnSTRNcHZDTEZKQmQ1UXRpREVXZVJFblozS2c?oc=5"
+    },
+    {
+      "date": "2026-05-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "BJP MP Raju Bista promises land rights for cinchona workers in Darjeeling hills",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmM3Nmp5TXA0UzM3MGktaFAta3B0VnRRMEc0b2Y2TWVQX0ZJMHpCNTRjWmRYVUdZbU1nLTdmNTdGMDN0TzlIeHBHWkJLUkFXZ25LUnZ0eFd6bTVuaVBwbUdLOWtIOGxTWUl0R196ampUd213UUVndFJJWjNpWktUUXc4aHNLYzZ1c3hYanNiY2s0QnE0b2NROXJVWTB2MDlZbGVyMFllaXpOMTBrbk14VDg2MDRuVVV6R3BGN3hsZTlRZmZnVU9rZnY3MzVzYlRRdVJ5VlFB0gHbAUFVX3lxTE5kcHFSRVNoWVFwTmNVVlJOYkZrUi1MaEN5QW1wZFhDTXNwN0FBQmJFdzdLQXU1NTlWTGpJcDZSNEk2WjlrcXNCbUxHQU9YczJRS0tPVV91Z1IzWExLQWN4ZnNTMWZlNE93ZlYwOG5tSFYwZ0Z2UEtfLUo2amRKeEJ6dlczdDRCa3I5Y1ZKdUs4WVczRFEtdWRqR0h5QUhLUFpyTml1YTZ1a3hkNXZqbl9GMTc1VENPS2tZMElpWXFRU19KRHRJVzhmbXhNSUFzNi1XNURTbk9RaDd2WQ?oc=5"
+    },
+    {
+      "date": "2026-05-16T13:08:42.000Z",
+      "flagged": false,
+      "publisher": "siliguritimes.com",
+      "title": "“No illegal activities will be tolerated”: MP Raju Bista after administrative meeting in Siliguri",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenFVTlRBV19nclJmdnhza2RQRlhYaHdUdHBFbVRyUlAxbTNVSVlLYnlWQjZGYUxJelB3VnFpOGhITjRtQUFNb3hfY2pzM05pUnVEMDJNeEQtVjRPVTRsWDBVQlJKOGFEbThqNTg3UFZSeEE2YzBJamJvdkxCU2UzWnFmZ0VLbC1CdEFXMzlwYUNWUnBBVU9OQjFUdE4wUVktYTZkUzRpWkJ6YXVwS19NLWlwenJ4aTQ0d185bWdB?oc=5"
+    },
+    {
+      "date": "2026-05-15T19:07:58.000Z",
+      "flagged": false,
+      "publisher": "MillenniumPost",
+      "title": "North Bengal poised for rapid growth, assures MP Raju Bista at Realty Conference in Siliguri",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQazVRZmhSYjNhOTZudWROZGdHX3d2ek9kNzVfSVVGZUhxMGdXMG1ZeHJXdGR3YUNXeDJkMW5ZWW9hdllOM29iMkJKTEQ4YkZEZk9MTDZrdC1haFJhSl92ZDU0aXF1RVdxam9UcnZfdDQxSWgxYW5ESHZMUEVPZGhLY1Vyd2ZMWlMwMmpwbTBScW13TVZzOEhWaFRZa3VtQUxndUE3TC1iSThQWkRlZF9hX0FVN2J6SnBzZFFnMWxfVzZVYVBkeE9vOXBnc1BFU3JW0gHWAUFVX3lxTFBreW1KTUJhdjhvbV9ldnBHNEY3NTc0OHlZSS1ROFh5WUpDZU43Z1p5OWdtZFZSR2hUWHBvb3VLRzBFZGtkNUxsT2cxbmFKZ054R2tyb2FJY2lEbFJOSEdxVjU0Vk5FYmVfTERFb2VpYnNMcGZGUW5TMjdQNDdYMHZqYXpaS2xJUjJhWjVLRnNqN2M4cHBfSzRfR2VfQjhJc09KdkJtR2JZaEdZdjRqbDlPOWd6aENtQUxUV2o3alpfSDY5WF9vR21BZ3VSVXVoeGo3UU4zd1E?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 18021,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "west-bengal-4",
+  "pc_name": "Darjeeling",
+  "pending_cases": 2,
+  "phone": "7303932706 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180532.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to provide Parja Patta Land Rights to residents of Tea Gardens alongwith implementation of New Labour Codes for revival of Tea Industry in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need for investigation into an incident of alleged assault on a tribal woman in Phansidewa, Darjeeling district of West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need to constitute an Independent Committee to assess and investigate the environmental damage due to illegal river mining in Darjeeling Parliamentary Constituency, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need for establishment of a multi-specialty hospital like AIIMS in Siliguri, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to provide basic public services and infrastructure in Darjeeling Hills, Terai and Dooars regions of West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to impress upon the State Government of West Bengal to allocate funds to disaster affected areas in Darjeeling, Kalimpong and Dooars in West Bengal under State Disaster Relief Fund",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding demand for formation of separate State of �Gorkhaland�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need for development of Namo Bharat Rapid Rail System connecting Siliguri in West Bengal with nearby places",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for alternative highway from siliguri to darjeeling",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to develop Metro Rail connectivity in Siliguri and adjoining areas in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need for construction of an alternate route from Siliguri to Darjeeling via Balason in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to expedite construction of alternativehighway to Darjeeling and Siliguri Ring Road Projects in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Establishment of AIIMS in North Bengal for Improved Healthcare Facilities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to include Rajbanshi language in 8 Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding alleged diversion of tea garden and for nontea purposes in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to take comprehensive measures to ensure resolving the issues with regard to Darjeeling Hills, Terai and Dooars regions in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to investigate into alleged irregularities in implementation of Har Ghar Jal Projects in Darjeeling and Kalimpong districts in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to establish an AIIMS in Siliguri, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to formulate a national policy to grant land rights to ancestral land of the people",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding need for financial support to the land slide victims in Darjeeling and Kalimpong Districts of West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding need to declare Teesta flood as a National Disaster",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding need to declare floods caused by river Teesta as a National Disaster",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 37
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 137
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/raju-bista"
+  },
+  "qualification": "Graduate",
+  "questions": 46,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Cooperation": 1,
+    "Defence": 2,
+    "Development Of North Eastern Region": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Heavy Industries": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 2,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "GOPAL LAMA",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 60,
+    "criminal_deduction": 7,
+    "legislative": 74,
+    "mplads": 40,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": null,
+  "total_liabilities": null,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.18
+}

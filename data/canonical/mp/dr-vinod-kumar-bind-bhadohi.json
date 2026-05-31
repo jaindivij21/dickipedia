@@ -1,0 +1,557 @@
+{
+  "accountability_score": 69,
+  "age": 52,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 10900000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 23756909
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 19437000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 69093909,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 108355
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 19590518
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 3,54,596 3 Lacs+",
+        "value": 354596
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4700000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1644000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 36672202
+  },
+  "assets_earliest_year": 2022,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=hNX9VKyf4yfqwrGjeRQd",
+      "total_assets": 47434596,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8081",
+      "total_assets": 105766111,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 123,
+  "assets_latest": 105766111,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Vinod Kumar Bind is an Indian politician and medical practitioner, affiliated with the Bharatiya Janata Party (BJP). He has been involved in public service and healthcare initiatives, particularly in the states of Uttar Pradesh and Bihar, where he also serves as a Member of Parliament.",
+    "title": "Vinod Kumar Bind",
+    "url": "https://en.wikipedia.org/wiki/Vinod_Kumar_Bind"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Kailash Puri, Pandit Deendayal Nagar Chandauli Chandauli Uttar Pradesh, 232101",
+    "emails": [
+      "binodkumarbind65@gmail.com",
+      "binod.kumarbind@mpls.sansad.in"
+    ],
+    "phones": [
+      "9918742111",
+      "9305826015",
+      "1123353530",
+      "9971804179"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 7,
+  "dob": "01/01/1974",
+  "eci_state": "Uttar Pradesh",
+  "email": "binodkumarbind65[at]gmail[dot]com,binod[dot]kumarbind[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4939320,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4750070,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4070820,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3391290,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2798681,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4969520,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4548360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4567680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2877760,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2356360,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Doctor"
+      },
+      {
+        "person": "Spouse",
+        "source": "Hospital"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹4.74 Cr (2022) to ₹10.58 Cr (2024).",
+      "headline": "Declared assets grew 123% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 47434596,
+        "from_year": 2022,
+        "pct": 123,
+        "to": 105766111,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 40% of MPLADS local-area funds were spent — ₹8.85 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 88504930,
+        "utilisation_pct": 40
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 17739487
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 29313481
+  },
+  "margin_votes": 44072,
+  "minister": false,
+  "mp_name": "Dr. Vinod Kumar Bind",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 58495070,
+  "mplads_unspent": 88504930,
+  "mplads_utilisation_pct": 39.8,
+  "mplads_works_completed": 269,
+  "mplads_works_recommended": 543,
+  "mpsno": 5607,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-01-21T05:08:05.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr. Vinod Kumar Bind , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmdMRTg2ODdYZVlmZDhIdlZpakxoMFNzcVlEOFpuV2FKdE1XNjR1dlFlNXg4bEptQ05SZVY4R2tRNEpZNHg5QlhBeWh1cmwteXNNM0FKR0pMLUlNNHpZeWVRdldVc1p4Rk9ldGFSZjlYaHhuVTFPREZkVXZ1ZnB4Q1hManNYVTB0aXEwQw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhadohi election results 2024 live updates: BJP's Vinod Kumar Bind wins with over 4.59 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOU0tKdThfOUpScUZnM09jSVhyQzB3QnBtOGhSZ2M5WU1rdFpNOGlRZFVDemtVZk9kR2hqLUx3bU5welRkOXRnWkEyRE9rcnNCQjU3TTh6X1pvamktTW5fU0pzYUdKNEJocEtGeVlIRU1vLXkzRGtEaWMtMEF0UnpKX0w1VTIwWHVTUjBZeG16bXUtNWxaNlB3cThrWDNyR1d0NmxsT3RIbzZMNFFPOWhxVmZ5bFBPWFBZeFNwU05IOUstQTh2ZnBDVFFrUDJUQU1TWnoyRTZSbmk3a0x4djByZno1YTl0RzZ2U2RzZGpmdGNIa3h4c2VhZkYxVkdsRnBaWW5nRVpxdjhZMG1qdGg0SEJFTWU4N3lJVHcxN1pYRTRDUWtrUlhtb3ZvVdIBsAJBVV95cUxNSTFsT3NXRGxJYl9lZXhCRVJueWtYb1Z4Vl9ZRlhBQXkxM3dRcmFvLXg5MHhWZDZwWFVXODVpazFMc0xPUkxwMld6UU1FNk5aaXU2RTRqV1J3QktaeFFhd3ljVlBlTnVlNklBVEk4MkNCeGtGUXA1SFpwalZUUElJR0o0NWowMEhCWFMyekZxU2NQaXJtVklfWTFlakxDZmtya2tPOWFzeGxnbWlxbXdJM2N5WDR4RTk2Z0xmR2w4cnBTQ3dubWRYNktfM1JOQmpyZHRBQmJhMHd5eUlQQW9WV3Vfc01HZ0g1c2wxUy11WnV2TndQNnJrLTU2NlluZnpoUURaV29XeXAwMk9aUmRmdHhueW5tQ1BjZmtZY3VKLTVkUlZMdmZsUGJ5VDMydjhU?oc=5"
+    },
+    {
+      "date": "2024-05-24T21:18:04.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Dr. Vinod Kumar Bind, Bjp Party, Bhadohi, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ1ZHYURBLXVFMjJQNjBJbFFaMUlRUHBFZEtCVTRHczdLVWhDWUdGTG1qSk04eWNZWXVaU1ZfUVBoNmtZcE1NRVhId0FVUUwyNTlDQlBzbjlMVUs1TEtGMFBQWjBVWkM2bWgxS2pRU1N6UjdQSWpJcGxlcXpBQkkyRG1RR09LT21ZSVpoQ0xFc3VtaGd6QkhhTjd2aEcwSTRRZ2ktRGhfWi1RdTNYRXd0OUhhVHR0RXU2b3lULWs5TnhnandrcEJaTFZKLVVqUUt0dnhvUUdrWUNjNUpzSVpIOTJLQXQ5TWM?oc=5"
+    },
+    {
+      "date": "2024-05-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "In UP's Bhadohi, lone TMC warrior Tripathi set to give tough fight to BJP’s Vinod Kumar Bind",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdkJrWGYwVk9pUnBQYXI2SXc4ZXB0NFpzREtsNWRGak1CR294TXpVRlJ6NVh3eElpV2VDUHdoVXV3U1g3cmpOSFRwbEJNMzJsUzRRSEV6TU92b0kwQkd2azFlR0RnRjFjWVY0Tnd1T21WVWxUaFN1X1BlSUl3MmFVSWlFQ3NlbF9mVEU2dldpRW1sY2Z6eFVqYmxBTW9pY3VZeVVEVVBSSHEzYlcwQ29JbUR4cFVUbTR0SmhYcVJlWExNZmN4YWlOQ3htME9FQTQ1QjFjVWVxb1NEcFNRRVM3ZlE0bHk2YW1FcjlSSFIyOHYtLVBlLVVEalg1LUVCakR1Vm5qUnJDaVRVckQxZnBWRG14b3lSNmRDMnFsV2FINTc2eWJoUUtMX1RDNVdjOFHSAbQCQVVfeXFMTTM4WWhscGRNdFFPa1hSZE5CZVo2SlFUckgwM3kwZEVONEVBcWZ2OFVFTU9JT3BrMllaRDlFZ01Fc0ROVjFQbU1nU2pmVElMVW9OcmdaX29FdDh5WmcwM2tJOHVvcXdrQ3NHM3lXdFRzeEJIUThYeG1lSHNTaGIweEQ0UjNpSVhtTGxhTWhXdHlnR0JoQWhxaVFyMWNrSmFQaGt6ZC0yLWdPcUJnVXloMWg3VFpZRFEtcW91YVZvYVFnVklFdlU3NUtKanA5bVM3TlJyZDMyZDc0d29wSGVFYWVIRzBsWGt5SHNoamhNeUpSTFJiTU04Z2ltVk9CZGpHRXpyYlNBdkxZYlhaalRndWMzMm9qbHZ1X0o3NzhnYXVWVllkVDR5czB0MzJEV2JDRWRvOUc?oc=5"
+    },
+    {
+      "date": "2024-05-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "BJP's Vinod Kumar Bind against TMC's Lalitesh Pati Tripathi in Bhadohi known for carpet industry",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcFhiSklETFRqUlBpc0JPWHNvSl9JbFhmOFRTakF6T0dLdUpQaEJjTmZGN2F6a3ZhRmJSc2M4RWZlc1ZuT1JRUHVZdkdEZXlIaUlrX3FQNkF6NFM4dVhrYU83WEgyM0NGYWM2cTd4R3pmMk8tQXlEQ2RjVC1ZZUlFcVYzYXllQXI4ZFZSWnQzYzBlYWd6N04wdWcyc1JwSERpdmRKRGRseTNMaTMzdFZlYnFzSFp1OG5tYWtrWmU1WXZOaVk3UVN0UGpuWGxSbllsX0dOSmJROTJZV3lMbERtV3docENreWJPVVE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11229,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-78",
+  "pc_name": "Bhadohi",
+  "pending_cases": 0,
+  "phone": "011-23353530, 23353531, 9305826015, 9971804179",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180445.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Reformer cum Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Special Reservation and Welfare Measures for 17 Extremely Backward Castes in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Appeal for Halt of Key Express Trains at Haliya Railway Station for Passenger Convenience",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to develop facilities to give impetus to export of carpet from Bhadohi, Uttar Prades",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to provide subsidised electricity to handwoven carpet weavers in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need for development of railway platform at Gyanpur Road Railway Station in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to change the name of �Gyanpur road railway station� in Bhadohi district, Uttar Pradesh as �Gopiganj railway station�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to set up a ESIC hospital in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding development of infrastructure for promotion of Carpet industry in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Timely Land Acquisition and Completion of the Economic Zone Project for the Carpet Industry in Bhadohi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to provide stoppage to Banaras � Lucknow Intercity Express at Suriyawan Railway station in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Widening and Repair of the Bhithauli-Baswapur-Chauraha to Bhatewara Suriyawan-Kalizara Road",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding establishment of University in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding four laning of Mirzapur � Gopiganj road",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to provide stoppage to Howrah- Lalkuan Express at Bhadohi Railway Station and introduce a train from Gyanpur Road Railway Station to Lucknow",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. for the construction of a one kilometer bridge from dhantulsi to dendupur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to construct a bridge our Ganga river in Bhadohi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to bring the existing IndianInstitute of Carpet Technology, Bhadohi under an Act of Parliament",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding Expansion of platform of Gyanpur Road Railway station and construction of Railway underpasses",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 25
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 127
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dr-vinod-kumar-bind"
+  },
+  "qualification": "Post Graduate",
+  "questions": 39,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Earth Sciences": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 2,
+    "Health And Family Welfare": 3,
+    "Heavy Industries": 1,
+    "Home Affairs": 3,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 3,
+    "Parliamentary Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "LALITESHPATI TRIPATHI",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 69,
+    "criminal_deduction": 0,
+    "legislative": 62,
+    "mplads": 80,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 105766111,
+  "total_liabilities": 29313481,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 42.39
+}

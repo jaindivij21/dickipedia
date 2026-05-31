@@ -1,5 +1,3 @@
-// Pipeline step 6: MyNeta wealth-growth (2019 -> 2024 declared assets), re-elected MPs.
-// Source: ADR / MyNeta.info recontestAssetsComparison (single page). Joined to the winners index by name.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import { fetchText } from './lib/http.ts';

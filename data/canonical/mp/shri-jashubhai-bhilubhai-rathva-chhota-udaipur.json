@@ -1,0 +1,456 @@
+{
+  "accountability_score": 38,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2840722
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3378900
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9719622,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 35000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 288823
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy 876058826 1,38,600 1 Lacs+",
+        "value": 138600
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2260000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4147000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 6869423
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Gujarat 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Eg2sK6EE4Z6BaWef2sg",
+      "total_assets": 6890180,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3744",
+      "total_assets": 16589045,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 141,
+  "assets_latest": 16589045,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jashubhai Bhilubhai Rathva is an Indian politician and a member of the Lok Sabha from the Chhota Udaipur Lok Sabha constituency. He is a member of the Bharatiya Janata Party. In the 2024 general election of India, he defended Sukhram Rathva of the Indian National Congress by 398777 votes.",
+    "title": "Jashubhai Rathva",
+    "url": "https://en.wikipedia.org/wiki/Jashubhai_Rathva"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Sant Krupa Farm, Vasedi Zoz Road Tehsil Chhot Udepur Baroda Gujarat, 391165",
+    "emails": [
+      "jasubhai99013@gmail.com",
+      "jasubhai.99013@mpls.sansad.in"
+    ],
+    "phones": [
+      "9426599013"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Criminal intimidation by an anonymous communication",
+        "section": "507"
+      },
+      {
+        "count": 1,
+        "description": "Abettor present when offence is committed",
+        "section": "114"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Criminal Case No. 5139/2023",
+        "charges_framed": true,
+        "court": "Fourth Additional Chief Judicial Magistrate Court Ahmedabad",
+        "fir_no": "11191001230033/2023, Anand Nagar Police Station Ahmedabad City",
+        "other_acts": null,
+        "sections": [
+          "507",
+          "294(KH)",
+          "114"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "28/12/1970",
+  "eci_state": "Gujarat",
+  "email": "jasubhai99013[at]gmail[dot]com,jasubhai[dot]99013[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 479510,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 297080,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture Income, Animal Husbandry Income, Civil Works Contractor Income And, FD Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Interest From Bank"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹97.0 L between affidavits, while declared income across 2 ITR years totalled ₹7.8 L.",
+      "headline": "Declared assets rose 12× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 9698865,
+        "declared_income": 776590,
+        "itr_years": 2,
+        "ratio": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹11.94 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 119363375,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹68.9 L (2017) to ₹1.66 Cr (2024).",
+      "headline": "Declared assets grew 141% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 6890180,
+        "from_year": 2017,
+        "pct": 141,
+        "to": 16589045,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1940506
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1940506
+  },
+  "margin_votes": 398777,
+  "minister": false,
+  "mp_name": "Shri Jashubhai Bhilubhai Rathva",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 27636625,
+  "mplads_unspent": 119363375,
+  "mplads_utilisation_pct": 18.8,
+  "mplads_works_completed": 76,
+  "mplads_works_recommended": 347,
+  "mpsno": 5572,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-17T02:18:15.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Jashubhai Bhilubhai Rathva , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGJsUHI1QTJ5eDNuTm10R3AwRUlmYWpOODU1V0h5UThmNU44R1FGUzd2M2pmaHhRa2thcm15dTN5WkxPUFc1T3RRNllzd29YbWtpd0VYd1RnRmVXMkwxYmNDVXJqSUxIVDl5MndtMjhnWHZQSEVXZ3otUlAtN2tycy02Zk9neWF4UjFTbEJxWlZYX19pWmc?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chhota Udaipur election results 2024 live updates: BJP's Jashubhai Bhilubhai Rathva wins",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdG1hR0w2OU0xWTVhVHZicjktVVg3Z0cwRkExTVZVUUx1TjRhYmVWVUwtQXFsMlZPUUVXV2hhRlYtMVJ5Nk5seXZBUjZTT3N1eEY5Y2NCV2Y5eGpBajFWb1BtOWNCbGxNNkh6ZFNsN094Z2ZaVm0zc2gxNDhhWENOTTNPQWtTSWxOMUlKa3VPX2J3YlpYRVFUMjlBbkZPdnM5STE0dFdZQ3M2b1BsNVVrX1oyWFlkS3A0N1hWXzdIeW1Hd1VPNG1PaWY3WWtseHVtMGlzS2xXdVJnbDZVTnRYc1YzdFdWbUxOMjNMdHlSQTlabTE4a0I4OUtLV25sT18zSmZXdTlSZExuaVBOazVPdlhYak1QalFfdWdvNWJoNklYVDk5RFBMcGxMR1J4OTIyaW1iM2p3RGM5UG5Oak1FWERoeDZHRkMzUkY2MGlpdVhwTkxtYzVVdTZBRldZWENhR3VXZjAxb9IB7AJBVV95cUxOTW5haW94LWNXcDMzRkpsZ2hhWHBqeDEzUC1wX185WjlzamlBQ1RBUHdyRUhlN2Vnejg0bjlkLUFFUXhna0dFX1RoZ2Nvc1ljSnVBLUhkY2tyLWdLNTMySEljWF9ydUhwb0N3Z0JaYnVqZ0NSUEEzZHFaZXE0Q0g4b1IzcVBqemlwMERoM0pybXJJV2ZkV29RN2ZfSlp2Sl9VOU11dEotYV9vVzBCeGI0LUdHdk5HR0xLamJmM2ljelFiNXlBVkh1Uk9CSkQ5YXR4b0RCNVV1V1JTTWdFNnp0Q2YzY21xa0t5cE5lamNvaExacGVMYlZ4bUJiUTBGNUpzRXhCT1FUbGUtdS1ZTUlGNTBYNFM1S2ZjN2Y5NThnVGpRZHkweGo4RVVsVjAwYkZ4SkhGZmJCVXFkRGlOV0VZdS1pdzl5Z1JOanlTVzlUbEY5TFNVcGtwVkVfRUpTM2pPRHBiUW9tLW91R3Yx?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Chhota Udaipur Election Result 2024 LIVE Updates Highlights: Jashubhai Bhilubhai Rathva of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHYzVVQ0MFZIVlh3UE5KcVIxOWxPUy1NcktDOEdUZUVJMUJ6Umk3bWxFRlZOX2xraWhST25UcmMyanl4dUtuWDg3ME84MUJ1UEZDU2RfbXRtMFpnUXZ3ZlQwV0RyZ1A3ZzloeFBJZlpheHN5ZGYwR2xrRkxDWGdONFdxZGd3S09tM1UtajZWSTRFem5uZHFNUXYtajRfV3M5SEZKam1kakVIMEpobkpTZEwxTG00TzJpX2syT0dVLXQtSVN3alZkVHFTcURwS1hXV1Fsel9EcXhlQjdiUkNRaU14dE45bXNQN0NJ0gHwAUFVX3lxTFBGQ0NSeDh0djk3R0thYVc0cjgzdTFtczFSMUlxR0pxLUJZdy1HS1BlaDhpWUF4VEZNc2k0bjYtNzdZLXNhR21yWDR3VktGQUEyWlZxWmg0RjFVWXNud21lTmpQd0lsQ3R5N01PUVpaZ2M1NW94NnQwQ1lFZzQtbTZSX0VlbXpJUWFCZmtTX01HUXZLRGg3bUlZeTVRUXJzUW5CcW5MVFE1UUl1QnRONTlRYTR1akVCN0htV2s0NUNfejg3WEUtcnV3RmJDODVGa3hXZlpVOG5DcjVZZnBlZmtfX0t0ZzBKR2pkX09zREZqRQ?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:38:32.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jashubhai Bhilubhai Rathva",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzRMVDJJcElURFhSSlYyeExXWEdXdGZ2alRrVE5FZUhQYU1QT29lazJfNzZ0SGN6bW1QUjBmQU9EeVpmcGc4VVg0Y2Z2TWNKUk01Q3ktQ0JBYUw1aGJ6Zkx5Y01NMEdUZE5xTUdhak4zbTF6WFBjSHZuZlNkRy1FaWdPbFItS2pXNEpkZXhzTUd1TkRDeGVheEtybDhoZVVWZjB4eXZXUF9NQjZsblFBaWFtTE9kaXJ4aVRJalFrZ0xOOU5KRnR0ODNybEl5bEE?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:31:55.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Rathva Mukeshbhai Nurabhai",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTUVrQzhBZ0JWTkgwSm56WXJNdFBmbU14MFV0ZUNCang1VzU3eG5BcDYwOGZ3M2NSeFc3RDZKbXE0TFNyMlBoMGx5V2tXMnZGRXdkelNvZExZMzl3bnZ0WHFZaFR0TEM2ZXNveXpsRjF0S1FfWkhublctNE96b0hwdHRvUjF1SWlNZDFyQTVLTi1mbjFwTGwwTFd0QjJRd3RLejlQbUtCVllBcjEzWm1wYTVORnZvYkVZNkpFbF9kd1FiMmFRa3Vpc29LMTJlRW8?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 29655,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-21",
+  "pc_name": "Chhota Udaipur",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180120.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to start excavation work in the closed Dolomite mines in Chhota Udaipur Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to frame a plan for repair of roads and bridges in Chhota Udaipur district, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Water Supply to Chhota Udaipur Region from Sardar Sarovar Dam",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 117
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jashubhai-bhilubhai-rathva"
+  },
+  "qualification": "Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Statistics And Programme Implementation": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "SUKHRAMBHAI HARIYABHAI RATHWA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 1,
+    "legislative": 40,
+    "mplads": 37,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 16589045,
+  "total_liabilities": 1940506,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 62.84
+}

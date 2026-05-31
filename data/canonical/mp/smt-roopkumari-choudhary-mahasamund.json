@@ -1,0 +1,455 @@
+{
+  "accountability_score": 57,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14795000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 25400460
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9947000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 50142460,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1026940
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 69161
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 200000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2470000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3766102
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2129",
+      "total_assets": 53908562,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 53908562,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rupkumari Choudhary is an Indian politician. She currently serves as Member of Parliament, Lok Sabha from Mahasamund. Previously she had been elected as a member of the Chhattisgarh Legislative Assembly from Basna in 2013.",
+    "title": "Rupkumari Choudhary",
+    "url": "https://en.wikipedia.org/wiki/Rupkumari_Choudhary"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Shrijivihar ward-6 Basna Mahasamund Chhattisgarh, 493558",
+    "emails": [
+      "roopkumarichoudharyoffice@gmail.com",
+      "roopkumari.choudhary@mpls.sansad.in"
+    ],
+    "phones": [
+      "9826811547"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "05/07/1976",
+  "eci_state": "Chhattisgarh",
+  "email": "roopkumarichoudharyoffice[at]gmail[dot]com,roopkumari[dot]choudhary[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 146870,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 220000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 240000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 240000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 175450,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 300700,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 298400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 296400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 302200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 277200,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & MLA Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 44% of MPLADS local-area funds were spent — ₹8.54 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 85375958,
+        "utilisation_pct": 44
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2116025
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2116025
+  },
+  "margin_votes": 145456,
+  "minister": false,
+  "mp_name": "Smt. Roopkumari Choudhary",
+  "mplads_allocated": 153035414,
+  "mplads_expenditure": 67659456,
+  "mplads_unspent": 85375958,
+  "mplads_utilisation_pct": 44.2,
+  "mplads_works_completed": 64,
+  "mplads_works_recommended": 154,
+  "mpsno": 5707,
+  "myneta_serious": false,
+  "news": [],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3840,
+  "notable_record": null,
+  "num_candidates": 17,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "chhattisgarh-9",
+  "pc_name": "MAHASAMUND",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180091.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 87,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Proposal for New Railway Line to Boost Agriculture and Connectivity in Chhattisgarh�Odisha Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Scientific Exploration and Regulated Mining of Alexandrite Deposits in Gariaband District of Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to provide special package for expansion of warehouse facilities for storage of foodgrainsin Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Review and Effective Implementation of BharatNet 2.0 in Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding alleged irregularities in appropriation of compensation amount for acquisition of land for construction of roads in Chhattisgarh under Bharatmala Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Preservation, Excavation, and Recognition of Sirpur as a UNESCO World Heritage Site",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Controlling Illegal Sand Mining to Protect Mahanadi Ecosystem",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding alleged irregularities in implementation of Jal Jeevan Mission in Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt mandatory the super straw management system machine with every combine harvester at the time of harvesting",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.3,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 123,
+      "value": 135
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/roop-kumari-choudhary"
+  },
+  "qualification": "Post Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 2,
+    "Railways": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "TAMRADHWAJ SAHU",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 0,
+    "legislative": 42,
+    "mplads": 80,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 53908562,
+  "total_liabilities": 2116025,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.06
+}

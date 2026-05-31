@@ -1,0 +1,659 @@
+{
+  "accountability_score": 78,
+  "age": 80,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8340500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 17950000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 26290500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 575000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4677254
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1044016
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1885188
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1720000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 9901458
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bM7yXiPw9MyWuqaURHks",
+      "total_assets": 17930142,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3589",
+      "total_assets": 36191958,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 102,
+  "assets_latest": 36191958,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dileshwar Kamait is an Indian politician and a member of parliament to the 17th and 18th Lok Sabha from Supaul Lok Sabha constituency, Bihar. He won the 2019 Indian general election being a Janata Dal (United) candidate. He is a member of Janata Dal (United).",
+    "title": "Dileshwar Kamait",
+    "url": "https://en.wikipedia.org/wiki/Dileshwar_Kamait"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Vill. Lakshminiya, P.O. Maholiya, P.S. Triveniganj, Supaul, Bihar, 852214",
+    "emails": [
+      "dkamait2014@gmail.com",
+      "kamait.dileshwar@mpls.sansad.in"
+    ],
+    "phones": [
+      "9431244312",
+      "9013997049"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/DKamaitMP"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR No. 557/14",
+        "charges_framed": true,
+        "court": "Sh. Shudhir Kumar (Judicial Magistrate Supaul)",
+        "fir_no": "157/14 P.S-Supaul Subdivision-Supaul Dist-Supaul",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 13,
+  "dob": "02/02/1946",
+  "eci_state": "Bihar",
+  "email": "dkamait2014[at]gmail[dot]com,kamait[dot]dileshwar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1582900,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1463690,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1042800,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1365720,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 745796,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 268800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 235200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 218400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 201600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 202178,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture , Pension & Parliamentry Honorarium"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹1.79 Cr (2014) to ₹3.62 Cr (2024).",
+      "headline": "Declared assets grew 102% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 17930142,
+        "from_year": 2014,
+        "pct": 102,
+        "to": 36191958,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 42% of MPLADS local-area funds were spent — ₹8.69 Cr unspent.",
+      "headline": "58% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 86909250,
+        "utilisation_pct": 42
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 169803,
+  "minister": false,
+  "mp_name": "Shri Dileshwar Kamait",
+  "mplads_allocated": 150450931,
+  "mplads_expenditure": 63541681,
+  "mplads_unspent": 86909250,
+  "mplads_utilisation_pct": 42.2,
+  "mplads_works_completed": 46,
+  "mplads_works_recommended": 92,
+  "mpsno": 5222,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "JDU elects Supaul MP ​​Dileshwar Kamait as leader of its parliamentary party in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnlXNE16NFQ3anhzZk9vejFrZzlSQmVubGtIaXN6VktLaG1JbFJ5Yk4yYTM0TWxHbHliRC1IeGU5OXNvT2dMLUhveHZXUEFMVmU2NE5TZllFcGJBTWg2cVdCa21tNjZyWnB1al9XSnhBZFVVbEpYSnA2a2tfbDYwZ2c1czZkbUhLMXVDbXRHaU1oR1dQVElQQk9yVlhKTktEV0RRaVhCYXlIUzFzU3NMUDVhWGtobWVwbXhTS19mMjJCZjAwZVNGTXhjWXo3YVMyN3J3ZFZRemg4QnJD0gHiAUFVX3lxTE1ialo1a2I2ZFltUm1kVGJpWW5PeG5ja1RLTTJGQ0hRamtoTHk4eXJSeGgxYUgzYzcyZHhUU2F1dTViZV9uRjVEZmxWenhyR1hUckNIUEQ1U1loV1RBWWZnQjB1QmV6MzEzUFgxZG0zcXNVOUltanlhdVNLOVVXajhqWmh6S3cwNTVwWGR1Mk1qSUVRZVc1TmNOdExLZm5fY2tCX0laTXhzR3g5U2prMUFUVldNM05Sb0RfcnBQZXI4NXNtSk5PV3pKb0llUFE5dGxNMFZlS1RvcTVfSnFTVkxtUGc?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Supaul election results 2024 live updates: JD(U)'s Dileshwar Kamait wins",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUTZUWE9PbjVOWTF4dVZxaXdJN0ZyVy0yYmVPZWhib3pMalZ2ejhEMzlvZmpvakNqOWRXdlEtMFdGbk5GQzd1ZjdMS2hienhnZ1lLVGFURGpLTy1zLXd5bU1jZkpZVzZHM1VSU3NOSHBWYTFROTg3MlFlSFdFSVJVRGIyaXJ4VkR4clM3OHQzRmh0X0d5Q0x0UkEwNy1VSzZXSFVicEZzSm9XeXVVMko5SW9fN2ZTbFZwUjdzREFQTTRDWGl6T2RIYWgxc1E1d3ZJTU00S1BmM09iVWZzVG1BaUV4blZoQlNjblNpcW1maFZpQl8zbzdhTXRRdUMwZVhxLUxsR2lKc3NNNkVnUDVKZkJGaTRJM0NCRnk3Rm5B0gGjAkFVX3lxTE13cDZ3OGhEZ3BFdllXQlh4bzM0bHVhRTZHSnRSVEtDc0loTjduN1VQZHdSZktVbElaX0tBOWJmNERHN29iUkNkQnVKeXF4c3dkYU12MzBtbGFwdndHYUpJUTBMZklET014aTlxYXhOclMtNWk3LVM2ZXp3ZnBLX3NGbHRTQTRnT0pRVWJwM08za1MtNndfQVdlaFFPWXdqVmlXcmZsYU5fZVU2RkFKSUlWYkVlMnBqdHBfTmFqSHdmSV85VDZRcFRZVzFTalNUdmNXQWhYLUlCRjNUb1FOUXJIaHR2V3hfQktIQlJFd0cwQlo1WDhreGtCSDA2SzhuREJPMFhpYW5FdmdMcTVZWmZGdDNDWjgwUmZaYXllRk9EMlNtbw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Supaul Election Result 2024 Live Updates: JDU's Dileshwar Kamait Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakRTWG92VU91bDJCZUwyTUZlRDI0czV4cWdDUmd0YWJwZEZIc0xweFBiNzZIOGZia0VHenlmZkJDYUxHczB1bzhvbU55VzdWRFdsZ0VFbU40ajZGcEhPX2JVTGRXd3U4R2pLaDZ4QVJEUFFiM3IwaVRiV242V0V0LXVSaUVhQjlBdng0U0czaENfZkpNd2Qtel9pd0ZRTHNqMzFVcEpPRV82QUNyZ1poYk8ycmZYT3RMWnRqQXhR0gHLAUFVX3lxTE9wTzZRbEtEQ1FnbUh3UnU5ckJTdkt5N2hjdVh5ZFBrZjJYVDJiaDZqX1FYWHE3QlpPZ3RtSi1YS2VvSm5XLURHTUliXzY3aTc0WmNuRmRzZkpvR0IwNENrQzVsR0hhRVNEaXpEdFlESHYyYlBZYmFCbUE5Y0lGUVo0VmpwZWpaLXdsaGREMERNZHVGQ2RxQlJCMldLMFZPLU1PMm95VS1PSTdKZTdRWDRTcTJlek1tTDFKOHYzbGJsNlYwVmt4UmxYQ2ZV?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Supaul Election Result 2024 LIVE Updates Highlights: Dileshwar Kamait of JDU Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFAyZ2hVak5xVjFIeUJheDU4bWVPc18tTVhidW80RE1QTWNVaFVpcllUY0FUeWd6a0hpeG1aLUh1a1pvSDFTNHpuSGFXTEpkZk1CSTQ5RTdhem0zY1djU1dMYzlaOGlyLUtPWGpTMXh2R1pqX1FSUUlkb24wOHBMMTdycm1uXzNZUkNEYjlKVGJ0b1BXa0ZnRFVkb0I2UjhnV0NDT2FfTktjOG81R2U3bkYtWHpkWXRTb3FocEtVY3JqYU0zcnFjQ3ZGSld5T2NXbnRwcGJCMGtBUHBMcms3X9IB5gFBVV95cUxNSFNmOWVqUzVqbElKUnVZX2VTUHFnaWRGZHFxVFhMWDc0cXEzU3VLdkVsaGxHTEFJT0FlM3FvZmthZ0ZSb3BiNG40RjVOcFh2eFpGZ3Z6Nm9qT1EyNjU2T25OU01NTkp5NkxjNXc3TWtWNjRSTnpHSmxibDdiZVp3MUExQ3FXM0pWVW9TOGdZMWdCNTFSUnVYZTlISnVndWRqR2VoeWZlcGplTnJCVHM1UDBNb2Y2MmxtbG9zZmN0MzRlUWhueEpfSlJaaUJOU09UdHFWdWVfQU5JaVMtSDlIdDVsTHp5dw?oc=5"
+    },
+    {
+      "date": "2019-05-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "DNA India",
+      "title": "Supaul Lok Sabha Election Results 2019 Bihar: JD(U)'s Dileshwar Kamait wins by huge margin",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmhwTlF1VGtjNnRxQ0JjZmRnYXZDbkpvWnRQN2hYZUNQQmtRZWpQQWdGcFNZLVdmTnBUSEg3SkhEWHREOVNRU29fN19UNkJyUjJEeEVRVzVlb2hqUU1YVnNIdkdaSkJZckI0RDNzNjAzYkExU1ZqMG9lMW8zN2Z0NDU2YWtGRDNfMkl3U3Fjd00tUl9BQ2lsb1VUNVU4dmw0YnY2XzZpZzgteXk3RW1NU0tnN2ZzQ2tvMTMxTkp4U0dxbmZSblgyRjBvN2xnZ9IB0wFBVV95cUxPWVNvQmtad1FIeW14Y2s0OW5URXhqeFJ1NlBaTkJ1aVdSbHVTYUZFUGNkWS1WRGNUZnkxeU1Qd2NUa2dfYVl2elkzRTRIZ01nc01nOWpqSWxTNWZTSjhqUzdEYnpNQ29mRU4wU3lseWhkdXRuM01DTVh1VlNVaDdnd2JDUjNzM2hGS29tSmpOUmxFamo0Qjc5ZnB0aElfMVRTNWdSOHg4LWhyaUhoQ3N0Z2F1bWc1LUJsQW9pQ1ZJMXZ3dVU2WVI1TW94VHZmd2tWdUc4?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 18612,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-8",
+  "pc_name": "Supaul",
+  "pending_cases": 1,
+  "phone": "Tels : 09013997049, 09431244312 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180050.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Need for Construction of a Railway Halt Between Supaul and Thumha Stations.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to construct a road and a bridge on river Kosi between Supaul and Darbhanga in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to run Rajdhani Express via Forbesganj, Raghopur and Darbhanga on newly developed Galgalia � Araria section in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to provide stoppage of train numbers 15509/15510 and 13213/13214 at Tharbitia railway station in Supaul Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to construct road in Supaul via Madhepura to Darbhanga",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Construction of a New Barrage on Kosi River at Birpur in Supaul District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of High Dam in Nepal to Prevent Floods in North Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Construction of Bypass Road for Traffic Management on NH 106 Near Baba Singheshwar Dham",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Construction of an Elevated Flyover on NH-27 at Simrahi Market to Resolve Traffic Issues",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to restore the original course of rivers Jeeta Dhar and Khando flowing in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the construction of Overbridge at NH 27 near Supaul",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to construct an overbridge on NH-106 and NH-57 intersection at Simrahi Bazar in Supaul district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request for Construction of Railway Overbridge at Nirmali-Parsa Halt and Resumption of Garib Rath Express (04031/04032)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. train no. 13211/13212-jogbani-danapur express and 13213/13214-jogbani-saharsa express should be stopped at pratapganj rail station for 2 minutes and vaishali express train no.-12553/12554 and rajyarani express train no.-12567/12568 should be extended from saharsa to saraigarh or supaul",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding establishment of Kendriya Vidyalaya at SSB Camp at Birpur in Supaul Parliamentary constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 38
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 138
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dileshwar-kamait"
+  },
+  "qualification": "Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 2,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 4,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 5,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 2,
+    "Railways": 4,
+    "Skill Development And Entrepreneurship": 2,
+    "Tourism": 1,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "CHANDRAHAS CHAUPAL",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 82,
+    "criminal_deduction": 6,
+    "legislative": 80,
+    "mplads": 83,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 36191958,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.33
+}

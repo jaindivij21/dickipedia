@@ -1,0 +1,397 @@
+{
+  "accountability_score": 28,
+  "age": 39,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 15955305
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 110000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6462225
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 22527530,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 46640
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 47630
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 434140
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 274861
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2003271
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9088",
+      "total_assets": 24530801,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 24530801,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill - Sadial, PO - Krishnachandrapur, PS-Mathurapur, Dist. - South 24 Parganas, Diamond Harbour West Bengal, 743354",
+    "emails": [
+      "bapihaldar04@gmail.com",
+      "bapihaldar.04@mpls.sansad.in"
+    ],
+    "phones": [
+      "8016600911"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Criminal Case no -3/2024",
+        "charges_framed": false,
+        "court": "Judge 24 Parganas Ld.1st Special Court Alipore",
+        "fir_no": "116/24, Mathurapur PS, R.S. Dist. South 24 Parganas",
+        "other_acts": null,
+        "sections": [
+          "409",
+          "120B"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "06/04/1987",
+  "eci_state": "West Bengal",
+  "email": "bapihaldar04[at]gmail[dot]com,bapihaldar[dot]04[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 650500,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 572470,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 446700,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 398760,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 26% of MPLADS local-area funds were spent — ₹10.90 Cr unspent.",
+      "headline": "74% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108983446,
+        "utilisation_pct": 26
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Creditors friends & family 58,849 58 Thou+",
+        "value": 58849
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 58849
+  },
+  "margin_votes": 201057,
+  "minister": false,
+  "mp_name": "Shri Bapi Haldar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 38016554,
+  "mplads_unspent": 108983446,
+  "mplads_utilisation_pct": 25.9,
+  "mplads_works_completed": 25,
+  "mplads_works_recommended": 164,
+  "mpsno": 5774,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-01-22T17:28:11.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Bapi Haldar , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3pHTXhDU0dybWFqM2lDekFYRDEtVG5mWlcyQXRacEtTLVBJaUo5Ymw5SVZPYkJ4TUlCdGNPTUozcWktT3o2TjkyTDhVZGpnU1EyNG5EaXZ5NXhzbkJOS0l3c3cyYmVQd1ZKNmJUa05hSmF1d0lmb3BvalZqS1dvSV9R?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mathurapur (SC) election results 2024 live updates: TMC's Bapi Haldar wins",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPeHFLQXp3dWpYU09nV3BfSm9SNXE5MEZBYlBwdDBlQzBuQ280Y1JZOW5lZTVWdmlHcXRZM2gyWi1hQlhKRHlKeWdJdDFzb282ZzRiV3E3bktKLW8xME5hVHU2b05hYjM2UUh2Ujl0bGgycV92cmUtR3NjVlA0MHZlbGJPNnowYXhsRXpaOUpXMFJQbEZfa1o1NzhWSjNXS1lhUW5oSDZHQ1BIeUlaWFhjNkRlT29wMzZlenBQOWhGWXhTNmlBckp4b0twdExDdEduTWYybkdfbXRkb3JuVkFCNUd3YVBydWJpUE1lY083cHZnU3VYOGVCaEs2Sllqal9ZNGtJdVJFR1ViaC00d3djV3l3WjRmWlNrVExjbXN0S0drLXFEUENLdzdNODhDUlFfN0daTmVTZG5KUTI1TjlhalF0RkhjZ2lEMVRlNmpFX3o2Mm9aeUlzWEVwTV9MbURkMEwzVGpJNGRCbHkySWVwdEZnOVRzaGttZHBraE4wd1NFR0RW0gGKA0FVX3lxTE1HSkRIYlJqNlJ6VE50NUM5cTNxMmw3Y0p0QVdONzRmYVpIR1dhRGZENEJhTkRqSHBkQ1c5WlJvRzZ6dk9YRFI5cGNwNThrRDRMRlZDcUlxNHdsbnpIemF3bXhlMnJSc2lEbHJ0QU5lQUpmMnNOYnpXeUFoZU1OSTJkMm5FaUxUMy1EZHB0S1o1ajAtM0RvR1QtMmJyMEZFbnVhZUJEdzZIN3NnNldqRnhheWZPU0J1M0J0djBaeEJ6QWpaZkFwR1g1VDQybkJLVG9welR0MEtRRVRpY3JoT1dlQjJIQVVTRVk5UVJUZ1BqSVRCYVhybnpxOVBTdWZhSGNjc2xzY3BPNVhQYU44R19wcHBGaUFBS2J4UWxsWXlGQ0M4ZDlFU3BnWjdpbl9jWDBGeDM2dXBxNHhIU3RRR1Y5cXkyWjNfTDF0bmlYWGtmTVFvY2NLclhGcGdIWjE1d25BVUg2SjlPRWhVd3lwVkRjWEpSa0JPdXFpTTY4dFIzYU1TZ2h0X3pqVkE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Mathurapur Election Result 2024 Live Updates: TMC's Bapi Haldar Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdjNTZDMta3pfMVNJemNxMjBpQmNvTjh1b1ZlYkRzUXZjTExvYmlDb3BCcmFZMWRya05wY19XWi1ETUppdEtjTG05aWJ3dm5WYnZ1b1c3Z2xOZXRlNVZpdEpVVGlZMFZIZDJHNnptWWQtOXd5cFpqUllpb1p3UlVVXzJZa0xnRTA3RUdoaVZCSDg4dml0Ykd3djJCYmVyOFZYaV9QMHRBSE1KRlNTZDZITjhUS3BueFNGcU9tV1ZsY2FhUWFSTWFGQXlaSdIB2AFBVV95cUxPSEQzZnNmekM0aUdPdUJuOE5QbjRJSXg3ck1uN2tseWkxX1RaQnR6T1hRbXlTRlhqUXlhbVlQTU84eFZIcFp4aWduVm1kbUFDSVo5ZlJBcnRmak1rVjVWYWpEYTJKNUtxb2Rud3J4LW9sTWNyWnNNRGp2Nmk3bUJxRGgyUkJmUmtPODBjcHJ6Y1ZacXRFYUYyZHM0bzZpamtLemM0WjBJSGV1cFhyRmlPanFTRlZHYjlUNXRoUFdJVTVydDRwYnhaZkdJQW03TXp4a2tPcHdOM0k?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Mathurapur Election Result 2024 LIVE Updates Highlights: Bapi Haldar of TMC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXE4N2tPRm8zUndSOHZUUmhUeFZhZFFMdkFTRWV2eC00bVNLTFVFRi1wNnFKUlAtWjFlaGthMThDMjlLV0RHam9Eb1FLZlFvTlZZc1hGVlRyaGxDMG5hMTAwZHN5US16OTF6czRRblZkTG4xcnRKNHZvX1NqeU5oem83Q0NMOW9FbFM5emlxX1laNHktLVJ1cS1qa0pDLUUxUllCb3MwWDhHU0lhck03MTV1SURQZy1fSE84Wk9LUmM0RnMxSTVoSkJVOThVUTJSeUtDYU5XV2hqOWtidGI4aGU5TkJ6QdIB6wFBVV95cUxNR3lXbUo2YWphR3VLOHdMV2tiMm8zQXhnTEg1NHJKT0R3NTR0UTZGZkQzVmdYem1yZ3lsbjk1b3UzeXRPQTZCekdxV0hnbkw1MzgwOWlfb1dvcHZpN2VoQVp6UUNsYThVXzdsc0txbVIycVl0VEtBMzU0MENLLV9RTHhSMHZoZkFhZUJ5TG14T1dkcDZTUFU3c0VvbFhYeXFhclVPRFhJOHY4dFcwWWtQZ3dNaXNDVktudkl5WC05T3RZTlczYl9jSE1icmFNZmlzcWdjd2xhWVFqb3NrNVdCajNXNEZ4MFgtY1Mw?oc=5"
+    },
+    {
+      "date": "2024-05-31T17:18:10.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bapi Halder S/O Fatik Haldar",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcVVPOUdTS2UyRWJ2WFhPSHViVVZjcGptSU9oOFB0MUVMOGVJNGNUUGd4TjZHSFhSX3Mxd2ZqSExOSmtBQ0RYUW8wc2Q5VENUUHBUck9SbVc4NkNWdFNwazItUFprZ0NjdWNjSHFIN3htVzI0dzJKdURSOE9pLXF6Z24tdVl4bjRJLVRGY0RKMzBmb3ZVc2pOd3FiaXQybUhoNDg2VFYwcXdOT0Q4d2VnOHhOcUp5NzNDTFo3cGxZQ0lkZ1pONEhVekNTelMzaUV0?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8631,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-20",
+  "pc_name": "Mathurapur",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180509.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding need to take steps to save the heritage of Ganga Sagar Temple in Mathurapur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand to govt. start the fertilizer corporation of india in haldia",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 6
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 59
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bapi-haldar"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "ASHOK PURKAIT",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 34,
+    "criminal_deduction": 6,
+    "legislative": 29,
+    "mplads": 41,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 24530801,
+  "total_liabilities": 58849,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.52
+}

@@ -1,0 +1,472 @@
+{
+  "accountability_score": 40,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 20000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 17500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 37500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 347000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 58005
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1552000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1950000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 700000
+      }
+    ],
+    "movable_total": 4607005
+  },
+  "assets_earliest_year": 2007,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2007",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=GyKvssLf3VXVVoKFFd6V",
+      "total_assets": 5776250,
+      "year": 2007
+    },
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=GyKvssLf3VXVVoKFFd6V",
+      "total_assets": 31282000,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5381",
+      "total_assets": 42107005,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 629,
+  "assets_latest": 42107005,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "31/A, Lohar Bagh Sitapur Sitapur Uttar Pradesh, 261001",
+    "emails": [
+      "rakeshrathore778@gmail.com",
+      "rakeshrathor.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9415084939",
+      "9569140472"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for cheating",
+        "section": "417"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CIS 1807/2020",
+        "charges_framed": false,
+        "court": "FTC C.J. (S.D.)",
+        "fir_no": "Vaad No. 1552/2020, P.S. Pisawan District Sitapur",
+        "other_acts": null,
+        "sections": [
+          "406",
+          "417",
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "04/12/1964",
+  "eci_state": "Uttar Pradesh",
+  "email": "rakeshrathore778[at]gmail[dot]com,rakeshrathor[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 602190,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 538980,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 556280,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 760350,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 880000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 471000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 466000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 490000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 492000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 497300,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business & Pension as Former MLA"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹57.8 L (2007) to ₹4.21 Cr (2024).",
+      "headline": "Declared assets grew 629% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5776250,
+        "from_year": 2007,
+        "pct": 629,
+        "to": 42107005,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.63 Cr between affidavits, while declared income across 5 ITR years totalled ₹33.4 L.",
+      "headline": "Declared assets rose 11× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 36330755,
+        "declared_income": 3337800,
+        "itr_years": 5,
+        "ratio": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 6
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 8288936
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 8288936
+  },
+  "margin_votes": 89641,
+  "minister": false,
+  "mp_name": "Shri Rakesh Rathor",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 86023076,
+  "mplads_unspent": 60976924,
+  "mplads_utilisation_pct": 58.5,
+  "mplads_works_completed": 20,
+  "mplads_works_recommended": 56,
+  "mpsno": 5743,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-04-30T11:45:20.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Sitapur Congress MP Rakesh Rathor walks out of jail after getting bail in rape case",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXpDTXkzQmZWa1Z1bldxeHpLY2lJUEdCaFNoVnVfdWRQVC1SOVA0SWhKYWpFbUlNWFgzLWh6eTRSeVRoeHFyU0JjWThTdWxtYzdVdEtWYk9xY3g2b3JhTGZOQkJQcXY1cHFKU1dxbjRRS09JZzFuQ19STExJWV9JOHJPMjZlTW5DT2VXUEFPYVNtcWc3OVZwUjZUenF1QVliOWNHUUFiWWFjNDFzbXp2WFZaTXlnalJQU184d01YZjFtVHI3LS03SXN4QjRoRlNHVlNmaVIyRThUN0NQNGotenQwNXdyLUk3OHNuMGY2RkN2dFFxWTZpZ1ZiTWF0Wml3?oc=5"
+    },
+    {
+      "date": "2025-02-21T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Law Trend",
+      "title": "Allahabad High Court Postpones Congress MP Rakesh Rathor's Bail Hearing to February 24",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUpZZ2tzeU1VQkd3RXhwaTE3Y2gyY1V1akFILVJ1c1FQdnllWmlFOEFoOWJlMTZBN2Q0R2t6ckRoSjFzVzlGSXVjN3Jnc19ackRlb1VWS2pQVjZzekhLNEJNWlo2eDd4TFMtbkJ0Uk41U0I3ZlZoendBMUJSNmRYcml4RnRZVFBNNFk4WkgzTG5EcThoLXBOUmloT19uRTZHZUVOaGNOUEkxQQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sitapur election results 2024: Cong's Rakesh Rathor wins",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOZFptM0xocVBxQWxaVDlyeHdWaVBNaTNOQ1JUa24zd2VZVE1kWUo2cG9faEhTVTBMUWpqUHFDQjA4SGRTMkZYRFFIZlhFUWZsRFFzMGtWdDExaWRTUVUybFA1dFZtS2NjMERja2xBd0Mwd1RUd3l1aGRpZi1ZVWhlbEY2bEJLUUVNYml6akdRdzBVbGhkbkRtcG9DWUZoN21KTEF2Q0hLVS1WREVrY1lsalBsSFNIdkJqVjJ4dklEb3pOMG5mTkQtR3B3cFlySEFYZWZwMkF5dWVkcmZXYUw4QWFmY1BoQzZCQ2paRXBUaUZrQm5YRFp6TFhRM3Z6by16TnoyZERzenFadGsyLTI5RVVXMGZURnMyNTJBeFg0OTl5Q0QxVFROVEE0WDBfeGZaZTNvdDJ4V3kxWEsxTjdaVl9hbHFLNGpTVUVZ0gHQAkFVX3lxTFBCUVp0ZHFCdnpPSlBIOUw5M3NtVHQxa3Z2MVBVSG5sLThwem9iT21vRnRQT2ZaVTJGRnpYMGtxT256VlJ4cnMtRmxNNDJsWUFBMC03M1JqdlVqVEh3RkNaZVA5NWY2WlBkUkp1aVIwNnYwbXdvRE45ZDNidU9tR3Iwd3g3STNTUXlOUXJDZi1FdElVUl9fMXZ0Z3BTTkhzc25QYW0yVHhFSml2UDV5a2tNMjk0UnBjaVVRMU9UZTNTd0dxSEEycFRaR0x4bEFTY3YxdHJqTnJjWF9zaXRZZ3hqN181RzBfSG4wNXlYSTZ6N09pVkwyaWZSQVlHdnRwcjFOWWRQY1NZLWFSczIyNVhmaGFKNnJIYkpUNUJTVlpndjBZdU95RHVtYkp0dFpabkFxYUdwckZmU0pKS3hicHJIU3k1eG9GcWFEWUE1RGNjMA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Sitapur Election Result 2024 LIVE Updates Highlights: Rakesh Rathor of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakFBYXhfSUdtMDVTZllmTzRFZVlzVXVNRE5nZlJyS01HSVIyeGZYUVhxRUo3WldWeHljOGFlb21FZHdsd3MxWnc0NVJwdTZob1psemo4d3pVd1NLU1h6X1lkNmRSUjI3dTROcDV5OXdMWDRTWTR6cmtlQzBuNmlNMmt2NWtHVkhOcmQ0WmdFUnFkcTczMDJGUmFWWWVQbHlQcUROR0VxQ1p1QXBfcHhhMy04aDNqSzROY2FRUHdPcmlCVUVrVFlob01ZNGRUaFNrc2ZfX0JOZjBBNlJqbExkVGd30gHnAUFVX3lxTE0xM2pnNEJOc21Xd2pmbm5oQ253OW95emJaWGNqUnY2YUU0WVBtU0xmM1ZlZV9QUjRfZ3N3aVNrdG9DSVZGVTFSY0UxMl9jUkJhSVFwdkZHb0lWTEJsM2RPaDFzMW8wX2h3S2liaDJISXY4bGxNRHBKa01VdUhLZEY3dUdFekNSTzd0MlJtdEUxbllmTU13SWFYVWc1MEZackFuaGtlTWthWVFZWllld2wydWdIa3pvLXpzb3ExR1kxNi1qUFp5TjZ5NUtDRTVKdzYwRlNtXzdwWURvNWN6YXRpSkZFZlhNTQ?oc=5"
+    },
+    {
+      "date": "2024-05-18T07:39:31.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rakesh Rathor , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOF91cEVKMmJXRmhBM1ZvbjVuYVNDaEEtRkdvTmVxZGFJTjQ1YWhQMlRKRXRaX3lwWEc3X1NPT0l2OGN1WlF3NDhtbGgwZWtGeGQ2cXM3dUl2X1F2RXNqUjllc2w1cURsVmRaUFoxLWF2d0VhVnZLcW5qVl9JTVE2anhkY0s?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6958,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "uttar-pradesh-30",
+  "pc_name": "Sitapur",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180478.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 67
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 50
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rakesh-rathor"
+  },
+  "qualification": "Graduate",
+  "questions": 6,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Jal Shakti": 2,
+    "Railways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAJESH VERMA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 51,
+    "criminal_deduction": 6,
+    "legislative": 26,
+    "mplads": 88,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 42107005,
+  "total_liabilities": 8288936,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.2
+}

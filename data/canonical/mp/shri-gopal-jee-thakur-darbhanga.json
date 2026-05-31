@@ -1,0 +1,612 @@
+{
+  "accountability_score": 56,
+  "age": 57,
+  "assets_2019": 19301808,
+  "assets_2024": 39078830,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 6533333
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 350000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10250000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 25333333,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 112000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4163642
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 261004
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 5000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2458000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1750851
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13745497
+  },
+  "assets_earliest_year": 2010,
+  "assets_history": [
+    {
+      "label": "Bihar 2010",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vRrDpRoPkaySX4ueq8MC",
+      "total_assets": 8018064,
+      "year": 2010
+    },
+    {
+      "label": "Bihar 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vRrDpRoPkaySX4ueq8MC",
+      "total_assets": 8889160,
+      "year": 2015
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vRrDpRoPkaySX4ueq8MC",
+      "total_assets": 19301808,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5055",
+      "total_assets": 39078830,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 387,
+  "assets_latest": 39078830,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gopal Jee Thakur is an Indian Politician from the Bharatiya Janata Party, and a Member of Parliament representing 14 - Darbhanga in India.",
+    "title": "Gopal Jee Thakur",
+    "url": "https://en.wikipedia.org/wiki/Gopal_Jee_Thakur"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Ward 45, Balbhadrapur, Navtol Laheriya Sarai Darbhanga Bihar, 846001",
+    "emails": [
+      "gopaljeethakur.dbg@gmail.com",
+      "gopaljee.thakur@mpls.sansad.in"
+    ],
+    "phones": [
+      "9473199995",
+      "8709784233"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/gopaljeebjp/"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/gopaljeebjp"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/gopaljeebjp/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "TR No.1077/24",
+        "charges_framed": false,
+        "court": "ACJM First Darbhanga",
+        "fir_no": "230/2013, Nagar P.S., Darbhanga",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "353",
+          "149",
+          "342"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 8,
+  "dob": "15/10/1969",
+  "eci_state": "Bihar",
+  "email": "gopaljeethakur[dot]dbg[at]gmail[dot]com,gopaljee[dot]thakur[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1038980,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1040570,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 588300,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1122720,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 598740,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 492160,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 485500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 367660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 330220,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 192260,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Rent and Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹80.2 L (2010) to ₹3.91 Cr (2024).",
+      "headline": "Declared assets grew 387% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 8018064,
+        "from_year": 2010,
+        "pct": 387,
+        "to": 39078830,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.11 Cr between affidavits, while declared income across 5 ITR years totalled ₹43.9 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 31060766,
+        "declared_income": 4389310,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 20% of MPLADS local-area funds were spent — ₹11.83 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 118300744,
+        "utilisation_pct": 20
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6875610
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6875610
+  },
+  "margin_votes": 178156,
+  "minister": false,
+  "mp_name": "Shri Gopal Jee Thakur",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 28699256,
+  "mplads_unspent": 118300744,
+  "mplads_utilisation_pct": 19.5,
+  "mplads_works_completed": 52,
+  "mplads_works_recommended": 158,
+  "mpsno": 5176,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-16T09:14:12.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Gopal Jee Thakur , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnJEUEZFdUVRa0d4MHJKb0IwXzhVR0hoMVNfa2FMS2t0b3h3ZkRiUWdHUWtheGVrc3FlSTAwbmNScWZYdHRGSmtOOTZTTDZRVV9tSjQtWUxwT285SjdvOFUtcGtCUDJ6WWM2WHZtSl9UOTF0LTVHUkNoandYLVZ6MWh3MmVwLTVf?oc=5"
+    },
+    {
+      "date": "2025-01-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Patna Press",
+      "title": "MP Gopal Jee Thakur Discusses Rail Development Projects with East Central Railway GM",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWdMVUZGVHFQSV9xZm0tNUNzdTNEV1RlODlrUU0xU01McFg2TE9YSExpVWhEU1lfUTg2UWZzcVdhbmNITTN6Y2VtQ3haQWxlVlZ6bDUwZERnWDVrc3VOQ2FHWWlFZ1pVMThBUkVXN1hqX0U0TGlIeER1T2hJUWYzdDVwRTlXQm0zTmxNdnl0bWpnZ3ZaZ0RNM0p5SGVpRk4wZGVoWERUZnhscnM?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Darbhanga election results 2024 live updates: BJP's Gopal Jee Thakur is leading",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRlV3WExWanJfbTBlVUllUzFuM2FnV0pQdW9OUXdrbmpseU1DWF8yLUtrQ0JXdEcwZVJTZXROVHBXOXZMSDNoUHI5Y1NrRjBSY1BpZ1paWEY2M0NjaEpKSk1OckF5ek5hcUk4TVM3VnNXM0JHRWdjcExwMlBCRW00ZXJPZDhkVE5nMDVMam1TX2xVMHNfUTZab3htQm1aSGZ5N1cwcFpFUlVZaFloSk9QZzJkV3lKekI5aE5XMG1wVl80MmFtU2FiVkUxdnBzNm5ZVFM0QU1yeDdhQWtKeTU2STF3RklxQTlEa0tkTENKQmtMSVF5M1lvZXZaeHB6ZVpaR0hQQm9IeE1qTmdNVXF4eDZueTdHaFo5YmFiN01fZ25kd0FDelE2Y05iWjN5a2N2R2ZTWklreWROTjlhNXlUWtIBxgJBVV95cUxNMEViVXBxdy1PMEV3aHY0ei1IUVNTVEN6Q08tNnBiVnRSYU9KU0V6UVFWeHhfRkllY3F6TUQxTFZkdkc5LTkyTFloVnlfNGYtaV9na0JuMnV4ZmlPajhieDZUV3JBNlowUGdKRHNEVHY0ZkFUbUtESlczcFBqbVFubWpGS21SeTNMdmZZVUc3bE5SMC04MEt5V1J5OE1VYjNpQTN3QTlXY2Qwcm1hYV80dnBPWXktdXlzaFExa09CNWl5MVB4TXdHQ3VZWUVwRGdZZERXU0FNdklzNTE3SGNsZ2xYZmVualQ2VXZTSF85M3RTV1dVLVdGbG1tRG92RWpQNWNkcXBzdU1kU3FrQ0pGY1VoenJlVFg1TnBMa2xVM0FwaDBqWmFGcVc2Tm1fNXZSZEladFhDcDVJTnlVRTlJWkFQc2JDdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Darbhanga Lok Sabha Election Result 2024 Live Updates: BJP's Gopal Jee Thakur Has Won This Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGt3TUYyQWpIWGZ2SVJIbHJGUC1VcWhkWFdsVWpnTXV0c3JHbHpwUlpmZGYtcmI2cE9TbzdUeFE1bjZWX25IZGsxcUtzMFVveEI3Q2JtZ2toS3NKdnBMVElWX3lxNTB3STVjNDFodU1RaHlwdHBPa2M5Z0VmdUUyanZIUzhCelZjTkJVY01yVFFEX012RENUM1ZmcG8zNGc2ZF80aXAweDFCUGtSUzBRUW5ORnZ4Ty1VcUg4RzdrcE9Kd9IBzwFBVV95cUxOLUxDd1pCNEN4NjF0OEFFZ0pmNkhkZGI0RlhndlJjNVJNUkxfOGJWRTVJNFhsMVdhRm5NMTZSY0hxSEZ3a1RPclpqa3NSSDYydHQ0M1NSMnJRNWFLM21OMHBkZTdVOTR4c3l2WXREX3paU3NoUDMzR1VLNGlIamNjbzVaTzNvT3FnYXNGMUVUSjRqRHdGdW1ZVUtLeWowcVpQd2FDUV9nM1U5T0ctTVFsMjVWR1dCU2h3Q2g5TTJ1WFJrQTNlOXBSeF9LTno1TkE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Darbhanga Election Result 2024 LIVE Updates Highlights: Gopal Jee Thakur of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkduLXhuOVBCODVLY2ZMLUU3LXRVR1ZxVEdqX0VxYjJldXRrRWxqMXpuUnhHakM0b1NvS2lyU1Jhc1V1N0hLRzhyMmNTZXZQdjJqaDdQb3BSZEVzX3l6RnFjZW9IdnhHdnJhY0VjOFh1OEFRaUVjenZIUUg0WldxZjczb0RIT0dqMTV0QUZXc1lUTkFuWHlIN183OC1fQy1kelJYLU9uNUFlcjZPRXZTMmpoWWVaYjlTMFZWU3ExdlE2Tk44bEFNQVpqTmtydXNRQzJ4QkRWSFVIdFliV2FNdEtxSkHSAeoBQVVfeXFMTmJJYXBNM0t2WEFva0NYZlpLQlpDa0xhNC00SEg1U1Vxd1lYcGVOY0wxbVZfamVuX2NUOTkzcEFKQnV2bmcxRnBfaGRlU083NTJUR0VJQ2pIQUhMMkh3allseDA5TzA0UjR5ZnRUZmhQOEFxYTNBRFBSbEpZcFZkcmZZTnJzbzN2eE5jTlFHWlJHMGMwc3hKQXBLbUlBQzNQdE1GWUdlbDBjcC0xLUI4NEctNHBGQXRhSVFxV19fdE5hTk91Wm1LTWQ1VUc1eUNmalBIY1pBNm5HSFBTYWt0LWFmVm1pYVMtR0NB?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 23904,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "bihar-14",
+  "pc_name": "Darbhanga",
+  "pending_cases": 1,
+  "phone": "09473199995, 08709784233 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180054.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Development of Pashupatinath�Kusheshwarsthan�Baidyanathdham International Tourist Circuit.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to start Inpatient Department Services at DMCH, Darbhanga, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Economic Development and Industrial Growth in the Mithila Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding construction of remaining 15 Km road stretch under Central Road Infrastructure Fund (CRIF) in Darbhanga and Saharsa districts, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Request for Compensation to Farmers Affected by Rain and Hailstorm in Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to set up 'Grameen Haat' and 'Khadi Mall' in Benipur and Biraul in Darbhanga Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to connect Sakri-DharoraBenipur-Biroul-Kusheshwarsthan to the proposed Patna-Purnia expressway and to declare and develop Sakri-Dharora and DonarKusheshwarsthan road as a four lane national highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to link Darbhanga with Patna Purnia expressway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding proposed establishment of Mega Coaching Complex in Shisho Railway Station in Darbhanga, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding non-supply of piped drinking water in Darbhanga district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding non-availability of NCERT Text books in Darbhanga district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to establish National Institute of Food Technology, Entrepreneurship and Management (NIFTEM) in Darbhanga, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to retain Akashvani Kendra at Darbhanga, Bihar and declare it as a broadcast centre for Maithili language programmes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to connect villages in Darbhanga Parliamentary Constituency under PMGSY Phase-IV",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to grant classical language status to Maithili Language",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to minister to give instruction for taking necessary steps to sanction a division bench of patna high court at darbhanga",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding protection and conservation of Historical and Religions Monuments in Mithila Region of Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding measures undertaken to check floods",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 96
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gopal-jee-thakur"
+  },
+  "qualification": "Doctorate",
+  "questions": 37,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 4,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 2,
+    "External Affairs": 2,
+    "Finance": 2,
+    "Housing And Urban Affairs": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Panchayati Raj": 1,
+    "Planning": 1,
+    "Railways": 6,
+    "Road Transport And Highways": 2,
+    "Rural Development": 5,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "LALIT KUMAR YADAV",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 1,
+    "legislative": 65,
+    "mplads": 45,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 39078830,
+  "total_liabilities": 6875610,
+  "wealth_pct_increase": 102,
+  "winner_vote_share": 55.33
+}

@@ -1,0 +1,533 @@
+{
+  "accountability_score": 34,
+  "age": 44,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1845042
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 60481000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 8894000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 55589500
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 126809542,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 75000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7044812
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2790146
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3036537
+      },
+      {
+        "category": "Policy no.C-4337192 ICICI Prudential Life Insurance 25,00,000 25 Lacs+",
+        "value": 2500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 560000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5732130
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 21738631
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=X5GcCDYc3sUafEQtSZ",
+      "total_assets": 20977767,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=X5GcCDYc3sUafEQtSZ",
+      "total_assets": 40192946,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=X5GcCDYc3sUafEQtSZ",
+      "total_assets": 95047817,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=764",
+      "total_assets": 148548173,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 608,
+  "assets_latest": 148548173,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Muhammed Hamdullah Sayeed is an Indian politician. He is a leader of the Indian National Congress party. He was elected to the 15th Lok Sabha from Lakshadweep in 2009.",
+    "title": "Muhammed Hamdulla Sayeed",
+    "url": "https://en.wikipedia.org/wiki/Muhammed_Hamdulla_Sayeed"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "A. B. House Androth Island Lakshdweep Lakshadweep, 682551",
+    "emails": [
+      "hamdullah.sayeed@mpls.sansad.in"
+    ],
+    "phones": [
+      "4893232244",
+      "9873190441",
+      "9013180411",
+      "9499100542",
+      "1123310785"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "11/04/1982",
+  "eci_state": "Lakshadweep",
+  "email": "hamdullah[dot]sayeed[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1255422,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1650320,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1743914,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3346892,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1019932,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2084193,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1541782,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1120504,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1537427,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1333243,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional Income, Pension, Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Spouse 1 -Salary, Spouse 2-Nil,"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹2.10 Cr (2009) to ₹14.85 Cr (2024).",
+      "headline": "Declared assets grew 608% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 20977767,
+        "from_year": 2009,
+        "pct": 608,
+        "to": 148548173,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹12.76 Cr between affidavits, while declared income across 5 ITR years totalled ₹90.2 L.",
+      "headline": "Declared assets rose 14× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 127570406,
+        "declared_income": 9016480,
+        "itr_years": 5,
+        "ratio": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 24% of MPLADS local-area funds were spent — ₹11.75 Cr unspent.",
+      "headline": "76% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 117542931,
+        "utilisation_pct": 24
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 2647,
+  "minister": false,
+  "mp_name": "Shri Muhammed Hamdullah Sayeed",
+  "mplads_allocated": 153942460,
+  "mplads_expenditure": 36399529,
+  "mplads_unspent": 117542931,
+  "mplads_utilisation_pct": 23.6,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 27,
+  "mpsno": 4349,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kerala Kaumudi",
+      "title": "Victory after 15 years; Muhammed Hamdullah Sayeed wins back Lakshadweep",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NU3dmTjJRc1gwUXEyNlQwNXozRTFDaW5FS3psRHVUVEgtS01MOGo1UHhzYVZwQmJRVXp2Yi14VXladDRTN2JvdnpidWo0Um83OEIyVnhwckFjVWJVOGNLOWs0R19Jbk1oTzc5MdIBckFVX3lxTE9xejlQUzIzTmF0N2pLQWU2Qi1TTTBjT1FjYUJRcEVVdEVZWkcxWFpwdDl3OWxYYW5QSjFYZFZhM1hGMzJfZm93UFpQc09sTWZmTk13MDQ4c2dWR01aMWs2Z2U5ZldHYVpBaGFPQm1qMURXZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Lok Sabha elections: Hamdullah Sayeed of Indian National Congress wrests back Lakshadweep",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1NHTFVpeHZSNENBOEY4dUo3THlxMmVFVjk2eE14TV9TUlBfejFTQm1Bd2JmeUR5Nm80TDZILXNmUEg5LVE3d1BqZDRxeDI0ejNCXzRlOGJFSkNxdk9HZmpDRTFSbFVZdV9HaFFFLXJTeDcxS0pYVVctZHAwalNfVm9JMEdtNFd6dFBRdkFXSmc0UHZFMzBneXU5TzVIUzVpQTlPOHJPbFlqU0x1bVlyX253dDdXTnNLYVZpaDdjT19wajdUVl94OVhUbVQwZ0HSAdYBQVVfeXFMTjhRUlJDcnRyUGstU1ZYWjBTQXVuMjRPS1E0N0d5MGVOU000UDl4QTVJX1lRZnlNUXhOcE9HYV9ZeFBYVnRiWTJTRzFIUm1SZmtrdFVjRVJNZV9TcHNlRnc5bUJyZ0RnNTdza3d3MmNNMjFzQU4tUzAtdTRkNGRneVlpMEc4QmhKNmRHT0ppRXpqN1lrWVJBNEFxeVU5eW1BeERpZ0hhbXE1dXJLOGlZS3U5Yzh5d0RtSWRsTzg1d0QzcWNxbGRZVjNNLXE1LWVVdHdSaTdSdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Lakshadweep Election Result 2024 Live Updates: Congress' Muhammed Hamdullah Sayeed Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTTM1bzZ3dExyUzR4T3JYUDdKUjN1VmVmZFlkbURwcmxpdkVYRWp2ZlN1Ym15R2tlLVItaGJoSWlORXRHMHZrMS1Cc0tTcW8wNG5yOVFWX3hEaVkxNW0xRVp1Yno2aTdpV3IwUFNwdkJxVEQ2NkE2OUdoYTJxMmxaWS10WjZ6NGJoVHRnWDNpZlFlSm5jRnF1U1RNbnlxWHVNNjVZOHhKTWVIVm1sdnBic2VPdVg4clRteEpTV2w2X3c2Z2NRS2t5S08xZzTSAdoBQVVfeXFMTUk1V1NLQkd3M0pxU0V0STZ5NjlXSkJ5TlN1cG1WYmZxNkVQc0d3cWZna0xpSEJxOVJvUmJkVjVtLTkxY1RoQXZ1VTJwV243UGdMdlFabllBTEszc2d3NjQ0WE5vRmFwWm1Kd2tFOFJOeTR2STVTeWtwbkRtQS0xemZhSWZSOU1xUU1iLXZJRzZQeVVPbnc1bERFeXBRVkJSSjNGelUtRWRIcmhDU0o2b2NJZWdGX0tTeUQwa0RsV0VnUjAwZVktbjJXWC14cmpQQWlZdDZPVEk4Vnc?oc=5"
+    },
+    {
+      "date": "2024-05-31T17:01:14.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Muhammed Hamdullah Sayeed",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEJ4dDB4TWh4ZDdnSFBxNmdrLTQ1am5UQ1RSNWh1dGFBazc3Q2xMNlM3d0trbTViNTNGNnpKcERSNnVINEpONEtaaDdEZ3NiOUcwcUZCZGNvUElXRDNOOXhQMkVNLVVKb3ZjcW4ybm9PUzZneUtiLVM0aXFYTmtaUlZXdE9IdS1odWNXMHZ1aTc1VGMxOFl2OGY4a3Nsa243WHFZVER1aG53dWJacGpCMVJ1UlZoNGU5VFl0RFd2QkEzVXUyOGJ2dmtJeHY3ZkE?oc=5"
+    },
+    {
+      "date": "2024-05-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'People of Lakshadweep are fed up with present regime': Congress candidate Sayeed hopes to win LS polls",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRXRDZVROMGVIUzJzN1Y4czhLVmpQNHk3WVVoQUd1QTJCOVJWMTM2YXRnd1d2Q3lqWHl3STZtcHpZVzFGM0VMd3BsSFVBNFd2LW5udU9FRVduZW1vSjhPSGJLUFlUcjZYT3QxenVORkFDblFmWVNLWkdfU2kxR2YwNWRVbHpGUlhNcVNIMm5jQkcyeHRzQTBFS3J5YUpSdUdzZ0c2VW1qOWtIWThoSEU3VEhQNUY1VkRlM3FnZDI5S29tc0paaTc4MEJsdFhrM3d0WXJBM0luU2I2aFhEYmh4dFhXS29JZjlMZWFJZXdQc0FvMS1OaXNVN1dLX0TSAYICQVVfeXFMTnhQMXpnWjJiOFk4SVhtS2d5RU44SnZLZU5xUnBLeWN0WC1paEMzS1FaYnU0MlE3TE1ocFNPVnctdjhHU0ZxME4zS0hxT1hVUnZDaFV4Y09WZXlFdUkyLVJZYW0za0tIOExyQlE4cDJjc3ljOHd3ejhTYUJoMnhoVEJQZ2lENVRoOUs2MnBqYXd4aDBqTnVHZnZ5ajJjYjRiTmNFbjAtUGNqM3VVdG9xUm9uc1l2WFpKNGdHN2ZfUG1SVHFVM3F5V3VRRjBsV05RNmRaYlgxMWl3el9wTF95VnFYNGxlZFI2NzJwMmRVWC1Ld1dHVC1Yem1aVGtkNlNNeDBR?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 133,
+  "notable_record": null,
+  "num_candidates": 4,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "lakshadweep-1",
+  "pc_name": "Lakshadweep",
+  "pending_cases": 0,
+  "phone": "011-23310785",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180214.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 94
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Withdrawal of Liquor Licences Issued to Government Guest Houses in Lakshadweep",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Need to Review the Cancellation of Divergence Certificates for Construction on Private and Pandaram Lands in Lakshadweep",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to review the decision to cancel all the diversion certificates for construction on Private and Pandaram lands in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to review the decision to permit supply of Alcohol in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to withdraw the notifications seeking acquisition of land for establishment of City Centre Project and Forward Field Base Support Unit for the Indian Air Force in Agatti Island, Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need to ensure supply of petroleum products in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Issue Related to Vacant Posts and Wage Disparity in Lakshadweep",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to review the decision to demolish the Rajiv Gandhi Speciality Hospital at Agatti in Lakshadweep until alternative health facilities are put in place",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for the rehabilitation of people of Lakshdweep",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need for permanent appointment of Special Educators in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Appeal for Rescue and Safety of Seven Indian Seafarers Abducted Off the Coast of Sao Tom� and Pr�ncipe",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding need for extension of contracts for nursing, Paramedical and other supporting staff in health institutions of Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need for urgent repairing and maintenance of breakwater at Androth Island in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to expedite repairing and maintenance work of passenger ships used for transportation in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to restore operation of LowTemperature Thermal Desalination (LTTD) plant at Kavaratti in Lakshadweep",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 92,
+      "value": 92
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/hamdullah-sayeed"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 15,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 5,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Social Justice And Empowerment": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "MOHAMMED FAIZAL PP",
+  "runner_up_party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 0,
+    "legislative": 40,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 148548173,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.29
+}

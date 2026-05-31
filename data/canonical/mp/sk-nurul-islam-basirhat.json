@@ -1,0 +1,433 @@
+{
+  "accountability_score": 27,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2750000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 5950000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 164637
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7688205
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1400000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 800000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 10052842
+  },
+  "assets_earliest_year": 2016,
+  "assets_history": [
+    {
+      "label": "West Bengal 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=hvpdHZ3Sdr2nz5jKYQM",
+      "total_assets": 7957321,
+      "year": 2016
+    },
+    {
+      "label": "West Bengal 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=hvpdHZ3Sdr2nz5jKYQM",
+      "total_assets": 12088119,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8990",
+      "total_assets": 16002842,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 101,
+  "assets_latest": 16002842,
+  "attendance_pct": 0,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Haji Sk. Nurul Islam was an Indian politician and an MLA from Trinamool Congress in West Bengal. He was a small-time zari businessman and resident of Chhoto Jagulia village in Barasat.",
+    "title": "Haji Nurul Islam",
+    "url": "https://en.wikipedia.org/wiki/Haji_Nurul_Islam"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": null,
+    "emails": [],
+    "phones": [],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": null,
+  "eci_state": "West Bengal",
+  "email": null,
+  "gender": "Male",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 498660,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 497940,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 452735,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 419030,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 400059,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 495850,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 494940,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 484362,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 445180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 376311,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as MLA, Pension as Ex MP, and Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income From Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Attended 0% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 1% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 0,
+        "percentile": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 101%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 101,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "From ₹79.6 L (2016) to ₹1.60 Cr (2024).",
+      "headline": "Declared assets grew 101% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 7957321,
+        "from_year": 2016,
+        "pct": 101,
+        "to": 16002842,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 333547,
+  "minister": false,
+  "mp_name": "Sk Nurul Islam",
+  "mplads_allocated": 49000000,
+  "mplads_expenditure": 30740105,
+  "mplads_unspent": 18259895,
+  "mplads_utilisation_pct": 62.7,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 32,
+  "mpsno": null,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-09-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Basirhat Trinamool Congress MP Haji Sheikh Nurul Islam passes away at 61",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdjR1ZWd5YzhNQUczUHp4QWp4SDJBRXRWa3A0dldNMkJCTGVBck5TNVFoSkRua0l6VlFacHI4SmV1Mkl3NUhvOHlMbjJteHpfd3Z6NXRNZGplZjBxUmRieFlZWkhuZ2xrYUpONXNranF5eFZPYVVzY1RmQnpHeDFIa3VWekJNTzZqYUNVRldJNjQ0Nmp1VndYZkJHOTFNTzd1UHkteGxRSmdxZm9RNXRUZWx4RVNwbnJxNERpVzcybzl0eTVYSUFBLTJOdlhUTFEtTHfSAdgBQVVfeXFMTzJ6ZzNBMjMtOVNNYjVVN2oyQllNQTFFNnJ6VTFvNHV0Y09jR08yN2ktNFdCNTJWZFYwQnRWb01NMWpCdzhsc2MwdTFvVnFQNlJLSk5EWkZXVUZMd2V2NzlkZElJWVRwbEZqTi1lZmI3am9zLTF0QjhxMUVnTWFRSUduUi1heVBZMU1hR3htMG5xbXpzNlZOTzMxN0hCckcxQ0M4LUVELUgtblBBT3h2YjM3cEVVcnlyc2M5MTE0WUtQWEh4dXJzU1BENjFNeFI5RU9jVENmc3ZC?oc=5"
+    },
+    {
+      "date": "2024-09-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "TMC Basirhat MP Sk Nurul Islam dies at 61",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWldGbXNGQkViYVBxd1FqVU9MVVJRcDIza3E1Qjl0ck1mbkRBUlpveVA0dUl1QW56cEhjQkdVaGZXelVUeU9qZG1MSW5EWkc1VnluX3c2Vk00SHFQNWFsdU00ekZwNTIwcDJ5c2xfSlVadkk4cDRqcFBtVjAzb0xGR2M5aWh4MWtXZkF2YW5ncWRhOExDT3RJWmh6VXZBVjMxczgyVFc5Tmd5NGRUemfSAbMBQVVfeXFMTXJLS0pIYTE3SWZMeGdPSUhYNE9tSFFJYnItOVpOcVJNUkhhckE4RjJyRDhJU01KaXpJQ25NQmZmcEZiV0dkcHE4WWRaa3ZwSDlaYUxhb0FCdzV2NTRBckl3bU50bGUyVGZNMDZnOGpSMmNINkxvb2VTbl93SjE0QXNEVGk1OXV2XzdhMUZsMTdPMjgwVE5FSVV6Q3hialR3VnQ4LXZqOHNJdUNvVFpfbERGWWc?oc=5"
+    },
+    {
+      "date": "2024-09-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "Haji Sk Nurul Islam, TMC MP from Basirhat, dies at 61 | Kolkata",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2lKSkJ0RG9OQ3d5WGVIN0FCcHRjeTlPZlpMNS1hdkxCY1hrSzlBbHNQMmcyWkdJYkM5LVBtOHpDNVhRQ0p6ai12cDRYVF9uSkVYNlA3ZDVxR1ljVllMVFdHeXYxYTJlbk9CS3FvajByYnotOGdwbmo4SkJicHUwWXlLWVZKMUFZN1lKcS1HYS1iMWRRNjR6ZFowOUNEbDBEZkxVUHR2TzFTd1IyZUZVNVZ2NXJIUEdlRFBYTG9RSTLSAcYBQVVfeXFMT0JyYThMcEhDQXpGdU95ZjF2LUVMelJUSlp3UUhMRl9xZ1ozLTk2dkJKTVhHanpYR3lUZGt4T19BYkhYejNzNUluWU1VNU9Ndl9UYS1mUHRhb1ZWNi05XzdRMVYwZ3hOdDdKNUFFcVhzNk12S0lubmtuUjFXQkNaNUlQNWFSSVJkSThqLTVBSUJLUHU1eVlHWG9weFZaOXk3b0hXaHpKNHdVWGhycHRvSklMTG1PaHJmaV94TnJQLVpHTWZZbTJR?oc=5"
+    },
+    {
+      "date": "2024-09-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Trinamool Congress MP Nurul Islam from Basirhat passes away",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHJ3cnlaZ0V0MGVIYVNJLXhHREk4d21XRVd6U2k1UmhIWXBndnpqb3JIV3hkM21HdXg4TVgtNDdaSWdac0lMUWEyMnBSamI1MUpvdWZidERJdVE4ZzlsdFp2Y09yWG5fRVZMcUxyRElSbnYyT3o0REEtUDZFYUQ3STBhT2pjcjZTaUQyYnVpaGRaU0RyQmxzNkRpSlpHYWo1MnVrMmd2bDJmaFVfZGJWN0otUkpfX1NNWEFkTG9HV1g?oc=5"
+    },
+    {
+      "date": "2024-09-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Haji Sk. Nurul Islam, TMC MP from Basirhat, passes away",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekgzOUp5Yi11aHNPeTR6QUJSNWRSZDQwOWxmUE82dHZzVy0wbUNYeFZ5V0c1djA4YWtIMkNPclo5S2liVUJTN1JzNm5SbjJSWTNXVG91akxISnN3OHJZdWZ3dXhuNFhYb1Z5ZzhkWGxKbnRoa1pOemZweERVQXRyUHNuYURSMTVleE93QUNBSjZKZVZwOFp2VTVNMXlIQ1JEaUNQNjNLb19fVFk0Q0V0VGY0ZmItb2ZTbUQ0aWZRS0tFdExoVnVxeS1qNNIB0AFBVV95cUxOdERXT2hzQUVQdHRtS0l2RmVwdERpbWtMYVctR2ZPaVh0RjhZQ0RMTVhxaG5OWkcyWl93cFRZaUFhUERFUl8yTGV2VGFQelVxekJrOUI3OEZxc3ljVFlydnlvdmZaQXZxY25IX3JFME9YQ2F3VjQxTXpvX2FLZXlhMk9Mc2VrQzJsdDBRZVJXSktJWm9POWFmY2V3NWE4ZUxKNzVaZkFaM2I1bWZudUlnNVZQNlBFUzFiV3B0RkNhWThOeVpiU0ZfbzB0aWxnZ2xQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5248,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-18",
+  "pc_name": "Basirhat",
+  "pending_cases": 0,
+  "phone": null,
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180540.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": null,
+  "profile_url": null,
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 5
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 4,
+      "state_avg": 2.5,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.1,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 12,
+      "state_avg": 6,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sk-nurul-islam"
+  },
+  "qualification": "12th Pass",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "REKHA PATRA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 0,
+    "legislative": 0,
+    "mplads": 67,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": null,
+  "top_inference_severity": "flag",
+  "total_assets": 16002842,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.76
+}

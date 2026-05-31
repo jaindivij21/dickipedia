@@ -1,0 +1,571 @@
+{
+  "accountability_score": 28,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 22629996
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10680000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 19649250
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 14814700
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 67773946,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 95243
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 13301397
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 374900
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy 929278990 11,16,202 11 Lacs+ State Bank of India Life Policy 51665847",
+        "value": 2216202
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 13503728
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2800000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3006450
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 35297920
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=7BzuNfdr3vkDVkDojXH",
+      "total_assets": 29204023,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5323",
+      "total_assets": 103071866,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 253,
+  "assets_latest": 103071866,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sandipanrao Asaram Bhumre is an Indian politician from Maharashtra. He is a leader of the Shiv Sena from Aurangabad. Currently, since June 2024, he is serving as Member of Parliament from Aurangabad Lok Sabha constituency. Before that, he was a five time MLA from Paithan Assembly constituency.",
+    "title": "Sandipanrao Bhumre",
+    "url": "https://en.wikipedia.org/wiki/Sandipanrao_Bhumre"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Pachod bk. Pachod bk. Aurangabad Maharashtra, 431121",
+    "emails": [
+      "sandipanbhumare@gmail.com",
+      "sandipanbhumare.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7020257742"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 1,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "275/2010",
+        "charges_framed": true,
+        "court": "District Sessions Court Aurangabad",
+        "fir_no": null,
+        "other_acts": "395, 353, 332, 143, 149, 504, 506, 509 IPC",
+        "sections": [
+          "353",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 2,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for forgery",
+        "section": "465"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "RCC 53/2001",
+        "charges_framed": false,
+        "court": "First Class Judicial Magistrate Aurangabad",
+        "fir_no": "356/2000 Kranti Chowk Police Station Aurangabad",
+        "other_acts": "Section- 3 Prevention of Damage to Public Property Act",
+        "sections": [
+          "332",
+          "353",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Spl Case ACB No. 18/2012",
+        "charges_framed": true,
+        "court": "District & Sessions Court Vaijapur",
+        "fir_no": "192/2007 Kranti Chowk Police Station Aurangabad",
+        "other_acts": "Section -13(1)(5) Prevention of Corruption Act, 1988",
+        "sections": [
+          "420",
+          "465",
+          "468",
+          "471",
+          "120B",
+          "34"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "JMFC Court Pathan",
+        "fir_no": "134/2021 Pachod Police Station",
+        "other_acts": "Section -51B Disaster Management Act 2005, Section - 2,3 Epidemic Diseases Act 1897",
+        "sections": [
+          "188",
+          "269"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "13/07/1962",
+  "eci_state": "Maharashtra",
+  "email": "sandipanbhumare[at]gmail[dot]com,sandipanbhumare[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 5967703,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 5462506,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3472773,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2461772,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1956491,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1486470,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1205489,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 644949,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Salary And Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, And Business 1) Jalna FL-II No 7 CLFLTOD-3 No 7, 2) FL-II NO 48 CLFLTOD-3 NO 40"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 1,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.92 Cr (2019) to ₹10.31 Cr (2024).",
+      "headline": "Declared assets grew 253% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 29204023,
+        "from_year": 2019,
+        "pct": 253,
+        "to": 103071866,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.29 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102863573,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 8087200
+      },
+      {
+        "category": "1,65,00,000 1 Crore+",
+        "value": 16500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 24587200
+  },
+  "margin_votes": 134650,
+  "minister": false,
+  "mp_name": "Shri Bhumare Sandipanrao Asaram",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44136427,
+  "mplads_unspent": 102863573,
+  "mplads_utilisation_pct": 30,
+  "mplads_works_completed": 18,
+  "mplads_works_recommended": 76,
+  "mpsno": 5684,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Aurangabad (Maharashtra) Election Result 2024 Live Update:Shiv Sena's Bhumare Sandipanrao Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemJOOEhXSGpWZ1hUTm96eHZVOE1oYUdsSldJSWxfcnB1TUNBZU1MWlFMUHhVcmZwei1abnBaSDR5NVhLUjMtSmN3NkpuNDhxRDR1X1BDNEZGaUZzTWdxYldhLVVOSnJ3U3NmYlR5enREbHpoTDdVcVVSenY3QjdCMkZodUoxeXFPeUQ4ay1ScjV4VlZ3anp1amJKaFJ5eHJyQVNOaWtKdXZRMzZ3cTlzQ2kyOVQyX21QVW1vN3NGV21IMDRmak52bE9iMNIB2AFBVV95cUxPU3g1SndDd3RvMnItV2JBQlNBODNoYy11VXo3dGRCRzNqSFBIVWl1X2tMMEItbm03MlNuLXJCWE94TWY5aVJGeVpHbldjZTJEREJNVk5JeUp4NkYzVkdsRTZFa3hXdkJTck45cTFaZ2VjbDhjVjdJZlcxZWRNMDB6RmxQNmYxbzZfXzI3eFdPTGhheTQ1c01qbkNHdF9WQUVqQ3lETjNaZG1yQV9lZ3AwLWNMLWFkb21vcU1yR19RUGVKR2w2NXVtSXNWY3c2VnBEODFMd0Jxd1o?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Aurangabad Election Results 2024: Bhumare Sandipanrao Asaram of Shiva Sena wins",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ05COTBYR19uajk3MjV4eWVFZlFqSU9YUjdsbUpONmpCUmM5N0JiTk51UF91LWFabU9VU0xOWjlmeXh2WWlfX2FnVmlZZlVQV2E3alpJOHh1bkNMNGFnMFc3SXlBREoyNEVTQmVMdXFUTVFXcmVyaUt2czhudXl1TEItOWFVN3BFcEZPdmNhWWFwajBjWFVHczJhMjB1UDg2bnZHNzFRMm8yRXEtMmF1Umpyakk1WU9XNnhjcjByaUo0c0ZvWHNxM1JIYWh6eGs1T2ZaVDRfa9IB3AFBVV95cUxOMzFYZEV4MnRkazBJSVVCSTNlZUc1b2lXeVBzZ3RDOW9zM3dyaU1wRUloZTNQQmg2LXZ4ZUpYV0Z0MkxWNlM5YUFDT1R1MUNvR3RJR0s2RERnN3hfTjZYZ1hvSlNkRWdjcW5pd2JzRjBocXdOa3E1LVE5bzJMYldqdzBjcVdpR01iNTRnRVp6Tjh2WjlSWU0yb1JDWUxITmhualVHd0s2UTM1YkVhdlgxYlZEQjVRVEg0bUxvSWs5b2R6YmI0em5rSGlHZzFpVWY4VVlNSHRDTlpsYkNK?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 5773,
+  "notable_record": null,
+  "num_candidates": 37,
+  "party": "SHS",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena",
+  "pc_id": "maharashtra-19",
+  "pc_name": "Aurangabad",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180256.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 73
+    },
+    "debate_titles": [
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to restore the route of Nanded-Mumbai Vande Bharat Express from Chhatrapati Sambhajinagar to Mumbai in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Construction of Tunnel and Road Repairs on NH-52 to Improve Connectivity and Reduce Travel Distance",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need for doubling and electrification of railway lines in Shambhajinagar Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt to increase the pensionary benefits under EPS 95 scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 6
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 205
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhumare-sandipanrao-asaram"
+  },
+  "qualification": "Matric",
+  "questions": 24,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Panchayati Raj": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "IMTIAZ JALEEL SYED",
+  "runner_up_party": "ALL INDIA MAJLIS-E-ITTEHADUL MUSLIMEEN",
+  "score_breakdown": {
+    "base": 43,
+    "criminal_deduction": 15,
+    "legislative": 38,
+    "mplads": 52,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 103071866,
+  "total_liabilities": 24587200,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 36.56
+}

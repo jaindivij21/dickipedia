@@ -1,0 +1,511 @@
+{
+  "accountability_score": 52,
+  "age": 63,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 110000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1900000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1700000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3710000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 11000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 193637
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 10000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 90000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 304637
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "Kerala 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iuQfV2qksnKeevZAg8c",
+      "total_assets": 1484084,
+      "year": 2011
+    },
+    {
+      "label": "Kerala 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iuQfV2qksnKeevZAg8c",
+      "total_assets": 3497780,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2268",
+      "total_assets": 4014637,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 171,
+  "assets_latest": 4014637,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "K. Radhakrishnan is an Indian politician who is the CPI(M) Parliamentary Party Leader in 18th Lok Sabha and Member of the Lok Sabha for Alathur since 2024. A veteran leader of the Communist Party of India (Marxist), Radhakrishnan has previously served as a State Minister of Kerala from 2021 to 2024, and from 1996 to 2001.",
+    "title": "K. Radhakrishnan (politician)",
+    "url": "https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "18/277 Vadakkevallappil House, Thonnurkkara Chelakkara Thrissur Kerala, 680586",
+    "emails": [
+      "kradhakrishnan64@gmail.com",
+      "k.radhakrishnan64@mpls.sansad.in"
+    ],
+    "phones": [
+      "9447787999"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/kradhakrishnanofficial/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 7,
+  "dob": "24/05/1963",
+  "eci_state": "Kerala",
+  "email": "kradhakrishnan64[at]gmail[dot]com,k[dot]radhakrishnan64[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 357960,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 380608,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 349960,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 386400,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary & Allowances as Minister"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 12% of MPLADS local-area funds were spent — ₹13.01 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 130098169,
+        "utilisation_pct": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹14.8 L (2011) to ₹40.1 L (2024).",
+      "headline": "Declared assets grew 171% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 1484084,
+        "from_year": 2011,
+        "pct": 171,
+        "to": 4014637,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 406028
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 406028
+  },
+  "margin_votes": 20111,
+  "minister": false,
+  "mp_name": "Shri K Radhakrishnan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 16901831,
+  "mplads_unspent": 130098169,
+  "mplads_utilisation_pct": 11.5,
+  "mplads_works_completed": 11,
+  "mplads_works_recommended": 168,
+  "mpsno": 5812,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MP K Radhakrishnan lashes out at Adoor Gopalakrishnan",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDh6U3VqcVNiQlFQaDMxSXdmNHRBSEZ2YS1CdllFZDFOOVNEaU1VSDhmMWJsSEp5d0hUSTNaY0ZrMGNWUm1Gdm10S1FjSHZ5WHNvQ2JMX2lKS0szNmpaNEtWWkdPamJvampIRGROcXkzTk1FSUZ5aU04VXhCaDlXa3NuNE1QMFBjMmVpQldyam8zVGFXTjhlZ3pKNjI3OU5LUEdldW00bnRiV2hFb2Z2ek5WanZ6QkNxYXFHYUtqQlk0RENQ0gHKAUFVX3lxTE1PTmVwMHJ4MTR3QnY3SUNwam9BclVCcFVEaEtHUGY3RHJ1LWNaVHRhQ3pPWjl0Wm91R2x6Q1hOQUJaS2ZKQWpJMTlKSFVTUENULVY4WnBoa1lzVHZKbUtJbHpHVW9MX29NemdCT0s4WkY2cC0xbTNQdGZla1pCWThoRURKQkozbTFSTklmNmV1YkVFYzkwM0lNc1dZLVhrcG9NQWtwLVJWcmxpeFh3RVJ6emJGSHVBTTNmOXBtckpmQU5oRTNxWjZGUnc?oc=5"
+    },
+    {
+      "date": "2025-03-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "ED summons Kerala CPI(M) MP K. Radhakrishnan in Karuvannur bank case",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTJ1WEx2T1M0QVRtSjFwZ3lQa2NsSnVqb0NwV1NoQy1VQkNlQnRUbC05anVXZTF0SGdZUGlaekV3X0ZTdkRXdDRCc0NCM19HeWVOc0haNDBPT21ieXBlQkpZanpyNk1HOTlhUVhGVTIwQ3FSdlJmUjJXeTdZaE9DbnNGRVpKWUg4VjVLeFRBRk1XZUpWZ1hsdHhjMXpDaFYyLU9YZFlNMWxjNVlQM3lHaEpkOXNGUdIBvAFBVV95cUxOdjJneXF3cFdHbEhnQkZ2YTRmdUw0c29KTDhqdnFTZEVTaTM0cENkdV9vZ2ZfV2dJN2FYS2ZZdzNuMXd5dTEtT0JRVXdnRTBZNkp6UldneHBfNXBFTFVjX0RpOXl4c21lN1BKek5uQkZ0NUJZUTdubXJNUjhCUmNxNHJkblNKd2hOcEdaVHpnT1pVZ2ZqRk00c2lVUWxMNjJXTVNsNm1CWVVXb3p6Y2lZYlVuc19lVGpERVhCdg?oc=5"
+    },
+    {
+      "date": "2024-11-23T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Chelakkara victory a proof of people’s rejection of false propaganda against LDF govt., says Alathur MP Radhakrishnan",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa3NFLWIzdG14b2xQaEpYS2FyWWFpeTUyZTF2dVoySnpiaTVLdFVBZE5DTHpvc25rZFkzd2hVWlZGZWpmQ01hNnc4eTlIZUlyaG1yZGRncno5cTFHZFN3RDRrdFRmbXU1ajdyd3NTUElidFQ1WnRERTdEVVZtbFI4TWtpVGlZb2ZqRTBtLThBa042MkdWQXVZNks3OG5LZ0syUDgtZkJBT3RYR1B5QzktaGtoSi1MQUlBNkl1U2w5MU5MMlpXay0yX1doMGpic2pkd2lia0pkMTduQWNDSmN0WXRoY9IB6gFBVV95cUxPWWJVYnk3dHhKTGU1aHYtLUI1Vjl1R3laZHYwOUxnZUZpOVZZXzNaWHQyaHM5ZDY4ZGhIeURqdnhhUEh2MGJXa3ZVQjhOVmF2V0t2X1JKU3pNd2kxeDdWUU1QWXloOHRCSjgxYnJPNTVPRDlTenlfMDJDU3pmakRNOVh3bHlhTE1VeXlmSEt3TE1GWTFVeWQzYUU3NWV5UVdCS1p4Q1prODkwRXlEeHVpVVdKMnUzcndxazFNOXN3MEIwOFlSLWNJLXdlYkNqU1Uya1FTMmpDdHZqcXpza1BXRzFWUnJteS1mYWc?oc=5"
+    },
+    {
+      "date": "2024-11-11T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "INTERVIEW | People have seen our work, conditions favour Left in Chelakkara: Min Radhakrishnan",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMlU3UHp1RnhLY0FmUW4zTnk1ai15cS1XRzdZRVBsUFBmNGV4djRWaUxuN3JRSXZBSENEME9DaG83TnJQdUcwV2tzYkg3cy1vZ2RySFp3VzlmTGdzV2hMMDZYQkxybEVBam8zemJXWTJrMHAtdzVfYUxnYVRVcGxHaEdQTTdOVU1fMG0yd1FLcU90U29ITXpjX2pKemEyWVlxdjFrNlhvRGNnZG5PdTVRRF9ZRXl0RENQeWxzb2l1ejEweWQ0eGhDc0ZwcFpteWROSm5lQV9vYXdXR3o3RGfSAesBQVVfeXFMTkpHZkkwX2tnNGdTWWlnZGczamthZGFuN193MzI3T1VMM3RDel84RFVUNTJwdFpRcXdoOTJzOEtPYmpINjJvX1g2YUN0OG9nMjJpeGpGRHY3d0FLT1ZHcnRBa0daQWtfVTBYZ0NibzZOVFlqOW5aMnBfQ3M2MS00blN2dHJZMjdPYjFFM0E2N21VWUlSZDYzVzU3eDI5NElQclNGcEF1NjJCdkI5aU1sSmRxY1FNYnR5OUlmbElITUxWaVJCX2xiVmJGckdNUk1JZW9uYkU0amNuU2FycVFVN3hIelJsZC1FXzRYNA?oc=5"
+    },
+    {
+      "date": "2024-06-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "K Radhakrishnan CPM’s Lok Sabha party leader",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGM3NkFBYkk2R1NwSFhZZjNzUHJfeFNlUWl3TGlqVGhjSFdNYTVHVVRfcm1JbDNDOE1SbElsTmQ5Z3AxZEI2S3ZmNjlCRUpZZ1YtVFNuSDVycWY2bDdMLUpScUdTU19lMWFjdXlNUGZ2QmRCaDF2VmZ5VVBKYndEYzVhdjRhN053Y2U0aEFfYmd1VlEtTHhfd0ZZWFh2bG1ROExkdtIBsgFBVV95cUxQOS16a2doWXpfeHU1Xy1ya3NNMjgwUjRpSXg4S2VlVzE5SDdiRHpKNmRBTy0wblZITUhSeFNvTG9odkRaM05YOW9VYTdLblJKZ054Wmg1S1o4RHJUclo1bngwbnJQY0hUUkwwY2hqeUxmelYzcjRYNDRYWk1aQ19BQ1V4X0RLaUg1Ml9YS0VpSHM1eHNhZDBlUTBkU3MwMGdvU21FeFhWYXE0bHdPWHphTDln?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12033,
+  "notable_record": null,
+  "num_candidates": 5,
+  "party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "party_bond_total": null,
+  "party_full": "Communist Party of India  (Marxist)",
+  "pc_id": "kerala-9",
+  "pc_name": "Alathur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180201.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Public Service",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "Opposed the introduction of i) The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need for comprehensive measures to curb use and selling of banned pesticides in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to provide enhanced ex-gratia compensation to the family members of civilians who lost their lives and were injured in terrorist attack in Pahalgam, Jammu and Kashmir",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding exemption of toll tax for persons residing near Panniankara toll plaza on National Highway No. 544 in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to enhance Central assistance for Pradhan Mantri Awas Yojana in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to establish an Intra Circle Hub at Shoranur Railway Mail Service office in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand for financial aid to flood hit Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 121
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-radhakrishnan"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 47,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Atomic Energy": 1,
+    "Ayush": 1,
+    "Civil Aviation": 3,
+    "Coal": 1,
+    "Commerce And Industry": 3,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 2,
+    "Education": 3,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 3,
+    "Law And Justice": 1,
+    "Mines": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 2,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 4
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAMYA HARIDAS",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 0,
+    "legislative": 75,
+    "mplads": 18,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 4014637,
+  "total_liabilities": 406028,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 40.66
+}

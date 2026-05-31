@@ -1,0 +1,548 @@
+{
+  "accountability_score": 68,
+  "age": 58,
+  "assets_2019": 74964501,
+  "assets_2024": 93680840,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 59199000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 2250000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 77949000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 352000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4919844
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 140000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 193759
+      },
+      {
+        "category": "LIC Policy No 26700xxxxx 15,50,000 15 Lacs+",
+        "value": 1550000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5229237
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3162000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 185000
+      }
+    ],
+    "movable_total": 15731840
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yUou6YzAbNMM3j4dSJnw",
+      "total_assets": 18095933,
+      "year": 2012
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yUou6YzAbNMM3j4dSJnw",
+      "total_assets": 74964501,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5214",
+      "total_assets": 93680840,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 418,
+  "assets_latest": 93680840,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mukesh Lodhi Rajput is an Indian politician and a second time elected Member of the Pariliament of India in 17thLok Sabha, representing the Farrukhabad constituency. Prior to this he was elected to 16th Lok Sabha (2014–2019) from the same constituency. He belongs to Bhartiya Janata Party.",
+    "title": "Mukesh Rajput",
+    "url": "https://en.wikipedia.org/wiki/Mukesh_Rajput"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "ITI Chauraha, Retganj Thadi Sadak Farrukhabad Uttar Pradesh, 209625",
+    "emails": [
+      "mukeshrajputmpls@icloud.com",
+      "mukesh.rajput@mpls.sansad.in"
+    ],
+    "phones": [
+      "5692224455",
+      "8004935188",
+      "0112311916",
+      "9013869443",
+      "9971563510"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/mukeshrajput"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@mukeshrajput_mp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "08/08/1968",
+  "eci_state": "Uttar Pradesh",
+  "email": "mukeshrajputmpls[at]icloud[dot]com,mukesh[dot]rajput[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1009130,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 970850,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 545870,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1028490,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1129859,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 254540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 281050,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 90610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 268480,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 246674,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Salary as a MP"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.81 Cr (2012) to ₹9.37 Cr (2024).",
+      "headline": "Declared assets grew 418% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 18095933,
+        "from_year": 2012,
+        "pct": 418,
+        "to": 93680840,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹7.56 Cr between affidavits, while declared income across 5 ITR years totalled ₹46.8 L.",
+      "headline": "Declared assets rose 16× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 75584907,
+        "declared_income": 4684199,
+        "itr_years": 5,
+        "ratio": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "NOTA drew 4,365 votes; the seat was won by 2,678.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 2678,
+        "nota": 4365
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 2678,
+  "minister": false,
+  "mp_name": "Shri Mukesh Rajput",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 92468361,
+  "mplads_unspent": 54531639,
+  "mplads_utilisation_pct": 62.9,
+  "mplads_works_completed": 200,
+  "mplads_works_recommended": 295,
+  "mpsno": 4666,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Who are P.C. Sarangi, Mukesh Rajput and Phangon Konyak, the lawmakers in focus after Parliament scuffle with Opposition MPs",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSzlaZlFuTGRxeDRpN2FGVl92NUZVd1VHdGpBWTFKeUtiRWFNMGQ4UHZrWlFkX2xNYkdxS3BMdzEzYTN1V0NFeHJVUXU2WWlTWWNja1NJRjlpdjNzZFRxS0NhQVYtclNySU5TYkNzTG9kMVEtNXlmRnV4OVJUWnBYYzlpam1WSldGazM1TUtIWjkyUno2WmZhOWdEelBHNTdoeGQ3VHZfR3dqODJjM1FYbEFkdVR2SkNQc0J0NDZFX3dRcEdpVGNDTlFDcFVoNzNZZi1lbVN5VVpGR3BrQ0ZpM2FhZTJQTXA3bklqVtIB8wFBVV95cUxNVGVDRzNRaVV1ZHAxUXVlUWZWX3AwVjZ3MXV1dGdRSHlndXFDUzctejhSaDVURDhKYnlVb2pCWXFLa1JZTWJpZjQ3WUplSWg0QklHR05CYnh0THN2Sk0tN042eVFUUkpXQzEzMmlwWkRlUnoxU1haYTFJMWRqemJySDlNMkRjNGp1aDNkV21SYVRoMHZpVEhGR05yaWJJNURmcFJzOEMtVzJBS0ZpQlB1Sk1VZHB6OXh0a3RlMFAxMzhBMlVjRm1pbEs4bEN3Nkd0Ni1DdERrZUhhSC04ekpWRlNDRENVazZUbzVuYlRoTHJQdGc?oc=5"
+    },
+    {
+      "date": "2024-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Who are Pratap Sarangi and Mukesh Rajput, BJP MPs ‘hospitalised’ after being ‘pushed’ by Rahul Gandhi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjdZekI0QTVWZE45OVRXY20wUExDOXFOcDBjX3NIMTBLQmN0NlZNN2Z3WDBtQlQtVWhUMlY0UjNOUkI5cWVFbG5MbnhXSnVxS1dYUmt0dVpUOUFtSVRybjgyLTFUTS1HQUFXbzR5R3NuRnRGMHhGQ0NJOVNiMEFHdFlLSXppOHJBM0JSTkdoLUJWYUhpSHk4dzRkb0k1RTBaa0daU3RmNlVyZlNickJGd0dVQkVHSE9aS21YT3dnWnRCWDVReXYwSWJnNDB4V0wzZ3RIWFRWcVUzdTjSAeIBQVVfeXFMTkwwaTlYLTAtTFQtUzgydU1HZ1FNSWQ0NUxBNzR2cDVZUFBrWGRxU191X25TZ1otTVIzaFdBcFdkSThncldnYXhZVGdMYmREbmdIeVdWWkZERWtwZWlLSHVkNDNMdk9xZ3pVbU96dzlvQ0trV3VRZFo0NmdQVFNjc21nMWlrUVRWT0VLSzdOYnF0SzlJbHZycGRIekFUM1lUaTFKbVo5VG94d2JvWmVkZEdMdXlmN3M0SC01RmhnckZ1QTVVZmQ1ejhNY3M4T1pWT0JZb0tuR1A0U29GNG9DUS1BUQ?oc=5"
+    },
+    {
+      "date": "2024-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Who is Mukesh Rajput? BJP MP injured amid protests outside Parliament",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMVBsY19lQV9hTlFMaEl1RU56aWk2YjAweFZNNjdGbFpuelR2ZVFmS1hRX2Y4UkFrWENDbDRjaDFHYncyakhYUFNhS2g4NW5aVTUtSEUxbDVWYmhiUzNJUW1OZmU4Y1Zxemx2ZFNyQm91QUlXenFkSlRGTTBZdnAtU2hZVVlPd2ppT0llVVloQkxESmFuaDBBX0JMYzBmLXB5cllZOGtOekFEa0U1QkNGMmdleVNQV3VTYVBJVjl2NGduZEpMbmdRTmpCZHpyeGx3aWfSAdcBQVVfeXFMTkhoWmtLN29ZaVd5b3psaHo3dHE5bEFucGFQNUxxVTFHU3NGdTBkV1d0SE1pY2MtQ0lFd2NVMV82LXFtdU0wdE5oZmE4RlpOa0pjMk9scWxEZDJvSm11cndtSUFZWFo3Y3hsUmNRMWRBS095U19WZ0xNQWhNeEhVeFdsLWROSEpabDRzMHcwTG9zRmFfeEx0ZkVwanJqNHRlRV9vLVFGY190UW8zU2RHaUVvOURXa1ZYTXdmR3p0Ul8yMWhkaTVmTG5rUXZKMEVMMk14azA0ZGs?oc=5"
+    },
+    {
+      "date": "2024-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Federal",
+      "title": "Parliament scuffle: Who are MPs Pratap Sarangi, Mukesh Rajput, Phangnon Konyak?",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUQyaTFsYjNVLXZ3N2VfTkkzeGpvSC1UMWRQUjFLMm1zaDVpcUpxMkhZci0yUGVKTTZrRzlSanlBdnRqclRhM2VoTUhzakxPUl9KeFZXMGRYZHRXTjUxRnpFRWNMS3lEMG93SVQ0c1Z4TGNESnVoeHl4R3l2aDMwcXJTT25jelVwTmZFbUttZE94b1JtTFFFTUF1NDdNUGtRaW1lS3VNWDJpdVdPSjRIQjU1bXdDTi1nel9RZmp4M2g5Ul82VGtqTDAzR0xKZ3hBMVZoVm5kcHVMbjI4UkVzRnNZaFc?oc=5"
+    },
+    {
+      "date": "2024-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Who are Pratap Sarangi, Mukesh Rajput? MPs injured in Parliament scuffle with Rahul Gandhi",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR2hjcHNpOTFRT0F4bG9Zem9KUFdjWTFmbUpsQlVzd3I5MkpmUlV5RnZvQTVZWWZXdFd3UVgtR3l4c1B0WnNER243ekdnclJZSUtZSGwwXzY2YWphUlpFZklFbE9oOVdVUWFHc1R6aXlPRmZ5TmU4a1Z5X1JnUmZnd2t4dFJsZldHTEZfTkI1NmFVZzYyUm9YSXE2Q1h3cmJQQ2FoVTMzY0hPMUJqNWQyVmRYTUtFa3RPNjhIMXVfNkNXOWRNV05zalJiMFdvSm1PZFZ2a3gyQnLSAd4BQVVfeXFMUDVoeUJVWnNaVUoza0pfLWREUnZqdXZ4R0lLWi1MOXB2TXVlNHJjc2g1MkphZmt2Q0lxRlNZbTdVeEQwMVVXSVNuUmNVQkpnZ1czZDA0LXlDRk5IRmRBSF9iU1lYN0V4Y2gzSnp2ajI0R0ZKci1neV9RbUlRaW16OUdYM3RDb1hMMGJ5anBHdHlHQ1ZuU3BWbWR0b3A0WGRtYmdScGppNS11aHhueWJmSDJxTUZzZ2RLeWtCTW5MVWRPNjk5UWNXcWlqSDRpcm9qZ0ExaWpSb3M5WDhqRHln?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 4365,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-40",
+  "pc_name": "Farrukhabad",
+  "pending_cases": 0,
+  "phone": "09013869443 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180464.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Demand for Establishment of a Potato Development Board to Ensure Remunerative Prices for Potato Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to develop National Potato Development Board",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to set up a Zoological Park on vacant forest land in Farrukhabad Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding expansion and development of Mohammadabad Air strip in Farrukhabad into a full fledged Airport",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for widening of bridges on River Ganga and River Ramganga in Farrukhabad district on NH 730C",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to run Vande Bharat train from Mathura",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Upgrading Medical Facilities at the Military Clinics and Mini Hospital in Fatehgarh Cantonment, Farrukhabad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to establish a Potato Development Board",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Condemnation of Inappropriate Judicial Remarks and Demand for Action",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to establish an ESIC hospital in Farrukhabad Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to establish a new Kendriya Vidyalaya in Farrukhabad Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to start construction of the proposed Greenfield Economic Corridor Expressway from Ghaziabad to Kanpur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding operation of Bande Bharat Train to Ayodhya",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Urge upon to minister establish a ESI hospital at farrukhabad",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 71
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mukesh-rajput"
+  },
+  "qualification": "Graduate",
+  "questions": 25,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 3,
+    "Parliamentary Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Prime Minister": 2,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Textiles": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. NAVAL KISHOR SHAKYA",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 71,
+    "criminal_deduction": 0,
+    "legislative": 51,
+    "mplads": 100,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 93680840,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 25,
+  "winner_vote_share": 47.2
+}

@@ -1,0 +1,543 @@
+{
+  "accountability_score": 48,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 18315220
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 43500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 61815220,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 980000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 12809725
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 28815606
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 20000
+      },
+      {
+        "category": "Beema Policy 15,84,616 15 Lacs+",
+        "value": 6385221
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3200000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 604000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3090000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 120000
+      }
+    ],
+    "movable_total": 56024552
+  },
+  "assets_earliest_year": 2007,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2007",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Rf5ZRQtVcGseWoCtK8Bs",
+      "total_assets": 8006500,
+      "year": 2007
+    },
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Rf5ZRQtVcGseWoCtK8Bs",
+      "total_assets": 47330000,
+      "year": 2012
+    },
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Rf5ZRQtVcGseWoCtK8Bs",
+      "total_assets": 80275024,
+      "year": 2017
+    },
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Rf5ZRQtVcGseWoCtK8Bs",
+      "total_assets": 101065635,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3586",
+      "total_assets": 117839772,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1372,
+  "assets_latest": 117839772,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Neeraj Kushwaha Maurya is a leader of Samajwadi Party & Hon'ble Member of Parliament from Aonla Lok Sabha Constituency, Aonla, Uttar Pradesh. He is a former member of the Uttar Pradesh Legislative Assembly. Initially, he was associated with Bahujan Samaj Party and has been an MLA from 2007 to 2017, elected twice from Jalalabad constituency in 2007 and 2012. In 2017, he left the BSP to join the Bharatiya Janata Party and played a key role in the Jalalabad Nagar Palika election. But he left the party soon afterwards and finally joined SP in 2022.",
+    "title": "Neeraj Kushwaha Maurya",
+    "url": "https://en.wikipedia.org/wiki/Neeraj_Kushwaha_Maurya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Plot No 1/B-591 Sector-1 Gomtinagar Vistar Lucknow Uttar Pradesh, 226010",
+    "emails": [
+      "neerajmaurya2727@gmail.com",
+      "neerajmaurya.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9415607332",
+      "9956630123"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "07/07/1969",
+  "eci_state": "Uttar Pradesh",
+  "email": "neerajmaurya2727[at]gmail[dot]com,neerajmaurya[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1053211,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 43317,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & MLA Pension , Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, Salary, Interest"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹80.1 L (2007) to ₹11.78 Cr (2024).",
+      "headline": "Declared assets grew 1,372% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 8006500,
+        "from_year": 2007,
+        "pct": 1372,
+        "to": 117839772,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹10.98 Cr between affidavits, while declared income across 1 ITR years totalled ₹10.5 L.",
+      "headline": "Declared assets rose 104× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 109833272,
+        "declared_income": 1053211,
+        "itr_years": 1,
+        "ratio": 104
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 1,372%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 1372,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4319730
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4419730
+  },
+  "margin_votes": 15969,
+  "minister": false,
+  "mp_name": "Shri Neeraj Maurya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 95577369,
+  "mplads_unspent": 51422631,
+  "mplads_utilisation_pct": 65,
+  "mplads_works_completed": 14,
+  "mplads_works_recommended": 19,
+  "mpsno": 5637,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Aonla election results 2024 live updates: SP's Neeraj Maurya wins with over 1.5 lakh vote margin",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOS2t0YnFXU2F6NW9LdVhBdy1hcTJQRjFDbHRhS013SXpLV2FVZ2JmZTd3ZFR2MDhsSVYwX1pWSjMwQ1huSTBDdkNFcUVKT3Fmc1AyMGR6Vy1rLTQtVWgycUdxRVY1LWVYOVZRU2owQUFxTGh2MmxlcGtPbUk0RFU5U285V1A3dnl0aGwwdG9IS0JjSGMydjhGbGtfTTlLTnY5UHRuNHBZZGdsaUd4eHNld2k3UWw1eEFxTl9xdVZqRWlSRmhSTndLWU5id0RDNVVVemh2SnAydTNfYmxXTkZKSUFRSkNfNXIzUVdJR3IxUVZRR2tXUlV2dVhhRUFaTlM0MmxyeTlrTVp3dGp6TklsRzNzdHdZMnJpTl9ueTF4UVM3S1I0M1hFZ1l4bk5VQnprVFHSAbcCQVVfeXFMTnktNF9fWmtaSlZoVDFtRnJlZmUyNl93ZThNN29hRzNRUzVaTWRvd2x4b1NBVl9LMDdwVndWTFRfeENuc1FfcVNkWnU2VWZrRXI4UU5wQXB1MFNLS29leWFXYXZEMXZmWEplYTFRekc1WmExNnhUanF1XzdWZkZnaUNHa0I2aHR6U1VLYUJVbjFiM28tekR4a0VkR3RzT2gwdjNXZmNaWDRxMUMtZjVlaVgxX0dMYWNYcnRsUnJIYjk0NnJ0TWxwWEVvbVJ5WjVkOXN3ZW9nS0c0bVJmbmdEVjBjaTZVc2l1azVDclYxOC1YX3pwTGQtNGZlSmxmQjQxSmVWUW5zQi0xY2h2UzRNUzdIWlkzZnVPU0g0a0VKbU5STWVySHA2TGhBV201Y0VJQTJGT3lkZnc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Neeraj Maurya Is Leading In Aonla Constituency",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjdjVVhVc3NHYkI4OGZJUDI1NTg0dVRDREpBYVFiM2NoOFU4eGwwWmRlYVZoaFFCaXE0WWhJbjFfQUVXSENyMjNLUlJIUjhiOHZ2TlpwcXFUM1B4WkpnQWJDRHh3V3RmZ3dCNlZVbUt2Z09yRUNXSGdfRFV0NHEwNWJnRnFtT0Y0XzRKZXhnQjliN0Ewc3A2c2JKSXQ?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:42:59.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Neeraj Maurya, Sp Party, Aonla, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTdnYUpLeTg1YTllaFRyb2NsT0o5dmpOYnpxZkZhYUZlRU5LS19PY3lDVF93MGd6dU1YWEJuSWI3OHNnZlhsRHNXTUpxaUFyU2w3SXBySWxobEpIRUY3SnlFQjNpS3BmRHZNeG9halo3eGoyUXRxZ184ZHRhSHdDZ1dPYU80Z0FldWFkeGRqLUVPbEVUREJOLTZHSlVDQ29WQUlSa29LWGd1NGhNM1FDSm9HbGlYaE9sTHlZcGxDMzVYeVdBY1pOZFhsNm1OUlJXbUFSN2hLbXdvQWls?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6858,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-24",
+  "pc_name": "Aonla",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180468.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Concern Over Failure of Contractors to Repair Roads During Defect Liability Period.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding development of Reoti Bahora railway station in Anola Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to develop Bhamaura- Aaonla road in Uttar Pradesh as a four-lane national highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to provide an alternative route in the vicinity of level crossing at Faridpur, Bareilly for pedestrian and vehicular traffic",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to establish a Commission for conservation and protection of Cows",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Ensure Adequate Fertilizer Supply for Small and Marginal Farmers in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to construct a overbridge/underpass at level crossing between Bhamora and Aonla in Aonla Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need for High Level inquiry into alleged irregularities under Jal Jeevan Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding issues pertaining to Opium cultivators in Aonla Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of closure of schools in UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to establish a Navodaya Vidyalaya in Aonla Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Official Celebration and Public Holiday on the Birth Anniversary of Emperor Ashoka the Great",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to declare Holiday on the occasion of Ashoka Jayanti",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding need to establish an AIIMS in Bareilly, Uttar Prades",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Direct Elections for District and Block Panchayat Presidents in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to construct an over bridge/ under pass at level crossing No. 6A and 6B in Bisharatganj in Aonla Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding need to construct underpass/railway over bridge in Aonla Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 32
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 73
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/neeraj-maurya"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DHARMENDRA KASHYAP",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 62,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 14
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 117839772,
+  "total_liabilities": 4419730,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.23
+}

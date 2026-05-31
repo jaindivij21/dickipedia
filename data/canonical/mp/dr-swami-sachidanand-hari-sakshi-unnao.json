@@ -1,0 +1,401 @@
+{
+  "accountability_score": 31,
+  "age": 70,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 19500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 11500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 31000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 31745
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 22047099
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 5989064
+      },
+      {
+        "category": "Policy No-No 001594xxxxx 2,06,500 2 Lacs+ Policy No 028803xxxxx PACL India Ltd 4",
+        "value": 1070032
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4711606
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2271480
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 105255
+      }
+    ],
+    "movable_total": 36226281
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5376",
+      "total_assets": 67226281,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 67226281,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Veerangana Avanti Bai Mahila P.G. College Uddetpur Shikhokhabad Road, Etah Etah Uttar Pradesh, 207001",
+    "emails": [
+      "sakshi@mpls.sansad.in",
+      "swamijisakshijimaharaj@gmail.com"
+    ],
+    "phones": [
+      "5152830777",
+      "9412569999",
+      "9868181999",
+      "1123326596"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 2,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 2,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "1862/2014",
+        "charges_framed": false,
+        "court": "Court Sessions Judge M.P. M.L.A. Court Etah",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "420",
+          "467",
+          "468",
+          "471"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "768/2009",
+        "charges_framed": false,
+        "court": "Court Sessions Judge M.P. M.L.A. Court",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "420",
+          "467",
+          "468",
+          "471",
+          "409"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "12/01/1956",
+  "eci_state": "Uttar Pradesh",
+  "email": "sakshi[at]mpls[dot]sansad[dot]in,swamijisakshijimaharaj[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 2986726,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2310627,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2174949,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1294141,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1564611,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pensioner, Agriculture, Katha, Bhagwat, Teaching Institute, Donation etc."
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 38% of MPLADS local-area funds were spent — ₹9.07 Cr unspent.",
+      "headline": "62% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 90698993,
+        "utilisation_pct": 38
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 35818,
+  "minister": false,
+  "mp_name": "Dr. Swami Sachidanand Hari Sakshi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 56301007,
+  "mplads_unspent": 90698993,
+  "mplads_utilisation_pct": 38.3,
+  "mplads_works_completed": 11,
+  "mplads_works_recommended": 84,
+  "mpsno": 3586,
+  "myneta_serious": true,
+  "news": [],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9453,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-33",
+  "pc_name": "Unnao",
+  "pending_cases": 2,
+  "phone": "Tele : (011) 23326596,,Tels: 09412569999, 09868181999 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180491.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 90
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/swami-sachchidanand-hari-sakshi"
+  },
+  "qualification": "Doctorate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "ANNU TANDON",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 12,
+    "legislative": 23,
+    "mplads": 55,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 6,
+  "top_inference_severity": "flag",
+  "total_assets": 67226281,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.31
+}

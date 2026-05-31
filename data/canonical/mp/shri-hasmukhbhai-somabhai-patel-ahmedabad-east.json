@@ -1,0 +1,494 @@
+{
+  "accountability_score": 32,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 208816
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 550000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 24390000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 40648816,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 139000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 21961242
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2960878
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 18023362
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2737000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 45821482
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Gujarat 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BPMmCjCwSe3B7K8NMJzc",
+      "total_assets": 54884827,
+      "year": 2012
+    },
+    {
+      "label": "Gujarat 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BPMmCjCwSe3B7K8NMJzc",
+      "total_assets": 57656990,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BPMmCjCwSe3B7K8NMJzc",
+      "total_assets": 74699690,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3452",
+      "total_assets": 86470298,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 58,
+  "assets_latest": 86470298,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "32 Vishala Park, Near Cadila Bridge, Ghodasar Ahmedamad Gujarat, 380050",
+    "emails": [
+      "hasmukh_1160@yahoo.com",
+      "hasmukh.1160@mpls.sansad.in"
+    ],
+    "phones": [
+      "9327426122",
+      "9909972012"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/hasmukhpatelmp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "11/11/1960",
+  "eci_state": "Gujarat",
+  "email": "hasmukh_1160[at]yahoo[dot]com,hasmukh[dot]1160[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1150310,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 984180,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 570000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1384380,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1159670,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 985700,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 775860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 846560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 621990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 529650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 846690,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 771960,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 655220,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 571620,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 386420,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income From Business + Interest + Member of Parliament Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary + Interest + Rent Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹3.16 Cr between affidavits, while declared income across 5 ITR years totalled ₹52.5 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 31585471,
+        "declared_income": 5248540,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3575207
+      },
+      {
+        "category": "Gunwantbhai S Patel 5,49,101 5 Lacs+ Ishwarbhai S Patel 6,26,000 6 Lacs+",
+        "value": 9940395
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 13515602
+  },
+  "margin_votes": 461755,
+  "minister": false,
+  "mp_name": "Shri Hasmukhbhai Somabhai Patel",
+  "mplads_allocated": null,
+  "mplads_expenditure": null,
+  "mplads_unspent": null,
+  "mplads_utilisation_pct": null,
+  "mplads_works_completed": null,
+  "mplads_works_recommended": null,
+  "mpsno": 5017,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-04-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Report card for Ahmedabad East: BJP MP Hasmukhbhai Somabhai Patel’s MPLAD funds lowdown, questions asked in Parliament",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2dQaWlMUU80WDdaaGtBNDJnak1hRzFMZlhsMlRZRU5VT0dNUlJJYU8xV0F6RDFiS1prdVRuMzZUTTFYUkNKUHVja1gxQm9FTFY2QjVENmJvT1o1WFh3eXJpUnJ6clpoVHRBYVREbXlQbEFvcUhrU3BTQWliakFxREUxamVHamFGTHVR0gGSAUFVX3lxTE5FZkFES1BObkZVSFhWUWhKemIwM1hlZlhBM0Vob3FoTkwzc1BUZS1pb25sOW9vT28zXzhQajI2ek51d3pUR3pPYTlXVmg3bXJmUk1peXUySlVUMlc4dllOeEhXeE5uZklHUGdNM3pEUjFyVGVuNDNmTC1iaHQ1M2E2cXpHSFZJMFM4R3QzVV9KXzZB?oc=5"
+    },
+    {
+      "date": "2024-03-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "Who Is Hasmukh Somabhai Patel?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1BlaGMwakFtTF9JVGRMYmhOWDByeXl4aXBvQ2FuNDlzSU45RHQzeDNSd1lVdHpzVVlGZ1o2WHdmNFZMbTlKZUgyYkNnYlVSRVNoME0wVnRHaElGZGtsNDhBdWN0aUlyT0ZYeUk0TUtTNG1Gb1QyX0pQV2hhRnd3Qk5DYkdnRk9SRVVCbUFpY9IBlAFBVV95cUxQeEFZYlYxaXRmMEszRG5ROC1LUWdRZF91UzhLSEZNcnZzaTRzOUo5MEQ4T1kwTXdvVEhfQ1FJSklVM3BGV3BzTUd2UnZOVEV3VUF2NW01Si1zYzQxX3J1SWxBeEw0SjNIMkZjZGZXdE9tbDJxSk9VR1ZUT0hodUREX3BYb2tJVHJ4NTh5WWlrYklrUENC?oc=5"
+    },
+    {
+      "date": "2019-07-15T11:02:27.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Hasmukhbhai Somabhai Patel: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXQWxQVHB5TTVlbzNmY29JdWxQeEJDenpOT1hQQ1pxR1NqLTBLQ3YxOFVaNGluMlViRmVEaUN5azhMRm1CMi1ZNG1QMjF4Ty1NLUJxV3NQb25mWmM1Z3hPNFlTdUJ2N2ZUOXlpZXQ0dzVlSlZ4bHNxNVpHTHhkQ1E?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10503,
+  "notable_record": null,
+  "num_candidates": 18,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-7",
+  "pc_name": "Ahmedabad East",
+  "pending_cases": 0,
+  "phone": "09327426122 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180118.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to run long distance train from Asarwa, Ahmedabad instead of Udaipur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to construct a railway foot overbridge near Kuber Nagar in Ahmedabad East Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to construct a railway foot overbridge near Ahmedabad East Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to run Gujarat Sampark Kranti Express (train No. 12918) on daily basis",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 80
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/hasmukhbhai-patel"
+  },
+  "qualification": "Diploma Course",
+  "questions": 26,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 3,
+    "Cooperation": 2,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Rural Development": 2,
+    "Social Justice And Empowerment": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "HIMMATSINH PRAHLADSINH PATEL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 30,
+    "criminal_deduction": 0,
+    "legislative": 51,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 86470298,
+  "total_liabilities": 13515602,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 68.28
+}

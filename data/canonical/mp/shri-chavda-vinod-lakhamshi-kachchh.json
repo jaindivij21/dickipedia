@@ -1,0 +1,477 @@
+{
+  "accountability_score": 46,
+  "age": 47,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3098000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8845000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 36272000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 48215000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 107500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 903809
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 2786329
+      },
+      {
+        "category": "SBI Life Insurance Smart Platina Policy 6,20,250 6 Lacs+ SBI Life Insurance Smar",
+        "value": 2971957
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 5307889
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3191028
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7496635
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 22765147
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mKgFV7FUX5R7tEirE6JP",
+      "total_assets": 5618643,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mKgFV7FUX5R7tEirE6JP",
+      "total_assets": 33508455,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3769",
+      "total_assets": 70980147,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1163,
+  "assets_latest": 70980147,
+  "attendance_pct": 80,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Nishant Park, College Road Bhuj, Kachchh Bhuj Gujarat, 370001",
+    "emails": [
+      "chavdav.lakhamashi@mpls.sansad.in",
+      "vinod5467@gmail.com"
+    ],
+    "phones": [
+      "2832225466",
+      "9825905467",
+      "9825105467",
+      "9599691698",
+      "1123713992"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "06/03/1979",
+  "eci_state": "Gujarat",
+  "email": "chavdav[dot]lakhamashi[at]mpls[dot]sansad[dot]in,vinod5467[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2076341,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1812618,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 992905,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1142582,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 917444,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 480379,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 588332,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 578000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 315470,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 319340,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business and Investment"
+      },
+      {
+        "person": "Dependent",
+        "source": "Interest in Investment"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹56.2 L (2014) to ₹7.10 Cr (2024).",
+      "headline": "Declared assets grew 1,163% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5618643,
+        "from_year": 2014,
+        "pct": 1163,
+        "to": 70980147,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹6.54 Cr between affidavits, while declared income across 5 ITR years totalled ₹69.4 L.",
+      "headline": "Declared assets rose 9× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 65361504,
+        "declared_income": 6941890,
+        "itr_years": 5,
+        "ratio": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.54 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105360775,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10452374
+      },
+      {
+        "category": "Jai Lakhamshi Chavda Loan 20,67,000 20 Lacs+ Lakhmshi Binji Chavda Loan 20,00,00",
+        "value": 5153521
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 15605895
+  },
+  "margin_votes": 268782,
+  "minister": false,
+  "mp_name": "Shri Chavda Vinod Lakhamshi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41639225,
+  "mplads_unspent": 105360775,
+  "mplads_utilisation_pct": 28.3,
+  "mplads_works_completed": 46,
+  "mplads_works_recommended": 238,
+  "mpsno": 4741,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kachchh election results 2024 live updates: BJP's Chavda Vinod Lakhamshi wins, while Congress' Nitesh Par",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOYjVGWVhDRW16SDhDdlJvZ1dyaUJNX0h6RzNQckY4QmlTZnptMkp0WmJIODMyWnEwMGlIVlM4WFNULXItMGRiandTQ1pHQjV5TlMyalFUVnNpWDd2ODNPbmtFUGlfMGNwOU9iaXlNVTVXc1BaUGRnYmJnVnlwamZYQmpRN09LLUh3c01fWmtadEFMRm1Mc00zbXR1bHlCMDdkTWNZekR0Vldzc2FUVTJ5MmJTcVU1TXlKeWJQcEV1WHNReFhxOTF2ZGFpUVdDNTJHamMxem9LYnRscl9GY1BfZ3dPUkV6c2FvdFQyTDgxWGQxU1hqV2h2Q1NiQnNKMXRsS0pUZFZQZThXYWl0bXNHbS1ZMkNwSFJ6NTJyOWRCTkJEYWNkcGIwS290Ykx3WWw1RlZ0VGFHbVRsZV9BbU5HUTlscHHSAcoCQVVfeXFMTXpMakVLOFZFRXVXVDNIRDh0LWdPWld0TUNHcWVLRF9wNkhxcDVOaFk2YmYwRk15M3RTNnFKWlB6Z1dUUGFIY3ZuLWd4azhYZVZoOFFjamF5QnV0X2c1SHYweGkwalVWQ1AtbWxZWTNpeEJBdU5wN1VxWDRBVWV6NWt1VkxDcHFVWm9fWEpRYzVjdDBzazBrdzU5TnlkRkJSemRLVHdvQXFoaHhyNE5lbm1fZEZmTThLeFlXOGFKZ1ludEtDQk1IZkdIOC1adFFpVkN6ajhEQ19JcW02bm9HdGdvT1ZmaEtCSExxZE04U2JpZVNkMUl3ZWVlLXJEZHFtYzdaeDl5WHBVTTBEVEhJZ0lpZWczV2cwb3YxWHVBWGJjRGpXeGp1Q2hhcGlBa3lCV2tqOWJTM29yU01iaXEyYzA5V2hIUTNXNGpn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Kachchh Election Result 2024 Live Updates: BJP's Chavda Vinod Lakhamshi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1IwMk1qbXRqUnZCOHNvUmF5SzFteTBLdjNKb0lXUmR5Z1UyQWpTUFBzYTNkS1BGY3dEdWU0bWJiYS1ZdzN2N0hISFJpMnFLOGZUYkZiTmNxc0hSOFd2V0NoYTF4VVFJYWhkZlRDbXZsWTYyQnBaX1lpdWJRb1hnQW9mcXpTb2hSYXh1TDV2bnZULXRwZjJnTmpRbXRoVTk4YlAzTkF6Q1BwOU1xbFpzOF9vdnJ3VS15TFpuTlpxN1BJZ9IBzwFBVV95cUxNX21ZdVR6MkhoOTFTNnF5SjFiZWt5R09vb1ItRTZPakNkamFBTHZhblp2VzVOdDJhVVN0WEVuM1Fzc2FFYlN1WmRCNzRoUEFpTUUtZkpZQXpvZVM5bnVoWjhyTFZPVDNBLW5BYWo2X1Bqc1ZQa25fdzFJdVpwNEI4RnZEbm9tRWYyMjRjZDBoZmpzWFVlTlRfd1E4V3ViU3hOcXJZZ0k0RDExUlZyZzVuRDFoMnU3QnFyZ3c5VVJkU1dCRENuTzdremYtSVBXYlU?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Kachchh Election Result 2024 LIVE Updates Highlights: Chavda Vinod Lakhamshi of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYWhGQnB0MTVSUndoZHVIcEswd203VXZoeEdXWDc0dFB1czd0akd0LS1DdGJGNC1oOXROczRxeWEwT09LMWxURE9lalVpVzN5b09wYkZjTnNrQ0cwZnVFSnlqcnpKUTJxem45ak81djJzeWU2TFcyQkVtSDRKNUY0S3EtZklIaV9vTGNLOFBpamVNQktQY0RfSERxMkFzVTF0MjNkSnhyOWZqbGNVYVNxN0VTdFlRVmlvVUl6YWxxNmdRemtJZ1NValgwb3BLYmxpWGoxcm51S2xNVGFOSEg4T2xR0gHnAUFVX3lxTE9fQ1c3b2MyUGxBZHc0Q0l1U29Ic01uZnBLbDY4UWIyR2p5bVdmMTRIdU1qS2JKVzA4MVdfaWdhRVRLN2tNQkhVX29UVDN2VkpiQ0JtMTZRMklYX2lSYkVEdnEwME5OemJOektzOGNvLTF2d24ycVhncTZqOFA5Uk9OZks2dU9qOUFKQ2FlcmJTWFdEUkNISDBRUS1YVDl6ZTdyV25PV2o1bmxUd3JLNEJETTFhQzQtSW1ZQUlVUDhVVXgwaHh6RXpPb0hVdmdEZVROeVRISld1Sjd3MzkwOWpNQW9WSFJscw?oc=5"
+    },
+    {
+      "date": "2024-05-27T04:05:52.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Chavda Vinod Lakhamshi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjVMYVRzNjA2N1hxUGJMTk1VV1kyT0duZ2JPdTU5OUREbGkybnhicC1pQVg5VFlBX1VUZHdZeEQ4VkFlSnVaQzBmYmxpRldwYW9NX0pMeXhfc25wdmZUTWFWbk1jYWJVVVhscUhoRDY1cVRVNmZ0cFk1NFJMbi1RRVBjQ0dhNHlMVmxQcG5TWEp6S1Y4MGFoZF8zZlBvOFEtbm1mV3JWQ1hMaGNw?oc=5"
+    },
+    {
+      "date": "2024-05-06T07:41:02.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Chavda Vinod Lakhamshi, Bjp Party, Kachchh, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGxheUtGN0xKZ09FVzR1UTRMRVVxay1zeU5lMld6eTdTdTZ0ZFM3bnpFNk5ZTmdHbGx1N0ZhVzZpNHM4R1d4dkJLcDNCS1VneDJRdEwyYkJuUEc0QVpuNUVkS3g3UF9DWEQzRkhnZG03U0ZYcnZKVkVZXzBNRXllc2gzNE94YjEwT0RDMzVWSFliTmdZRzg3VlJweV9CX2tXTEFEdV9nVmVFV2VObXBWTUZiWE5hSERLQ24za2pRSXZaLXJZdTFzSEZ0VkF1LXhFdlp1aWMyLThyc01WQlVhZWd5MA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 18742,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-1",
+  "pc_name": "Kachchh",
+  "pending_cases": 0,
+  "phone": "Telefax : (011) 23713992, 09599691698 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180110.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 170
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/chavda-vinod-lakhamashi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Atomic Energy": 1,
+    "Ayush": 2,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 3,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 2,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 4,
+    "Tourism": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "NITESH PARBATBHAI LALAN (MATANG)",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 0,
+    "legislative": 58,
+    "mplads": 47,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 11
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 70980147,
+  "total_liabilities": 15605895,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 60.23
+}

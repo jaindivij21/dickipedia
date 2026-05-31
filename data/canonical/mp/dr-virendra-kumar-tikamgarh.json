@@ -1,0 +1,457 @@
+{
+  "accountability_score": 61,
+  "age": 72,
+  "assets_2019": 21503766,
+  "assets_2024": 28837006,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 10400000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14800000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": 800000
+      }
+    ],
+    "immovable_total": 26000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 110000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 839006
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 400000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 50000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1400000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 88000
+      }
+    ],
+    "movable_total": 2887006
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=nffPm8uSVSAWXL7vg93X",
+      "total_assets": 21503766,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2473",
+      "total_assets": 28837006,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 34,
+  "assets_latest": 28837006,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Virendra Kumar Khatik is an Indian politician who is serving as the 29th Minister of Social Justice and Empowerment since 2024. He is a Member of Parliament in the 17th Lok Sabha from Tikamgarh.",
+    "title": "Virendra Kumar Khatik",
+    "url": "https://en.wikipedia.org/wiki/Virendra_Kumar_Khatik"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "224, Chakra Ghat, Near Singhai Jain Mandir, , City Sagar, Madhya Pradesh, 470002",
+    "emails": [
+      "vkumar@mpls.sansad.in",
+      "office.mptkg@gmail.com"
+    ],
+    "phones": [
+      "7582224000",
+      "8989235225",
+      "9013997208",
+      "1123012175",
+      "1123381902"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "27/02/1954",
+  "eci_state": "Madhya Pradesh",
+  "email": "vkumar[at]mpls[dot]sansad[dot]in,office[dot]mptkg[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1221190,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 943820,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 902020,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1214670,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 794610,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 476600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 491440,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 290000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 448410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 283920,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary received from Government of India, Pension, House Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income from Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "N.A."
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.57 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105694728,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 403312,
+  "minister": true,
+  "mp_name": "Dr. Virendra Kumar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41305272,
+  "mplads_unspent": 105694728,
+  "mplads_utilisation_pct": 28.1,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 247,
+  "mpsno": 515,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "43 voter IDs found near Union Minister's residence: Burnt cards discovered outside Virendra Kumar's bungalo...",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSnZpRUlyVUZldFd3QzdOeFc1TElGOVhITnZmczg0QjQ0cVdPM3VvazZmSzBvT21sOWdlS21XZGp5R1p3X0RmeXJfMXhsREVveEIzbnh0SUxfNFlfWTRxdEJZNDQ0QjNmd1AtZ0tsWVpLbXNsNEFmOEdWekNyZ3gycmVxaU9DcFB1Wnh1RVhfUGtYU0N6SXFsejFTNU9GZk1hNDRTQXMtcFBPUXk2YUJmamhYa0xGT0wxQzJLc05sTnNjMXd5TW1vdTB2YzhzTlpCNkpab05XMVZVWFdzQVRQSXRCc050Sm1aT0dDc1Z1OFVhRjRIOEJPTldmNFpmZVJob2R1RtIBigJBVV95cUxNUGlENXVseGdtTHZxWk40LTEtY01sdk1OTEVlR0RRX0xhSmdWWDFVZVFDdzBrN2kybENXMDV6RHVEdWhmWmU2QjlCOWUxdURTM3hsMmlsMDJyOHZjTEFjbnpqSGVWUkNEM3hFbTdmbW5qTXdZckc3TG8tMHRwakl6TEhBRC10M2wybzBNQmx0N0ptM25mZWRVZmQ1RzQzd21NdDhld0E3c1F4eWQxNkZkRmtBNkZwanhxRzlkUW1YSWRLeU04SnA0RjFJN21PYndYcXg1WDQzbVBZaGpXM0tYRFh6TDdfWEJZQXRlMlI3MWxmLWJtSGV4cVZhUE5uQnJteUhIVFNveENDZw?oc=5"
+    },
+    {
+      "date": "2024-12-30T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mint",
+      "title": "BJP minister Virendra Kumar bans touching feet at his office: ‘No work will be entertained’",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUDY1dEFUQVBjS0NtOWNJRGR3NUlNMy1NN2xpTXJCdTlOaTdmcDNsYXFpSk5HaEV0anpianU0N0R2TkhhUERoSEpCMUU3ZHFGRjRPSmZPS2s5S2hZcmVJMGR6RjJjU2tJSUcwNmRYSXo2bTlsVjVHMGVmWWxWWDhjaFZXN0VDejZMTXRFY1d5V0EzQU11My1EWHl2b3YwdjgycGp4OHduRGZvRGgxLUNyTHB0dnd0SDFHVFBUUnEzcHJDTFZhTVlvanM3ei1FemVCZU5DdktuMFlfdlpBblJCadIB5gFBVV95cUxNeUQzRldxaDBHNFYxMDRyc0JvM0FScGlNbmdibWNmSFlJb0tqVG5ydUZ3Q21UbEJmQ3psM05vQ0dpel9zbWpJaHBaQWFwbDJUb0Vtd0lqRVVDbXp0R3N0U0Jjd1ozSzZwTGtSNlRxZmtiYmJiSkx2LU9SWl9Ba1ZTbXJzTjByUzVKUnM2aVpUUlJkQ1BjQUZEWWlybUY1NXBXYWlBMzlXR2hTV25yaTFwUDcyYlZET0tnejUyZTFqSEZxYXppS1ZrS2JLQjhjaUVTdENFOHJ0SXhtSEdUZE1ORGUtWkIwQQ?oc=5"
+    },
+    {
+      "date": "2024-12-30T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Union Minister Dr. Virendra Kumar Bans Foot-Touching Tradition At Tikamgarh Office",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjBvNDl6ekF1RE5qeGF4N2hEX2JFbnBkQ2JCZmM4S05TdXdQWEotY2NaTlN2YmItSGJROGlIMzVjQXpQN3VZSHI4VUhpa1ktbUozeEMwVDRLMkh3Z0VSb2ZfeTBLXzRxT0RVSGdmRGtFRGNWSXZ2Z05peXM1VmNWeE1hRDljdWtLUk1OS0pEV0g4VmlTVEktdkM2V1ZZZEpieF9GY2tmQkMwX2lXQjg0UWFJTll0YXJpWVBuMVBhU3ByaWNrcGdnZURyQdIB0AFBVV95cUxPVnhpc1hTSm1KNnczNkhfa1dFSWotVzkzdnl3djUxa2dMRDVPX0dXLXI0djhEbE01SjVxamhteHBOajdJaUdMSzZHYnlWR2J4UFN2UkVMR1g3Tm1rYVo3M1NLakM5c3JfOV9xaElxc21ValQyZHU5U2t5cWtPX0tKeVgyODVxU1dSNTRsUS1pSmpGZk9zMG9rWnVpekpvT2pmWWJKdWFhZERqMFFsRV9hOFE1SWxlaUNWMDViN0toVHFFMVhFRDFJNDNCRHpXcEc2?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "AajTak",
+      "title": "Virendra Kumar Khatik: कभी पंचर बनाते थे ये केंद्रीय मंत्री, आज भी अपने पुराने स्कूटर की वजह से बटोरते हैं चर्चा",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZTMxcktSTEVOQzZPeFNvUVoyVmN0NWRjUmhHSTF5NE9NVEpsQmI2Mmd3cHJ3QUxKV0ZvOWpGcEJIYjYtS3NNSkc1Q1FHNVdWTDM1T1hhTTBsaFpsN3FPRFFBNTFENGtQZ1JYLUVjUFpxTzJzVHJlSG13V1oyc1hJRFJmamFnVnp4a2wzcTRwRmNJTHMwSWZyNGRPSzVnOTRybnZWNnE0cGNJdGg3QWJhbWRRNk9iWWwwanJ5V25DMm5DVDRGMEk2R0gwWEZ3VkxzV3fSAdcBQVVfeXFMTjJUSng1TVlXakdtcmZaTzQ0TkNjM3BtZGlwVEx4azZ3anRVN1ZZb183bzlwTDlhc1F6NVltTk84MTRqeXl5cHRBRDJEenpIN0pPMkdrRXZrMW9ybzZxOUhIaGhaSkR4enNkVlZXeU5pME1HenNlekJSTURJaWFXS05uSVFDOHJYNC15Z0h3cXJXbGdKb3I3a3Jad0RqbnBISi1ILTU2TmRrUzlLUjNjZHFuOWJ2YXoxb1FodFZoWU90emVfVGhyMTdpa2hPZEVYVEJoZ25uUFU?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Dalit Veteran Virendra Kumar Sworn In As Union Minister In Modi 3.0 Cabinet",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2JicE1nWFR5RXk4Z1V6NTZWZUFkTVV0NXJFOUtReXE0d1EzQmZFT0xfQXhuQ1N6N0t1RGhiZWVSYXZWem5UTmFWMGNGcktGQzhDOVJySWM4Vk1FMnEtLTJ0OXRfQWRnZDIxeFUySnBLVzZTbHB2azRxTng2SUpfeERWbU5HaVhONUgxTGxXWDhZODkxM1VkTWRnWVJaWDBQUDItamNqaHlFSl9YZ3JzdFVUQkRid9IBvgFBVV95cUxQTDZOZzYwQ29aQ0F5ZnBkbUdoZlJ2OHUtSnlZdElMSmZ1dnpRVVhNbkZHcHdGY1BIWWREUXZ5OXZUMnBWSDNvYVhfb1JZQ19qZlRjbHZYZFI2THhsSi1RV29CeVE4Yl9FU1paanJ4Tm5OSzl2c0JsNFN0YXhMS1Y3SWoxZ2xZVHY2cmNmc3E0bEEtTUxoemIza2xKOXNRREsxNS1PS1RDMW9RLXY4S0tXUzVYNy1GYjRjbll4MEd3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12831,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Virendra Kumar Khatik",
+            "url": "https://en.wikipedia.org/wiki/Virendra_Kumar_Khatik"
+          },
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Minister of Social Justice and Empowerment",
+            "url": "https://en.wikipedia.org/wiki/Minister_of_Social_Justice_and_Empowerment"
+          }
+        ],
+        "title": "Union Minister of Social Justice and Empowerment"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2022-08",
+            "publisher": "Devdiscourse",
+            "title": "Dr. Virendra Kumar launches SMILE-75 Initiative to make cities/town begging-free",
+            "url": "https://www.devdiscourse.com/article/headlines/2142063-dr-virendra-kumar-launches-smile-75-initiative-to-make-citiestown-begging-free"
+          }
+        ],
+        "title": "SMILE scheme for marginalised persons"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2019-06",
+            "publisher": "Outlook India",
+            "title": "BJP MP Virendra Kumar To Be Pro-tem Speaker Of Lok Sabha",
+            "url": "https://www.outlookindia.com/national/india-news-bjp-mp-virendra-kumar-to-be-pro-tem-speaker-of-lok-sabha-news-331950"
+          },
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Virendra Kumar Khatik",
+            "url": "https://en.wikipedia.org/wiki/Virendra_Kumar_Khatik"
+          }
+        ],
+        "title": "Pro-tem Speaker, 17th Lok Sabha"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2017",
+            "publisher": "Wikipedia",
+            "title": "Virendra Kumar Khatik",
+            "url": "https://en.wikipedia.org/wiki/Virendra_Kumar_Khatik"
+          }
+        ],
+        "title": "Minister of State, Women & Child Development"
+      }
+    ],
+    "office": "Union Minister, Social Justice & Empowerment"
+  },
+  "num_candidates": 7,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-6",
+  "pc_name": "TIKAMGARH",
+  "pending_cases": 0,
+  "phone": "Tels: (011) 23012175, 23012195(R), 08989235225(M)\r\n(011) 23381001, 23381390, 23782132(O),Fax: (011) 23381902(O)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180242.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/virendra-kumar"
+  },
+  "qualification": "Doctorate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "KHUMAN URF PANKAJ AHIRWAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 35,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 8,
+  "top_inference_severity": "notable",
+  "total_assets": 28837006,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 34,
+  "winner_vote_share": 65.1
+}

@@ -1,0 +1,762 @@
+{
+  "accountability_score": 3,
+  "age": 71,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 63759960
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 4000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 12579200
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 80339160,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 44000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 428698
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5770120
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1560000
+      },
+      {
+        "category": "LIC Policy No 393027364 1,00,000 1 Lacs+",
+        "value": 2700000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1050000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2743055
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 438597
+      }
+    ],
+    "movable_total": 14857158
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=S5zRb3G4PmJSExgRZmxZ",
+      "total_assets": 11417962,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=S5zRb3G4PmJSExgRZmxZ",
+      "total_assets": 7300123,
+      "year": 2009
+    },
+    {
+      "label": "Kerala 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=S5zRb3G4PmJSExgRZmxZ",
+      "total_assets": 47876578,
+      "year": 2016
+    },
+    {
+      "label": "Kerala 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=S5zRb3G4PmJSExgRZmxZ",
+      "total_assets": 62201976,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3137",
+      "total_assets": 95196318,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 734,
+  "assets_latest": 95196318,
+  "attendance_pct": 75,
+  "bio": null,
+  "charges_framed_count": 5,
+  "committees": null,
+  "contact": {
+    "address": "Kalambattuparambil House, Mudavoor Muvattupuzha Ernakulam Kerala, 686669",
+    "emails": [
+      "kfrancisgeorge@gmail.com",
+      "francis.george@mpls.sansad.in"
+    ],
+    "phones": [
+      "4852812875",
+      "9446411100"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/voteforkfrancisgeorge/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/adv_k_francisgeorgeofficial/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 5,
+  "criminal_cases": 5,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC 168/2022 Refiled (CC 3408/2020)",
+        "charges_framed": true,
+        "court": "JFCM I, Idukki",
+        "fir_no": null,
+        "other_acts": "Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act, Section 118E KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 335/2020",
+        "charges_framed": true,
+        "court": "ACJM, EKM (MP,MLA Court)",
+        "fir_no": null,
+        "other_acts": "Section 5, 4(2)(a) of KEDO",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 2893/2020",
+        "charges_framed": true,
+        "court": "JFCM I, Idukki",
+        "fir_no": null,
+        "other_acts": "Section 5, 4(2)(a) of KEDO & Section 51(b) of DM Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "ST 2614/2022",
+        "charges_framed": true,
+        "court": "JFCM I, Muvattupuzha",
+        "fir_no": null,
+        "other_acts": "Section 5, 4(2)(a) of KEDO",
+        "sections": [
+          "188",
+          "269"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "ST 940/2021",
+        "charges_framed": true,
+        "court": "JFCM I, Muvattupuzha",
+        "fir_no": null,
+        "other_acts": "Section 5, 4(2)(a) of KEDO",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 5,
+    "ipc_summary": [
+      {
+        "count": 5,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 5,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 4,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      }
+    ],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "29/05/1955",
+  "eci_state": "Kerala",
+  "email": ",kfrancisgeorge[at]gmail[dot]com,francis[dot]george[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1010949,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1152680,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 628138,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 659478,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 580008,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 964390,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1831990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1082272,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1284426,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1053432,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension Rs 61065/- (Per Month), Interest Rs 250000/- (Per annum)"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pension Rs 30932/- (Per Month), Rent Rs. 96600/- (Per month)"
+      },
+      {
+        "person": "Dependent",
+        "source": "D1 - Salary Rs 50000/- (Per Month)"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹8.38 Cr between affidavits, while declared income across 5 ITR years totalled ₹40.3 L.",
+      "headline": "Declared assets rose 21× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 83778356,
+        "declared_income": 4031253,
+        "itr_years": 5,
+        "ratio": 21
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹1.14 Cr (2004) to ₹9.52 Cr (2024).",
+      "headline": "Declared assets grew 734% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 11417962,
+        "from_year": 2004,
+        "pct": 734,
+        "to": 95196318,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 12% of MPLADS local-area funds were spent — ₹16.53 Cr unspent.",
+      "headline": "88% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 165284736,
+        "utilisation_pct": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "5 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 5,
+        "convicted": 5,
+        "pending": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 300000
+      },
+      {
+        "category": "Nil",
+        "value": 1000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 1500000
+      }
+    ],
+    "total": 2800000
+  },
+  "margin_votes": 87266,
+  "minister": false,
+  "mp_name": "Adv K. Francis George",
+  "mplads_allocated": 188722256,
+  "mplads_expenditure": 23437520,
+  "mplads_unspent": 165284736,
+  "mplads_utilisation_pct": 12.4,
+  "mplads_works_completed": 29,
+  "mplads_works_recommended": 203,
+  "mpsno": 138,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kottayam election results 2024 live updates: KEC's K Francis George wins",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcmM3Zk9JcXpDWWprT1JrLTFSb2tjUk44NmliZmlMd1JuNEpaM1hObHlnUmVUVS1HWUYyUjBZa1VRc3c0TEt3Yjhia3F3Y0VCRFoxcF9mSzVJSXpjUS1xNGlodVB3T25ROGNZdmhzTlR4dlQxTHVvWEt6NTRDRDd3WTljNlBuUklPczQ3S1BzWFdTaFNpUHdFQ3htSXhKNzJKZFRNZlhQUnBBVER2el93a1VkZzdYOUtEM3VtRks0MGU4dF91SW5pWGIxblo4VWN4YjJ0RXFINno1SmpQRlhmb29xRmVjTzhfOEg5dW94d1prMHU3Q2RnVHYtdVY3eDVOT3FINWpQMmh5NmlUekUxONIBlgJBVV95cUxQanVqclhqV2VIN2NndFNvUTg5Z1FXeC1HMnFBMFlycUx1UkJibllsOURqWTNJUDlzQ3hDM0Rab3Z4QnhVaWpGRVdESGhCeEljMEM3MVhkLUVmNmppRmd3RkZ4OWVNUDdkcUVaQWxhaFprWkxhUnB3anhHM2U4RHdaUlN5eEVUUlRXcVNRbDI1bFRzdmRiRDVsd2VKWC1IWGJnaFQ1aDZSQmEyb2FFZWRHVEtqc2FMN1J4VmlzdXhaMFhGMU9CTDdYM29xcVRGYmtRdC03aHA2Z1lkRE1PYUhzZlFsM2RJTnJFUWQ2NU1EeUpTaXlVOWozZjFKczVPRjc2VDZocGxGZll2SjhzZnZnaGNhcDdGZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Kottayam Election Result 2024 Live Updates: KEC's Adv K Francis George Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZU9wUGc5LWdPQjRGRkJWRy1qdl9uVU12Wm04M0xUVWJvXzVNWThYbUx2YlRsUFBmWERod2NPYXRFR2FWSk55ZHRKd1RkV09zN09INkRFTS1qeEJsTndaa0t5X3dHblZ6SFo3WFlmUzZSTkVhbnZBR3ZBZUdjYzBBdGNYblhjcWhwNkUxSTZPZkk0NUg5QVliWUUxM2VBZ3RXZnBkaHhMSDNjUVRDQkFfMlFjNGxJdUxTVnNJanl3U1lrUdIBzwFBVV95cUxNRnpRYUItaEJOUWp2VkVxWDBEYkszbHhpamNiZ1lhOXB4NUM5OW8xYVIteXJKY25aLXJYQzR4Z3J2NmFEazVVVGpuTUJBdzh2b2hyMzhrVHNSX2ptNDB2eGpfd2pqb1ZRc0hrVUZMTVVGbDV6aUpVYWlSV1h4X2hEQ1pwRHVoc2tSWkVpT3M0aEtvTzljNTlEWlZDQlhUQ1J3SG1MNTJhYmEySUxodkRUbGd6alJpQUhzbkd0VFJuZEJqT09xYlZLTVBCUXltaUU?oc=5"
+    },
+    {
+      "date": "2024-05-31T18:51:31.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "K Francis George",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV3hST2dUZmNmR05QQ1lPVEFLQjVwMVRKSHhFcUJ6VXFWTG9IVjVBem94NHpOOEhtMVRsYnpZOWZrSmlyLXJ5N21MdFRYNWplM1ViUmRUQ3FtRTg5MG85M2FDMFVTY3ZEbkZnV3N2cndfZ080MHRla3BfZ1NXWHFhUDFUZi0zQkdjcThhT0RNNkc5ZU9NNzVveG1RQldKMHE5Vm1jTnJkZFZacFkycUdZZGdFQmdmNVRI?oc=5"
+    },
+    {
+      "date": "2024-05-14T21:16:46.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Adv K Francis George",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUlHa0M5ZFZacmlyTEJ4U1Rpb0wySVZLeDZJUVZ3NnQ2emxqcTl0dzZHc3Y0emZQSktlXzYyRXc4RExZUjVKaDAtTExEMEhpSnY0YmVybGVrbnJkOXFSZDRjY21iNm5sWENSdDhTSU94WWVVTGpoSlBNTURBSzFPNEN6WjBYOFRQdW1aZzJhaWFaU3lXbjYzLWNRNWhaWWNZdmxIdm9KNzE?oc=5"
+    },
+    {
+      "date": "2024-04-25T12:23:12.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Adv K Francis George, Kerala Congress Party, Kottayam, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVplbUVpM29OTHZwQ08wYVhDRVh3LXdjeE1QUFJyTXpwSkNidWNNa2hzQWUyOHFacWprTEFVenVQYWYxLU5RY2k1bFZwSjYxdHNKQVFZOWlGSUZOcHE5NkFqR3F0bUpOcEZHVW5ZQ29HZi1wbHNxdDV3cVZmRDU3NkN0akN2S1JsUjFLakg0MUxxM3haWlZNcmNtd0JKbDNwS3YyeGxjLWxTQ1hNTFNKREpRRXJSb0VnbDNHTzZQeS0wRF9FRWNIRWx5bzMzOE1kcUJYNUpRMmQzYmkta3l3VA?oc=5"
+    }
+  ],
+  "non_serious_cases": 5,
+  "nota_gt_margin": false,
+  "nota_votes": 11933,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "KERALA CONGRESS",
+  "party_bond_total": null,
+  "party_full": "Kerala Congress",
+  "pc_id": "kerala-14",
+  "pc_name": "Kottayam",
+  "pending_cases": 0,
+  "phone": "Tel :09446411100(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180199.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need for approval to the Project � Eco-Restoration of Vembanad wetlands-Environment friendly approaches for Flood and Salinity management in Kuttanad, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Reconstruction of Kuda Kallu Bridge in Moonilavu Panchayat Using Tribal Affairs Funds",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Withdraw False Cases Filed by Kerala Forest Department Against Peaceful Protesters, Including Bishop and MP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Urgent Intervention to Restore Cancelled Flights and Establish an Airfare Regulatory Authority",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Amendment of Wildlife Protection Act, 1972 to Empower States for Effective Management of Human-Wildlife Conflict in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to govt for Fair Compensation and Recognition of ASHA Workers' Contributions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Appeal to Ban the Film �Sanatani: Karma Hi Dharma� to Protect Communal Harmony",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt increase import duties on compound rubber to at least 70 percent to protect domestic producers and announce a special relief package for affected rubber farmers and Include rubber under the Minimum Support Price (MSP) mechanism",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding implementation of the recommendations of M.S Swaminathan Committee Report",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 36
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 48
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-francis-george"
+  },
+  "qualification": "Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 2,
+    "Commerce And Industry": 4,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "Petroleum And Natural Gas": 2,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "THOMAS CHAZHIKADAN",
+  "runner_up_party": "KERALA CONGRESS (M)",
+  "score_breakdown": {
+    "base": 40,
+    "criminal_deduction": 35,
+    "legislative": 50,
+    "mplads": 24,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 6
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 95196318,
+  "total_liabilities": 1300000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.6
+}

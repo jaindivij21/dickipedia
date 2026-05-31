@@ -1,0 +1,584 @@
+{
+  "accountability_score": 65,
+  "age": 45,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 10000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 22000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 500000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 598330
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1383888
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 26641xxxxx 28,190 28 Thou+ LIC Policy No 20845xxxxx 15,669 15 Thou",
+        "value": 85643
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2295534
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4800000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3295000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 12958395
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qnVfpNWWDrTpivPnooUa",
+      "total_assets": 9672507,
+      "year": 2012
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3703",
+      "total_assets": 34061340,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 252,
+  "assets_latest": 34061340,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Devesh Shakya is an Indian politician and a member of Parliament of India, Lok Sabha from Etah Lok Sabha constituency of Uttar Pradesh. Shakya is a member of Samajwadi Party. He defeated Bharatiya Janata Party's two-term member of parliament from this constituency, Rajveer Singh, son of former Uttar Pradesh Chief Minister and veteran BJP leader Kalyan Singh.",
+    "title": "Devesh Shakya",
+    "url": "https://en.wikipedia.org/wiki/Devesh_Shakya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "47, Shanti Colony Etawah Etawah Uttar Pradesh, 206001",
+    "emails": [
+      "deveshshakya3333@gmail.com",
+      "devesh.shakya3333@mpls.sansad.in"
+    ],
+    "phones": [
+      "8218764910"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Criminal intimidation by an anonymous communication",
+        "section": "507"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "0034/2022 Police Station Bidhuna, District Auraiya",
+        "other_acts": null,
+        "sections": [
+          "504",
+          "507"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "15/05/1981",
+  "eci_state": "Uttar Pradesh",
+  "email": "deveshshakya3333[at]gmail[dot]com,devesh[dot]shakya3333[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1127840,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 893280,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1161750,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2317730,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1426794,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 394490,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 381790,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 371640,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 250000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 248248,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Contractor and Agriculture, Social worker"
+      },
+      {
+        "person": "Spouse",
+        "source": "Private job and Social work"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "From ₹96.7 L (2012) to ₹3.41 Cr (2024).",
+      "headline": "Declared assets grew 252% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 9672507,
+        "from_year": 2012,
+        "pct": 252,
+        "to": 34061340,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 442323
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 442323
+  },
+  "margin_votes": 28052,
+  "minister": false,
+  "mp_name": "Shri Devesh Shakya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 75509091,
+  "mplads_unspent": 71490909,
+  "mplads_utilisation_pct": 51.4,
+  "mplads_works_completed": 136,
+  "mplads_works_recommended": 307,
+  "mpsno": 5656,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-18T03:12:36.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Devesh Shakya , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXRvUV81SlpZQk5iWDBMOGNxelZiTUhUdWhPMTRfRTlxbHNXRDkydnhPWTVoTkVVREc1bU0za0czZFdjUVBqUGhlV0RzbWY2SEh5QXFjejNxbEJGMlNjdUVsMkNxcEYyQVBBVG9lT293V2xwQ0c4SUY2LTcxMmhuNkJNV00?oc=5"
+    },
+    {
+      "date": "2025-05-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Newstrack English",
+      "title": "Politician Devesh Shakya Wikipedia: The Voice of Youth, A Symbol of Change… A Remarkable Journey from...",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMk13WHdjYWZ1YjgyTXIyWkJmOVU4TlYxTDlNai1IUVJzRnFkYmtsd3lkWjRMZ0NrNjh5MmlpQ2xDSEdZRy1UYk9FcDRFSkJCbHNiNFhydlBXY3RUYlVtRWVqMGhBSTJnaU5sY2pMTG9ZWmIzeTl1eVlMX1FWeVRDUHdrMUlNYXBHeENUQ0FXeVpWTkRhbnlvUm9BUC1sLXEzR09kMlNyVV80YzBBaGdoYWlWVG1MRXo2VDdLZnE2NDNCMkFkeDZZendWT0dGWTFHNmd4NkI0TThWS3dZMk5RaFU4dHhxa1Z5aU9hSm1nQk9vS0l2azBpc1hxdm9JYmVlcDJPbHc5V3pTNWvSAZACQVVfeXFMUHVNTGYtdVBqS1ZTUm14WVRXc0R6Uzl4ZVZjcHJ1QnFrWm85QjFwZU5zRVgzVjlHbENsUE1IbS1Fck16YjJUNlBTb2FsZWJJaERYUlV0VDVwOU5uclJaTVBpejd0by14SWdodTViS1RsNnljaVZBN3puVGxEc0xDMTdUbEE0MmV5UDhHQVFfbkhZd2NGbmxmbFlHSkJZOWhJclMwVzN5ODE4eFVQM1AzVHNxTEI4VjFEaV9ZMWR1OU5YSGtyYnd1T1ZNLWh0QkJwOUk3UVpNX2dXZFdJbDJHOVNObjlfVHByNG0tdEZ3LVM2akRNS1l5ZHlvV3BJZ2J1UGx5dS1FYUNpMU53MFhjMXM?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Devesh Shakya: SP Leader Dented Sitting BJP MP's Hope For A Third Term In Etah",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHlzdFQ1SnNpLWxHTXZtOHdvM1h6R1Z1QWw1YkZFdmNUR19TLUJ3YVF1SmtKSHllaU9iVmI5M3BZYzk1QXV4dmx3MU9vakFMVlU5aFZlc3J4UnA1S1BYWFNCVnV1enF5V25FWDJqTS0xc1htZ1U3R094cHNHVkVXcmRmZ3J6SUotWnZ3TTdKMlNXNGJpNUw0amFCUFRzSmR5RnRsTExwSmlmVjNsVHJjd1lqNDJvZnVNTGtadUpDczZNRnhQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Etah election results 2024 live updates: SP's Devesh Shakya wins against BJP's Rajveer Singh",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOVmJEQTRrNU1vM1ozSTZ2NklvZEdYU2pMbnF6YUZMMGRTUlNSMmh1RWZlVnZDZnV0SlpjOUtIQUhka0h5LW1ldkpkT080bWFjTEdSOGM3ZENWTFVtamczb0R0eXBoNFhCUXF1UXQ5VjdmbW95aV9lSjljcDNVbHhleTlTVVZOWFV5TDZTYzlmbU5NXzZxcl9takZoNUdQWldJUnpRdG1kVE5yYjVPT3VKbVlaYXZSRlRDbDE1VnhoX3hJNHNTTUVOQ0pUV0Z6bXp0X3B3cXJocmVQNmtNcGp3N1Q5aDNSUVhnMy1PTVhYYzNrWEsyN1JjWGNQMnRfZjR3U3YzQ2tDUGlYbzVkbllUb2Z6Yl9rTS1IdVh1bGRPekV4Q29oYzdReHNfa2R2RWV4RW9SUHdiSnNHQdIBvwJBVV95cUxQaG1sS0cxUjh6NS1GVncxYk1TQ2k1RUJLMGpXdG5JekhXSmhTMXgxR0hwa0JuUDJIQ1VtcEpPZHJfVDROWTladFVma1Q4YWV1TlFNZzNjNlRxTkxrTi1rR3AtckVCT2dfU29Wd0RnSjhKVzktcUs2OWhKYWU5enYyN0F2ZlU2Z0d0OWptdkgxQVFZZjVIa3pVb1RMRTBKN3JQMTg2dzdPZmhfLUhfRUVQdW1DTC1PY2pmLVRid0ZlUmVCb2ZqNWEyOXNEdWRnU2tBSkRYaGJTdHFCUkVXck9VSGpfeGJsNjNRcUNMVUlWZm95MVJkZ0doRG5LZnZIT185NjZBZ2xFTVAwVWRjc0prbjNfbVZfNWhXM3p6MDFhZlZsQzd4YzV6aDZGa3hDYXVVYnhqVFhYaEVncUtabmJ3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Etah Election Result 2024 LIVE Updates Highlights: Devesh Shakya of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGVQUHAwRDNJbmNteGxlMUJrRVFOZWY4eUJkMDFpZGZjX1VLVFhwZ21OTmFFTTYtbDlQa3U5Tm9JT0VTRmNXMkRaR1ZTemVBZEJJQjdpcGtuOWhFTGtGamozLXl5SzZBamFtb2FObmptWHhyeHoyRHNXMlhaT0gzSGN5M29yTFFzekE2SEZsdUR6TmFIZm5NSkJsdWpjd3BfUkE1cEY5T0dtOXJzQkF3RWhYc2dJU0w0NTBpN3pUakZsVDFZRTR1NmFWMV81TGVpOGNEbEZzVWswcUJhdlHSAeMBQVVfeXFMUFljODRPWjNtLTJ4NlpPamdPT20wblZoR3BjOFhzVS1Qc0pHUjdyM3VwUHNZcXlhWllRWExYcW1nZ1VNRHNHb0laOENWN2lmcXlaME1vR1Q0ZFBxZE1VQUdPQjFzOU9VNXFrWWN1SWhtTE1vVnVBMWRveURtbnJhSjlCYXdmTS16WHE0WThDOTlMOC1qUXpXVXpzVWJsSDl1MkJmZjJ3NVgzaXVqR3RWSFpzTDdwMHdRYktsSTU2VGNtV0VRNUI2QWRFYWw4YThVZG1pN3R4eWVNZC1xTERzZktQR0E?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 5156,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-22",
+  "pc_name": "Etah",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180441.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 97
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Inquiry into Irregularities in Development Works in Etah District.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding restrictions on processions and events honouring Dalit and Buddhist icons",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Construction of Safety Steps Along the Lower Ganga Canal to Prevent Animal Deaths.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding construction of Underpass in Etah Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding railway related issues of Etah Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need to declare State Highway No. 31 and MDR 86 in Uttar Pradesh as National Highways along with their upgradation to four-laning roads",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for immediate employment in Uttar Pradesh for teachers who have passed the TET exam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Strengthening Medical Infrastructure and Specialist Doctors in Rural Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need d to construct dams in Etah Parliamentary Constituency, Uttar Pradesh to prevent annual floods in the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding alleged irregularities in Public Distribution System",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to include Hamlets in Etah Parliamentary Constituency, Uttar Pradesh under Pradhan Mantri Gram Sadak Yojana based on realistic population data",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Withhold Payment to Doosan Company Until Labour and Contractor Dues are Cleared under Jawahar Thermal Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Road Safety Measures and Realignment of Dangerous Curves on Gorha Bypass, Kasganj, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to set up a market place (Mandi) for sale-purchase of Green Peas in Etah Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding environmental pollution in Etah Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Relocation and Establishment of New Bus Stands to Ease Traffic and Promote Development in Etah and Kasganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to include Etah as a tourist destination in the list of 50 tourist destinations to be developed through �challenge mode�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding implementation of Pradhan Mantri Vishwakarma Yojana in Uttar-Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to establish Central School, Central University and Government School in Etah Kasganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding railway related issues of Etah Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to minister to kindly focus on the development and beautification of Buddhist pilgrimage of Ataranji khera and Sankissa",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to address the problems faced by people due to high tension power lines passing over residential colonies in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to improve healthcare facilities in Etah Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to set up large plant for chicory farming and provide right price of chicory to the farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding need to complete Etah � Kasganj Railway line project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding desiliting of Ganga River in Kasganj District, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 33
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 103
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/devesh-shakya"
+  },
+  "qualification": "Post Graduate",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 2,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAJVEER SINGH (RAJU BHAIYA)",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 66,
+    "criminal_deduction": 1,
+    "legislative": 49,
+    "mplads": 91,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 34061340,
+  "total_liabilities": 442323,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.09
+}

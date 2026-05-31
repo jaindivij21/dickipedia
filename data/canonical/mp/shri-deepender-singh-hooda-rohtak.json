@@ -1,0 +1,499 @@
+{
+  "accountability_score": 54,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 165409500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 25670000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 284055154
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 38079419
+      },
+      {
+        "category": "Others",
+        "value": 6756544
+      }
+    ],
+    "immovable_total": 519970617,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 205405
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 75904843
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 45781854
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 14200000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3024384
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 33830427
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 172946913
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bmQiBCTpHPpEQ6VPf9kg",
+      "total_assets": 447255719,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8497",
+      "total_assets": 692558771,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 55,
+  "assets_latest": 692558771,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Deepender Singh Hooda is an Indian politician. He is a five-term Member of Parliament from the Indian National Congress. He was elected as the Member of the Lok Sabha from Rohtak in 2024. He was also a Member of Parliament, Rajya Sabha from Haryana. He is a special invitee to the Congress Working Committee.",
+    "title": "Deepender Singh Hooda",
+    "url": "https://en.wikipedia.org/wiki/Deepender_Singh_Hooda"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "VPO - Sanghi Rohtak Rohtak Haryana, 124111",
+    "emails": [
+      "ds.hooda@mpls.sansad.in",
+      "office@deepender.in"
+    ],
+    "phones": [
+      "9818368168",
+      "8800003766"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Lease deed entered by the partnership firm M/S Swastik Warehousing, in which candidate is a partner, with its tenant M/S Instakart Services (P) Ltd",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "04/01/1978",
+  "eci_state": "Haryana",
+  "email": "ds[dot]hooda[at]mpls[dot]sansad[dot]in,office[at]deepender[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 10256120,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 9212180,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7351770,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 7502580,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 7476600,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2415730,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1527800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1692410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1347680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1299030,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary from Parliament, Rental Income, Income from Capital Gain, Income from Partnership firm, Interest income, Income from dividend, Agricultural Income etc."
+      },
+      {
+        "person": "Spouse",
+        "source": "Profit/Loss from Proprietory concern M/S Navras Services, Rental income, Income from Capital gain, Interest Income, Income from dividend etc."
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹24.53 Cr between affidavits, while declared income across 5 ITR years totalled ₹4.18 Cr.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 245303052,
+        "declared_income": 41799250,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹9.93 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 99284249,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Rent Security Deposit 18,46,800 18 Lacs+",
+        "value": 1846800
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "TDS 1,62,500 1 Lacs+",
+        "value": 325000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "CGST 73,272 73 Thou+ SGST 73,272 73 Thou+",
+        "value": 146544
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2318344
+  },
+  "margin_votes": 345298,
+  "minister": false,
+  "mp_name": "Shri Deepender Singh Hooda",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 47715751,
+  "mplads_unspent": 99284249,
+  "mplads_utilisation_pct": 32.5,
+  "mplads_works_completed": 32,
+  "mplads_works_recommended": 142,
+  "mpsno": 4207,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Deepender Hooda slams state govt over ‘collapsed sports infrastructure’ after death of teen players",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM3ktZEZGOTNnWEFHc0ZOaUxkNFVwLWpIVzF4c3NLQ1U2bHVPa1hJMU0tNDROMXNIMUJXMjcyY19xbVNNYWhrZ3VtNlBkZTJ2OVh2M2xraVlZUXVvSUJHaEhjS29IMFdGbHZ0OVIzZnJyLVIwTHhEazBOTnlxOV9LLXZOeEdBSjVwSzBCQk1JNnVJVjNCbHh0QXB0VzF1VktacEtjZjdqbjBpNldOTnViQVBnZ0UwbkxuYkZCRE1zMFh5YXAtWXpZT3Rqc0lTLVZOcTJJbm1HSjJnekhleWRqQ2U4djFva0FEUkV4MnZPUnlKZW1GM3lpbA?oc=5"
+    },
+    {
+      "date": "2025-11-26T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Failure to utilise Rs 18.50 lakh grant led to court mishap: Deepender Hooda",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkVoUDhEYUU2Nl9HNUlmZUpRRENOdl9lWXNCMUo3WHNsbUFGbzdJRWNETVR5eWF5b3dQRkJZYnFBSy1MWjJsWTdtajFMd3pITWVjWjItUWlhY2p1ZlhnN1RBbjdPa1NJbUM0b0NFcG9qTHY3WHFqSGlmejBzMXY3Nk9XcFR1RzdVekxOelZiejZuME5JVFVBSFNKLVQwQXQwMVZfYmFuMFBEMTd1aGE4RFEyeklPM0ZV?oc=5"
+    },
+    {
+      "date": "2025-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "First India",
+      "title": "\"I thank people of Haryana...\": Deepender Singh Hooda leading from Rohtak",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2ZPaEZvbHhmUE5rczVoSVhYNGZCREhkYjFkVzNqVjB2cHZWejF2V254TG93TW1DSXc4SzVGZ285YlFkVDhDWjZvbVVNSmdQTTBqM3lfSmd3bVFtOXhuS2I5anJia09NZThSN0xuSTFfVWJhSUR6ZzVTWDNXUFp2VjljdHRmTm9pQnd0aWIzU1J4VjlkMWhCbXVINV9kTUZ5aFZrOHR3?oc=5"
+    },
+    {
+      "date": "2024-10-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "Congress MP Deepender Singh Hooda congratulates new Haryana Govt",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWdlODg3ZGZUVnNoZU5pQTBXbGlzX0phcVhQVDVyZ3AtMWphV1JFWlNjbWRvZkhNbUNzZVI4NmE1RE41bDB1Z2J2alY3S2ZQMTlDU000TVdfNGtnWjNIUG5nVDZnRmwzcjZJQ0NPdkhsTXRuMEMzQm5iNkNmYjZIWWJROG9fbmd4YnpyaGsxWmg1LThBc1RWRTVB?oc=5"
+    },
+    {
+      "date": "2024-10-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "FACTLY",
+      "title": "An old video of Deepender Hooda's emotional reaction after winning the 2024 Lok Sabha General Election is being falsely shared as related to 2024 Haryana Assembly elections",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVThmdEV5c09EUGo3dENlMEFkNFlmS2hocFpLNjJEd21aMEU3MmJKZGp3bVRtRV9fNW9LRk1iV2FLMmpmVU9lM2NtZjhXMHlPYmp4ZHpneF9kWE5qN3NCNU9lMENYa2IxMjRfSnBaQXl2YmRLMlplQ1piTnltclZxRk00Y2tGZUZzckVtcVdGb3A0MFZvOWlYd2U0cWgzZmVFRzM4dVhQb0t2QUdySldKODUxc21pOGlLVXpuQzNkMjZTYVVZOWVmSHVwZllDaUhWc0dyU2tjNGVkTVB3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2362,
+  "notable_record": null,
+  "num_candidates": 26,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "haryana-7",
+  "pc_name": "ROHTAK",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180132.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Comprehensive Regulations to Protect Children from Social Media and Online Gaming Addiction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need to impress upon Russian Government for safe and smooth repatriation of missing Indian students who travelled to Russia for educational purpose",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Urgent Demand to the Central Government for Compensation of Flood-Affected Farmers in Haryana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to include Haryana as a co-host for all international events to be held in India",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to talk to farmers sitting on strike at Shambhu border",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding need to ensure representation in the Legislative Assembly and Lok Sabha on the basis of caste population",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt allot more budget for haryana in the sports",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding provision of reservation and Caste Camp for BCA Category on lines of SC/ST",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt implemented the old pension schemes for defence employees and provide 100 days leave to them",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.7,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 88,
+      "value": 71
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/deepender-singh-hooda"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 8,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Labour And Employment": 1,
+    "Petroleum And Natural Gas": 1,
+    "Road Transport And Highways": 1,
+    "Statistics And Programme Implementation": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. ARVIND KUMAR SHARMA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 48,
+    "criminal_deduction": 0,
+    "legislative": 44,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 692558771,
+  "total_liabilities": 2318344,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 62.76
+}

@@ -1,0 +1,590 @@
+{
+  "accountability_score": 48,
+  "age": 28,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4161950
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 19000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 23161950,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 97000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 8361753
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 293552
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Insurance Policies 5,72,208 5 Lacs+",
+        "value": 3383444
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 10059018
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 50000
+      }
+    ],
+    "movable_total": 22244769
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5057",
+      "total_assets": 45406719,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 45406719,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "55, Mahavir Villa Mahavir Lane, east boring canal road, Buddha Colony Patna Bihar, 800001",
+    "emails": [
+      "shambhavichoudhary3@gmail.com",
+      "shambhavi.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9667883843"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 14,
+  "dob": "15/06/1998",
+  "eci_state": "Bihar",
+  "email": "shambhavichoudhary3[at]gmail[dot]com,shambhavi[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2999630,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1492360,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 727560,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 601120,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 507598,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4696920,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2737990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 498900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 362820,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 453761,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Remuneration, Rental, Interest and Other Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, House Property, Interest and Other Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹13.91 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 139117954,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 11453603
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Rental Security and Other Payables 30,44,000 30 Lacs+",
+        "value": 5797394
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 17250997
+  },
+  "margin_votes": 187251,
+  "minister": false,
+  "mp_name": "Smt. Shambhavi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 7882046,
+  "mplads_unspent": 139117954,
+  "mplads_utilisation_pct": 5.4,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 133,
+  "mpsno": 5685,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Prokerala",
+      "title": "Shambhavi Choudhary meets Samrat Choudhary",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVdVQmgxUVRHWUtnV1I3aURfajlNcV9xVTJINlFlUmZpUi1UN0RsOUlNcFp2LXJBalJxQWJPektQYll5LWE3Y0xHTTdkUFFZTUhmdllVRGFHdTEyZ1hEZUxrOEpQWDNZdmxweWt3enpPQUlZR2xIUDVTZjZaMTd0N29ub3A2UnRFSmVkNjMwN1l1Y3JTejNUcQ?oc=5"
+    },
+    {
+      "date": "2025-11-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Bihar MP Shambhavi Chaudhary flaunts 2 inked fingers post voting, raises questions",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQlVmZnE3VktURTAwTUxLQk1qYXJsUHJpY3FpNk5lanZzUVREV2haanJMQ2poZnlkNVhvWjlKd3JfajRkeWxRWlA2NjNPMkhsMHVGQWxzWHNxNFo1YWZYUkVYSzZ3R1VNOGRqbnhvTllWYjZPRTVjS3dvanBFXzBORUcxV21XNVhWalM0OGktdzItOVh5T0pYaTdvbDdNUUpFNnhZU3RlWk9JZHBvMXlZXzVtN3E3U0pCeGFrTEFKT2N5VzJuckdETHQyRVMtaFgzekJtNU9iWlgtVzBZSFZaSDhJcmNrQXY4MFJQM190MHphMXdzc1ZZ0gH8AUFVX3lxTE5VSTY5QVFidDVGUEdSV3MyUnV2R21FX3BWTlYxVUZrWW0yamRIclVKZ3dkRTk4amctVjg5dDdNcDZ5X29FbjhzOS1YYnh1V2NPM2NzWE4wSkZ2TWVCM0xBZ2kxejVMY3dYbFBVNHpnRHlMczRZNVdzd0R5dHZBeFBISDZNVE5UWk1SVVpMaUFDclZxQUpmLUlla3JNNkgyYVBuRDRvMTRkNVZHdjREN2hSd3YzcVZXR1VESXduYkRZYy1VNGhrUnkxMkpkVXA4TVJVbXdhNUVPeHpEZUg4aUxBdXhraTU4UDh4Ujk5NkIwZ19oSlhudWFma2w1dQ?oc=5"
+    },
+    {
+      "date": "2025-10-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Shambhavi Choudhary Campaigns for Rupa Kumari #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXhIZVFIbDJxSVlrZjRldG1VelJzR1RFNjFZUkJ0SkJOZjUyV0V5RUdEaFZvTUQ4WXpJZWJIbEtmTHp3TVFSbWg0dllzNzNtcDRlVUhCQ1JyQmtsTU1ZRDFiSENyeWxGR1JzUVdKUEwyM1FqVXdhd05WZUUtcWJEcEhxRFRxWnVRM2RYMjhHcS1Wa212dkZN0gGXAUFVX3lxTFBBeEhlUUhsMnFJWWtmNGV0bVV6UnNHVEU2MVlSQnRKQk5mNTJXRXlFR0RoVm9NRDhZekllYkhsS2ZMendNUVJtaDR2WXM3M21wNGVVSEJDUnJCa2xNTVlEMWJIQ3J5bEZHUnNRV0pQTDIzUWpVd2F3TlZlRS1xYkRwSHFEVHFadVEzZFgyOEdxLVZrbXZ2Rk0?oc=5"
+    },
+    {
+      "date": "2025-09-29T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "IANS LIVE",
+      "title": "LJP leader Shambhavi Choudhary terms Prashant Kishor's corruption charges 'baseless'",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGszZDVqdUpZS2ZGdWxjbkxMc09TcHRBczl0OXNUT01kRy1mdm93NEx0alVidG5mcjdHNGpsZlNXTTB5VG5DZFpwMUZnd0dQcmJ2QU82UmQ3S1d2ZDd4bkh5Y3VFdl9yaTJUc1ViZXBfX2ljMHVnVmkydnZzVzRleGFpYk1Ta3JxcDFsNHlOZFFqa2lQUS1sQ1Y5LTlYMlc3N2psQ1I1OFlpS014Zjc1LXBsQ21EbmF6?oc=5"
+    },
+    {
+      "date": "2025-09-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Meet Shambhavi Chaudhary: Youth Icon, Dalit Voice And Bihar’s New Face of Nari Shakti In Politics",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdU45TEZjNklWLVFnV2FEWWNOcXp2V1RWQ0J0N2tCMzc2NG1JS2JlNnFlQ2Y3NGR4eWx1cE9CTGRtTlRwYVJvNW9OOEJWSC03UXhwUjZzWVdGbUNfbVNtY0dhb0dUb29jcTEzc21xS1hvTUc4TXpOWnZSSzRiSlU2RVlHM2tiYlcxaDhxd2cycmJ4cy0yWUlhR0FkSFFzUE1oeVg2azRYZ2U3dVpuT18yMkxkM0RCaG5MZlVXaU8yOTljTXpaZk1ia054eEY5ZjRkMG91Wlpsb9IB3AFBVV95cUxPWVFaV2VfZXpzTndYOGpSUUdNUjVQZEFqLWxZd25YZ09SdUc5ak1FdEswN25zbUpQZXNoXzdjNDBVZ1N1RGI3RDZ6Mnc2Tm5SMkdjVnlBOGN0UU1vTHA4cEplNEFrTmJVVFNISTNybmFoQVhOZVRWNndRbzdnV01fcWxmX0JZWHBjSGlzS1ZCOVp1bll6bHJMS0xjc1p6N2p5NzhrSUM1WlVWRUVRZUl3OVF1SkI3ejIzZl9QbnhIVUF5SUdOUmV2MFozSDRNd3ZMWENPR1NnSno5MEZa?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 32668,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "LOK JANSHAKTI PARTY(RAM VILAS)",
+  "party_bond_total": null,
+  "party_full": "Lok Janshakti Party(Ram Vilas)",
+  "pc_id": "bihar-23",
+  "pc_name": "Samastipur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180074.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding establishment of the proposed railway station at Kusheshwarsthan in Samsastipur Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Demand for Conversion of Rosera Railway Station into a Junction to Improve Rail Connectivity in North Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to construct RoB on NH-322 in Samastipur district in Bihar as a four lane bridge",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for setting up of Atal Tinkering Lab in every block of Samastipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need for establishment of an exclusive Agriculture Corridor in Samastipur Parliamentary Constituency of Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to provide stoppage of Garib Rath Express (train no. 12211/12212) at Samastipur Railway Junction, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Samastipur Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to establish educational institutions in Samastipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to provide stoppage of Saharsa � Lok Manya Tilak Amrit Bharat Express at Rusera Ghat Railway Stations in Samastipur district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Revival of Ashok Paper Mill, Hayaghat (Samastipur) or Establishment of Industry through a Special Economic Package",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to provide modern state of the art Infrastructure at Dr. Rajendra Prasad Central Agricultural University, Pusa, Samastipur, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishment of an Incubation Center Under STPI Scheme in Samastipur, Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to experdite the Muktapur and Bhola Talkies ROB",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to establish a National Institute of Technology in Samastipur district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to redevelop Railway Mechanical Workshop, establish an electric Loco shed and a new workshop for LHB maintenance in Samastipur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt develop water sports area in samastipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to allocate funds for Khagaria � Kusheshwar Asthan railway line project and ensure the completion of the project in a time bound manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request to connect the villages near State highway 56 to all weather road in Kusheshwar, Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding need to establish Steel manufacturing Unit in Samastipur, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 38
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 190
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shambhavi"
+  },
+  "qualification": "",
+  "questions": 36,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Culture": 2,
+    "Defence": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 3,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "SUNNY HAZARI",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 48,
+    "criminal_deduction": 0,
+    "legislative": 75,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 45406719,
+  "total_liabilities": 17250997,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.97
+}

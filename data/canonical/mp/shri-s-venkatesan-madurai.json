@@ -1,0 +1,560 @@
+{
+  "accountability_score": 34,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 440000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 640000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 382000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 15699956
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy numbers 747147874, 747147875, 747147876, 747147877, 747147879, 747147",
+        "value": 870485
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 14193
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1840000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1090000
+      }
+    ],
+    "movable_total": 19896639
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ZQWQNenPipgUzA4P5RNA",
+      "total_assets": 1811456,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1568",
+      "total_assets": 20536639,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1034,
+  "assets_latest": 20536639,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Su. Venkatesan is a Tamil writer from Tamil Nadu, India and Tamil Nadu State Committee member of CPI(M). Venkatesan is a state committee member of the Party and a whole-timer of the Party. He is the state Honorary President of Tamil Nadu Progressive Writers and Artists Association.",
+    "title": "S. Venkatesan",
+    "url": "https://en.wikipedia.org/wiki/S._Venkatesan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No-4 Harveypatti, Tirupparankundram Madurai Tamil Nadu, 625005",
+    "emails": [
+      "suvetpk@gmail.com",
+      "suve.tpk@mpls.sansad.in"
+    ],
+    "phones": [
+      "9442462888"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/suve4madurai"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/suve4madurai"
+      },
+      {
+        "platform": "instagram",
+        "url": "http://www.instagram.com/suve4madurai"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Uttering, words, etc., with deliberate intent to wound the religious feelings of any person",
+        "section": "298"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Crmp 3596/2021",
+        "charges_framed": false,
+        "court": "Criminal Justice Arbitration Court No. II (JM2), Madurai",
+        "fir_no": "474/2019, D1 Thallakulam (S&O), Madurai, Municipality",
+        "other_acts": "Section 179 MV Act",
+        "sections": [
+          "143",
+          "171H"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 3066/2024",
+        "charges_framed": false,
+        "court": "42, Additional Chief Metropolitan Magistrate, Bengaluru",
+        "fir_no": null,
+        "other_acts": "Case filed by Paramesa",
+        "sections": [
+          "153",
+          "298",
+          "500"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "WP (Civil) 1001/2023",
+        "charges_framed": false,
+        "court": "Honble Supreme Court, New Delhi",
+        "fir_no": null,
+        "other_acts": "Writ Petition (C), Case filed by Jagannath B",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "16/03/1970",
+  "eci_state": "Tamil Nadu",
+  "email": "suvetpk[at]gmail[dot]com,suve[dot]tpk[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4132947,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6550163,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4490490,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1282935,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 748161,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 436537,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income from writing books and Income for MP Post"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹18.1 L (2019) to ₹2.05 Cr (2024).",
+      "headline": "Declared assets grew 1,034% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 1811456,
+        "from_year": 2019,
+        "pct": 1034,
+        "to": 20536639,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 21% of MPLADS local-area funds were spent — ₹11.67 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 116708573,
+        "utilisation_pct": 21
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 209409,
+  "minister": false,
+  "mp_name": "Shri S Venkatesan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 30291427,
+  "mplads_unspent": 116708573,
+  "mplads_utilisation_pct": 20.6,
+  "mplads_works_completed": 26,
+  "mplads_works_recommended": 124,
+  "mpsno": 4965,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-04-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TheWire.in",
+      "title": "Interview | Delimitation, Divisive Politics Were BJP Strategies in Tamil Nadu Polls: Madurai MP Su Venkatesan",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYVRTMnd0UjFZaWE0ZjktaThFUnphVE11U3hmd3ZBRmlTYnRUbWo5alIyeGthM3Bkd0xuMzUtUUdDX29kUzM4bE11T2hKajFFQnZ3QVRBeDFST2w3ZDhzaUVCS1dYSEV6aDVKZEtyNWVvS1VzbmdlYVRpSVNGU1FNdkJNUkttcEpGRmpEYjMweHozTEZVX3cyelpGN1BsbEc0UnpHcUNMUVdjdld3Y3ZkLVJGWEtqM0lKTnZsOHdiSnlvLVlzZTVwaWNHeDNxS0xqS3hPNGloaXdOalRjQVlHZkhod9IB6AFBVV95cUxNUGZReE5Vc21IRXNIOXNtdnAtSEgzSmw3d0Zfckg3U01zb3lHUDFUcGs4R3BibVplSHhNcVFhaUx4VDlFZG1ObGR3d2ZnSTFLTDBBMklySDZRUDJsa08xVDAtb1Z2V2JxZzZNS0owQmF6WWRnMmo2WW5DelJOVW5XcWppa3BrUzVIZjdFZnh1eUNaZ1FWMEZuYTZPcHBEVkZNZlNNSzA0bFc3S3BlSFpYbHEwZHNzQnAzQ2s5OE5TUnZscF9pMDJjdzktS19tR1J6Nkt1VmIwYWZmaEhERFBRUHE3dUIwUXBn?oc=5"
+    },
+    {
+      "date": "2025-11-21T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Non-inclusion of Madurai airport in ASEAN pact shows bias: MP S Venkatesan",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVZNbkNLTTR0MlVOVWEzcXpIRTFIWGdsZnFVRHYwMFA1d2xPN1V0UG1kbEdFYVJNTzk2WEVLbEstVUs5U2thb005N2J3ZVpRWXY2VnRJTUVOajMwZy1FSlJqbC1yOVIyRE9JdUg2MVNncW5ic1NXYjdObmRQSUwyZWhtREw1a0xMdUdXMFJUZFIyNnRGb1ZXY2N2VksySmV6YjJtcWFqV081YWNIRUJOZzFxVHctSzNUM0g2RjZqUWEwTWtKTGpRbFpXVUI4eS11VFHSAd8BQVVfeXFMTWdOQ2JUUFB6NWJFYmRheTR5R195eEJrb0VxT0MzdkpXT0pCaHpwLTUyY0pMMjUyYlh3UHRmc0w1bEo0WEpuNHJDdzFWSHljMk1VME9NcGNiWTM0bndWbnppbUVPYXZtOFB3RUFKdzZTVUVKcnN0ejQ2ZWJTZE5aQXlzWFN5d29fZ0pDR2hHbW5lRU5hZ3NOVkljYkVmMnRNSnMzUUoyMUM5OUw4YzUwRVA1OWwzNnplbV9nMDNIeW9PQjgwY0ttZllpZWFpUmhMQ1VESjNBaHJ5cEYzNGs1NA?oc=5"
+    },
+    {
+      "date": "2025-07-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "CPI(M) MP S Venkatesan receives death threat for criticising PM, files complaint",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXJ0WUpyT0lDeUtPNDdhSEtUSFlHN3ZXUTY2U0Z2MkJsVmtvYjBmZ0F4eEtFZVZwRUI3MThUU21oekxVMjVqM1dWTklxdXpBSmZVSXNpaHBwN2FhNW9QZWE2aUY0UC1waG16YXlEQi1OUHF6MWlsSk03MmRGc3RUcDB6aHM3RzN6U3k3ak43OGFOZ3N4b2djVjBSTjZhQWJaRmVzN3BEOFB6c3JMS0l0QnFWMEdvUXl6X3fSAccBQVVfeXFMTkltb0phR01xeFI0N3NjOVIyUVpXajV2aHZfT3QzNTZxd0pSY0k0ZFBwNC1Gdk5nc19EN2VyUGl0a2c3MG01cFRQdHN5RW50MkdRdUJvX19ZbTJuQU4tVlFRSmRIbzBtd3pIR1gwelhFeTBva2tBaXl1SkRYLWoxWDV6MGhFTTdpUnZ1cjZTWlFic1BiRzB5SEQ2TmN1MVBnQ2FuOW1hUUJDa29hNHg4YVZxcXM4M2NUY0c0NmlBYnh4WUVUejBvZw?oc=5"
+    },
+    {
+      "date": "2025-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "CAG invites private firms for audit: Madurai MP S Venkatesan urges President to intervene",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2xkU2dLTkE1TzFlemxIMFRPcVRTYm4zeVloYmptRU5qMXA3alNxaXZHWkFXTWs5UnRDOHQzSnpYODAzeUhiMV90bHpsVnI1eUw0a2dmX1VPTnprc2JybHdnTFBJRmN6LUJSZ29wTzBnSkJxVTBQcVdKU1Q4WC1Nd3BZRlZqZHY2UVM1UUNvM25EbjZaazF1bUVhTTBUUFRjUWwyLUZrU3hncU9HWXRSTjIydU8zSGlVYm9hYWlkclhWV2FjMFdQRdIB1gFBVV95cUxNZkdQMFhJMEVxcHJBZ1FNWlNJSDRJS1VSUTZnaVFMUTFmVHUzdzdfUHl0UWpCV01ZU3NqaHpseTR4M21FN2NWN2pWZlhYZ3Z1ajNNWU9tUUZoTlFCV0d2UkJxZmFhU01sVml4TXhkYmVNNnF5NnRGcGpxNjRNR2k3UGY2UU5BQlNDa3dvenNtSF9najNwa2xsOE9lWVRsMzZQWnFubFJZOEh2dWtjZXBDSGVITDJ4QWdQbWhJbTNpN2FlQ25pYjU1VHlCSEdfVEFsQmlNVG9R?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Madurai election results 2024 live updates: CPM's Venkatesan wins",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQZFNBdF82V01yMGhKTHdHWnhwVEhKdF9uTE9CaXBrZjgwT1o1ekwwN2wxenl6UTVUMlRfRXpyUmRJYzUzY0diR29kVTdnMEUzenVTeHZKWkQtdzV2VHgtdGhlZmlETVdkalZIZG91SU1UamtoYnF6azJKV09TTjQxSHh3UHVfaktGZXc1RmdNU1RYbzd1Z05FTXNLeGNGak1KWmRsb2NOSlgwNldTdGJOaDZicXB2aTF5ZTFCWlV6a1N0aWlLZUdPd3NoWlBvR3VReFhDX2d2eUJnUGlBdENxWDM3QUU2ZDVkVTUwN1B3WE1uVWtSLUJ0U1NBWXo3N0t1RFg3Y3NEbDdRVk9mbEY4YkROV1R5NVNULXdtSTFERFZieHhPbG94Wlp5YWhPeXVfaXNKX1F4Q2piVVJIdmdMNm5JMNIByAJBVV95cUxQWDZVdXN6cWJCWG04M2llMTJSRTlOUjZweS1pZy1tOFRlT3dLZlFQQXZGa0hsaFBQM2ZkSXdPRHlndHlzaTNqV2xndXFCYjFqeE1teFd0R25OekY4ZGlLYVdpdmQ4dmc3bGFYTmJwOGZCbFctSjdZRmhLZTgxQVdCWUw5X3JvUDE3Z0EyZGhhTHhRaW44MmpydVhWSjUtWGptOW9CdEVEZHNkc0lLMjFTczBUZEdGRlJkcTZ5UjlzbUVYQTRsZ0YzWTUxMVYySGI0VnVwQ3BWVzVtVXpMWjlxbGlYaE4zdHhFaUYzYXg4eUd3RGpIclJScjJHdjVjdTdNeEhtWWFuRkxCVHlIMEJfeGduNHVjRE8yd0xQMDd4bVFlZXNCX3c5N1NBSlhsN3VINENTMUdXR3VwcFk0R256Z0pwTHVzRVY3?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 11174,
+  "notable_record": null,
+  "num_candidates": 21,
+  "party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "party_bond_total": null,
+  "party_full": "Communist Party of India  (Marxist)",
+  "pc_id": "tamil-nadu-32",
+  "pc_name": "MADURAI",
+  "pending_cases": 3,
+  "phone": "09442462888 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180385.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Writer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 66
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to re-evaluate the Madurai Metro rail project in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to provide adequate infrastructure, facilities and staff at AIIMS, Madurai in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Urge that the union govt should cancel the permission granted to Hindustan Zinc Limited for establishing Tungsten Mine at Arittapatti",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding NEET-UG, UGC � NET and NEET-PG examinations",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 99
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/s-venkatesan"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 44,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 2,
+    "Education": 2,
+    "External Affairs": 1,
+    "Finance": 6,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Minority Affairs": 1,
+    "Railways": 5,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Textiles": 1,
+    "Tribal Affairs": 3,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAAMA SREENIVASAN",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 8,
+    "legislative": 57,
+    "mplads": 38,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 10
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 20536639,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.6
+}

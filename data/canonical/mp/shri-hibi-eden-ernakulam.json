@@ -1,0 +1,890 @@
+{
+  "accountability_score": 31,
+  "age": 43,
+  "assets_2019": 7908467,
+  "assets_2024": 34000696,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 18800000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2100000
+      },
+      {
+        "category": "Others",
+        "value": 1000000
+      }
+    ],
+    "immovable_total": 22900000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 55000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7045471
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 671825
+      },
+      {
+        "category": "LIC Policy No 77899xxxxx Sum Assured Rs. 1500000/- 8,73,566 8 Lacs+",
+        "value": 908580
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1195000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1224819
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11100696
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "Kerala 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bP9SjNV3JQignzkqbCUG",
+      "total_assets": 1736308,
+      "year": 2011
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bP9SjNV3JQignzkqbCUG",
+      "total_assets": 7908467,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3093",
+      "total_assets": 34000696,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1858,
+  "assets_latest": 34000696,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Hibi George Eden, commonly known as Hibi Eden is an Indian politician from Ernakulam, Kerala and member of the Indian National Congress. Hibi is the son of the late George Eden, a long time member of Parliament from the Ernakulam constituency.",
+    "title": "Hibi Eden",
+    "url": "https://en.wikipedia.org/wiki/Hibi_Eden"
+  },
+  "charges_framed_count": 8,
+  "committees": null,
+  "contact": {
+    "address": "Ambattu House, 39/1319D, George Eden Road, Kaloor Ernakulam, Kerala, 682017",
+    "emails": [
+      "hibieden@gmail.com",
+      "hibi.eden@mpls.sansad.in"
+    ],
+    "phones": [
+      "4842400567",
+      "9447147091",
+      "9946064444",
+      "7503484369"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Yes (Separtate Sheet Attached)",
+      "party": "Hindu undivided family or trust in which the candidate or spouse or dependents have interest"
+    }
+  ],
+  "convicted_cases": 2,
+  "criminal_cases": 10,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC No. 8/2021",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC No. 6/2021",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 10,
+    "ipc_summary": [
+      {
+        "count": 7,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 6,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 6,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 6,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Joining unlawful assembly armed with deadly weapon",
+        "section": "144"
+      },
+      {
+        "count": 1,
+        "description": "Being member of unlawful assembly",
+        "section": "142"
+      },
+      {
+        "count": 1,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 4/2024, Dated 02-01-2024 of Palarivattom Police Station",
+        "other_acts": "Section 117(E) of Kerala Police ActCognizance not taken by the concerned Court, No Final Report has been filed",
+        "sections": [
+          "143",
+          "147",
+          "283"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 1073/2021",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": "Crime No 492/2021, Dated 21-06-2021 of Harbour Police Station",
+        "other_acts": "Sections 4(2)(E), 5 of Kerala Epidemic Diseases Ordinance 2020",
+        "sections": [
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 1041/2021",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": "Crime No 425/2021, Dated 07-06-2021 of Harbour Police Station",
+        "other_acts": "Sections 4(2)(E), 5 of Kerala Epidemic Diseases Ordinance 2020",
+        "sections": [
+          "269"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 759/2020, Dated 13-10-2020 of Fort Kochi Police Station",
+        "other_acts": "Section 4(2) ( E), 4(2) (J) of Kerala Epidemic Diseases Ordinance 2020 and Section 118(E) of KP Act, Cognizance not taken by the concerned Court, No Final Report has been filed",
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "149"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 67/2022",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": "Crime No 484/2020, Dated 22-06-2020 of Kannamaly South Police Station",
+        "other_acts": "Section 5 Kerala Epidemic Diseases Ordinance 2020",
+        "sections": [
+          "142",
+          "149"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 1036/2021",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": "Crime No 346/2019, Dated 20-04-2019 of Cheranel Loor Police Station",
+        "other_acts": "Sections 4(1), 6 of Kerala Public Ways (Restrictions Assemblies and Procession) Act, 2011",
+        "sections": [
+          "145",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 79/2023",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": "Crime No 295/2017, Dated 09-02-2017 of ET North Police Station Ernakulum",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 65/2022",
+        "charges_framed": true,
+        "court": "Before The Special Addl. Chief Judicial Magistrate Court (Case Relating to Offences Against MPs/MLAs in The State of Kerala)",
+        "fir_no": "Crime No 2811/2016, Dated 05-12-2016 of Central Police Station Ernakulam",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "19/04/1983",
+  "eci_state": "Kerala",
+  "email": "hibieden[at]gmail[dot]com,hibi[dot]eden[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1200000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1250700,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 689650,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 916350,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 300000,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 454010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 386470,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 345470,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 297000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 260000,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Assembly Allowance and Perquisites"
+      },
+      {
+        "person": "Spouse",
+        "source": "Professional fees and Agricultural Income"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹17.4 L (2011) to ₹3.40 Cr (2024).",
+      "headline": "Declared assets grew 1,858% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 1736308,
+        "from_year": 2011,
+        "pct": 1858,
+        "to": 34000696,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.23 Cr between affidavits, while declared income across 5 ITR years totalled ₹43.6 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 32264388,
+        "declared_income": 4356700,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.41 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 124127549,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "8 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 8,
+        "convicted": 2,
+        "pending": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4454363
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4454363
+  },
+  "margin_votes": 250385,
+  "minister": false,
+  "mp_name": "Shri Hibi Eden",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 22872451,
+  "mplads_unspent": 124127549,
+  "mplads_utilisation_pct": 15.6,
+  "mplads_works_completed": 15,
+  "mplads_works_recommended": 99,
+  "mpsno": 5125,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "P.C. George, Shone took contract from BJP to create Christian-Muslim rift: Hibi Eden",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa01QeFRuQ0Y3QUlFcGN4TTlDY1FxZXYxcEExVHA1THFvakc5eWtyZEFKRnlkOEdLakVUVE5vQnp4TlpnWkIyRVNLX3doeEVlaFdvc0pOVEJIbUtQdlNnZ1o2WWVkcDBnUGw2cWZGdG5YekxwWS1rMjRBMkY4MVl0bVplR3pVZnVtNUJCNGd0TjZ6NEJBd0VSdGhEb3hnSFMzOEtaZ05WOVRtYlRDN0ZXbUdRLWtrcmdudm9wcmFOVC0zbVdjZWIzWXNDTXFfRDc2bHU5NTRPQzlNYXZJcHNB0gHmAUFVX3lxTE5lN3ppbG9jMVVJZ1BnUGVZTWptdG1Md0JjdGVPVS1CZnBlY1JPVDI4TWdyMW93OFE1aVhqRE90VDRja1B2MnhKRGVBTmlYUjExRWtvVnRJcEZVTDdpMEFzc251TFhJVkJNQW5rWHBMd2ppaTZfNlB4bFk1MFBuVDF6VlVucm5mUTRmcGoySFBtQzBNbi1sY0l0d3l0MUhhd2lXa196NXhfaGNwbF8wUTNkNVJpcDQ3Mzc3Ml9DbVpkMTZkUlJWd3dpZ1ZPd29BMDB6Q084SGZzOGpCYXg2UTU4dUV1Tl93?oc=5"
+    },
+    {
+      "date": "2026-04-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "Hibi Eden MP slams PC George, Shone, accuses duo of executing BJP’s ‘communal quotation’",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0pLelZJcWpQZWFuTU56ekRCODBwZmxwSUdNbklwRGhSaVRCQVlwUHk1YVZTLXc3Tk45N2ZGZWpLZkdPM3lpaTVKRnZCSVRxc2JSbjNkSjdobUMwQ2xxWWgtUXY2blZxSjhyb3FRelJUZXJzcEJmT1EweG5rWElGRVR0N0VNV0dLOXNkcTNCdDNrdG96dUVXcjFnZWxraUhVQkw2cklLalBTTkk4aVdKRdIBsAFBVV95cUxOY0pLelZJcWpQZWFuTU56ekRCODBwZmxwSUdNbklwRGhSaVRCQVlwUHk1YVZTLXc3Tk45N2ZGZWpLZkdPM3lpaTVKRnZCSVRxc2JSbjNkSjdobUMwQ2xxWWgtUXY2blZxSjhyb3FRelJUZXJzcEJmT1EweG5rWElGRVR0N0VNV0dLOXNkcTNCdDNrdG96dUVXcjFnZWxraUhVQkw2cklLalBTTkk4aVdKRQ?oc=5"
+    },
+    {
+      "date": "2025-10-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "Hibi Eden alleges dubious business deal in Kerala linked to Messi’s cancelled match",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2ZqSDVQbEdMRlpjSHZ5bUFXdXUyM0ZLZkdVMWEwcmRiNWpFN2luVVhpNVRoZUtlcVpkQXpiRnVkZm1YRXRjNVRnbzFUWFdIekZUdDNKd1l6Qi11VEQ3Qy1fQ0xEMHVwWWRBeXlhc3NFLTVUYnNuMU9RZ1I3QW9zZ1hVR1VBR0kzZGowX3ZXTi1YcEVkYTltT3RnSm01azBYbm1SMWwyUDBGQW1EYkZLMldLbnlpLWZXLVNWX2FYbk1JWVBWLXJXTDZGdlFJZ9IB0wFBVV95cUxNSElLMVIzVDNaYnhBamZOaHNrSms2bWx1VVQxMWdoWi0yNzhhU28tc19uekxiSGJWLVBITkRLLVowblVJSGtld2pzT1ZEM29WNEkxV1JGX3Zib29GaTFNTzB5b29JVkppdGRWNFpSX0UwVTB1YnNtRXlJX3FHOG9oVk5KdnVCR2xIZGF0eDhfUVlZV0pNMS1BM0VlR09LLWRZSHdQRnFHbzZBR2pVSmdBUnBMcGlCdFVBUVRQbXFZV1VhMHBWWVl5SXgzWlFoNXF5MWhn?oc=5"
+    },
+    {
+      "date": "2025-10-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "Shady deal behind Kaloor stadium renovation, alleges Hibi Eden",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTZDaXI1YzBtUU9PS2g5c3NQVmtFQTVtMVNvVEJKSTRNQ29RS3czMnRMVzRFWmxva2tKYW5mTXpQcy12Q2tVNk9ZOWpOSmpTMzNiR3JueWZIMU1sOXNqcjBEbHRTRk0yRWRMU1d6VFBXM1dRcHl4V2stMUdSWnR3NXk2UGtrUHlJMHJTNjJvcDlhR1FzRnBjbUJjQUpzc3NaQ0EzalphUHRQRXNXSmdsZGl3aHd1TXAxT3pj0gG7AUFVX3lxTE45NkNpcjVjMG1RT09LaDlzc1BWa0VBNW0xU29UQkpJNE1Db1FLdzMydExXNEVabG9ra0phbmZNelBzLXZDa1U2T1k5ak5KalMzM2JHcm55ZkgxTWw5c2pyMERsdFNGTTJFZExTV3pUUFczV1FweXhXay0xR1JadHc1eTZQa2tQeUkwclM2Mm9wOWFHUXNGcGNtQmNBSnNzc1pDQTNqWmFQdFBFc1dKZ2xkaXdod3VNcDFPemM?oc=5"
+    },
+    {
+      "date": "2025-08-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Air India flight to Delhi held up before take off: MP Hibi Eden says plane skidded on runway; officials d",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaE84SzRSWlNGaDRPRkFYNEd6SG5qSmZZUU02dEZyQUh5RWJ1TnZPVjFBNzRFUEs2VmtWNEVqY3ZxN0V3WFlydGFUeFY2YVMyY3B5RDUzQkU0aW5FWmkzYkZCczE3b0NVYklVd0FLRWNXLUl3THB2dHBfa2czLXZCNEljMk1wY0N3QUJ4N2s5UGpBd1RsN09aNlJSX0o4TmtTeVdRN3k3aEF4ZWdZdzRNSTFLR2x3dklpY2RPVHp6bkZMa1g2SjJ2b3pCMHktbmltVFF0ZlVVa2lYUWVZS0ZkclNtN1VhYjc4dGhWZ0FULVpneWplSlJ4V09GSG1lMGl5bllFQ2hNRVFVQTQzTG9na3UyU1nSAZoCQVVfeXFMTmNnZGRwUEUwVU9VdDVzUjdBZjJCUVZHc0dtcWFqckVmV3RXS25GdmJOV2dFTlNTb0cyVjdHZWZURFlld25CTTlhblJEQ2Zfc2gwY05tQm5Bcm9FejlqS2JGb2VJejBLVUp1ZVptMHdFNW1HaDlwaEdXdXdKY05RdDB0dXYtSEhKMG5rc0x5OC1kRlVjVjdHTTVtSVdYbVg4OHlkOUdJY19lMFVUZjZYSmIwXzI1bEI2MUJNWHdwTFM1dF9URkJxR0NyMTE1Qmc1WmtuOG5MLUlldE9oanVvZXZSOFNTQzh0SGpiNkh6RUhOSjQxQmUybXBFWjVOSHk4azJvNU93NGFFZUpFc3dCZ3ZqOU1DbUZWRTBn?oc=5"
+    }
+  ],
+  "non_serious_cases": 10,
+  "nota_gt_margin": false,
+  "nota_votes": 7758,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-12",
+  "pc_name": "Ernakulam",
+  "pending_cases": 8,
+  "phone": "Tel: 07503484369 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180198.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 83
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding the issue of gold theft scandal at Sabarimala Temple, Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to constitute an expert Task Force to study the Air Quality Index and take pollution control measures in Kochi in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to put in place a policy framework under Reserve Bank of India to address the threat of digital assets scams and other fraudulent activities in the Country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding need for compensation to victims of maritime disasters off Kerala coast and to ensure comprehensive regulations to effectively address such tragedies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to address the stray dog menace in Kerala and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to waive loans for the flood and landslide victims of Wayanad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to include disease Lupus under the National policy for Rare Disease",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding hardships faced by fishermen community",
+        "type": "LS - Calling Attention (Rule-197)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to construct underpasses/overbridges on the stretch of National Highway No. 66 from Edappally to Moothakunnam in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Demand for CBI Inquiry and Compensation in AWHO Housing Scam Affecting Army Personnel",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding situation arising out of offshore mining activities along Kerala coast",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to govt. to take immediate action by introducing legislation or amendments to safeguard the rights of gig workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Minimum Wages and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request to Stop Offshore Sand Mining to Protect Fishermen and Coastal Ecosystem",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urge upon to govt to give minimum wages to the Anganwadi Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to ensure sustainable management of marine resources and protection of interests of coastal fisherfolk in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the enhancement of the minimum pension under EPFO",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to take necessary action to inquire into the death of Anna Sebastian and ensure well being of the young professionals in the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to take comprehensive measures to protect the river Periyar in Kerala from industrial pollution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon to the govt. to decommission mullaperiyar dam and build a new dam which ensures water for tamil nadu and safety for kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon to govt. declare a special package for vilangad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. reintroduce the subsidy for the poor fishermen",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to minister to have a design to protect the major cities of kerala that are affecting by widening of the national highway work",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Construction of a six lane elevated Highway on NH 66 (Kasargod � Thiruvananthapuram",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt remove restrictions imposed by the USA since 2019, citing the need for Turtle Excluder Devices (TEDs) to protect sea turtles",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding approval of Coastal Zone Management Plan (CZMP) in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Issue concerning NEET and competitive exams in the country",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 45
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 108
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/hibi-eden"
+  },
+  "qualification": "Graduate",
+  "questions": 48,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Development Of North Eastern Region": 1,
+    "Education": 6,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 8,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 2,
+    "Minority Affairs": 1,
+    "Personnel, Public Grievances And Pensions": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Prime Minister": 1,
+    "Railways": 5,
+    "Road Transport And Highways": 3,
+    "Social Justice And Empowerment": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "K. J. SHINE TEACHER",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 69,
+    "criminal_deduction": 20,
+    "legislative": 96,
+    "mplads": 29,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 20
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 34000696,
+  "total_liabilities": 4454363,
+  "wealth_pct_increase": 330,
+  "winner_vote_share": 52.97
+}

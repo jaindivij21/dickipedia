@@ -1,0 +1,490 @@
+{
+  "accountability_score": 49,
+  "age": 55,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 6000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14117755
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6110701
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 26228456,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 81900
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 18442984
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 60000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 11588xxxxx 2,00,000 2 Lacs+ LIC Policy No 113698170 1,00,002 1 Lac",
+        "value": 1100002
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2460000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 24144886
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Tripura 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ttvRM5HdTQFjC2iokM2",
+      "total_assets": 21393539,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1156",
+      "total_assets": 49923347,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 133,
+  "assets_latest": 49923347,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Biplab Kumar Deb is an Indian politician from Bharatiya Janata Party serving as Member of Parliament from Tripura West. He served as the Member of Rajya Sabha from Tripura from 2022 to 2024. He also served as the 10th Chief Minister of Tripura from 2018 to 2022. He was the first Chief Minister of Tripura from the Bharatiya Janata Party. He was the member of the Tripura Legislative Assembly from Banamalipur constituency from 2018 to 2022. He was also the president of the Bharatiya Janata Party's Tripura unit from 2016 to 2018.",
+    "title": "Biplab Kumar Deb",
+    "url": "https://en.wikipedia.org/wiki/Biplab_Kumar_Deb"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Om Apartment Dhaleswar Road No 7 Agartala Tripura, 799007",
+    "emails": [
+      "biplabkumar.deb@mpls.sansad.in"
+    ],
+    "phones": [
+      "9968410696"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "25/11/1971",
+  "eci_state": "Tripura",
+  "email": "biplabkumar[dot]deb[at]mpls[dot]sansad[dot]in,biplabkumar[dot]deb[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 530230,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 668330,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 465950,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 416060,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 373010,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1042620,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1114820,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1792410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 959080,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 845390,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary and Allowances"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pension and Interest income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹2.85 Cr between affidavits, while declared income across 5 ITR years totalled ₹24.5 L.",
+      "headline": "Declared assets rose 12× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 28529808,
+        "declared_income": 2453580,
+        "itr_years": 5,
+        "ratio": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.14 Cr (2018) to ₹4.99 Cr (2024).",
+      "headline": "Declared assets grew 133% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 21393539,
+        "from_year": 2018,
+        "pct": 133,
+        "to": 49923347,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.14 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101387092,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 611578,
+  "minister": false,
+  "mp_name": "Shri Biplab Kumar Deb",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 45612908,
+  "mplads_unspent": 101387092,
+  "mplads_utilisation_pct": 31,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 26,
+  "mpsno": 5671,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T17:18:29.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "BJP Tripura MP Biplab Kumar Deb on voter list revision claims",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUJyMl81dWROQTdhN1lSaHcxOXRPN1JTNmU3X05tbW1oTlpxTTQwazlRTkdVcHVCa29ud3p3WHFOU0lWM2xTNzVUUXVZRG1XSVcyTDVJdUhaMmdUY0V1NVpCWFFndjJXQzV3SVVJamNBZ0IxSUxZQmJYV3MzZER4RmI1cllfeHNsQ3FWYmpoazdJRUlBM2VwTVM1TjVJcWpGR2JRYXUxTnc2V05h?oc=5"
+    },
+    {
+      "date": "2026-05-23T13:54:31.000Z",
+      "flagged": false,
+      "publisher": "Tripura Chronicle",
+      "title": "“Party ideology is supreme,” says Biplab Kumar Deb at BJP training camp",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkdhN3RCcmx6MUxrYU1IVklZOEVlckFNZkFvV1ZzamNkQkVsWTNSR0ZmWThHRzhrOWpkZmppOXNhaHQtOG9uaDg4RWdpQlpQejN6Qm1ObTRMT1lzWTFzVk1LNDNHR1pHOEhmNjN3VTV5Tk80SEVwYUFCdHBwZnc5X3Nwd01DbTlHYjhIS3lsb2gxUjNGSTlPTHl1WTdod1lkWEhxU2hCeHNVd0dC?oc=5"
+    },
+    {
+      "date": "2026-05-22T10:44:50.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "Tripura MP Biplab Kumar Deb Thanks Railway Minister for Regular Train Approval From Agartala to Rani Kamalapati",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTV9wRFB0Nk94MnkwT2Q5V2hMekZUdTd3TU5nWDAzVF9GMmlicG1iRWtWUmZ2V1Z3blVGUkZqX2tOWFNMdUw5emNBTlhrNEx5WDlTRG90VXNpZ1FxNTQzbXBoSmlQNFVYMmtTTDE3ZUpKTnJOUl9WekZKbmw2clNJWnZUV2lZWjJFN3ZKVUE2QXRHUk81bkhGZTR4ME5OYzdsdjMyR3BvbGI0UlljWk5vTXYzc2RVSzE1bFFJaEVsN2hWdGU0UGRDTUhfc2dBMWZ4TTI5MldaVzNhWTBwWDFTbzZ3?oc=5"
+    },
+    {
+      "date": "2026-05-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "BJP MP Biplab Kumar Deb leads parliamentary delegation to Bhutan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjlSc1BDV1ZkNmk2ZE9DWEl6SHlzWjNLT1U5M2pfSmRMSDJuN1BKTmpueXRwTG81a0Z1empxdlYwZmxhMkdmWjdzdzNGV011MGd2UUVuclZhVXV0aHFBZzU3bldnX3BFdVFFeG53Xy1FSUJPUklzVng4YlZjbFVKU2hTOG15NnpmVFozSm9QYU81MWs3MWVsNXJQRC11bjl3MjV4R0hGWG9TUFVQRjVRWkVwbFQtcnBM?oc=5"
+    },
+    {
+      "date": "2026-05-05T14:20:27.000Z",
+      "flagged": false,
+      "publisher": "Northeast Herald",
+      "title": "Former Tripura Chief Minister and West Bengal elections co-in-charge of BJP, Biplab Kumar Deb was accorded a rousing welcome at MBB Airport in Agartala on May 5 after landslide victory of the party.",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNZ21PX0g1WVNFOG1ocEFMNTZnRVlWbUctZnVXMWVMSEFYZk5CNk5sS1E1N1M4OFhpT0lWTnhteDdjZmdzQVZmZWs0OC1YX3pOdDRnYzZGVTUwUXI3Q0FLbGNab3BwQ0RsNWx6OF9hUGljcmljVUgtc1c2bGlOZjV0bWJTa1RBclNVWTJ5UDRwN01leEdrQXo5WXgxMFRxS2pmN1RZRDB3OGdkQUdvREJ2RmY1T3dSaEhYcF9CNUJ4SnBCdTVOMmprWlFBWF9QTFIxdFpWOUdCQ1N1U1FpTEtoeFZNQlNhaEVCRFlrcHpMWUJNZDVsVm5TM255WXhIVXFadEhuaDFoSHdhU0xJbDBXaVhPVDg3TU9GUXByUkV1V052WXFDdTRzWGhtMExRblFnc19OMkdHNFFBQ3F3bHVIYVVlUDRzRV9iTnVvVmR3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14612,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "tripura-1",
+  "pc_name": "Tripura West",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180415.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 82
+    },
+    "debate_titles": [
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand the MBB airport as international airport",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for Development and Preservation of Unakoti Heritage Site and Relocation of ASI Office to Tripura",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Establishment of IIT or IIM in Tripura to Boost Education and Employment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to minister to give contract for the construction of NH-8 road of tripura on the bid of merit basis and form a committee of NHIDCL to look after it",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to minister to start the immigration check post at MBB airport as soon as possible and declare it as an international airport",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand for additional funds for Mata Tripura Sundari Temple Development",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.5,
+      "value": 9
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 116
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/biplab-kumar-deb"
+  },
+  "qualification": "Graduate",
+  "questions": 40,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Development Of North Eastern Region": 3,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 3,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ASISH KUMAR SAHA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 37,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 49923347,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 72.85
+}

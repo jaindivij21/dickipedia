@@ -1,0 +1,676 @@
+{
+  "accountability_score": 53,
+  "age": 44,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 9000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 22500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 70800
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7787403
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 563082
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 5786138
+      },
+      {
+        "category": "Nil",
+        "value": 9077000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 515000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2761695
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 26561120
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rKuG7uhdBYpdDdZYp8",
+      "total_assets": 5473199,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rKuG7uhdBYpdDdZYp8",
+      "total_assets": 13727834,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=260",
+      "total_assets": 49061120,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 796,
+  "assets_latest": 49061120,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gaurav Gogoi is an Indian politician from Assam who, since 2024, has served as the Deputy Leader of the Opposition in the Lok Sabha from the Indian National Congress, and, as the Member of Parliament for Jorhat Lok Sabha Constituency. He was elected President of the Assam Pradesh Congress Committee in 2025. He was the deputy leader of the Congress Parliamentary Party from 2020 to 2024. He represented Kaliabor in the Lok Sabha from 2014 to 2024. Gogoi is the son of Tarun Gogoi, who was the Chief Minister of Assam from 2001 to 2016.",
+    "title": "Gaurav Gogoi",
+    "url": "https://en.wikipedia.org/wiki/Gaurav_Gogoi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "55 Ajanta Path, Beltola Survey Guwahati Assam, 781028",
+    "emails": [
+      "gaurav.gogoi@mpls.sansad.in",
+      "office@gauravgogoi.in",
+      "gourav.gogoi@mpls.sansad.in"
+    ],
+    "phones": [
+      "3612361112",
+      "9435706522",
+      "9013869955"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+        "section": "333"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "55/24 PS Basistha Kamrup(M), Date- 23/01/2024",
+        "other_acts": "Section 3 of Prevention of Damage to Public Property Act- 1984",
+        "sections": [
+          "120(B)",
+          "143",
+          "147",
+          "283",
+          "353",
+          "332",
+          "333",
+          "188",
+          "427"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "04/09/1982",
+  "eci_state": "Assam",
+  "email": "gaurav[dot]gogoi[at]mpls[dot]sansad[dot]in</br> office[at]gauravgogoi[dot]in,gourav[dot]gogoi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1320250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1520520,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 830560,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1187730,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1254859,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 5631650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4947900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4607490,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4546990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4463918,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income from salary Lok Sabha and Income From FD and Saving Bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income from salary OPM India Pvt Ltd and Income From FD and saving Bank Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "Income from FD and Saving bank"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹54.7 L (2014) to ₹4.91 Cr (2024).",
+      "headline": "Declared assets grew 796% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5473199,
+        "from_year": 2014,
+        "pct": 796,
+        "to": 49061120,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹4.36 Cr between affidavits, while declared income across 5 ITR years totalled ₹61.1 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 43587921,
+        "declared_income": 6113919,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 21% of MPLADS local-area funds were spent — ₹11.56 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 115569898,
+        "utilisation_pct": 21
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 144393,
+  "minister": false,
+  "mp_name": "Shri Gaurav Gogoi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 31430102,
+  "mplads_unspent": 115569898,
+  "mplads_utilisation_pct": 21.4,
+  "mplads_works_completed": 18,
+  "mplads_works_recommended": 452,
+  "mpsno": 4788,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-28T05:52:49.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Rahul Gandhi's trusted lieutenant Gaurav Gogoi loses from Jorhat by 23k votes",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYW5JTkRaTS1VcVRzWDE5Y2VqNmJjYTYxSnp2SFpOV1BCSHBQajNQX1lsUTliR2ZtYUxHVVEtTGgtUFhwSlozYlFaTUhYTlhKS2V6eWVqaXRaNnhVN2hfOHB1LXpaYk9SRkxLbEZpaWx5czMtaXZkRG9vWm9oZU02azRhRkJjTUQ1OVFxc2UxRzdpMG56UGpfaVNaRUdMclg2andsV0ZRUkQ5azl6eFRZRVNaOTZIS0tBeHhWc2tqcHAxR1ZhVkhSaGJ5QU1ySW1WbmcwR04xUVlBUnYt?oc=5"
+    },
+    {
+      "date": "2026-05-27T11:23:44.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Assam elections: Huge setback for Congress as Gaurav Gogoi loses in Jorhat by 23,000 votes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRW42eWJfLWYyazJISHhVTnZXdDFyLWtUTl9TZy1ENXNDUlFDWFFJdUUyVlVTOFZOTG14clVOZ0RHUUNlLUw3MjMzaVFNUEV6TWxJakwyd0hmVlpQMGJQemZYWUJxUEktRExCX3Z2bnV3U1FGd2FXdXZzM3FaMnZVMkFESGF0UDZqd01za2VmRXlWT1hJbTVtNnVhZ21QaEJaWENST1NFa0pwRjI5YzZOOWlZeVNZalZKRmhMemxVbi1UOW9nR1pCZEMtLUZxb0JCc2VTUw?oc=5"
+    },
+    {
+      "date": "2026-05-26T06:53:41.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "‘Criticising Jorhat flyover led to embarrassing defeat’: Himanta’s swipe at Gaurav Gogoi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXJHdmMyWjA3STRsZVN0MlhaOWg0OFpuZEJUR1p3YUVWVHBWOXpZUVluZEtKb19mbHAtbnkyRTR4dnVhNGIxNWxkd2prUG1GVURvazZfY1daNWQ4T0s3bGtvZDVzUC1XUkpBbmFrQ2dtT0ZrM0l2X1dkaU5XMFZkc1BZZm4wNmF1a3NFWGN6dzYzX0hEYWZnSmM3dVpVVXpYV2t5ZXVZME41N3VUTXFtcS1GRGtTNnlIYzdZYmd6OVNKSDQ4RXhpeUt4WWV1X2lsbHc4bDY1YTlJUmvSAeABQVVfeXFMT1NNd3JSQ2J4NmJDaFlmbVBTaHBiMGY1UzNIT1NqMFl4OXJYclpPeFFKQl9Nd0l2QzJQeGpMdVltSFN1enZPclFNa0d6OS1xNE1mZmE1MjB4TjNLR0oxZmktQ0lsWDduWEUxa1pGYkU3YUNVbzJYLWlFc0JhUkUxZFI0YzhGU0laV1VBVUZmc1Vabnp1UFNyWnNjMjhkbUJreXRpclZKX3dzZkVlUHhoblg0WUJ2V1JDWDVXRlFsNzJQTlZrc3h3SGhQOHBWempnQmtYd2pqbXZvUXZvYkRjODA?oc=5"
+    },
+    {
+      "date": "2026-05-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "After Historic Lok Sabha Win, Why Gaurav Gogoi Lost In Assam's Jorhat To BJP",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdks2enJIYjJ0WGdMSWRpcFZvWGJXWFZGVC1HTjZIWUYwaW1xdG9QdkJaUVMtNUdXNEhrc1JpRnhadHV1bkpUUWhleUc3WXlIelA4R1ozdUtQRUdZWUNkYWp6MzNxMnVpUzdfWHpfbWtJc2hmNlhHSkZWMkRvYzhhN2ZXQ0g4U012UmNsMUNnOGlGU3ZCbWhxaHRPT0YxbkthVThFYkxPUC11RWdn0gG0AUFVX3lxTFBfYnpIYUlER2FULWV5Zk8yRGdkR2o1OFJJWHlxc3haWHNyUFVzcGNYRmZVZ1g1aEpYTlNmNkxzUm10b0lmZmpSaUhMeld4MVBfeU95UWRjakZYWEltY0ctQ0lXejZiaGNLRC1lU2JGdDVHN2xmOFk3eHlnUzc4bjJiMWFlejNRVGxvdVhzcERuVzVyUmlrSk1BZ0h1Zk43UFBBLUV3UnJYN3JVdVVtUGRlR3EtbA?oc=5"
+    },
+    {
+      "date": "2026-05-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Why Gaurav Gogoi's Jorhat Defeat Signals Congress's Deepening Crisis, BJP Dominance In Assam",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVlhxNmhXR1QtTzBfVWR4T1V5SFNvXzh6VjZ6M0g4aUtLeE56SWJUTGMtU3h2ZXRvYkx4dmJLeWowUnlJT1dKSzBLTjdwd2Z2Q1JjNFo4dFR5T1g0bmJaeUc4RlBTX0Q0ZlpHdHNJbl9QN3ZJR2Z1SkJkeGRBM2Y3ZDd4VTJvSHI4b3pVWHFWT1JSb1NPaHBwbUpiQkdwYmtzRVF4d2d4RmRZb1M4Mjl3aERoSmtnd0xyRTJZZklwS3J1Umtqd2xGU0M3TzRwTDRNMUdWN0I3WFlteFFKUFJLYnp6MU5aY20wRFlrZXRQUEF1bHRZZWFKbkJ5eWR5Mzc4b2trMm1UbEtfeE1a0gGSAkFVX3lxTE1NcXAyb0dtYlRjalVPM2hGYU5Tc2ROeFp1MmZxc1lmRlJWMzVGRWF1MXBuNWttSU9xb1VEVTdMYjZFQ0NpZU9sV1RQYjllWHRSQ3BRQWlTZmFoM0EwcnRLcm1UWWRCYlNycTJ5S3lLdUctRldUUFI2dG95SmFsZ3VrRE5iZS1pMmtFM2xSZnptMWR3WDZXUkxjUHBfUHY1WU9aUWEzNENweXRlbi1tV3U5ZW42M3JuLVRIbmNVUnVfdUEyLXdoS19QdXlPSDZVWC1vX3NEMUp4X2cxSVE2SUY0TF95cjZzTWZJUklKMHBVbzJvcGVuLTBUenpLQWNFYjBmd0wxWG9IS25yYTUyQmdNekE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14555,
+  "notable_record": null,
+  "num_candidates": 4,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "assam-14",
+  "pc_name": "Jorhat",
+  "pending_cases": 1,
+  "phone": "09013869955, 09435706522 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180032.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 78
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding problems being faced by the small tea growers in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Appeal to Clear Pending Payments Under the Jal Jeevan Mission in Assam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to give the hightest civilian honour to the late Jubeen Garg",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding alleged transfer of tribal and community owned land in 6th schedule areas in Assam to private companies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to strengthen rail, road and air connectivity for regional development in Barak Valley, Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for a Parliamentary Debate on the Mental Health Crisis Among Youth and the Impact of Social Media, Academic Pressure, and Toxic Masculinity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Expedited Completion of the Bridge Project Connecting Majuli Island in Assam and Inquiry into Project Delays",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding delay in passage of the Constitution (125th Amendment) Bill, 2019",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Concerns Regarding China�s Construction of a Dam on the Brahmaputra River and India�s Water Security",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to set up a Special Investigation Team to investigate into illegal mining operations in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need for comprehensive measures to address the health issues caused by pollution in Delhi and other parts of the county",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Opposed the introduction of the (i) The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 and (ii) The Union Territories Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Condolences on the death of tabla player Zakir Hussain",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding situation in Manipur",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request from govt to Develop a framework to grant ST status to the Tai-Ahom, Moran, Motok, Koch-Rajbongshi, Chutiya, and Tea Tribe communities without infringing upon the rights of existing ST groups",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to expedite construction of bridge connecting Jorhat and Majuli in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to enact the Constitution (Scheduled Tribes) Order (Amendment) Bill, 2019 for inclusion of six ethnic communities of Assam in the List of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Demand to govt that the North East Frontier Zone should come up with a criterion that North East youths get priority in terms of employment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to central govt to seek reports from various capitals and states of india as to what kind of preparations are being made when heavy rain occur, be it in the mountains or urban areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding train connectivity between Jorhat and Sivasagar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt to issue a gazette notification about the 18 month programme of D.El.Ed.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.4,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 128
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gaurav-gogoi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 45,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 2,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Development Of North Eastern Region": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 3,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 6,
+    "Labour And Employment": 3,
+    "Micro, Small And Medium Enterprises": 1,
+    "Panchayati Raj": 2,
+    "Ports, Shipping And Waterways": 2,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "TOPON KUMAR GOGOI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 62,
+    "criminal_deduction": 6,
+    "legislative": 85,
+    "mplads": 28,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 7
+  },
+  "serious_cases": 1,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 49061120,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.04
+}

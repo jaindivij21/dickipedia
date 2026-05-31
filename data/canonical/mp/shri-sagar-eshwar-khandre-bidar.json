@@ -1,0 +1,380 @@
+{
+  "accountability_score": 15,
+  "age": 29,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2060000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 111087563
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 128647563,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 250000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2636367
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 40000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2800000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5726367
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3793",
+      "total_assets": 134373930,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 134373930,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sagar Eshwar Khandre is an Indian politician from Bhalki, Karnataka. He was elected as a Member of Parliament from Bidar Lok Sabha constituency. He belongs to the Indian National Congress. He holds the record for being the youngest Member of Parliament from Karnataka.",
+    "title": "Sagar Khandre",
+    "url": "https://en.wikipedia.org/wiki/Sagar_Khandre"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No- 4/6/92, Khandre Galli, Gunj Area, Bhalki Bidar, Karnataka, 585328",
+    "emails": [
+      "skconan@gmail.com",
+      "sagar.khandre@mpls.sansad.in"
+    ],
+    "phones": [
+      "7676250611",
+      "9739126666"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "29/12/1997",
+  "eci_state": "Karnataka",
+  "email": "skconan[at]gmail[dot]com,sagar[dot]khandre[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2592000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 11758640,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Advocacy"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 6% of MPLADS local-area funds were spent — ₹13.83 Cr unspent.",
+      "headline": "94% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 138296919,
+        "utilisation_pct": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Hand Loan Praveen Hanamshetty 50,00,000 50 Lacs+ Hand Loan Revansiddappa Veershe",
+        "value": 15000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 15000000
+  },
+  "margin_votes": 128875,
+  "minister": false,
+  "mp_name": "Shri Sagar Eshwar Khandre",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 8703081,
+  "mplads_unspent": 138296919,
+  "mplads_utilisation_pct": 5.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 137,
+  "mpsno": 5791,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-02-18T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "MP Sagar Eshwar Khandre strives to make Bidar slum-free",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORE5XeWJFM0ZRNWlxMGpScDRZbE1pdlBteWZZOHhHS2xQXzRuT0MxY3QwMXdIZ1RvTFJROHAyY1pYWkZnTnJlY04teGhKUlc0U3dpVGw4Qm5JaUxkLW9qWmFvcnQ4UVhmX3A2YUx5NFlGbzF3QjU4enY2aFcwTGZXa21DRXVYamlfdm1IOExSd0fSAZYBQVVfeXFMUHJ0WEZyUzFRRWl0LUFQRzlDQk9HYXBuRFhQOXFRbmEzbm5neTBkVUM3RE1ISHdzNWsxRkFHd2dMaXJSZTd0X0lZd0FNTVhoZ2trZC1jOWlPTjAxSzJLZ2Rmc3ZPTjFFMm5tOXJNVjhQQnZoY1RjMjF6OE04M0hfeTloWTl4Q090clhHQVNYUlZWMzhvY1VB?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Karnataka CM advises Sagar Khandre how to be a good lawmaker",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMkNNWWxqMUxUNUJManoydzhhUkJzUnd3b1dGWnNzUUZLMnZtQ3haNl9RYXBUcm5pLUpnUTlKRWlRODI2SHFXSkRVY3pSZmpSYUVEUC1USC1EQm1JQzZqbHZaUmZBazNRcGMybUJJSGV3YUtSdW9zYXVwME9LZHo3bkZXdVpvT3FsTW1GbzNBeUduS3JsUXFPanpTSWRsMzJENjdJT0M5SWtzbzdYOEl6T0J4NVJrOG41SjN2bUV0SdIBzAFBVV95cUxOSEtkR0xsZXVYdUNhT0ZMc3hzTGlZYzBzdFdsVVd0SzMxNWU5ZkNsSWdaVG16VjJJcXl2bGZlTUF3cGxoMk9SeHIycXFyMDhHX3o1clJpMUpTdDFHYW1FT1FIWVRZekR5WDdTbS1uT25KdlR4MmFDaE5aUjQtdWtDb3VDSEZLWEdrTjVBMXBhckZRR2YxT1ZPanNoOHFPM3I0Y0N5V2FPb0Q1WEQ1RDQyeUNkN2ZsS3RuSmg5M0lMeVZQbDN5Ym1CX1BoREk?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bidar election results 2024 live updates: Cong's Sagar Eshwar Khandre wins against BJP's Bhagwanth Khuba",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPX2dpem9YN1JQOGZYZW9obkY4QnIyLU1idGU5QkFfbml4SnBJWHdwN25BMFBOMHFQT1RxdzE0V3d2TnEtam1fYWdxM04wVGRZYlZTeVotb0luQnliazhMTDN5TUU4aHU4U1ktdzRhTDQzQmgtdlJBQ21QcjEwWGhRa1kwQUxSZlR3blpXQ3I0Y1JMYjVvbmdsLWFVUFhPR20zZ2xvWVJRaHhZV1lyV1YwM2tkWVdXYlJjYVRyODFQaE1fMXJrWXpQa19BeTRqaHBGM3BEdkp1X29Udkx4NnJkUkpfRWJFbHg4RV92X25MOGxXemU2bDJBbW9UbXhYTXhNMEx0RXJqZUhFWXZlOUJ2UVBTYnNTLVFTQTlyLXRwUmpDQS10cHd2QVlvWjJBYlnSAbQCQVVfeXFMUHdLakFFbko3TzRETG1xMTNBR1l0LWhJbEZ2dzhmaWJMZG54Y1FZc1BEMWJxaV9Ea2txaWdEYjN1ZThGS2FUYkxzTGlwZHVUbmtIc0pvbmJ5VmN6MEFrVkJ3UVdzel9BdXV2aEkxYjhUZGFpdzQyMDVpTlFKQ05tMTFDdXN4MkF4MGMtOTgxS1VEa0R2LVV1NVZYcHNLc2kwZUZIVFBSVUtNS0tjRG1pZmp1R2dYdExicXR5TV9lVlNrdjZEMjNDczVQbVF6UG1YUWV1UjF6bm00T3FWNVUtZGRfeURlTGRqcTg5a0x4TnlOTHFwajBMZldXNC0yd0hQU1N1dm1ZRERVX3NVMUlBSkVIaFpuY0piRy1IMzJuVU1NQl9ZR29nUEZPcGpXSnI3VWhMNHY?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bidar Election Result 2024 Live Updates: Congress' Sagar Eshwar Khandre Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWUxd01nOGZ4UUpFQ0VfVllLZ25MLUNHbWhCWWlhZ3RDWjBROWFGZ2NEalAxbElfaEQ5TVdhODFnQVMzSGVzaDdiSXBEc0diMFZPSHpwOVNxTm5ya1FBZnRtZFFjT3NDNS1kSThnRVZsbm8yMmRqMkJlZEQ4cnllQ3pOUkFqTkEtQ0dpaDdhMzA3MWNCTGpLSTQ2WGtOX2NvOWtseHh2cmdJNVMwLWl0aGhJWWFfV2ZRWmR6NTZMdzNxZ9IBzwFBVV95cUxNb2I2Z3RoY19mY1FIZjJmSzk5VGQwMnJPajBuTkpVOVRjTEd0N1BYWXowLS1iQlpWS0wxRXR6aWRPbGpMampqOXJqRjhTczI2ZWpkeEtuYUctUFZFZWg1bk94RlVNMkFWTEFRSWF0QTJMTHdFLTBrV1hrTi1zbmFrNURYdUFjS3U3SjMxa3pkRnVOR1cxNEpRalZ3M1c5R0VYNHFXa2xscUVoMUQzNDhXOUdvdUk3Q2xnaHNqNUNwZlFQc0tMeVEwWUh6T0RPYW8?oc=5"
+    },
+    {
+      "date": "2024-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sagar Khandre files nomination papers for the second time in Bidar, takes part in roadshow and public meeting",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZHdjN1dxSlRyN0QtZnBJeHRmTzRZVE9kR0lYVFBfcEdjSk1GZ3V5WkJYaDRyWDY4UTJSd0dtcXFHT3FLREVnYmNtekhsMUJ2UWtxUUFRQTJlUkdGSjcwcUhXbDBEajVraGktSk5hMy14V2ZSXzF3Q0R3RmpBQVhYYWNYZE5vckdBeVNGQ1c1amtmQUF2LWZhY0MyTjBGeU1oeG5GdWV5NUY3bURJbU1yUXhlZ0dfakpITUluX1FtUmFWb0swUi11NHBHNGpWV1Z3RUNDWEFZOEZRNlB2V1RpSEhrSUVKTVJGVENGUkNjb2ZsUzBGRmNKQmVBZUh0Rng4dW5BdnBlLXDSAY8CQVVfeXFMUG93THE5cWlMODVSdV80cFltZ29pWnE4MUUzbllZXy1yMFFhdzVxcG9jaUVLNkpCdWFwWmRWNm5RSWxwUHJBZ2hIRk9fTjFja3Q0Qlh6MFdzOW53X00za3RreVBSSkowLW1DdThTSi1kZkxZRjd3RmI3d3NnOXFXd3ZWZWFJV3ZtMWZuSTYzdXZseXlCVHdnMGUxODVBRjdpTHBTbExLUmJod2plQ2c2dVRydFZTY252SGRjSUthZlJwTlFhbUo1cUtka3M1dEx5bVZtWFVVSnpjSDJEZkhNSmxhRXZPR1didnNIV0dNUk5UazhVaUlNcUJtX3hjN3FUM1JJS1hsV0xHdlB4OVoxSQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4686,
+  "notable_record": null,
+  "num_candidates": 18,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-7",
+  "pc_name": "Bidar",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180185.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Educationist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 83
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request for Approval of Multi-Village Drinking Water Scheme from Basava Sagar Reservoir.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Enhancement of Compensation and Timely Crop Insurance Payout for Farmers Affected by Heavy Rains and Floods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Extension of PMAY-G Deadline and Additional Housing Allocation for Bidar Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Unrestricted Procurement of Soybean at MSP and Extension of Purchase Period",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 15
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sagar-eshwar-khandre"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "BHAGWANTH KHUBA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 15,
+    "criminal_deduction": 0,
+    "legislative": 20,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 134373930,
+  "total_liabilities": 15000000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.63
+}

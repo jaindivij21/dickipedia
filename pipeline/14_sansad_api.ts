@@ -1,8 +1,3 @@
-// Pipeline step 14: deep Sansad contact. Crosswalk-driven (mpsno) against the Lok Sabha Secretariat
-// JSON API api_ls/member/{mpsno} — public emails (de-obfuscated), phones, postal address, and verified
-// social links. Committee membership has no public JSON endpoint (the biography tab is JS-only), so it
-// degrades to null rather than empty: null = source unreachable, never "declared none". Facts + deeplink
-// only; nothing re-hosted. Source: Lok Sabha Secretariat (sansad.in).
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { fetchJsonOrNull, sleep } from './lib/http.ts';
 import { deobfuscateContact } from './lib/text.ts';

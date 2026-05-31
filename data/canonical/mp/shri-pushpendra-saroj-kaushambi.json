@@ -1,0 +1,504 @@
+{
+  "accountability_score": 50,
+  "age": 27,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 10000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 481655
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3775000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 10964999
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15231655
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7611",
+      "total_assets": 15231655,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 15231655,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Pushpendra Saroj is an Indian politician who is the current Member of Parliament from Kaushambi Lok Sabha constituency. He is a member of the Samajwadi Party. He is currently India's youngest MP, breaking the record of Chandrani Murmu.",
+    "title": "Pushpendra Saroj",
+    "url": "https://en.wikipedia.org/wiki/Pushpendra_Saroj"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "42, Sulem Sarai, Preetam Nagar Avasiya Yojana Dhoomanganj Prayagraj Uttar Pradesh, 211011",
+    "emails": [
+      "pushpendras25@gmail.com",
+      "pushpendra.saroj25@mpls.sansad.in"
+    ],
+    "phones": [
+      "8303606697",
+      "7526058277"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/PushpendraSarojSP/?_rdr"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/twitter.com/pushpendra_sapa"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/pushpendrasarojsp/"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "Care & Comfort Pvt Ltd Share, Eroll Builders pvt Ltd Share Pathik Homes LLP Ma Sharda Stone Industries Anil Push Infra LLP Lucknow Mall Developers Care & Comfort Pvt Ltd Eroll Builders Pvt Ltd Gurukripa Stone Crusher Swami Neelkanth Stone Stelian Nirman LLP Mamta Saroj",
+      "party": "the candidate"
+    },
+    {
+      "detail": "Care & Comfort Pvt Ltd Share, Eroll Builders pvt Ltd Share Pathik Homes LLP Ma Sharda Stone Industries Anil Push Infra LLP Lucknow Mall Developers Care & Comfort Pvt Ltd Eroll Builders Pvt Ltd Gurukripa Stone Crusher Swami Neelkanth Stone Stelian Nirman LLP Mamta Saroj",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "01/03/1999",
+  "eci_state": "Uttar Pradesh",
+  "email": "Pushpendras25[at]gmail[dot]com,pushpendra[dot]saroj25[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 319108,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 304105,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 311450,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 441450,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹10.68 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 106761713,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Preeti Saroj 25,00,000 25 Lacs+ Prabha Saroj 25,00,000 25 Lacs+",
+        "value": 5000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 5000000
+  },
+  "margin_votes": 103944,
+  "minister": false,
+  "mp_name": "Shri Pushpendra Saroj",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 40238287,
+  "mplads_unspent": 106761713,
+  "mplads_utilisation_pct": 27.4,
+  "mplads_works_completed": 392,
+  "mplads_works_recommended": 758,
+  "mpsno": 5804,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-10T20:46:27.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Pushpendra Saroj , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkJGU1BWRzlkQ3d2dExoZmF0ZTVyd0h5YXJSVzQyOTNIR0o3WTRZTHlxY19NdW4xNWoxV2FrdkYyQ3ZUcmJkNHNWd0VoNFNVX2MtRWxvSWhMVjB5M3ItaVZiLXczTWF1eU5JRkpDazhGY0RpWnFfcjgwcW9nVmY1Rk53OWwxLXE3?oc=5"
+    },
+    {
+      "date": "2024-07-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Meet Pushpendra Saroj, India’s youngest MP: ‘I use my father’s work, not name’",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnlmYlR3SnctUDFValpPY0pfZzYxQk1neXNnLUV0T0NjTGZtZURZaF91QnBJQTBzQjVqTENVSlJ5aGxmNEhKLWw2b0xHUDNibWIyNVZ2Y3RXTnpxVmRpclpwRU1yS2tieGJvVXRQMzhqajhVd0F0aHM1Z2tOc2ZxcHpDNDEwQ3Q4eVJ2SUxqclNkMFpsWnZlNVFR0gGgAUFVX3lxTFBETUs5dU9saVphb3F4Y0FmYlBXQlI1WHNPbmN1ZXVIQnVJRmhHYllSdC1yMzR0Nk53TTBFdGFOTkMxVGxIM3FHRU5teVo2bDB1Qm80QVpjcDJyWWdQODdqM2dZck5JeEF1Z1J2WUdsX1RVaTdsc0ljN2YzM3VwV0VVZmRfcnh6bFdXaTJoVWswSXJvLTh5Y0ZGSEhubF82dVo?oc=5"
+    },
+    {
+      "date": "2024-06-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Outlook India",
+      "title": "25-Year-Old Pushpendra Saroj Makes History As Youngest MP In Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEVSNmd5NnFkTlc3eXpmb2dqam9TNjFUWmFQdXRiQXRreXBmSjRQZzI2dXhEMVJlNG5FUFpRSE9ZeGJzWVY1MnVuVjYwcEhnMjUza0NxeG9YX3RRTkFSVEFIMHd6VkpLZ2w1cUVHTGZYd0UxdW43Q3pLdmYzOGRyOEUyQkxZR2x1cEczY180ZGtlS0RGVEVUX3hWSWFycEdDSEg5T0t2RWo5Q2Uw0gG6AUFVX3lxTFBpOTdYRS10MnJZVTFrOTV2SjVCdy1saHRTRnA1XzBNSlRpMnJJZHlMZHQ1M2REVHp2NlMwa3ZPSFB4VXROaHZnalcyQXR6UHJwMEtjQmdma2hFeENCcmo4OHMwQWVHVWJENUZWWXpITkFSR3NVWXJ6R1otV3kyR1FzczZJREFRZnBDT3lGaHNJOE5OOGo4ZmJMeXo5MFg5dnJVY25laHMxU1hGQlF2dk1DTjhxcmRqNzNEUQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "SP’s Pushpendra Saroj is now the youngest MP in country",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbXlMZXEtRkJkUmtiWHB3V00zZnJyRjBIOU1tQzd4Y3VmQnJiRlp1WWMtX3FiNUdmdVBIVkNxWTB0QXc0OE9kRXptT0c3MVdGSjZqcG8tMEV3SnFjYngxdmxtXzZLMnA0OU5pdE9ianBsR0lJRjFnSkxuOUJBemJtVmI3eU9xUDZiOVNVWGJZVGxSWkpudTVmRDRqRjExTVRGYU5rSGhSMGhHNjJybmprZkV0d211VkFoNFdNNk9IZ3ZOaElWU0pLbzN6b9IB0AFBVV95cUxPYks2S2VIWklqNk80T0VGc043SWNIUlE3cnEwQm9zZk5BUGFVUEhaTnUwRXFfNm9TN2FWRUY4b043dmpIcG45T2ZSeDRMQUx2VS1SQW5tUEdpdXZmUl9RVndBeGNyQldqR0ZaOGhTc2MyLVU3U0dYb0RqOU5QM2ZlcFQ0RHg2ZmpFWlktd2JiOVRlZV9vU2VnNWxJOGF2dzVqR0VLeVp5TGt5cGZmakxmcU52Sm41Z0RWZ0FmVjRaVUxuSFIwZGluQ1JISS1Xd09r?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "Youngest and oldest winners: SP’s Pushpendra and Priya Saroj aged 25, DMK’s T R Baalu 82",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXdYV0VBUlVvZFc5WF9CbEJndkswZ2l0QTlDSl9XMnhRaGxwRHk2cndwX2haY0F5bV9YWlVyUG14cjdDLW1Tb181UEFXR3VEWEhacGpuVnNTRnI5YlNCS3ItZVBzWjRLRl91VE4xRk5ESGZKZjNFS2dHX1VUR3IwN2EyR3lKVTV6Nnl2TzExTEI0LTVIb0stSnhHOEpacDJ5M2V2a0NXajlRc1VMOU9XTG9VODNQY3lEODVn0gHAAUFVX3lxTE9oUnBTLVd3b2k4MWRraU5pd1NKUGl4MHV0RklxM1I3YTlIUHpySzBKdHh0SUl4U3BaLXV6UEw3TGxXSndjX1FlODFmdllPWm5xbV9ySDRxN3FLajhBVEt6cHVPdmR5RHlkTFlySXpEa0F2dmFha0U0UjFpTU00Y202bnBIQUwzaGF4NXFOVWY3OTY4TDcxQjJYRW1nV2htaVdtVXBtWXBHMl9ra1hnZVlNTTlLdmZtb1NGbjFWdlFEaw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12967,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-50",
+  "pc_name": "Kaushambi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180472.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Appeal for National Honours Including Bharat Ratna for Kanshi Ram and Other Marginalised Community Leaders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding increasing level of air pollution in Delhi-NCR and North India",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding problems being faced by in-service teachers by making Teacher Eligibility Test (TET) compulsory as service condition",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to declare the road connecting Pratapgarh, Kaushambi and Prayagraj districts in Uttar Pradesh as National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to declare and develop Prayagraj-Lucknow State Highway as a National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Kaushambi district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding refund of money of investors of Sahara India Companies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Demand for Restoration of the Old Pension Scheme (OPS) for Government and Paramilitary Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding stoppage of trains in Pratapgarh and Kaushambi districts of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding refund of money to people who invested in Sahara India Company",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt kaushambi and pratapgarh should be declared drought affected",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt. speeded up the renovation process of nczcc by making some intervention",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 25
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 117
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/pushpendra-saroj"
+  },
+  "qualification": "Under Graduate",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Micro, Small And Medium Enterprises": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "VINOD KUMAR SONKAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 0,
+    "legislative": 39,
+    "mplads": 67,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 15231655,
+  "total_liabilities": 5000000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.51
+}

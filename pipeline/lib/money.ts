@@ -1,4 +1,3 @@
-// Rupee + percent parsers shared across MyNeta scrapers (affidavit cells carry "Rs 1,23,456" forms).
 const RUPEE_PREFIXED = /Rs\s*([0-9][0-9,]*)/i;
 const FIRST_LONG_NUMBER = /([0-9][0-9,]{2,})/;
 const SIGNED_DECIMAL = /-?\d[\d,]*\.?\d*/;

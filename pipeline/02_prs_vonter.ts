@@ -1,5 +1,3 @@
-// Pipeline step 7: PRS parliamentary work (attendance, debates, questions, PMBs, by-ministry).
-// Source: PRS Legislative Research via the Vonter/india-representatives-activity mirror (ODbL-1.0).
 import { mkdir, writeFile } from 'node:fs/promises';
 import { fetchText } from './lib/http.ts';
 import { parseCSVObjects } from './lib/csv.ts';

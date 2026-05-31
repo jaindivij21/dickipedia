@@ -1,0 +1,512 @@
+{
+  "accountability_score": 71,
+  "age": 70,
+  "assets_2019": 20359750,
+  "assets_2024": 50938896,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 20000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 13300000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 37500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 240000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3047829
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2548741
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Smart Wealth Builder Policy-1K012928708, Rs-150000/- 15,00,000 15 Lacs+",
+        "value": 2443736
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2385000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2258590
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 515000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13438896
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=JmtiKUMNFEnqVDbLaTNq",
+      "total_assets": 10156568,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=JmtiKUMNFEnqVDbLaTNq",
+      "total_assets": 20359750,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2094",
+      "total_assets": 50938896,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 402,
+  "assets_latest": 50938896,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Janardan Mishra is a member of the Bhartiya Janata Party and has won the 2014 Indian general elections and also the 2019 Indian general elections from the Rewa Lok Sabha constituency.",
+    "title": "Janardan Mishra",
+    "url": "https://en.wikipedia.org/wiki/Janardan_Mishra"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill. and P.O.Hinauta, Hinauta Sameria Madhya Pradesh, 000000",
+    "emails": [
+      "janardan.bjp@gmail.com",
+      "janardan.mishra@mpls.sansad.in"
+    ],
+    "phones": [
+      "7662252000",
+      "9926984118",
+      "9013869229",
+      "1123094396",
+      "9424474118"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "01/05/1956",
+  "eci_state": "Madhya Pradesh",
+  "email": "janardan[dot]bjp[at]gmail[dot]com,janardan[dot]mishra[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1209690,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1285750,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 769690,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1178290,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1282620,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 475980,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 352560,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income from Agriculture, Salary of Member of Parliament, Democracy Fighter Samman Nidhi"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture & Ware House Rent"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹1.02 Cr (2014) to ₹5.09 Cr (2024).",
+      "headline": "Declared assets grew 402% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 10156568,
+        "from_year": 2014,
+        "pct": 402,
+        "to": 50938896,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹4.08 Cr between affidavits, while declared income across 5 ITR years totalled ₹57.3 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 40782328,
+        "declared_income": 5726040,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10536551
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10536551
+  },
+  "margin_votes": 193374,
+  "minister": false,
+  "mp_name": "Shri Janardan Mishra",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 85176318,
+  "mplads_unspent": 61823682,
+  "mplads_utilisation_pct": 57.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 89,
+  "mpsno": 4728,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "MP Janardan Mishra warns on youth drug addiction: Says even girls are drinking, urges parents to talk with ...",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeF8zdThpUGZqeTJ1SFdWS3JOS1ZDbXRPa0t4d1ZNenVPSzhRcE5OS2tmRXNjNW00TjFiVTZyZlA2OVFTZkwtUlU3bExxa3ZYci1QZGtlY1lFaUJFNVhyaU80T01FbUJ4SWNMYk5YV25USF9uU1V0RGd0S3hGdlk0RnN4V05hQldZSTJlRWJ4dDZBckxvR2xXN2tIVVc1VDRSUTJLS21kN0x1NkhoRThWcGw2ZHh3MVlwN3hiaTM5dVhfaVpSVWYzUWY1R3NxcjF1Qk5UeXJRZTdRbW8yRGdzcWVPZHBiVGx0NjQ3NTZMMzJWMm44NFgwdEtVUWZoNWhNUmlR0gGIAkFVX3lxTE11OHVEZU9yX3VCbW93LWtxMklEZ2xmUUhRa3dvVDhtME5VbGg4Q2gzX3ctTzRtWjN5bzZEaHRvNHRVczFyZkN6WTh6UUhWZmJHRE1KYmUwTHRyeEEwWUE4eWgxaS1GSG1hSGtuWmlGdWxxejRhMVVvSXd6Wm5UVXZUY2EzYTlpRlNEcXRTSVdMMUhYdGwzeENsRUxEMDBXeXNpeTNTWUNRQlBONXBSbmgya192ZWN4NFVuUnN3RmNDYjBpTjZwTndLWEtxYmtfX3p5ejJidGk5YWkzdTZlMTVkMEk0QmliMm9iOG9KR3Q3eGVKajdRTER0R28wd3NyMWpmYkxUWDJySg?oc=5"
+    },
+    {
+      "date": "2025-09-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Janardan Mishra makes bizarre claim on childbirth facility: Rewa MP says, 'District hospital allows deliver...",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEYzcXM2ZGF2Yy14d01PTkxFSi1CcTlDS0Q1cjYzRHM1R3BNMVZRa0o3VHc2TmdpWEhYWTZZWHRjUnNxS0xIS2REYmM2LThDT1ZfbEUtdlc1emhxN05rVlFTOG82M1QzLXZ3ZEIwQ2g1NmVJcUdYU0loRWNRZXJuUEpLNTVBSzhzMkpfYUpsclZROVQ2Z2ZrMmR5U1dBSFdWZHFwZVRvQUtNODZPdk5BMGE5YVl5TDRHWi0wc3dST1RBeDVfdU42cTh30gHPAUFVX3lxTE9UQjlFZWxfRlQtNDRZZTVvd0xpX0ZTSWptU1NrOUgyaGFTNms1VnBoNmtORUZMYzFSeVh0cW02VVZCUHFBX0w5N09aa1NhUWJjUFhFR3VjLThNanNUN2szZUF2RmZ0bjNqRWFzcERkeG52Y004WVhBejlBbGc4QzBSNE10aHo1NTE4YkRJUGpLLUlYWnRvOHFtSGJONnRTZmlsLVF2cXFRc2FUUHVLT1c2R0dFNHlJWHV1WUdWTDBTamJNM1JtZDIwdzN3TkVWZw?oc=5"
+    },
+    {
+      "date": "2025-09-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Rewa MP Janardan Mishra Spotted Giving Bath To Children, Washing Their Clothes To Promote Cleanliness During",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeVVReG9TMGxka3E5OHhFZmx4OHRUZEZ2aXJtVUlmaVpOUktVblR2cmVydjZJNk95V2l3WVZfMjluaWZFYk1famdxNmxWTnB3RDU3TWtfNTFYWFBUSDR5elN1dDhnYU5FbmFUbWJSWlNrU2dOVVpRbXkzWk1YblVvNXk3bHRWV2dtYUtNaHFvU2ZOQVZfck5aZHZrVVNBME5zLWQ4MWxxa0FRMS1LX1htSkJtRGdtTUdDY291STlnUGczU0lieFNROXRlaWZEb0lURFBDRGFYMEp3ZE5Xc2VNTHRaVmlxLVRsTUVMSmE1bFg0WmxLT2tpNGhDRDc1XzZFUjQ5RlB30gGLAkFVX3lxTFBIQTRxU3p1WVhBbWlBRlNZOGVteTZYcWNrU3FUNWdoVmxXeGNzeERQY0MzOTVZYjBvbzF2VjVGVkMxS2pNWmM1dVpsYjVzM19QaTRoSTN0Um5RUlA5STkxeTZmWW1TUnZHMkVxUXFDZmc5WERPVEpiZWRGT0dWTVVHWHU2X3VJbnNxU1NxdUpKeFU2ZXJSUHBVeHJGb0N2MktaakhmdDBsQnNPcVBhaTUxQ1MxSlQ2UGN4ZlJDOXptVE13RjdYdmQ2Wmc5Rk9xQllia3VTZHZ2dWpqb2tLakVrV29WR21JZ01fX2s0Q1ZLYmFwWVBzLW00M1pFLTB5ejVSeXBtbXhPNkpyWQ?oc=5"
+    },
+    {
+      "date": "2025-09-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Rewa MP Janardan Mishra bathes children in Badagaon: Washes clothes, cuts their nails himself; urges parent...",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRVlKNEhyX0RhUmdoNmNNZlg5amJSX19HbjJVdHVoajlzNzlybW9xSDlCeEt6akJyWEJfX1FtOUNhRW02R1p1dGhtNXJXVjh4WXdUbGxpMklkNlBxZHNFY3ExXzFSb0o4cmpaX1JLZ3M0TC0taEV1dG9EbjBocE10WG8xMTZDcnVmcHJkOUxMc1FBOW42TDVqSXNiMWM3dDN6bFZuTlA0RUhXZTM2LTljQldmNnJMbW9sMmlNcWpfYkZ4VjFSMEJYS2djVkt2VEFjSTBIcDJDbXJZMF9BdFl6Z1diMTFvNTktMEJDVzhlTVB1X0hHWTRYSVB3cUtvZF8tQVHSAYcCQVVfeXFMUHplUlNjNHo1TlBDbGQ1ejV1WFVmNTZRSlYxX21oc3RDZWk2OElaSVNzM0NSd2FiUXVNay15dXhSTjktcXJ3VjJWWmRaa3F1OXB3QmlDUkRfSkFyR19kdVROTzdvd3dxbVJQWWRIMVlrMHZnRVBtNHdwbHZXajFLVTdKUFZ3bE9wU2VUcDFidEZ0M0lrUklmbHRxVW45bkU2QUNrSlh1Zk12VktDN1lFRFV1NmljRGpIdTlWS1RlT1kzbTZTSmoyVk9TdXZoZnVGLS02M0VwVlFyOGJUTGRsYUNjSk5rV3RWaEdHa0d3M3NxblJiZ2pPbFJFT0h4bUtGNXNIdWI0LUU?oc=5"
+    },
+    {
+      "date": "2025-07-04T16:45:11.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "BJP MP’s bizarre remark on laptop funds: Janardan Mishra​​​​​​​ tells students to purchase quickly or risk ...",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSWF2WHNRdEctVndjZ05oUm15S0FRTlRjQjY3TEc4NnVJN1ZpLVZYdkdYSkd5eEdoMmxLZ051Y0tGdDVtd3k2UXM0QWxCWkdkUmJGOWFzTEFOeFZVYVlfMFZIemlXY21uVHJJVjdSQkhTbGJiRWhLNlNuUDYzVmlQUFIzcF9NT3B2RksyWUowVC15LVFNV2tTVzBFWjVsV3IxMmpTM1QtSFhLQ3ZCMUxuaFdzTlBsYXJOdGVrTXVoUGZvb240SnYzYXJQNjQ2Qnk4eWlneUtBUkUyd3liazV4M3BnYlNqdkdBSHItTlN3a2lVNE5hNGNiS1pNbU1TRnZlWnZxZUp4czNWd1UtdG9sMUhRQmFLbFRXTE9zU1J6S3UySmttSklzVkFYUnVnNzhqLWREetIBugJBVV95cUxOWk5jSmRiUDc5cWphVXp4STJIY3c0eXg3T2FWdm91MGMyOWNJUjk1aXBUSEhucWFnNTVUcjRBYUV4ZEd6RVIxTHVQZlVYemdJREw3SjB5dG03bzNubGR1dFB6Q3dZZWlOVXUzUkJlYXBpeGhjTHBSOUtRMDlCckdEUlZxMERRMEJ1dVNud19DeGVVbnduNXJmb2hXSDVTVkFsUlhhd3JhVG1Sd204UFMzU0xZWnZpMnMzYmJraS03RjJNZ1FkU3FyZFRGY0drQ09FRVZPdjN6YW1aNlpTYlh3UTl4SUVkcGxsak12a0J1djBCUkI1Qk13VHdZN05Sdzh1NlZLUU1Ca0Y4MmZXdmdTUm5sV2xOUWRmQ2ZMUTUwQ3VXQmtBd0xpNzVFOTVCMFFDOUdTd0c0VzVCQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6936,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-10",
+  "pc_name": "REWA",
+  "pending_cases": 0,
+  "phone": "Tels. : (011) 23094396, 23094397,09013869229, 09424474118 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180230.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request to Ensure Adequate Hostel Facilities for SC and ST Students in Rewa District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to establish a Navodaya Vidyalaya or PM SHRI Vidyalaya in Mauganj district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding establishment of a Navodaya Vidyalaya or PM SHRI Vidyalaya in Mauganj District, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Establishment of a Jawahar Navodaya Vidyalaya and Kendriya Vidyalaya in the Newly Formed Mauganj District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to provide details of expenditure incurred on treatment of patients under PM Jan Arogya Yojana at the time of discharge from the hospital",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to establish a Navodaya Vidyalaya or PM Shree School in Mauganj district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of a Flyover at Dhekaha Tiraha, Rewa, Madhya Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to establish a Navodaya Vidyalaya or PM Shri School in Mauganj district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Provision of Treatment Cost Details Under Ayushman Bharat Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to establish a Navodaya Vidyalaya or PM Shri School in Mauganj district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to provide details of all the expenditure incurred on treatment of patients during hospitalization under Ayushman Bharat Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding establishment of a Navodaya Vidyalaya in Mauganj district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Demand for the constrution of railway line from Rewa to Mirzapur",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 164
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/janardan-mishra"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 51,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 4,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Communication": 1,
+    "Cooperation": 2,
+    "Corporate Affairs": 1,
+    "Defence": 1,
+    "Education": 2,
+    "Finance": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Micro, Small And Medium Enterprises": 2,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 3,
+    "Ports, Shipping And Waterways": 3,
+    "Power": 2,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 2,
+    "Textiles": 1,
+    "Tribal Affairs": 1,
+    "Youth Affairs And Sports": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NEELAM ABHAY MISHRA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 69,
+    "criminal_deduction": 0,
+    "legislative": 72,
+    "mplads": 65,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 50938896,
+  "total_liabilities": 10536551,
+  "wealth_pct_increase": 150,
+  "winner_vote_share": 52
+}

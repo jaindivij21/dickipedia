@@ -1,41 +1,13 @@
 import { CalendarCheck, MessageSquareText, Megaphone, FileText } from 'lucide-react';
-import { type Mp, AVG_ATT, AVG_Q, AVG_DEBATES } from '@/lib/data';
+import { type Mp, AVG_ATT, AVG_Q, AVG_DEBATES, MANIFEST } from '@/lib/data';
 import { pct } from '@/lib/format';
+import { TOP_MINISTRIES, COHORT_HEADROOM } from '@/lib/constants';
 import { DataSection } from '@/components/mp/DataSection';
 import { DebateRecord } from '@/components/mp/DebateRecord';
-import { StatCell, StatGrid } from '@/components/StatCell';
-import { Bar, CompareBar } from '@/components/charts';
-
-const TOP_MINISTRIES = 6;
-const COHORT_HEADROOM = 2;
-
-function CompareRow({
-  label,
-  value,
-  average,
-  max,
-  display,
-  averageDisplay,
-}: {
-  label: string;
-  value: number;
-  average: number;
-  max: number;
-  display: string;
-  averageDisplay: string;
-}) {
-  const color = value >= average ? 'var(--color-success)' : 'var(--color-warning)';
-  return (
-    <div className='flex items-center gap-3'>
-      <span className='text-ink-soft w-24 shrink-0 font-mono text-[11px]'>{label}</span>
-      <CompareBar value={value} average={average} max={max} color={color} />
-      <span className='w-28 shrink-0 text-right font-mono text-[11px]'>
-        <span className='text-ink font-bold'>{display}</span>
-        <span className='text-ink-soft'> · house {averageDisplay}</span>
-      </span>
-    </div>
-  );
-}
+import { CompareRow } from '@/components/mp/work/CompareRow';
+import { MinistryBreakdown } from '@/components/mp/work/MinistryBreakdown';
+import { StatCell, StatGrid } from '@/components/ui/StatCell';
+import { EmptyState } from '@/components/ui/EmptyState';
 
 export function WorkSection({ mp }: { mp: Mp }) {
   const hasPrs = mp.attendance_pct != null;
@@ -57,14 +29,20 @@ export function WorkSection({ mp }: { mp: Mp }) {
           : 'Activity record from PRS Legislative Research.'
       }
       src='prs'
+      updatedAt={MANIFEST.sources.prs?.as_of}
     >
       {!hasPrs ? (
-        <p className='border-border bg-surface-2 text-ink-soft rounded-lg border p-5 text-sm leading-relaxed'>
-          {mp.minister
-            ? "As a Union Minister, this member's attendance and questions are "
-            : 'This member’s parliamentary activity is '}
-          <span className='text-ink font-medium'>not reported</span> by PRS Legislative Research.
-        </p>
+        <EmptyState
+          message={
+            <>
+              {mp.minister
+                ? "As a Union Minister, this member's attendance and questions are "
+                : 'This member’s parliamentary activity is '}
+              <span className='text-ink font-medium'>not reported</span> by PRS Legislative
+              Research.
+            </>
+          }
+        />
       ) : (
         <>
           <div className='border-border bg-surface-2 flex flex-col gap-3 rounded-lg border p-5'>
@@ -116,25 +94,7 @@ export function WorkSection({ mp }: { mp: Mp }) {
             </StatGrid>
           </div>
 
-          {ministries.length > 0 && (
-            <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>
-              <p className='eyebrow mb-3'>What they ask about · questions by ministry</p>
-              <div className='flex flex-col gap-2'>
-                {ministries.map(([name, count]) => (
-                  <div key={name} className='flex items-center gap-3'>
-                    <span className='text-ink-soft w-44 shrink-0 truncate font-mono text-[11px]'>
-                      {name}
-                    </span>
-                    <Bar value={count} max={ministryMax} color='var(--color-ink)' />
-                    <span className='w-6 shrink-0 text-right font-mono text-[11px] font-bold'>
-                      {count}
-                    </span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
+          <MinistryBreakdown ministries={ministries} max={ministryMax} />
           <DebateRecord mp={mp} />
         </>
       )}

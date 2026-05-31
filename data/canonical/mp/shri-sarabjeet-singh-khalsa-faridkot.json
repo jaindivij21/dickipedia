@@ -1,0 +1,411 @@
+{
+  "accountability_score": 45,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 400000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 8400
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1400000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3308400
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9256",
+      "total_assets": 10808400,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 10808400,
+  "attendance_pct": 35,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sarabjeet Singh Khalsa is an Indian politician from Punjab. He is serving as a Member of Parliament in the Lok Sabha representing the constituency of Faridkot since 2024.",
+    "title": "Sarabjeet Singh Khalsa",
+    "url": "https://en.wikipedia.org/wiki/Sarabjeet_Singh_Khalsa"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "1082, Phase 5, Sector-59, Mohali, Punjab, 160059",
+    "emails": [
+      "sarabjeetkhalsamaloya@gmail.com",
+      "sarabjeet.84@mpls.sansad.in"
+    ],
+    "phones": [
+      "9815464748",
+      "9888831984"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "N/A",
+      "party": "the candidate"
+    },
+    {
+      "detail": "N/A",
+      "party": "spouse"
+    },
+    {
+      "detail": "N/A",
+      "party": "dependent"
+    },
+    {
+      "detail": "N/A",
+      "party": "Hindu undivided family or trust in which the candidate or spouse or dependents have interest"
+    },
+    {
+      "detail": "N/A",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    },
+    {
+      "detail": "N/A",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "01/11/1978",
+  "eci_state": "Punjab",
+  "email": "sarabjeetkhalsamaloya[at]gmail[dot]com,sarabjeet[dot]84[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 499500,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 496000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 495000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 484000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 315200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 248900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 326800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 249970,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 303392,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Shop"
+      },
+      {
+        "person": "Spouse",
+        "source": "Job"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Attended 35% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 4% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 35,
+        "percentile": 4
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 575000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 575000
+  },
+  "margin_votes": 70053,
+  "minister": false,
+  "mp_name": "Shri Sarabjeet Singh Khalsa",
+  "mplads_allocated": 150850348,
+  "mplads_expenditure": 83065464,
+  "mplads_unspent": 67784884,
+  "mplads_utilisation_pct": 55.1,
+  "mplads_works_completed": 225,
+  "mplads_works_recommended": 432,
+  "mpsno": 5738,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Babushahi.com",
+      "title": "Manpreet Ayali shares stage with Faridkot MP Sarabjeet Khalsa at Waris Punjab De event",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmVEVGpKTktZTHBORk00cm1Mdzhydnl6WnRWbWZVckoyQTZqTzdWZDBGQ3JXWDE2bHhpNHhUeVVZRzE3VXhlcmZSSndyNDdzZnAzT1lNVHQydGxKZU84cUpwa2pxbHN3SnlLbVpuQVp3bGJkd1liYWNsN0FXTlNjN2VyTGRlVTBDbEUwTERHUmJ2S2VrRUhrbXVDTVN5OFQ0Q1JGaXRESkhlOE1DR1B1VG43dWJVNEo1RC1sMGRBV1RRcDBZTlFqRDVYTU8yNS1RQmxFOFdtb2U5LW1POVE?oc=5"
+    },
+    {
+      "date": "2025-06-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "'Sacrifice for Panth': Faridkot MP Sarabjeet Singh Khalsa backs Mehron",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEtFQ211eWtjTTRLTXh3elhwX1RzclI2QWdHNEdCNUJpRXVFbHNSODlrbGU4YTkxRlpXZ0NhQUdhWUpnRm1mVVRjUUV6LWdNQTlwSHd4Y1AyUnVFQUt5ZjhNVzNyV0xjb1laQkFCS2tjS3NoTHNIdGFSMWZyV3JwNmg1VWJrekZXZHlFZ25zOA?oc=5"
+    },
+    {
+      "date": "2025-01-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Jailed Amritpal Singh’s Supporters, MP Sarabjeet Singh Khalsa Unveil Akali Dal Waris Punjab De Outfit",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNmtLdURiT2x0NG9OdlRrSTVEcXlMNnRPVUdmMmdyMXphYlE0bkgwUEItaDhYS1hIUnA4M2xZRTlyMHZoM2Z2TVlMR2dET00zak1BYTgwQkVFaE42dXdzQXdrT0lxOEpNVDlQbWV1QThsUlJEal9qTk1jMFk5cUtscHdWMUotVkQyU3pZcG9IdW9HaGNuT2NyX09ocFRXZFZFWEtCcTMzMWFvWWdJYWhxZWl4TVA1UzBOVVQwZzRnSzgtVkJmS0N5RVpBekF0eGx1THN1cFU4RVNMdU9MZlB4bnAwT2dlWjNVaG9zc19maUV2U1HSAfgBQVVfeXFMT1hkVUYwaENwbEpTTWdJZzRBa1dxWkxWb2U3YmRVYnJtbmdhd3lFWk5SMHRZajZ5a2g1RzRlbFJEcTlvTUREUUdCM0N2UVpLYWJISVRtajlUYzhXRzdNaF9sVmV0M29hSHZyRFNXdkpkdVNJMHVQYklxdkgyRUFtMTd3cGZwMWo0VWdTbngtVkFGQzk2cWFpcFJCTUxmQ21EakpYbUt4dm9XRWdqQmlHdDVfUnVtcHFZcENJYVNwRkRqUFo1cmpKVHNubnNSV1JZa3RuZ1F6YmZqNXYxYW51ay1CaDdCT3JQYko0Xzd3cXZqV0tlSmljQjQ?oc=5"
+    },
+    {
+      "date": "2024-08-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Faridkot MP Sarabjeet Singh Khalsa, Amritpal Singh’s father to hold Sikh meet on Aug 19",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWNHWi1RMXZNc3B0alIwRG40NjdEdUFpc3lsTDV4TW9yQ0pXQ0ZyalZaYUF4OFJVdkxlY2QxRDJOYUhGNFo1Sjc0Vk1FTlB2SmxkeFpxQVRMWWhnamI3T2NvWnF0YkRzN1JINDNvMUNXRkE0SnlHZ3JGSm0tLU1JNkRQTWwwSDJXTXlCQnVxRXE1X191WnplY3h1ZGg?oc=5"
+    },
+    {
+      "date": "2024-07-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "High time to create a new Panthic outfit for Punjab, will talk to Amritpal, says Khalsa",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2tHSWJHS1lJU2U0dElSbnNtUnhMdmVTMHZhOEJCeDhKczkwbXRwTHl2TDc4RUpwRnJjMGxDTDN5emFxNGNwLTdRRUE1UU50TFZxNUJDNExVV3RCemdIU1JnaFExMlZYX2lUX1pNeU0xZGZGMXB3ZC1VUmZKTjFEbnA4a0VkeDhGcWl3c3BSQVhrMjJLWk5KZld1a1FUdHpPQ3RNZlZyYmFmYUhTMzJWRDFNNGJ2X28yTkMyUGM2X0YxQdIByAFBVV95cUxQci14Zmw4ZG9GWUJJcG96R01vLUxKREhfTC1hY2VaRXplUGtnVEdQX1RPN04xVUVXS3htWUtnZ1VEUm1HaXM3bGpIT1pYUDd1LS04RHluejlXa1hVWlZoM1pLbnZFZzNJaDVLeFYycUZBZTJlNUVpTWNtTF90amNsNzA1U1ZFR3dQNnNIa0x5QUthQW1mbXE0NV9pUjJOWW9PUFdMSG50RENCRDhyRjE3eEMwN3hQQml0aW9kMG9MUzYybDZPLUlmSQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4143,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "punjab-9",
+  "pc_name": "Faridkot",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180330.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 70,
+      "value": 33
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Concern Over Drug Crisis in Punjab and Representation Rights of MP Shri Amritpal Singh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Remedial Measures for Water Issues and Funding for Health University to Combat Cancer",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.2,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 63,
+      "value": 1
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sarabjeet-singh-khalsa"
+  },
+  "qualification": "",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "KARAMJIT SINGH ANMOL",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 0,
+    "legislative": 9,
+    "mplads": 99,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 10808400,
+  "total_liabilities": 575000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 29.38
+}

@@ -1,0 +1,399 @@
+{
+  "accountability_score": 50,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 9000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 22000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 700000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5329214
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 11680050
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 340000
+      }
+    ],
+    "movable_total": 18049264
+  },
+  "assets_earliest_year": 2013,
+  "assets_history": [
+    {
+      "label": "Meghalaya 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=kzp9qLhWHFybJ6S8Qged",
+      "total_assets": 25583148,
+      "year": 2013
+    },
+    {
+      "label": "Meghalaya 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=kzp9qLhWHFybJ6S8Qged",
+      "total_assets": 26716310,
+      "year": 2018
+    },
+    {
+      "label": "Meghalaya 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=kzp9qLhWHFybJ6S8Qged",
+      "total_assets": 28054662,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=350",
+      "total_assets": 40049264,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 57,
+  "assets_latest": 40049264,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Saleng A. Sangma is an Indian politician from Meghalaya. He formerly served as member of Meghalaya Legislative Assembly representing Gambegre. He belongs to the Indian National Congress.",
+    "title": "Saleng A. Sangma",
+    "url": "https://en.wikipedia.org/wiki/Saleng_A._Sangma"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Rongbilbanggre P.O. Bolchugre Tura Tura Meghalaya, 794001",
+    "emails": [
+      "salengsangma14@gmail.com",
+      "saleng.sangma04@mpls.sansad.in"
+    ],
+    "phones": [
+      "7085529631",
+      "9862572723"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "14/07/1978",
+  "eci_state": "Meghalaya",
+  "email": "salengsangma14[at]gmail[dot]com,saleng[dot]sangma04[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salery From MLA And Also From Maharis And earlier There was Good Contribution from Divorcee Wife"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5708458
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 5708458
+  },
+  "margin_votes": 155241,
+  "minister": false,
+  "mp_name": "Shri Saleng A Sangma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 87050000,
+  "mplads_unspent": 59950000,
+  "mplads_utilisation_pct": 59.2,
+  "mplads_works_completed": 49,
+  "mplads_works_recommended": 216,
+  "mpsno": 5553,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "Meghalaya MP Saleng Sangma appeals voters to reject ‘divisive politics', accuses BJP of sidelining tribal voices",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObTlDU0JvN3V2bUY1dk5ReV82eFVQbThEcTRQNmVnNXptZU5Ka3dWcTM3VDlhMUgzRm5QbnljWGRLUzYyNXZzVzVpaHpwNk15aGRrQkhrWlYtc0UwZU9IRnRpY2NnV1ZBYlpZQ2JzeEx3Ynh5aDZweUJuOU1rSEpVdE9GOHh2alU5QzZRbmcyR0cwNDdYLXl1Qm9FUWd0c2xQQzJTaXRxZkxLWkpRMTVnWGlnR2laQmlaSG5peDNnRkkyOTV6SUl5eFBzb3pOUUExSEZzX21sc203X2lUamptTjBDYkIxdmdmaG9EOC14RWhaNGR6cWVvRE9YNFFXSXRmX2fSAYcCQVVfeXFMTVhYbXQtQjdZb2UtUzRWdXAwRWwxWWUwZ1dqbS1EVXJZMXJYUjU0bk9QNU5lY0VsbngwZ1puemVUQU1OUndEbFNSWmhiVUE1LWh2WGVXU25IRldTM01Cb0ZkRFczcm03U0ZxdTJEZlJONEZUSjZrSmhNSDZqeU9hQ2kxTVZuRExtNXNkckNmTGN2UFVMVWdlZ1VydEt2ckhDT1JwSWFBdXdlUVM0QXczSnlRbHdQU0I4a3dReXhxQW5QS1BIYmZWWXRDUFhWZFc2T3RfMjZSMkIwcjVPZ011SGVZaVVveFI2ejZIWktWb1h5bE1BbHdjX3JySE9KU1ZVOFZnWG03RG8?oc=5"
+    },
+    {
+      "date": "2025-12-18T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "Meghalaya: Speculation grows over Saleng A. Sangma’s return to state politics",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN0t3aGZXV0dubEY0T19MQWpFczJWMkZCWjFqeUg5NlB2emI3UjRjMmRmQXNlTkxQOEJyaEg2c2RjQmJiMTBFdnMtVW1JSDlHUTFrRlhOYjFHdWptcmtBRkFucFlrOWtMMTg5MzlFS2JSWFVqNXF2ZHR2aDhERDlIM2RrUWFPNE1mWk84dDJvT0RjVFpvdzhMWEdVQjhyOHVRSFlUZnFfcGdtYVE3YlY0ME4yLWFxWFFxSE44S2g4ZlpoUXU2Ukh2RENqVTVFU01La2lDdjZhSV_SAeYBQVVfeXFMTzgzb29sdS1QMFBVcmF2WFFpR0htbU94aUZ0VU9FTUVKeG1kUGxoN3FsNmZyM3RkOF96NGtjTWl1OU5NVTBhNjE5VkJzWE1xMmJLNHNfbzZwWE1xNzdqYTBDZm1fUUJ3ZTJ6eEdURk85LW02MkZjTjJFUXR2MTdoR0NiTHRSNllHcjdkaHo3eFRQRmdFRmozZTNRZnJjWWpPLVZPM2g1TkxscXFzdnlqYURpbjVtSERJV3ZFQnhoM0RVdFM4Z2lsaGdicEJZZU5iLTJ4NG96VU5uOFZnc1V5RG1WSndTV1E?oc=5"
+    },
+    {
+      "date": "2025-11-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Live",
+      "title": "Meghalaya: TMC MDC Sadhiarani M Sangma, Her Supporters Join Congress, Marking Major Political Shift",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUW9ha2M3QUFzVGZvdmo3c0ZuM25kV1J2VHpTcVVmYmZzMVFBMW1LcTRxVEp3UW9Ea3ZYWmlQdFZqbmVIN1phdkkxdkxkLTBFalJPcmE4WnFhcXVOYk81Uk1QSnBfX0NtQlU1MnBPNWdPSDMteHdFTDR0OGNLVGlOYkdfUDdWVU5mcnBoVktGcjBERWpOMWN5d1ZfVms0STVnYUtUS2JKczFnMTc5TFNqLXpfcXEwZkpYaDhoMWkwUnlSaXBKbmFsbkhFSzhmREZTUHhFRW5HZy1UZUVMQ3c?oc=5"
+    },
+    {
+      "date": "2025-08-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Live",
+      "title": "After Ex Meghalaya CM Mukul Sangma, Now Cong MP Saleng Sangma Warns of Militant Regrouping",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEdXU2dxdjYySGZLVGpFa0F3bm5IOTI0d1ZsaHVOeFVpV3hhRHB3bUFDT05rTjNGUWpiRW41WF9TaENHbkhyMW54M0pIekRBbmNQbjJBc3R2U3hIQWhBZ0pfVkNkTkY0MEdyZDlhc001S00xQjNPeFJndjlaOXV3QTM5dXRPMElnX040MHBqbXBHaDBQeEJteGtMc3Y3aHNtZThHVDJHTDVIMTlqRGtkaE8tUmo3Znk4cjl3cG9feXBXMXM5?oc=5"
+    },
+    {
+      "date": "2025-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NENow.in",
+      "title": "Meghalaya : MP Saleng Sangma slams Govt over unchecked smuggling along border",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmpSbmxURkVBTlAySGxweW5veFBiNEd0ZG5iWVhITGx3QXA5OHd2UTNxaDA4dmJtQmE1U0w2WFpoWDE0VEloX1lENlBrdTlaYS1OTDZJTFZnX2hUNWNCMEJld3FHYVIxWkd1dkJpeUtPdkl0eXdxSmNteUxCa0tKbmhtOGhfX0xlYjY0VWlORVpCNV90N1RHbUhaTU5HdkduZFpuUFhWbHdYdXdSczVzTHd4eG5oLV9wMjFwdTliYVjSAcABQVVfeXFMUEZzQVVieWZaUUVlNFF4emVQS2E2WTlEeUtaQ1BuRkJ1TF9faF9kWmF4eDJ0ejkwRV96Z3dKc3RyYzRubTh2aGRCa25oXzBoTjM1UzBoU3duTHZUaWFKbkM0WG9zLVd1N0V2QmdzZ2dWejRoZXRncXBMbFF5aUZBTkg2NmtMWnA1eUd0VFN6S3VQV29pZlNXZTF2dlN3YUlQb2FseFpDdlNFNVhZUC16Z2FYZkcxeGdWaWhHR29URGlE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5840,
+  "notable_record": null,
+  "num_candidates": 4,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "meghalaya-2",
+  "pc_name": "Tura",
+  "pending_cases": 0,
+  "phone": "7085529631",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180295.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 78,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need for establishment of medical and nursing colleges in Meghalaya",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Social Security, Minimum Wages, and Benefits for Anganwadi and ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding alleged illegal mining in Tura Parliamentary Constituency, Meghalaya",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Need for De-addiction and Rehabilitation Centres and Strengthened Border Security",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Raised the issue of drugs crisis and epidemics in Meghalaya",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Address Student Unrest and Administrative Neglect at NEHU in North-East India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt for Relocation of International Fencing Between India and Bangladesh to Relieve Affected Citizens",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister to take preventive measures to stop entering rohingya refugees in the north eastern states as illegal immigrants",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10,
+      "value": 11
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 17,
+      "value": 14
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/saleng-a-sangma"
+  },
+  "qualification": "Post Graduate",
+  "questions": 5,
+  "questions_by_ministry": {
+    "Education": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Road Transport And Highways": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "AGATHA K SANGMA",
+  "runner_up_party": "NATIONAL PEOPLE'S PARTY",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 0,
+    "legislative": 31,
+    "mplads": 80,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 40049264,
+  "total_liabilities": 5708458,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 56.96
+}

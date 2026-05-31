@@ -1,0 +1,686 @@
+{
+  "accountability_score": 65,
+  "age": 51,
+  "assets_2019": 6046055,
+  "assets_2024": 15352373,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4260000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7260000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 118600
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3597983
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC policy No 75292xxxxx 6,27,450 6 Lacs+",
+        "value": 627450
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3148340
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 600000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8092373
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "Tamil Nadu 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=tdDnE7MBSkqjaNoPVtwE",
+      "total_assets": 3638535,
+      "year": 2011
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=tdDnE7MBSkqjaNoPVtwE",
+      "total_assets": 4293910,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=tdDnE7MBSkqjaNoPVtwE",
+      "total_assets": 6046055,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1264",
+      "total_assets": 15352373,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 322,
+  "assets_latest": 15352373,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jothimani Sennimalai, also known mononymously as Jothimani, is an Indian politician, writer, and social worker. A member of the Indian National Congress, she was elected to the Lok Sabha from Karur, Tamil Nadu in 2019. Having joined politics at a young age, Jothimani served separate terms as the General Secretary and Vice President of Indian Youth Congress and Tamil Nadu Youth Congress respectively.",
+    "title": "Jothimani",
+    "url": "https://en.wikipedia.org/wiki/Jothimani"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "47/1 KP Towers, Ramakrishnapuram Karur Tamil Nadu, 639001",
+    "emails": [
+      "jothimani102@gmail.com",
+      "mp.jothimani@mpls.sansad.in"
+    ],
+    "phones": [
+      "9789944542",
+      "4324232626"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/jothiiyc"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/jothims"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A(1"
+      },
+      {
+        "count": 1,
+        "description": "Statements conducing to public mischief",
+        "section": "505(1"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "20/2020, Puthanatham PS Trichy Dist",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "283",
+          "153A(1)(b)",
+          "505(1)(b)"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "09/06/1975",
+  "eci_state": "Tamil Nadu",
+  "email": "jothimani102[at]gmail[dot]com,mp[dot]jothimani[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1650560,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1319450,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1183100,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1245010,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 56150,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agri, MP salary and interest income"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹36.4 L (2011) to ₹1.54 Cr (2024).",
+      "headline": "Declared assets grew 322% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 3638535,
+        "from_year": 2011,
+        "pct": 322,
+        "to": 15352373,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 26% of MPLADS local-area funds were spent — ₹10.92 Cr unspent.",
+      "headline": "74% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 109235278,
+        "utilisation_pct": 26
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1454722
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1454722
+  },
+  "margin_votes": 166816,
+  "minister": false,
+  "mp_name": "Ms. S Jothimani",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 37764722,
+  "mplads_unspent": 109235278,
+  "mplads_utilisation_pct": 25.7,
+  "mplads_works_completed": 53,
+  "mplads_works_recommended": 144,
+  "mpsno": 4981,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-29T06:19:12.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Congress MP Jothimani alleges 'massive irregularities' in candidates selection for TN Assembly polls",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRGNMSDZ6b0lpcFJ5ZHdaaEFOaGpnM1JxcVBRc0ZsRFg4MWVsTGZ2SWJBQ2ZzWFhRY1gyYTNvOUprdTJ2cG92R1hsbHhqdVFmbFk3RTZhRW5QclpjUVVVZXh5U200ZHRWTVhSZVZwaDlQY0o2TVpCNFdIMGM0dVo2SUk3REtEemRSTko0UHByUEJqdjRta0VlOFRzS2Jsek9yMndKQ094NzhXWXVuNlBqZ2l0S3FESmZGTkNLbEp5SVRGaVpmOVk2TnBrdnhDdEM2cEY1eXRDdVF5N1dSWjQ0aTF2Mkc2WGtnYkt2djRrQmRoa0XSAYACQVVfeXFMT0FCcy0zOUJKZ0UxeWZNV0tRbFZXVk9SRnJWM2M0ODhUQ3A0WnhtTnRjNFhxbzBjSHhJVHJyOXdXOXBPZW11TV8wYWpCSzA3QWZoczN2UFAzWVFNYWVzcGNWek9Jek5kTnVyQ1R6T041ZDJEbXdnMXp5cmQ1cGlFOTZzV0hPQVBiOVItbFB0OTZpdWg1dWFvM3AwT3JMUUN3X2t1QW45MThkYXZ4cVNGUjRnZmhBelJOdFdGaEI3ZThva1ZLUTZXTGtFeWVaMWpEOFhnZmhkY1Q5UXc1WnNOTmxhX0x6UXZFV1lFTGI3XzlaTGVZaEtSMHVTSi1EMGlJOQ?oc=5"
+    },
+    {
+      "date": "2026-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Congress MP Jothimani Warns Centre Against Injustice To Southern States, Progressive States Should Not Be Punished",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeEhMdkNqUGhEZmpxekFscjdtMmw1LUt0SG9hN0ZOTjVYS3lWMTZLUGxfbHEyc2FkY0xOYXlSQXJhd3dTT3JXVEZJVEhheGFZLVM1OWVOeXEwWXQ3R09Pb2NZYVJpTmp1cmI2cWk1S3l3LWpsODczM3M1MVg1c2EzbG5kZEYtejgyaDN3czVKXzdDQ1UxbkN0N25CdEUtS01ScUdVTlNfaEdhV0tUNDdxUU9PblpMRUQ0c1QtTnZPLTU4dng0cjM0QnpUR1Yyd1FORm5HY3JCUlliMU5pVGJ3akhHLUUtN2daci1zSHQwS0lLSzMw0gH6AUFVX3lxTE92NzVyTncxLUk5eHh2X0dRNngwN2kxRkJSblU0TVNkUmV6b2JHbkh0TGFfc1JUc2NFVWFkS0o2XzhwSzhGbEM1REZ3dThhZWlyQWE4SFBraXJRSDVNVXcyV0ZDT3FyUU5GNGdBUWdkcllOVlI0eUFjMXlCYjJfRjYzMDdXc213M2EtYVFwNlFDOEVSU05MbF96WnZkTFlJY0lEbmVrZ2NXS1NtT0xFYjRyYVlDWFhNSTYyQnFNNDl0bmhUZ3M2WlFCQjlsTUZpcGRrT3o4VU5ZdzVvMk9SbGtEaWZ1WnlGbGFlTFpmLVcteXdhejlLQl9DYVE?oc=5"
+    },
+    {
+      "date": "2026-04-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "DT Next",
+      "title": "2026 TN elections | Pre-selected list betrays Rahul’s vision: Karur MP Jothimani",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3dZSm5PLXd5ZFRURnFhbGJCTmZBLVhqWWVrR0hJRks1ODk2OURZVk5ocklkejRpV2NKM1JDSDc1RWlrMGxjQm5XSDBrbEVMU1l2N3VnSkVpZVFzS2RpU3A1SFpOeHlPUkZuRFFmUzBBdFB6MldzclVTZ3ZnaVhxZlFBQzBxQ1RyZzlGTkpTNGo0eG1YNXRrY1A3RU8zaXotYl8yeXVIeXVONGluTTl6bGVR0gG_AUFVX3lxTE55Y0pCSW00UmJIMm5ZdmZjQTlrd0tiWExxR3RxQ3kwTjFVTzJQcDFBSnEtc2Z5TmtYODlFNVZEalpuLXl1SHdNV3Y1UHBldHNHajJOTWI0Mi1SbHhtMktUbHJjVHlpRktoUWNabU41NkNiUEJJWnA5NDR4ZUtvWERHZXlIWUVQNk9FM2FBbndMN0d0Umd5UkdBZVRYSkFOQ1JuT0lVUjlMcnNUZG41M0Y2cTJIOXBEUzVGc092dFdj?oc=5"
+    },
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "Seat selection lacks transparency; interests of party compromised: Cong MP Jothimani",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1R5aExmNnRqQW1LSEQ4YnJVZ29NcEI3SDRLbDZlNm5pM1JZaktqWi02bkRNM1FNTXg3bmJxTUpMa1dWUUw5eDk2WVRnUlZKclNkcVdyZ0JlR0tlb2ZlWjA5UHNEbWhOUWxya2NJdlFhOTFwbmVvaEdoVGJKWGlpU1JXYmZQUmRRekFob2o0ZGxMUGQ0eVUybjM1aE9FLTFxaFJ1RVdpQmUzN2lmbVJfbE9CWWJQeWVk0gG-AUFVX3lxTE9mdVJYdXVTN25ZOUxUVFNOWmd3U0pfQl9oX1VXbzliQ0pvSjc5ZU5HbjI2UGg2RWE1Ny1hMWhVWGxrSEoxd251SElselNPdHBVcWtscGRhQjQxemdKbDZkUlNIMm9nNndCNlE3clBXOHJBMWV4dEZFX2JQa0YtRzUyU29oUG0teEVYUmNrdGdMZlRBaUxud1RkU2pzTU8ySXBwbk5GaVF3dUxRcWpjSUZxZHVMVGxiOEFkamt2aUE?oc=5"
+    },
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Former Karur Congress chief takes exception to Jothimani’s remarks on seat sharing",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnZXZlJSLXJSbElMc2kyUmd4c2JxOEJrVEh0Z1pKekY3bHJEYkVKemhRR21EdHRSRF96X1k0Vkw2TVdjSUhjelBIeFlNX1NlZHRXTGtPTHVZVi03dHcxSFNRRExyenBuVFFMWXh4T0dlYWRGUG9CemZPZHljVzNCVFBuS1ZIRXJyV3NpbmlqN3ZNMk9CMVBOS3g4dkpTR2k1bC1CM3dyYTM1QW52T3U1RloyOHRGdXJOMG12MGZLVTBqNmpnX3VDMWF6cUIzdURzTEpxYXA0dXJOVGZUNFRzY181b1JOdmlL0gHvAUFVX3lxTE1zeXBNblNHbmlpUXRZaFFNQkMzY0pEY1NDTkI5dkF1bzFHSWdIZnpSaG9Fd2lhdldESjd5aGFXemUwMmFod0t0Z3RUcWVYYnpzc0U2NUFXUXkxdHFrczRNY3p1ekk0VDlMeXR6LWpZTTFXQ0xiZUM5TThXX0Z5NmZhZTBXM0N4V3AtY2hXRWFiWnRFelpIaEN2aDdPUmNhTERCZTJRVGZtN0JXUWd2UDkyTHlrdHVuTlBLa19IbEdTbEtja25QaXdMS2ZkMXpncTdqeTFyMGd1NHNqY2ZoeW9yUS1ZTkF6R0dVZm5xUUsw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8275,
+  "notable_record": null,
+  "num_candidates": 54,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "tamil-nadu-23",
+  "pc_name": "KARUR",
+  "pending_cases": 1,
+  "phone": "Tel: 09789944542 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180384.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need for financial assistance to develop Drumstick based agro-industry in Karur district, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to undertake various railway related issues/projects concerning Karur Parliamentary Constituency in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to include OPD services and diagnostics under Ayushman Bharat Scheme (PMJAY)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to bring legislation to regulate online gender based abuse and AI enabled offences alongwith establishment of Digital Safety Centre",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Opposed the introduction of The Viksit Bharat Shiksha Adhishthan Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding construction of rail overbridges/ underpasses at various level crossings in Karur and Tiruchirappalli districts of Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to bring a legislation to protect the houses and livelihood of people of Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need for publication of Keezhadi excavations in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to exclude crop and education loans from the ambit of credit scores as a criteria to avail loans from Banks",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Strengthen BIS Enforcement and Regulate Sale of Uncertified Products on E-Commerce Platforms to Ensure Consumer Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need for a 100-bedded ESI Hospital in Karur district, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Upgradation of Trichy-Karur Highway to Four-Lane for Improved Connectivity and Traffic Management",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need for implementation of comprehensive Gender Education Curriculum in schools",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to ensure implementation of equitable delimitation process in Tamil Nadu and other Southern States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Immediate Release of Pending MGNREGA Dues and Enhancement of Wages",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to enhance budgetary allocation under MGNREGS and ensure its effective implementation",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to ensure strict compliance with the guidelines for treatment and rehabilitation of Persons with Mental Illness (PWMI)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding the housing issues in Karur, Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Urgent appeal to govt address farmer's protests and fulfill promised commitments",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to address the problems being faced by LIC agents and policy holders",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to minister immediately intervene in the issue related to the fishermen of tamilnadu and ensure the safe release of tamil fishermen arrested by sri lankan navy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Urge upon to govt to scrap NEET and allow the state govt. to develop an admission process based on the higher secondary scores",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding conduct of NEET Exam",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 42
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 139
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/s-jothimani"
+  },
+  "qualification": "Post Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Finance": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 2,
+    "Prime Minister": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 2,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Women And Child Development": 4,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "THANGAVEL. L",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 70,
+    "criminal_deduction": 6,
+    "legislative": 80,
+    "mplads": 55,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 15352373,
+  "total_liabilities": 1454722,
+  "wealth_pct_increase": 154,
+  "winner_vote_share": 47.25
+}

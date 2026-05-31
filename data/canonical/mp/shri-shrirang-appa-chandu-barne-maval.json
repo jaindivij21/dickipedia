@@ -1,0 +1,835 @@
+{
+  "accountability_score": 65,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 286304265
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 738054788
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 67835241
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 54370316
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1151114662,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 3800000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 38774917
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 714022
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC India Policy No 95410xxxxx 5,00,000 5 Lacs+",
+        "value": 1100000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 93445392
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 18501284
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11141354
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 167476969
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=MUMuTRiTzCqKEEgH8DDF",
+      "total_assets": 665047926,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=MUMuTRiTzCqKEEgH8DDF",
+      "total_assets": 1023310134,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5325",
+      "total_assets": 1318591631,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 98,
+  "assets_latest": 1318591631,
+  "attendance_pct": 95,
+  "bio": null,
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Shree Bunglow Near Padamjee Paper Mill Thergaon Pune Maharashtra, 411033",
+    "emails": [
+      "sc.barne@mpls.sansad.in",
+      "appabarne@gmail.com"
+    ],
+    "phones": [
+      "2029860601",
+      "9822004494",
+      "9818117771",
+      "1123094027",
+      "1123094028"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/shrirangchandubarne/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/mpshrirangbarne?lang=en"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/shrirangappabarne/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Giving false evidence",
+        "section": "191"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "False statement made in declaration which is by law receivable as evidence",
+        "section": "199"
+      },
+      {
+        "count": 1,
+        "description": "Using as true such declaration knowing it to be false",
+        "section": "200"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "7-3rd Jt CJJD & JMFC Vadgaon Maval Court, Vadgaon Teh, Maval, Dist Pune, Maharashtra State",
+        "fir_no": "565/2021, Vadgaon Maval Police Station, Vadgaon, Teh. Maval, Dist Pune, Maharashtra State",
+        "other_acts": "Section 200 C.R.P.C., Section 125A RP Act 1951",
+        "sections": [
+          "191",
+          "199",
+          "200"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Reg. No 231/2020",
+        "charges_framed": true,
+        "court": "4th JT Civil Judge JD & JMFC At Khed, Dist Pune",
+        "fir_no": "1080/2017, Chakan Police Station Chakan, Teh. Khed, Dist. Pune, Maharashtra State",
+        "other_acts": "Section 135 M.P. Act",
+        "sections": [
+          "143",
+          "149",
+          "341",
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "23/2012, Vadgaon Maval Police Station, Vadgaon, Teh. Maval, Dist Pune, Maharashtra State",
+        "other_acts": "Section 135 M.P. Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 12,
+  "dob": "16/02/1964",
+  "eci_state": "Maharashtra",
+  "email": "sc[dot]barne[at]mpls[dot]sansad[dot]in</br> appabarne[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3637749,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3788271,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1372140,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1980199,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3125047,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 356607,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 630119,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 414265,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 517360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 634599,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Brick Factory, Construction Business,MPs Honorarium, Rent, Shares, Income Partnership"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife, Agriculture & Transport Business, Rent, Shares"
+      },
+      {
+        "person": "Dependent",
+        "source": "N.A."
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹65.35 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.39 Cr.",
+      "headline": "Declared assets rose 47× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 653543705,
+        "declared_income": 13903406,
+        "itr_years": 5,
+        "ratio": 47
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 21% of MPLADS local-area funds were spent — ₹11.60 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 116023315,
+        "utilisation_pct": 21
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4428711
+      },
+      {
+        "category": "Dyanoba Kisan Ghogre 18,00,000 18 Lacs+ Varne Botthers Hotel 7,90,000 7 Lacs+ Ki",
+        "value": 4100000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 8528711
+  },
+  "margin_votes": 96615,
+  "minister": false,
+  "mp_name": "Shri Shrirang Appa Chandu Barne",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 30976685,
+  "mplads_unspent": 116023315,
+  "mplads_utilisation_pct": 21.1,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 90,
+  "mpsno": 4781,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-01-19T10:16:48.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Shrirang Appa Chandu Barne",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkcxakY3Zy1DTFhXZ3BOWDBjNmxCLVVTWXJvRTRmci1DSS1xbHJSbTQzQlBCdDdOWDJ4Z1pJT3Y4OVIzSWhXUmxXaTRxYVkxM1dpZlI5RGdOWDlxN0lLdTU5a1BVV0pSS2hjaXJnbGRNVjBlWnB1TTVEbFRwMmt0Mm9GN0FGR2NRc1hveFF5eXhEUlJpVnc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Maval election results 2024 live updates: Shrirang Appa Chandu Barne of Shiv Sena secures victory",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNSENLczRsbmZTT2JTZ3hpcXoyMkZnTlk1bDAzQ0VqZGlKUmhadEhnbl9qMVhsYl9JWUtJZUZtQkFqbFozdWVRTFlwRXdUR1NiOWhaTlpwUHpCQ3hWZjBabmc3QUlnRzBMMWlMTmthMjJuV09lR3JnX1kxbXl6UlkyblJHcU9CMjFwSnA0Q0xLQkUyRzF6X1hYUy1WTmFoTWxUblkyLUs0ZDJrekZRYzJ3OTNkeE83WkxyTzhNNDNPTklPVWljSHBXVGpFcndvTk1obHdQUTRFcWwwSEsxLVdDaU9JWUx4NVltM2hBSlpaUjZhRVZrdExhanZPWVQwWXViYUljZHQxQ0tzN1AwQ3NlUGFicE5WYzdzeXdpT1lzYlVDZ1FzV1I0bjh1NG5CZVpMbURDbThzem04THQx0gHCAkFVX3lxTE1JUHNTcnJxbzhBNWg5VHRzdERiT01xRV8zNzdUOGFqejVGTzZjOFc1RVgxZlpyVWcyYm1MNkc1NTY2QTVHWGpOMndwTnZtMEZRMlhWNUVtdWx2WEtCMXZOLU1kSUU0VC1mMHlTTkNYbU42cDZzOVhZOXNicE8yS29PVXF1WjZrejhyWGJndDNOR3Q4UUpCSngwTy1hYVVkUEZqeVlBaG9OUk1ZQlZJVHFqVDUxUG1tV0xQb0tjQnVBLWRaQ3dxUXJ5a28yY2NEQ2NxYkREclZQSHV1aV9fVTJlUmdQX2RKSHRmSml6cm1qOTNZT1ZFWHFaM3NPdkhVREs2VHcwNjN3TXpBNG1nRnE2STNENkFDWGdWSjkwaFhHQnlQaUozOE4yTi1BV1FVWGk1aUxyTW03Szh1RC14a1FqYVE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Maval Election Result 2024 LIVE Updates Highlights: Shrirang Appa Chandu Barne of SS Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbU1lV2ZvMGlON2tDLWZYU3hkR3Nkdm9HM3gxTzZuS1VtOEpockJtRGlBYVBoZHQzZjloT3N0ZkZFc1gzSXVOcDFVOENqNjVGVjFFay1MbHBiQzVHMG0wWldMMzVydkRKZWdleWV0clBocDBYVlNsYWpwSVFTbnFjdHVDU1RPelJkWno1cnlWZHJoU2RwalhkUUJRVFR1ZVpYZWlEM05vY2VCRnoxejFFRlVRdjBHUEVtdU5uSXUzUkh5czNuMTUyVXR0LWgtLWxESW9tTGVBREVOc2pXbnNZ0gHkAUFVX3lxTFBvZG1NZG96eVljMWZwbmJ6NmU4YVkwdkwweGNfNm1jYmJLbng0OGV3djVyRU5sZHZteFdNenk3V2oydXRaSDU2R2UxOVBka3NTeGpHTUQtdUllY1VOZUtRVW1WeGs4Z0ZaWnNNSk1NWHlsZ2FKRi0wamJIOTNJaUpxVmsyZDJhR2RZRmhoeFFzdzloeGJBTkFiSWJoR1IzV0Y2WWZWanZRdE02VUZtOVRNOGY0SEZsSjNmTjV5OWptSTFROWRFRkwxSmxfcmVwYlh6SDJ6STFEUHZZTmYyTTlKMmMySw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Maval Lok Sabha Constituency Result 2024 Live: Shrirang Appa Chandu Barne From Shiv Sena Leads",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGhraDBlX1NuR09BdWo4UlIyc1JyQnlDWGtBZ1JYRk5ZQ1VFcEJJQWRtay1iWUNtREVFUkZ5RjVsenFuSy15MUxEYmtIQ0NLdWlTaTlheU4yZ2VmTnVCUDNhVlFHLUFnaHo5TUlEZnFJZVZRNGxFRnhUNG1oUFM2RWRGQkRNejJic1NYWk1FdjJpUFRGVFBGbXhiMDFiUnJlVUJSei1mTkFxNGVzNDBOeWZuNmdEYTRNVVhhRS1UZWhNc3lOVmNHX1RtN1ZTRXpPQ2xiWGN3WdIB3AFBVV95cUxOOW9RTVpBeWt5MGJSYmJIZEdRa0Y0cWdHa0RkRUo5TmtUR002RHVRb29zVXZVeTBlSTBnblphRnN5TXVhcGZrWjM1U3UtOFR4QUJJVUZDUVA2RXdOUmdkU0pxWFo2WmFXcW5PR21ZOGpkRnR3SmY5WGt3NFJnQ1JrZ2RzTmJRWk41SExrVm9Nb0xqWE1hakVRcDBfT2NVel9KSXlRdUVZc201bVRmMC1EOUNpR2xrTkg4cXVJcEtPallObWowR1FBMGVKNjd1c2EwSE9TTkF5LWp6UkZt?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:24:25.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Shrirang Appa Chandu Barne, Shiv Sena Party, Maval, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ21WS0ZqcGxCZ0ExYUlXb1RaNzBudHM4NEJwWmdNWTFScXNfUWl0c2VIYkptU05RME5lNzRnRXB4dFlJdWphOERTc1M4a01Rc0hhX29wNHlMOTdVREtoOWZZaHNQTVpMbUNGYy1KcUFPLXAyUXR3VUcyc1lxVlVuSUpNYVpBMmZ3VTQwdXk0dDJuaGlYcDNOazVZQ0RBLWdsUUZwazNkNkVPTTUwVlVTdzJrSzVuZzZ1UXhrb3cxaVpKb2xmbnozZjJOS015STBHOHp5YU5TNjllNExZS09lZ1BXTE1pdDExbFl3?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 16760,
+  "notable_record": null,
+  "num_candidates": 33,
+  "party": "SHS",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena",
+  "pc_id": "maharashtra-33",
+  "pc_name": "Maval",
+  "pending_cases": 3,
+  "phone": "Tel : (011) 23094027, 09818117771 (M),Fax : (011) 23094028",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180285.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "Builder",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Approval of Pavana River Development Project under River Development Fund",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Request to Provide Maternity Leave and Better Pay for Anganwadi Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand for Bringing Back the Ashes of Netaji Subhas Chandra Bose from Japan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to make Kaivalyadhama Health and Yoga Research Centre as a National Centre of Excellence",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Dismissal of the Impeachment Motion Against Justice Swaminathan and Protection of Judicial Independence",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Government Intervention to Recover Investors� Money from Defaulting Chit Fund and Credit Societies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Review and Realignment of the Proposed Talegaon�Uruli Kanchan Railway Line to Protect Villages and Agricultural Land",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for safety audit of Maval, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to provide free education to children who lost their father during Covid period",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to establish infrastructure and institutions for technical training of aviation professionals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to return Sahara India's money to people as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding request to ban the online betting and gaming Apps immediately",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to include Dehu Road Cantonment Board in Pipri Chinchwad Municipal Corporation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for Fixed Salary, Social Security, and Equal Pay for ASHA Workers Across India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to introduce AC Local train services from Chhatrapati Shivaji Terminus to Karjat and Khopali in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Modernization and Financial Package for Versova Jetty to Support Fisherfolk and Regional Developme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Demand for Merger of Konkan Railway Corporation Ltd. with Indian Railways",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Implementation of Koshyari Committee Report and Increase in Minimum Pension under EPS-95 Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Appeal to Implement the 3rd Pay Revision for BSNL Employees and Pensioners with Immediate Effect",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Enquiry into Irregularities and Low Claim Settlements by Private Health Insurance Companies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Relief and Policy Support for Farmers in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Enforcement of Article 49 and Equal Application of Property Rights under the Constitution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Strict Action Against Disrespectful Remarks on National Heroes Like Maharana Sanga",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Construction of Tunnel and Road Repairs on NH-52 to Improve Connectivity and Reduce Travel Distance",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Increase in Wages, Pensions, and Scholarships for Marginalized Workers and Students",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for High-Level Inquiry into Stock Market Volatility and Protection of Middle-Class Investors",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Condemnation of Inappropriate Judicial Remarks and Demand for Action",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Increase Deposit Insurance Cover for Senior Citizens & Strengthen Cooperative Banking Sector",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Merge Sub-District and District Hospitals for Better Healthcare in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to reduce GST rate on Self- Insurance Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Increase Minimum Pension under EPS-95 Scheme and Provide Free Healthcare Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding terms and conditions of Optional Travel Insurance for E-Ticket passengers of IRCTC",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to restore concession in train fare for Senior Citizens",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to curb unethical practices of Private Finance Companies in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt take an appropriate steps so that discipline and control can be established in the field of online gaming",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from govt. that the new airport to be built in panvel, navi mumbai should be named on loknete d.b. patil",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to minister should consult the german govt. to return the girl named ariha shah to her parents judicially",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand to accord the classical language status to marathi language",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Raised the issues related to crop insurance in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 57
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 264
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shrirang-appa-barne"
+  },
+  "qualification": "Matric",
+  "questions": 87,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 1,
+    "Coal": 7,
+    "Commerce And Industry": 3,
+    "Consumer Affairs, Food And Public Distribution": 4,
+    "Earth Sciences": 1,
+    "Education": 6,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 4,
+    "Labour And Employment": 3,
+    "Micro, Small And Medium Enterprises": 4,
+    "Mines": 2,
+    "New And Renewable Energy": 3,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 3,
+    "Power": 2,
+    "Railways": 5,
+    "Road Transport And Highways": 4,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 3,
+    "Textiles": 1,
+    "Tourism": 3,
+    "Women And Child Development": 8,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJOG BHIKU WAGHERE PATIL",
+  "runner_up_party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "score_breakdown": {
+    "base": 69,
+    "criminal_deduction": 8,
+    "legislative": 97,
+    "mplads": 27,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 1318591631,
+  "total_liabilities": 8528711,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.81
+}

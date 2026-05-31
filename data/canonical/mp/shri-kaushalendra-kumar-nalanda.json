@@ -1,0 +1,613 @@
+{
+  "accountability_score": 76,
+  "age": 67,
+  "assets_2019": 29251651,
+  "assets_2024": 42453773,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 11100000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 8000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 34100000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 271500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2631763
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1026396
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 128114
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 510000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3026000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 760000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8353773
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vJLGsPypydVc5pH53ze",
+      "total_assets": 11812717,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vJLGsPypydVc5pH53ze",
+      "total_assets": 29251651,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9494",
+      "total_assets": 42453773,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 259,
+  "assets_latest": 42453773,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kaushalendra Kumar is a Member of Parliament for the Nalanda constituency of the India Lok Sabha. He is a representative of the Janata Dal (United) party. He was first elected to the Lok Sabha in the 2009 Indian general election, when he succeeded and was nominated by Nitish Kumar in the constituency. He again won the Nalanda seat in the 2014 Indian general election. He won by a narrow margin of 9,627 votes. In the 2019 general election, he got a record 540,888 votes and defeated his nearest rival by 256,137 votes.",
+    "title": "Kaushalendra Kumar",
+    "url": "https://en.wikipedia.org/wiki/Kaushalendra_Kumar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "13, Haidarchak P.O. Khorampur, Thana-Islampur Nalanda Bihar, 801303",
+    "emails": [
+      "kaushalendra.k@mpls.sansad.in"
+    ],
+    "phones": [
+      "6122310011",
+      "9013180187",
+      "9334675322",
+      "9711062731",
+      "1123795312"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 10,
+  "dob": "13/01/1959",
+  "eci_state": "Bihar",
+  "email": "kaushalendra[dot]k[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2024-2025",
+        "income": 1381110,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 939570,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 994370,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 701450,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 895960,
+        "person": "self"
+      },
+      {
+        "fy": "2024-2025",
+        "income": 498410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 499580,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 498810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 498230,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 497250,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary- Lok Sabha"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹3.06 Cr between affidavits, while declared income across 5 ITR years totalled ₹49.1 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 30641056,
+        "declared_income": 4912460,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹1.18 Cr (2014) to ₹4.25 Cr (2024).",
+      "headline": "Declared assets grew 259% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 11812717,
+        "from_year": 2014,
+        "pct": 259,
+        "to": 42453773,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 26% of MPLADS local-area funds were spent — ₹10.85 Cr unspent.",
+      "headline": "74% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108525288,
+        "utilisation_pct": 26
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7346973
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7346973
+  },
+  "margin_votes": 169114,
+  "minister": false,
+  "mp_name": "Shri Kaushalendra Kumar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 38474712,
+  "mplads_unspent": 108525288,
+  "mplads_utilisation_pct": 26.2,
+  "mplads_works_completed": 65,
+  "mplads_works_recommended": 139,
+  "mpsno": 4467,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Patna Press",
+      "title": "Bihar CM Nitish Kumar Pays Tribute to His Mother at Ancestral Village Kalyan Bigha in Nalanda",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUg2VHVfWXNLRlBQb0UxZ1FHd3hza1JObm5WRlBPUFMyaHJqOGhhRlRwdmJaajNYdjBLZ085Tk51M01FVFMyODRqS25zUi1pdFdrcjVpYUtMa09maVp6NlFyZXNEVTVLal9xOVpubkhBUWtmeS05QmUtaG04MkZhc0ZJLVBBcFk?oc=5"
+    },
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Nalanda Election Results 2025 Highlights: JD(U)'s ​Shrawon Kumar wins; defeats Congress' Kaushalendra Kum",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLTBQdV92NmVzMWJESWdZQjNDcF93d21Fd3dGNmN1MUhmWXFOWTVxdlhkOVpQeHpjQXUyN25wajV2U0NVdnBMNzVQVVc4dW1RVm5mMXpUU3c3Y0R0bHJueVZ2QllYN0lJWEtTaWstSm8xVWc2T3FVay1MTmxTS3pEZ2RCM0dldDRwR2xoeUl3OXpQcFJzUERnT3ZSWmlIN2d4bFBycXpuc3RzWVRGLTRLUlZZTDJ1eVI0MFU3T0JtNmxhT0hZaFhRNW9fNjRvM0pLZzFvZ1dOYWpQSDZDU3BzQl9Xai3SAeoBQVVfeXFMTkxoOVktZGwxNUZjZWJhN183ZHc4ci0zOGVaMVpKY0V3ZkdlbkRBVXp4aGxFdmpENUpHa1duMzFxSm01ODNqekozSGdLWEFsNHJyUmFBeWU5cHBMcnJvVGRuQzR5VWJyZHVCRmZOcVFfaU9lN2Z4V0Rudi15Ym04dDFzYnROQWFvdlBxT1ZFT05yM25fXzg2VVpyQ2tSeW5kTXV5MTdOanZ5T3lieTJreFZNcnR3bFdSUVdXWmhFUmpHMWE0QTM5WlA5emdFN1N5eEcwakpKMHRJbzdSX1MxOHBOdFdaeWh1Ul9B?oc=5"
+    },
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Nalanda Bihar Election Results 2025: JDU's Shrawon Kumar secures victory with lead of over 32,000 votes",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQTdXTEJVU1l5MjktQ0NXaVpvTjFLWnVRYTRWYUF1QWtWRGRIbDZ6SkJ4Mmp1NWpkR193ZWNDcVVDeC01UDNaTUxvbEN3VnVkZE9YS19Ta0l5aGxtSm1OU1o5dTAxQy1OeEF6R2xOcnA0NVBZNkJ2MTk1WG9tUlVpMGNsVERRemJVR19WM1NORDFoQjRIcTItZlRSd2FQcUpsTm1GaGxJVzd5UXdTaWxJNFRvUFo3enVESl90UGpSS0tXY3ZLckpJejI3YzRCTEkwSVEtV2RsYmY5TXM3bGdQa9IB5gFBVV95cUxPSUdWUGRFY1lvb0lFaDRHWEt6R2NhQmdzWXhWallBYldLUC1Yek02Yk1RRFdVZG5ITzdHOGJEb0FmaFNjZHdzcWtJMnhuZVRBUFpLbXRqcVVYd0NXZTYwUHE0ZV9HUVJhckwwZy04blhZenkyVF9zbUR1Y3lyeTdHUDJyZjhVZC1CT0hXYWVrYTdpTHMwQ3VyNFJ2R0ZjQmNKd1Z0TlJxYTJDeExwTVRmYnVJdmlLVk84UG00RDNpUk5pZERhaVphVm9DS2hPV3JncnYyZ2lUamV0QlBHUkNpTWdwV2RJUQ?oc=5"
+    },
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "DNA India",
+      "title": "Nalanda Election Results 2025: JD(U)'s Shravon Kumar leads, Kaushalendra Kumar trails behind",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmhXMzRaRDllSnN0RmF3VTBuU1k5UjJhY2hxR1RMVUswaW9xaXlNcDF2VHBLLXlaUkdaY0ZmNVBYNEtnZ2xzcFY3WjE2clJaWVpORFpZWlNPTXR6SU9HU014MU5Ja1FLbm1hVEUtQ0M4M0JTSmJVdjJDSVJvQnRjOUFnNEVXM0c0dmZRMThLaDVPWjdkOWlFXzZJY3NEcTc2aUNoY0VTOHh5a3lxWlZLOUg4LVZpaWNwNzNyY0pkWdIBxAFBVV95cUxNQWExaGFUS1llbHJkLWVDUS1HQkNaOUdIZHhMMTVCYWxXdTZmZmxJMkhmWmRVcVBGUjVBOXdja0tqajdVZUh3OEpaLTBGOEQzY1VZak52dVlSMDdwVlU4YjItSkdsZlpLM2wyT0RDbVlqSGVISUhISGlKNWwtTnR2N29aSVZwejM5aGFicVhZdEdvemFJcGpNb1R4Ri1fS3FWRFQ1Nk1FN2JCNDNTdHB6ZDlDbXp6VGRSOHlvUnhsdFNzbklH?oc=5"
+    },
+    {
+      "date": "2025-11-07T16:52:51.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kaushalendra Kumar",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVNvMmRDOFdLdWQ3Qlp2X1RwRHZXQ25yY2lGUmRTUWVvUk5lZU41b3dId2FFWUd0MV9KSTJ5bDNUTmpFcDhBajNDNnpOOHpfSEJTNUp1QnhFYzhHQUVZMlBKcWxfWXdKcEctUmx0UFN5OXdpMnduLTlhSy01TzV2dWhyZmFsUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 19217,
+  "notable_record": null,
+  "num_candidates": 29,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-29",
+  "pc_name": "Nalanda",
+  "pending_cases": 0,
+  "phone": "Telefax : (011) 23795312, 09013180187, 09711062731 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180057.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to run a direct daily train from Rajgir in Nalanda Parliamentary Constituency to Katra in Jammu and Kashmir",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to grant Central University status to Nava Nalanda Mahavihara (Deemed to be University), Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Include Kumhar Community in Scheduled Caste Category in Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to re-establish Telhara University in Nalanda district, Biha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to take steps to increase number of enrolment of students in Nalanda University, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to expedite allocation of budget for revival of Nalanda University",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the problems of paddy farmers of Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to set up a Day Care Cancer Treatment Centre in district hospital in Bihar Sharif in Nalanda Parliamentary Constituency of Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Construction of Underpass or Overbridge at Kukriya Village on Daniawan-Bihar Sharif Rail Section",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding progress of Smart City projects in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding exemption of toll tax for persons residing near Toll Plaza on National Highway in Bhagan Bigha in Nalanda district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Send a Central Team for Assessing Drinking Water Crisis in Nalanda and Installation of Deep Boring Hand Pumps",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding scarcity of drinking water in Nalanda district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt to construct railway crossing at each underpass",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding grant of Special status to Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand for rail connectivity to Nalanda",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 33
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 133
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kaushalendra-kumar"
+  },
+  "qualification": "Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 2,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 4,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Railways": 5,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. SANDEEP SAURAV",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST-LENINIST) (LIBERATION)",
+  "score_breakdown": {
+    "base": 70,
+    "criminal_deduction": 0,
+    "legislative": 76,
+    "mplads": 62,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 42453773,
+  "total_liabilities": 7346973,
+  "wealth_pct_increase": 45,
+  "winner_vote_share": 48.88
+}

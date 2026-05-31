@@ -1,0 +1,448 @@
+{
+  "accountability_score": 38,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3620000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 17500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 31120000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 27679
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4759704
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5974142
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Lic 5,58,418 5 Lacs+ Lic Market Plus 3,84,597 3 Lacs+ Birla Sun Life Insurance 2",
+        "value": 3700025
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1678707
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 135000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 190000
+      }
+    ],
+    "movable_total": 16465258
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HMajpT2JZdLnzsMhcyzS",
+      "total_assets": 4846140,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HMajpT2JZdLnzsMhcyzS",
+      "total_assets": 14497515,
+      "year": 2014
+    },
+    {
+      "label": "Assam 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HMajpT2JZdLnzsMhcyzS",
+      "total_assets": 18544919,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=259",
+      "total_assets": 47585258,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 882,
+  "assets_latest": 47585258,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sarbananda Sonowal is an Indian politician who is serving as the 2nd Minister of Ports, Shipping and Waterways since 2021. He also has been a Member of the Rajya Sabha representing Assam since 2021 and also a member of the Cabinet Committee on Political Affairs since 2021. He previously served as the 14th Chief Minister of Assam (2016–2021), as a member of Assam Legislative Assembly for Majuli (2016–2021) and for Moran (2001–2004). Sonowal earlier served as the Assam state unit President of Bharatiya Janata Party (BJP) from 2012 to 2014 and again from 2015 to 2016. He also served as the Minister of Sports and Youth Affairs, Government of India, from 2014 to 2016 and the Minister of State for Entrepreneurship and Skill Development from 2014 to 2014 and the member of the Lok Sabha from Lakhimpur from 2014 to 2016 and from Dibrugarh from 2004 to 2009. He was also the member of the Asom Gana Parishad from 2001 to 2011.",
+    "title": "Sarbananda Sonowal",
+    "url": "https://en.wikipedia.org/wiki/Sarbananda_Sonowal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "1 No. Lakhi Nagar Path, Near Aunaiti Sakha Shatra, Kacharibari, P.O.-CR Building Dibrugarh Assam, 786003",
+    "emails": [
+      "sarbanandasonowal@gmail.com",
+      "sarbananda.sonowal@mpls.sansad.in"
+    ],
+    "phones": [
+      "3732375083",
+      "9678074356",
+      "1121411844"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/SarbanandaSonowal/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/sarbanandsonwal/status/1402868329748910083"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "31/10/1962",
+  "eci_state": "Assam",
+  "email": ",sarbanandasonowal[at]gmail[dot]com,sarbananda[dot]sonowal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1572580,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹4.27 Cr between affidavits, while declared income across 1 ITR years totalled ₹15.7 L.",
+      "headline": "Declared assets rose 27× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 42739118,
+        "declared_income": 1572580,
+        "itr_years": 1,
+        "ratio": 27
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹48.5 L (2009) to ₹4.76 Cr (2024).",
+      "headline": "Declared assets grew 882% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4846140,
+        "from_year": 2009,
+        "pct": 882,
+        "to": 47585258,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 10% of MPLADS local-area funds were spent — ₹13.18 Cr unspent.",
+      "headline": "90% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 131809791,
+        "utilisation_pct": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "25,78,370 25 Lacs+",
+        "value": 2578370
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2578370
+  },
+  "margin_votes": 279321,
+  "minister": true,
+  "mp_name": "Shri Sarbananda Sonowal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 15190209,
+  "mplads_unspent": 131809791,
+  "mplads_utilisation_pct": 10.3,
+  "mplads_works_completed": 3,
+  "mplads_works_recommended": 87,
+  "mpsno": 4163,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-28T01:27:27.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "CM Sonowal inaugurates Dibrugarh NH bypass connecting Bogibeel Bridge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4XzE0WTVmUDNzaEJ1RmJXSHRfMm5zbEY5dXBrS2hfOEVCSkFCYkh0WmlrbXpnTy15ZzU1QkRtaUt2Q2pNTmlBRVFpVHQyT0t0N2hZYXF6Yk9DbmRTX2stY2M5TVNCaTgxbmkwRFMtTVUxMDIwNG1na1lWM0c?oc=5"
+    },
+    {
+      "date": "2026-05-27T00:22:14.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Sonowal inaugurates Jintu Gogoi Vir Chakra Memorial Football Tournament in Dibrugarh",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzYwSFJjLWFEc3RqQmh4ZmxfTDZlYzNlYlVTNVR2U1h0RkxhU21zY2hOeDdtUEo3dFJtZmxfYWc2X0lLRTdNUmhmUzc2R3NEakJMTUJyM0RnTTl0R2p6alZnX1VJSXJwVjIyakRlTExjaExhQlVPNTFPY0JhenZNTE1uVnM1YTdLQUliVGl3VTdJb180aDZjRVQ3UzNFVDBkdnB3MndFMjNyMlZuYWREQmoyS1dFWUlMZTFIWmpHc3U5clNXZzN5VWNYVzlOdlRBSXRJMnFyd1ZjdW8?oc=5"
+    },
+    {
+      "date": "2026-05-25T21:02:40.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Sonowal writes to I&B minister to retain status of AIR, DDK Dibrugarh",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbld6V0h0Z0U2d056NnRqVlg3VzMtbGpjbnlpbjNVRWFKMGxaRjIwazMydk8xMGdpcWIyYU9nQWl1WklWVDNkTmgyMWJWM1FQMlU2dDd1TGdPT3dzN3pDQlBKZnd2X0pQQ25jVm03dFV1OXpNdnF1NlQyQ0ZCTDdHOU9sZGRpRGRIM1E?oc=5"
+    },
+    {
+      "date": "2026-05-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Assam Tribune",
+      "title": "Guwahati tapped for water metro in Centre’s phase I rollout, Sonowal eyes relief",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWhCWnk1NHBaOXNYb3ZDckIzcGFzb0tfSWNqV0NuTS1oTS13RGNiZjhhT3BGc0I2TkplQ3Z5bWdrOWZIRHJ2RUdHMG1TeXktbVdyR3E3dHFFdGczaGluR0VOcWJfNkNlZ1RsbWcwX2JKYldUV1dpdmhuZnJQVlg5d1JWeTRDQkVVTUlsWDhmbjQzd1BFYjVjRzZjaGc1NnBWYXJNMWY4cjQtSEUxVlRTQ0pRSTdEeGRh0gG-AUFVX3lxTE5TdkJITzZLQkhjR3ZkN0pfUGhlQ0tXQUpOUnFxTzRmYVZ1czZlSzc1VjBKX2RaNi04Q1E4ZU5kZll4UG1VSDY4MWhrN2w3LWI2VUlucnV2Q3VIbUpiY01aNVpfTnVSX3c0TENyQmF5S3BrQk5uOFMxZFlsd2M3VjNjZGZVRjNvUVZXcFB3ODQzNEJOT1NPOGFDZEEwcjJ2elhsUmxlYWlzVTIzRXlUeWszYUc2cDYzLXdTMWtTemc?oc=5"
+    },
+    {
+      "date": "2026-04-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "NDA set for ‘around 100 seats’ in Assam: Sarbananda Sonowal casts vote in Dibrugarh",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNDVubzd6R3NVcWZjbUNwd0tLSlpqT0NlU1I3MXUzemZqcmR2TFBUcjlWOXVzdHpmM0ZrOUtvVXFvRDRIVk1wS3RxdHBiakFYeEJPWkRUNEQ2LWo3Wkc2TGF1M2djRUFJQW5LcjNGLVJWMWlVemEwUTlvOVhqRkFkQ0hULWRJcUhpZTNvS0hjVlg4QURfVFowZjF0S1JEMTZVU3k3Q3FaVEl1cGtLVFFGTTJGWlRqU05yYzZjY0J4bzQ2TkNfRDhKMW1aMEVteVJqanhfMnJRZXFMRXPSAeABQVVfeXFMTVY3Q1MzOUlpa0JqYUVMVW1NQkQwRjRsdHZHd1NIVGU0Z2Z0XzJFTk53TmZFNXlJWVlvd2VIbUxMRWg5VmZvVVRnVDVCZi1OR24zQmxQY1hZcDZaUi1jbXA3VDRjazh1aG90NVBsb2ZBUXlVYVNuNW1nZ0JnTENQS0R5Y0p0UzBTMXBmeDZXbEQ2V0d5WjVYY1J4d1BOUEJ2MmJFZllaWjQxSVdDRjhudm55eUk1dk5sRkxIM1llV1pHdlhrVlJkSXR4anZuYUxzd3RjdmRQdmJBbGVvWTRWUm0?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 32255,
+  "notable_record": {
+    "entries": [
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2005",
+            "publisher": "Wikipedia",
+            "title": "Illegal Migrants (Determination by Tribunal) Act, 1983",
+            "url": "https://en.wikipedia.org/wiki/Illegal_Migrants_(Determination_by_Tribunal)_Act,_1983"
+          },
+          {
+            "date": "2005-07",
+            "publisher": "Indian Kanoon",
+            "title": "Sarbananda Sonowal vs Union Of India & Anr on 12 July, 2005",
+            "url": "https://indiankanoon.org/doc/907725/"
+          }
+        ],
+        "title": "Sonowal v. Union of India (2005)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2016",
+            "publisher": "Wikipedia",
+            "title": "Sarbananda Sonowal",
+            "url": "https://en.wikipedia.org/wiki/Sarbananda_Sonowal"
+          }
+        ],
+        "title": "Chief Minister of Assam (2016-2021)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Sarbananda Sonowal",
+            "url": "https://en.wikipedia.org/wiki/Sarbananda_Sonowal"
+          }
+        ],
+        "title": "Union Minister of Ports, Shipping and Waterways"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Sarbananda Sonowal",
+            "url": "https://en.wikipedia.org/wiki/Sarbananda_Sonowal"
+          }
+        ],
+        "title": "Union Minister of AYUSH (2021-2024)"
+      }
+    ],
+    "office": "Union Minister, Ports, Shipping & Waterways"
+  },
+  "num_candidates": 3,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "assam-13",
+  "pc_name": "Dibrugarh",
+  "pending_cases": 0,
+  "phone": "Tel: (011) 21411844 , 21410656",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180042.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sarbananda-sonowal"
+  },
+  "qualification": "Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "LURINJYOTI GOGOI",
+  "runner_up_party": "ASSAM JATIYA PARISHAD",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "executive",
+    "wealth_deduction": 8
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 47585258,
+  "total_liabilities": 2578370,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.27
+}

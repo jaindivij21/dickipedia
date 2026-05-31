@@ -1,8 +1,8 @@
 import { Wallet, Landmark, Gavel, TrendingUp, ScrollText } from 'lucide-react';
-import type { Mp } from '@/lib/data';
+import { type Mp, MANIFEST } from '@/lib/data';
 import { rupeeCr } from '@/lib/format';
 import { DataSection } from '@/components/mp/DataSection';
-import { StatCell, StatGrid } from '@/components/StatCell';
+import { StatCell, StatGrid } from '@/components/ui/StatCell';
 import { GrowthBar, WealthTimeSeries } from '@/components/charts';
 
 export function WealthSection({ mp }: { mp: Mp }) {
@@ -34,6 +34,7 @@ export function WealthSection({ mp }: { mp: Mp }) {
       title='What they declared'
       sub='As self-declared in the sworn 2024 election affidavit. Criminal cases are self-declared — pending ≠ convicted.'
       src='myneta'
+      updatedAt={MANIFEST.sources.myneta?.as_of}
     >
       <StatGrid cols={hasGrowth ? 4 : 3}>
         <StatCell

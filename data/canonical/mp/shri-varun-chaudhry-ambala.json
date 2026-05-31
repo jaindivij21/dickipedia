@@ -1,0 +1,491 @@
+{
+  "accountability_score": 32,
+  "age": 46,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 109000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 15900000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 68000000
+      },
+      {
+        "category": "Others",
+        "value": 8500000
+      }
+    ],
+    "immovable_total": 216400000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 125000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 14750780
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5916924
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Max Life Insurance Policy No 10925xxxxx 8,59,920 8 Lacs+ Max Life Gain Plus 20 P",
+        "value": 1587684
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1500000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 8750000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 10438000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 43068388
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Haryana Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xX3xPRPrw4Y8XCJvRect",
+      "total_assets": 56954188,
+      "year": 2014
+    },
+    {
+      "label": "Haryana 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xX3xPRPrw4Y8XCJvRect",
+      "total_assets": 66126079,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8414",
+      "total_assets": 259468388,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 356,
+  "assets_latest": 259468388,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Varun Chaudhary is an Indian politician and a Member of Parliament of the 18th Lok Sabha representing Ambala. He was a member of 14th Haryana Legislative Assembly representing Mulana. He is a member of the Indian National Congress.",
+    "title": "Varun Chaudhary",
+    "url": "https://en.wikipedia.org/wiki/Varun_Chaudhary"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "936 A Sector-7, ,Ambala City, City Ambala City, Haryana, 134003",
+    "emails": [
+      "varun.amb@gmail.com",
+      "varun.chaudhry@mpls.sansad.in"
+    ],
+    "phones": [
+      "9896483003"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Yes",
+      "party": "the candidate"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "23/03/1980",
+  "eci_state": "Haryana",
+  "email": "varun[dot]amb[at]gmail[dot]com,varun[dot]chaudhry[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 6544860,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5710520,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4917400,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3118140,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2957556,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as MLA, Petrol Pump, Cold Storage, Interest from Bank & Gain from Mutual Funds/Shares"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rent"
+      },
+      {
+        "person": "Dependent",
+        "source": "No Source"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹5.70 Cr (2014) to ₹25.95 Cr (2024).",
+      "headline": "Declared assets grew 356% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 56954188,
+        "from_year": 2014,
+        "pct": 356,
+        "to": 259468388,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹20.25 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.32 Cr.",
+      "headline": "Declared assets rose 9× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 202514200,
+        "declared_income": 23248476,
+        "itr_years": 5,
+        "ratio": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.80 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 127954860,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4633716
+      },
+      {
+        "category": "Haryana Vidhan Sabha, Car Loan 15,40,000 15 Lacs+",
+        "value": 1540000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6173716
+  },
+  "margin_votes": 49036,
+  "minister": false,
+  "mp_name": "Shri Varun Chaudhry",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 19045140,
+  "mplads_unspent": 127954860,
+  "mplads_utilisation_pct": 13,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 118,
+  "mpsno": 5545,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-29T21:13:02.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Ambala MP Varun Chaudhry to launch signature campaign over river dredging",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDBKWEJhSHZsb05QQnpOb09ySDZ5Umpzc285WGo3Q0VvZjM3TGZrOW92bGJQc1otREF2SjdLamlUY0dSU1lOak1sdjZSc1RWOVNtYWdXc0VSenBfVTNVZ1M5QnRMeUpxVGxVdS1UUTRYVTZoSVBOQ1N1NGNPQWlzSjJ0RXlIaW0xTnlGb1Q0NEVKUzBvT3ZybFdadFVvS0I2U09n?oc=5"
+    },
+    {
+      "date": "2025-01-30T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "Congress’s Ambala MP Varun Chaudhry questions party priorities citing Haryana municipal poll lists",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcFEwNTllUmhQNFM1U3F2TE5ZWWpycFpQSDgwMlVvRmJIVXY3c0s0N0VieVpsRFNYTVBTT1I0WV9oSnlrc1BlcUgwOVV6UmhUeDBzdXd6dE1pcXBkMjB5QXpDcTNWdnpESGxGX1RpTXJJVWVEbXZJOUdQQVgzSFNUX04zZE5KNVdySWU0VnlCUUUzcTVPNElwUHJXV1JuZUNvRGRWRi1TdEJBdzh6Y0EwTlJWS2VuaUtJbXE4aXNpeERVZTJZYXBCejJCVF9xTEV40gHWAUFVX3lxTE5iSUlPVFVCODRod0R5czlIQjRYRUJVa1pjWVUwc3lRZndEaFlKMVZjMGwzY1ZXdGRnQS0xT09qTmQ1ZHAwN092Sl9GZlhWN1pKZjhMYndyTjlZcENUV2ZsOEFpbE1PT2dXc0pyUzlUaUVya3FIOTlXN3FKQ3ROaVJZLUtZak9DdTNKTlB2akFUX0Z4QnJ6UUpuRUVTd3RnQm5jVHdjNEhBOXhLWDFuUU0yUUxMV0JaVTdaN3hHN1k4ekFmVDl4Q2ZteEVIU3lORkdtbVltanc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Haryana Story",
+      "title": "Varun Chaudhry Takes Early Lead over Banto Kataria in Nail-Biting Ambala Seat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUNFMndhaFd2MzNSb3kxOGR2U3RQaGJhb2pWdU45RjhLbEFuWGtHYnVQQ1dmSlNYU0JWQUhtcEljZDljU0t3WU9HVkJUSWhjSDQ3dGVJTUItWEdHemJpVG9QeEF2QjlUUHRtaWE0cDBlZXRZdjM5ZjFVbGJBdzVtc1VScEZHNkwteFBla3RWTElpb0I1Y2tUSHlHUjVacWI1Qkt6WFR3c0w1d19RYWpXdlhrVURYVnVLREZRQg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Ambala Election Result 2024 LIVE Updates Highlights: Varun Chaudhry of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMW90ZnlpcnlYcFN1TkZZZVlEeEMyNWwwYi1HRTFLTHBsVHdpUzNVQUxsd0J0Uk5NRnFrSlNWbDFyU3FmT0U4Q0ZqSi0ycERLVjdQOHRGWXNjTkhIM1dQdkRMRk50YldhRjBIZ2JTZTlYN3RnUmZENUxjc1F2dUJWNGpINEJmYVZtYS1jdzhIdW9CdHhPSGZycWgycndVTmR6dU82VWxlUjY4R2ktdldPVTUxTnRvWFZPZHB4T3BNSGd3OXI4YlAxckJnX1Z6SEtZRHdRS3J3VGwyeWhFMG1YX9IB5gFBVV95cUxNdjU1bjNJelMxbnlTcW94bS1EdW45R0hPUXZUMEJJSlE2bE1UVHRiVWMzSkxIckdxNlVFQ043WTQ0cDVWa1BpeU56dUs1eVoyZXdIeF9fdVM5M1NpVW1mbnRFU3FGLXRkbFV6ZklVSURjQWdaQUVHMXpNTUNJZHFqUzlucEpseW52aGY3OFFVNGxKRHdNTXU2aHhmZEhCdnBVNmUtMzdOU1hrVDlSMTdJRW9MWm5hTGlPZklNX3FxNWZYb0lKTERQbnBrN09iRnpGNXc3WjNTWm1HNXBnUnJ1QXhYTmRqUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6452,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "haryana-1",
+  "pc_name": "AMBALA",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180141.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to add Haryana as the host or cohost of the Commonwealth Games 2030, proposed to be hosted by India",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to provide adequate space for smooth functioning of Haryana Legislative Assembly in Legislative Assembly Building shared with Punjab in Chandigarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to increase the amount of funds allocated under MPLADS and also to waive GST imposed on MPLADS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding bidding process of tenders in MSME",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need for restoration of trains originating from/passing through Ambala Parliamentary Constituency, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding problems of LIC agents due to regulatory changes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to revive HMT unit in Pinjore, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt files a review petition in the supreme court on the prevention of atrocities act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to increase the limit of MPLADS fund from Five Crore rupees to Fifteen Crore rupees",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.7,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 88,
+      "value": 54
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/varun-chaudhury"
+  },
+  "qualification": "Graduate",
+  "questions": 18,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Law And Justice": 1,
+    "Railways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "BANTO KATARIA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 33,
+    "criminal_deduction": 0,
+    "legislative": 45,
+    "mplads": 17,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 259468388,
+  "total_liabilities": 6173716,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.28
+}

@@ -1,0 +1,499 @@
+{
+  "accountability_score": 79,
+  "age": 79,
+  "assets_2019": 8035576,
+  "assets_2024": 10431271,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1920556
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7522000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9555800,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 11000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 358031
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 517440
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 886471
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=L8nMqT9onJrScTw4Qe8G",
+      "total_assets": 6836109,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=L8nMqT9onJrScTw4Qe8G",
+      "total_assets": 8035576,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=204",
+      "total_assets": 10431271,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 53,
+  "assets_latest": 10431271,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "K. Subbarayan is a member of the 17th Lok Sabha of India. He represents the Tiruppur Lok Sabha constituency of Tamil Nadu and is a member of the Communist Party of India (CPI). He represented the neighboring Coimbatore Lok Sabha constituency of in the 14th Lok Sabha. He was also elected twice for the Tamil Nadu legislative assembly from the Tiruppur assembly constituency.",
+    "title": "K. Subbarayan",
+    "url": "https://en.wikipedia.org/wiki/K._Subbarayan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "326, BSS Road, Tiruppur, Tamil Nadu, 641601",
+    "emails": [
+      "ks1947tiruppur@gmail.com",
+      "k.subbarayan@mpls.sansad.in"
+    ],
+    "phones": [
+      "9442280290",
+      "9013997363"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "STC No.4306/2021",
+        "charges_framed": false,
+        "court": "Criminal Justice-1, Court",
+        "fir_no": "592/2018, C2 Race Course Police Station, Coimbatore",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 9,
+  "dob": "10/08/1947",
+  "eci_state": "Tamil Nadu",
+  "email": "ks1947tiruppur[at]gmail[dot]com,k[dot]subbarayan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 404250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 493000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 282000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 576580,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 524000,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Member of Parliament"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pensioner"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 150462
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 150462
+  },
+  "margin_votes": 125928,
+  "minister": false,
+  "mp_name": "Shri Subbarayan K",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 76261944,
+  "mplads_unspent": 70738056,
+  "mplads_utilisation_pct": 51.9,
+  "mplads_works_completed": 50,
+  "mplads_works_recommended": 112,
+  "mpsno": 4086,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Tiruppur election results 2024 live updates: CPI's Subbarayan K won with vote margin of over 1.25 lakh",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQkI5b1B5TnI0TGNqM2JNQk8tQk5vU3VudmVXandYeDN4NXVseVdTRUFoQlFJS3BIU2MxVU9ROEs0TzFRdDBia3k5NVRPd2J2cXAxenhKZ2E1OEJsbW9BUW43T0VodXRteldYVzlWS01xRXFoTXBmVGtfWXV3NE1WbDRlU2Y2NWRGQ05ESW90dzM3T1RUYWc0cWc4eXZvMDVOaEJYbHkwaEZEUy1Vd2FxX3o2THh1NnprRV9nZlZiMG1oQnluT0dxNGhyc3B2SUtDcDBPX1dITVA3Q215RDNmaEJBZ2RhZ3FaVWt3WDg4M2xQUDdmbnZoUm1nSldDbDhnVXByTk5qN2hqb2l6dk93enBzQWFWMnpoVDhUVnB4WDUtYlcwUklxUEZaVXF0SE9HbnpXYjBPYW9UZm9YY0poNGZuVnnSAcoCQVVfeXFMTzlfMU1lZHFXYnZibkdvaGNsWnZDUHJZTnlsb2I2VHVTTG9FM3BSZDlNekJiclV2VUd0TDZQVDBzREVYTmVaeEdqX2k3Wnp3aW83Z3JQTmNoeENfTXphamt4ejNsS25PS2RZdGg4WWVLdDg5bE8xdHJUZWpvS0FPdHU0el9wVFZLY015bzYxbFc3eGVCbDF1dEluQUZUQmVZSXZqTnFUaXZlMUpiTjVzdk9PbEtiZjYxRFhkMHVXOWVsb0ZVdXNQWkttNXE3WjQ3blA4dFdwY0s3YTZsd2xMbENsbU9MMUpwcTBKRVhkWDZJd1FobXJoYllwQzlxNlRac1VURS1ZTnc5VjFIZHRqcC1feVROYkNDRkJZS05MeDBIczVoanBxa2pMNXppV19lTWdDQXd2ZTdTWjlqeHRRUlAtc0pFT3NPRGNn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Tiruppur Election Result 2024 Live Updates: CPI's Subbarayan K. Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWFCRDZPZHVaMXRZNDdfbjh3b04yR200OEp3eFZ6MEQwZzVFS2MyTU5JMFQ0MFpVT3lWc2pudEI0UGpuTk43SEhzbEoycFo4eHhJb19EcnVPR1d3bElKaWFaSmk5cEFQOGJkSHdueVd6cHJLT05nQ3NaUU9IMVVHUWZGQ0JxcFFxdDFyM3JjX2FlVFZPWHBLbHRpMVpUbmhsMjBMVDJoYXZZYWxteGt2UVh5S0VjRnhZOE96c1k3ME1ySjItb0lN0gHUAUFVX3lxTE0xNkduYXQxTVNUM0tnNVM5eElCd3BFSDJuSnRra0E3ZHNUc3l6M3JUM21OdC1yUm00VVNiRERkSldpWU1qWTRvZGlVU0JuSXJya3pWVDFDSEtaVzZQUUQ5WlpETEM4VHlyN2lhM1MxQURZcklCaGF3TklUTjl0cVBQdVJQRVVWaXZ3d0hKNjUxOFA2czhFTnlxWkRrVVRtazBlQjEtWmZFVm9oaTB2cDBkc0k2c1JYWGd4QjVrQWtiM2l6QnlrUWhmMDdtSl9qRkdqbEZJ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Tiruppur Election Result 2024 LIVE Updates Highlights: K Subbarayan of CPI Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSk1SbEc3eEM3MmM5VFVpUGtBdjhUTDI2Z0pMN09ZNEtMT2JMVFVFVzN4VU9MT3AzLUNmRy1KVUZ1WFpzVWJad0EwRHVseWw5MVItYWNscHA0NUtSZVBMLWs1eFB1cWt3ZWpiNTNjVFFrZ1dKeWhEVUplU0lHTWxlYkZJV1AxYVpULWc3RF82T3Bpc3FVV2wzQUEtMjUwYzZrSERlMU5VWEtTdUoyT25mLUVySmZYSUhzNFQ0RkN6dXFqdW5pckFZT0JUeXBHLTFxRHJNVEdZcDFPd0hLc2VTV2g1d9IB6AFBVV95cUxOYTVhb1VQN3pPLUFZVThGMWRaakVPM09UamRMQksyM1hod3dzT1dyS0RLYWN2T2szSXZOSDlUOFpYN2NETXM0VEhWVnRpOF8xaU9sRjF6MVRHVUlUbnJOaVRrM1NUNjlRaGo4ZWp4bVZWd0hPTnA0TV94NTlfSlRTQ2o5WnN1a1FLT3VadGp4eWhzRFhZZkxBQjB5NDZ5akNMM1JMbkw2d21vQmhvb1p2MUdsMTk5VHJVVXk0TlZVWFBRYW1SbFRsMXlseDd6M2cyQ1l6d3hjel91WVVkdEZWNU9TNk1hbVZN?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 17737,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "COMMUNIST PARTY OF INDIA",
+  "party_bond_total": null,
+  "party_full": "Communist Party of India",
+  "pc_id": "tamil-nadu-18",
+  "pc_name": "TIRUPPUR",
+  "pending_cases": 1,
+  "phone": "Tel: 09442280290 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180372.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 59
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to bring a National policy to ensure uniform service conditions for ASHA and other health workers in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to postpone the delimitation process for a period of 30 years from 2026",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to collaborate with Pakistan to facilitate for guided tours, cultural festivals and academic exchanges at Indus Valley Sites situated in Pakistan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 121
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-subbarayan"
+  },
+  "qualification": "Matric",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Culture": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Finance": 6,
+    "Health And Family Welfare": 7,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Labour And Employment": 3,
+    "Law And Justice": 1,
+    "New And Renewable Energy": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ARUNACHALAM, P.",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 76,
+    "criminal_deduction": 1,
+    "legislative": 66,
+    "mplads": 92,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": null,
+  "total_assets": 10431271,
+  "total_liabilities": 150462,
+  "wealth_pct_increase": 30,
+  "winner_vote_share": 41.38
+}

@@ -1,0 +1,355 @@
+{
+  "accountability_score": 36,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1266200
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1590000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 2856200,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 100000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 392450
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1745539
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 714600
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2952589
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3501",
+      "total_assets": 5808789,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 5808789,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Chandubhai Chhaganbhai Shihora is an Indian politician, social worker and the elected candidate for Lok Sabha from Surendranagar Lok Sabha constituency as a member of Bharatiya Janata Party. In 2024 Indian general elections, he defeated the Rutvikbhai Makwana of Indian National Congress party by the margin of 2,61,617 votes.",
+    "title": "Chandubhai Shihora",
+    "url": "https://en.wikipedia.org/wiki/Chandubhai_Shihora"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Kedariya Halvad Halvad Gujarat, 363351",
+    "emails": [
+      "sihorachandulal@gmail.com",
+      "sihora.chandulal@mpls.sansad.in"
+    ],
+    "phones": [
+      "9429168100"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/chandubhaishihora35/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/ichandushihora"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "01/06/1962",
+  "eci_state": "Gujarat",
+  "email": "sihorachandulal[at]gmail[dot]com,sihora[dot]chandulal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Interest Received From Bank"
+      },
+      {
+        "person": "Spouse",
+        "source": "Passed Away"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.20 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101954592,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 266907
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 266907
+  },
+  "margin_votes": 261617,
+  "minister": false,
+  "mp_name": "Shri Chandubhai Chhaganbhai Shihora",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 45045408,
+  "mplads_unspent": 101954592,
+  "mplads_utilisation_pct": 30.6,
+  "mplads_works_completed": 64,
+  "mplads_works_recommended": 209,
+  "mpsno": 5617,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "​Surendranagar election results 2024 live updates: BJP's Chandubhai Chhaganbhai Shihora vs CONG's Rutvi",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOOFF0cDR6US1BclZvdko2Z2ROTzVoSlVvak1lYWt4VE9nVVBEbFlCT3g5RGJ0WTNkMFdmblBGVVlYRUgyazVRYWRlMjZ0N0N5SVB6VFU2SlVYUFdOeV81cFRkalcxaldUM3U0TE5zdU1id2pjY1BHcDlkZ2Z6OHdCU1A1U1cyTUtjU2hhUWZPU1lHaFhGLW9LUVd4R3RtSXZ3MnN5eklCZWNyZ3lhc1MtRUFsNGVBNUx6Z1llOWpIRXlMQmZFRDNRbHVyU1VyYlduX19HZFpVdWJJNlhBQVY2VU5aRURnOUo1aWxHSVBySzNBTHlJSmhKS3kwanYycm9mYWt2TmlCRkJsaVBUVVpHckRudmotaEIzX2ljaXZnU3hTRU1NUkNwcGVRRDNYNXZLc0lvZXJJc2Zic0tmMGdudW8zcWVjb0pBMmFqanFuZ041UnY2X2tqbVVXcnZKdXVv0gHmAkFVX3lxTE5SV0d5NTNHWFA1NU1pbnJqYWFhYXBEM01qNUZkTlVId2JaNjJFQ2FxZEU2VEZmeFRfMFFCbmFyRHhlZE82SVhYbHc2TkdiQi0zby1hNlVMcVlocVV3U0pZeFo4STFjSzZ4RmVobUZDTlkzaXR6V1VBQmxqMHVmNWUzdE9xM1pDel8xWElhbE80T0psa1gxQ3R5T2lFTmE4bGwzbEctRUhqVVZVZW03V1pINkR2N1NBYXFNYV9ZeVFaby12eHh0anV4Z1FIUV94dEltU0N5N3prcUhJdHJjTHcyV043bmFBX0luVlVtU0h4aGJGU1UtSm5FYW0zLTF6UkxFZE9HYlA2eThSLW54WS1XbE5VRlJNZzY2QmVnUHY2cFRyYVhfWVJHTVZtZldISzRfMXk3QURfakZ0UGZ1Y0k0Zmg2bTdBeGJXMTl2UHdORW9mbWpTWEEwTXp4ZEc2cXp1UTRnREE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Surendranagar Election Result 2024 Live Updates: BJP's Chandubhai Chhaganbhai Shihora Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMEtBVkxGYWVnV3d5WlFFOVU2UW4yeEZZb1JKM0xkRG9kYlljUWJIY0VDT1FncWdCblgzcGNvOWJZcjd6dFBkbkVCR3dZcTE1V0pkQ3VjZ0Y1YTZrWC02UXJLMWduNS1iQmhMSFVjcEl2WGlvbUtDbVFYeTgyeW1rVW1NMThLN3E3MFFLbDhhNTY0X25Rd1o3SzZmRV9PRG1waUU5bjEwSHdwU0NPc0ludDhGNWVlUkk4X0VwMnZ0WjFfeGFhNWVZSXln0gHXAUFVX3lxTE5Cd2NHM0Y1MkM2aWtPY2JaSnVYTnh5NGt2LWwtY2lDX0R1OGl1M2MtN19USVlTNEFfbEdpVUtPUVRYUWt5ZU9MV3lCY3pjcFZrb2VoQm1KcTV4M0dEbHRXRnBQR1NFN0xndjczcnVidy1RdkVsS0NfYm1nSlpqQ25ONENwQXd0UDJ2LXMzaG9IT3FfclFaeFJ4SjJOTEF6UF9fTC1NX1d6eUVqMVE1UkZubXY3RS1nV3liS3NKcGFGdmtjTVlLOVNiekdnRnlrRVlUOTNQNEV3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Surendranagar Election Result 2024 LIVE Updates Highlights: Chandubhai Chhaganbhai Shihora of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONFhMV2tCMzhxNzBsZG0tNElCb3NoYnloSEdBUEQ3Nk04SUFMaFdGdEpKUjUwT0tWdlhYaDVuMzFCVXFySWw1NFJ3cTk5aUVCT1RrbE1rZFM0aDZjZGVUelcyS1d2Sko3ckZQVWh5N19rU0NXZV9GMW1wUjZHZGhHZUtJb0RqNFNoWHktQ011QjZDMjhYbTdpaEo5UUFZTmtRT3pmMlU3VDQyd05hUUFfbzc4SGhTQ3VYNFpSTHlBS0I1YTRfOFJWY2F2YmJqeXY0UzVTeDJibVEzdHZVYmxzalQ4TU9QZzBJanfSAe8BQVVfeXFMTk10emhrTzZtOXRuSE9GQklOLVJuWkpydHFoV2lqMVMxYnAwVnB5S3RPR1ZSY2xGY3JyYlV2Wko3X3dzTkotRm1aamozLVZjZWVmNUt6NFQ5bDZyN0kzSkZnZkpVcEotTDEtdmR3clFVbjBVY1dVeGFWSTdoUGdqQkF3SXNvYlNzNHRVdWFCcDNnODZMYVQ2VWN4dWw0M29aS0lkUlVzMWZRdEVXVTRmZTdXZUFlanBMRnlFTVp0UzIzMmN0WTB3dDB6OUNfVTUyUXZKcnplZGVMcWlMckdzb1dvZVgwaF9EWE90cExSSU0?oc=5"
+    },
+    {
+      "date": "2024-05-31T19:13:31.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chandubhai Chhaganbhai Shihora",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3hWLW1iM3pKa01GREVRUnhpY2xLR0V6a1NDaHdoRHExVVFBZHVQVFNmVTlkcjR6eWdIaF9YXzhuRDNZTHZFRjhBMmlpYmhtaHJEa0dfS2F4M1g3cHVxVmZDLWNfNjZWTnZMMVpTMWdta0ttTjBXcVhORkNWUkFaN05xdFM2SEJSUll4Q3h1cUNxRW5ua2RCSExrQ29KX2N5bndFelpJaGdkTTZWaUNxYTl6MklmM2JwZkYwN3ZXRzI0ZlQ3SmxZbXB2TnphbmtpMUdn?oc=5"
+    },
+    {
+      "date": "2024-05-06T05:42:24.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Chandubhai Chhaganbhai Shihora, Bjp Party, Surendranagar, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPREhlWW9iU051aW9nVG1CcUk5X1pTYU5UWENNWU5MT0ZBZGRtNTZUM0JXZ2ZZRE5GQ2NnNXd3c3lWWWJqNWJzWjN3N1Q1Tmh4YmRZOS1vUTZlclN6WmtIcU95S3l0YjNFWE1RVEQ4VVQzcWdCS1ZVNUREc000ODdGbW51a3VrTmhDbnNxbVcwRkUyU2hfYlc1cDhfZ0I1VkVpTjJ4R0s2N0FtYS1YcXJQd3dKU0xqSkJuSUo4RThkeUtOMFZ1WmI0VkJqeHE3VFRfd2VGQ0FKQ3cxR0hxWHhLSnVLNTVhNG9HWHR2ckU0UFpJSGpPQWc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13299,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-9",
+  "pc_name": "Surendranagar",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180109.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Financial Assistance to Agariya Salt Workers Affected by Rain Damage.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of a Mega Textile Park in Surendranagar District, Gujarat",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 7
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/chandubhai-chhaganbhai-shihora"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 2,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Environment, Forest And Climate Change": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RUTVIKBHAI LAVJIBHAI MAKWANA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 0,
+    "legislative": 23,
+    "mplads": 57,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 5808789,
+  "total_liabilities": 266907,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 59.2
+}

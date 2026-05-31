@@ -1,0 +1,558 @@
+{
+  "accountability_score": 27,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1379000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7133851
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2490000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Max Life Insurance co. Ltd. Policy No 1001010xxxxx 4,30,700 4 Lacs+ Kotak Mahind",
+        "value": 2385547
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1000000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1411000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15799398
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3yvNRrBLq32CTNNdAquC",
+      "total_assets": 16175950,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7158",
+      "total_assets": 24799399,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 53,
+  "assets_latest": 24799399,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anita Subhadarsini Pattnaik is an Indian politician from Polasara, Orissa. She was elected as a Member of Parliament from Aska Lok Sabha constituency in 2024. She is the daughter of Mrs. Kumudini Patnaik, who was also MP from Aska during 2000-2004. Anita's father Ramkrushna Patnaik was minister in Naveen Patnaik and Biju Patnaik's cabinets. Anita, Kumudini, Ramkrushna were in Biju Janata Dal earlier, later they jumped to Congress then to BJP.",
+    "title": "Anita Subhadarshini",
+    "url": "https://en.wikipedia.org/wiki/Anita_Subhadarshini"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Dhunkapada Polasara Polasara Odisha, 761118",
+    "emails": [
+      "anita.subhadarshini01@gmail.com",
+      "anita.subhadarshini@mpls.sansad.in"
+    ],
+    "phones": [
+      "9437061558",
+      "8249461558"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/AnitaSubhadars1"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "23/09/1972",
+  "eci_state": "Odisha",
+  "email": "anita[dot]subhadarshini01[at]gmail[dot]com,anita[dot]subhadarshini[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 493940,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 485800,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 520810,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 524610,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 460450,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1412560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2419780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1727530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 932310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 818450,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Coaching And Advocate Sources"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 6% of MPLADS local-area funds were spent — ₹13.88 Cr unspent.",
+      "headline": "94% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 138765684,
+        "utilisation_pct": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1000000
+  },
+  "margin_votes": 99974,
+  "minister": false,
+  "mp_name": "Smt. Anita Subhadarshini",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 8234316,
+  "mplads_unspent": 138765684,
+  "mplads_utilisation_pct": 5.6,
+  "mplads_works_completed": 13,
+  "mplads_works_recommended": 140,
+  "mpsno": 5597,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Aska election results 2024 live updates: BJP's Anita Subhadarshini triumphs in Aska, defeats BJD's Ranjit",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOa1hMdzdLb3dQMXFsd1Q4b2ZKTDVmM3JLeUd6aURNdzF3bndaUXpoY1FmcWNXTTdha2dRejFHQ293YjdzdmozUHFuY2poUHFza2IzN3dnbmVrNDZWVkYxZGdBZDdHbm1nOEhHSmlMdWZDN09uXzlQN1RUWUV5eWUtSTczcl9uWGhoc1l3dXlDWG1lWVlUVVcyQUhIS2RBS1NkVmpiVnNDZkFIaUpDY1psdVFKVDgybVg2MVlCRlZSeDBNdXNqbm5LSFpFM1VJNjJtbVU0Q3VQdjFINHIyeU9ScGFNZmZYa2YwVmhhNWUxNlJlWWg2VnBtcDFwMFcxTFk5R0Rlb1hydmE1LXVpUTJBM0FSWFc1WU1seUtLWUlFNzVCcUNNdlFtZE9WTkNjMDNoa1JKNloycDNjaDlLdkMxetIBxgJBVV95cUxNM0k1c2pJdjlEOVhGV0VydjhJNXAxSTg2eVV6ek45OUUtSmgxZzFWNm5Fakh1Y1o5RDVpUzdWdDlMR0lqazF1cGhkcFc0eDVpSUtwa0FNOHJuWFRiTE9BNWVtWm1pazgzc2JVcmJtVjN0YXVjM251bFBuMDRYdFViOG9kWEFVenU5Q1hwcl9ZUFpVZ2Z0cEJ5eklrZ3o4ak9Pd2Q1cGZGRHNUQ3MtdVM4Sk9aUWt2OVNqSEFhX1c0OXlNV1ZEYVhVdFNPZ0FCN01zQnluQ19ROGcwUFZWUFFoVXRWd2trYzJKRnp3VFV6MUFMTkhIa1VmVGI5bmVDamRNVldZQ25ObUdSb21Zd20wbkV2di1mRUNRcG9fc2h5M1Nneno1eng1MXBXNFM1QjE2NFVybUtOV0JLVXdlR1JnWVZtWFh2Zw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Aska Election Result 2024 Live Updates: BJP's Anita Subhadarshini Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGp3a2p0QXU5NUFKdENZWElfdHVlU1B3SDJrSXJ5Q1EzUTJ1NDBKMTNLS3BwUUFVemtiOWFRMzZ3NWtWUVZqTGtvN005STEycGVuV3lmTk5KMXlCTE9xa3hEb0ZNT1FFQU0yRG0tY01KZTBwcFIySE1xN1FMenZQOXRDa3lMaU9YT0xWTU5iSC1mRVQ4anRqOFRCN1M1Uy1iaENMZEcyczhQY3ljVXA3UXM2RWRiRkdldWZxNdIBygFBVV95cUxPMmlzV1cxa1dhQ2pLZHFSRl9FeU5rT0pHamNybEJhTzZOb2RUbU9wU2NNMXZJbjAzWFR3UXEwQkp3NzZyRzlaUTI3ajN5dHh3aF8tVEM3bVhRM2ktdVY1b09VTTg4eklJeHhQclg1NE9WekhvM2Nwcl9UMXhYMGREN2JYcTFfSXNJVnB6TkVSXzNTWkxkZGxLSkpOSWZ1b3RmYWFWZW1NR3FTa1RRelg1V2tQQWhZMm9kRVYtZ0Jmc3FQMk5ZYXZDR0d3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Aska Election Result 2024 LIVE Updates Highlights: Anita Subhadarshini of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUppZ0dPOEFHSFRfazBZWnloTHpCZ3AzQ2VYZFBUV01zZngzZktPbVAxOWxmR1BTTl80TVRSX3NUZmdzV1owZlItbFNxYmVaeFZPZWEwb1dXSUNDaUc1c3pPNndIU0c4QmdtSG9zcUF5V3VGbDZNMmtJR21wRkVNdEtqalM4X3NJclRXdGozTVlZMDJWNFhGWGF6N2NtZTRYZ1dwNGxJYkJfQnFVZjV4c2EzZ0dRSF9yeVpnWGpyTmlwNkxVRmptSEZiSXVfczhsaFRNX2lJVGdIb1JkVFHSAeMBQVVfeXFMTlZOdE1Sanp0RjR6c1c0WU01bnJ3Sy1KTHpNSU9yX1RCdnp1Z0U4LTJXSlVrelFvMFBOLWtfVGJzXzBzaXU0MDhWVDY3aGRTdDlBaXFvRE5DOGFKczc5UzhMOXR0eHFDdVJ3Q2ZvbFNNb2NRbWJIbGRyQUtxMUdCbm5hM3VmcEJ6bGdaZGtJbHJYUVByS2dRUDZUSTA5QlMtbG40a0NWNWl2dm9nWlpWbVEwQUJLVnpxZUFES2xQaTVnYWM0LXNmNUstSU05Zk84TXN2QVkwdlhUeEhtanZlYTVxbDA?oc=5"
+    },
+    {
+      "date": "2024-06-01T02:52:51.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Anita Subhadarshini",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXhLZ3dwQzdnVWItNTZTaElaRXVRck5ta1dGTkx2TUg2WHlMOFcyY2xia2I0c0VfRVQzZXBFVUdpR3hHU1VzOFdjcEdvMVgtSWxQUGE0VjR1b2ZKYXpTNzRYNThBZ1RyRjRjMkhsYWpVdExtel9BNG5PR0FJUndvbjVHenZVTzJjOFg2UHhHMEhwWnRCR0x1OU5DZ294NV83TXYwc09NVGhsZWRtRFVyS2NuNDZFdw?oc=5"
+    },
+    {
+      "date": "2019-05-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "Aska Election Result 2019: Pramila Bisnoi of BJD maintains wins, BJP's Anita Subhadarshini loses",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVjJ6cGlCdnJ5dkJaLWJpbEZJT3RvMnpubExWeXNRdlVsNVBlZ1p2SnZsYnZEcjlzQWxSWER1NHNnQ2NqZlA4OEZtRWRyWUR0RjhnNGNhcWNidnJRWVBPc1k0VDBxelpvWXBHVzU3eU1oa3dPc0x2WkFjMkdqMjhCZGhCUGNvS29WbVBfWVNWUzR6SjUwYjNXYnd5MGZyUXM1SktWWS1ZMDUzbF84eXhYdUx6RzR5T1pmTDhQbktsZ0MyS1VINm1paVdweV9BYmExSVU5ZmNhSzF3LXpSTWlta1pKc2g1TFdoVWF6SzBzaTdTbDg0cjU2aHdPbEpDRVVjV001TmpERmZqY2RtQWV5ZTItd3ptVkHSAZwCQVVfeXFMTWZHTEU3MF9RdWkwdV91TEl3QVRoYkJ6bHFwTTlMQzR5TVVIUTNocWI5ZDU0OVlsbDAwVHpzdC1ZTC1nemwyRzlKQ2xnS053enpsYXlOQ28tMnhFcHNfaVBPOEZiRndSbUl2V0xTNUd3bGhoZjFESk5SRXF1aVlKR0t4b091ZHpPWnlfS3Ftcmx2MUxyNVplc3NXNDJ2eGNEc2JrdTdoamFkZkZhcktvejVMZ3dUaE1wUHVCX0F4eXVzc2tOU1R2b1loS3drZUt3alZudHhJRU5fRHpqYzNKRW1QWmVNbU5QV2xGdFFSOEdteTV6T3F0R3EzZmdQcHdILWhrbXFJVjJJeXhIUGZFQngyMXZmZ0NfOW1ISUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 21941,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-19",
+  "pc_name": "Aska",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180299.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Request for National Heritage Status for Ahilyabai Holkar Associated Shiv Temple near Paharganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to set up Water Treatment Plants in Hinjili and Surada Legislative segments in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to provide financial assistance for revival of Utkal Ayurvedic Pharmacy in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to address the problems being faced by Tuberculosis (TB) patients and restart the movement to eradicate TB completely in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to expedite construction of proposed Nandini Dam on Mahanadi-Rushikulya inter basin water transfer link in Bansadhara Basin",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to declare Bhetnoi in Ganjam District in Odisha as a Black Buck reserve habitat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Government Intervention to Revive the Aska Spinning Mill in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Regulation of Ultra-Processed Foods to Protect Public Health",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for setting up of Atal Tinkering Lab in every block of Samastipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to provide financial assistance for construction of railway over-bridge near Khallikote railway station in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to provide financial assistance for Pipalapanka Dam project on river Rushikulya and Adangi Nalla in Ganjam district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to set up a Cold Storage at Hinjili in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Amend MNREGA Guidelines to Include Rural School Infrastructure and Ensure Timely Wage Payments",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to establish a Textile Park and Skill Development Centre at Hinjili in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Declaring Lord Jagannath Temple at Marada as a National Heritage Site and Developing a Tourism Circuit in Asika Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to expedite environmental clearance and land acquisition process for speedy implementation of Pipalapanka Dam Project in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to develop Marada Jagannath Temple in Ganjam district, Odisha as a tourist destination",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding revival of Ginning Mill in Aska, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Financial Assistance to Strengthen Healthcare Infrastructure in Aska, Odisha, and Establishment of PM Jan Aushadhi Kendra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to establish big diagnostic centre in Aska, Ganjam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need for revival and upgradation of ASKA Cooperative Sugar Industries Ltd. (ACSIL) at ASKA, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to provide financial package for revival of Aska Sugar Factory in Aska Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 33
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anita-subhadarshini"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 10,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Commerce And Industry": 1,
+    "Earth Sciences": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RANJITA SAHU",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 0,
+    "legislative": 36,
+    "mplads": 13,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 24799399,
+  "total_liabilities": 1000000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.55
+}

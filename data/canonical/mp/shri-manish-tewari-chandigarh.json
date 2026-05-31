@@ -1,0 +1,679 @@
+{
+  "accountability_score": 31,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1200000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 207500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 208700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 66650
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 44534425
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1364
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1022250
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 27515818
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3654406
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11197775
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 150000
+      }
+    ],
+    "movable_total": 88142688
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=g4FMWYNShb4rNxmjMjUS",
+      "total_assets": 10842494,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=g4FMWYNShb4rNxmjMjUS",
+      "total_assets": 29941543,
+      "year": 2009
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=g4FMWYNShb4rNxmjMjUS",
+      "total_assets": 154637860,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8819",
+      "total_assets": 296842688,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 2638,
+  "assets_latest": 296842688,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Manish Tewari is an Indian lawyer and politician. He is a member of the Indian National Congress and represents Chandigarh in the current 18th Lok Sabha. He represented Anandpur Sahib in the 17th Lok Sabha. He was Minister of Information and Broadcasting from 2012 to 2014 and a Member of Parliament from Ludhiana from 2009 to 2014. He contested and won from Chandigarh in the 2024 Indian general election.",
+    "title": "Manish Tewari",
+    "url": "https://en.wikipedia.org/wiki/Manish_Tewari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Guram House, 20-B Sector- 4-A Chandigarh Punjab, 160004",
+    "emails": [
+      "manishtewari01@gmail.com",
+      "manish.tewari@mpls.sansad.in"
+    ],
+    "phones": [
+      "9811400000",
+      "9582777912",
+      "1126716001"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/manish tewari"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@manishtewari"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 10,
+  "dob": "08/12/1965",
+  "eci_state": "Chandigarh",
+  "email": "manishtewari01[at]gmail[dot]com\r\nmanish[dot]tewari[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 7310140,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 8054120,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 9460760,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 12004310,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 9765760,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4502210,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2647330,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1481219,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2375774,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2764060,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Legal Practice , Writing, Speaking Engagements, Conferences and Salary as Member of Parliament (Lok Sabha)"
+      },
+      {
+        "person": "Spouse",
+        "source": "Bank Interest"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹1.08 Cr (2004) to ₹29.68 Cr (2024).",
+      "headline": "Declared assets grew 2,638% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 10842494,
+        "from_year": 2004,
+        "pct": 2638,
+        "to": 296842688,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹28.60 Cr between affidavits, while declared income across 5 ITR years totalled ₹4.66 Cr.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 286000194,
+        "declared_income": 46595090,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 10% of MPLADS local-area funds were spent — ₹16.02 Cr unspent.",
+      "headline": "90% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 160214255,
+        "utilisation_pct": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 2,912 votes; the seat was won by 2,504.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 2504,
+        "nota": 2912
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 24993400
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "39,556 39 Thou+",
+        "value": 421803
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 363156
+      }
+    ],
+    "total": 25778359
+  },
+  "margin_votes": 2504,
+  "minister": false,
+  "mp_name": "Shri Manish Tewari",
+  "mplads_allocated": 178351444,
+  "mplads_expenditure": 18137189,
+  "mplads_unspent": 160214255,
+  "mplads_utilisation_pct": 10.2,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 95,
+  "mpsno": 4430,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T15:19:17.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "Manish Tewari has lost moral authority to continue as an MP, must resign: Sanjay Tandon",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcHFfeWJMX1I4WmlRY1piS1RiRngyRER5ckhzcDhPd2ttRmMzaHNnSGthVW1pYnhRTmU0clIxQzd0RWwyOEIwZlNuQk1qY1FQdEgzblozX2ZiMnFENGU1dEZ6OGl0emhxRkc4ZllHdU9RcTloLTFHZjdrMUl2NndjZTNDQ3ZEQWR4eElqQmV2VVRVenBVelpjMW9OVHBVdEFNcGZGSTZCNHVqb3NGZEUybzlFVXZFSFdvZmtzOFdUVl9XWkVudmpIMGJCV3hWLVVteGd6TEhjRdIB1wFBVV95cUxOcHFfeWJMX1I4WmlRY1piS1RiRngyRER5ckhzcDhPd2ttRmMzaHNnSGthVW1pYnhRTmU0clIxQzd0RWwyOEIwZlNuQk1qY1FQdEgzblozX2ZiMnFENGU1dEZ6OGl0emhxRkc4ZllHdU9RcTloLTFHZjdrMUl2NndjZTNDQ3ZEQWR4eElqQmV2VVRVenBVelpjMW9OVHBVdEFNcGZGSTZCNHVqb3NGZEUybzlFVXZFSFdvZmtzOFdUVl9XWkVudmpIMGJCV3hWLVVteGd6TEhjRQ?oc=5"
+    },
+    {
+      "date": "2026-05-28T14:40:43.000Z",
+      "flagged": false,
+      "publisher": ":: India News Calling ::",
+      "title": "MP Manish Tewari inaugurates children play equipments in Ward No. 22 parks",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUdUb2o1Nmo4bkMxU1FyZTd0Nnp5LWhIcEpqRkVZeXhJU3dqc1EtUFJ0dkNhQno0U1BmZGh6TzZtQW9QNjdsM1hJSDZEVEhNQVA2eUNMY2x2dTNWZDlOT2Mzby1FVW51Rjk2VE8wbFJOaElTMmowUy03Mmg5UlN2NTYyQXBLaVVVckNaSlppVFZiSjl4OThmbGRiTVdHWExfV2hjVXRsU1lFVVhWZmxtckZZNmZHZmMweElBb1Q1OVc?oc=5"
+    },
+    {
+      "date": "2026-05-26T13:25:36.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "‘Bhukhe pet bhajan na hoye Gopala’: MP Tewari slams fuel hike as petrol crosses Rs 100 in Chandigarh",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkJJZGFPX05USVk4MW4wS0l3ZW4yNTd1b2pVbllua2hyakhLZFRpZ0lEVDMwT1U0WUNUZ1VhRjhfZU9aQkpyTjRsSkc4VEppM2hwSlRXenBxVXFHcFN5VDFyWTA3cUlXSDBsaFdaM3RQQVJ5bkphLWhORFdLMC1wNDZBYS03b0tCbmNVZ2R5dnk4a0hQQTF0QjYwNWpNVEhreWhMV1BFOU1pTHpQMGdQb3JPYzB5T0dtUXprWjVFbWp0ZW9zYWc2QnlsLTA4UWltQ21aWV9tZGcwZU0?oc=5"
+    },
+    {
+      "date": "2026-05-25T07:53:46.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Chandigarh MP Manish Tewari questions fuel price hike, cites oil companies’ Rs 77,280 crore profit",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1JxUldwVm9VcWIweUtlRWI4SGowR1dVYXEzV3JfQ0tBMDUwLTVGM1lldzhyX3NmMEFuRnBObGpUa1NBTHBEcjA0eEMxZkpVZ0VWYnFCRGloS3dRX29FNDhsYUdnLXQxeGhwellWVDd6MVNLdHRaRTdPMDdwNjdPbmpzai1XaXhCdTJSd0dqd3AxcVBaSTd0NDZIcEthTFhYcXFYUkRic2NfdzdPdmJxLUtndGtTMHQzQ0kwamtFT2tncUVRcUhnQ3ZLX1pSYVExV01YMUFaQkY?oc=5"
+    },
+    {
+      "date": "2026-05-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Chandigarh Congress criticises Tandon’s statement on Manish Tewari’s demand for free power",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYlhiSU8wQkxueGFhb3RRNk15LUlqQ3R4bUlfcnJlYmxFWXdsYkpWTzZ0a3ljYzQxUHZIMWFlazZObXRHeHlNNzl1N3VhQlhCZVhjY3BGX0t4Ry1XOWJ5Y2lpY0JaWFdtSUZ1UEdsNzVReE0zVk5MMlNDSHdOdm1DNUQyTm91R2xZdFpJZ1pVMnZrQnB3cnhraE9xN2ZmTm9mQkdqaTk2b2RlbzlXNXl3OXVn?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 2912,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "chandigarh-1",
+  "pc_name": "Chandigarh",
+  "pending_cases": 0,
+  "phone": "Tels : (011) 26716001, 26716556",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180083.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Investigation into Alleged Misappropriation of ?125 Crore from IFBC Bank",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to address the shortage of petroleum products and fertilisers in country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Opposed the introduction of The Foreign Contribution (Regulation) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need for inquiry into alleged irregularities in financial transactions in Chandigarh Municipal Corporations",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Opposed the introduction of The Corporate Laws (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to undertake comprehensive measures to ensure ecological restoration of Sukhna Lake in Chandigarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Issues Relating to Social Security Pension in Chandigarh and Income Tax Exemption for Armed Forces Personnel",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to expedite revision for enhancement of cost norms for supplementary nutrition under the Saksham Anganwadi and Mission Poshan 2.0 scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Opposed the introduction of The Securities Markets Code Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Opposed the introduction of The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need for financial audit and modernization of Semi Conductor Laboratory (SCL) in Mohali, Punjab",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Opposed the introduction of The Viksit Bharat Shiksha Adhishthan Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for creation of a mass transit transport system for Chandigarh, Mohali, Panchkula and New Chandigarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need for a waste to energy plant and clearance of garbage dump mound at Dadumajra in Chandigarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Urgent Action to Restore Chandigarh�s Pollution-Affected Water Channels and Resolve the Dadu Majra Garbage Dump Crisis",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal for early resolution of pending property related issues in Chandigarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to review the decision on enhanced conversion charges for leasehold to freehold properties in Chandigarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Opposed the introduction of (i)The Constitution (130th Amendment) Bill, 2025 (ii) The Government of UT (A) Bill, 2025 (iii) The J&K Reorganisation (A) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Withdraw Unjust Increase in Property Tax and Collector Rates in Chandigarh and Ensure Fair Municipal Funding as per Delhi Finance Commission Formula",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Opposed the introduction of The Indian Ports Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Parliamentary Oversight and Statement from Law Minister on Judicial Inquiry",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Opposed the introduction of The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Protection and Repatriation of Undocumented Indian Immigrants in the U.S.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to revise cost norms for supplementary nutrition in the interest of children and women",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Opposed the introduction of the (i) The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 and (ii) The Union Territories Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to revise the cost norms for supplementary nutrition meant for children and women under Supplementary Nutrition Programme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Opposed the introduction of the The Merchant Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to the govt to issue the Senate election notification immediately for punjab university",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Opposed the introduction of The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Demand from minister that the decision of Februrary 9, 2023 be repealed in its entirety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Urge upon to govt to inform what steps have been taken by the govt. of india to maintain political stability in sount asia in last few years",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Opposed the introduction of The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 42,
+      "value": 42
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 6,
+      "value": 6
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 122,
+      "value": 122
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/manish-tewari"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 37,
+  "questions_by_ministry": {
+    "Civil Aviation": 3,
+    "Communication": 1,
+    "Corporate Affairs": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 3,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 5,
+    "Finance": 4,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 5,
+    "Housing And Urban Affairs": 4,
+    "Labour And Employment": 3,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJAY TANDON",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 0,
+    "legislative": 81,
+    "mplads": 31,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 29
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 296842688,
+  "total_liabilities": 24993400,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.22
+}

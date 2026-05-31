@@ -1,0 +1,499 @@
+{
+  "accountability_score": 35,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 34911400
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12900000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 20000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7900000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 75711400,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 450000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2558325
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2000000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1200000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 25792000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 32000325
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Telangana 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PpcUoqDNM9Av4DC7jyb",
+      "total_assets": 61709110,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5254",
+      "total_assets": 107711726,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 75,
+  "assets_latest": 107711726,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shetkar Suresh Kumar Shivrao is an Indian politician and a member of the 15th Lok Sabha. He is elected as the Senior Vice President of Telangana Pradesh Congress Committee in 2021 He belongs to the Indian National Congress political party and he represented Zahirabad constituency in Telangana. Suresh Shetkar was a Member of legislative assembly from Narayankhed constituency from 2004 to 2009.",
+    "title": "Shetkar Suresh Kumar",
+    "url": "https://en.wikipedia.org/wiki/Shetkar_Suresh_Kumar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "1-4-126 Ram Mandir Gally, Narayankhed, Sangareddy Narayankhed Telangana, 502286",
+    "emails": [
+      "sureshshetkar1960@gmail.com",
+      "suresh.shetkar1960@mpls.sansad.in"
+    ],
+    "phones": [
+      "8456283188",
+      "9440859084",
+      "1123062902",
+      "9013180082"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Cr. No 107/2020",
+        "charges_framed": false,
+        "court": "JFCM, Narayankhed",
+        "fir_no": "107/2020, Narayankhed P.S",
+        "other_acts": "Section 156(3) Cr.P.C.",
+        "sections": [
+          "406",
+          "409",
+          "420",
+          "34"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "08/08/1960",
+  "eci_state": "Telangana",
+  "email": ",sureshshetkar1960[at]gmail[dot]com,suresh[dot]shetkar1960[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1533425,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 986918,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 977357,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 710121,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1373486,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Rental income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹4.60 Cr between affidavits, while declared income across 5 ITR years totalled ₹55.8 L.",
+      "headline": "Declared assets rose 8× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 46002616,
+        "declared_income": 5581307,
+        "itr_years": 5,
+        "ratio": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 11% of MPLADS local-area funds were spent — ₹13.06 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 130596569,
+        "utilisation_pct": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6447400
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6447400
+  },
+  "margin_votes": 46188,
+  "minister": false,
+  "mp_name": "Shri Suresh Kumar Shetkar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 16403431,
+  "mplads_unspent": 130596569,
+  "mplads_utilisation_pct": 11.2,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 336,
+  "mpsno": 4523,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-01-23T01:16:15.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Suresh Kumar Shetkar , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3F4WHJyYTVsSW9WREFMOXg1UlItejEwekd0Q0NSMlJDRTcxd2J0T2d0QmZMX29jOWhxQ0pFWWJrQmpMbFY1ZTZ2eWEweng2eXJjU2wwWm1nOU5JTUdiWUxZbHUzUXFUeW1NcTJZS0QwN1pIaGI2Wk9IS3BWcFNOQUNXR0FldXoxSmliMmpB?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Zahirabad election results 2024 live updates: Cong's Suresh Kumar Shetkar wins",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQeEQ5VTJNOV94SkE2U2dLcHpvN29VUGV5ZVNrSTA0RVd3U1VPczB3LTlTMXMxM0d1b010UEw1LWswOUx1YTA5enZVRDByTm1pRm1pYm5OX0s5QXRGaTRpRkU3eU1ZMmtUZjItTDZGSTBqd19idXFFeWdfX0ljTDhPeHZOenJFckphNDZVbGlZN1lVR0hKc1llUFZMQXRpaUNCQ0JOa0FaM1JoYWllS1BnVWlJelZqUEJVZGY5TUd1NDd4NnJ5MUU5Sld0bVFLeE1RUjhnU1BLODFRem9QTllaQkxzWm9nQlBoUFNfMUVSUXJGWTZyTnBOdWxlZURSN2ZwV1g5RDQxdFpVa3pyX25oQ0c1R2tqdllLeDFsbmJGRjk4al9iSlBYR1JyTW9qcFdkcWtQbUhueUtyQXAxMC1IYjJlbXdqY0podzB0LdIB0gJBVV95cUxONHA4RGhjV0xMTEhfLXFSaWdTTk9mOFQ1WW1yOGZNYk9DNzVfS2xjeTQzemthWUFuZmw1VXFuT1F5TElKR2g5TlZNajdpdl96QnR1b3V1M0lSN1hzYXdoVEF3dWV1Rmhqa1ZQSi1LU1Z3Zjc2ZVBtOTdXU2RBNVR3YmF2dVJrSE5OMDRTMHplcFhVeVg1MGhock92TzVwQkpoaFZkOHJXVlNJTEN0dnh2M0Nqd2FZTWNmd0lCSmhwRzUxSFFYanJLNWRla2hzTzVBTHkzc1pmbi1ORlFpbjl0bUlMMHktLTlBR3VxNVhGVHNPZFVWcXVERUdhZ3ZlVzBlajBaYnFtdU1vLWZkc0FDWDBhYkxPM01xRlI1bExyMFFPYWJlZk1zLXhQbklQMEhvSjdVdGM5REcweFJwQU1zejlpRGV3WC1QMFFmaklVUVVGUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Zahirabad Election Result 2024 Live Updates: Congress' Suresh Kumar Shetkar Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakpkZEZ6Q2xMQy1BaGxpZk5lbUY5dWhfa2xObkhxaVNLcjlPR1NpMHo2UHFYQVlfVzJKTUFWVDdfd0FjdmJxV3dHLU8tdHdQSFZ2eVRRMXNtYl9KZUg1Uk00SFdrRzN1TWEwYTB3M0w2OVlnMDBXU0x0bnlLckx2aElQSENHZHlvYl9TM0VqRWdYaVdCWkluZ2xmQ3h4bk9FaGVHR3h5ek5ZRG1SQ1NOdmd4NUQ4UGRGNk5fWGlzRzNSS25MYlk00gHUAUFVX3lxTFB5UkJTUjVJUmRhZXdxTURUR2NqYk0yTU5GeXVaRVp4VUhlaXVHWHdhQTZtT3lleEJTMHpSMFhQUUVKVUUwN29MendHNjItdTVXakJmdjBJS3B1MDM0MUpZMFRrY3BBSDNhNmgyZnR3VnhyYWZKZkpFZmhiOHNfckxtalhfdnU1a0QwTjBQTmEzRUdpdFduUEFTX2lFNkdJOWxGaXgwcjZ4bUtnb1I2R3ZaQlNMMElwRWdsY0tUNVBxeVRISHBKTlFRbEh0NExBTnZtcFJu?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Zahirabad Election Result 2024 LIVE Updates Highlights: Suresh Kumar Shetkar of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObW9lbXF5XzMxSjRjaTI2NFNIV19RTG9CS0RGQUZOTnlLeTlXTGQzNS1rZ3Nrcm5xMHZNallqX3BFcXVOS2xaZzJsZXQtU1lLOWl5VWx3b2NGbVJ2RUxvcG9fR2FBRDU3NHJ0MFNNZmw2OElmZlFXWUw0QU9pM1ZEUmRZbkZoZFYyajJIV1hBNGhxd0JBR1JNa196MjByc2xRNGZUSllNaW9BMXk0d1hLQzd2TGNvRGJtYXhoRmlieUhOazNqX1lzc0M3WTA5ZllhTGIwU3M3bWNkU2pjcXpZNDNoVVHSAeoBQVVfeXFMUGxtUFdzQXdiWnpkQno3YU1QazZaOGJFYWZaRmNqWmdQMm1EM0hWZHcwLUJRRy1VV3JkNkRfZjh2a3RsakhPdHdQWjlWLUtvYi1qUFRveERJcUI1dDNZU1lQUHRaTHBQaDVqbDhEQ05hR3QyVmlSdDNETnNvT3k1dFRicmZhWFZ3dDlWSk1kZ3NFaTU5SjNPcjVWZG9sRFF0bG1XaWlMMGZPbDF5cTlRMUpnX3hBWUlfR1JIZDN1eENlYXJUajdHWjVWaTRoWi1DRi0xM09qbUMxb2hDcy1UYVJBZ08zeFBvSmNR?oc=5"
+    },
+    {
+      "date": "2024-05-31T20:41:14.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Suresh Kumar Shetkar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjhKNGFvRVZNUF9MX2lGVnpPTG1QRTJlQl8xOVI5ZGswNkVobEpoQ1N0RmF2OU1CRnY4S0pLUUFBVDc5ZmNRNkxEYkpXaV9HbzR4QVhaYVNzQUtnYmpjRzlGR1BVUUxPMHB6dDlUR1dqQWtVMUQ5T0xZajQ3NVRsNk51b1RQMXNrN3FLelNvTFZ5eS1Jenk2amlJdEt6RzFmVEhaOERfV2xRY19PdGxKd1NoeGppRDlieF9FbDltYXl2enM?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2977,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "telangana-5",
+  "pc_name": "Zahirabad",
+  "pending_cases": 1,
+  "phone": "Tels. (011) 23062902, 9013180082(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180413.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 82
+    },
+    "debate_titles": [
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to declare Mahatma Basaveshwara Jayanti as a National event and include his ideals in school curriculum in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Comprehensive National Cancer Screening Policies in India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need for financial assistance to develop agricultural infrastructure in Zaheerabad Parliamentary Constituency, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Uniform Inclusion of Dhobi (Rajaka/Chakali) Caste in Scheduled Caste Category Across All States",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Inclusion of Veerashaiva Lingayats (Linga Balija) of Telangana in the Central OBC List",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request for increasing the manpower to increase the employment opportunities under the MGNREGS scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 9
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 144
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kumar-shetkar"
+  },
+  "qualification": "Graduate",
+  "questions": 36,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "B. B. PATIL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 6,
+    "legislative": 52,
+    "mplads": 19,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 107711726,
+  "total_liabilities": 6447401,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 42.73
+}

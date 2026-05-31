@@ -1,0 +1,514 @@
+{
+  "accountability_score": 65,
+  "age": 49,
+  "assets_2019": 18728861,
+  "assets_2024": 36017232,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 8000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 24000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 345000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1064232
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 65000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life insurance 18,00,000 18 Lacs+",
+        "value": 1800000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2573000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3520000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 150000
+      }
+    ],
+    "movable_total": 12017232
+  },
+  "assets_earliest_year": 2007,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2007",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=FkkCH6nDi7ZTABeW4s5B",
+      "total_assets": 2109612,
+      "year": 2007
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=FkkCH6nDi7ZTABeW4s5B",
+      "total_assets": 12577537,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=FkkCH6nDi7ZTABeW4s5B",
+      "total_assets": 18728861,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2502",
+      "total_assets": 36017232,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1607,
+  "assets_latest": 36017232,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr Bhola Singh is an Indian politician from Shikarpur, Bulandshahr district belonging to Bhartiya Janata Party. He is director of Yaskin Infotech and Yaskin Enterprises.",
+    "title": "Bhola Singh (Uttar Pradesh politician)",
+    "url": "https://en.wikipedia.org/wiki/Bhola_Singh_(Uttar_Pradesh_politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill.+P.O. Bohich Shikarpur Bulandshahr Uttar Pradesh, 203395",
+    "emails": [
+      "bholasingh@mpls.sansad.in",
+      "drbholasingh@gmail.com",
+      "bholasingh.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9013869417",
+      "9868444411",
+      "1123731276"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "CJM Court",
+        "fir_no": "1534/11.11.2018, Police Station Kotwali Nagar, Bulandshahar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "323",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "10/09/1977",
+  "eci_state": "Uttar Pradesh",
+  "email": "bholasingh[at]mpls[dot]sansad[dot]in,drbholasingh[at]gmail[dot]com,bholasingh[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1368375,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1308511,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 988958,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1755235,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1713664,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 309178,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary, Rent Income, Bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Tuition and Bank Interest"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "From ₹21.1 L (2007) to ₹3.60 Cr (2024).",
+      "headline": "Declared assets grew 1,607% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 2109612,
+        "from_year": 2007,
+        "pct": 1607,
+        "to": 36017232,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6642427
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6642427
+  },
+  "margin_votes": 275134,
+  "minister": false,
+  "mp_name": "Dr. Bhola Singh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 84424374,
+  "mplads_unspent": 62575626,
+  "mplads_utilisation_pct": 57.4,
+  "mplads_works_completed": 142,
+  "mplads_works_recommended": 161,
+  "mpsno": 4605,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-10-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Uttar Pradesh to create 76th district, to be named after Kalyan Singh",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRDlEbzVkNFloMnNwWG9DSFRQUTlWUi1RTXBPcjRLU09CRDlvc0tBckl1b2VNc2k2NTI0QUpwZ0VVZkxyZEJaME1LQ245RGEtWnN0UlRTTUdITHhUMS1WYnhfLTRZdlYyNjdkSlZoX2FybzN3S01fakhoQXVEUldyVGJQQ1ljSUE3VXJGT19NbGpMRTNEV0tYRFpfREtSSDhHTDItWi1mX0xaOXQ5eTZFeVhpVVVlTHJoYnNqa3ZaLXNHcEpSNFp2UElB0gHPAUFVX3lxTE5qNnNUdGxJNFlmM1RsLVZLaURIUnk4WDlBVnlETUVETkJSSlM4UGNTcEp6RXdxbUlDcDJxWGFMOURQdGRER1phdzFhNmVsMk9mc1pyenowRGU0Y0pEMmVfZVJES09iVi1HVGRhTERzMXpCX1AxNHJXanBuUWZQcGNGbVRFbm5ESjlKXzA4Z21mLTlMdU0tS3pVQWVLOWludktMNExTcFhkM1JwNk11Nk9GZUhTbWRDYjY2b3ZYeTdZcVVnZzA5dUxsejFZQl9yRQ?oc=5"
+    },
+    {
+      "date": "2025-01-20T06:50:42.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr Bhola Singh , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzdLSjkydmxtZ3Vramkzakp1UENZWjlJZy1HSzBaLUs0bmN5bjRnWVdsdjNWUXNoY0hFNVY5NTEwQlVKX2wxT25tMjh5MWlGMWNodzFITVJPY1dOa3NtQURXU0VMUFR3Und2QmtUVVlJdWdnN2o5cW1BZVBjVEVVZWgzVklkQQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bulandshahr (SC) election results 2024 live updates: BJP's Bhola Singh wins by margin of 2.75 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeGtGME9Dd0FiYzBBeTlwR2VnOXlINnFDM0VrVWtuMWI3dWJwYklKR1FQZHR1dHJDNG1zOWcxUU9vd1poalZ1OGxrTTlRbmZHTFhfd2VKSk9jVHZISTZpdWxfbm5lSmdvNzJhbzZMcV9GMDY1TWhMUkdGM3hKeV8xV2wtMU05bEV2Zm1FOEtTSHA4QVg4WThXbFJZWkdDMFBxRUs2aTJUQWpkUmVzVTk0N3BpdlIwT09vUnZiXzYzYjZOclVSNkhxR1QxUnUwbXBrNEs3c0Zwblo3R2U4ZkJFaDNuQ3VxUG1kR2xPNHkwMzVkaC1DZy0yU1h5b25FXy05bEFNeW1zR2I2YUxkcHctbkQ0M0FtQWN5WUZyUXZidFJycC0waWcxNkVBc19YNTNkODM4bGR4clR1blFCaDNQTUhielNxOVk0d1VVa9IB0gJBVV95cUxOYWhnVzk0ZXNwMDhiVW1oZUdQNHplMWRxdWE2Rk9TdmVIcUlmTXowa0Z1NmI5cWRRMEVhOHNDbFFyV0hkUjh6SjdkaDBRNmY1U3JOUkZVTWNCOVQyTjFBc3ZJTk91S05YeG1BUXRPQXJxd1dMa2xrT2tLZklfR2dUc2ZRVE5Cd25SWWZxdW1iTVVvMC1semozbWFqM1l6cmx4SDdUMXZHLXNaWmJqcm5QMnE5YjVnaG15SVlDV2U0NE5QODVmaE44aUFaQml4cEtaRnQ5dVhqbVN5UnNiNmhkd3Raa0RXcU9nR0NWNW9lNnZ3TWx2RDN6MWJKNzBxeWZkQXdMZlkxQVpqMzNpQ2FqUnljVDdGeU1MLUt5OGZaVURHUXJSTWtSN2FXc3FSeGR6X0NtcW91TWpwQm81UTZ0M19PbkRvRmdqbWRhUDVnVk0wQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bulandshahr Election Result 2024 LIVE Updates Highlights: Dr Bhola Singh of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT3dtU2NOYzc3MEJYM0RMM3VOYlo1enE4NHJDZlo4SkFJSFpacVV5VlpTbDBOQk9GT3k5czdfeC1XRmVxTGtmR1l2NWNGNnFEcC1KUno3VFp2X2FwX1d1TUlObkx1LU51WGEtNmYteEZMdzhJeUpLSGlCcDl2UHpVM05obmxraXd6MTUyZWw3SjhuakJxTFZWVi1MejRDbnM1OFAzVUE1NXI4eFVMSEpBWjI2SzUzQkhPWGc1TUdsbmVPYjJyZDREZzZRZUVRWmxHZ0JfMHNoODdIVDlXOHExU3NhY2c1a0XSAewBQVVfeXFMTkdmX19DYU1PZ2xWV2FGdjZUSENZWThCNjdaSy1oMG9obG05WE41dDZCUkVxQ2xKLUlOMm1KVU9Pd3o1YlpnLUZkRG5VNUlONVUzTWw5YVFfWWQxejZjSXg4ZkMzWGtoZmxMTWZHYktXUFJSV0xyUFM3QlV5cTZhbTI0VmhZZWR6ZEdDYXN1WHE2azhiZVJTbXFVRXVRaWFRQ2x4bFN4bGJRUDJpNWwzQlVnemI2ZHJnSU4zVklFdlhqNFhNcFZlVnNTSDlFRm5XZFZGOTB0WHNiT2dacDVxWkY5WGtacTlaYlc4eHI?oc=5"
+    },
+    {
+      "date": "2024-04-25T09:49:38.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Dr Bhola Singh, Bjp Party, Bulandshahr, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1ZqelhJdngxb1JKcjlxS3FOS2dOMTlZOVhjUnFSZUNjN1I4eEJ6TUVReXI0eXdwSUFPZTN4NEZTVEprdjl2QlVrbF9KY1MyX0lWYTRnd2ozcWdON0pVMGZTbnBucHIxTV9Xa3ZwMElubk5pWUZidTBlVHU4SXVRaDVOYy1NUGdDbVdXSl8wWmFRLUg1b0lKR2tMSzh1T2JWRGRiZ3NkXzQ1TC1YQ2VNSXNScWhZZmI1aGdabjBsellJbVE0Mm9XOGd1cFN0R2pOMElfcFRDVnozY05rSU96YllscHFrQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6925,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-14",
+  "pc_name": "Bulandshahr",
+  "pending_cases": 1,
+  "phone": "Tel : (011) 23731276, 09013869417  (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180433.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to set up a Day Care Cancer centre in the district hospital of Bulandshahar, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to build CGHS center in Bulandshahr and provide good health facilities to the citizens",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to establish a CGHS Wellness Centre or Hospital in Bulandshahr district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to establish an ESIC hospital in Bulandshahr district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to provide houses under Pradhan Mantri Awas Yojana to families presently living in Tin Shed houses",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to amend the admission guidelines 20242025 Of Kendriya Vidyalaya Sangathan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding need to introduce a New Guaranteed Pension Scheme (NGPS) for central Government Employees",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 197
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhola-singh"
+  },
+  "qualification": "Graduate",
+  "questions": 51,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 2,
+    "Corporate Affairs": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 2,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 3,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 2,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 3,
+    "Textiles": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "SHIVRAM",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 84,
+    "criminal_deduction": 6,
+    "legislative": 74,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 17
+  },
+  "serious_cases": 1,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 36017232,
+  "total_liabilities": 6642427,
+  "wealth_pct_increase": 92,
+  "winner_vote_share": 56.65
+}

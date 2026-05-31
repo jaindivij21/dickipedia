@@ -1,6 +1,3 @@
-// Pipeline step 5 (core): MyNeta winners-index → criminal-case count, total assets, liabilities, education.
-// Source: ADR / MyNeta.info (from ECI affidavits). Non-commercial: display + attribution; the open layer is
-// derived from public ECI affidavits. The winners INDEX carries the core fields in ONE page (no per-candidate crawl).
 import { mkdir, writeFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import { fetchText } from './lib/http.ts';

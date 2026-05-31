@@ -1,0 +1,390 @@
+{
+  "accountability_score": 47,
+  "age": 75,
+  "assets_2019": 43980663,
+  "assets_2024": 75855750,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 29300000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 32500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 61800000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 625000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5037055
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 510000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1364695
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3208000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3310000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 14055750
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qKKziD6uJaBYyDj4jVxv",
+      "total_assets": 36362500,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qKKziD6uJaBYyDj4jVxv",
+      "total_assets": 43980663,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3930",
+      "total_assets": 75855750,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 109,
+  "assets_latest": 75855750,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "P.C. Gaddigoudar Anugraha Niwas, Laxminagar Bagalkot Karnataka, 587102",
+    "emails": [
+      "pc.gaddigoudar@mpls.sansad.in",
+      "pcgaddigoudar@rediffmail.com"
+    ],
+    "phones": [
+      "8357220164",
+      "9868180612",
+      "9448137164",
+      "9169425555",
+      "1123314162"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "01/06/1951",
+  "eci_state": "Karnataka",
+  "email": "pc[dot]gaddigoudar[at]mpls[dot]sansad[dot]in,pcgaddigoudar[at]rediffmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 804900,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4902300,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 467600,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1000000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 939450,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Reliance and salary of Lok Sobha Members, Lawyer"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Okkalathana"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹3.64 Cr (2014) to ₹7.59 Cr (2024).",
+      "headline": "Declared assets grew 109% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 36362500,
+        "from_year": 2014,
+        "pct": 109,
+        "to": 75855750,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹9.82 Cr unspent.",
+      "headline": "67% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 98211929,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 24446219
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 24446219
+  },
+  "margin_votes": 68399,
+  "minister": false,
+  "mp_name": "Shri Gaddigoudar Parvatagouda Chandanagouda",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 48788071,
+  "mplads_unspent": 98211929,
+  "mplads_utilisation_pct": 33.2,
+  "mplads_works_completed": 22,
+  "mplads_works_recommended": 183,
+  "mpsno": 3984,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "newskarnataka.com",
+      "title": "BJP’s Gaddigoudar Parvatagouda Chandanagouda Emerges Victorious in Bagalkot",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkZSX0lyQTZFdnNnc0laazZRWjRTZldSQzVUaXJlakdGM1NwR25KUzV6NDdkZWRKNUNuZkw0Yi1jeWM5RjZ0UXBVeS1HNXlza2pXZlY2c2xrR041THl2ZkoyRFV2dDJmbUVXNzA0aV9mNU9FbUR5MmR6MnEzZUVKMmVYZEF0ODRNRjU5QmVFa01UYTNyTW5YSy1vNFd0T0pOZVhObHFzV0xxQ2I3UHVKbmlGTWRYNFFuS1c0Ng?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bagalkot election results 2024 live updates: BJP's Gaddigoudar Parvatagouda Chandanagouda wins against Co",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOX0dOX3U1LUlaS0pwNkt4ZC1BR0VkOW54blJYWnd1LWxUbUZscWIzcGxCd1NaZ1piWDFCbVdzU3BRYUc1aENDYmpDXzItOWczdW0zcU1BU0pNaHpwdk9IRlo3a184QjJRUlBsd0t3R0RYaTduaDBWYXpjbzYwTjlLWkVqbkF3RjJfc3VXSEphcWhmcG13QlMtVmdGeEdFcjJiSjQyLTJUN3U2UlljNEtfRTNNdHVHZ2tKbzFneURIRlhDOEJyczV5LWlUb3VJX2V2M3VTSEVYZFplMU16cEJLV2dDcWMxS1gyM3FGZlctb0FHQTFFaUY5VXI1aG9hVFZ1aVNxVHpMbjFHTjdwWEFGWjc2LWhCZTZHN3kxWS1iQmtlNzlRMTV4VmN2RW5VbURtM3ExQTlkTXZneDd2aFY4VVpCVmF3WDY5S0dEdTl4NXdINmdOOWVOMWdzUdIB4AJBVV95cUxNUURDVHJUZmtfdWZHa2tvUC1YNmhvNUx5OFVsejVXOXBRUDVuNldxWUtpczBTSmx2SHVlS3p2bm1JR0hoYmw2X0pnQ01yaXRMb3pFV0NXMkZneUpLamhCampuMUFXNk9vSVRDMTdncUhaQXVVOUc1TDN4RXNEUjFjejVoaDFPSkd0UG5aYVN0MWx1SW9BNkc0VVc0VE0xbjIzZGNxNnNKeGlqaS1qLVpOZnp3NFhWZUk5M3BKSHUzTmdkN2lUc2lUVzE2RHFRdWEyT09CbW16Y3lFY1FKSFI2ZUVTRHJDblBnRl84UHRZZFZVZEhScGhsUXdDbHJqQmVHY2FXMzRUbGdxbG5oS1ppTkhMTUloZ3pxZlIzSTVvUXRxdUpFZ0lHalJzX3JpNngtZ0ttV2h5RVctRDF6S2g1RDBVT3dEMkxGUDlQbUVTNUtmZHd2RW5EekZ1RDFHWjd1?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bagalkot Election Result 2024 Live Update: BJP's Gaddigoudar. Parvatagouda. Chandanagouda.Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1J6VUJuOFUzdVhwb3lJSzhPd3hXMzVSZk0wZFFYWEsyVFVOeVdxb1Q3V25ZY1VDTXRxMFBiN3RONmVmOUtHaXM5b255OW1BbkxqbGFsSS1ZZU11SlpaQ3NxaXlkNTF4elhKR2lJQXJxZDVuSU9OMmo3UGhtcHNFV0lwUjRpXy1ZWGNqMjRoR2lkbW1jbTZILV9NYUp3M0tEekRTRDJTblZtUS1HQ1dFd2Z0V0wxNTlhSTRfX2t3Vi1iUXN0UEHSAdMBQVVfeXFMT1pUWjM5QURfVTNKYWQ3N3B3alZXd3lXRlZiRnpDYktEUDByUXFvWUV6OThDSkRWM3Jvd3dBSnVMVWp6ZzFmNEFlR1hCRndvaF9EMmV1Y1VjRWtrb2liSUdHS2ZhQnRtVkM2UWxlZVFoZ1F4TW41RHFEbW91NFo0TF9Sck9TTTlQb05xb0psbm1qOEp5NHFTc0dtRjhPTlNfRVVfeGNUZEtCcGlzZ2hiM0ZZSkt1dU1GZUE1WnpZOWFnU3Q2ZjF5RnRmWG9leGM4dl9MOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3420,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-3",
+  "pc_name": "Bagalkot",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23314162,   09868180612 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180179.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "03.04.2025",
+        "title": "Request for Inclusion of Badami Temple Complexes in the UNESCO World Heritage Site List",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 16
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/p-c-gaddigoudar"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 16,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Power": 1,
+    "Railways": 2,
+    "Textiles": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SAMYUKTA SHIVANAND PATIL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 0,
+    "legislative": 34,
+    "mplads": 48,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 5,
+  "top_inference_severity": "notable",
+  "total_assets": 75855750,
+  "total_liabilities": 24446219,
+  "wealth_pct_increase": 72,
+  "winner_vote_share": 50.93
+}

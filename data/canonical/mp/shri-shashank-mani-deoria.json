@@ -1,0 +1,516 @@
+{
+  "accountability_score": 57,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 24800000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 80000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 104800000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 235463
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 79806321
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 60739422
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 860001
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 900000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7254000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 45000
+      }
+    ],
+    "movable_total": 150740212
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9465",
+      "total_assets": 255540212,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 255540212,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shashank Mani Tripathi is an Indian politician and a Member of Parliament from the Bharatiya Janata Party in the 18th Lok Sabha. He was elected from the constituency of Deoria in the state of Uttar Pradesh. He is founder of Jagriti Yatra and Jagriti Enterprise Centre – Purvanchal (JECP). He is the son of Former Deoria MP Prakash Mani Tripathi.",
+    "title": "Shashank Mani",
+    "url": "https://en.wikipedia.org/wiki/Shashank_Mani"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "76 Araipar, Barpar Deoria, Uttar Pradesh, 274201",
+    "emails": [
+      "shashank2@gmail.com",
+      "shashank.mani@mpls.sansad.in"
+    ],
+    "phones": [
+      "9819678900"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "25/07/1964",
+  "eci_state": "Uttar Pradesh",
+  "email": "shashank2[at]gmail[dot]com,shashank[dot]mani[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 18409239,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 34797840,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 21556770,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 9543075,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 13578429,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 452610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 405080,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 277130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 412340,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 445826,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 355840,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 338640,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 398480,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 313910,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 447374,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2798251,
+        "person": "dependent2"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Consultant"
+      },
+      {
+        "person": "Spouse",
+        "source": "Artist"
+      },
+      {
+        "person": "Dependent",
+        "source": "Job and Artist"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 45% of MPLADS local-area funds were spent — ₹8.09 Cr unspent.",
+      "headline": "55% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 80878696,
+        "utilisation_pct": 45
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 34842,
+  "minister": false,
+  "mp_name": "Shri Shashank Mani",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 66121304,
+  "mplads_unspent": 80878696,
+  "mplads_utilisation_pct": 45,
+  "mplads_works_completed": 20,
+  "mplads_works_recommended": 96,
+  "mpsno": 5688,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "BJP MP Shashank Mani launches ‘Amrit Prayas’ plan in Deoria",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVItR1JfZnhuZlVpclRQMzZwV3JzWXNOZkxaQ0pIUE1vSU11d3FZQ2RIeDlXV0M1VzNyQTlvTTZBQ3lXRXU4b3QtQklacG9Vb1NuSkNjUFlUZXQtZHhVXzNPNXNoWTEyOHZia0IwaER2ellvZzUtV0FNREJSZ0lBTHdKaHhBRFZDUnh6ZlQ1dFI3N3ZJek4zc0t1YzNPZW5Fa3E3UU0waTZLVjFTTVpSSkQtMzlaQWZCRklCMEdNTk1sVFHSAcgBQVVfeXFMTnlZdDRqWDlYRWNhdU5YWnN3OVkxY0stRlJPOVh4M0o1ZEhhQk5sdUJHVVJFSmNNUDIybjg3SlN3V3BQR2dYTWdYRkZiR1d3akRPSWIxRFZma1VyNDlKRGtMcXczTm03VkFQeTYyNmN2MGxkc0ktME5tLS1wLXRPVUZEWC0wQ2JaSHYtZ011UUMyRTVWRUIxU1NFbXVXYWlJc3JmbGpiaEotVXY4Q1B0QXZReUEtVU5UQ24yT3NZT2ptOGRzR3hZbUQ?oc=5"
+    },
+    {
+      "date": "2025-05-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Forbes",
+      "title": "India Rises: Shashank Mani’s 5,000-Mile Paths To Prosperity",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXA5dmQydTNib0paTHludlZwWko5bDFnQ3FjLUNMbWMwYXVORlgwazVqTGoxcWFVRlk0NF9zdnNWbU9neTMtT2ZxcnI1LVZKazcxRTRzZlppSDgyWkkwNFRENDFmREpPYlZkQUxQS2RHbHViNVBUX3Y1WVdLUzh2d056Z0xnendselhvdWRaaS1aNUY0eHVoMXByM3VWclRhVUNFYzY5TkdjS1JobGw1Qg?oc=5"
+    },
+    {
+      "date": "2025-04-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "BW Businessworld",
+      "title": "Shashank Mani Launches Amrit Prayas, A Mega Plan To Transform Deoria",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0ExWWJUVEF2VmJjM3I0bmdwUmQyRGlRV2ZCWnkxbkt0LVRSRGtDbVhLdGhBdnJ4RHFvSGpSWWExOGx2SF9DbFkxQnV1eFJyc0FqVFg1UlRCTVhMXzdvZTVWaVhoUzJGMFlzbHRvdExZOGMzbHk1ZnNYd19nc1pkajdsamh2aWM1VDVaNkpYemszemNHSk9YRVVNUmU4by0xcW1WRjZwenNuZFctdjBjZw?oc=5"
+    },
+    {
+      "date": "2025-03-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MP Shashank Mani to launch ‘Amrit Prayas’ on ‘P’chal Kranti Diwas’",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYU1hN1BBUm5aSzExQm9qOW5HOWJQUW0wTGF3c0QzT04ybmZoR1pHWDVoaDlXdzdFRUg4dERJZWdXZmM3R1hZSFVjVXY1czVHNXM1eWJzbS1Rc1BnNHZCQXVtXzVMbUpnc3RqZDNBLUUyM0hlakNCRzN6YUI5anBleWZib3dHTUZHaGxlMjZQVENGYXRYR25JLUdWS2JVYklabmdEd05WbkVmZW9RN1dZam9KVVdjSDNWbGtZSVI1SnAyWW9tdEtrSXhNUjlEeURCNnNj0gHYAUFVX3lxTE1JVEYya180RWVCdGx3UTRiSW0yVWhMRm5ZZ1VKZVNWejdBd3RKV0xJNkZEdkRhdl9lcWtsLWRuS1VveG5GS1A0cnh6ZjFOUU0yX1NtOHNuLWRCYTZ4cUt3QnhaZ2xNRXp5SmdRbng3eDlreEJfdzREWlBocXRZc3h0NDE0T0NyX2VCLWdYNkNFSmZwVk0zM1ZQQ0tidDQwM0Q1Y3VFMFpTN2xHQm1mSTdwdUZ3d3ZHMkY1Ym00TkhoUmRhLXJtcnR2aU5TdGtiMXVhNk4telVMMA?oc=5"
+    },
+    {
+      "date": "2024-06-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "theweek.in",
+      "title": "Shashank Mani: Dreaming of Deoria's development",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1kwT2V4eEhLZ0xzXy01SHo3eDlmaGlFeldLQXdqcUp1TXpITTVZMnVBLXBYZU5paTNkUUFkUEE0cXRYMy05Skd1MWdOVjBsbWJGV0dfUFdPdmRZVlNqMm41V0FoV0hkS1E2U1djVmlpby1HQ2EzWXBVV2hzYWhxcXR5ejQxUDBMdk8wOUtuWFJWVnJmOElJOXZCdGJ1VG5HY0I1U1h4X2VEUVnSAbwBQVVfeXFMT0J0Q1VZOE5PMWlZU3dMMktiWEtsd0FWbmo2MlFGbko4bFdHUUlma21MWDhYRUM1ak1tSlF3UG5OUjZ4MHhuN1YyNThpRkFDZG1hZ2JuWmNjck5OVWtaeGlxaWJ6WXBhaXBHVmVwNFdHVnRwb05oTjFJR0g2T2pFX01zTkc0QVNPN2cyaWRIZGxXVnUwbzVYSnNGWDhRX0dtWFFwSUVEWVM4Q1FobmV1NXVfUkZIRk9vaEZpazc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10212,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-66",
+  "pc_name": "Deoria",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180489.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Service",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to strengthen market access for women led Self Help Groups (SHGs) in Deoria district and other tier-I and II cities of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to establish Defence Sector manufacturing units in Deoria, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need for establishment of 250-bedded modern Multi-Specialty Hospital under PPP Mode in Deoria, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Comprehensive Development of the Devarahi Mata Temple Complex to Preserve Cultural Heritage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding damage caused to crops by Nilgai (Blue Buck) in Deoria and Kushinagar districts in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "The Manipur Goods and Services Tax (Second Amendment) Ordinance, 2025 and The Manipur Goods and Services Tax (Second Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to establish universities and technological colleges in Deoria Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to provide quality healthcare services in district hospitals currently merged with newly established medical colleges in country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding development of temples in small districts and promotion of Sanskrit language",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 95
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shashank-mani"
+  },
+  "qualification": "Post Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Commerce And Industry": 2,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 2,
+    "Food Processing Industries": 2,
+    "Heavy Industries": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Panchayati Raj": 1,
+    "Prime Minister": 1,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "AKHILESH PRATAP SINGH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 57,
+    "criminal_deduction": 0,
+    "legislative": 49,
+    "mplads": 68,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 255540212,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.36
+}

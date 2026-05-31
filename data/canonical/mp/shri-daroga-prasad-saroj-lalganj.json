@@ -1,0 +1,526 @@
+{
+  "accountability_score": 45,
+  "age": 73,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 47304079
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 800000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 48104079,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 65000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1765646
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2310000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 132000
+      }
+    ],
+    "movable_total": 5772646
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Tk7VmMQ42mZSJC8m9ZB",
+      "total_assets": 21655081,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8140",
+      "total_assets": 53876725,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 149,
+  "assets_latest": 53876725,
+  "attendance_pct": 65,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Daroga Prasad Saroj Azamgarh is an Indian politician for the Lalganj in Uttar Pradesh.",
+    "title": "Daroga Saroj",
+    "url": "https://en.wikipedia.org/wiki/Daroga_Saroj"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Gram Mohanpur Patwans Post Madhopur Dharang Lalganj Azamgarh Uttar Pradesh, 276202",
+    "emails": [
+      "darogaprasadsaroj36@gmail.com",
+      "dpsaroj.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "5463265448",
+      "9260997172",
+      "9415717273"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Escape from confinement or custody negligently suffered by public servant",
+        "section": "223"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for assault or criminal force otherwise than on grave provocation",
+        "section": "352"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC No.9614/23",
+        "charges_framed": true,
+        "court": "Chief Judicial Magistrate Azamgarh",
+        "fir_no": "Case Crime No-302/2001, Thana Jahanaganj Azamgarh",
+        "other_acts": "Sec. 7 CLA Act., & Sec.3 (1) Government Damage Act.",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "341",
+          "223",
+          "336",
+          "427",
+          "352",
+          "332",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Case Crime No-195/2011, Thana Devgaon, Azamgarh",
+        "other_acts": "Section 6 of the United Provinces Special Powers Act",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Case Crime No-123/89, Thana Bardah Azamgarh",
+        "other_acts": "Sec.3/7 Essential Commodities Act",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "01/01/1953",
+  "eci_state": "Uttar Pradesh",
+  "email": ",darogaprasadsaroj36[at]gmail[dot]com,dpsaroj[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.17 Cr (2017) to ₹5.39 Cr (2024).",
+      "headline": "Declared assets grew 149% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 21655081,
+        "from_year": 2017,
+        "pct": 149,
+        "to": 53876725,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 38% of MPLADS local-area funds were spent — ₹9.08 Cr unspent.",
+      "headline": "62% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 90796349,
+        "utilisation_pct": 38
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 115023,
+  "minister": false,
+  "mp_name": "Shri Daroga Prasad Saroj",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 56203651,
+  "mplads_unspent": 90796349,
+  "mplads_utilisation_pct": 38.2,
+  "mplads_works_completed": 58,
+  "mplads_works_recommended": 295,
+  "mpsno": 3916,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Lalganj Election Result 2024 LIVE Updates Highlights: Daroga Prasad Saroj of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORWJ1UU1WWkJJelROYkctZUs2cDdjVnQ0REFXc0FrRUlDSzNFbmc5Vm9BMXJReVM2a3pzVHNjNUtQSHBjU0RvOC1OVUphNVY0RjVPTm43WUpkWDhmQXpnQWpLY245djl6dFkwTUhZTHdkWHpxTEw1blR1c0pvWWpRM0dIY2g4Y3Rjc2I2dHJLQjdOTFhuYmU2Z28zbDl1SDNlS0M1Z0VPcGpMWUR5ZjNGS1pDNmwxWVNtSVVPZDFlNW5IemRQcGQ3OE5YZUhXUWZocVN6cDZXLV9KcmxyNzdpVWNB0gHnAUFVX3lxTE9TSXJoc0Z1SThLUXNIY3VJd0NNQ2VKTk5FTTVPYTd6V1U1YzVRcTZGa3I4T0x5dUxoM3F6THdxb3RJcTdiQjhhZjFONG1fUkFwYmhEZWxxNjBwWks5QzZyOUxWcF9qTXFvWHpENWdkTzJ0dlozT3NHSTlwWUNNVDZrejgxRHZ3eHNsZks3czNQdnRuS1FFTWxmWmlWTlBHUDg4bllwb1B1NnZSQmVzdkJhdVdrV3M5R0JPZlpBTHlIYkhXUzhjajVMRHZOcEJJc1AzU0N2V3d3TzhMdWNBUGhoakhqSjNWQQ?oc=5"
+    },
+    {
+      "date": "2024-05-24T21:18:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Daroga Prasad Saroj, Sp Party, Lalganj, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNREtIaThDOEYyNkFrQ1BDM0pRR0MtTzZFNW1vb1NoQWgxbFltNFdtSkJGaUoxMk9XUll4RHZ2UmZybldSdkYwMkFyQnF1REMyU2lFWFJGR1VaRnRjWGlZenQ1UUpaZjllMHNJS2NVNGVXbWcyOHFxakNUUUVWbE8zTGtOdWlFTUVnZlROekxONHE1SkNGZ0xZNW9BQk05cUhORktVbGxFTXJOODJ5ZUtaU2E2TDdJM1p5QngxcWpMMS13ejdFekpDTzVIUlBLSlBhRnF2TmV3OE0zYTZEVTZpcWNqT2xxU0k?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 7094,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-68",
+  "pc_name": "Lalganj",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180439.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Enforcement of the Right to Education Act and Road Safety Infrastructure in Lalganj, Azamgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding the plight of paddy farmers of Lalganj, Ajamgarh and Balia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Immediate Approval and Construction of the Dilapidated Lalganj�Nizamabad Road in Azamgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding issues pertaining to power sector in Azamgarh district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Clarification on Misleading Information Regarding Installation of Transformers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. for the renewal of the Sakshar Bharat Mission scheme and pending honorarium should also be paid to education promoters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding power situation in Lalganj Parliamentary Constituency and also non-payment of wages under MGNREGS in a time-bound manner to labourers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt remove the fake toll plaza of a road passes through jaunpur connecting azamgarh in lalganj lok sabha constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Raised the voice against the proposed expansion of Manduri Airport",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 46
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/daroga-prasad-saroj"
+  },
+  "qualification": "Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Education": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Statistics And Programme Implementation": 1,
+    "Textiles": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "NEELAM SONKER",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 8,
+    "legislative": 42,
+    "mplads": 59,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 53876725,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.85
+}

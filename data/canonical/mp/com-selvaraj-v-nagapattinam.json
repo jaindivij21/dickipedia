@@ -1,0 +1,434 @@
+{
+  "accountability_score": 61,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 50000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 8050000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 7500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 204429
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1439
+      },
+      {
+        "category": "Nil",
+        "value": 50000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2750000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3013368
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=161",
+      "total_assets": 11062368,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 11062368,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No. 15, Mohanraj Nagar Pookollai Road Mannargudi Tamil Nadu, 614014",
+    "emails": [
+      "v.selvarajcpi@gmail.com",
+      "v.selvarajcpi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9443277300"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://x.com/i/flow/login?redirect_after_login=%2FVSELVARAJCPI"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [],
+    "pending": [
+      {
+        "case_no": "CC No 07/2020",
+        "charges_framed": false,
+        "court": "Spl. Judicial 1st Class Magistrate, (Railways) Thanjavur",
+        "fir_no": "RPF/ Thanjavur Crime No 33/2017",
+        "other_acts": "Section 147, 174(a) R. Act 1989",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "14/06/1961",
+  "eci_state": "Tamil Nadu",
+  "email": "v[dot]selvarajcpi[at]gmail[dot]com,v[dot]selvarajcpi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 76530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 68954,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 46717,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 32089,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 31522,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rs 1140578/-"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 25% of MPLADS local-area funds were spent — ₹11.09 Cr unspent.",
+      "headline": "75% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 110906459,
+        "utilisation_pct": 25
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2853957
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2853957
+  },
+  "margin_votes": 208957,
+  "minister": false,
+  "mp_name": "Com. Selvaraj V",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 36093541,
+  "mplads_unspent": 110906459,
+  "mplads_utilisation_pct": 24.6,
+  "mplads_works_completed": 24,
+  "mplads_works_recommended": 73,
+  "mpsno": 5800,
+  "myneta_serious": false,
+  "news": [],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 8918,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "COMMUNIST PARTY OF INDIA",
+  "party_bond_total": null,
+  "party_full": "Communist Party of India",
+  "pc_id": "tamil-nadu-29",
+  "pc_name": "NAGAPATTINAM",
+  "pending_cases": 1,
+  "phone": "9443277300 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180388.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 86
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need for permanent solution to the problems posed by Sri Lankan Navy for Indian fishermen",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to expedite the process of acquisition of land in Karuvadikuppam village in Puducherry acquired for establishment and expansion of Coast Guard Unit by Indian Navy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 126
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/selvaraj-v"
+  },
+  "qualification": "Post Graduate",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Culture": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Finance": 6,
+    "Health And Family Welfare": 8,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Labour And Employment": 3,
+    "Law And Justice": 1,
+    "New And Renewable Energy": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "DR SURSITH SANKAR G",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 62,
+    "criminal_deduction": 1,
+    "legislative": 69,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 11062368,
+  "total_liabilities": 2853957,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.79
+}

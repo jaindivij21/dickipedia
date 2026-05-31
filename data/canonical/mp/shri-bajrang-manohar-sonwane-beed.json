@@ -1,0 +1,631 @@
+{
+  "accountability_score": 55,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 55513000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6855000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 7000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 113600000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 182968000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 715500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10897923
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 94979500
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 984298925 8,00,000 8 Lacs+ LIC Policy No 985077982 5,00,000 5 Lacs",
+        "value": 5246180
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 26291629
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 697000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 138827732
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=SZbKMGMYnC4PRiSsifKf",
+      "total_assets": 160776182,
+      "year": 2019
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 160776182,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bajrang Manohar Sonwane is an Indian politician. He is a member of NCP–SP.",
+    "title": "Bajrang Manohar Sonwane",
+    "url": "https://en.wikipedia.org/wiki/Bajrang_Manohar_Sonwane"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "SO Sonwane Manchar Sarni (A) Post Jawalban Taluka Kaij Beed Maharashtra, 431518",
+    "emails": [
+      "bajrangmsonwane@gmail.com",
+      "bajrangm.sonwane@mpls.sansad.in"
+    ],
+    "phones": [
+      "9960101616",
+      "8788335858"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "06/07/1970",
+  "eci_state": "Maharashtra",
+  "email": "bajrangmsonwane[at]gmail[dot]com,bajrangm[dot]sonwane[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 33606360,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 23086220,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 9510400,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6380970,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4461388,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 6086010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5136814,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3127350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3781043,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1790863,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 5202310,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4791220,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4877020,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2410460,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 934176,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture,Milk Business And Social Service"
+      },
+      {
+        "person": "Spouse",
+        "source": "Job (Teacher), Agriculture"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 18% of MPLADS local-area funds were spent — ₹12.30 Cr unspent.",
+      "headline": "82% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123013250,
+        "utilisation_pct": 18
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 77515217
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 77515217
+  },
+  "margin_votes": 6553,
+  "minister": false,
+  "mp_name": "Shri Bajrang Manohar Sonwane",
+  "mplads_allocated": 149325047,
+  "mplads_expenditure": 26311797,
+  "mplads_unspent": 123013250,
+  "mplads_utilisation_pct": 17.6,
+  "mplads_works_completed": 11,
+  "mplads_works_recommended": 100,
+  "mpsno": 5645,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Beed Lok Sabha Elections 2024 Result LIVE: Will Sharad's coin or lotus blossom in the battle of Pankaja Munde vs Manohar Sonwane? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0NEVGZSSThPT1JiZzd2NWx2a2xEUFZ6VlFGNVJqRkpWTmZBZm02UTlFeFRHZGs1S0RTQllQWUJ0Nkw4dnJacmx6ZjMwZTJBOTdJRlNzWEdvUExfZk94cTViUUd6em4wTS1qWUVrRFhXSGU4N2sxcWppZWEtRGxRMkF5YUsxWUVvQjFHVW93TV9WOUR2Q09ib2tqWUE3d25CY3hGVVNsZlowUzFEdzdZNnF3VXh4TWM4cV9Nc284bw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Beed Election Result 2024 Live Updates: NCPSP's Bajrang Manohar Sonwane Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHRVTW1yVHZDanM0cGF6ZVJRSFpiSm5idHJ2Q0V3YVRZOV9kNHhlUkRXM3FTUjl5aDR1cEI5azRpQTBWYmpiVkwxZDBfRWJSM0R6X29BT3cybmNvcVJtWU1MUlVlcEtDZVVyZktxLVNEczlGTG1PNnc4cjNRUXc3VUc3anFfUzZHNG5fWm1jaktGRnFVWGxOd0pWdVR6WWM1M2hFWGVlLVRXUXNCNEZYSk1JWlNFT0JJb2JPUnVpNkxJWTjSAdABQVVfeXFMUGtBd3dTWjIxMW14dllpRkJmQVhiYzJLR1R2T3FsZ3dORnlEWjYzeVdhMnNjM180b1VYeFlpUE45ekN5aTB6dmtCbndqRVVDMDBLNTF5azJHT19ONnZ0RmJ1YWZHS0cteWR3a2FuN1V2Y0h5NXM2aHFPYmpNbmMtbEhLZ2lZU2JUOEFSOFNhcVpGUDJYSk82Ui1zN0h6NmVzMU1WUDdiY0k3MDNzQ2pXWWZ6YjFzVzVlTW5CZkFXU3J1YzhJSVM3VS1yN2lzcUNrSw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Election Result 2024: BJP's Pankaja Munde Loses Family Bastion Beed to NCP(SP)'s Sonwane by Over 6,000 Vote",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVFRqLVhIOThkNE5UNDdBcHpQeHJudUdoT0N2bGNscHNHSXlIck9mSDROd2dOUzNleGRfQjRFR2dOd1RjbUhZM2pfNVNyeklCV1RMNmdfTEVxTWw3UVg4Y29LWGExVGMwYzZCVVE4ajhwaklBLWUwNHpRZ0dDMUFWODRMcWJzdWFSRkNiMnVoWUxOSHJDY212NmJ3UW1RZnliYndjcFlodm5vdlYtYWEtRjRWMFJybXdHbVZnekhLQk9UMDJDZm8wRHlhNmdVUllfSDdjcTUyMElFam00S2fSAeMBQVVfeXFMTXNnTVVUbXVDZ0N4U0pCV3d1X0pqNmxOTEN5cjJVaHVCOE5ycWRWVWh6TlVOUTA4UV9HQV9aNzVyX3lva09ESVRLS0wtQVEzSFF4Y3dUb0tOaFR0WHFPUmhUSHBIREpkNGF2aGpEdnYwMmg2cE0xMmF6bUg5S2ZNOWY4TVBZeFA1Xy1yZjZYMDNWWkRkZWtCUXZKeDZXTDZlM1Y5T2dDT0xuYlpwSGJKaUFzeVp0cnpoRjVnSmlrelFoWkxUTmFsRFZSVXhCdHE5aVJJcUFscnpIcHlJSkVUeXVVSlU?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2087,
+  "notable_record": null,
+  "num_candidates": 41,
+  "party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "party_bond_total": null,
+  "party_full": "Nationalist Congress Party – Sharadchandra Pawar",
+  "pc_id": "maharashtra-39",
+  "pc_name": "Beed",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180252.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to address the problems of farmers in Marathwada region particularly in Beed district",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Release of Water to Manjra Dam and Timely Disbursement of MSP Payments to Farmers in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Text not available 64",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to expedite release of pending interest subsidy under the Interest Subvention Scheme � 2018 to Sugar Mills in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to ensure refund to people who deposited their money in various Co-oprative Credit Societies in Bead and nearby areas in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to reduce the long shifts of doctors",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Special Relief Package for Grape Growers and Guaranteed Pricing for Onion Farmers in Nashik District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Review Metro Station Naming Policy and Resolve Connectivity Issues on Mumbai Metro Aqua Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Measures to Control Leopard Movements and Ensure Public Safety in Nanded, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding proper implementation of PM Fasal Bima Yojna in Marathwada Region of Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Allowing Farmers to Produce Jaggery Powder and Ensure FRP for Jaggery Production in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Enhanced Pension and Medical Benefits for EPS 95 Pensioners as per Koshyari Committee Recommendations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Timely Disbursement of National Merit Scholarship to Eligible Students in Satara District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Investigation into Misuse of Subsidized Urea and Its Impact on Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Release of Pending Central Funds under Jal Jeevan Mission for Incomplete Projects in Ramtek Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Strict Action Against Rice Mills Involved in MSP Procurement and Quality Fraud",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Intervention in Beed District Planning Committee's Non-Cooperation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding implementation of Jal Jeevan Mission in Beed district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Streamlining and Extending Cotton Procurement by CCI",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Release of Pending Central Share for Maharashtra Tribal Development Corporation (FY 2018�19)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Merge Sub-District and District Hospitals for Better Healthcare in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Inclusion of Bhoyar Pawar Community in the Central OBC List",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Condemnation of Inappropriate Judicial Remarks and Demand for Action",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Action on Mismanagement and Exploitative Practices of Torrent Power Company in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding need to increase the MSP for Sugar and Ethanol",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to the Government to Prevent Privatization of IDBI Bank and Maintain Its Current Status",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding problems faced by labourers of Beed Parliamentary Constituency migrating to other places in search of employment",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need for CBI inquiry into the increasing criminal activities in Beed district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Raised the issue of Santosh Deshmukh's death, demand for justice",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt kindly instruct the insurance companies to pay the compensation claimed by the farmers and extend the insurance benefits to the poor and the needy farmers of beed district",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding need to formulate a policy for onion and sugarcane growers and consumers",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 42
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 177
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bajrang-manohar-sonwane"
+  },
+  "qualification": "Graduate",
+  "questions": 64,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Atomic Energy": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 2,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 5,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 3,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 3,
+    "Railways": 5,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Women And Child Development": 5,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PANKAJA GOPINATHRAO MUNDE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 0,
+    "legislative": 73,
+    "mplads": 28,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": null,
+  "total_liabilities": null,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.93
+}

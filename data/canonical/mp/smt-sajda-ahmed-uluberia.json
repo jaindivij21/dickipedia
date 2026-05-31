@@ -1,0 +1,436 @@
+{
+  "accountability_score": 45,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 85000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4873504
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 4059340
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 20153452
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1170727
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 900000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 6800000
+      }
+    ],
+    "movable_total": 38042023
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=tyx6RywDSzN2SFQGMED",
+      "total_assets": 28425437,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=tyx6RywDSzN2SFQGMED",
+      "total_assets": 28351569,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7200",
+      "total_assets": 44042025,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 55,
+  "assets_latest": 44042025,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sajda Ahmed is an Indian politician and a social worker. She is the wife of late MP Sultan Ahmed. She was elected to Lok Sabha by poll from Uluberia parliamentary constituency of West Bengal by margin of over 4.74 lakh votes and become member of Sixteenth Lok Sabha. She is elected in 2nd Term in 2019 to the 17th Lok Sabha.",
+    "title": "Sajda Ahmed",
+    "url": "https://en.wikipedia.org/wiki/Sajda_Ahmed"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "257 Jaduberia (North), Uluberia Howrah West Bengal, 711316",
+    "emails": [
+      "sajda.ahmed@mpls.sansad.in",
+      "sajda.admed@mpls.sansad.in"
+    ],
+    "phones": [
+      "9836390227",
+      "1123782786",
+      "9013180072",
+      "1123782779"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "22/06/1962",
+  "eci_state": "West Bengal",
+  "email": "sajda[dot]ahmed[at]mpls[dot]sansad[dot]in,sajda[dot]admed[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2207030,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1232220,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 786840,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1436030,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 731460,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business income, Salary as member of parliament"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 24% of MPLADS local-area funds were spent — ₹11.13 Cr unspent.",
+      "headline": "76% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 111280968,
+        "utilisation_pct": 24
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 218673,
+  "minister": false,
+  "mp_name": "Smt. Sajda Ahmed",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 35719032,
+  "mplads_unspent": 111280968,
+  "mplads_utilisation_pct": 24.3,
+  "mplads_works_completed": 52,
+  "mplads_works_recommended": 180,
+  "mpsno": 4944,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Sajda Ahmed’s Zero Hour mention on providing training and marketing assistance for the zari workers of her Uluberia constituency",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQakp3ZTN2Vl96R3dMb0dORTNJQ3ZFMlVCRUN6UHVWYWZ1aHlWcnZ0YkVoREVsUHphU1RFTk9GZnkxdVgzRGxHSDhidVFodFR0QVBzTlFEbzFaZVpMc0NiczVVZDF0bnpiZ3hWYU0wa1NFYVctQjl4Z05yN09SZ0E0eHRGeEVFWmp1dUJwUjJLMWtRRWF5RmZrWW1aZG8tbTJXZW01b0tXZHRoZTZGVWN4aWtsZUtFR0FEbVlZVzFhRi02SUJBakxrOWZiWUN4Z0pGeUw1SHBsNmd5VXJPZFNoRGtkWkUyaldi?oc=5"
+    },
+    {
+      "date": "2024-06-12T01:21:18.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sajda Ahmed , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0VHMVQwdTljcm55M0JKWVFQYXBpQXNUU0hCTVc5MmpkTWtrc013SVJfWV8tdlNlSF9naWMtNmJ1MTlEWmkwbTJ5OGpmV1kwVEE1UmNKems2RWZKZGFSSFd3QUxNbEsyWXcxZXFJMjBWUnNuV0lLNXJGWlVSNTBBRkxR?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Awaz The Voice",
+      "title": "Sajda Ahmed and Iqra Hassan among 24 Muslim elected to Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdS01U0VqUmprWmR2NWpURTJka25SM3c4WWN5WlJtQWJIZHctUndPQTRZLVViQVI0SWhKWFZEaVhwaUJuT0pDdUtXR3ljdnFXRGl0M2d2QjRSbFBaRFhjVDdScDYwRThtVjdReGJmRGFGMlE1ejlycFN4SmFDNkZTajJNLTBjS0J5U2pSU2lUQlhHbXVjMjloRXlPUE41R3R0ckZadW1TdDZGUFR0VzFYajdqZw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Uluberia election results 2024 live updates: TMC's Sajda Ahmed wins",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPQmc1VGxXTzdwRWowNjdUWExiYndfdGQ2VlplU2FLNG1oM2hOSmxIa2VOTTNzSWZvMWltZ2tEaGJfMXVJY0x0bXlacS1hOVlnUWNBbHRXSDAyYlhCdGlacmJKTkZrVzZzemVUN2lzcVdrZzBRZndLTEJ0VEVXUjNRTW1iUzY3cDNROGJzQVE0QXhnWmVPU09FbGhVa3JyaE50cjFFMkdpX05uazZvZURTd2N2ZmlfSnBNUUlnVWhzQjNtWS1LcUJ1RHE1ekpjQTlGRERfbVFRTlI5OHd1aHRTX25aeGlOMVRpMTJRVzB1SjBjWDJwaW1JMUdDS2lwZzIzRXpOdnprRjNEM1hOSWQ4Z3c0Rk1zZFJPYjFHQTd5YThMem1pbVlGY05mck5VSHkyM1VOcW1EOHE0eVZmaFBzVm9GN1NfM3VZU1RWSVlR0gHTAkFVX3lxTFAtcmI5eG1HcjFiQ3VzYTYzQkVpRjBkSjZBcC0zYkIzRTZfQThnbVM0Q1pIak5Pczd6SFh0ZkkxMVpSWjhEdHV2UXlWcWZFUy01azNzY2gyNGNxVnotcmY5OFE5dTl1N2dkekZWNXVNcGZ4UEwtTzQxc24xWGRWUy1waHlkTDRzQkt0aG9kNXB5ZVJRMUpJVVRKc2xXWVppWkZPVWFxbGs3TVZobTBxV1NmaGo1a19jYWR6TFFXbnF3bEIwMmFQVVFwcXFrcVE0LVlJSmNKOTZGbUVJSjMwMjNETzR6V0ZVR0JoVHlhM184TzhJdHZoMzV0S0x4OFl2bl9pc3h0UzZESHhjUE1Sb1RfaWMxLUU4QnE0TWFpNDVUeG1nNjZaOFVWTmp5VlJmRXlYd0NOVUhFQkh1VTlBNkEzUl9MWjR4YmhoWmJLaV9vWXZUcw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Uluberia Election Result 2024 Live Updates: TMC'S Sajda Ahmed Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGJxVzlmUVBVWW1wazJUNVBZMjVaSUFCRURJZW80MXZoWWF6MjRjZHlLb0NMOGdIcXgtQWFmcjNFQlctSWxXNTFHRU11VWFMd0VrNzJUbVN2WWxrLW9hLWhCQTVBdlRGU3ZWb3QyMW5RbTZaNjEtSkJnRzNjVldSdzZmdk5sVkV2elR3aHF1S3lGQzJuQ1dtQVhxWmxXOW0zMFNMT3ZqckNvTk5GYm05Z2hLdjVKMUpldGlzYlNMcUtNWmJFekVyT9IB1gFBVV95cUxNeVJJYkhGM1dPZ05zeFYwc3lnSV93SGVLcHJHYzJQblkzRzA4NVlOdTlacGdDV3cxOGtBcTFiQnFuaHpVMXlMb0VTSGxvWTVOc2xEVVlVNkdQbWhBUmtzWlYyYUE3dVBXU3lfd0dGdlFSQnV6N1h3Y0RRbUFzYXhTb2RvNm9MN1YzbFYxRm9DRkxrUlE2Mmg5dGtVTjJ2d3ZQSGw4SnlhWTlqdnVNdHVzWHVSZ3puby1pUTBuZ2ZzaFVzRUtoTjdFYXlpSXFyWHhHUG5DYjRR?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11318,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-26",
+  "pc_name": "Uluberia",
+  "pending_cases": 0,
+  "phone": "Tels : (011) 23782786,09013180072, 09836390227 (M),Fax : (011) 23782779",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180533.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 60
+    },
+    "debate_titles": [
+      {
+        "date": "23.03.2026",
+        "title": "Issue Related to Crisis Faced by Traditional Zari Workers in Howrah District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need for a special package for revival of Jute Industries in Uluberia, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Extension of Deadline and Resolution of Technical Issues in Uploading Waqf Properties on the UMEED Portal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need for construction of a flyover at Bagnan Library More stretch of NH No. 16 in Uluberia Parliamentary Constituency, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the facilities at AIIMS, Kalyani (WB)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Immediate Improvement of Train Services on Howrah-Kharagpur and Howrah-Amta Routes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand to govt. start the fertilizer corporation of india in haldia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding completion of Shyampur to Bagnan railway line in Uluberia Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 55
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sajda-ahmed"
+  },
+  "qualification": "Graduate",
+  "questions": 25,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Civil Aviation": 2,
+    "Education": 2,
+    "Electronics And Information Technology": 3,
+    "Finance": 2,
+    "Health And Family Welfare": 4,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ARUNUDAY PAULCHOWDHURY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 48,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 44042025,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.1
+}

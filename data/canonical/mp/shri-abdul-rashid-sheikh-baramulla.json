@@ -1,0 +1,594 @@
+{
+  "accountability_score": 1,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 15500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 24000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 37424
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 76000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 137424
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rQMdyebeyowUPKGvcrRb",
+      "total_assets": 8000000,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7591",
+      "total_assets": 15637424,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 95,
+  "assets_latest": 15637424,
+  "attendance_pct": 0,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sheikh Abdul Rashid, better known as Engineer Rashid, is an Indian politician, and currently member of Lok Sabha representing Baramulla constituency in Jammu and Kashmir, India. In September 2024, he was released on interim bail to campaign during the assembly elections.",
+    "title": "Sheikh Abdul Rashid",
+    "url": "https://en.wikipedia.org/wiki/Sheikh_Abdul_Rashid"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "MAWAR LANGATE POST OFFICE QALAMBAD Jammu and Kashmir Jammu and Kashmir, 193302",
+    "emails": [
+      "mlalangate@gmail.com",
+      "abdul.rashidsheikh@mpls.sansad.in"
+    ],
+    "phones": [
+      "7051613081"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/Er.Rashid"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+        "section": "121"
+      },
+      {
+        "count": 1,
+        "description": "Conspiracy to commit offences punishable by section 121",
+        "section": "121A"
+      },
+      {
+        "count": 1,
+        "description": "Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power",
+        "section": "124"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Special Judge NIA ASJ-03/PHC New Delhi",
+        "fir_no": "RC No. 10/2017/NIA/DLI",
+        "other_acts": "Section 13 UAPA, Section 17 UAPA 18 UAPA",
+        "sections": [
+          "120B",
+          "121",
+          "121A",
+          "124"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JMIC, Pulwama",
+        "fir_no": "13/2016, Police Station Pulwama J&K",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "506"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ASJ-03/Patiala House New Delhi",
+        "fir_no": "ECIR/03/DLZO-II/2017 PS-ED, Delhi",
+        "other_acts": "Section 44/45 & 3/4 PMLA 2002",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "19/08/1965",
+  "eci_state": "Jammu and Kashmir",
+  "email": "mlalangate[at]gmail[dot]com,abdul[dot]rashidsheikh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Family Pension of Husband"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Attended 0% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 1% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 0,
+        "percentile": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 95%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 95,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.67 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 126698980,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1442558
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1442558
+  },
+  "margin_votes": 204142,
+  "minister": false,
+  "mp_name": "Shri Abdul Rashid Sheikh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 20301020,
+  "mplads_unspent": 126698980,
+  "mplads_utilisation_pct": 13.8,
+  "mplads_works_completed": 12,
+  "mplads_works_recommended": 124,
+  "mpsno": 5830,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-30T22:12:07.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Delhi High Court orders Baramulla MP Abdul Rashid Sheikh to meet father at AIIMS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGpZbllrRGpnT2FYSjlMYUg3UUdKbWY3aGhZSUFQY2NoTHBJb1R6Q1gzc25aYVFZa0g0SVBxUG1Qa0RHblNhVENHdnpDWjBic0NGMlQ4NlBFdG5iemdSRlBfak1QWHBtQXdyTXYwNlRKNzJhX21xbzdmYVpPMXdoVzQtc3djc2kzSEpoNVJKNjl4b0tUTVc3VjgxRDJDUVlDR1o5ampqdE1GU0ZSV3hqX3BnZw?oc=5"
+    },
+    {
+      "date": "2026-05-29T09:00:38.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Delhi HC grants interim bail to MP Abdul Rashid Sheikh for father's rites",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaVp3X2swUjRnbHdPSnI2NXBVeVNzN2gzZHNwUlkxdXpucW5oQ2RhYll1S1hZUXpYUktfaUVra2JiMExqZUJuN3I0N2s5cFZ3cENaYzNobDUxNXZfdkpHZDdBQ3R2UElKdTRyTmJSUG1EN3N1WENrV1NkazNfWFdPTkR2NEV6YjM2UWhqeTBDMjdyYldpREM2X25BckpxTjVkc2UzZVV0UGhmRGc2UHhwYzlYSXRSSEdhQ0NlWmEyVQ?oc=5"
+    },
+    {
+      "date": "2026-05-26T20:32:09.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Delhi High Court grants interim bail to MP Abdul Rashid Sheikh for 40th day ceremony",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXlzbXJuQUNwTC1ybzZWTnNReUhsOWxtTEZNN3lHeFhIMGtsUzJpN0R4VXBWSHc2T3haeVdnTGFkbHhQanpXVFMwZ3JYcWhZSHFJUC1obVItR3ZRYU1SZTd6NFhJNnA2Ym9aQVEtVkNjU1B0cjEwQmVOQXdaa0k4alVwM2w0dDFlaVRURl9halVDV0Mwbm16S1lKbE9IZ1Rwak5sVnBOdHUxOVJQeEZfbF9FaXBremtQ?oc=5"
+    },
+    {
+      "date": "2026-05-26T19:27:34.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Delhi High Court grants interim bail to Baramulla MP Abdul Rashid Sheikh until June 2",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaDItdUtUeGRUU3VqVi1LZi1oUmM4aDRhQW9fVTI4QW02aFhVdzRhZC03NDc3al9hRE1QaXFFcmJEc0Nwd3VEVHJrTU5KLWdRTWlmamtPWktQdENtZFdGVVA2eFM3V1hudFNmYVlXTDJoMFVjbV8yV1R3QnZuY2ZIa0JiVzdhaHp3ZzBjX1RWYW9oTkdnRjF0NFVHTXdvZV9nTl9haXR0aW1OUHVlOTVmRHhiNkkzNDNrSEE?oc=5"
+    },
+    {
+      "date": "2026-05-26T09:30:31.000Z",
+      "flagged": false,
+      "publisher": "Asianet Newsable",
+      "title": "Delhi HC grants interim bail to MP Abdul Rashid Sheikh for father's rites",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZl9HUE05N0RBS28wRTFESUxJb1ZoWFhXX3g0QlhSSjBBSkVlODByRVdPdGZHY1U4YkQ1bnZiZ1JmYlhuOExYSTBPWnhmMXhBM2xTQXhFT0ZYal8ySDNyS3I5RnE3QWdZeXMzRHVWVnAtdDRWbzRaRUJHaDRZeHZnOW9jYUpHd3dfazg0cG1nQVhkQXJEOTBxRnI2c3ZkYUVQcHN5N0w0U3dzTWFMcUJRRmVIMXZ2YlZmelFvQXJsMFBhd3lmSmZ5Z3R0VdIB0AFBVV95cUxNU0djamtyWkd4bVhNNGZvX1V1dGRiR0VlMGp1T3RPeFVyTEg4T0xkSEtQQzROSlBrTUJfNU1OQnlfNUxfNmRJS0xxeVdaNVBnY2dfQ2d4S0NmenNtc1FDcUtWV05sMmpzREFqc19kRTJIN2R3MEtPTS1VX1ZMelluUExhbU5XOUlmaC1KSnczVmdjczJmX1R2SzNQcHBRUDZVcVpuVVpMV29IY1M2emRyb01hOU5wMnNuNFVONlVZelVtQkNTNGRSZEJDSWJLZFFR?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 4984,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "jammu-and-kashmir-1",
+  "pc_name": "BARAMULLA",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180146.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 64,
+      "value": 39
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Regarding Administrative Crisis and Staff Shortage in Baba Ghulam Shah Badshah University.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Prioritization of Local Residents in NHPC Power Projects in Jammu & Kashmir",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Stopping Outsourcing and Giving Employment Preference to Local Workers in Jammu and Kashmir",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Humanitarian Engagement and Peace Initiatives in Jammu & Kashmir and Ladakh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Ensuring the Rights and Welfare of People from Baramulla Under Political and Humanitarian Considerations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for a Special Development Package for Jammu & Kashmir as a Militancy-Affected State",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for the Construction of Tunnels for Connectivity in Remote Areas of North Kashmir and Investigation into Civilian Deaths",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.7,
+      "value": 28
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 69,
+      "value": 16
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/abdul-rashid-sheikh"
+  },
+  "qualification": "",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "OMAR ABDULLAH",
+  "runner_up_party": "JAMMU & KASHMIR NATIONAL CONFERENCE",
+  "score_breakdown": {
+    "base": 9,
+    "criminal_deduction": 8,
+    "legislative": 0,
+    "mplads": 23,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 15637424,
+  "total_liabilities": 1442558,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.7
+}

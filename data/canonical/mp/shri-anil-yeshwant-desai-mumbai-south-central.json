@@ -1,0 +1,539 @@
+{
+  "accountability_score": 40,
+  "age": 69,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 160453000
+      },
+      {
+        "category": "Others",
+        "value": 730082
+      }
+    ],
+    "immovable_total": 161183082,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 175000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 43764950
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3969334
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 300000
+      },
+      {
+        "category": "HDFC Life Pension Policy 23605955 1,01,897 1 Lacs+",
+        "value": 254743
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 19407800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 388822
+      }
+    ],
+    "movable_total": 68260649
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7098",
+      "total_assets": 229443731,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 229443731,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Flat No 101, 10th Floor, Peacock Palace Bhulabhai Desai Road, Breach Candy Mumbai Maharashtra, 400026",
+    "emails": [
+      "anil.desai@mpls.sansad.in"
+    ],
+    "phones": [
+      "9323678585",
+      "9821010395"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ianildesai/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/ianildesai"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/iam_anildesai"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 9,
+  "dob": "02/05/1957",
+  "eci_state": "Maharashtra",
+  "email": "anil[dot]desai[at]mpls[dot]sansad[dot]in,anil[dot]desai[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2580340,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2332600,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1791080,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2350800,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2613409,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 690250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 999110,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 783060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 844660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1254097,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension, Salary From Parliament And Income From Investments"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary (Partnership Firm), Income From Business And Income From Investments"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹14.11 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 141104477,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Mr. Sunil Yeshwant Desai 76,00,000 76 Lacs+",
+        "value": 22405976
+      },
+      {
+        "category": "Nil",
+        "value": 630236
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 23036212
+  },
+  "margin_votes": 53384,
+  "minister": false,
+  "mp_name": "Shri Anil Yeshwant Desai",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 5895523,
+  "mplads_unspent": 141104477,
+  "mplads_utilisation_pct": 4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 34,
+  "mpsno": 5648,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mumbai South Central election results 2024 live updates: Shiv Sena (UBT)'s Anil Yeshwant Desai wins",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbGJsczAwTFdLTTFZZXFIdFE4b3ZGemNxdjFvSkxPWmcwM3p6TUJCd0xudkZHZ0JROHpmZVRweE50Y3pkeWZLeFMyM05WV05FdmEyS1BjYTY3cnBkT2U5MEdDTDY0Z1Z2aVlYU3JzaDJnZXh2YVMwUFh6VUx1Wkd6Y3ZScC0yVWhpR1FXN3hKdDE2dTNpM2E4bjZwZ1NmNVhkdE9yNkVEYnhqWmNXTlJpUVRNb2lfRjJ1dTg0a3JBNmpVdHBRb0xzbERWTmNMb0NueFF4WWVGUzNiNVhlNzFOXy12YnNWMktKRDc3TEp0bF9BbkpmV0I3T3NUYkpWMHZTR3Q1SXVOcHA0SHRITnp6YXRfMnhCWkRlNTh6RmQ0ZFlVNHRlT25MbkRaTEZMNTFSNU82WFBCeFR2N3FxazBlSkcyWFdmdHhEbVViOWxiS2N0SXfSAdgCQVVfeXFMTnB5cERHRHAyWVh5dG8ta2dsZTREUFlpbE5paEVmR1B1RFdWQVQ0RGNTY0lMM1dtZ2hteG1iUWwwRWl5X1JlOU5rQldaeVpocUNMdFV5UUtMUkNKc3RyV21wUHlQZGZSZFc3c2NGUERJaTdBNWd0czhBTTZ0ZjhkYkpsM2VLa1Z5MTdKeEJRS3lSWmNnTC1GR0hNdW9PVi1zWU90cW1vOUp3VWxocTRPVUp5QkpLVXc4T294MkJqdGJLbXpEOEpydjV3ajdqbGNHOXBFejU1WHdTVjNDZ0NZMGxBSmNGaVpuQ0VrbUZGTGZaN2ktZUJEVFRzU2JOYjZyWkRPdHJmUDUtTmlhOWNVaUFVTm5fUUZtS0ZuZDVSUUZvc2FoUndCcVc3T3kyel85NFA1dmJjbFlqRkRCSkUteEp2TDl5R0xHS0x2VGwtSzRvODZlZWJGRlk?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Mumbai South Central Election Result 2024 Live: Shiv Sena UBT's Anil Desai defeats two-time MP Shewale",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd0ZUUlVMeXIyMHNtOTZ2dzJHR0RZc041bjNWaEMxSF9OdndJYWs0bXFfZW1IbTBSdXJiRU1ERG5FeXNBWldUSTB0YTVNQ013WWI2a2lBTTBubVpyLXhzeWRxR3BLREFpT2ZlNi1SdlFnd1hLOERLNVZ4T3ppZ3pGek9nS3IyeFUwOU5pZm9mUDM0VUVSem1OdnpuT0hXeHVxU01oeU0tMkgxS25hLS1qRkJXck0yOXBSWGZhUThucW1UUW9MVTM1TW5jbElZWFFqQTZ5OWt6Q1F0aUk1TExBQzg0WjVDUG43dUdtZXRpUFZXNWFrdUZKRU1kVVDSAYICQVVfeXFMTkFKQm5qUDRxN21XaEt0Uk9kdXpfdENITGl6V25Vd2YzMG5nMkdQNUlCZ3FtbmNUdVVvZGladC0yb3MwS0NhVGJvNkozaWVNcmFsR1p2SWdnTFBXel9aU2dSNEVkODJaam0wYXZTZl9jSnk3UEQ2NWd3VDRxU0dJUXNLSE9Ra2hFWkZYclZucWNvczcxY0VRN1pZaHpzbmtJZm9VSHp5Qk9tWFdISmtkbGkyVXNnZy1sZkM1eE1wMnZ1dFcyUVppUDRJemxNV3lGT3JLY3NUR0lSal9VazVSbFJuaWpnSkpYdXJFQjZEQndIT1cydFNlZmVXREJKNUdSem5R?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Mumbai South-Central Election Result 2024 LIVE Updates Highlights: Anil Yeshwant Desai of SSUBT Wins",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTmlOWG9RT3M0Y3Mzbzl4RFNEM2NwUTlYWi1jMGk4b3NZdkRjbWV3dEFuRmlzeWx1V1VidzF6S2FTZkEtRkRNYUNtZ2czV0hOZWI5bERHUmpTcnp1MWRablN6aFJ3RTZrT3FhVHJzTzItQXJ6TDhtekZySURtMGMwWmU1NFh0WWN6clVpZU9CVDdocUZUU05tMU00Q1MwYnRjb2RNWTNVVnJYUnp3RXhLOTVhNmdPaW1uN0dWQ0NKMXZHdlRoaC1yXzJHTUNJVFVtcUR3ZVd2UHNNWXN5MXJkQmVNVEtmb0NVYnQ4MXpRVWpBM2PSAfgBQVVfeXFMTWVzQURuVlFQSm5WazhidEZyQWxVQmhQSkJ6ekh4MTI0TVNpX0dpWGxxU1htRXNocUNXSDRDS1haMm8xaHA4SFY1MFZsdGMxSEltQi1wMW5pUjRNYUdaN2FGNGRKWDQ5MWZtajZfZnhxVVFabXFLd2dTQXJhYUJIbTBvdXFwd2pWWWZKQThPMWZhYnV2V1RISVFrZUcteFgwd1ladnJFZjZSaDVDUV9xdE9qZVpDMkdrNTBjbzFld1dHd2NVNHZld3U5bDNzWjRZcFhNTnJxZ05wRXlJRE9PMkNXTnNjclV1ZGFHUXBYRVR2ZTRNek5aUjM?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Shiv Sena (UBT) Anil Desai Wins From Mumbai South Central Constituency",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQm12V0xjc0FwVWtmTUdoZXgwYWp3ekpYdFpkckh5cjdsb0NIeUwySFpxdjN1Wl9Edmo3M0g5Qm5kM2JQS0c2QnFxZ3NwVjdQdDdxdEFqNXJqZ3FPRlhvQTA4aUhqMVM5dkM4NnRQb21FdnhtZVJLdmFlWWp3bDI0ZU1JSHpZREQwREc2WHpJYVZncktjMlNiNVp3aUNNSUMtai1wUkJHNUtlS0V5NW85VFBGNVZVeUFOVmc?oc=5"
+    },
+    {
+      "date": "2024-05-23T16:50:30.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Anil Yeshwant Desai",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmVIbnJoOG5kLXhKQjhmOVFUa1dKNG1EejVmQldOUDFwbWRkX0RWQ2s5Q1F2VDdBT3BpTWhTV1hOeTR3WV9lZW9HTDhvREUzMG9ReEhod2FWd2JlQTA4SWdqQWVIZnNQVDNSUE5kbVJrdnM3bDI3TW5rWjdhdXlpMXl2QkxMUXpiVWRSMA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13423,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+  "pc_id": "maharashtra-30",
+  "pc_name": "Mumbai South Central",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180248.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Other",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request for Revival of Closed Textile Mills and Settlement of Workers� Gratuity and Dues",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to reconsider the decision for privatisation of IDBI Bank",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to make compulsory Cardio Pulmonary Resuscitation (CPR) procedure for students and common mass in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for the wage revision of the employees of LIC",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Resume Medical Aid Centres at Major Mumbai Railway Stations for Commuter Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Opposed the introduction of the (i) The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 and (ii) The Union Territories Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Urge upon to govt to give a comprehensive rehabilitation package for wayanad and declare the wayanad landslides as a national disaster",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding safety of Passengers travelling in local trains in Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 25
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 113
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anil-yeshwant-desai"
+  },
+  "qualification": "Graduate",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 2,
+    "Finance": 3,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Law And Justice": 4,
+    "Micro, Small And Medium Enterprises": 1,
+    "Power": 3,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Statistics And Programme Implementation": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAHUL RAMESH SHEWALE",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 40,
+    "criminal_deduction": 0,
+    "legislative": 63,
+    "mplads": 5,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 229443731,
+  "total_liabilities": 23036212,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.73
+}

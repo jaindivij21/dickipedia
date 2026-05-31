@@ -1,0 +1,582 @@
+{
+  "accountability_score": 77,
+  "age": 69,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 60000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 42500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 117000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 690171
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4414958
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 80000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy no 377795393 5,20,030 5 Lacs+ LIC P NO 379442572 11,49,720 11 Lacs+ L",
+        "value": 4914138
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 11387174
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 900000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4621620
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 27008066
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1",
+      "total_assets": 144008066,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 144008066,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No. 2/1, Uttari Karaudiya, Collectorate Road, Sidhi Sidhi Madhya Pradesh, 486661",
+    "emails": [
+      "drrajeshmishramnh@gmail.com",
+      "drrajesh.vedanti@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425177888",
+      "9752066613"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Smt Savitri Mishra having shere in MNHADF Which has service Contract with Hindalco Industries Ltd Barigawa for Primary Medical Services",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "0815/Thana Kotwali Sidhi (MP)",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 8,
+  "dob": "20/12/1957",
+  "eci_state": "Madhya Pradesh",
+  "email": "drrajeshmishramnh[at]gmail[dot]com,drrajesh[dot]vedanti[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1037300,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1054650,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 926340,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1079520,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1109430,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1233220,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1257690,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1137690,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1203720,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1014260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 233780,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 147980,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 144370,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 121540,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 148980,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pvt Practice & Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Medical Practice , Poly Clinic , Rent & Medical Shop"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6189886
+      },
+      {
+        "category": "Ranjan Shukla 80,000 80 Thou+ K P Shukla 6,51,000 6 Lacs+ Anuj Mishra 23,500 23 ",
+        "value": 12238073
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 18427959
+  },
+  "margin_votes": 206416,
+  "minister": false,
+  "mp_name": "Dr. Rajesh Mishra",
+  "mplads_allocated": 262724510,
+  "mplads_expenditure": 172478123,
+  "mplads_unspent": 90246387,
+  "mplads_utilisation_pct": 65.6,
+  "mplads_works_completed": 134,
+  "mplads_works_recommended": 330,
+  "mpsno": 5579,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-10-07T20:40:58.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr. Rajesh Mishra , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDA4U0szMkZvbTFSQnhrRlhKcDBVYnlURTA1UkozdS1BaTJhUXV0UDBYVi02RmF6QXJrMm94T0pYMGVDTk82WEtOZGFKRHRNaExFUGhsWWdaM1QxMVRaR2ROOGE2WGpqRlZ6MHB1Y21jcHM5UVZFRGgtLUZ0WDdYanhreGY?oc=5"
+    },
+    {
+      "date": "2025-07-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Sidhi MP responds to pregnant women's protest over poor roads: BJP leader Rajesh Mishra says, 'Give us the ...",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOamNJLUg2Mkt0NGljcUtHbVREN3JhRXBjZFdVYmdDVXplRGFSYXVWcUJYYVRhdG04TU9UR0JWbERZc1RpWFBGTEtDWkIyRmlxbGFMSDBQQXUybnFzOG5KZkVIQnplZkFLM1RtcUl4dnFEbTE3eWswRnhJM2ZvODZYbmQyMnBLSVd3RG5rU25TQ1VZanR0bWswSHNWbm53YlVBekFYQzgwbUhlYWV4a0dsNDB4YzRyNUxjc0ppY3JvMmpSSUVfbUFLSmUtdHdiaVRLM0d0S1R3blNJYUY5Uk5hSExuODRiSXU4ZFUtZllLMk5IWHUyZnc2YWJJYUJpSXdzNjh6cUpKbm5ISXk5UlJJUDBmWkx6OVlO0gGeAkFVX3lxTE4yYzR4Rmw4aHlPZFduTWdERXNVaTJlVFdxcVIwWEZxdDBfNlliMm9OZ2RoQVZqU0d1ZjNjOElJRnZTTkdtR1U3RHJKeW1wbnFDdEJoQXc5X1pLQ19HR3NidmZMR0RvcWJiRUpxSVAwb3ZnTGlFQlZtS01oazF6MW9qM0VBYmttM0E3ei1kaXl0czRRVy1fSFQxcnNBTlJ2Yk12NUQzYzZBR2ZZSFQ3QnFZbU9FRFRQX2MwaDV1blVyUVl5RkZvMTBtZVg1X2ZUb2JCTVFBb1NVcjhDQk5MM1ZOcDFyV2VSYnJhQTdCdXc2ZHgwRjhxckxzYlA4VlNxaGViMDU4NzlrTlZkbU01dlhKdmt5VlpiZ3A1R0F3UGc?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sidhi election results 2024 live updates: BJP's Rajesh Mishra wins",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVGUzNWFxdGh3TWFXUUc1S1ZLbzl3bDd5Vy0xcHd6RWswNktIMGVMSk1qekNMclJXRnBJeGRwWlEwOHhKZDIzX0kwd1RYelN1UTNicnRVZXZWazNoNHVfRnpZVGhacDRneHV0NnoybzNVWGVWZzVJNE1xRlB2dmI4MGFRVGVWZlZlODRaZkU4d25EbHE4aURoa1pyTVlRUTk5QVJISXkyMHNXaGk1SE9MalFLMDZZTUY4bm9RTXZzSlJmWmJsQ3dhTF9rdW5rbGxkbXJXWkVFazlLNE01Q2ctQnMwNVZDNEwxbjYtRWpZUWFXYVZHR0poN1NuanUydUpEWGRTTEctWVVOUk9EYUxSRHZ6N1NEbkNWaDRaWnlkUU5Ic0FWMVlDQlN2dnJwdnIxZk1hLUxOT21TcmtyT1d6LUhTZ0F6WHBaTFpFakN5YkFheVFFeUHSAdsCQVVfeXFMTklfZVk5LXpISUQyVlhvakFNSFZvZEdJN2R1UXFRNi05VnpWaUp1cWpJcU00SlhhQ3BJSHhXcHBNV0hPREpFZEJjUmc1VGFPUWN5ODBPc294R2dkV2dMVDZiNVhHZVk3QTVBVTRUMVd3alhNd0hMRW9fV3dHQUgyU213RTdiTk9JUFVIZHF0R2pmZ0ZvRkR1ZzlsVm1rRnI2YU95Njk4bk14WTVxUS1MM0F0dUU1VGZZblNoWW8xMXdtSmJvZUNqXzNKVEhWVnJDaXcxVVU2V0FnXzhEdVFCWWZaSi1iVWd3VDhZLWREOHpGUnM0RXJONk9IZ0VsUE5NcXcwNC1hSERodXVPUngzRjNBM3NHQmVndjNpZzNpUktHYmNQN0tlT2dFQkNFX2dPWXJCUXlxTnJRZ053T2xTSEhhQTJyNkNjTTV4WVFDVm52SnZRb29vb3BTRDA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Sidhi Election Result 2024 Live Updates: BJP's Dr. Rajesh Mishra Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUxOMV9PbTJQOVlma2ROZlczOFBrc3Z1bVozWWxrTE9rMWVtYVAxMTdpN0tSbnY3UGFiLUxfYzhuNGFXbi1mM0pOSzhDQkVIeVgzQS1CNEZWWWlUaDQ2NW1NeGY3bXpfVEQ0NlNEYzhCd1EteVdocWIyVkZtWnNLc3ZHU0hkcThNYkxOOVRabzRtMjZxN1ZnaXp6a1pQeWhWYThZNW5RNU5pOTUxVnRxMlRtMndCX1FMR0luYS1aQkxiaUduNVEtU9IB1gFBVV95cUxQSHBTVnNERGl4RlJmN1ZRb2luQWZheV9VdDJqUXJyZVlONHE4b2RhS0U2TzExQkxzbVFLVS1TTlRFWlBZU1V5Ul9rQ1hEU0plQnhoM1pGS1JuM056b093R0pzWDROanN0dE9pZTNUaVdUQkZGVDkxeW9KclotNFFHekJKSWVNUVYyeGMxVzlGdDc1NVVBWjdqWFhQdXN0dUxPNWRVMkpyY2ZhN0dwYzYyZm45aFpKOVc1ZmI1SC0yQXpWRWRTNTJFZ3pqMjBEMC1wSkVBdU9n?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Sidhi Election Result 2024 LIVE Updates Highlights: Dr Rajesh Mishra of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjc4aFJfSEdSLVJUdHFrcHltSkYtMV9uendGUkxUZUdlZXFzM2U0NGFnc2F2dVh4OGFPUTJhSDRXZ1JUTm9wU2tJTElCYmtnRmR6U0RUbVlmc1NWODNHRHpEZGdIVEZRd1I2OWh6b19ZTm5ueUozNDZiaU44bWtpX1I2SVI5OXQ0VVBpeS1VMjBXWDd4RUVlODI5dm5BVGo1LThRSkRXNlhuTksyNDRtdU4zOGN3VEJmUFRwVS1lZDA4Y29VQmJqLWhfUGx5TlB0NWJ5eDYyc2xqbS1Md2hv0gHkAUFVX3lxTFBZX013anQ1LW5QQ0JjaEZsZXZWYXVRMDIxdHU0dkQtcHJuSEVjblpQb253T0hCdWFJdEt3djk4bG9rSHQxUmxJZVhaUFNNYW5QX0RuOXZOQWRydG5MSUwxSDBNLVBaeE0zVWVTeFcySFB3bV80SmhQYVR4U0MxbTlTUXpLUEI0N1V1UGVzcm56dTlKT2JXWjMwdmFIdWdVUzhWeS1VUHMxeVFURDZia3FUdzhQbVJXMlBZdkVwWXpTS1p2X2JSZlhKVlVSM3ZhalF4XzBPUzFjQ0hLcE1BbnM2SWVPZQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 4216,
+  "notable_record": null,
+  "num_candidates": 17,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-11",
+  "pc_name": "SIDHI",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180223.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Early Construction of Bargawan�Katni Four-Lane Industrial Corridor Road",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for establishment of a Central University in Sidhi Parliamentary Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Government Scheme to Assist Families in Transportation of Mortal Remains to Their Native Places",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding construction of dedicated corridor for transportation of coal in Singrauli district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to make the provision to bring back the mortal remains of the deceased workers to their home State under Ayushman Bharat Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need to provide compensation as per new land acquisition policy to the people whose land have been acquired for establishment of power plant in Musamudi and Bhumka villages in Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the poor work of Ircon at railway stations in Seedhi, MP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to provide compensation of land acquired for setting up power plant in Sidhi district, Madhya Pradesh as per the provisions contained in Land Acquisition, Rehabilitation and Resettlement Act, 2013",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need for establishment of cowshed (Gaushala) in every district of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Establishment of Cow Protection and Conservation Centers in Every District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of a University in Sidhi, Singrauli Region for Educational Access and Convenience",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for NH Status and Immediate Completion of Sidhi-Singrauli Road to Prevent Accidents",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding payment of compensation and proper rehabilitation of persons displaced from Sanjay Dubri Tiger Reserve in Sidhi Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt take some steps to Protect Cattle and Prevent Road Accidents Caused by Stray Cows",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding proper rehabilitation of people displaced due to Sanjay Dubri Tiger Reserve in Sidhi Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to declare human deaths caused by honey bee stings as unnatural death and make provisions for payment of compensation for such deaths",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding displacement of people in Jayant in Singrauli district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt a central monitoring system should be made to check the quality construction of jal jeevan mission",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 29
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 207
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dr-rajesh-mishra"
+  },
+  "qualification": "Doctorate",
+  "questions": 38,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Coal": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Defence": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 6,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KAMLESHWAR INDRAJIT KUMAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 78,
+    "criminal_deduction": 1,
+    "legislative": 70,
+    "mplads": 92,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 144008066,
+  "total_liabilities": 18427959,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.87
+}

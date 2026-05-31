@@ -1,0 +1,476 @@
+{
+  "accountability_score": 0,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5573865
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2494000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 43000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 51067865,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 88000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 15469174
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 927000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 16484174
+  },
+  "assets_earliest_year": 2007,
+  "assets_history": [
+    {
+      "label": "Uttarakhand 2007",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=o9CiCZEJu67NMtus4Gm",
+      "total_assets": 2040669,
+      "year": 2007
+    },
+    {
+      "label": "Uttarkhand Bye Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=o9CiCZEJu67NMtus4Gm",
+      "total_assets": 16470709,
+      "year": 2014
+    },
+    {
+      "label": "Uttarakhand 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=o9CiCZEJu67NMtus4Gm",
+      "total_assets": 11583826,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=277",
+      "total_assets": 67552039,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 3210,
+  "assets_latest": 67552039,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Trivendra Singh Rawat is an Indian politician who served as the Chief Minister of Uttarakhand between 2017 and 2021. He is currently serving as the Member of Parliament from Haridwar Lok Sabha constituency since 2024 after winning as a Bharatiya Janata Party candidate.",
+    "title": "Trivendra Singh Rawat",
+    "url": "https://en.wikipedia.org/wiki/Trivendra_Singh_Rawat"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": null,
+    "emails": [],
+    "phones": [],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "20/12/1960",
+  "eci_state": "Uttarakhand",
+  "email": "tsrawatbjp[at]gmail[dot]com,tsrawat[dot]bjp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 814630,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 559800,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2733560,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1809630,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2078189,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1316240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1224150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 750270,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 833470,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 975803,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension From Uttrakhand Government"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary From Uttrakhand Government"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹20.4 L (2007) to ₹6.76 Cr (2024).",
+      "headline": "Declared assets grew 3,210% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 2040669,
+        "from_year": 2007,
+        "pct": 3210,
+        "to": 67552039,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹6.55 Cr between affidavits, while declared income across 5 ITR years totalled ₹80.0 L.",
+      "headline": "Declared assets rose 8× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 65511370,
+        "declared_income": 7995809,
+        "itr_years": 5,
+        "ratio": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹14.35 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 143474448,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Sindhu R Pillai 25,00,000 25 Lacs+ Manisha Patil 25,00,000 25 Lacs+ Prachi Vishw",
+        "value": 7500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7500000
+  },
+  "margin_votes": 164056,
+  "minister": false,
+  "mp_name": "Shri Trivendra Singh Rawat",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 3525552,
+  "mplads_unspent": 143474448,
+  "mplads_utilisation_pct": 2.4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 34,
+  "mpsno": 5556,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Protecting the Himalayas is securing the future: Trivendra Singh Rawat",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS09FN1Z3SDNkQ0xXbGhRc3VJMUFRbHYtTGNzejVWMm5UdURLWUtGc3JDRTVGQVNCc1FycXoyUGNaVkJsbTR4azRITkdtVkZTbmhwN1VLRXd4M2FqZ0Fyc0s4Tno1eXN1TWEtTmpIVk0xVjFMV2tDYTkyMDUxOUhQcG9GeVdpOGNVclJrTTlnZ1hOak5hWm5kRA?oc=5"
+    },
+    {
+      "date": "2026-03-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "MP Trivendra Rawat meets Union Minister Gadkari; discusses pending projects",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWZ0RXE2MVhPNE5IR2gzWnJDZlR1eWx6ekdsdWFRYm5KYXRtMzlUWWs3aElwOGdZbE80SkdCRXpuQmtTWVIxUkhkYUREME51ZFQ5ZTRiMUVKWnZsZGxPYjdEZHZFR0dXelJHVGdvNTlpc1MxenU0UkJ1ZWZySzY1d0xSZ0o3dkpENXNZLU5qSHRZRW1FYXgyWktlMXNyWlk?oc=5"
+    },
+    {
+      "date": "2026-03-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Trivendra Rawat raises demand in Lok Sabha for improved rail connectivity in Haridwar constituency",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1UwUnRhMTFCU1h4X1pESWwtNWJ3bElXMmY4UnhKVnNhOUMtMXlVbFN2eFE3eS1NVVVaWllpWDk4bzdtdkc4SFJVZ3VEU0FLd0dNTEN6RjJwNVdQMXpzUEkxU1VkcHJKTlZmeHZndHpIWDI1UmdmeTZYZkFuME40cTVYOUtRQU5abXg1U0N1T0Z0SV9YVVlFYVdFUTRJcFdUNUNRbHpVeldSSXZVVmd3WE9uaUVXSERuaVRNcDRDZw?oc=5"
+    },
+    {
+      "date": "2026-02-24T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "MP Trivendra Singh Rawat expresses concern over law & order in U’khand",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZk1WdlJIb0J0MUNtaVA2SmExcXFyQ0JmVDVIODZZRlY3aUJpVHRDQ1laRTNiSkJDcHdsZUZ3bHAzdElsS09aQlVEZWJzRlJLSk9tYmRyVDUyTzRpWUFaOFJSTkx0MGJvalI5SmVud29iSnRaUTJaS2g0RDZobkhxTzVadEtXWFhNdHJNaV9CaFRzMWxGOUE?oc=5"
+    },
+    {
+      "date": "2026-01-23T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Rawat, Baluni & Kaushik suspend proposed meeting with rebel MLA Arvind Pandey",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE9FcHhlM0xDQVJJUDkyMDd2RUxuU082c3B1amwxTU80VXhVWHNiV3NndGROQ1RxX2p0RW1nUUhlUS01LVQzMmVYdWNJREhBc09EXzlNNF9URlVfLUVpLU5MZHBQWkx3VnhTcFZCZVpRbElUR2twZU5rSUF0aWR5NS1ickZGSlFWRWJCX3lDOV9idnBPQ0pPR1MtanNzUXc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6826,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttarakhand-5",
+  "pc_name": "Haridwar",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180501.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Real-Time Monitoring and Early Warning Systems for Himalayan Glacial Lakes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding Government policy for utilisation and value addition of Pine needles in Uttarakhand and other hilly States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to implement land consolidation (Chakbandi) of agricultural landholdings in hill districts of Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to construct a heliport in Haridwar, Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Curb Illegal Nighttime Truck Operations in Uttarakhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to take measures to prevent forest fire occurring every year in Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Issue related to the regular flood situation in uttarakhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 9,
+      "value": 9
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 126
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/trivendra-singh-rawat"
+  },
+  "qualification": "Post Graduate",
+  "questions": 6,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Finance": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Road Transport And Highways": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "VIRENDRA RAWAT",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 19,
+    "criminal_deduction": 0,
+    "legislative": 30,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 67552039,
+  "total_liabilities": 7500000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.19
+}

@@ -1,0 +1,469 @@
+{
+  "accountability_score": 54,
+  "age": 77,
+  "assets_2019": 33791375,
+  "assets_2024": 42965416,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 9700000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6670000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 1550000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 26020000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1315113
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1072761
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 17496541
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3950000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2590000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 221000
+      }
+    ],
+    "movable_total": 26645416
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ti8dqax9rmTzKEnn3qMa",
+      "total_assets": 33791375,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7856",
+      "total_assets": 42965416,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 27,
+  "assets_latest": 42965416,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Radha Mohan Singh is an Indian politician from Bharatiya Janata Party (BJP). He served as the Union Minister of Agriculture & Farmers Welfare (2014-2019), during the First Modi ministry. He was also one of the national vice-presidents of the party (2020-2023). Singh was President of BJP's Bihar State unit from 2006 to 2009, BJP's Uttar Pradesh Co- incharge (2010–12) & Incharge (2020-2023), Uttarakhand BJP Incharge (2013-2014) and was 1st elected to 9th Lok Sabha in 1989 & currently is member of 18th Lok Sabha. He is the chairperson for Parliamentary Standing committee on Defence and was chairperson/member in multi-Parliamentary Standing committees, National Election Officer of BJP.",
+    "title": "Radha Mohan Singh",
+    "url": "https://en.wikipedia.org/wiki/Radha_Mohan_Singh"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Gandhi Complex Atal Dwar Station Road Motihari Bihar, 845401",
+    "emails": [
+      "rmsingh@mpls.sansad.in",
+      "singhradhamohan49@gmail.com"
+    ],
+    "phones": [
+      "9431815551",
+      "1123384189",
+      "9013180251",
+      "1123322370",
+      "1123314390"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://m.facebook.com/SinghRadhaMohan"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/radhamohanbjp"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/radhamohanbjp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC No. 1122/2024",
+        "charges_framed": false,
+        "court": "Archna Kumari Judicial Magistrate First Class, Motihari",
+        "fir_no": "229/2014, Police Station Turkauliya East Champaran",
+        "other_acts": null,
+        "sections": [
+          "171F",
+          "188"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Additional Chief Judicial Magistrate 1st , Motihari",
+        "fir_no": "Application No.07/1996",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "01/09/1949",
+  "eci_state": "Bihar",
+  "email": "rmsingh[at]mpls[dot]sansad[dot]in,singhradhamohan49[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1367920,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1499430,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 863350,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1348620,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1357461,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture , Salary & House Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 27%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 27,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 41% of MPLADS local-area funds were spent — ₹8.69 Cr unspent.",
+      "headline": "59% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 86918162,
+        "utilisation_pct": 41
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 152310
+      },
+      {
+        "category": "Neeraj 4,90,000 4 Lacs+ S K Singh 5,00,000 5 Lacs+ Rajender Prasad Gupta 17,99,0",
+        "value": 2789000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2941310
+  },
+  "margin_votes": 88287,
+  "minister": false,
+  "mp_name": "Shri Radha Mohan Singh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 60081838,
+  "mplads_unspent": 86918162,
+  "mplads_utilisation_pct": 40.9,
+  "mplads_works_completed": 57,
+  "mplads_works_recommended": 103,
+  "mpsno": 451,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-11-11T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "East Champaran: Radha Mohan Singh casts his vote #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0ExUkN0UzlsVUhMQm9iQVhYT08zUkM4dWNpeV9ZX3FPdW50VnJjMFBqWkxjaERHV3phTW05UkZCdEhpUWZWWHExN0J0aUY3eXUwSHhCSDAzdTVEUkNRVGVHSXdicU9yRVFBVFVac01JX2hSYlNHOFBvTS0yZ1JXSkFjdUxWMWpYelZDMjNZMnIzOHZyU09oeWxB0gGaAUFVX3lxTE9nQTFSQ3RTOWxVSExCb2JBWFhPTzNSQzh1Y2l5X1lfcU91bnRWcmMwUGpaTGNoREdXemFNbTlSRkJ0SGlRZlZYcTE3QnRpRjd5dTBIeEJIMDN1NURSQ1FUZUdJd2JxT3JFUUFUVVpzTUlfaFJiU0c4UG9NLTJnUldKQWN1TFYxalh6VkMyM1kycjM4dnJTT2h5bEE?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Purvi Champaran election results 2024 live updates: BJP's Radha Mohan Singh wins",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNnBHeFlNT3h0Z21LT2FtM0p5UEZEa3NTYzBvd2NmSk1rclFEZkZ1WTBBdDl4bFJsbGxEMldtOGZuOGpXZ1VYYnBBS04weWVTMlR1UnkxRlBfUnd6UDVUUXJLT3Y5dE9wT3VJRXZVMjBHc1Z3TkhOd29McGFxX1lUT0UxaXZMZmlwaDNES012VDNxSTdPSVZmZDZ4MDZ0ZmMxVzktS2NmMzhXTXVoNzBnbkxDaXVUVmNHREpIc0x1dm43Uml1VUFxMjNKek00eERFVG0ydzYyM1owVUhuMElMUTg4cTBMSlQwTXNRMG82S0dGYUVJanUtY01uQjlBamhXdFdVa2dEaUlkMXY5eW1MTi1LZ0RTTThR0gGeAkFVX3lxTE16aHI2NEx5WFoyRWhIREVpSTZIc3pBczBpSFJJMm5mUEdacVEwa25ycjktNklYLWE4azBnMHlVemNBc0d3ZTgxd3I2RVJYWWltRlZmclFjczk1REV4R3VwTUctU2JRak5BNVozNnlrZHdvZEgySkRjU3FFMkV4ZTlIcXFJTmFDaUxuLXUtaGtMYkxYcGFubXF0Z08tVnhIWTZrY0ZFUHd2YmZCRXV3X29ySnVfRmRHWW1jcU9YTU9hcEdxUXo2U2VVcU5MWXFMaWdjNnFabjZXODY1Q2t2ZjhHVTdWOEJCTWgtSnFFemJEaW5adDY4ekNzMFgtNWYwSVNkZHd0R1BwTEZtNjRKbXJNTUhWNFFlQzRkVXlpVHc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Purvi Champaran Election Result 2024 Live Updates: BJP's Radha Mohan Singh Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRllzM3FKYzk5OW11eEg0bnpIS1NTWFVCN3AyeWMyRGczYmJTV3hNcXprdTA5dE4xb2lWbkdJV29uRTBJdnlNUHFHT3VWdnBxenVKOVcyRGRqUFBvdkJ4LXVWaUJoUUs0XzZ5MFlrcFV6RDlQai0yMWpCWnNsUUdJbWFoMHIyaWFxMmNRTHpOUEFXRUt1cWdIV3NUdEl6TW1iZElFb3NRX0t3Q2k2dzRHSXFEOTczM2s5N1RXRUotRU9lM1JleDdJa1p30gHXAUFVX3lxTE1NdkxCYmxpVmVEWUxmTGRLMUw1S2M4WXhVSUNlRkY3ZGtYeUZodllUNFJCS0JJWXZtNFU0ZnRVWVNzZldEM2hoYUpGd0llRDhWeWRGeEdNZDBHZnRNdnUyaW5FNk5mLUNkZDBfTE91eWE5VFdCd0J4X3RkUG5HWFNaekdqMmZEdWVWUFgxcG9PWGtQbGlvNUtWaXBmalJDUGtMMlJjX3pWcURHejBjRXFucEJMWUpOZ2xrd1B5SUtxMlN5Y1JhWXJ3ZmFPbFJOOUhMVkdTZnZ3?oc=5"
+    },
+    {
+      "date": "2024-05-24T23:56:12.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Radha Mohan Singh, Bjp Party, Purvi Champaran, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzhVSm1tUVNxM0xHOWRUQ0F6bHFkZUZxSjNwamNWYzRFY2dGOGJQSnZnWGRORWdFZ0QxeTFrR0ZUT2VIWnppSHBaWmF4TzB5TGxQaTRhNEI2VW9ucEc3T1ljRU80cWotRGEyRm00T2swam40Q1ZYSS12MTBxeEhoXzF2c1M3TElGcExibDF5bW9MV2RDdEJUaUlPY0hreUtQRmZRR3ZFbVJtSUg5bkN6Vm02NTE4ellqeF9IZ2hYV01BbHlKVFRRUHVROURuYURmWmlZN0duNm9DYnVXbG4zZDZvSF8?oc=5"
+    },
+    {
+      "date": "2024-05-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "East Champaran Lok Sabha Polls: Smooth Sailing for BJP's Radha Mohan Singh, INDI Alliance Likely to Fall Sh",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRUhWS1lxRlVfRTZZT3NXaUYxZHUwd29pN2FELTRpNWx1dElKWHZpaFBFclJyMlN6Z3hwRWdoM3FtRWNIdnM1MkV2ajJxZDhVUmFTdXVOZ3FSQk95cG5nYkZxd1FaeGloWl8tUHplNXBWNy15SkRLZGhRN3BSNzQ1UEpYbkJzNWVybzNWcEtmaTFVOTlMODZJcUoyZTlEVTZ6eXl2azMwc2duZWZyU3ByN0VnMGEyOU9TcGhQcUFIdFdQSk9jUXdobG9ScjN2eERveXhfcXZfRjJoQTl5aThVMUNtRDFhNVBD0gHuAUFVX3lxTE5ReEdrZzBEM3hnOEJQdjh1WXlnS25vUHhIeU02cUxmclBOeVpkR1VlLS1POFg5N1g3ZGFMZ20wSlI3bTFPTFdMbXVjZDFYNmVzbHNhTGg2OUFUaFJFUjJOZDhVT2d4NzNoNUhPdHc5TDNoVDBkRmNZRDYxOW00Tl9OZ1ZaTE5uNjREV1ptaktOaE95NzVwTzIxREZZODNNVmlmRmpyNENNbHFKbWZ2MXlyUUp2SldEWWdnQVh6SktQTzR5a3ZraG1JdVhDOTEzbk1INGVvb2hZOTVWVFNhQmw3ZUp0bzRRVGRXRFdrdEE?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 19788,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "bihar-3",
+  "pc_name": "Purvi Champaran",
+  "pending_cases": 2,
+  "phone": "9013180251, Tels. : (011) 23322370, 23312370,09431815551 (M),Telefax : (011) 23314390",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180064.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/radha-mohan-singh"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DR RAJESH KUMAR",
+  "runner_up_party": "VIKASSHEEL INSAAN PARTY",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 7,
+    "legislative": 33,
+    "mplads": 84,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 7,
+  "top_inference_severity": "flag",
+  "total_assets": 42965416,
+  "total_liabilities": 2941310,
+  "wealth_pct_increase": 27,
+  "winner_vote_share": 50.5
+}

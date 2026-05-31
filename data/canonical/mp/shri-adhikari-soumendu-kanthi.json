@@ -1,0 +1,577 @@
+{
+  "accountability_score": 7,
+  "age": 43,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 9000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 3000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 15300000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 30000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3584833
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 280000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No- 1.459848312,996886813,405044403,459848313 27,35,160 27 Lacs+ SBI ",
+        "value": 4535160
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2350000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 100000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 10879993
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7922",
+      "total_assets": 26179993,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 26179993,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Soumendu Adhikari is an Indian politician and the elected candidate for Lok Sabha from Kanthi Lok Sabha constituency. He is a member of the Bharatiya Janata Party. He is the brother of Suvendu Adhikari of West Bengal and son of Sisir Adhikari.",
+    "title": "Soumendu Adhikari",
+    "url": "https://en.wikipedia.org/wiki/Soumendu_Adhikari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill. Karkuli PO+PS- Contai, Dist.- Pura Medinipur Kanthi West Bengal, 721401",
+    "emails": [
+      "adhikarisoumenduwb@gmail.com",
+      "adhikarisoumendu.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9732591797",
+      "9933600739"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 4,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 3,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 2,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 2,
+        "description": "Falsification of accounts",
+        "section": "477A"
+      },
+      {
+        "count": 1,
+        "description": "Undue influence at elections",
+        "section": "171C"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 1,
+        "description": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467",
+        "section": "472"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for theft",
+        "section": "379"
+      },
+      {
+        "count": 4,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 2,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration",
+        "section": "423"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for house-trespass",
+        "section": "448"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Ld. ACJM at Contai",
+        "fir_no": "264/24, Dt. 25.04.2024, PO & PS Contai, Dist. Purba Medinipur, West Bengal",
+        "other_acts": null,
+        "sections": [
+          "186",
+          "188",
+          "171C"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No.- 2789/2022",
+        "charges_framed": false,
+        "court": "Ld. ACJM at Contai",
+        "fir_no": "179/23, Dt. 25.04.2023, PO & PS Contai, Dist. Purba Medinipur, West Bengal",
+        "other_acts": null,
+        "sections": [
+          "420",
+          "406",
+          "409",
+          "468",
+          "471",
+          "472",
+          "477A",
+          "120B"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "TR(PoC) 4/23",
+        "charges_framed": false,
+        "court": "Addl. Dist & Session Judge, 1st Court cum Special Judge, Purba Medinipur at Tamluk",
+        "fir_no": "520/22, Dt. 28.12.2022, PO & PS Contai, Dist. Purba Medinipur, West Bengal",
+        "other_acts": "Section 7, 7(a), 9, 13(i)(a) Prevention of Corruption Act 1988",
+        "sections": [
+          "409",
+          "420",
+          "406",
+          "120B"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "TR(PoC) 2/23",
+        "charges_framed": false,
+        "court": "Addl. Dist & Session Judge, 1st Court cum Special Judge, Purba Medinipur at Tamluk",
+        "fir_no": "265/22, Dt. 29.06.2022, PO & PS Contai, Dist. Purba Medinipur, West Bengal",
+        "other_acts": "Section 7, 7A, 9, 13 Prevention of Corruption Act 1988",
+        "sections": [
+          "406",
+          "409",
+          "420",
+          "423",
+          "467",
+          "468",
+          "471",
+          "477A",
+          "120B"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No.- 186/2021",
+        "charges_framed": false,
+        "court": "Ld. 2nd JM at Contai",
+        "fir_no": "29/21, Dt. 20.01.2022, PO & PS Contai, Dist. Purba Medinipur, West Bengal",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "341",
+          "506"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No.- 990/2021",
+        "charges_framed": false,
+        "court": "Ld. ACJM at Contai",
+        "fir_no": "193/21, Dt. 01.06.2021, PO & PS Contai, Dist. Purba Medinipur, West Bengal",
+        "other_acts": "Section 51, 53 DM Act",
+        "sections": [
+          "448",
+          "379",
+          "409",
+          "120B"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "10/03/1983",
+  "eci_state": "West Bengal",
+  "email": "adhikarisoumenduwb[at]gmail[dot]com,adhikarisoumendu[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1102090,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1982240,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1836740,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1823730,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1915720,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 25% of MPLADS local-area funds were spent — ₹11.09 Cr unspent.",
+      "headline": "75% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 110878877,
+        "utilisation_pct": 25
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 287970
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 287970
+  },
+  "margin_votes": 47764,
+  "minister": false,
+  "mp_name": "Shri Adhikari Soumendu",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 36121123,
+  "mplads_unspent": 110878877,
+  "mplads_utilisation_pct": 24.6,
+  "mplads_works_completed": 29,
+  "mplads_works_recommended": 70,
+  "mpsno": 5659,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kanthi election results 2024 live updates: BJP's Adhikari Soumendu wins",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOT2phRFNTaS1OOFlmbmctVjlNUWFkaDZOWVY1SnU5bW9HOUVEY0FwZ2oySG1la0FuaUc2aTFBU09lMFAwS0JZRl9NR0wxVU9qSzdzbkZtb3g4Yzh2VUtFUFU4WTNIbzhDOXBxamxUQ2hBTVFZUmpKMEhFWUNEanNhaGFFbG1vbjhBOC0waS1KN01XdXZFcnhHeVRaZHhDeXBxS09WeE5TREpQOVpOY0liUldVOGxlalZIcGJ0VHhQakxSdGtRa1dia2MtUkNnd0xyem1sZ2FNdmpEZmNGZFBEOFpqQk94aGZxbXd0U0RCMUh6eHlGVzREcl9QQWwyLWF2LTk3UnlONVVLSEF0NjBOM0NzVDR6NkM3bFRubTBES0lMODN4azFPa3J6WDNBVEZRb05KUC1NMTNyZUR6NU9KNUQ2RdIByAJBVV95cUxNRFJ2anZvZWZyeVh0QjVlVjNobGV3QjRPS0xEeGxiVVFhLUZHdEhycjBJTnBkN2dKaGRqSkk0TV9yS0duQmZfd1lUNE9URXZFd3ZiQ0x5THV1STRJM0YzNnpwTEpUZWpwWDgtUklUcGphUlZ0M3FJNEJHd0N5dGUxamJUSVZTUEw3VDBzcFBCbmJRRGlKSlRkUnRUS3gyaWNiSWhtMVhTRmdPTU9MN09Qdk0xRlp2NVMtdWw5QkJYazZPWUQ1OF9JRTV5eUo1d3J1T1lfNGZ4eWdqQzdOWUV5WHByYXJieks5NXRaeW1kdzIyWER6czI5R1QyTDQ5S0gwaklHZS0zay00Z0h4M1pialNaYUpnc0UtcU14cHU2YVI2RWVQTm85d1dULXZmZjN3RFNaa1d0TlhTZ0FsSXd3RmltV2FFejlf?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Kanthi Election Result 2024 Live Updates: BJP'S Adhikari Soumendu Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjhsR2FFUWFxeTVSeVMzMC1jMjFWR19oM0paa2hjRDJaUHJMZmpMeE82R3VFUVBJUTJaT2tKVVdkQVNKbmZXTlAzZnpjYU16QVZOWmp2WU94bThIaUdwNGlQODh2bzhBSG0xMXJNTjVzcFRnVFM3VmRDNE4tbWtjUTNOb3U1WlVMdEtsXzVycDQ3aFpBTl9hRndGdUhjMGZqRkZJWXNuOGZ2OFQtR3Rrb3Q5WWRqTU1jaGo3TVYwY0ZPejZhV3fSAdMBQVVfeXFMTkc0VWJKRU5JaFU4SDAyX282THREVVdYc2Y4anlLajZrZmhlNS1NZnBBVTFNWFI3cFFrWmFTUElEYTVielVnQ0lnclEtb211aWxyU0JrZDBGSnZ6VGxKOHFfNkxwOTZsdjNlZE5IbllqUnhBZFI4ZHlheFZlV3RxU0NPSXgzd3FqcWFscTNmdlV2dGxMMXI3TjVYaEU0T3h1UlNEbm9RVHcxdjF4Mkc5UVJqZDNOUzFkSTJPZ1dUaHVnTG1USmgtWEozdlVyRldSS205TQ?oc=5"
+    },
+    {
+      "date": "2024-05-31T18:06:28.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Adhikari Soumendu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN093b000RVR1Q1QteTZCZUIwNlQwRGFYblhTalFkYkZMS2taSUhoRUNZV3pVZWVDNHo2YnZYT1ZNTkVGbW9NWmJ6SEwwQ05WcFRyazVhWFN5ajhYV1lVYkZqb1RUMlE0R0xvTkM4Qmpxb0VqcW8xRGZrX0llWWxLVmoydjdqWnRMTC0zYlFmRVRMYWV2aDRnTFVWN3d5Mk5icXBwSXJiZDZXUW5mbG9fWWdEN3ZVRGhBZ2YtanF3?oc=5"
+    },
+    {
+      "date": "2024-05-24T21:13:34.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Adhikari Soumendu, Bjp Party, Kanthi, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZEh0d1Jkck9QQ0hsQlhEX0pWbUpCcU54X21BdjhfaTNNSDNQVDJkV3JFSmZPZTVaS3lxQXFQbDFxM1hycWhvQVo5REQ3eHZiVzI2cVd4LXk1cnQ0WVZ4Y2lxUXYyNmpnV0VKNjY4N29jRmhIdFJldS1xUW1mTlVfS0NHRmlKdDY4bTJ1enJHd3RtNGpJSGc0amc1SDBnbGxNUUxwNGYySEkzYk5Id18wcDJINWRQcWNEeUJZVlV6VWxuel9teHV6cVljZF92VUdmYlV2NVRxMkJNdV9YRXJxRA?oc=5"
+    },
+    {
+      "date": "2024-03-02T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Bengal BJP Candidate List 2024: Nisith Pramanik, Sukanta, Soumendu Adhikari Among 20 Names In First List",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMEhNazNMWTVDRE1pbzgyWEYwYU1WMjQwTzBSZVQ5V2dDRVg3VTBUZnJxRTBsRElRMVNRQmNXWE92Z1N2R1VKYU1SRjU2NF9FcXhaTUQ3OE0yVHhpM0g5Tkw3bXlXWjRXUmIzZzQ0dkV4akw0YmZDYlFCSzVYanJfRVd2NUJ3eW5McEdlSnAwX0ZUbnk0TEdWRnFXUngzcTE1X0FldlBBOXZnRkpmd1lMNEFNMlV6Wk1ybzNLU3RiZlR5Qjc1TXZycm1QcmdXZmhKR3M4Qm1hOWdSTGhyUFFJREp3UdIB6AFBVV95cUxONHlLNUN3RkE0czd1TzBraGJ5ajl0b2FMejdkWlNTOUY5NGhOQ08xMUtPRmt6ckNmODA0UTdQdko3WjJvV0JYcGl3VkhQRlF6RmpDZjV0cnRNYS1fWjE1Q3BkYS04RXdDbU5Wa3k2WWVRRXpSM1BFYzJDY1lQa0xkbVBTajFQd1A5OWRyY2s5RHJqclJoZERpeHAzYXo4c1ZQeEdKMGNIZmZiS2VGWmZvTEx5aDFaeGl2S2p5QUFXRUZCUW9vOTFodUgxOGpZWHlZWXVRcGFBc2FiRVZmNVFIN0tmUW40UEpq?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 8134,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "west-bengal-31",
+  "pc_name": "Kanthi",
+  "pending_cases": 6,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180505.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Activist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 85
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 30
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/adhikari-soumendu"
+  },
+  "qualification": "Post Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "UTTAM BARIK SON OF LATE BIRENDRA BARIK",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 38,
+    "criminal_deduction": 31,
+    "legislative": 25,
+    "mplads": 57,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 5,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 26179993,
+  "total_liabilities": 287970,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.85
+}

@@ -1,7 +1,3 @@
-// Pipeline step 17: fold the deep Phase-2 raw sources into the canonical mps.json by pc_id (left join on
-// the 543 spine, so a missing deep source is a null/empty block, never a dropped MP). Adds nested blocks
-// (criminal detail, asset breakdown, liabilities, income, contracts, wealth history, PRS detail, contact,
-// bio) plus hoisted scalars for sorting. Runs after 11-16; 18_inferences runs after this.
 import { writeFile, readFile } from 'node:fs/promises';
 import { isSeriousCase } from './lib/serious.ts';
 import { hasAccusatoryPhrasing } from './lib/text.ts';
@@ -214,7 +210,6 @@ async function main(): Promise<void> {
     }
     mp.notable_record = rec ? { office: rec.office, entries: rec.entries } : null;
 
-    // hoisted scalars (sorting / cards / inferences)
     mp.pending_cases = d ? pendingCases.length : null;
     mp.convicted_cases = d ? convictedCases.length : null;
     mp.charges_framed_count = d
@@ -259,9 +254,6 @@ async function main(): Promise<void> {
     if (mp.notable_record) cov.record++;
   }
 
-  // accountability score (v2): cohort-relative base − integrity/wealth/NOTA deductions + seniority.
-  // Computed here (not 10_canonical) because the pending/convicted tiers and wealth-growth inputs are
-  // folded in above. The formula, weights and caps live in pipeline/lib/score.ts.
   const caps = cohortCaps(mps as unknown as ScoreInput[]);
   for (const mp of mps) {
     const { score, breakdown } = scoreMp(mp as unknown as ScoreInput, caps);

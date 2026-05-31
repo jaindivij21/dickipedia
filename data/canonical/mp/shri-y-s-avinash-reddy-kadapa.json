@@ -1,0 +1,613 @@
+{
+  "accountability_score": 39,
+  "age": 42,
+  "assets_2019": 186969794,
+  "assets_2024": 404301973,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 108693705
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 139616338
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 80210720
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 328521263,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2242700
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 33935359
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2479206
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 65621361 85,305 85 Thou+",
+        "value": 7670125
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 15339075
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3275245
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 10839000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 75780710
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BGvN2ke52epCuRZJRCEM",
+      "total_assets": 70480623,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BGvN2ke52epCuRZJRCEM",
+      "total_assets": 186969794,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5111",
+      "total_assets": 404301973,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 474,
+  "assets_latest": 404301973,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Yeduguri Sandinti Avinash Reddy, popularly known as Y. S. Avinash Reddy, is an Indian politician who is the Member of Parliament in 16th Lok Sabha and 17th Lok Sabha from Kadapa, Andhra Pradesh. He won the Indian general elections of 2014, 2019 and 2024 being a YSR Congress Party candidate.",
+    "title": "Y. S. Avinash Reddy",
+    "url": "https://en.wikipedia.org/wiki/Y._S._Avinash_Reddy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "D.No. 3-9-76 Pulivendula Kadapa Andhra Pradesh, 516390",
+    "emails": [
+      "ysavinash.reddy@mpls.sansad.in",
+      "ys.avinash@gmail.com"
+    ],
+    "phones": [
+      "9989067352",
+      "9494132525"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Rs 8000/- Lease Rent Received From HPCL Every Month",
+      "party": "the candidate"
+    },
+    {
+      "detail": "Spouse Partner in Surya Infra, Pulivendula Proprietor in Avani Enterprises.",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for murder",
+        "section": "302"
+      },
+      {
+        "count": 1,
+        "description": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+        "section": "201"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "SC No. 1/2023",
+        "charges_framed": false,
+        "court": "Principle SPL. Sessions Judge For CBI Cases Nampalli Hyderabad Telangana State",
+        "fir_no": "RC 4(S)/2020 //CBI/SC-III/New Delhi, Crime No. 84/2019, Dated 15.03.2019, Pulivendula Police Station U/G YSR District",
+        "other_acts": null,
+        "sections": [
+          "120B",
+          "302",
+          "201"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial Magistrate of First Class Mydukur",
+        "fir_no": "Crime No 418/2018, Dated 08.08.2018, of Mydukur U/G P.S Y.S.R Dist.",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "27/08/1984",
+  "eci_state": "Andhra Pradesh",
+  "email": "ysavinash[dot]reddy[at]mpls[dot]sansad[dot]in,ys[dot]avinash[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 6674614,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5144442,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4646485,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4828287,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4228324,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4900909,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4194227,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3644691,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3491234,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3448074,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary of MP, Rental Income and Agricultural Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agricultural Income, Lease Rents and Remuneration"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "Sections 302 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "302"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹7.05 Cr (2014) to ₹40.43 Cr (2024).",
+      "headline": "Declared assets grew 474% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 70480623,
+        "from_year": 2014,
+        "pct": 474,
+        "to": 404301973,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹33.38 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.55 Cr.",
+      "headline": "Declared assets rose 13× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 333821350,
+        "declared_income": 25522152,
+        "itr_years": 5,
+        "ratio": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 21% of MPLADS local-area funds were spent — ₹12.41 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 124127612,
+        "utilisation_pct": 21
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 14878913
+      },
+      {
+        "category": "Mitta Karunakar 2,00,00,000 2 Crore+ Harshita Constructions 2,00,00,000 2 Crore+",
+        "value": 96830000
+      },
+      {
+        "category": "Nil",
+        "value": 3935000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 115643913
+  },
+  "margin_votes": 62695,
+  "minister": false,
+  "mp_name": "Shri Y S Avinash Reddy",
+  "mplads_allocated": 156430260,
+  "mplads_expenditure": 32302648,
+  "mplads_unspent": 124127612,
+  "mplads_utilisation_pct": 20.6,
+  "mplads_works_completed": 29,
+  "mplads_works_recommended": 296,
+  "mpsno": 4816,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-26T16:00:00.000Z",
+      "flagged": true,
+      "publisher": "The Times of India",
+      "title": "Tensions escalate in YSRCP-TDP, Avinash Reddy's bribery claims against B. Tech Ravi spark war of words",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdlVLMlBnQ1N1UkNPUHZCNERZczFsXzV6WHUtdDlhQmNLREFzcGlQT1BVb2l2Q2c5V3FCc3FpX3AycWxOS245RHFidGZaSWlKRmZPZzUyMkYxdWIwV0MzMjF4LTNZUHZabkRsbHpPMUxsODAyZUFNeHB3YlluN2ltSzBpY3dHRXlXM05oYTYzakNYS2NtakFYc0VkV3VkQmQ0SUJidHVTT0ZKOWxNMmd1SWVfOWZjeFZ0anpFWU1RNENlMVdyT2lnMElJMkNDWDRSdlI4N2c1UW92dTlzSjJMbFVWdTVEYzVDamJvMF9zWXQxYWpHb1BqT2VQMC1qVUFfY3cyalZYMNIBjAJBVV95cUxNVEsxWFVhbXQ5WUpZY253X2pBMTB1bnQ2bEF1UzNJYjhoU1o4Wm9Qay10NWxCbDBBYTRwbFRSUEdxTEdVZUQ4Tk5vc3FLRVVmTTBMMWN1YmtMVmZvSWRTWUlmcnZVOTBUSVlUTVdFTjNnYkVlMk91SVlhZ2JVVzdtUzR4d0l2dlREaWFDMlczeDJVTEN2bmMtc2lRNFE5T1JJTVhhMlVvR0xtQU95WkhnQWZVcWg3ZXFIY01mNElyYnFiRkQwVlp6M05XOVZLYkJTcXF6YkxITWdUbFM4TUVQcXJUUGhod0stMmxvTjNhMXYyTU5lNzd2UExvWXQ0OXROS1FLYnZJa0NOakdj?oc=5"
+    },
+    {
+      "date": "2026-04-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telangana Today",
+      "title": "Justice K Sujana reserves order on YS Bhaskar Reddy bail plea",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5USTFXVmpDMDJnQVBPQVF5bVJWYVF0Q0xFUnVPX2hsRHNWV3laM0F2bkhwbU9CY3FUQTM0X3BCbjhtT0x4M1N0N3ZTb2g?oc=5"
+    },
+    {
+      "date": "2026-03-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "YS Vivekananda Reddy: Sharmila alleges murder linked to Kadapa MP seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlptcFd0RmpaeXJSd3BmT1U3a1VzWDV1UXcwN1BQblpxTXp6U0VSWEVvc2xDSU4wSFg3blZZcEpyMG1VdFZ4bUxIenhmdDA0aXRvaXBfMnd2RkY5MVd6dFN3WVBtcmgyWDZRUUdRQVZiUUpLdVUwMDI4aHVFaTNSU1pWWlJlMkhNSDJIQUZaNkhUQkJQbHA2VG80UnVxbEh4Q3Z3c0wwbVJEc1FpMXJ4Wk41ZTVfLVppYUZhRUpKc0M4emJMVkJVag?oc=5"
+    },
+    {
+      "date": "2026-02-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "Avinash Reddy Flags Polavaram Funding, State Debt And Bifurcation Promises In Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZU1fUjJ1MUVaTjNhSmxNRVltNmJnMktsQkhHam5BYlQ2ekRtbzQ0YmZPRUZNQnJxVXBCZV9hZUxpcmQ5WWk2YW9kdTk1MFRrUDIxMmtNa1ZVQTQ4S1ZUN3kxTktucE8tMkFFU3dEcG5uLUtXOUNLckRfcW9zVzZRSjFZSVZZVzhqYUQ4VlJoUm5IWjJyWjEzTXpXWkxWb2xSV090bUo0dkFZYlB0d1pONEZDLTJ5bEtjX21NNmNuOFNPMDdFVHJHWmZrNGpSQ0FXdmR0M2VRMjBKajE5RHRoZTQtZE81cVVSOWdkMUp30gHzAUFVX3lxTE5sNGVDUFdfdGJoMXFUeTdjMDNtUzRySmxZcjl2cWY0cTZaOV9OWUMyYVVKTkwwcTlHRDJEbk40d3pjRk5xSlUyTVZaX01RSVNKT0w0al9Jb19WNnJOZ09TSFpxZHRweDhlYzlicDF6OVQwZVVwUklPOE5JMTYteXlnV3gtVDFRcnBvalhKUkxzNl90clhsWUdUeUFBbEk3S0NrYk1wbElweS1iX1VzSjRnWUxQZ2k4VjZETXZZZmdTRnZQb3FieVRVSmREdVAwdmlBRU5BcG1rZ0VXV1FkMzAxZGRmbkZQcDFVSDRkcHBjcE1Tdw?oc=5"
+    },
+    {
+      "date": "2025-10-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kadapa MP YS Avinash Reddy leads YSRCP 1 cr signature drive against medical colleges privatisation",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdEFsU3cyVnJSQ3g4UmV2eURsbGVOWlRpNjgwZnN0bXROOXZ5NFpPSmRWODBWUzViLTBDRVIwX1pXbkV4NGNOenA5UU9XUXdIa1RNR2hjM1h4NTB2NDdiSFI2MjJiWU9BWGNqTEZjcTJqU2JvM3BXVGM0dHg0bjF5Yy1GNm1aUUtTSEp5MHJSZ29vSkhjMS1RanFxQ0dvYmFFb1J0ejlTSEhYTl9mQmFJdU5ZQzZ3ZXFmc2FsdDdvQVVoajFJMy0zZVhRVGJ6VnF4SXg1WDNZcUJMeks5MVdodkV6RHhuWWlNQi01RmdtYU9ZRFQwZzRXSFIwWXdsX25kbTRyTkFOQdIBjAJBVV95cUxOQ3h3WnAtMXNWS0FpQ2lHWkhWOFAyeTl1VEJmSmplMHl3WlRkTklyM2NlZ2NwNEFPTVlremkzTE5sUnVoaTNHMk1TTjJiTVNBdzBqbGFRTUoybEZOcUJTc19TN2ZGby1aVm9INGwwUWxPMjAtekNZYlhqOGFLdzN4N0FMTkhSckZOU1g3bkZSci1MOXFlanp6QWxMbGlNczVibHo2RDFFZFNpMmJiUFliSGFzX3gxR05XRzlfeTNtMVljMDBjS2FSQkpBUkh4RUZWZUU2NUpMRWJOb1htcVRPaTJ3aVRkbFZSS0hSdnZqZWZqcDRpYUJoSXRCaEJ3UVNOdXI0SjVITWQwZVNK?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 16846,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "YSRCP",
+  "party_bond_total": null,
+  "party_full": "Yuvajana Sramika Rythu Congress Party",
+  "pc_id": "andhra-pradesh-21",
+  "pc_name": "Kadapa",
+  "pending_cases": 2,
+  "phone": "Tels : (011) 23792560 09989067352",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180026.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 55
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to reinstate the import duty and levy social welfare cess on Bengalgram (Chana) imported in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to provide stoppage to all enrouted express trains at Muddanuru Railway Station in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Retain Andhra Pragathi Grameena Bank Headquarters in Kadapa to Protect Rural Interests",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to expedite establishment of Integrated Steel Plant in YSR Kadapa district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding establishment of an integrated steel plant in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 133
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/y-s-avinash-reddy"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 48,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 5,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Cooperation": 2,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 3,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 5,
+    "Labour And Employment": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Railways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Steel": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "CHADIPIRALLA BHUPESH SUBBARAMI REDDY",
+  "runner_up_party": "TDP",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 7,
+    "legislative": 55,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 3
+  },
+  "serious_cases": 1,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 404301973,
+  "total_liabilities": 115643913,
+  "wealth_pct_increase": 116,
+  "winner_vote_share": 45.78
+}

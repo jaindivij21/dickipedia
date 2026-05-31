@@ -1,0 +1,605 @@
+{
+  "accountability_score": 0,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 21920000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 16800000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 38720000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10514044
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5381459
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 15404
+      },
+      {
+        "category": "Lic-511964218 2,00,000 2 Lacs+",
+        "value": 700000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 39508653
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7130000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 500000
+      }
+    ],
+    "movable_total": 63899562
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qGrF4gxKMvzWYGj4iiks",
+      "total_assets": 47634901,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=qGrF4gxKMvzWYGj4iiks",
+      "total_assets": 75613265,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9528",
+      "total_assets": 102619562,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 115,
+  "assets_latest": 102619562,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Misa Bharti is an Indian politician from the state of Bihar and the daughter of Lalu Prasad and Rabri Devi. In June 2016, she was the party's nominee for the Rajya Sabha biennial elections and was elected unopposed along with Ram Jethmalani from Bihar. She is currently serving as the Member of Parliament from Patliputra.",
+    "title": "Misa Bharti",
+    "url": "https://en.wikipedia.org/wiki/Misa_Bharti"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Lalu Gaushala, S K Puram Arya Samaj Mandir Road, Bailey Road Patna Bihar, 801503",
+    "emails": [
+      "misha.bharti@mpls.sansad.in"
+    ],
+    "phones": [
+      "9013185555",
+      "9871270000"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Trade marks",
+        "section": "478"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CT No-1/2024",
+        "charges_framed": false,
+        "court": "27-Special Judge (PC Act) (CBI), RADC, New Delhi",
+        "fir_no": "ECIR/31/DLZO-1/2022 ED, Pravartan Bhawan, APJ Abdul Kalam Road, Delhi",
+        "other_acts": "Sec. 3 of PMLA, 2002",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No-59/2022",
+        "charges_framed": false,
+        "court": "27-Special Judge (PC Act) (CBI), RADC, New Delhi",
+        "fir_no": "RC2202022E0007, EO-II, CBI CGO Complex, New Delhi",
+        "other_acts": "Sec. 11,12 and 13(2) 13(1)(d) of PC Act, 1988",
+        "sections": [
+          "120B"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "11289/2021",
+        "charges_framed": false,
+        "court": "35-CJM Patna",
+        "fir_no": "365/2021, Kotwali, Patna",
+        "other_acts": "Sec. 27, Arms Act.",
+        "sections": [
+          "420",
+          "467",
+          "478",
+          "471",
+          "406",
+          "506",
+          "499",
+          "500",
+          "120B"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "2548/2019",
+        "charges_framed": false,
+        "court": "8-JM-I, Danapur",
+        "fir_no": "216/19, Maner PS, Patna",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171H"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "SC/9/2019",
+        "charges_framed": false,
+        "court": "10-Special Judge (PC Act) (CBI), RADC, New Delhi",
+        "fir_no": "ECIR No-01/DLZO-II/2017, ED, Pravartan Bhawan, APJ Abdul Kalam Road, Delhi",
+        "other_acts": "Sec. 3 of PMLA, 2002",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1174/2014",
+        "charges_framed": false,
+        "court": "9-JM-I, Danapur",
+        "fir_no": "177/2014, Naubatpur PS, Patna",
+        "other_acts": "Sec.112 of MV Act.",
+        "sections": [
+          "188"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "22/05/1976",
+  "eci_state": "Bihar",
+  "email": "misha[dot]bharti[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1485030,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1303990,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 902370,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1204880,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1293381,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4882430,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4736090,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4973820,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2440280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1857300,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary and Allowances, Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Interest and Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 6,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹5.50 Cr between affidavits, while declared income across 5 ITR years totalled ₹61.9 L.",
+      "headline": "Declared assets rose 9× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 54984661,
+        "declared_income": 6189651,
+        "itr_years": 5,
+        "ratio": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 115%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 115,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "From ₹4.76 Cr (2014) to ₹10.26 Cr (2024).",
+      "headline": "Declared assets grew 115% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 47634901,
+        "from_year": 2014,
+        "pct": 115,
+        "to": 102619562,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 11462479
+      }
+    ],
+    "total": 11462479
+  },
+  "margin_votes": 85174,
+  "minister": false,
+  "mp_name": "Smt. Misha Bharti",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 0,
+  "mpsno": 5824,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Pataliputra election results 2024 live updates: RJD's Misha Bharti wins",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUXI3MjJ2czZwTDNJNHlrYWVRM1hINUI2VnJiNlQ2TFFZRFh4d2dNc3NyekloRGFJaVFFQ1hLME1kWkV1VUx1VnYwSmZKbjhnZl9jekx4U3F1WWU5YXA5N3JpbHd2MEJzbEhDOFpQRlhqdlNYbDl3RVhteXdQVVRPWk53TTRZRWs4TV9ocmpsYUloc2UwdkxPXzc4dER5Z29JeGJRLThyOW5aX0N3aENWX1ZrQjg4RVZsemJuQlEtZU1WWVZUdWYzeDEydk5iRE5DWGktUUpvZENnaDJIN3NrX0s0c01zN1BweDRCSG5mdU9qS1UxNU1TOU80TTVkS2VGYlpZTVVWbEV3NFhPVUdOU01FQ3o1am1pemswbGNWNy1BLVXSAagCQVVfeXFMTXNoNURUSDhCUUx2NUpFTm5aMVJJaUtncVRqa1FhWWZrODBGcVRjbFQ3VHdiaDJEcTZGRVlTczZ6bW5SVE1yUWItbkt1Ti10Y1d6TkRDR252aFJxY29jWHlQUXBwOFJLVTBEVWZyRF9iTlhLTU9XWVVWek1lRmY3UXdjcEVwNU9Zc2U2RHBTNUN5cGd1QnJOOHdvYzAxTV8zRHNqR2d4aGVoRlowbXlnV29SMjhoWmFyVTJOZGZfSFFJWHdKNE1KTUNXTlR1Nktnd05BSVRIM3FSdWd6SDl4TFpaZEd5QnZJTU91bGRJTFJwaG1mY0VCQUZERm5oZzZWSFB2RzJLUG1Ld2V4Z2Y4QnlfcUlZWXcxOTRTZ3pySnFNUzVnNEx5d3k?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Patliputra Lok Sabha Elections 2024 Result LIVE: Will RJD win in the battle of Ramkripal Yadav vs Misa Bharti or will the lotus blossom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTTY5LUUxVWNZa2tVZnByTnktcmxiRzhUTXlrT3RjSVNEYVl1dlpVeE9Zd0ZRejNFNU5yUktWSHh4aE9DLUNkQkMxYjVGMFJrOFozdUViMEtQUmM5SWZtOFhCNUgwd05FaDNjSVJXbFNIREFDUFdRbjhFV25iaGg4N2E3ZHRUVUNGd3NCa1J1V0kyM2FIcFFtY3FLTHFzZDdqR2JobXpmbTRPSWFLOG5kRWotblkyUXRRUmdweVhUVDBfb3h3RTE3SDBhZ0k?oc=5"
+    },
+    {
+      "date": "2024-06-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Patliputra Lok Sabha Election Results 2024: Ram Kripal Yadav vs Misa Bharti, check who’s winning?",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVnVWQ2g3NDY2OFFENzRRQXFBaGlhZHJEbEN1M2N5Tk1rMHdjNWhHMUlrUF9pTlBkMlM2bWY4Ymx5VzdCajJySVRpc0U3aG9pWnJKcmdZZ05objYxN0VhbExaQ1Bxa3V1NmE4V3kwWEJVMl80Njl4WDVjQVd1b19xcXlEMGJILUtDYXZaOWh1R1RzZTBMcVdnckZyWGJ3TFg2QV9jT09oUjBQcmEtNTJsT3VYMlBlaTd6VThiQm1xLUdXSUozdEdjMG9hb25RdG9ldThNejh1aFlOT0prLVlIN1VERVlfYUNWRkNOSkZ0Z0w5M1dQa2ppMUoyRGFGUWtWNi1pc3ZpT3FoUdIBjwJBVV95cUxNWWNMbHctNF9SeFF0MjVtM1RjLV8wQjhhbVBBczJnczRzUndKM0JEZVdQck1RUmtCTVlnYzZ1a0g2UUcwdE9yOGdHdUNFcFRKbFpjdDJEQlVyVlNKVVd4Y1JfcjlVblFsQksxSEc1SG15MExUTGw4OWgxUGJ4TlduZ0F6YUdSeE41RjRrUU9qZEpESzAwNm9wRE14Tmc0bEpraGFkS0l4WndheDlfd09PZlZwVHFMMjVzcFlKNFdFQTIwbDg0NlRBakJaSF9BQ0k1Q0RtWDNDbVV6UlJmYUM1U3NEbHU3VTMzcW15RjRrdXZ3aHQyZVhmQlp3cjdCamtNWkphQkprT2tRZ1g1WXdJ?oc=5"
+    },
+    {
+      "date": "2024-05-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "Who Is Misa Bharti? The Political Journey Of Lalu Prasad Yadav's Daughter",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2pEY3dMR2R5WGZLc21Cc0FCUHJzc0lINVZaTFU1U05fcFJ3NndTWEExMVRhX1FZZjdNbWtzcmxrUXNVa1huM0NidTlUZnZHZU1ZbWdyNDNVaXFIM29tTkxkY0xqUllpTnc4bzJBcnl2R1pkUy1nenNZSE5qVVA1N2RNRFU4V2s4bFRvM1RoM2NsbFBvMFZRa2t3Z3MxaUtZUkQxR3dQTEl5Ym4wb1N6RWtFRHU0c2JYRkJOSXV3d2w3RWpCY2pj0gHMAUFVX3lxTE83OWs5SVR6NkhrQ0pVMHNtTmRwLVdHWGc1V2lZcF8zd2RuYXlzN0RVNG1IZWlydVotemRrbXItMU9reUdqckxOdEFQZTBGZndpWE1MeC1BUm91OEx4ZnpUdGNpY3BtcWg4WHVVczFiMU5pa1lZbG1CTkxGakU2RnQ1bUZDeWV5Q1FteEl3YzVjYjlCUDA5Z2MyaW1HNWFZN1RmejUxR1plSDdiRGNVNGp0UUZzUEItUlJ3TC1CRWdXY2VaQ2NPQTJ1eHpmZg?oc=5"
+    },
+    {
+      "date": "2024-01-30T08:00:00.000Z",
+      "flagged": true,
+      "publisher": "Mint",
+      "title": "Land-for-jobs scam: PMLA court summons former Bihar CM Rabri Devi, daughter Misa Bharti",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYVVBOS01eEdRczhoSWt0cmNmVkctb1J6bVp3UFE4eUlZcXNSOW01YXl0azlFSG55VDVsM2VuZDJzNVpFWTUxbExSUGdxdkhYUWY5R1NzZFBHYU9UNC1idzVCd1dHRWNpUy02LTZQM3JuNE5kZFBJR3QyTWhEUVBYOTNxVGg5YktjTE1TUWxLanFYMk55TUlIYUppX3N2WkwtcktlRlhQOGM0MHVyY1N6Slgyd0h5SHFSNG52TkN4X0tKTVYxUmNyXzV0RnBiU2o2R29LbUNyOTRNUGRrNEhuUEp0cTJYbDlIQWRQMFE0RnRVLWUxNGtDZNIB_gFBVV95cUxQZ2NYajB1Ylg1a1dVVVd4MGx6QzBkcXR6WEk5ZDg5YXNjVmhXZ3NtTXJYX0c0b2JpUVdVQWc1OXFyRzhHbGd5UHZaekY3ZFpRNVpPMm9kdXMtZWpyempZMm84QU5ZVzY0clpHdDJUM3I3NV81T29XVVJkazNRcnhEOTBfTGxKbmx0bzJYaEMzYjFSQXJxbW02aWNGVmYzTDhZdUJ2UDNpRlE0cHRuNWoyUVgtNEFaUHRZZkVMQUVaeGZ6b05VekFjUzMxa2tiVkQxS1o2R09USjRpS1I1WWQ3dUZKSU11RDJYNE5RdXhCRzMzSnVnYXpxc0VURlNyQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 4,
+  "nota_gt_margin": false,
+  "nota_votes": 5606,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "RASHTRIYA JANATA DAL",
+  "party_bond_total": 10000000,
+  "party_full": "Rashtriya Janata Dal",
+  "pc_id": "bihar-31",
+  "pc_name": "Patliputra",
+  "pending_cases": 6,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180060.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician - Parliamentarian",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 40
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/misha-bharti"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "RAM KRIPAL YADAV",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 9,
+    "criminal_deduction": 16,
+    "legislative": 15,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 102619562,
+  "total_liabilities": 11462479,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.86
+}

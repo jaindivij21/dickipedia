@@ -1,0 +1,422 @@
+{
+  "accountability_score": 33,
+  "age": 75,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 11000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 22700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 12206596
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7182000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 20543598
+  },
+  "assets_earliest_year": 2013,
+  "assets_history": [
+    {
+      "label": "Karnataka 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5XFBxDxuNHU6tvUWtRP",
+      "total_assets": 17322933,
+      "year": 2013
+    },
+    {
+      "label": "Karnataka 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5XFBxDxuNHU6tvUWtRP",
+      "total_assets": 20835222,
+      "year": 2018
+    },
+    {
+      "label": "Karnataka 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5XFBxDxuNHU6tvUWtRP",
+      "total_assets": 44099697,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1886",
+      "total_assets": 43243598,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 150,
+  "assets_latest": 43243598,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Govind Muktappa Karjol is an Indian politician who is the former Minister of Major and Medium Irrigation, water Resources of Karnataka from 4 August 2021 till 15 May 2023.",
+    "title": "Govind Karjol",
+    "url": "https://en.wikipedia.org/wiki/Govind_Karjol"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "KHB Colony, Mantoor Road, Mudhol, Bagalkot, Vijaypur, Karnataka, 587313",
+    "emails": [
+      "gmkarjol@gmail.com",
+      "gm.karjol@mpls.sansad.in"
+    ],
+    "phones": [
+      "9448102896",
+      "9663679337"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "25/01/1951",
+  "eci_state": "Karnataka",
+  "email": "gmkarjol[at]gmail[dot]com,gm[dot]karjol[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 4447340,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4165230,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1783880,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3259140,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1806900,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Cultivator"
+      },
+      {
+        "person": "Spouse",
+        "source": "Housewife"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 23% of MPLADS local-area funds were spent — ₹11.28 Cr unspent.",
+      "headline": "77% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 112773134,
+        "utilisation_pct": 23
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹1.73 Cr (2013) to ₹4.32 Cr (2024).",
+      "headline": "Declared assets grew 150% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 17322933,
+        "from_year": 2013,
+        "pct": 150,
+        "to": 43243598,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 48121,
+  "minister": false,
+  "mp_name": "Shri Govind Makthappa Karjol",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 34226866,
+  "mplads_unspent": 112773134,
+  "mplads_utilisation_pct": 23.3,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 186,
+  "mpsno": 5559,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-17T16:11:05.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Govind Makthappa Karjol , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2dmLUh6T3FuWld6MVBNQXFCYVplVGtfaEdRZ2prX1QwV2E4VG4tYW13SER2VG0zaFpTNWpvV096bWVQTEtIMlB3R2VRMUM5eUR2UjBoT0xlbE5qMjdqa1lZVmdqbElVQWx1S0pvQjBqMzUtZFJiR1hFUTMtdmdDamJ2VXlTZHZ1WnNYVFRQSEFZZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chitradurga (SC) election results 2024 live updates: BJP's Govind Makthappa Karjol wins",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOUlFFWDQ3d2RGSmd6dHBsSkYtN2VLV0RVWXItNHpuNjlaajJlRUwxNDZqV3RfS1ZmUl9vMEt3STg3bjNXNmZHWGtPOUdmTldwb1JmMFBzWEVRclZwWDQ3NWNzMGZ4am5jZUktSkU4NEI3d0Ryd19RbUZSNnRadnBBdTZNYzg5SHJGaTFwUm1XQV9DS29kTVJsOXgxUnJ0Nk1OOVdJZElDc0hHWUlyX1hJT1FLM3o0UVJrT0ptOG0zR0tCQzB0OEFuNU5wc0JEVDgxQ1pvbHBicGExQ28yMFEyUWpGRkNtaGhEYkZqVi1BMGVHSU9HbUE3UzlYWF94RUg4a0VPeEM3RFJnWmJhWGd6U1Q2Qkd6MGRNU3IxcmZ3VTJiTDY5ZFIwMDgxQ2FIZGNHSUZVTnlrOWZqbmx0eEHSAcMCQVVfeXFMTWJjbWhENnpIT0JEUGVsUDNzZVM1ZDM3WDlVSjQxU0hSOTdjRUp1MkFrVlNhQU5hbFVfWUlQajlfbDFaLTZGcFlRTnIxRnU3ZlVlR2VKd3JaalNqc2JQdVA3NUlEbmEyVEg3VjNzY2FCTkQzWmFNZVozZGJmd3hwZlJLanJuN0pYZ1RVUXZuVEJVLXhWUWhWN1dRY1dncko2Mkwxc1NuSlFHbFYyS24wcW1DUVJ1MlhlLXNxbV9oWEdESmh0ZGtNVGtWYXBsTnJ2bW9qY2dlM3FySGNSNWdKdlR4c256YmZNVjZlZEliOVNTVWdNV0t4TmxXMEE4SXV1UWw0U18zSUkyQk54a3BveFppVUF2MlVfQXFuLVpYUmFqQ3VPRGw0Nm1XZ0tFdUhVcUs2TjRneFlXVXRkRUFMLW1QWWM?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Chitradurga Election Result 2024 LIVE Updates Highlights: Govind Makthappa Karjol of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnBNc1VOWHVqUVdlVWREcGlrWWQ2UWtVU2NNd2tpYWliVkVRUHFYbTlYOF9WX1NNQ0dzU19EVHBfV1VjTzdIbjlCVlA4MHMyb1RtSzNiWF8tLVJTY3hvWjdwV2dwSHRWLVlJVDdUY1Q5MDYtcXRWcUJkRDA2V3BETEFJd1lKSF93QnlmWHN1Uy1FWjJLT3ZkZlJRLS1VR3hiWlRTQ0xsVVg1TmdhcjBkcEZ4ZUVWRG1nc0FfVWhYeVlHOTJFdmtwcy12T09MT3dUNkJDeVQ5ZXJlUkNBd3V5b1RTeXJBc3fSAewBQVVfeXFMT1Y2LVRXTldUSGVTMUxpWHBzYWk4N0FQeFpueEhIdWRLTGxsTWlDemRpbE00V1NZUkkta0dhNHNoQ3ZHQkZENlBBMUxPdkVBcEVNVWtsUmF4djZNZXNfMVBSNVFvZHRTUlhfY1JLUTRaQWRSM291TllDanN3Y3pUMGNqWUFYcS1KWFFJY3VwME5jTXFtUkdSMlFGdlFuNjVGd3Y5TkdEYzhxa1FET3lwLU1JNkkyZlV2WkFWX3phbHhsTkRHbmlLRF9Vem9UUmJXT2dDOFk0SmQzam9ISExxOUpLUFRWSHpOTEdNQks?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "lokmattimes.com",
+      "title": "Karnataka Lok Sabha Results 2024: Former Dy CM Govind Karjol Wins Chitradurga, Secures BJP's First Seat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVZSc21BdGx5YlNPbDR4OXdPRlY1d2hoRTJiNHZWOWh3UDNxNXkyeDZ5ak5DdC1aeWJSUTBoZ2NDSzlEcTg2QVhZT1BpQ2VYUWlaaG4zSW15aHhhQXBlUGkxMHRwSVF0NWdiaUtzb25WaWtwNTlCSTdKOF9ONTF2cXVDVnU4SXFoTldTQ0oxQXZIVXVQVzNfMW9ycUhrNzZaeDJiczRJTGZUTUJaMG1KUkNFcw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "illustrated Daily News",
+      "title": "2024 Polls: Former Dy CM Govind Karjol gives BJP its first seat in Karnataka",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGJmb1p2Nmc0NVp5RzkzN3hvam1FTUp1dko1YzBFR0V2d0N5WTBsNWpkWlNRR08yS1pNSzNJbVR4azE4X0ZpdVBPQmNGVzJzSUN4dkpnZU5fWVJRbVFYUzBQZGoyaUhqVjdKSTlRTlVWdlMtdWRReTlfbWU5UnJ3SUN4ZV9sV0h0OWstajkzWE9fQUI5TVU1ZDFkTVJkNUoyX3JtTGViNG4xaHUtNEtlUkVvOHQxUGtUdjNRQ2EzZUN4SknSAcgBQVVfeXFMTzU0UXoxdnFlR3oydTEyMWdBc2RpTTdhY2RIdFFmSFRIZGJTUDhqdmJoSEtxTk5Qbk5rNUVaZW5YTlM4LXh2Yjh0LVZnekNLNkVDYW1YeEZsSzBUM25vSEJJd3J4Ylk4bGxHRWVxYkZuQjh1S1phZ0NaNy1nUVlFNkZjLVl2ckZqNlM3MGYyZ1hVRnQtNWpaZVl0QkJpU2NheG1yY1hvZXBPbGx1V09ZemFLZFhCSWFHcFJiUGF1YlkzY05NQzdabTI?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3190,
+  "notable_record": null,
+  "num_candidates": 20,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-18",
+  "pc_name": "Chitradurga",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180171.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 71
+    },
+    "debate_titles": [
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Urge to govt to take immediate and decisive action to address the ongoing negligence in the healthcare system, particularly in Karnataka, where the tragic deaths of 28 new mothers have occurred due to unsafe medical practices",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 74
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/govind-makthappa-karjol"
+  },
+  "qualification": "Diploma Course",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Finance": 2,
+    "Health And Family Welfare": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Social Justice And Empowerment": 1,
+    "Tribal Affairs": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "B.N.CHANDRAPPA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 33,
+    "criminal_deduction": 0,
+    "legislative": 36,
+    "mplads": 28,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 43243598,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.11
+}

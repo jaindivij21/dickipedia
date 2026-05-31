@@ -1,0 +1,580 @@
+{
+  "_provenance": {
+    "source": "ECI/SBI electoral-bond disclosure (SC: ADR v Union of India, 15 Feb 2024)",
+    "license": "Public-domain facts",
+    "urls": [
+      "https://raw.githubusercontent.com/apoorv74/electoral-bonds-sbi/main/data/encashment.csv",
+      "https://raw.githubusercontent.com/saisantoshv3/electoral_bonds/main/data/final.csv"
+    ]
+  },
+  "parties": [
+    {
+      "party": "BHARTIYA JANTA PARTY",
+      "party_full": "BHARTIYA JANTA PARTY",
+      "bond_total": 60605111000,
+      "bond_count": 8633,
+      "top_donors": [],
+      "rank": 1
+    },
+    {
+      "party": "AITC",
+      "party_full": "ALL INDIA TRINAMOOL CONGRESS",
+      "bond_total": 16095314000,
+      "bond_count": 3305,
+      "top_donors": [
+        {
+          "name": "FUTURE GAMING AND HOTEL SERVICES PR",
+          "amount": 4350000000
+        },
+        {
+          "name": "HALDIA ENERGY LIMITED",
+          "amount": 2810000000
+        },
+        {
+          "name": "DHARIWAL INFRASTRUCTURE LIMITED",
+          "amount": 900000000
+        },
+        {
+          "name": "FUTURE GAMING AND HOTEL SERVICES PVT LTD",
+          "amount": 620000000
+        },
+        {
+          "name": "FUTURE GAMING AND HOTEL SERVICES PRIVATE LIMITED",
+          "amount": 450000000
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "party": "PRESIDENT, ALL INDIA CONGRESS COMMITTEE",
+      "party_full": "PRESIDENT, ALL INDIA CONGRESS COMMITTEE",
+      "bond_total": 14218655000,
+      "bond_count": 3146,
+      "top_donors": [
+        {
+          "name": "WESTERN UP POWER TRANSMISSION COMPANY LI MITED",
+          "amount": 1100000000
+        },
+        {
+          "name": "VEDANTA LIMITED",
+          "amount": 1040000000
+        },
+        {
+          "name": "MKJ ENTERPRISES LIMITED",
+          "amount": 693500000
+        },
+        {
+          "name": "YASHODA SUPER SPECIALITY HOSPITAL",
+          "amount": 640000000
+        },
+        {
+          "name": "AVEES TRADING FINANCE PVT LTD",
+          "amount": 530000000
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "party": "BHARAT RASHTRA SAMITHI",
+      "party_full": "BHARAT RASHTRA SAMITHI",
+      "bond_total": 12147099000,
+      "bond_count": 1806,
+      "top_donors": [
+        {
+          "name": "MEGHA ENGINEERING AND INFRASTRUCTURES LI MITED",
+          "amount": 1500000000
+        },
+        {
+          "name": "YASHODA SUPER SPECIALITY HOSPITAL",
+          "amount": 940000000
+        },
+        {
+          "name": "CHENNAI GREEN WOODS PRIVATE LIMITED",
+          "amount": 500000000
+        },
+        {
+          "name": "MEGHA ENGINEERING & INFRASTRUCTURES LIMITED",
+          "amount": 450000000
+        },
+        {
+          "name": "DR.REDDY'S LABORATORIES LTD",
+          "amount": 320000000
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "party": "BIJU JANATA DAL",
+      "party_full": "BIJU JANATA DAL",
+      "bond_total": 7755000000,
+      "bond_count": 861,
+      "top_donors": [
+        {
+          "name": "ESSEL MINING AND INDS LTD",
+          "amount": 1745000000
+        },
+        {
+          "name": "JINDAL STEEL AND POWER LIMITED",
+          "amount": 1000000000
+        },
+        {
+          "name": "UTKAL ALUMINA INTERNATIONAL LIMITED",
+          "amount": 600000000
+        },
+        {
+          "name": "RUNGTA SONS P LTD",
+          "amount": 500000000
+        },
+        {
+          "name": "MS S N MOHANTY",
+          "amount": 450000000
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "party": "DMK PARTY IN PARLIAMENT",
+      "party_full": "DMK PARTY IN PARLIAMENT",
+      "bond_total": 6390000000,
+      "bond_count": 648,
+      "top_donors": [],
+      "rank": 6
+    },
+    {
+      "party": "YSR CONGRESS PARTY (YUVAJANA SRAMIKA R",
+      "party_full": "YSR CONGRESS PARTY (YUVAJANA SRAMIKA R",
+      "bond_total": 3370000000,
+      "bond_count": 472,
+      "top_donors": [],
+      "rank": 7
+    },
+    {
+      "party": "TDP",
+      "party_full": "TELUGU DESAM PARTY",
+      "bond_total": 2188800000,
+      "bond_count": 279,
+      "top_donors": [
+        {
+          "name": "SHIRDI SAI ELECTRICALS LTD",
+          "amount": 400000000
+        },
+        {
+          "name": "MEGHA ENGINEERING AND INFRASTRUCTURES LI MITED",
+          "amount": 280000000
+        },
+        {
+          "name": "WESTERN UP POWER TRANSMISSION COMPANY LI MITED",
+          "amount": 200000000
+        },
+        {
+          "name": "NATCO PHARMA LTD",
+          "amount": 140000000
+        },
+        {
+          "name": "DR.REDDY'S LABORATORIES LTD",
+          "amount": 100000000
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "party": "SHIVSENA (POLITICAL PARTY)",
+      "party_full": "SHIVSENA (POLITICAL PARTY)",
+      "bond_total": 1583814000,
+      "bond_count": 354,
+      "top_donors": [],
+      "rank": 9
+    },
+    {
+      "party": "RASTRIYA JANTA DAL",
+      "party_full": "RASTRIYA JANTA DAL",
+      "bond_total": 725000000,
+      "bond_count": 149,
+      "top_donors": [],
+      "rank": 10
+    },
+    {
+      "party": "AAP",
+      "party_full": "AAM AADMI PARTY",
+      "bond_total": 654500000,
+      "bond_count": 245,
+      "top_donors": [
+        {
+          "name": "AVEES TRADING FINANCE PVT LTD",
+          "amount": 100000000
+        },
+        {
+          "name": "BAJAJ AUTO LTD",
+          "amount": 80000000
+        },
+        {
+          "name": "TRANSWAYS EXIM PRIVATE LIMITED",
+          "amount": 70000000
+        },
+        {
+          "name": "MKJ ENTERPRISES LIMITED",
+          "amount": 70000000
+        },
+        {
+          "name": "ASIAN TRADING CORPORATION LIMITED",
+          "amount": 50000000
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "party": "JANATA DAL ( SECULAR )",
+      "party_full": "JANATA DAL ( SECULAR )",
+      "bond_total": 435000000,
+      "bond_count": 75,
+      "top_donors": [
+        {
+          "name": "RITHWIK PROJECTS PRIVATE LIMITED",
+          "amount": 100000000
+        },
+        {
+          "name": "NARA CONSTRUCTIONS",
+          "amount": 100000000
+        },
+        {
+          "name": "MEGHA ENGINEERING AND INFRASTRUCTURES LI MITED",
+          "amount": 50000000
+        },
+        {
+          "name": "KCR ENTERPRISE LLP",
+          "amount": 50000000
+        },
+        {
+          "name": "ILABS HYD TECHNOLOGY CENTRE PVT LTD",
+          "amount": 50000000
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "party": "SIKKIM KRANTIKARI MORCHA",
+      "party_full": "SIKKIM KRANTIKARI MORCHA",
+      "bond_total": 365000000,
+      "bond_count": 50,
+      "top_donors": [
+        {
+          "name": "FUTURE GAMING AND HOTEL SERVICES PR",
+          "amount": 80000000
+        },
+        {
+          "name": "ZYDUS HEALTHCARE LIMITED",
+          "amount": 80000000
+        },
+        {
+          "name": "TORRENT PHARMACEUTICALS LTD",
+          "amount": 70000000
+        },
+        {
+          "name": "MICRO LABS LIMITED",
+          "amount": 70000000
+        },
+        {
+          "name": "IPCA LABORATORIES LIMITED",
+          "amount": 35000000
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "party": "NATIONALIST CONGRESS PARTY PARLIAMENT OF",
+      "party_full": "NATIONALIST CONGRESS PARTY PARLIAMENT OF",
+      "bond_total": 305000000,
+      "bond_count": 116,
+      "top_donors": [],
+      "rank": 14
+    },
+    {
+      "party": "JANASENA PARTY",
+      "party_full": "JANASENA PARTY",
+      "bond_total": 210000000,
+      "bond_count": 39,
+      "top_donors": [
+        {
+          "name": "WESTERN UP POWER TRANSMISSION COMPANY LI MITED",
+          "amount": 100000000
+        },
+        {
+          "name": "NATCO PHARMA LTD",
+          "amount": 50000000
+        },
+        {
+          "name": "MEGHA ENGINEERING AND INFRASTRUCTURES LI MITED",
+          "amount": 40000000
+        },
+        {
+          "name": "SRI CHAITANYA STUDENTS FACILITY MANAGEME",
+          "amount": 10000000
+        },
+        {
+          "name": "VALLURUPALLI PRABHU KISHORE",
+          "amount": 10000000
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "party": "ADYAKSHA SAMAJVADI PARTY",
+      "party_full": "ADYAKSHA SAMAJVADI PARTY",
+      "bond_total": 140500000,
+      "bond_count": 46,
+      "top_donors": [
+        {
+          "name": "KEVENTER FOODPARK INFRA LIMITED",
+          "amount": 100000000
+        },
+        {
+          "name": "TORRENT PHARMACEUTICALS LTD",
+          "amount": 30000000
+        },
+        {
+          "name": "M S JUGENDRA SINGH AND COMPANY",
+          "amount": 2100000
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "party": "BIHAR PRADESH JANTA DAL(UNITED)",
+      "party_full": "BIHAR PRADESH JANTA DAL(UNITED)",
+      "bond_total": 140000000,
+      "bond_count": 14,
+      "top_donors": [
+        {
+          "name": "MEGHA ENGINEERING AND INFRASTRUCTURES LTD",
+          "amount": 100000000
+        },
+        {
+          "name": "BHARTI INFRATEL LIMITED",
+          "amount": 10000000
+        },
+        {
+          "name": "SHREE CEMENT LTD",
+          "amount": 10000000
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "party": "JHARKHAND MUKTI MORCHA",
+      "party_full": "JHARKHAND MUKTI MORCHA",
+      "bond_total": 135000000,
+      "bond_count": 45,
+      "top_donors": [
+        {
+          "name": "VEDANTA LIMITED",
+          "amount": 50000000
+        },
+        {
+          "name": "THRIVENI SAINIK MINING PRIVATE LIMI",
+          "amount": 30000000
+        },
+        {
+          "name": "PUJA COAL PRIVATE LIMITED",
+          "amount": 20000000
+        },
+        {
+          "name": "MKJ ENTERPRISES LIMITED",
+          "amount": 10000000
+        },
+        {
+          "name": "SHREE CHAND SARAOGI",
+          "amount": 7500000
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "party": "SHIROMANI AKALI DAL",
+      "party_full": "SHIROMANI AKALI DAL",
+      "bond_total": 72600000,
+      "bond_count": 33,
+      "top_donors": [
+        {
+          "name": "FASTWAY TRANSMISSIONS PVT LTD",
+          "amount": 50000000
+        },
+        {
+          "name": "BHARTI INFRATEL LIMITED",
+          "amount": 10000000
+        },
+        {
+          "name": "VARDHMAN TEXTILES LTD",
+          "amount": 7500000
+        },
+        {
+          "name": "KEVENTER FOODPARK INFRA LIMITED",
+          "amount": 5000000
+        },
+        {
+          "name": "SANDEEP KHANNA AND ASSOCIATES",
+          "amount": 40000
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+      "party_full": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+      "bond_total": 60500000,
+      "bond_count": 38,
+      "top_donors": [],
+      "rank": 20
+    },
+    {
+      "party": "SIKKIM DEMOCRATIC FRONT",
+      "party_full": "SIKKIM DEMOCRATIC FRONT",
+      "bond_total": 55000000,
+      "bond_count": 10,
+      "top_donors": [
+        {
+          "name": "FUTURE GAMING AND HOTEL SERVICES PR",
+          "amount": 50000000
+        },
+        {
+          "name": "TORRENT PHARMACEUTICALS LTD",
+          "amount": 5000000
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "party": "SHIVSENA",
+      "party_full": "SHIVSENA",
+      "bond_total": 10000000,
+      "bond_count": 1,
+      "top_donors": [
+        {
+          "name": "B G SHIRKE CONSTRUCTION TECHNOLOGY PVT L TD",
+          "amount": 850000000
+        },
+        {
+          "name": "QWIKSUPPLYCHAINPRIVATELIMITED",
+          "amount": 250000000
+        },
+        {
+          "name": "PRL DEVELOPERS PRIVATE LIMITED",
+          "amount": 50000000
+        },
+        {
+          "name": "TORRENT POWER LIMITED",
+          "amount": 30000000
+        },
+        {
+          "name": "ULTRA TECH CEMENT LIMITED",
+          "amount": 30000000
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "party": "RASHTRIYA JANTA DAL",
+      "party_full": "RASHTRIYA JANTA DAL",
+      "bond_total": 10000000,
+      "bond_count": 1,
+      "top_donors": [
+        {
+          "name": "IFB AGRO INDUSTRIES LIMITED",
+          "amount": 350000000
+        },
+        {
+          "name": "ASKUS LOGISTICS PRIVATE LIMITED",
+          "amount": 90000000
+        },
+        {
+          "name": "WESTWELL GASES PRIVATE LIMITED",
+          "amount": 51000000
+        },
+        {
+          "name": "RAUNAK GUPTA",
+          "amount": 35000000
+        },
+        {
+          "name": "PURULIA BOTTLING PVT LTD",
+          "amount": 25000000
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "party": "MAHARASHTRAWADI GOMNTAK PARTY",
+      "party_full": "MAHARASHTRAWADI GOMNTAK PARTY",
+      "bond_total": 5500000,
+      "bond_count": 28,
+      "top_donors": [
+        {
+          "name": "V M SALGAOCAR CORPORATION PVT LTD",
+          "amount": 3500000
+        },
+        {
+          "name": "SHRINIVAS VASUDEVA DEMPO",
+          "amount": 2000000
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "party": "JAMMU AND KASHMIR NATIONAL CONFERENCE",
+      "party_full": "JAMMU AND KASHMIR NATIONAL CONFERENCE",
+      "bond_total": 5000000,
+      "bond_count": 5,
+      "top_donors": [
+        {
+          "name": "BHARTI AIRTEL LIMITEDAIRTEL CURRE NT AC-GCO",
+          "amount": 5000000
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "party": "NATIONALIST CONGRESS PARTY MAHARASHTRA PRADESH",
+      "party_full": "NATIONALIST CONGRESS PARTY MAHARASHTRA PRADESH",
+      "bond_total": 5000000,
+      "bond_count": 5,
+      "top_donors": [
+        {
+          "name": "QWIKSUPPLYCHAINPRIVATELIMITED",
+          "amount": 100000000
+        },
+        {
+          "name": "RAHUL BHATIA",
+          "amount": 38000000
+        },
+        {
+          "name": "TORRENT POWER LIMITED",
+          "amount": 35000000
+        },
+        {
+          "name": "MAGARPATTA TOWNSHIP DEV AND CONST C",
+          "amount": 30000000
+        },
+        {
+          "name": "MAHALAXMI VIDYUT PVT.LTD.",
+          "amount": 25000000
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "party": "GOA FORWARD PARTY",
+      "party_full": "GOA FORWARD PARTY",
+      "bond_total": 3500000,
+      "bond_count": 17,
+      "top_donors": [
+        {
+          "name": "GOA CARBON LTD",
+          "amount": 2000000
+        },
+        {
+          "name": "V M SALGAOCAR CORPORATION PVT LTD",
+          "amount": 1500000
+        }
+      ],
+      "rank": 27
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "accountability_score": 0,
+  "age": 73,
+  "assets_2019": 137938756,
+  "assets_2024": 207682224,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 44500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 13600000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 74000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 35000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 186100000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 815000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 13778719
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "PNB Met Life Policy No 2454xxxxx 1,56,750 1 Lacs+",
+        "value": 313500
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 8800000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3100000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2940000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 875000
+      }
+    ],
+    "movable_total": 30622219
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=m8GhZoaD7VdwYZCpW3f",
+      "total_assets": 5085464,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=m8GhZoaD7VdwYZCpW3f",
+      "total_assets": 45844836,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=m8GhZoaD7VdwYZCpW3f",
+      "total_assets": 69036111,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=m8GhZoaD7VdwYZCpW3f",
+      "total_assets": 137938756,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9428",
+      "total_assets": 207682224,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 3984,
+  "assets_latest": 207682224,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Afzal Ansari is an Indian politician of the Samajwadi Party and the incumbent Member of Parliament (MP) of India for Ghazipur constituency, Uttar Pradesh, having won the Lok Sabha election from the constituency in 2024. He has been MLA for five consecutive term and MP for three.",
+    "title": "Afzal Ansari",
+    "url": "https://en.wikipedia.org/wiki/Afzal_Ansari"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Phatak Yusufpur Mohammadabad, Distt. Ghazipur, Uttar Pradesh",
+    "emails": [
+      "afzalansari@mpls.sansad.in",
+      "786afzalansari@gmail.com"
+    ],
+    "phones": [
+      "5493242208",
+      "9415020279",
+      "4932205634"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 1,
+  "criminal_cases": 5,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "980/2012",
+        "charges_framed": true,
+        "court": "Additional Session Judge MP/MLA Court Ghazipur",
+        "fir_no": null,
+        "other_acts": "Section 3(1) Uttar Pradesh Gangsters and Anti-Social Activities (Prevention) Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 5,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for murder",
+        "section": "302"
+      },
+      {
+        "count": 1,
+        "description": "Dishonest misappropriation of property possessed by deceased person at the time of his death",
+        "section": "404"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 2,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Criminal Case No. 1260/2015, UPCD04000241, 2015",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate MP/MLA Court, Dist. Chandauli",
+        "fir_no": "PS Chakarghatta, Dist. Chandauli, UP, Crime No. 18/2014",
+        "other_acts": "Section 17C and 127(2) Representation of the People Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "4162/2009",
+        "charges_framed": false,
+        "court": "Judicial Magistrate Dist. Mau",
+        "fir_no": "PS Mohammadabad Gohna, Dist. Mau, Crime No. 609/2009",
+        "other_acts": null,
+        "sections": [
+          "171F",
+          "188"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 110/19, CNR No. DLCT110004942019",
+        "charges_framed": true,
+        "court": "Sh. Arun Bhardwaj, ASJ/Special Judge (PC Act) CBI-09 (MP/MLA Cases) Rouse Avenue Court, New Delhi",
+        "fir_no": "589/05, PS Bhanwarkol, Dist. Ghazipur, UP",
+        "other_acts": "Section 7 Criminal Law Amendment Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "307",
+          "302",
+          "404",
+          "120B"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Additional Civil Judge Judicial Mohammadabad Ghazipur, Thereafter the Trial of Case Additional Session Judge MP/MLA Court Ghazipur",
+        "fir_no": "PS Mohammadabad, Dist. Ghazipur, CC No. 260/2001",
+        "other_acts": "Section 3 PDP Act, Section 7 Criminal Law Amendment Act, Cognizance Date 12.08.2004",
+        "sections": [
+          "147",
+          "148",
+          "353"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "14/08/1953",
+  "eci_state": "Uttar Pradesh",
+  "email": "afzalansari[at]mpls[dot]sansad[dot]in,786afzalansari[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2480840,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3200800,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2568700,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1888089,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1468879,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2899660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2245280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 461580,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 798620,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 676964,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension, Shops Rent and Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Tuition Classes, Sewing embroidery & Designing Income, Mobile Tower Rent, Proprietor"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 6,
+  "inferences": [
+    {
+      "detail": "From ₹50.9 L (2004) to ₹20.77 Cr (2024).",
+      "headline": "Declared assets grew 3,984% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5085464,
+        "from_year": 2004,
+        "pct": 3984,
+        "to": 207682224,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 307, 302 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder, murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307, 302"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹20.26 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.16 Cr.",
+      "headline": "Declared assets rose 17× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 202596760,
+        "declared_income": 11607308,
+        "itr_years": 5,
+        "ratio": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 3,984%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 3984,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 1,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 40% of MPLADS local-area funds were spent — ₹13.20 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 131956511,
+        "utilisation_pct": 40
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 124861,
+  "minister": false,
+  "mp_name": "Shri Afzal Ansari",
+  "mplads_allocated": 220500000,
+  "mplads_expenditure": 88543489,
+  "mplads_unspent": 131956511,
+  "mplads_utilisation_pct": 40.2,
+  "mplads_works_completed": 21,
+  "mplads_works_recommended": 279,
+  "mpsno": 4170,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-26T07:01:19.000Z",
+      "flagged": false,
+      "publisher": "Clarion India",
+      "title": "Police Deployment at Ghazipur Residence of MP Afzal Ansari Sparks Political Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTV9HdFoxbHdwTnNpVmw4N0t5cXVrNG1JdUxJM3BaZHMtOHpFZklWY0JrWDZ3VHR0WC05RXZwdE5KT0xCTDctUmRjalhuUFRRQUVkYURuejVjOThjWnNIMDMtRkNjXzVmX2dLZncwWUdqa1lnSVBDSGE4aXlmQV83X3Q4LU5Jc3BpN29EYXlsUnVTZXFSbWdlaFpGSkRLajNBUW5RZUhXWkdlZw?oc=5"
+    },
+    {
+      "date": "2026-05-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "Allahabad HC grants relief to Afzal Ansari on his statement on marijuana",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblJvRGZCUl9zQVQwc01CQkVNU21lZTVucEJ6dHpCOXNOWWFLd0NIYUUzdTZ1eUNUcEZOaW1NaC1BOVYySk11NS1lbVFxZTl4Wmg4ckpnRDU3WFB3MjFoRmdCeGFTRm9tMURGWjZldHNmMVBWT0F3Z3liM3hfNkpUdXBRRmVrOU1YWkQtVFdpWjB6V2dwYk1xTW8zNlJ5czRaaFVrcW9TQmNMdF90b2x1UEJSZmhoOWxxcXRnSTNBczXSAcYBQVVfeXFMT2J3WHVpakczdzBZMjRiM2wzNTNrN0p2eW8wR3o2bktROTdHYjdDVmZDS1NnUlNIMFNuRDQ4S1FINVlzYjFaT21Mckw5Y1oxN3FZQzBmMjVzVVFQUEZaWmJtWDg2bndJVFN0SnptdDRLZ1ZUYUtIU1dXcEhRdTk2eXJsOGgtWVlLMGN1ajFIc29oWl85UHBpeDRwN29LVmRaQkxBWnlubUlnU0hLb19fdWRMZUcxWXRZRVYtVHdCRTZJV1F4UUZ3?oc=5"
+    },
+    {
+      "date": "2025-09-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "IndiaTomorrow",
+      "title": "Umar Ansari, Son of Former MLA Mukhtar Ansari, Granted Bail by Allahabad High Court",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXhMclVFdGYxNlZUSWk2T01qcU1IN0lBbDZOT3hidmdWNDc4dVJYcHVtaGVxZ2RZMHJCY3RnQnR2bUl5V2dYR3NEa3FsWVIxWkpsY0Frazd0UjRveU9YQjUwUTlEM2VCQ25uWHpVQUJ0VE1pQVdQMWxZZkFIUVBBNGdEazJkdlNmQU9nVkItai1WZ3N4Sk9EVldHOEd0cjNFQUhobFQwVWYxcjNaMlV5SE83amtTNko4X0J3?oc=5"
+    },
+    {
+      "date": "2025-02-16T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Muslim Mirror",
+      "title": "Ghazipur MP Afzal Ansari booked for remarks on Mahakumbh",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWRmSlFJSUxrODRrWTBxY3l0c2dMU29aV1BBQlVQVmRaa05Qb0FFVl82cjBuM2lVbjJDOVRjQ0NZeENmZHlJTnlWSmJRUUlrelYwNkFleDN0VXZIQnZGSEpRLU1RTFo0TXg0cDFBSE1jdlFuejh0eHg1bEt2MG16YXhmakJlRDhDb3c?oc=5"
+    },
+    {
+      "date": "2025-02-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "SP MP Afzal Ansari booked for his 'heaven will be houseful' remark on Maha Kumbh",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVliSlJicEtqeGhrV0QxbUM5T3VUZDhsakFSUlhYQ3Z5UVhMVHozdmVUZnRuc1Nta3ZuRzV4Tm8xbWFrS0d2V0JoVWF4aTFSeTZYYk5mX1llMU9EOFQwZXZuZnRsTTJrX2k5eUVMNFlSNlZta1FMQVdMRUtNc3VwMFgzSG5YbXpBdHhiVlZyUjJZdE5NeWtNMmJoaHUzaG9KbzA2aU1uWERVVzJHVFBQNFkwTGJ4b0x4SkhGeVZKelpXQktyRVExVkVLME0zMWhz?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 9065,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-75",
+  "pc_name": "Ghazipur",
+  "pending_cases": 4,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180418.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 80
+    },
+    "debate_titles": [
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/afzal-ansari"
+  },
+  "qualification": "Post Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "PARS NATH RAI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 34,
+    "criminal_deduction": 26,
+    "legislative": 22,
+    "mplads": 53,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 3,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 207682224,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 51,
+  "winner_vote_share": 46.82
+}

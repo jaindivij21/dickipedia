@@ -1,0 +1,438 @@
+{
+  "accountability_score": 44,
+  "age": 58,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 25000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7250000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 42412000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 74662000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 75000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 850048
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 0
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Max life policy No 14154xxxxx 52,355 52 Thou+",
+        "value": 6378355
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5200000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5780000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 18283403
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=121",
+      "total_assets": 86564403,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 86564403,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "2/255A, Koodakaran Kottai Village A. Sappanipatti Post, Karimangalam Taluk Dharmapuri Tamil Nadu, 635205",
+    "emails": [
+      "manimbb@gmail.com",
+      "amani.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9894087656"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Crime No. 157/2019",
+        "charges_framed": false,
+        "court": "Judicial Magistrate Court 1 Dharmapuri",
+        "fir_no": "P1 Police Station Dharmapuri District",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "31/08/1968",
+  "eci_state": "Tamil Nadu",
+  "email": "manimbb[at]gmail[dot]com,amani[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 2447970,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2317560,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1402820,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1110210,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 810620,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1446300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2029900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1960320,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2156274,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2060160,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Legal Profession"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pensioner"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹11.57 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 115721128,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 21287262
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 21287262
+  },
+  "margin_votes": 21300,
+  "minister": false,
+  "mp_name": "Shri Mani A",
+  "mplads_allocated": 164515071,
+  "mplads_expenditure": 48793943,
+  "mplads_unspent": 115721128,
+  "mplads_utilisation_pct": 29.7,
+  "mplads_works_completed": 43,
+  "mplads_works_recommended": 198,
+  "mpsno": 5814,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Anbumani's daughters cry at campaign, call GK Mani a traitor",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEVLczliWkliZENrV1VZc0lPcnNia0cyTXNBRWlxUGtFeFh5a2pSQWpBX2VIZG53d0RtX3NmdG51SFN1eEE3UER2cmw0S1N1Tmxvc0xlaGR2UnR0VWZpOFRpN1MyLVR2S1pUbGdTT0lhcHVHRmg1ZFNKa2lDYmU1XzlOS0pSNjBDdUxvS1Y0ZERrcGctNlJmM0RXbEptQzJhYmZTNU9VRDEyeU9uTXZtdzcxOXZVcTJPZFVHWFZMZllFNXh4b1BZTVg4T3JVd9IB2wFBVV95cUxNdDNJeU9CbTMxcC1XTlROdDBDVVNMa1VRQ1p3TWk3ZmtCWVFJcDJPeFMzRHpmbUtvcUlaOVllZ1hITW5keHVlZDJkaUx4MFJwY19WWlZPLXJIc2xCNmlXV3dqUDZfdXZHd3JOdTdpZlZ4Wm9CYzc5bS03RElmZl9XUUtJSDZ6TVFINkhyU3d3OWY5ZEVBVWY3WnZtc3U0b3NhcDVmdGJnS2pXNXg5dWd4WDdTeWYzY2prbEEzNDA2OUtTamNqT0ZVZXJZSl9tU1U0TFdfVkNHdEFhazQ?oc=5"
+    },
+    {
+      "date": "2026-03-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Ex-PMK leader G K Mani’s son joins\nCongress; may get Pennagaram ticket",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTHduZHVrZ3M4emxURkctT1RZZk03cDU0ZXI2NTZKcnBZR2h6Sm5fbXQyYWNBUXlSZGY5dVNKU3dOX0VBWE9HekoybkpKMXJnMXNQY2p0MVdKLWNuUS13bjdNS1JqS2NSU0pyLUV5VzIxRFFWT3FZVlpiLU95MXNSbEhDUUxHUFBTSEp3RzVJc0dtbHZPQWhoM2wzcGViN1hBTFQyNjJKU1lMSXd3eTMtR3Q2WWc1aFBXNWhkTU5xSEVQRGxxNGlrSXN2UdIB2AFBVV95cUxNVTFPd3RMUmlJMGVZWVg5TFUyMjIzTzFzM1hYbDZuNzk1bm9ONXhORFJYbVRnb055X05qNDJYaFFPek1EQlVqbElOUWVDX2JJdnJPNGhfSE1vemU1c29hdkR3UkpSVU9FcC0xYXFxQnlZd0ZEZ094MmszUzJxTUlKbi1RcEhFUy1FcXlvMVFZdmk0RUpLZjFrV1ZLd1lHZXJsUlZaQlVQdF85YWVuSkVveTFTbk9KLWFXcjlEQVJuaFpyMml5cDlBWkJlcnNYa0gwVDBiMWNJVEY?oc=5"
+    },
+    {
+      "date": "2025-06-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Get well soon! PMK President Anbumani on party veteran GK Mani's hospitalisation",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWpnMkNxN3pyVVZpUXB1eEs5SzJRaGRUeUNsc3ktLTZ4R0hrRFR5SzJDZXl6VmpXRWgxam9vWHZaS195RTJnckZhSkVaZTlCTGxpZHVabnJTS29UVHVPNTF6T0EwR1NfQ2Z0NXNsTE00NkcwRjFPT2ZDemM4cnVOR1lBdWRzNHRfVjIta1hEelFvZVBKV2tubkxtM1lXTnNOdE5yR3gySy05emk4VmNLTHhvbG16eHdHaWVWQnZaMjFRNDFmU1JneGhNYkJtNlZXOHdWWTdqRjbSAeYBQVVfeXFMTzZvdkMzbFJrenk1LTVvU29TQ1FYWTgzNi1OMHR2X1JzM1RncVZwdU9zNWxJbmpYZURWd21rYk9VSmtveVFiVWR2cnloQmZJVU1BZlFLTnJtclQtbUhwZlVIUEJOOThqLXRyOVJmdnVLeVFYYVVhS3QxNWczSW9FbnAyUUp4REFnaC1oN043dHlNU255M1RZQ214a3hSVTdpVzhxMWlLRWcxZFFuNG1TS1d2OXQ2MFpoY3FFTWdiYTNrUzIwMU9ZdWw2aEpCeUpjMVlScHhmelQzMTljZkpJcXhXRXpNRkE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Dharmapuri Election Result 2024 Live Updates: DMK's Mani. A. Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnlweHFzUlFpMjdJSlVQY0QxTDdtNkMxbGFxbTFDcUlFanU1UTB0ckpFTWlSOExaTmR0ek1JbVdSazlSckVzQy1NMWZ5d25lX0xOdmFUZjYzSWFtRk1PYjNHVW9oUWFpLVZ0TlRobEpfN2IzdkdrdmVRb2xjdXdtOExvbnRDQ1lLdUdMRFFJOWItWWJMNmg5R215SU9tNXRSY0lQVGlGR1ZkckthQkhRVndLQlBlYjlqMU9Gc0pkODZKYW85QkRsZnpn0gHXAUFVX3lxTE9uelRrN2Z2Y3hWR0N1NFhuZHhRZ0Exc19IS1RoQVBPSkh5RlNXeUxzLTBFZU9wZnNKRUF3UUZseGlnVlMyX3A3MGpENlI4ZkJyWUt5LUxMOGNhVzVSYTQ3ZXNZVkQ0Q1dSejBpY20wenRMb3dpV2xYVTFKODVGdl9ISUNlVG9WSEpRSDNOQXNlZHRTR0xlRVRaQ0s5cFdPN1hpX3Vad2lZTHF6Q0NLb2p3UVBsM2YxTUVCN28yS2ZxUUtCNFJZbW1GR2hzcTBad2ZVeGZKWjI4?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dharmapuri election results 2024 live updates: DMK's Mani emerges victorious in Dharmapuri Lok Sabha seat",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPLV9OTWZSSHA0eFp5bWZhbUJpMmVpV2N5dzJmZmZMbGJwdllPd1NRYzVpWEY4ZkZHSFZuSjk3V1VqT1Z1MkY5LUp3djA4T3RWVDZMRWNoTm03YzJxOUM4NDRJNTVQNW40MmtkWXQyamo4MkszN0p2djZZTWxWMHA5VDhYbHdjb3MtUTExTmR0dTFpeGluVnJsaXlXUGtseVRkSlhDY0RPTmRkdHJ6NjdsT0xsMDVCU3VZZVFMTUpjQXNEQVBMbXpwRFpwMElkUVVYMTYwNW1JZ25DWHQ5OWFkOU5WMGlzWDlWR0Z5RzNOYThDN0hGZ2tRRHlvWGl1b3FhNDJZemVTRlN3QjRSNThsOFVjeGQ2eVZfdTFZZlpkSEdrVEFKdjBfd0I5NTM2dElxV2fSAbcCQVVfeXFMUFc0cTdVcmFXem55LUxuWVh4STd3WEY1S2s1dzBsVlprMVhlWWZjV0g5aklabDdIdGRpWXBKN2lfRHBudVk4a2VhV3lyWm91aTZLSWQ0QkZNbVZsNWtIc28wVU93cmpRY1RkOW5zNnFVZXBsZDVsenMzOG5mdGg3MW9fd1o2M1BsM0s5amR0czJsM3Bjem5rWjNsbWYwX3RrUVVhMXkzT0ZXWHcwekZ1d1dvRjZzNGV2WlI4OXllRUZ0dmw5R0lGMDV5Q0tfYmlkVHBFQ0x3aDBjc2d6dVZ5dFRtTXNLYVJqZWlRLUdKcWE2c0laXzZTOGFPM2tTUkpHSGotQVdjSkUzenM5Ulgwd0t5WWc5WmxSTFQ0cnhyMXJ3bnNub2hlenM0Y0o5eVNOUzhqOW9LYmM?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 9198,
+  "notable_record": null,
+  "num_candidates": 24,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-10",
+  "pc_name": "DHARMAPURI",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180377.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 49
+    },
+    "debate_titles": [
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need to conduct a feasibility study along with financial assistance for construction of an ROB at Affaivali Road in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to construct roads under Pradhan Mantri Gram Sadak Yojana in Dharmapuri distirct,Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to provide road connectivity to Kalikarambu forest in Kondarahalli Panchayat of Dharmapuri District, Tamil Nadu under PMGSY",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Urge upon to minister to allocate funds and develop hogenakkal into a tourist center with international standars",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 110
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mani-a"
+  },
+  "qualification": "Graduate",
+  "questions": 20,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Commerce And Industry": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 4,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Law And Justice": 1,
+    "New And Renewable Energy": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SOWMIYA ANBUMANI",
+  "runner_up_party": "PATTALI MAKKAL KATCHI",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 1,
+    "legislative": 42,
+    "mplads": 50,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 86564403,
+  "total_liabilities": 21287262,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 34.67
+}

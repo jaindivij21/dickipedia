@@ -1,0 +1,613 @@
+{
+  "accountability_score": 46,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 900000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12900000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 21000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 34800000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 180000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1039955
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC policy bearing policy No 65271xxxxx 5,00,000 5 Lacs+",
+        "value": 500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9020100
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 12740056
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5097",
+      "total_assets": 47540056,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 47540056,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "# 9-1-58-30, Panduranga Nagar Hindupur Town, Sri Sathya Sai District Hindupur Town Andhra Pradesh, 515201",
+    "emails": [
+      "ambicalakshminarayana@gmail.com",
+      "glakshmi.narayana@mpls.sansad.in"
+    ],
+    "phones": [
+      "9440877799",
+      "9440289388"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 8,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 8,
+    "ipc_summary": [
+      {
+        "count": 7,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 7,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 6,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 208/2023 Hindupur Rural PS",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 223/2023 Hindupur II Town PS",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 247/2023 Kadiri town PS",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 328/2023 Hindupur-I Town PS",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. no. 339/2023 of Hindupur-I Town PS.",
+        "other_acts": null,
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. No. 1213/2022",
+        "charges_framed": false,
+        "court": "Principal Junior Civil Judge cum Judicial Magistrate of First Class Hindupur",
+        "fir_no": "Cr. No. 17/2022 Hindupur Rural PS",
+        "other_acts": "Section 51(b) of DMA 2005",
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 1172/2023",
+        "charges_framed": false,
+        "court": "Principal Junior Civil Judge cum Judicial Magistrate of First Class Hindupur",
+        "fir_no": "Cr. No. 33/2022 Hindupur-1 town PS",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "353",
+          "34"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 17/2022 Kadiri Town PS",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "15/04/1964",
+  "eci_state": "Andhra Pradesh",
+  "email": "ambicalakshminarayana[at]gmail[dot]com,glakshmi[dot]narayana[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 387570,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 490540,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 494660,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 821720,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 353050,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 489370,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 440800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 428990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 486000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 345186,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹15.73 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 157323427,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2119559
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2119559
+  },
+  "margin_votes": 188555,
+  "minister": false,
+  "mp_name": "Shri G Lakshminarayana",
+  "mplads_allocated": 201899064,
+  "mplads_expenditure": 44575637,
+  "mplads_unspent": 157323427,
+  "mplads_utilisation_pct": 22.1,
+  "mplads_works_completed": 25,
+  "mplads_works_recommended": 147,
+  "mpsno": 5584,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-14T21:55:18.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Ambica G Lakshminarayana Valmiki",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzVkQ3NQTVBBRExsM0ZTTXNtb0NjOFd3M1dIUmtoMmpMc1A0V0lxeVlOYkRfejdFYlVyUEUyMnNuc1h6N3FLT1o4b3BXMGtKeU5BZl9lc3RjaU5xRG1OZXJqUV96LXpPSjFWeVhCUWphQ1BEa3JNdjIzdlo1WkFSdmpELWFzM3dXdlJxQWN5YU9Mb0xtdERNSEloLXlDZw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Anantapur election results 2024: TDP's Ambica G Lakshminarayana Valmiki triumphs with overwhelming Majori",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQWEJxOHZ2cVF4anF4VzkwTm9QVDhGb1M5S0JHbDBlWXN6UDJnZkxuR0dISHBBSXRuQlB3cDVfV1hUVHV5RTY5YjR6WFJwRUhpSGx6cjNnNGJVQkRqeWI5T2RKdzhfUUFJWndDYUMzS0RQSDlsRjg4dDZ4YjZvYk1faEYxZWNtZ0dGemg3QWlLSkhjM0ZsQTlOaEc1UlVzZnJxT3Y4VFdCc2tLODF0aExERUpMUU56SW52SW43UVlVSEZOb3pFS050b1lKbFBJUVNISlBsOXYtUm5OaE94cEx5TXd5S2NnSDVnY1ZublhWZGN3OFZxbUt3R2dVbDRSZkx3SDg1cDdocDd5OVFCS2lFQk9iSkE2MXFBXzF1Zk5PVDBfMW9RSVVBSDFRbmFXQ0NvaEJMZkZ3MmZyZ29UZlBXVDJIU3JzSl9RYW9XWGFCNWlYdkZwSVJ4T3Z0S0cxVFdCM2RHeXF3Y1pyYXdvZHpSRTEyRzRKOVJpbDMxdlA1dy1IUkpCTm1VcNIBjgNBVV95cUxQSU1sSEZkSjcxNmVZT3dMcFJsTGhuUW9NSmxsRFUxNlB0clAtVmVHeThuT2g0Vkg5SDNhSnNTdkJfSGtLdklFNWpTd2haMWRJb1FXOWZyOTJaVldSYnNXMzkzXzhhTEFNMXVCUFpfV1ZfMENBNHdOWWFSeW8tV1lMNUZzQU94ajFiTF9ic1g0NDZ2ZHdJYzNFUjF2OXVTaGt6RWFqbGdyZGZPeFpBQ3RSQkRxUnpRZEhUaE5qRmluYXk0WVVBSGMtVFhyUXRhVGZfdnh2UkRJb2tBWDNmZ21TNEs2dkhwRTJ3RFFPbjJXWVRuQmpwSWxzeTFMaWZFSXFSSkRqZkc0aGZtQ1Y3WWhKVXhMdWd5c0xMSlJsdFVzcUlYbHJpWExxV0NxYnl4dno4WW1iay1hZHNzcEF2U3FESnk4S3ZlRU1xSm8tRDBzVzJkeVNRa0lTX3oxZjNNNzh5QkVnZzlGMUxFYjNNNkxVY3ZwNTFzTXU4ZDVSLU1IZjBNck5nT0xRWlBSR0VoZw?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:18:27.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Ambica G Lakshminarayana Valmiki, Tdp Party, Anantapur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWxGR21peTlkQ21kUkl6ZkdNNURiSTZPSERNazdMcldwTWdCMVo5V3l5UE1kbUUwR2M4M2gzeGdGYzdBcmNtU1dVVnJ2dmtJNmxvOUwwQWZNdGpqRE0zZzV3SnROTTJyMnNfWEtjWFJHckFqOEp4REVaeDctZl9nejRNMm5mdWQzN1JXWUdNTWU0bjF2OEVYUjhxTXJvOEw3OTlVdjhqeUg4SWdPb2FaX2ZCUzcydW5zWHFUZnhxaW1haDFSdzkyR1phaE1VZ1Rza3hnU3dzaEsydVU4UFZnb2syVklBeVNmVzlNZnBVNkU3UmgxUWk4ZEhsS2c?oc=5"
+    }
+  ],
+  "non_serious_cases": 8,
+  "nota_gt_margin": false,
+  "nota_votes": 9199,
+  "notable_record": null,
+  "num_candidates": 21,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-19",
+  "pc_name": "Ananthapur",
+  "pending_cases": 8,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180002.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Exemption from TET for Teachers Appointed Through DSC",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to submit nomination for recognition of Lepakshi Veerabhadra temple in Andhra Pradesh as UNESCO world heritage site",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Financial Support and Affordable Transportation Facilities for Banana Farmers in Anantapur, Kadapa, and Kurnool Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding enhancement in allocation of MPLADS Funds and exemption of MPLADS Projects from GST",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to address the problems being faced by handloom weavers in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to establish a Textile Park in Anantpur Parliamentary Constituency, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to establish Vishram Kendras (Resting Centres) near the Government hospitals for benefit of patients and their attendants",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding development of an underground drainage system with Sewage Treatment Plant under AMRUT 2.0 mission in Ananthapuramu district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand for the resumption and completion of NH-67 from Karnataka-Andhra Border to Gooty Section",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 149
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ambica-g-lakshminarayana-valmiki"
+  },
+  "qualification": "Graduate",
+  "questions": 47,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Cooperation": 1,
+    "Culture": 1,
+    "Defence": 2,
+    "Education": 4,
+    "Environment, Forest And Climate Change": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Power": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 5,
+    "Skill Development And Entrepreneurship": 4,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MALAGUNDLA SANKAR NARAYANA",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 8,
+    "legislative": 65,
+    "mplads": 38,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 47540056,
+  "total_liabilities": 2119559,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.33
+}

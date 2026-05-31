@@ -1,0 +1,470 @@
+{
+  "accountability_score": 34,
+  "age": 42,
+  "assets_2019": 3812464,
+  "assets_2024": 3817399,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 71000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 163398
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 490000
+      },
+      {
+        "category": "Nil",
+        "value": 1100000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2284000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2040000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 6148398
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=SHmtv4Dypn8JFF6Z5ZHy",
+      "total_assets": 3812464,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5160",
+      "total_assets": 3817399,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 0,
+  "assets_latest": 3817399,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mahendra Singh Solanki is an Indian parliament politician. He was elected to the Lok Sabha, lower house of the Parliament of India from Dewas, Madhya Pradesh in the 2019 Indian general election as member of the Bharatiya Janata Party.",
+    "title": "Mahendra Solanki",
+    "url": "https://en.wikipedia.org/wiki/Mahendra_Solanki"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "village narkhedi PO.agrod Dewas Dewas Madhya Pradesh, 455001",
+    "emails": [
+      "mahendrasingh.mp@mpls.sansad.in",
+      "mpofficedewas@gmail.com",
+      "mahendrasinghsolanki7@gmail.com"
+    ],
+    "phones": [
+      "7272254666",
+      "8989036007",
+      "9226500100",
+      "7879857637",
+      "8826686455"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/MahendraForBJP"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/MahendraForBJP"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "SC PPM 20/2023",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "226/2019, Shajapur Kotwali, District Shajapur",
+        "other_acts": "Section 126 Representation of People Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "855/2019, City Kotwali Thana, District Dewas",
+        "other_acts": "Section 3 Prevention of Public Property Act 1984",
+        "sections": [
+          "353",
+          "427",
+          "506",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "11/04/1984",
+  "eci_state": "Madhya Pradesh",
+  "email": "mahendrasingh[dot]mp[at]mpls[dot]sansad[dot]in,mpofficedewas[at]gmail[dot]com,mahendrasinghsolanki7[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 924106,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 956825,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 568270,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 738386,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1215796,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 498490,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 439380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 420680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 415410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 246807,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary Received as MP"
+      },
+      {
+        "person": "Spouse",
+        "source": "Law Advisor"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.54 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 115445732,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 20
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2711920
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2711920
+  },
+  "margin_votes": 425225,
+  "minister": false,
+  "mp_name": "Shri Mahendra Singh Solanky",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 31554268,
+  "mplads_unspent": 115445732,
+  "mplads_utilisation_pct": 21.5,
+  "mplads_works_completed": 3,
+  "mplads_works_recommended": 116,
+  "mpsno": 5061,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dewas election results 2024 live updates: BJP's Mahendra Singh Solanky wins",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNc0h4LXBXbWk3ZzAtTGMtZ1JjN1VWQW1IZXhaM0NvYzU5RzB0dmYyMWF4bVd4Vi1EYjV4ZERWVll3SFdyMXY0R3NMQTh5dENiNHpWelVBVS1zY0dvb3dqaUVkaG81QURWRGxncEpVNUFlVUFPak9rek8za2JBU2d5aDBId09DellSdHBhUmh6RHhVOUd1UjBMUm5SZXVDTjhkeTZYR0hUM0VkVWVjOF9uTzFTTEROeE1aSU1ObkVoYWxmUFoteHdiQU1iTE56c0sxT1BwV1c0czh5elB2c2hEaTRmbDdBWkJQZG9mWFV2X0JuOEdjdDczLUtlMGRCMGJsQnlvSkZDVG4ySEVXUmFPaWVfNllGQlBURlRUMmtFU29icW9WUTI1b2ZxY3daSGs5dWM4ZXZNVlJ4d2VRWW5Qa216WVhhb3d5STVHZXhra2F3X2F0LXNUVVlQU3l5OEVqNWd0bmM4cFZIMk5zOHMxSkhR0gH3AkFVX3lxTFAwc191dEVVSFhkLW9WeTk5NGxweDl0NmhKMVFMR2w2LWdCdmRYYlN3d3gxaUpRSi1zRGxHdktpZmh3T1BEYWs3Z3Q5Z0NmOFlPbWJaSHltLWJWQy1kQ2xycnhYdGZsTWpXQzMwZFJGcjFXOEhVM1FfUmRiSHJwYmhqSHJnd2o3REhWTjBqRlRPQ2J2cFpCbFd4QzRLUFQzN3JFRUVINS1YUEJTcDBTNnBBU0MyX0E0RndTRzhnbnpPa1kyeS1HeDVMMUVwWFJvQnV6MHQ1RTZHbHNNRWJvMUlWRHUxa19keXZ5OXRXbnBraFNDY1hlUXZ3NkN4RWFLV3Y2RDlnVTMtRkJMM0JoRk1xVXIxdEdvVVpmWjdCaDJjTF9kTE9HdGNfVmxFZk9xVG5BMTBVT0VXRURLV010c3FpQ3FiMHVRel9qUklEMHQzbVNKSXNnSURsVWVYUjBrc05BMlNqamVHMjRDdjBVRWg0cDlZZEVjYw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Dewas Election Result 2024 LIVE Updates Highlights: Mahendra Singh Solanky of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ3hUZHJFM3ZGemtINE9hZGgwRko4VU1UaGl5SFRkQjFPVTl0YlFfUDNjSzd0Y3NLS00xUnUxMmdySWs5ek5JckhtRFRGUkJ5WF95YnNobERXMW9EWGRBWTBKT0ZBcU1sMDVyVEhMUVJSZlZuRV8waVRXZndyWllNSGpOWHRYcEZDZHJzLUhmcXUtdDlveDM5cmhmNUFyeGFCY3lYMUNBY29MS2hNR3JQdkxkOEFOS1I4b1NkM0drZlU3LVNMVHNIN2xkMkNRVTR2bGhIMDhKemdZOGNxdE530gHkAUFVX3lxTE5fVUhEZEdFaUZvbm5ud2FIUG9LR2JFWWM5NnhmQ19rUTNra1RpOWZQU1JvNUoyUXEtRTNBUEExc09HZTNxNDhvMWI2ZEViT1JISHFOeEh3ek00alNWeUNxZk1QVzZUTnNtY1FCcVk2eDFMZVAzamtPcHZTcmpmQU9uYXhCdHQ2RG5jWU5LaTR1Sm9lQnlCMnExUEYxeldLeFRfVEI4UmZ2TTVtNTVpY1RrQTRVNjNydjI4c2NvajR5bS1WTjZvS3dJVGdUQ0c5QlJiQkYxeXFraEFmcVRlUGZZVktHXw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Dewas Lok Sabha Constituency Result 2024 Live: BJPs Mahendra Singh Solanki Wins By 4.3 Lakh Margin",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFlZUzl1ZVZiVzhUVUNQbFVDQ2thTmN6VnVla3pzN2NhbnNEWGxGRFJyOWdZUV9GM2NveFBGeGxYLWFkcUFlSThuNW9uRnl6V2xCc2Q3SS1ycUFqTVdZT09oVHkwdlAzQi1CNUFmZkdRZ2lmTkxCaE8xTkpjeFNzSDJJemlFc2RVdUJxS0lxWjg5WlZjRUYyNXoyTUZ1WXgtdURVME9UeGZzZXgxSUs0MWhQaFVPNU9XWkp0R3poS1AzRmpaNEpnejJUVTZZZHFPMFlFbWxodlbSAd4BQVVfeXFMUDBWRHcwcnBldVVrTGplY2tYMFVUX2ljdHRFWUR4WVFRM1k5ZVJqWlZrcDVaREk0TzJoaFNpd2Z5MzY1Mm0wUlA4SVVYX0hWRHo2MGg5c0MyVV9Qbk1lMDZVR2FmLUx5a3kyYXlmSjVXcDQ2elBnZ2loRkFpd0FVVGk0M0ZnYkRrYlpldFNZZDJHY2NnUVY5aW0zYi1yTklYMEszbk5kZG1YUW5YM0M1WnZYWUhmNlVmMlVHYU1Vd01nbjBVVzRya2xxeGtBdk1aWGdLTlNrbFZ3Nzk2eGp3?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 10389,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-21",
+  "pc_name": "DEWAS",
+  "pending_cases": 2,
+  "phone": "Tels: 07879857637 (M), 8826686455",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180233.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 79
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mahendra-singh-solanky"
+  },
+  "qualification": "Graduate",
+  "questions": 20,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Earth Sciences": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Parliamentary Affairs": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAJENDRA RADHAKISHAN MALVIYA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 34,
+    "criminal_deduction": 2,
+    "legislative": 39,
+    "mplads": 27,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 3817399,
+  "total_liabilities": 2711920,
+  "wealth_pct_increase": 0,
+  "winner_vote_share": 63.23
+}

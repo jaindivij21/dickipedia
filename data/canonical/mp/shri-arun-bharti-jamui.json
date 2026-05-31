@@ -1,0 +1,508 @@
+{
+  "accountability_score": 74,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1822500
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13566000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 15388500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 475000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 283009
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 18382581
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "ICICI Life Insurence Lombai 70,694 70 Thou+",
+        "value": 70694
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 14132666
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3107348
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 13030500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 49481819
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1681",
+      "total_assets": 64870319,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 64870319,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Arun Bharti is an Indian politician. He has been elected to Lok Sabha from Jamui Lok Sabha constituency. He is a member of Lok Janshakti Party party.",
+    "title": "Arun Bharti",
+    "url": "https://en.wikipedia.org/wiki/Arun_Bharti"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Flat 201, Shahi Regency, Mahesh Nagar Patliputra Patna Bihar, 800024",
+    "emails": [
+      "email.abharti@gmail.com",
+      "arunbharti.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9135099999",
+      "7004303710"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "31/03/1976",
+  "eci_state": "Bihar",
+  "email": "email[dot]abharti[at]gmail[dot]com,arunbharti[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 538070,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 500000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1707980,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3958000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2241000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 499000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 475000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 500000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 700000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 833370,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 500000,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 450000,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 500000,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income from Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income From Business"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7506849
+      },
+      {
+        "category": "Loan of Various 1,85,61,769 1 Crore+",
+        "value": 23697544
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 31204393
+  },
+  "margin_votes": 112482,
+  "minister": false,
+  "mp_name": "Shri Arun Bharti",
+  "mplads_allocated": 194924621,
+  "mplads_expenditure": 116977210,
+  "mplads_unspent": 77947411,
+  "mplads_utilisation_pct": 60,
+  "mplads_works_completed": 196,
+  "mplads_works_recommended": 275,
+  "mpsno": 5740,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-12-31T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehawk.in",
+      "title": "'Missing MP' posters targeting Jamui Lok Sabha member Arun Bharti surface in Bihar",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0RXRG9NTGp5eno5ZHhwS0ktZklGUkxlYmlobkN1WWwySS1QSUwxamlRTXZqM05ic2pxdEtqeEI0TkRiVTZUendFTS1LdWRzZURKR3FHY2c4NjBrWGl2bkxQeFM2UDJwUmZyQ05UelZSYjZkNUFPTldPQUNyQWxCa216dDBWaEtBUjVCU0MwNlRGWnkyUHR5UWVWMzg0alN5MU1VV0MtZmFNNFlGMFJvclBFMm8?oc=5"
+    },
+    {
+      "date": "2025-12-31T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Patna Press",
+      "title": "Jamui Residents Put Up ‘Missing’ Posters Target Chirag Paswan’s Brother-In-Law and Jamui MP Arun Bharti",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Vdkk4Tk5rMVdXTGdvVkROcmJPSm1jR0k5OF95VDNfXy1LektkbWVMMlNtWWtEOGluS21VTFdSR3pWa1lua3NaTmMwaWxZX0JUaXBaNjBUdVZlUFZZWXZNTndQMUp1bjRyRTlUSjNNTGRPVmI4YUxOOTh3WHY?oc=5"
+    },
+    {
+      "date": "2025-11-07T09:18:13.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Arun Bharti",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXIweW1TN1ZTYTA4bXRTSWpZTDE1ajhfMGNILWhIR0VhOWx3SEUzdUFzbm9MT0Z6aWJMakZPSGFFRFNDWnZOVklPemh3N1I1V2NvZTMwLWxJTmxQWVdBaUh5M2EwZGZKQXNxNzlRbTItYXdTS2xRMG5qc1VnLXdnTHV3?oc=5"
+    },
+    {
+      "date": "2025-11-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "LJP (Ram Vilas) MP Arun Bharti casts vote in Patna #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkNaSzkySG10QkRzems3LU5EN2FWZm1iM0x6R0pnN281enQ3ME5CZk55RTVfSUYtZ0tTSnVVa3J2UFN2NWpJWnpZRXlLeE1lazFxME5TQnZCUjdSbDNwbE9kOUo5M3BmaEZhdnREMzh0dmNpdWlaTmpNMFR2cTZuVU1lNkx3ZWxyVGRNVDIyc29INHRib3FfZTlxMNIBmwFBVV95cUxOYkNaSzkySG10QkRzems3LU5EN2FWZm1iM0x6R0pnN281enQ3ME5CZk55RTVfSUYtZ0tTSnVVa3J2UFN2NWpJWnpZRXlLeE1lazFxME5TQnZCUjdSbDNwbE9kOUo5M3BmaEZhdnREMzh0dmNpdWlaTmpNMFR2cTZuVU1lNkx3ZWxyVGRNVDIyc29INHRib3FfZTlxMA?oc=5"
+    },
+    {
+      "date": "2025-09-27T13:03:14.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "'Seats will be taken to win, not to lose': MP Arun Bharti emphasises alliance focus over seat count, says, ...",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEdZalh0RmE3WDh5ODJ4VHRUMDBVZTZtd3dhMXY1Sjdkbl9pcHFKbHc2dkFzSGNwRzZfQmwyQ3ZmWVIxVmVqRVVBQmUtVTNHRXdqbmxZcURJNlV1WWN1OVp6WGVPdHNmQXZqSk9HcGlCaWtmX0N5YjVUcW5WV21NMFZQWDZGZmZHVHB0ajV5RjJIVnFCdTJPOHZONnVfbjhFdUtKbFZ5Zzdkai11SlNLY0FMTk9NYjRp0gG-AUFVX3lxTE5pd2NqNHhvUElTYjNuajVCZ2J1a0o4OUF5bnJWVzlLZVpRS2RBQmhXNl8tdHJZMUZvU09ON1FRTTJOVFBCQ3Ixb2JvVVIzRC1jWlMza3VHTUc2UFBNdGRURGw4d2NCMW5rcDJybVd0aWxoWDc1SFZTbHZHcGNaLXNnY2NHSVhWOGI4aC1sbjZzaXhDRlNIczlaek9vMlg1Ukg0RG0wMXhNMTBmMHo4ejZpc2xqcmVqZmJvbWhXNFE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 26182,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "LOK JANSHAKTI PARTY(RAM VILAS)",
+  "party_bond_total": null,
+  "party_full": "Lok Janshakti Party(Ram Vilas)",
+  "pc_id": "bihar-40",
+  "pc_name": "Jamui",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180046.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Entrepreneur",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to set up a dedicated Skill India Hub centre for SC and ST candidates in Jamui Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Need for an International Cricket Stadium and Sports Complex in Jamui",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to establish a Central University in Jamui Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to bring Bithalpur airport under UDAAN scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to announce a special financial package to promote industrialisation in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding allocation of funds for new railway line projects in Jamui Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to start survey and mining of gold in Jamui district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 147
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/arun-bharti"
+  },
+  "qualification": "Post Graduate",
+  "questions": 45,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Corporate Affairs": 2,
+    "Defence": 2,
+    "Earth Sciences": 2,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 3,
+    "Labour And Employment": 3,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Rural Development": 2,
+    "Social Justice And Empowerment": 4,
+    "Tourism": 1,
+    "Tribal Affairs": 3,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "ARCHANA KUMARI",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 74,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 64870319,
+  "total_liabilities": 31204393,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.98
+}

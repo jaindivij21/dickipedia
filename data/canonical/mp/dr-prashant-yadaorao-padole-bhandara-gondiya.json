@@ -1,0 +1,817 @@
+{
+  "accountability_score": 37,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 55100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4150000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 50000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4700000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 113950000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 170000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 18871812
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5388000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Health Insurance No 91339xxxxx , 979165325 4,76,602 4 Lacs+",
+        "value": 1264062
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 600000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4425000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 30718874
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5aomuPYyV7QSyXWVu",
+      "total_assets": 6757048,
+      "year": 2014
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 6757048,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr. Prashant Yadaorao Padole is an Indian politician. He is a member of Indian National Congress.",
+    "title": "Prashant Yadaorao Padole",
+    "url": "https://en.wikipedia.org/wiki/Prashant_Yadaorao_Padole"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Kesalwada Road, Rahul Colony Rabindra Nath Tagore Ward, Sahakar Nagar Bhandara Maharashtra, 441904",
+    "emails": [
+      "prashantpadole23@gmail.com",
+      "prashantpadole23.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9423412884",
+      "8668288443"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/_Prashantpadole"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/drprashantpadole"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 12,
+  "dob": "24/09/1978",
+  "eci_state": "Maharashtra",
+  "email": "prashantpadole23[at]gmail[dot]com,prashantpadole23[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 547480,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 889630,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 830440,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1252360,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1270900,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 3229610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4730190,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2814930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1102630,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1167349,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Medical Officer in Yadavrao Hospital"
+      },
+      {
+        "person": "Spouse",
+        "source": "Medical Officer and Self Hospital"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 3% of MPLADS local-area funds were spent — ₹15.44 Cr unspent.",
+      "headline": "97% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 154408250,
+        "utilisation_pct": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 21400000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1113000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 22513000
+  },
+  "margin_votes": 37380,
+  "minister": false,
+  "mp_name": "Dr. Prashant Yadaorao Padole",
+  "mplads_allocated": 159680283,
+  "mplads_expenditure": 5272033,
+  "mplads_unspent": 154408250,
+  "mplads_utilisation_pct": 3.3,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 154,
+  "mpsno": 5729,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-02-24T03:50:16.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr. Prashant Yadaorao Padole , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEJjYmhZS2E4SW5wdnNPaHVSd1gwZjhOMkFYcjQyeGZ4VFhfS3duLU42RjFEUnp3YWJNdk55SE8yUE9SYm9OSVFGeW9lSEpKbHNXU21wbzl4YmdTeUZWcHdkcWJHQVk2WW5GYzJnM1VQdUZxRDh6NHB5cm5hNWlvR1lEdmZsTjhfMzd1TVhIeWhDMkJzOGc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhandara-Gondiya election results 2024 live updates: Dr Prashant Yadaorao Padole of Congress wins",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOGhJQTBMR3BDUUs2THZiZ284VW5BZzIyNm1obDhjY0dnc3I5UV9RSDZZeWZtR3pGeVZfWnFqMXNLTjkyQ3BWV29obHNKNUE3VG95NTdwdFBfazBhQlplWVB4ek5NSXFYZGZTc2NJc3RvNzdiMkJ3TFdiY290dGpDb0ZTNWRNN0NDTkM0bHRReS1PMlVSUDBPZ1I4NWFIWU1kVkY4LUhRUjgzSUJ1UjA4cjlXX1dKQk4zS3Q1M3ZMTDZjZjVwTUZoa2pfVTRCRWtIeXFwX1daOWN5YXhkdzRsMDFwQ3l4QVRnMXhWUU1wRklmdFRyeHdZQlVRWEVJUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bhandara-Gondiya Election Result 2024 Live Updates: Congress' Prashant Yadaorao Padole Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlFpN0c1TlZBQUE3c1JqdzZ0MXdpZUhwRnpqRXZoUjRsXzM0WkNRdTFlNmNiNjZBTnNxMmhxUnFOUXRBcDhEMV9sSllSNjdJOHJmcWJ0LUR1ZzNLUFNMY0Q5V21FUnVwR1BwXzM5SWpoLS1PTkJ2OTB4ZGpzTVl5bFlnUThyRDl6dG5xbjl5UTJPcndoYlNrVVd6eGdlYm04MFdjbzB5MW1MSm5wbURyWWNEbXBvZEFvaGRIMHJ1dWlRS2ZmQlpxbm5FMkQ4Qng5R0FV0gHgAUFVX3lxTE1KR0FpMmJXWmhqcjlULXN4b0ZLaVNWQ3hMcFlkT3I0WUNYa2s0SmxBQ1hqRmtuVnhGZ244ODlBdjJBT1FsZkpWY0gzUHFlVENjalpiTFNOU2hzOHFpZ3htRWNiQjVRUjFMMzFJUGJjYTk1ZVFrcXRORXpSU1FHOEF4V2tiQ3RldEd3cUM0bk1FYXUwaWwxU3czbDE1QTl3MnRRS0FZRkxycHpnbnVwQlRKaUt5N0R0UE5CaUdDX0trRUpNZzhQNFZLbkJXT0FBcUpnR3ktZjNjdThCb3VkWEsy?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bhandara-Gondiya Election Result 2024 LIVE Updates Highlights: Dr Prashant Yadaorao Padole of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMlZDY0l5VFFiT3NuTF9hNnQ1andMN0Fncjl5bXZMOXVyMXlOMG1OM2l2TFhJT2o2Z01Sa0R6V0tnNEdNa1JfVlNoNzA5QjJydzg2Zm9vUVVNbTREVnlMc2xIc0NsTVEyWmxacG5zMll2NXhzRnpJN0NCcWp3WWFac1E4NFJQTExsYUstSVVYR3hJUmVvNmUxdWY2NVRPYjZaM0hBRm5OSXoybElmNzlQbVVfYzBYYmtFWm9FOWFtS21Eb1k5c3VEa2MycGtTRmlDX0ROY2FlZ0JHQ1FOM2ZOLWtldTdCYXZOLU5ZaXR30gHzAUFVX3lxTE54WVNSb18tSkJLTFJBU1hCT2xteDhxSmROOTY2ME5rYTBaM0RTRlgzaV9ob0FQbnFLSHB4T1VYeFpwR19HQ3JlTFNQLTRmQTNyT3J0LTBwbkNWVFl2SE1tNzNKVW1qdm5kU2tiNzhpVGVmVF8xbDVfdzV5TWsxc1hBY3JoVmpVYnVFZGJFMEpfRW0wZUl0Q0lCY2Q5ZTRVOWVuR1gyNHcyRVBodzAzSTBHUzhrcndIa2ZHaG54ZFJESy1FRWxGR3FBZEkwVlRPcG14ZUdYQ2hzTDZySHNvcTI3WWd3dDFvOWdTWlRWbEZ4V1RUMA?oc=5"
+    },
+    {
+      "date": "2024-05-31T16:44:49.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Prashant Yadaorao Padole",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWHIwVnJOalE3UEF3Z2tZZ0EyaWF4cFdzZjFQTW5ZR2RacUpjQTNfM0RtaDB1eGtqRWdDVk1xYTJ1VWFhcUxMZFRVd0gzc21lUkY2UEx5dlVzcVk4UWxqV2xKZ0ZRdDRBNFd2d182MldBN0szUk1TSlNPRkkyYlRjNTBqWXZRVE9xQjhwRmZOa1FwWEhOa1ZpZktXcE1uNEV5cE5rWWVvOUpnMlN6X0hjbXZRUFBQWksySlVYMHF3enpMOTQ3TWJqc0VXZEZOSkplQTV6QQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10268,
+  "notable_record": null,
+  "num_candidates": 18,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-11",
+  "pc_name": "Bhandara Gondiya",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180262.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Immediate Release of MGNREGA Funds for Well Construction.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Regulation of Mining and Construction Activities in Aravalli Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Enhancement of MPs� Local Area Development Fund to ?30 Crore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Concern over increasing food adulteration in India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Concern over proposed demolition of houses and shops along highways in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Mandatory and Timely Forwarding of MPs� Development Proposals by State Governments to the Centre",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Regarding High Diesel Prices Affecting Fishermen in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Safe Evacuation of Indian Students and Pilgrims from Iran",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand to Ensure Uninterrupted Supply of Fuel and LPG",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Text not available 67",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Strict Action Against Corruption in Skill Development Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Comprehensive Regulations to Protect Children from Social Media and Online Gaming Addiction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Urgent Measures to Address Shortage of Medical Staff.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Regulation of Online E-Commerce to Protect Small Traders.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Establishment of a Separate Ministry for OBC Welfare.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to issue pending Soil Health Cards to farmers in Bhandara district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Issue Regarding Acquisition of Fertile Agricultural Land for Industrial Projects in Gadchiroli",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need provide compensation as per new land acquisition policy to farmers whose land were acquired for establishment of power plant by Thermal Power Corporation Limited in Bhandara, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Urgent Request for Land Allotment and Rehabilitation of Families Displaced Due to Gosepur Dam and Flood Erosion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to establish a rail coach or rail component manufacturing unit in Bhandara district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Adequate Compensation to Farmers Affected by Unseasonal Rainfall in Bhandara�Gondia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to expedite commissioning of pending BSNL mobile Towers and BSNL 4G mobile services in a time bound manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for relief to farmers affected by heavy rains in Marathwada",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to recognize tribals as a separate religious category in government records",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for action against cough syrup mafia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to implement NRC and expel the Bangaadeshi intruders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding water and air pollution in Bhandara -Gondiya Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding recent ceasefire between India and Pakistan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for an enquiry on financial irregularities and lapses in contractual compliance of BSNL",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to establish infrastructure and institutions for technical training of aviation professionals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to implement PMAY scheme in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to return Sahara India's money to people as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for NRC in Jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding conservation of Wainganga river in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to impose ban on single use plastic in stringent manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Granting Shaheed Status and Bharat Ratna to Bhagat Singh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Rationalise Banking Charges and Ensure Customer-Friendly Practices",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent need for regulation of cryptocurrency and protection of investors in India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request regarding India's territorial integrity and foreign policy concerns involving China and trade tariffs",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Urgent Regulation and Oversight of Fraudulent Cooperative Financial Institutions in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Timely Salary Payment and Recognition of Agricultural Scientists at Krishi Vigyan Kendras (KVKs)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Introduction of a Universal Cancer Insurance Scheme to Ensure Equitable Access to Comprehensive Cancer Care",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Establish Reading Rooms and Libraries in Villages to Support Students and Competitive Exam Aspirants",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Withdraw RBI Directive on Gold Loan Renewal Process",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Inclusion of Bhoyar Pawar Community in the Central OBC List",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to govt. to take immediate action by introducing legislation or amendments to safeguard the rights of gig workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Address Increasing Racial Discrimination Against Indian Citizens Abroad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Concerns Over Delimitation and Infiltration: Protecting Tribal Rights in Jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Issuing Legal Licenses and Protecting the Rights of Cobblers (Gatai Kamgar) Under the Street Vendors Act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Action Against Chinese AI Technology DeepSeek for Denying Arunachal Pradesh as Part of India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Minimum Wages and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Increase Minimum Pension under EPS-95 Scheme and Provide Free Healthcare Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt take some steps to Protect Cattle and Prevent Road Accidents Caused by Stray Cows",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Establishing a Central University for Marathi Language Development and Research",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Reinstating Senior Citizens' Fare Discount on Trains for Medical, Family, and Other Travel Purposes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to the government restore pension for old artists",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding status of sovereign Gold Bond Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Atrocities on minorities in Bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding the issues of Prime Minister�s National Relief Fund",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding safety of personal data of students utilized for generation of APAAR ID and Digi-locker",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt take an effective steps for awareness, diagnosis, and treatment of cervical cancer among women and provide cervical cancer screening services at District Hospital, Primary Health Centers (PHCs), and Community Health Centers (CHCs)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt. provide financial assistance of 50,000 per hectare to the farmers affected by floods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 82
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 80
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dr-prashant-yadaorao-padole"
+  },
+  "qualification": "Doctorate",
+  "questions": 12,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SUNIL BABURAO MENDHE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": null,
+  "total_liabilities": null,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.56
+}

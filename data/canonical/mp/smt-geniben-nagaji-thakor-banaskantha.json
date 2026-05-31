@@ -1,0 +1,536 @@
+{
+  "accountability_score": 47,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3452273
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 100000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 835000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4387273,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 170000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1171691
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1370000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1435000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 4146692
+  },
+  "assets_earliest_year": 2022,
+  "assets_history": [
+    {
+      "label": "Gujarat 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ynXnXJ8jBeidfi5hmER8",
+      "total_assets": 6550147,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3453",
+      "total_assets": 8533965,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 30,
+  "assets_latest": 8533965,
+  "attendance_pct": 70,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "151, Thakor Vas, Abasana, Banaskantha Banaskantha Gujarat, 385320",
+    "emails": [
+      "geniben05@gmail.com",
+      "geniben.thakor@mpls.sansad.in"
+    ],
+    "phones": [
+      "9426595398"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Abetment of suicide",
+        "section": "306"
+      },
+      {
+        "count": 1,
+        "description": "Abettor present when offence is committed",
+        "section": "114"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CR.MA No 22922/2016",
+        "charges_framed": false,
+        "court": "Gujarat High Court",
+        "fir_no": "67/2016 Bhabhar Police Station",
+        "other_acts": null,
+        "sections": [
+          "306",
+          "506(2)",
+          "114"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "01/06/1975",
+  "eci_state": "Gujarat",
+  "email": "geniben05[at]gmail[dot]com,geniben[dot]thakor[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1494700,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Housewife And Social Activist And Member of Parliament Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.66 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 126616269,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 627886
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 627886
+  },
+  "margin_votes": 30406,
+  "minister": false,
+  "mp_name": "Smt. Geniben Nagaji Thakor",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 20383731,
+  "mplads_unspent": 126616269,
+  "mplads_utilisation_pct": 13.9,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 137,
+  "mpsno": 5744,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Outlook India",
+      "title": "Geniben Thakor: Breaking Ground As Gujarat’s Lone Congress MP",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWNFZGVOaXhyZGNBT2FQRmlZSDRaYVdaZzZYRk1pVFNmZUJFX180MjBQb0IxclFQNHVhVHBEVnF0V3RYSU9HdW5YSDFxVWtyUTU0NUJ1SnVtVUJJMXpKRlNLS0tZekVLdWd3VEowdnZvazlUekJ0Mld3cHhiZjdMQzMteXNWUFdralZhZnBHMzh4S1BxdjNySnhmWDRCZ9IBqwFBVV95cUxNVEtuVGVYTzkyemt6M1lRcjhRRDROZ1JRNmdhWmxrd1BxMkZuT2pYQTU3UVh3cUZ0S0RkZXdIR2RzYXozbjNQQlVCd294djBQcndMQjZkU0FYc2EyNkZPLVJQSXJUbkMzZTlMSm84SEQxSFNndHA0c2hUNlNrQm5iaWtYLUtyaHk5ODJUZEdKTUxGVHU2UTJ3UmFxb2h5cW0xQ2t6NzVYelFrZUk?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Banaskantha election results 2024 live updates: Congress' Geniben Nagaji Thakor wins, while BJP's Rekhabe",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQLXBGeEtwZVhub2JCdXRuOEhudF94NEd5UFRqUWpmSUtXVkNOVENDTXVqaGQ4cVg1NktvWkVHVVpUV1NHclJKMkRCc2wzeTdERkR3MEUyeWpMZm9qR1RfMk10TnN6Rzl5RkszTlBUbU5MYmUwNnNweWJiVUZPX3BFRTdBYVg0V0hRa3d6NGt5UlJWMmdsS2psSVlOd3pwczE5ZHBLc0RaUHh1OHlrYTVpZkNwM19UWlRzQms5RGNLUF8tWlNqS0lwdUVJRU9selp5WWtpcHpqOE5WT01xTUVTcXFOeUgzXzE5YnNOUEpTclJTd0dRU041QWVkV0Ewb1c1OGNzVW1MYy1fUkVhZkkya0VJZW5tQ1lYX0tYVmFfTDkzTFV1ODRoVVoxY3NramFVTS12N0ozLU9JQ3drd0ROOENUeElDS3lPVVVOYmhDVk1Ba2VMZFHSAdsCQVVfeXFMTTBISWJZN0ZHLUxfdXBFOU03R1ZZTHR3UktoVWpMUEFHSU9wakx0Y1hmZTFuWkNyQ2VIS0wwVTI0dW5pZzQ3WWVHYjZKLTBJcExkSnhnR1MwWEtCcmJhXzdYdlkyRDdvUS1jcWlzYnkzRHNjUURQbmFBSjFycGhrdXlRX1ZHVVN4cU5QQVBwUzZuM3lFbF9GU2RMVTV6bzgzUXFKdWVtUWUyWTdqLTNFOWlzcldZdEFuc2FTYS1uTFN2cFNDZ1ZTb1hkOUNZYXZYTE9HZHdjWmpwRDJlZ1NjbEFMY0tlNDJ3czZ4Q0hUeV9MT1luSHVMZmV6ajMteFJHanVDZHR3eUVNNnJDZXQwYzFvWEFnSTJxUVY3OWxQUHNqZjNwVXRvT2d2cVptME5jclZWMXFpUlpwNHduSDBvd3FIM2Rhckl2REQ5cG1hRzlHQnlYODR6VGFDSDQ?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "Geniben Thakor, Who Crowdfunded Her Campaign, Helps Congress Make Breakthrough in Gujarat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUk9QMG91R0RabmY1eW4tVzZzbWc3Vk5ZUkJaY29VUmw1RmJFOHhybW9TZkpvaERfdEpTWExWdHlBSmVvX1dDQ285ekpvM2VlRktIdm5MM3VFclZ5U1dHTjZ3d1ZkdU5meGNNcFF0RHR3MlJxZWxwcHNWcWkzSS1EMUJZT19XOXExcDhRWmg2ckZySG1ndlpPcXVqQTFlcTJpSjE3WWhDTHc0ZWdhZm1jTXVwSXpvMkY4bmFfS0Z5bkdubmR1cDUxYkd4MmNmd9IB0wFBVV95cUxOeFE5UFhsVDdaUkd1QjRTTmhQRGRkRVpoenRqLUs2RDU3T0l5cFRraGhWRllJU2JDZkkyMW9WTzliVlYxSjRfdmFjcGRCQ0RqQ3M3b3ktUU5KUncyM1A3cFdaWkowVnMyUXhFNkdnVjJYQjRCRlFKTWZ2RXVycU1ZQzFnRXNBa3F3UkhVUlZ5R2p5TDU0LWFUYmdDdWM2WGFPZVpnNzlHSjRmMVdIbmZ6LXNJaWpudTlwTGtXOWFwOXFLU0pMNm9VdGJ3eUpKWFhqNko0?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "BJP Secures 25 Seats in Gujarat Election Triumph, Congress Claims Banaskantha with Geniben Nagaji Thakor’s Victory | Akashvani News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnk1aHdjWXAxMlBJNlNiRlkzTGlrT3NycG1NcnNuU0FBNEREb0dxQXQ5di1NZ2Y0MVBBWnNiU0l6ZFZIUGVkZ3NSMFJTNzIwYmZTWF91cDR3RDFPaThxZ1ByODhHUGVkdXFrWklwUWN3Q1VDaFA4bGhPMmo3SlkxcHY0MkN6bzRNQWJGUTJxeGxWVTNPVEpyNA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mint",
+      "title": "Gujarat Results: ‘Satyamev Jayate,’ Congress's Geniben Thakor takes lead in Banaskantha after years of BJP dominance",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeG9UVjRzbmtMVElya0NMZHRzX19naFNocEhMbUstdnppVENwYTFpOThMWlJURExJY01JSFZsYUpVdndWM2dvV2N0aFl6WlpPSjZ6VjUtRVNmdFJMNS1VQ1hVWndBZkV3VXJoNXpfXzhVN1d5alpINFktWm9CS1N5eDdBaEhfajRjRi1uRmZRZHVJMFZVVjM4SXM5bXpMYWZpVFpuSy05Qm5MTmk0YkFsUXp6Tkl4RU54aGJIYmdCSUNWdncyek1YVmg4Ri0xRy1pWGlJYkE2YTc5N0ZEREFWTkNXNG9kT0xqYUhzMk9WczM5NmQyRUJvNlNLN05pQ2NQVklSVDVtc9IBjAJBVV95cUxNZEs1NTJLbFU4SGdrN05OMnBScHhqR19wQ3dsclBuWHlKSkloRlNGdTJaSUVoc2ltS0ltZnJ5ZldBTmNkeGNsdkhQNV91YVJRSUthSE16RmlYZXZDblFHdGJSTnBCYlB3QkxibWp1V0R2MjlucVZ6c0YwZUtzU1g1d0JTdHRIQ3N6cC1ickRJaGNJTnFTV2d2aTNqTUlEYk43SEVIQmw1aUkzNzAxXzFYajBmMm1hSzF6SXl0bF93a2UxMjNJX1RsbE9uZUtNVUozem4tbnZvaGJfbzdXdjNHRkdqNDk5Zm96V1FrbmJoc1NZZWg5U0tzZU9NUmViaGNLQTdHZlBPUmZPZmgt?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 22167,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "gujarat-2",
+  "pc_name": "Banaskantha",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180116.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Early Settlement and Refund of Hard-Earned Savings of Sahara and Plus Investors",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding construction of overbridge/underpass from Aroma circle to Bihari Bagh Parpada road on NH-27 passing through Palanpur city in Banaskantha district, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to ensure refund of money to people who invested and duped by various Chit fund companies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Demand to Address Severe Urea Shortage and Black Marketing Affecting Farmers in Gujarat",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to run Bhuj-Bandra Terminus weekly SF Express (train no. 12960 and 12966) on daily basis",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to provide compensation to farmers who lost their crops due to heavy rains in Banaskantha district, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to ensure adequate supply of Urea to farmers in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Compensation and Support for Victims of the Fire Tragedy in Firecracker Warehouse in Disa, Banaskantha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding construction of roads under Pradhan Mantri Gram Sadak Yojna in Banaskantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding construction of village roads under Pradhan Mantri Gram Sadak Yojna in Banaskantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to provide adequate irrigation facilities in Banaskantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to release funds under Border Area Development Programme in Banaskantha Parliamentary constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to minister increase the minimum wages of anganwadi workers from 4500 to 11,000",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister to take strict steps to stop increasing of chandipura virus rapidly in Gujarat",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 28
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 104
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/geniben-nagaji-thakor"
+  },
+  "qualification": "",
+  "questions": 38,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 2,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 1,
+    "Development Of North Eastern Region": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 3,
+    "Rural Development": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. REKHABEN HITESHBHAI CHAUDHARI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 6,
+    "legislative": 68,
+    "mplads": 30,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 8533965,
+  "total_liabilities": 627886,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.83
+}

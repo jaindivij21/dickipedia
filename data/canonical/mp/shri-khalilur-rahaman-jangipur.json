@@ -1,0 +1,470 @@
+{
+  "accountability_score": 49,
+  "age": 66,
+  "assets_2019": 368306705,
+  "assets_2024": 514346283,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 45678100
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 161056800
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 129822400
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 63175226
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 401467626,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1208532
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 30970180
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 6250769
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 29545303
+      },
+      {
+        "category": "Reliance Life Insurance 6,15,281 6 Lacs+ Aditya Birla Sun Life Insurance 1,02,53",
+        "value": 3694574
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 34460185
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4376190
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1990177
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 348645
+      }
+    ],
+    "movable_total": 112878657
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=fPNeFbhdYMDZNsrBtM8",
+      "total_assets": 368306705,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3378",
+      "total_assets": 514346283,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 40,
+  "assets_latest": 514346283,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Khalilur Rahaman is an Indian politician and managing director of Nur Bidi Works Pvt. Ltd. and leader of Trinamool Congress.",
+    "title": "Khalilur Rahaman",
+    "url": "https://en.wikipedia.org/wiki/Khalilur_Rahaman"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill. & P.O. Dakbangla P.O- Ratanpur Murshidabad West Bengal, 742202",
+    "emails": [
+      "khalilurrahamannbw@gmail.com",
+      "khalilur.rahaman@mpls.sansad.in"
+    ],
+    "phones": [
+      "9434065101",
+      "1123311497",
+      "9614594368"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "01/09/1960",
+  "eci_state": "West Bengal",
+  "email": "khalilurrahamannbw[at]gmail[dot]com\r\nkhalilur[dot]rahaman[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 18116656,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 39952600,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 14947160,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 11747290,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 10658620,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1488012,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1929387,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1482250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1547361,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1078380,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Honorarium as Member of perliament and Salary as a Director, House rent , Interest & Dividend"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary as an employee, House rent , Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.63 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 126256008,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9570794
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 9570794
+  },
+  "margin_votes": 116637,
+  "minister": false,
+  "mp_name": "Shri Khalilur Rahaman",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 20743992,
+  "mplads_unspent": 126256008,
+  "mplads_utilisation_pct": 14.1,
+  "mplads_works_completed": 25,
+  "mplads_works_recommended": 107,
+  "mpsno": 5046,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-10-16T15:06:06.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Khalilur Rahaman raised during Zero Hour the issue of the need for the construction of a flyover on NH34 in Murshidabad district to benefit both local people and business travel",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOX1VjcjVtUmt3Y0FWV3dTQWU5REN4UzVyRFhadG9NclY4emhDOFAwS2pOcVk0Wk9oV0Y1UnBqdl9OY1BERklUU1d6dWtmcmpjSjNncHE5N0I3emFEdU5FSlJlQkVsVmtCOWl2dU1SRlY2dV9sb3ZSRzVOb05RQ1ZrNmhVZjhQMjl0VlE1V3BpWjRxczNzU0tXaE5aWGJ1Qkx1X3VYY29XOVNJb2xZbTREQW0yT3FEdDJiWUZuQndPdzhqdzJlLUExWDVsOUlFRy03NFVmazFXUGRrczVmZTUxcjBVSVZrbk1HQVAxWTY2b3NhckZhMVVwc29hT3RFM2Z2WmZVSFZqZXZMOUdQRFBBVlRBOTVzeTBOTTN4ZUdaV3lzRkhiZlFlME9FYw?oc=5"
+    },
+    {
+      "date": "2025-10-01T07:58:19.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Khalilur Rahaman speaks on plight of biri workers in Murshidabad",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWV6N29LZG5xNkNEcFE5WmtxM3R2ZUJMdUV0R1c0YU5ZTzBLdXp6aXFpdUg4WnNobnJMM1lCNi1iaFM5NXV5NlJEYThfNFZRSjVoLUhabHpFS2J6QmRxMnptaTJkTV92YTg2NmxxSVV4N1dQS0xFRXJwdGswUWYzNkNZbjZ3MEx0UHBSZG1ocjV1Y21a?oc=5"
+    },
+    {
+      "date": "2025-09-18T00:48:31.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Khalilur Rahaman speaks on the need for health facilities for labourers in his constituency",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkdxbFhGV202NF9uMWFnT0JzbWtqSzR4ZlVqd2lsLUVieHp6T2dSMGhfa3JacDgwTnJLUFQzV0FCY1ZYMHZYRkpGWmZaajU2dHlHMU5CM0VOek9CbXhodlVWTkdLcGZrZ1hZd3EyMkhYT3NHSFMtcFU2aHNSR1RCOHN0dXpJaFVKa3hNVzhSYTJ4LTgzTEtQRGhkQWpEMGZSQTdKVmZQUmlRZ3l6RXNCckxFTjZkdy1F?oc=5"
+    },
+    {
+      "date": "2025-04-13T08:12:13.000Z",
+      "flagged": false,
+      "publisher": "First India",
+      "title": "\"Murshidabad violence unfortunate, let's stay united like brothers\": Trinamool MP Khalilur Rahaman",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcURHUXhsOUh0bzFkYTBJMVNxYUg3N29NNkVRdnhYcFZBOHAtSHUtQlF2Wm9sNXR4UE0zZEtlTEpjNnlqM3NtNTFPcmlmblQ0djJrMm55OXdhcU1YYzVFVmM0Mlcwd3AzM1FKZm9peGdxMzkzUjNYNVlLbUNIME9RYXMwNWdidURtNEgxQy1Bd3g1R2VFU29lRElRallTMDdoR2gyWk5EdWlJRDE3cHhtVDRTeU9lalExYmYwVm1saWRyRFh2cW5RMA?oc=5"
+    },
+    {
+      "date": "2025-01-20T20:55:36.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Khalilur Rahaman , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeF9TQ1B5V3lFZjA3UmcxRXJXS0wwWmJFZDVybmpfbkplMXg3V2g5UUNJTjVQaEdBWEx4bzVpUlFQVU9NeUpqcEl6d29DVVdzNm5jT0YyZFBtUEZtQUhNR3N3MHJzT1hRS1RqS1haeVQzUWpTSWhobkNlSzNSWTJEamZxWmZVak1l?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 17158,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-9",
+  "pc_name": "Jangipur",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23311497, 09614594368 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180522.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 70
+    },
+    "debate_titles": [
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need for establishment of modern hospital for beedi workers in Jangipur and Murshidabad in West Bengal along with budgetary allocation for Beedi Workers Welfare Fund",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Establishment of a Fully Functional ESIC Hospital in Jangipur and Recognition of Healthcare as a Constitutional Right",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding alleged incidents of harassment meted out to civilians by BSF jawans in Shasthitala village of Mithipur Panchayat, Murshidabad, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding problems faced by Bengali � speaking migrant workers in various states",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding erosion caused by Ganga River in Murshidabad, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Expansion of Courses and Release of Funds for Aligarh Muslim University Murshidabad Centre",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding problems being faced by people due to rise in prices of essential commodities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding introduction of various graduate/post graduate courses and Professional Skill Development Programmes in Aligarh Muslim University at Murshidabad centre in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding shifting of EPFO office to Jangipur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding need to increase number of courses being taught at AMU Murshidabad Branch in Jangipur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand to govt. start the fertilizer corporation of india in haldia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding soil erosion caused by Ganga River",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 66
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/khalilur-rahaman"
+  },
+  "qualification": "Graduate",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Civil Aviation": 2,
+    "Communication": 2,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 2,
+    "Finance": 2,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 2,
+    "Jal Shakti": 4,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Minority Affairs": 1,
+    "Railways": 2,
+    "Rural Development": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MURTOJA HOSSAIN BOKUL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 32,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 514346283,
+  "total_liabilities": 9570794,
+  "wealth_pct_increase": 40,
+  "winner_vote_share": 39.75
+}

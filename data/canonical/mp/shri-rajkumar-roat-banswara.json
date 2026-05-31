@@ -1,0 +1,730 @@
+{
+  "accountability_score": 40,
+  "age": 34,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 490000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3795000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 8765000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 370000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 263754
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 115180
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1669745
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 548000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2966679
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Rajasthan 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=F4RkLMMkVrgsj4yHrReL",
+      "total_assets": 122000,
+      "year": 2018
+    },
+    {
+      "label": "Rajasthan 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=F4RkLMMkVrgsj4yHrReL",
+      "total_assets": 11762639,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1771",
+      "total_assets": 11731679,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 9516,
+  "assets_latest": 11731679,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Mu. - Kharwar khuniya, Post- Paal Sansarpur, Tehsil- Jhonthri, District- Dungarpur, Rajasthan, 314404",
+    "emails": [
+      "roatrajkumar25@gmail.com",
+      "roat.rajkumar@mpls.sansad.in"
+    ],
+    "phones": [
+      "9001289495"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/official.roat.mla/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/roat_mla?lang=en"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/roat.mla/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "155/2022 dt. 14.04.2022, Police Station Kotwali, Dist. Dungarpur",
+        "other_acts": "Section 241, 243 Municipal Act 2009",
+        "sections": [
+          "143",
+          "149",
+          "188",
+          "353"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 14,
+  "dob": "26/06/1992",
+  "eci_state": "Rajasthan",
+  "email": "roatrajkumar25[at]gmail[dot]com,roat[dot]rajkumar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 430660,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 426660,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 478220,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 293390,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 244800,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 460500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 383750,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 156930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 99310,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MLA Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Govt. Job (Teacher)"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.2 L (2018) to ₹1.17 Cr (2024).",
+      "headline": "Declared assets grew 9,516% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 122000,
+        "from_year": 2018,
+        "pct": 9516,
+        "to": 11731679,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹1.16 Cr between affidavits, while declared income across 5 ITR years totalled ₹18.7 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 11609679,
+        "declared_income": 1873730,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 39% of MPLADS local-area funds were spent — ₹8.93 Cr unspent.",
+      "headline": "61% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 89253561,
+        "utilisation_pct": 39
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2971833
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2971833
+  },
+  "margin_votes": 247054,
+  "minister": false,
+  "mp_name": "Shri Rajkumar Roat",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 57746439,
+  "mplads_unspent": 89253561,
+  "mplads_utilisation_pct": 39.3,
+  "mplads_works_completed": 16,
+  "mplads_works_recommended": 88,
+  "mpsno": 5764,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-12-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "BAP MLA threatens BJP MP in public meeting: Challenges him to fight outside; MPs Rajkumar Roat and Mannalal...",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeWpQdGJ2Y0hhZk5QYm96N2U2ZmlCbm50Q1BXS2hsWnhqLXRPaVdESG05OEFQMmp1Umc4cDBWNDBEQnBqSWZnZVpONHkxdXR6Rnh0LVRGbWxhMTJxTXZXSlBkaHdXLVFjNFNTNzROZWxGWkVUQ2R2MG1TSU9PRVRCdXlSeGk1VGpSelp4bFMtX19leWpacVV1VGxjbDhsY2RsbjN2TmRoSkhCb3htZ21qc3R3VDhUaTBCZXJTV3hVM0o5NWdxSHc2WHB5NS1BTTBhcUdLeE5CU2ZHWWpqRVMwLdIB5gFBVV95cUxPVVBoRGRtODZGVk45ajlQdnpyRldMZzVnVVdMNVg0SGU4c21XcFVjNE4tWElCM0g3YTcwN3VpUmJEaTQzaWhSdkxEYVQ1c3k0amEzbklkZXRCRXBPWC16akNuWGZ6UTlnSTN0cDRrbG50S3JWaE1QSDhWRkJJV0tRb3pBM2JwekVlUG42dzNsVExwa0JvaXR2aVdlbjZZb3A1R2ZWTGxDVVl6NThhYmQ0Vl9vSFkwSTRMQ2VpcFduNzhPdVQ3V3dnVDJDVWYzdXlWaF9Mdm1nbjRHT2lGSjdQR2h1R2wxZw?oc=5"
+    },
+    {
+      "date": "2025-09-13T11:25:29.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Rajkumar Roat accused of opposing Bhil reservation: BJP MP Manna Lal Rawat alleges he stood with Owaisi and...",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVmlIclphUmRHVmVFc3I1amg3eHpPS0JNNkJITmR4TmQ0eW1KaXRHWndIRnU1ZDdndXlrRjR1dzZNeE12N2dRMm9paFRJT3IwMGktOHktcGR0Mm1XTEdxbXdIR2wxVnYxRDlvVHJBSHNYbXJuY3RrVFRvTjZjTnY0RDE2eGhEZHU0bE1GWmlLSFkxSGVLMXJDUk8zbFlaQk9NZ2Y5R055UWxhSmUyUVRGVkl4VmFnRnhBeVZnVU8xT3d3RFNFajVwSzVPSV82UmJuUTNlTkJlTTRYenl6MXNDMFlrNlJZVmEyLVQ1dXVKbERHNnplNmxaYWk0QjJuOVRfenZ6cEhnMFpGdVlCS29rNHlydEhzUkc3akNEVVQyZTJLSEJob1c0aDlzRHhLcElHLXRvZnAwZmFSdlpoSkN2RlREVDZkZTdZZkHSAc8CQVVfeXFMUDg3WmwzSFF0b01kb3hHVjNXMHNaYzJzR1FqM09kUzlzUWN6ZE1rdXByS3o3RERNRGszalFja1BGblF2TXVfZWJtZERMc3hDVFBpaG5HbUNKVzlDQWczdTJuUEVRNGVlNTItTWZ5YkRvcldKdllxa2JGS1JBSHQxal82UXRYYTd4Ykc4cjR2NnJjTU5YZGlHc3VuZ2hDRnp3dHZ1Z0hXWURGcEJhOXRyZ09KMkdkRUF1TC1zMC1IdVRCV092dktzanFObHBRS2dleEQ2MFphb0hxVXNWcjZSRG92bGxUV2YzcUdoTlhoTk92R0xXc0x3NWJzM21JQmQ4c3psaThCb0t5SUhDM2ZSenY2a0FEQ2YzWFNNQ0JsaHdUc2w1aTJpcHVDdlhBdG0xSklBdzhNdktsYXNpRzA0MDVWTng4ay1GaFY2bUkwWUE?oc=5"
+    },
+    {
+      "date": "2025-08-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Mooknayak English",
+      "title": "Caste Violence: Assailants Roam Free 10 Days After Brutal Assault on Dalit Priest in Bhilwara, MP Roat Warns of Mahapadav",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUzZYR3ZkVkdnOHByc1M2R3VXZkxtUlQ0MVZNOTZNc19uS3BQU0JlSk5iY3lrZGE5UVdYNzg1QmphUDFleHJScXpySVJLcEFVS2dmQV85T1Q1OFZzUklvOUVycHp4RGs4ZHBXRkpFbXR5MkZJWVpNLW5KVzdQa2hQcEJjX0liRnlESV92bzNjaE5hRVdsMkZ3cVM2WmlYZExqS2lhTTJHaTFGSUpQczB6TEtsUkRwLXZKYnZIbDJjbEYwcUc0LV9QVTFLYzg5dktndlFxQzd3YU05aVRJalVrNFhsMXFOeThOMzZGSnFONNIB_AFBVV95cUxQNWItVmMyVmhlalFFS0xWd2FkdkxsVzhpbDR0dXJnS1VLTTJYcFVScmdZSUZ1YW43ZHpTajN1emVMVkM2cm1LX1AyN1lhdXRMZ3p6YXdtUm1mYWdvMnIxMnNCRVplVjB3Z3dmeVM1UWcxSmdxYVBHaWxTTENRZWZXY3V5TW9yQVpUSjRHaHU1VmlEODk4V3daS3VVTmRVYW81MGhoeEg4UDFacUdXc05pR0VQX0ZVVmJSOER0ZUhtRWp5ZFl5SFZwLUx3SEtsTDBPWFdOWTVPT1ZfQXV4YTJTX2EyWXVMdnY4WHdRd2UwWDAxMGNHNWR2UWhaZGc?oc=5"
+    },
+    {
+      "date": "2025-07-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "MP Roat’s demand for Bhil Pradesh reignites tribal assertion, triggers constitutional debate in Rajasthan",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTjg1T2xvTFpRczhTNTdPeUZ1WnlOblBlNDdNVV9jMnR3a3ctS3I0V0lzNUZCVHBwVUtOX0E3UXJJdXpUbXF5MGdNME5uSVRXeThRWU1xTWZDb0hyNE9qZGc0bkVqY1dYeGJHeHpUd0JnRVZCVndYT0NKNFpEOTl6Wi0tOTJULUk4Tjd4aXNnd1NXY3JBdTc5TU56cmVqZkNmRnU1T1h6dmlnSWNiclRhVkYxRGJtakxZblZtSW1XNzdoVjNqelpLeHY1bHF0Z0dUcE1VenZ6dm9vQkhEWWg0Vk1yamZkb0t6TUHSAfcBQVVfeXFMUEttaHZWTTJsSEZhSWV5QS1WcVVWRlZuZ3VJNDRSaGxfTlFFYUpMeWlZNGtIV3J5aGRxU0VsNFc2MmN4MDkxTUR2N3hHSFlLY1dQUVFFd3VSMXhpN2oxX0J0ZndWMkxaUG8zVHVzX2k0cURXN2xjOUpLcG5ySmJteEp1RlVLZkpKZ3h1bldKNE44LVE4UjUzYUxKRlFkZm5IQXlHTmJPMExrOFA2aldOWXBrcFcyQ29aZktvTG1SckFoQVVvOVFndFpXX0JGcHFfLThuczZwZEZFVGhfVE5Sbnp1azg5M3RsRjVsb2F0ZTk5Yy1wZnJ1SQ?oc=5"
+    },
+    {
+      "date": "2025-07-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Mooknayak English",
+      "title": "Rajasthan's Bhil Pradesh Controversy: Ex BJP Min Rathore Slams Banswara MP Roat’s Statehood Map",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdUFVMzhmVk10MGtJbXktOF81d3g1RlhjMzR0TE44cTZhYnB1RnZyTXkxX054UTJIMUZhVkhaQi1ENEVJV0QtdnA5dms5c3R5MTdGS0FlbUhFZzNUN0IwX2ZLWEtHSHlPNmxvbHRvTjFFU2pUUDh3ZlNnaVlvNElkdUx6amVfLUFYZlZ0QVhTaUVWZjk4aFZiVXpKZi1rRkdGUEV3T2lvdVBuOUVGWTdibkRKXzlmVTFlMTdYeDQ5NE13TzNQSF9ITG5rTGnSAdoBQVVfeXFMTWhKb2hsT2Q3UTBEWXpoSlBfdE9zY1MyZ1dtSVBXU2phcTlRSW96SE5KXzIyME53RzdFV3dTNmdNd0Y2X203MXZlWjBXZjcwOXZERXpiYnZraUlCWGVjY05DSWFwMmFoaWtmOUY1OHN0eE9sLWQyeDlWYWY1RlF4X1ZtZ1RSc2lFQk91U1UxOVpRT05oWXlTeWNoZEVlVE5oTGhIV2U1cjVOUHpuelI0NHhZUlBrZmRMU2xiX0ZPRGFMMkZMd21Ud2haclVpMnRDMHpUV3Jvb2xrRGc?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 20970,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BHARAT ADIVASI PARTY",
+  "party_bond_total": null,
+  "party_full": "Bharat Adivasi Party",
+  "pc_id": "rajasthan-20",
+  "pc_name": "BANSWARA",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180354.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to enact 'The Provisions of the Municipalities (Extension to the Scheduled Aras) Bill, 2001",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Release of Budget for Employment Guarantee Scheme in Baswara and Dungarpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Protect Constitutional Rights of Tribal Communities under the Fifth Schedule",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding mass displacement of Adivasi people from tiger reserves in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need for improvement in National Overseas Scholarship Scheme for the students of Scheduled Tribes Community",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand that tribal families be given ownership rights over their lands",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding creation of �Bheel Pradesh�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Restoration of Budget and Timely Disbursement of Scholarships for SC, ST, and Minority Students",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding CBI Inquiry into fake encounters in naxal-affected areas",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to ensure enforcement of Panchayats Extension of Scheduled Areas (PESA) Act, 1996 by State Governments",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Address Payment Delays and Cultural Concerns in MGNREGA Implementation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Central Government Intervention to Ensure Water Supply and Rehabilitation for Displaced Families of Mahi and Kadana Dam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding creation of 'Bheel Pradesh'",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urge upon to govt to enhance the infrastructure and resources in medical colleges, address the deficiencies in public healthcare systems to ensure better service delivery and maintain a balance between privatization and the strengthening of government medical institutions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt to ensure implementation of provisions under the fifth schedule and PESA Act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt stop the mahi banswara atomic power plant project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to take cognizance from central govt and stop the formation of municipal corporation through unconstitutional legislation in the scheduled area",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding need to discontinue the Banswara Nuclear Power Plant in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Request to govt the tribals should be prevented from being displaced in Banswara",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding Expeditious completion of construction of Dugarpur Medical College",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 48
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 123
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/raj-kumar-roat"
+  },
+  "qualification": "Post Graduate",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 2,
+    "Commerce And Industry": 1,
+    "Communication": 2,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 4,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Prime Minister": 2,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 2,
+    "Textiles": 1,
+    "Tribal Affairs": 4,
+    "Women And Child Development": 5
+  },
+  "reservation": "ST",
+  "runner_up_name": "MAHENDRAJEETSINGH MALVIYA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 71,
+    "criminal_deduction": 1,
+    "legislative": 79,
+    "mplads": 59,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 11731679,
+  "total_liabilities": 2971833,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.15
+}

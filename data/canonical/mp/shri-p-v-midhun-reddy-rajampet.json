@@ -1,0 +1,552 @@
+{
+  "accountability_score": 46,
+  "age": 49,
+  "assets_2019": 665085701,
+  "assets_2024": 1468501685,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 151040000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 300000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 542000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 993040000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2554135
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3342600
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 141188239
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 318500957
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4829450
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 5046304
+      }
+    ],
+    "movable_total": 475461685
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BvUvinVmaSaVzNrCvBBZ",
+      "total_assets": 225984036,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BvUvinVmaSaVzNrCvBBZ",
+      "total_assets": 665085701,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5123",
+      "total_assets": 1468501685,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 550,
+  "assets_latest": 1468501685,
+  "attendance_pct": 45,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Peddireddy Venkata Midhun Reddy, commonly known as P. V. Midhun Reddy, is an Indian politician who is the current Member of Parliament in the 16th Lok Sabha and 17th Lok Sabha from Rajampet constituency. He acts as the panel speaker of Lok Sabha representing the YSR Congress Party and Lok Sabha floor leader.",
+    "title": "P. V. Midhun Reddy",
+    "url": "https://en.wikipedia.org/wiki/P._V._Midhun_Reddy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "335 Church Road, Maruthi Nagar Tirupati Andhra Pradesh, 517502",
+    "emails": [
+      "midhun.reddy@mpls.sansad.in",
+      "pvmr@plrprojects.com"
+    ],
+    "phones": [
+      "8772240088",
+      "9491045445",
+      "9959504444"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/PeddireddyMithunReddy/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://www.MithunReddyYSRC"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.peddireddy_midhunreddyofficial"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "29/08/1977",
+  "eci_state": "Andhra Pradesh",
+  "email": "midhun[dot]reddy[at]mpls[dot]sansad[dot]in,pvmr[at]plrprojects[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 7020130,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3847900,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3525470,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3525513,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3949501,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 11018495,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 8266816,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7672968,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 10334092,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6967412,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary from MP(GOI) ,Rental Income ,Bank Intrest & Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business , Income Bank Intrest & Agriculture Income"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹124 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.19 Cr.",
+      "headline": "Declared assets rose 57× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 1242517649,
+        "declared_income": 21868514,
+        "itr_years": 5,
+        "ratio": 57
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹22.60 Cr (2014) to ₹147 Cr (2024).",
+      "headline": "Declared assets grew 550% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 225984036,
+        "from_year": 2014,
+        "pct": 550,
+        "to": 1468501685,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 23% of MPLADS local-area funds were spent — ₹13.70 Cr unspent.",
+      "headline": "77% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 137041535,
+        "utilisation_pct": 23
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 45% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 6% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 45,
+        "percentile": 6
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 557926669
+      },
+      {
+        "category": "Nil",
+        "value": 2992300
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 560918969
+  },
+  "margin_votes": 76071,
+  "minister": false,
+  "mp_name": "Shri P V Midhun Reddy",
+  "mplads_allocated": 178951477,
+  "mplads_expenditure": 41909942,
+  "mplads_unspent": 137041535,
+  "mplads_utilisation_pct": 23.4,
+  "mplads_works_completed": 68,
+  "mplads_works_recommended": 384,
+  "mpsno": 4688,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Midhun Reddy records third-highest asset growth in a decade among re-elected MPs",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY0NXZ1V4WHZraGtUNFVqRHNldUtrRTRsM19ycG9MbzFKVlViQjBLbEE1dm9pZVRnT1EwY2FWeDBmQ3lJTkc1YnM1dW9Xd2dva2VneGZBYUVvN1dfdXZKXzNvNzNqdTc1U0V4X3A0LWQ5VmxNUC1WZEVlVkl5Umg1WUZJb2dTdkhkUzhnVk80ODZtNUMtS3ZSNlREMy10Z2NBQVEyOEl0c196d2dZVUJiZ20wM21BcjBYRFZWR0xzQU9VaE9PdFUtdExvWF9lZEpjbUJaQ0F1Y0VPWDJ0eHhMV0VuaDVHaTVYZGtIVzFQd9IB9AFBVV95cUxQNEJQVTRZY0lRR2VqSVJxeDZCVjJKbjhvbmNOVGZaSVVJSlNZVmZ3WnpUXzZhMWwydUFnX3ZYbzJrMnNXaGtnWHpPa2dtSmpWXzdaX21fcFpxQ09qY3NMZmIxZEJaNnVIR0FZdWZXTTFfOTgtd21fRGZYRi1KZ01zUzgycnpQYkFzUW9yYXJqb0NzVGtGMjN2QjJncWFtN19EcHlwSEw1aUp2LVJqVkdtZHJDTkRSeWhnbUhINUxVSW5Vaks0ZW1GSmJDOHJoZlJuMG02MG1VYmNHcHI0S1lxNHBGbjN0YkZ3R0R0N3VfMnc1S1JM?oc=5"
+    },
+    {
+      "date": "2026-01-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "‘Re-elected MPs’ wealth up 500%’: YSRCP MP Midhun Reddy’s assets rose by Rs 124.26 crore, says ADR analysis",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEJUSDRuOTZ2YTFibFZ4QmhiVVp4bzRUUFAzM09JaGhRYTI3QUNiSXdLTWFXTmpjMmllRTd2QlFfYU40OUFRbVV0NmtSRGlXY2NQa1MxSVJ4eHhxSG5JT1ZhbWlhbEdONjhDUE5RY2xNRDVHUDhIejJvZ0M2MEJJMUJzd3kxLUotc2EzR08wQXF4ak5fcEJLdnlPc2dXSHdmaDRqeGo0SnBDTGRrV2drTlhOZ21IUWlmcmRxYi1KSDVoREl0MXAwN3MtUGhfeE5iLS1RTzd3?oc=5"
+    },
+    {
+      "date": "2025-10-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "YSRCP MP Midhun Reddy seeks CBI probe into spurious liquor racket in AP",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVnZNVjNvVzljcVVEcHVCT2VmTDFJNzJqLUNMNVYwRjBTZmY4VXFBRjQ2dHJnZ01TV3U4c3IyYkJudFhKVWI1dG9lbkcwLW5nTXRMd01ucFlUSldSazlyYTlNdjBKTlZyRUZEc091ZUdVVkJqblFnWS13dnhuT2FMaHQtOTNSSE5jSEZWX0FyalNYWWlkZzVfcFFObHRHM1cyUW1TenpQQm84UEZTeWhoSDE5RlVyaTlfcmg3czduN0ZBLXJFUEpISUpPczM5eVRj?oc=5"
+    },
+    {
+      "date": "2025-10-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "I Was Treated Like A Terrorist In Jail, Says Midhun Reddy",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFp6VGdWYjBoNkQzZjBiS2dvTWd2eU5XaEE1ZDQ2X21PbUNUSlFYSFFMM0NFdkJwSVNMMFNGRm5oNFBmenZwNlJpUERrT2g2WnVhVkVFQXMzaVVabU5wRlp4bWw1eURJZzJ6RXZJUlJ1eWZJMEtPTHJ5cGF0TGRGTlFrVnpEMnYxLVJxVHNCZHp3N1NLbkRjU3lid3hoR1R0bmRJSEtMR1l6T2xYdWY0dTBFX3FrVjc0WVFRenBLcXpaSVN3MEHSAcsBQVVfeXFMTW9oVHNNc21UeDR0SGxBajQzelJBejM4ZkdoSUxhTzNDQ2RvM0swUXd5TVpYVDVGc09DYUFGU1RYa1hkUWxfVzdJWHd6enBzd3BvVkx6NjFkMlo4dzBMdFpvWWlPNm4yTGU1ZEVESmdJQ2dLY2h2aGIybzNYcDAxWDhVb1hCeWNyd3FUanlYOG5vcEZpbEF1bkVQNlZVVjlHTWdkWWthMVN0STJMUk9KWndsRVNtUWlZOEoyWUQzV0VGMGtaYmJYdkRuZDQ?oc=5"
+    },
+    {
+      "date": "2025-09-29T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "Telangana Today",
+      "title": "YSRCP MP Midhun Reddy gets bail in Rs 3,200-crore Andhra liquor scam case",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWRZaU5wQzdmTHlqQi11WmpYTTFyaExJaGtza21TX2pIaFVGa2xCbWoxV2YyWW42OUxhRFhHX3NyQ0l3cWxKQzktVld2MFVFZ01jc1FXdUpkWXRVb1JJUUl5TkdfbmpiRFUwbThRbHB4UTAyU0RreXFDMTllUThlMkc1Tm9MQWR1bjBfNnBTR2stRmYwRXlKcnNRSUsxS2tU?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11400,
+  "notable_record": null,
+  "num_candidates": 18,
+  "party": "YSRCP",
+  "party_bond_total": null,
+  "party_full": "Yuvajana Sramika Rythu Congress Party",
+  "pc_id": "andhra-pradesh-24",
+  "pc_name": "Rajampet",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180020.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Engineer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 59
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding reported fall in rural employment generation in Andhra Pradesh under MGNREGS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Immediate Government Intervention to Support Distressed Banana Farmers in Andhra Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to reinstate English medium education system and CBSE curriculum in Andhra Pradesh Government Schools",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 129
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/p-v-midhun-reddy"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 44,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Chemicals And Fertilizers": 5,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Earth Sciences": 2,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 4,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Prime Minister": 1,
+    "Road Transport And Highways": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NALLARI KIRAN KUMAR REDDY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 0,
+    "legislative": 51,
+    "mplads": 40,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 4
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 1468501685,
+  "total_liabilities": 560918969,
+  "wealth_pct_increase": 121,
+  "winner_vote_share": 48.38
+}

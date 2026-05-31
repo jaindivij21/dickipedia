@@ -1,0 +1,485 @@
+{
+  "accountability_score": 66,
+  "age": 75,
+  "assets_2019": 51492709,
+  "assets_2024": 73684617,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14730580
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 18750000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 33480580,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 120000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 32404570
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 651966
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7007500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 20000
+      }
+    ],
+    "movable_total": 40204036
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bNkUhxWTze9xaFraVoY",
+      "total_assets": 14902703,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bNkUhxWTze9xaFraVoY",
+      "total_assets": 29240729,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bNkUhxWTze9xaFraVoY",
+      "total_assets": 51492709,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7169",
+      "total_assets": 73684617,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 394,
+  "assets_latest": 73684617,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sidharth Nath Singh is an Indian politician and the former Cabinet Minister in the Government of Uttar Pradesh. He is one of the official spokespersons of the Bharatiya Janata Party. He is a grandson of former Prime Minister of India Lal Bahadur Shastri. Suman Shastri (1936-2002), his mother, was the daughter of Lal Bahadur Shastri. He is BJP state in-charge of Andhra Pradesh and co-in-charge of West Bengal. He is also serving as a Bharatiya Janata Party National Secretary.",
+    "title": "Sidharth Nath Singh",
+    "url": "https://en.wikipedia.org/wiki/Sidharth_Nath_Singh"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "3/206 Vipul Khand, Gomati Nagar Lucknow Uttar Pradesh, 226010",
+    "emails": [
+      "17akbarroad@gmail.com",
+      "rajnath@mpls.sansad.in"
+    ],
+    "phones": [
+      "5222394745",
+      "1123018285",
+      "1123014184",
+      "1123015403"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/RAJNATHSINGHBJP"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@RAJNATHSINGH"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "10/07/1951",
+  "eci_state": "Uttar Pradesh",
+  "email": "17akbarroad[at]gmail[dot]com,rajnath[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2528887,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2236939,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1811280,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2039882,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1776660,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Minister Salary, Agriculture, Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "House wife"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.49 Cr (2009) to ₹7.37 Cr (2024).",
+      "headline": "Declared assets grew 394% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 14902703,
+        "from_year": 2009,
+        "pct": 394,
+        "to": 73684617,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹5.88 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.04 Cr.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 58781914,
+        "declared_income": 10393648,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.84 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108352323,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 135159,
+  "minister": true,
+  "mp_name": "Shri Rajnath Singh",
+  "mplads_allocated": 154808797,
+  "mplads_expenditure": 46456474,
+  "mplads_unspent": 108352323,
+  "mplads_utilisation_pct": 30,
+  "mplads_works_completed": 28,
+  "mplads_works_recommended": 102,
+  "mpsno": 4268,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-31T11:43:38.000Z",
+      "flagged": false,
+      "publisher": "tennews.in",
+      "title": "India Expo Centre & Mart Leadership Meets Defence Minister Rajnath Singh",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNERha1ptZVNMMmlwbVp0aVdTTVNtRjlNU0dKc2RVTFBnTTBzWkNTdF9QSXM5NlZGMlBxX2V5aGJUd2pSa1F4cVczNFhkM1NPellJNHFFXzFiamV1S0dDQ3JybVh5Z005NWtHZnlPQm8wLVhLQUZOU0NIWW1xbXAtVElnZDJDXzhZcFlJbFdPaE83X1oy?oc=5"
+    },
+    {
+      "date": "2026-05-31T01:22:11.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "Lucknow becoming symbol of patriotism, military pride: Rajnath Singh | Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHhqdFZzbzdfSFJMcUlaMFhnUXl4eUtxODBRcVRMR3p6Mi10cUlYLTNJNk12QTY2ckZfRWRtT1EyVVdtM0kwdXlRX0ZLSEkxTm5MQ1Nla09ZVDRLZ2xZaUlQVEVXMlFTMHBGZzhDazgxZFpHNl82Xzc5TnVrbTV4cXZ3WlJuQ3lRUmVjb3lWeHVfRUdXTTdFZk1jTVNsNmhSY3gyWkpZWnBJWjJDRmVwbFpCdXlScVg1Q2FLZE01YzJYTVBJaGtndzVtbHdScHlxNTI5eNIB2gFBVV95cUxOck54Z19uSzFUd1FNMnpmRnc2VGRhVHpTbHFwTmdGTXZibTUzbWF3M3VaZ0lXRElHWDktMm9tN0wtLUN5NTZTWExjUXVQUGYxY1BnN3FjVFZMVFdrckR6amUySktWRzRLTC1zS0Y2NVVXalczVC13Z2QzS3p3V3FjWUVxdWREeFd0SHRrV21qcDEwNkF6T2lvNktvT1RUbXdEaXA5VkVyWFRUX0ZRa1ZYQWk1OExYbWRCeUNzTlVpRFBQenQ4SDl3SlppSFllU1pTcWt5VHFib3pyQQ?oc=5"
+    },
+    {
+      "date": "2026-05-30T20:32:10.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Nausena Shaurya Vatika in Lucknow to inspire future generations, says Rajnath Singh",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMmpRMVZVUHBDX1ZKb1NBT2hUaTBXNWNhSEVhN05wckJzQ2ExVlZMNXp0bXVReUhGNjRibHpEZ3dkeWYzWGNSQURSZ0FaYmd2NG90RVNJYlBfemVibThJVExELUdvcWN5RHd5NVhrQUhRMG5RRXI0eld6aVVSTXB5elZmM1FwRWE3dDJfVDhUSHI0aWJBUEZ1TVNBR3dQV1MxTjk4bGFTckZCbldKY2RuOU9ZYzFXUQ?oc=5"
+    },
+    {
+      "date": "2026-05-30T17:50:26.000Z",
+      "flagged": false,
+      "publisher": "Kashmir News Observer",
+      "title": "Indian Navy maintained strategic pressure on Pak during ‘Operation Sindoor’: Rajnath Singh",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVEtETXBDSGx0aHFhZkhGVGtMWHNoQjV1SVdrVEowcE53WElKZGlwRFNBWHhiN25SWDFpMURQb3dfekxGbDQ0cGZVOXE2dFNJbWtMUEVmalNnMHN1ck02bnlzY1NlOHhVRzRiV3A4TFhWTU5WUFZkLUZJYnZzUXVqZ3VIWUFLN3R0bUZyNDZNRGRBR2J6eXRpM0p6Q2dvVkVnSFU0Q21zVjBRXzlORmROSm9pRTJDWkZMSzQ0emZPUjh5aHZDVm1xWWM3SlZ1T3pvS3VjbjlpTFlJdDg0eGFJ?oc=5"
+    },
+    {
+      "date": "2026-05-30T16:32:25.000Z",
+      "flagged": false,
+      "publisher": "SSBCrack",
+      "title": "Defence Minister Rajnath Singh Inaugurates Nausena Shaurya Vatika in Lucknow",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3Q4ZjkyT3FycDBZTS02ZUo1bE4zZjU4VE5nU1NVX1A5QlE5OVJrTDJ2VUdRbU00YnFpSVlwaFkxcnhQbV90UkVDZ0J4YXc2aC0wN2xWRWVzWWRFTURKR0lKMDBqUUt4ZGo5alRTVV9peFlMdFMxMkhCOFNQeUlpdVM5QnY0bmpqM2FjWTk1REhtWUhPUTBMb3RFSHdvaE41UkFzVEN5MHBSV2M5TFFfd1RHU1M?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7350,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Rajnath Singh",
+            "url": "https://en.wikipedia.org/wiki/Rajnath_Singh"
+          }
+        ],
+        "title": "Union Defence Minister (2019-present)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2014",
+            "publisher": "Wikipedia",
+            "title": "Rajnath Singh",
+            "url": "https://en.wikipedia.org/wiki/Rajnath_Singh"
+          }
+        ],
+        "title": "Union Home Minister (2014-2019)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2013",
+            "publisher": "Wikipedia",
+            "title": "Rajnath Singh",
+            "url": "https://en.wikipedia.org/wiki/Rajnath_Singh"
+          }
+        ],
+        "title": "BJP National President"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2022",
+            "publisher": "Wikipedia",
+            "title": "Agnipath Scheme",
+            "url": "https://en.wikipedia.org/wiki/Agnipath_Scheme"
+          },
+          {
+            "date": "2022",
+            "publisher": "Wikipedia",
+            "title": "Rajnath Singh",
+            "url": "https://en.wikipedia.org/wiki/Rajnath_Singh"
+          }
+        ],
+        "title": "Agnipath recruitment scheme"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Rajnath Singh",
+            "url": "https://en.wikipedia.org/wiki/Rajnath_Singh"
+          }
+        ],
+        "title": "Induction of Rafale fighter jets"
+      }
+    ],
+    "office": "Union Defence Minister"
+  },
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-35",
+  "pc_name": "Lucknow",
+  "pending_cases": 0,
+  "phone": "Tel : 011- 23018285, (011) 23014184, 23793881 (R),23019030 (O),Fax: 011- 23015403 (O), 23014184 (R)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180477.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Teacher",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajnath-singh"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "RAVIDAS MEHROTRA",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 62,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "executive",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 73684617,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 43,
+  "winner_vote_share": 53.89
+}

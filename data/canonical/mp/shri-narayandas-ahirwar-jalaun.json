@@ -1,0 +1,392 @@
+{
+  "accountability_score": 39,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 64000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 69000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 272950
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3694426
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 519425
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 117000
+      }
+    ],
+    "movable_total": 4603801
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7173",
+      "total_assets": 73603801,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 73603801,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Narayan Das Ahirwar is an Indian politician from the Samajwadi Party (SP) and the Lok Sabha Member of Parliament representing Jalaun. He also served as minister in the Uttar Pradesh Government from 2007 to 2011. Ahirwar had started politics in 1982 inspired by Kanshi Ram and joined DSSSS. He was a founding member of the Bahujan Samaj Party and served in many organisational roles of the party. He became dissatisfied with the party policy after 2014, stopped taking major responsibilities and later started aligning with SP, helped strengthen it and officially joined the party in 2022. He contested as the SP and INDIA alliance candidate from Jalaun (SC) in the 2024 general election and was elected.",
+    "title": "Narayan Das Ahirwar",
+    "url": "https://en.wikipedia.org/wiki/Narayan_Das_Ahirwar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "1582, Naya Rajendra Nagar Orai Jalaun Uttar Pradesh, 285001",
+    "emails": [
+      "ndash3235@gmail.com",
+      "ahirwar.narayandas@mpls.sansad.in"
+    ],
+    "phones": [
+      "8318254417",
+      "9450296162"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "23/07/1960",
+  "eci_state": "Uttar Pradesh",
+  "email": "ndash3235[at]gmail[dot]com,ahirwar[dot]narayandas[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Advocate & Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 26% of MPLADS local-area funds were spent — ₹10.84 Cr unspent.",
+      "headline": "74% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108423111,
+        "utilisation_pct": 26
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 600000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 600000
+  },
+  "margin_votes": 53898,
+  "minister": false,
+  "mp_name": "Shri Narayandas Ahirwar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 38576889,
+  "mplads_unspent": 108423111,
+  "mplads_utilisation_pct": 26.2,
+  "mplads_works_completed": 36,
+  "mplads_works_recommended": 190,
+  "mpsno": 5782,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Who Is Narayan Das Ahirwar Who Defeated Union Minister Bhanupratap Singh From Jalaun",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUxteHlhVTFJbTVFUWc1aEN6YnBnX3E2WERWbkttOVBpVkhlWFU3cUlPN0pXV25kQ244VU9zNVpZZ1Z3TnU3MjRPd3F1VG1MRG1GSWgxQnYwTnRnSzc5NGFxcUpxa19CanJqT0VFc1UyUHdCSWdZcWd2QjBfeDJPcFhVVDNJYjVMbHlteDFKRkZYeDVZRWhJcnV0a05FWkJGRzRZN3FSTXFtSTdBRlIzZkVHY3EzOWk2dndNVA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11154,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-45",
+  "pc_name": "Jalaun",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180465.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request for Enhanced Financial Support and Employment Opportunities for Persons with Disabilities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand for Verification and Inclusion of Basor (Barar) Families in PMAY Benefits",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding railway related issues of Jalaun Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request to Exempt Teachers Appointed Prior to 2010 from the Requirement of Passing TET in View of Supreme Court Judgment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Railway Connectivity from Orai (Jalaun) to Delhi and Extension of Konch Gwalior Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Strict Action Against Illegal Sand Mining in Bundelkhand and Protection of Local Water Resources",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request for Development Initiatives in Bundelkhand Region, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Better Facilities and Increased Honorarium for Anganwadi Workers and Helpers in Jalaun Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to enhance honorarium of Anganwadi workers and improve facilities in Anganwadi Kendras in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the direct railway line for Jalaun",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. make a big cow shelters and make arrangement for their food and water and to appoint people on salary to look after them",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding problem of Irrigation in Jalaun Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 20
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/narayan-das-ahirwar"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "BHANU PRATAP SINGH VERMA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 44,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 73603801,
+  "total_liabilities": 600000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.96
+}

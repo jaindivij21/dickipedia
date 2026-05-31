@@ -1,0 +1,75 @@
+name: Data — manual single source
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'Which source to re-pull (npm script name)'
+        type: choice
+        required: true
+        options:
+          - eci
+          - prs
+          - prs_mptrack
+          - sansad
+          - sansad_api
+          - myneta
+          - myneta_gap
+          - wealth
+          - bonds
+          - mplads
+          - party_symbols
+          - photos
+          - myneta_deep
+          - myneta_history
+          - myneta_serious
+          - wikipedia
+          - party_contact
+          - latest_news
+
+concurrency:
+  group: data-dispatch-${{ github.event.inputs.source }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore HTTP cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: httpcache-dispatch-${{ github.run_id }}
+          restore-keys: httpcache-dispatch-
+
+      # Run on purpose, so a failure here should surface (no continue-on-error).
+      - name: Re-pull source
+        run: npm run ${{ github.event.inputs.source }}
+
+      - name: Rebuild canonical
+        run: npm run rebuild
+      - name: Validate canonical
+        run: npm run assert:canonical
+
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'data: manual refresh of ${{ github.event.inputs.source }} [skip ci]'
+          file_pattern: 'data/canonical data/raw/*.json public/parties'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'

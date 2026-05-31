@@ -1,0 +1,500 @@
+{
+  "accountability_score": 81,
+  "age": 65,
+  "assets_2019": 59038508,
+  "assets_2024": 19522412,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4580000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4580000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 351555
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 8779756
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2350000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 999500
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2134000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 327600
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 14942412
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=rQFnjFYdLF2aGNhTA7QQ",
+      "total_assets": 59038508,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5163",
+      "total_assets": 19522412,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": -67,
+  "assets_latest": 19522412,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shankar Lalwani is an Indian politician. A member of the Bharatiya Janata Party (BJP), Lalwani has served as a Member of Parliament in the 17th Lok Sabha from Indore since 2019. He also held previously the position of chairman in Indore Development Authority.",
+    "title": "Shankar Lalwani",
+    "url": "https://en.wikipedia.org/wiki/Shankar_Lalwani"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "3 Saket Manishpuri Extn Indore Madhya Pradesh, 452018",
+    "emails": [
+      "shankarlalwanibjp@gmail.com",
+      "shankar.lalwani1@mpls.sansad.in"
+    ],
+    "phones": [
+      "9893033000",
+      "9013997228",
+      "1124640228",
+      "9871198802"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/ISHANKARLALWANI"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/iSHANKARLALWANI"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "16/10/1961",
+  "eci_state": "Madhya Pradesh",
+  "email": "shankarlalwanibjp[at]gmail[dot]com,shankar[dot]lalwani1[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1759740,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1186500,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 906600,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1049950,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1263440,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Lok Sabha Member"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 45% of MPLADS local-area funds were spent — ₹8.15 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 81522722,
+        "utilisation_pct": 45
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1009835
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1009835
+  },
+  "margin_votes": 1175092,
+  "minister": false,
+  "mp_name": "Shri Shankar Lalwani",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 65477278,
+  "mplads_unspent": 81522722,
+  "mplads_utilisation_pct": 44.5,
+  "mplads_works_completed": 145,
+  "mplads_works_recommended": 238,
+  "mpsno": 5065,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T10:00:05.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "2-Day BJP Training Camp Inaugurated In Indore, MP Shankar Lalwani Uses iBus To Reach Venue",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFBFRVgxckkxQU8zOG1iVDF2cEliaDNnSVBLZ1hueUhzTVNXRUl0UDZhMndGRnhyWFdaTllzdl9JbGY3LXA3ekRCQ2lId1pGaHdtWFc5Y0RXOGIxcURqRVZhbHh2R2VCYXlGTDh0eXgyZnpJZUYxWWlQWE4yeUJzSURRTlB2WUd4TThtczVvTEYtcU84dnJ4N2lPT0V5TEh1TzR3Y1FOZ0pyd0FLZUVpV0J5cF92QTB0WXZuQnZxaUUzdElLRzdBaVRsOHnSAcwBQVVfeXFMUFRQRUVYMXJJMUFPMzhtYlQxdnBJYmgzZ0lQS2dYbnlIc01TV0VJdFA2YTJ3RkZ4clhXWk5Zc3ZfSWxmNy1wN3pEQkNpSHdaRmh3bVhXOWNEVzhiMXFEakVWYWx4dkdlQmF5Rkw4dHl4MmZ6SWVGMVlpUFhOMnlCc0lEUU5QdllHeE04bXM1b0xGLXFPOHZyeDdpT09FeUxIdU80d2NRTmdKcndBS2VFaVdCeXBfdkEwdFl2bkJ2cWlFM3RJS0c3QWlUbDh5?oc=5"
+    },
+    {
+      "date": "2026-04-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Small businesses will play a big role in contributing to Indore's GDP: Shankar Lalwani",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc3hmZUFMWVFNWks1TkcyR1hoVXJTbThydk9ZODBUVHVEX2hvTkV0VTlrR29mWDBVNjdwVXVKVGxlUVZUYUhldGVMbnFjc0ZGcjZkLTlMYjFOX21CZ3JMQ0JqU2dtTnFTWFVoSS1RVVdQX1VzRjNtZHNac3ZHc2EtOFZNTGdBTm83MFdMYS1keVE3TzVZa0hxWWw0U1ZRZXZhMmxwLXpGZHFvMmtQUW1uY0RVRWQwUlR3YWdoQXpEZGJpSUNxZzZsT0VtOUNRWk5mZ2MwZHNmcmlSdUhwUm1IelNwZmpjRmpqOWtPZTBB0gHzAUFVX3lxTFBjSG9LWU1Rd2xyZ1lkdDRzMElMWGlERnBKOGtoQ3dSa1BzVHFpTGNocnlvVTFMZFRrUmNtRC1Udks5bXhHbWVDYjMwQThwMWtHQ0NIMVNEY1JqVXFocjFIYjdqTXM2SjBlc0Q3Q1RZcWhJd2lGOFgxTE5aUllfcFN1RGRLN0lyaFFzSS0zNzlseEVVQVpfYndfdnh5T3JiZmxSbWZsNXBucVd2U210S0pZcy1HUWFqMUw0QUZwU2ZEbEpCOHdZcWVKYUxWRF84R0VzUjZUTEIwNkRQVTJDRVQ0SVZXYkRGNUNST1ZuRlJGUVhqRQ?oc=5"
+    },
+    {
+      "date": "2026-02-20T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "Naidu may formally launch ‘Udaan Yatri Cafe’ at Indore airport in Apr: LS MP Lalwani",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVmVLLXZPamo0elc1bEc3Zk1HdTFVNTVJamFKTGxiU1VtS2VScWJwR2RSZEFJTHREVzIxQ255OUlBSFo4djZlMHdFVEVrZldHb2JPUGZlckthbkVNYnA0ZHlZOXNzZzVmQkxUR2lFVmNaeGgzbkxPTllfUG44WDdVV2pobXZmVzhwTmZFeTJJQ3RnZVEzRnBsSmNuemY3RDNma1F2dnRUeGE0WnZNdWNaYnBzR3VfSE3SAbwBQVVfeXFMTXRldThTakEwUk5KeFoyMldEVkJRdlNiZjhienZid1dreVhldVUtSWdLOXdDSDl4V3ZtSDlmaWt1d2FSU21JWXhYVGRkLVViX1d0a0hiMFZIS0xoSmFJcThFNTBxc1oydm1RLWRUcUhKQ2hNQVVzVjRRY0pfNTRRQzBzX2lsVTRSQkJ5c2R1LTAyTlNGNFhwTHZuVFFFeXpXa1d4Q0ZxRzRhZUtpZ21xZDFvaFByNElhTEl0X1E?oc=5"
+    },
+    {
+      "date": "2026-02-20T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Indore News: Unseasonal Rainfall Hits Wheat Crop; MP Shankar Lalwani Conducts Field Inspection",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHdKMnlHTUw4SWNZbXdzMTlWdnV3R0pzemU0TUIwMUlqSW9ucktUMmZwb0duQ2xNMTFFaWo4OVU5cWU3VWxMQXVvZVFfd1BhMlczXzFTOFl5RktiN3hhQ3BEZ2FVOWFzNW9XRFVxZHV4Z3BYNjZ0TURKRVJLckJXNUI3UlY4cFh3cFhaUktiazJnemJTNDNyU2FKZzlWcVdXSkpEOGliVHJEeUp2ODRkWnFTbDlEd083clM4bkpwMTh2Ny1aUXdWbkxxRdIB0AFBVV95cUxPUXE1MWtUSnZHVmlXOWREWDJxRzBJMkVvMEtKbTd0MGtOYXRRN0pQRDJhMjlKOEE1dlpHYk9KVUxteUZRR194VXF1bFZUMlQzTjhDRkk0dkFGY0taLVdfOERHc0Z6LUtyamRteU0wcUxvMUVaSkRFeUkzckFjZ25Ob2JfdUdZelozX3kySUFHeHZ3Q0hveHdtWnBINE9YYjhRSF9uakV5SHdDUHBHRXg0TmFiNlhJTTh0cXVWdmpISHBaNG5GcTF3X25ObFJHd2Uw?oc=5"
+    },
+    {
+      "date": "2025-12-25T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Indore News: Laxmibai Nagar Railway Station To Be Operational From February; Says Shankar Lalwani",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2lxcGlFaXFmYkh1SU83bWNreDBGTW5nMlI3aTFrUjJfcV9yU2xUNUZ2NHNWMkRsZ2Vwa3k5OHloa1BhcWpnOHBEWVFQVFhkT2cwNVg2SUdBeVVDcms1U1RwNllaUUdJemhzSDVCaXI1T04xYW9OUy1iNmx1bF92VUs1bnFObFNKaVJEYVFURk9ScFZ4TEgwNVFHSE5EWGdFdHgydkZDeWRjazdDRkV2MEFRd1plWHNZdmk2TFA3U1FpbVFNcVpzOUt6el9oQVHSAdQBQVVfeXFMTXV1VXRoVk9paS1GcERjcllLUUxabTRLLV9BaUYxVjBnVGtXOVhkS0hYTkVzb19XeHpoZDIxeHhCdFlXS1U3UmJSNlVTdnBQZnpUXzlXbWZSUHUxY3FJVzZqZnprbExBeWF3NTJPNU9xVnZvQlR3enhPakR3azVGTGhSNWdLdGZZQlJ4Vl8zb3haaERmSFBYbFFRYlBMNkRGdFByRVE2dWNhRHE5QXlNazVsZmtudzhoR1pvTjVjaTd1UzcxZE91RWtvVGpZQ2V4TEpITHI?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 218674,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-26",
+  "pc_name": "INDORE",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 24640228, 09871198802 (M) PS",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180238.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Construction of Flyovers on National Highway 27 to Resolve Traffic Congestion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Establishment of a National Digital Task Centre in Indore as a Global Manufacturing Hub",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Consider Farmers� Concerns in Land Acquisition and Alignment of Indore Outer Ring Road Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demands for Expansion and International Status of Indore Airport",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request for Promotion and Recognition of Sindhi Language and Culture",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. establish a pharma-drug park and a mega food park in indore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to release more funds for development of Indore as a smart city",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 154
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shankar-lalwani"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Civil Aviation": 3,
+    "Coal": 3,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 2,
+    "Development Of North Eastern Region": 1,
+    "Earth Sciences": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Finance": 1,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 2,
+    "Law And Justice": 1,
+    "Panchayati Raj": 1,
+    "Parliamentary Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Statistics And Programme Implementation": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJAY S/O LAKSHMAN SOLANKI",
+  "runner_up_party": "BAHUJAN SAMAJ PARTY",
+  "score_breakdown": {
+    "base": 79,
+    "criminal_deduction": 0,
+    "legislative": 73,
+    "mplads": 88,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 19522412,
+  "total_liabilities": 1009835,
+  "wealth_pct_increase": -67,
+  "winner_vote_share": 78.54
+}

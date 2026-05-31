@@ -1,6 +1,5 @@
 import Papa from 'papaparse';
 
-// Parse CSV into trimmed string-keyed objects (papaparse handles quotes/escapes/CRLF).
 export function parseCSVObjects(text: string, delimiter = ','): Record<string, string>[] {
   const res = Papa.parse<Record<string, string>>(text, {
     delimiter,

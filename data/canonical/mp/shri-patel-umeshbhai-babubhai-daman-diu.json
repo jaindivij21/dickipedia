@@ -1,0 +1,1090 @@
+{
+  "accountability_score": 2,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 951200
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 951200,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 293166
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 578173
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3942
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1108337
+      },
+      {
+        "category": "Max Life Insurance Policy No 26564xxxxx 98,310 98 Thou+",
+        "value": 98310
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 365475
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1353565
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3800998
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=TqwFaVoCdRTCe7hvGiTy",
+      "total_assets": 2698150,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3667",
+      "total_assets": 4752198,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 76,
+  "assets_latest": 4752198,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Umeshbhai Babubhai Patel is an Indian politician. He won the Lok Sabha elections from Daman and Diu in 2024.",
+    "title": "Umeshbhai Patel",
+    "url": "https://en.wikipedia.org/wiki/Umeshbhai_Patel"
+  },
+  "charges_framed_count": 10,
+  "committees": null,
+  "contact": {
+    "address": null,
+    "emails": [],
+    "phones": [],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 14,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 14,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Statements creating or promoting enmity, hatred or ill-will between classes",
+        "section": "505(2"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+        "section": "452"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Statements conducing to public mischief",
+        "section": "505"
+      },
+      {
+        "count": 1,
+        "description": "Abetment of suicide",
+        "section": "306"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 4,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 3,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 2,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 2,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 2,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Word, gesture or act intended to insult the modesty of a woman",
+        "section": "509"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Chapter Case No. 18/2024, Block Development Officer, Daman",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": null,
+        "other_acts": "Sec.107, 150 CrPC",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SCC/56/2023",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division (JMFC)Daman",
+        "fir_no": "120/2022 Date-30-12-2022 Nani Daman Police Station Daman",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "323",
+          "504",
+          "506",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SCC/473/2022",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division (JMFC)Daman",
+        "fir_no": "28/2022 Date-09-11-2022 Costal Police Station Kundaiya Daman",
+        "other_acts": null,
+        "sections": [
+          "447",
+          "120B",
+          "34"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCC/8/2022",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division(JMFC) Silvasa",
+        "fir_no": "207/2021 Date-26-10-2021 Silvassa Police Station Dadra and Nagar Haveli",
+        "other_acts": "Sec.125 Representation of The People Act",
+        "sections": [
+          "505(2)"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Session Case 3/2023",
+        "charges_framed": false,
+        "court": "Honorable Sessions Judge Daman",
+        "fir_no": "76/2021 Date-04-09-2021 Nani Daman Police Station Daman",
+        "other_acts": null,
+        "sections": [
+          "306"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "SCC/347/2019",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division JMFC Daman",
+        "fir_no": "Private Complaint",
+        "other_acts": null,
+        "sections": [
+          "500",
+          "504"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCC/2/2022",
+        "charges_framed": false,
+        "court": "Honorable Civil Judge Senior Division (CJM)Daman",
+        "fir_no": "163/2019 Date-04-11-2019 Nani Daman Police Station Daman",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "143",
+          "149",
+          "505",
+          "505(2)",
+          "153A"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCC/31/2020",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Senior Division (CJM)Daman",
+        "fir_no": "64/2019 Date-04-11-2019 Coastal Police Station Moti Daman Daman",
+        "other_acts": null,
+        "sections": [
+          "509"
+        ],
+        "serial": 8,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Chapter Case No. 21/2019",
+        "charges_framed": false,
+        "court": "Honorable Court of Mamlatdar Daman",
+        "fir_no": "Non Cognizable Complaint Police NC Case No. 34/2019 Date-29-06-2019",
+        "other_acts": "Sec. 107 & 150 CrPC",
+        "sections": [],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SCC/134/2019",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division(JMFC)Daman",
+        "fir_no": "154/2018 Date-30-12-2018 Nani Daman Police Station Daman",
+        "other_acts": null,
+        "sections": [
+          "153"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SCC/133/2019",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division(JMFC)Daman",
+        "fir_no": "93/2018 Date-29-08-2018 Nani Daman Police Station Daman",
+        "other_acts": null,
+        "sections": [
+          "153"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCC/29/2018",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Senior Division (CJM) Daman",
+        "fir_no": "35/2017 Date-17-06-2017 Coastal Police Station Moti Daman Daman",
+        "other_acts": null,
+        "sections": [
+          "406",
+          "420",
+          "468",
+          "471",
+          "120B"
+        ],
+        "serial": 12,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCC/154/2016",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Senior Division (CJM)Daman",
+        "fir_no": "118/2015 Date-16-07-2015 Nani Daman Police Station Daman",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "186",
+          "188",
+          "353",
+          "504",
+          "506(2)"
+        ],
+        "serial": 13,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCC/42/2012",
+        "charges_framed": true,
+        "court": "Honorable Civil Judge Junior Division (JMFC)Daman",
+        "fir_no": "08/2011 Date-12-03-2011 Coastal Police Station Moti Daman Daman",
+        "other_acts": null,
+        "sections": [
+          "186",
+          "452",
+          "353",
+          "332",
+          "504",
+          "34"
+        ],
+        "serial": 14,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "08/04/1976",
+  "eci_state": "Dadra & Nagar Haveli and Daman & Diu",
+  "email": "umeshbabubhaipatel[at]gmail[dot]com,umesh[dot]babubhaipatel[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 485890,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 488190,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 464620,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 440690,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 389240,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 498170,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 496060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 487670,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 276830,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 208508,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹24.51 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 245063957,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "10 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 10,
+        "convicted": 0,
+        "pending": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 396794
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 10187
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 406981
+  },
+  "margin_votes": 6225,
+  "minister": false,
+  "mp_name": "Shri Patel Umeshbhai Babubhai",
+  "mplads_allocated": 245063957,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 245063957,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 65,
+  "mpsno": 5714,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-08-10T10:34:28.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Patel Umeshbhai Babu , IND candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHN2WUViaVpSbmhfQXlMMHh1MEN5VGRnc1U5WnhIZDVYM2p5TEFfQnMyMnZDS1ljTUNiY1VHZHhkOFJ3UlF6dkVjZTVBOUoxU3VETmc2N1l1M1YxQ21FMTcwV0Z1aWxJcURia2ZoRmcwUGRkeldKaklhbUMxejgzZ3RrZW1kRUdQeTdqcTdR?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Daman and Diu Lok Sabha Election Result 2024 Live : Independent Candidate Patel Umeshbhai Babubhai Has Won This Seat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckJsa0xhTU42Ry10NnR2a2NfUm5wNDNZMXRFNU9hSVFyZGJGWmhSWnJwby1HTmdMTUIxSTRST1lqOVVIa3M0aFZlWTV2aUtBaXdYb2RzZ0tfX0xOYUxicE1ZVWoxcjkwS0Y1cU5kWmU2ZU5ab2ZEVFJqN2ZnRjFCYTNGQ0UyMU54QllhOU9PclJ4MGRsVktweVA5UGFEaXIwTVc3UEdSWlFsSDVublNGRk42bjhHcGhqQjF0U1YzWTFIUzBWbEVaVURvbl_SAdoBQVVfeXFMT0ZuT2tfS19BaktSVnY1Z3hXbVhkMEhkNS1QRG14cWMzeS1nTVFQWDE3MmtGNnJESHpudUYwYkZPMHZ0enFqVUxfUWVDb0pCZDBWUGZQS3ZtNmxxeUFlZ2ZvSWJQZUJYaDdFeWhhVlNYVWFEZHJBRU1RSHc4R3UycHFfTmVXc05rZFJ4NW5HRUphc3h1Ulg1UnE1eV91d0JXTU5aejR5RDhpa2U3UTNvZFdXdWg3SXpzMkxOLTZfd1ZoT2F2dTNmSDdSdHBNdTViS3h0OTA2SUx1ckE?oc=5"
+    },
+    {
+      "date": "2024-05-31T14:50:12.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Patel Umeshbhai Babubhai",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHFQV2xRSDBUR1M2QUhhVlpGaUdySTVyZEFUbm1hdWFsY1FEMVhpZmpEeC1LLUJNeGhjT0hscmVjS0FpbXJQVjFvSUxzV3ZUanNDNjh2UkxJdTE1LVFGS3I3aU1lblBMa1luaHJ6cjJsb2h6MWxoNHU1dGtjRXBSbm1MbmFoa01hejRsWndFN21QYVl5NVBoTG12b0dtV1BSZktNdkE4a0twNXVQUEI0N1RNSkQweE80bEdpS2tVQk9ybTNDZ3ZwRQ?oc=5"
+    },
+    {
+      "date": "2024-05-31T14:46:18.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Lalubhai Babubhai Patel",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSm55c1RMcHJybkd1dGw4WXh3Ul8wNFR2cGxwQ0tJM0JEeGJUaVhPMDBxbkdNMVEwOGZGNk51OWFDbUd4bXQ4cFJWWkJYT253NnFXa3ctelJuREMzQnNibEZmcU05U2FfN0YtWG1BUEktM0pIUFZQN0RUamlub3JXWFdrNFYyb2x6R29LM24tMnhXTTNaNERQOVhVcHpIdjNza3BVNElIWXNleG41UTdhcUp3TmYyaXZVWEFlLWxuNlVMRWJTbVZJ?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:21:15.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Patel Umeshbhai Babubhai, Ind Party, Daman & Diu, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaE1BTFJKR2RnUGpTcmtUaTZHaEw3dWFpSjZxeFEzSUNicnltbW9kLUFiYXJEaDFJN2hyOVdudXBUMVlZeEcyZy02OTM1NnoxUmM5U1ZLc3F2cVhSXzdESHNEWHNqNXNtU3F2NXg3MzhsX3dTSzJzVWpZRjdwTlZGQlV0eXRlTHVrTzVua2t0ejQybF9KWURLR3BCd21ZaUIyWjF6OVYzcVVMLTdpNy11c1dlRjh6emdnSkloTU44QzE1WnlwRVZtQlRTVGc5MEdqZ0cySlphZDZNc1JwMG5YVkJISzJ1dmh0U2tR?oc=5"
+    }
+  ],
+  "non_serious_cases": 7,
+  "nota_gt_margin": false,
+  "nota_votes": 978,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "dadra-nagar-haveli-and-daman-diu-1",
+  "pc_name": "Daman & Diu",
+  "pending_cases": 14,
+  "phone": "011-23351983",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180096.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 97
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to ensure effective functioning of district level Committees, especially DISHA, Development and Monitoring Committees",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to expedite approval to the Coastal Zone Management Plan - 2019",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to set up a monitoring system for effective implementation of PESA Act, 1996 in Dadra and Nagar Haveli",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to curb increasing pollution in Daman Ganga and Kolak rivers flowing in Daman & Diu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding alleged illegal fishing activities in Gujarat Coast",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Urgent Request for Release and Safe Repatriation of Indian Fishermen Detained in Pakistani Jails",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to enact law to prevent illegal fishing methods practised in Diu and other parts of Country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "The Health Security se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Domicile Policy Restoration and Fee Rationalization for Local Youth in Dadra & Nagar Haveli and Daman & Diu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to regulate sittings of DISHA Committee in Daman and Diu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to provide benefits of 7th Pay Commission to lecturers of Polytechnic College in Daman as per the decision of CAT",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Protect Public Assets, Cremation Grounds, and Graveyards from Privatization and Unethical Construction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding construction of National Highways in Daman and Diu Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to conduct examination for recruitment in Government schools in Union Territory of Dadra and Nagar Haveli and Daman and Diu within the geographical boundary of the UT and fill-up the posts lying vacant in various departments",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Raising Concern about the Need for an Independent Investigation into the Allegations Against DNH and Daman & Diu UT Administrators",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to protect the interests of people facing demolition of their houses in Dadra and Nagar Haveli and Daman and Diu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to conduct elections of office bearers for Daman and Diu State Cooperative Bank Ltd. and Fisherman Federation in Daman and Diu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to fill-up vacant posts in various departments in UT of Dadra and Nagar Haveli and Daman and Diu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to revise the salary of employees of Government Polytechnic Institute, Daman as per the recommendations of 7th Pay Commission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to confer Bharat Ratna on Shaheed Bhagat Singh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding dismissal of services of teachers in Daman and Diu Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding restoration of rights of Panchayati Raj Institutions in Daman and Diu Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding problems faced by fishermen of Daman and Diu Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to regularize the services of employees working on temporary basis",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to please release the fishermen from the entire country including daman and diu who are in jail of pakistan and bring back them to india as soon as possible and our maritime borders should be strengthened so our innocent fishermen do not reach the neighboring border",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt kindly establish a high quality university in daman and diu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt provide assembly status to the dadra and nagar haveli",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding alleged corruption in UT of Dadra and Nagar Haveli and Daman",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Raised the issue of corruption and irregularities in Daman and Diu",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 48,
+      "value": 64
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 168,
+      "value": 111
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/patel-umeshbhai-babubhai"
+  },
+  "qualification": "Graduate",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 2,
+    "Education": 1,
+    "External Affairs": 1,
+    "Fisheries, Animal Husbandry And Dairying": 3,
+    "Health And Family Welfare": 5,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Statistics And Programme Implementation": 2,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "LALUBHAI BABUBHAI PATEL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 40,
+    "legislative": 69,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 7,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 4752198,
+  "total_liabilities": 406981,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.02
+}

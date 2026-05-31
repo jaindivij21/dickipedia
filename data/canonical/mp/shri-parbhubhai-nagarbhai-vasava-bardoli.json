@@ -1,0 +1,515 @@
+{
+  "accountability_score": 45,
+  "age": 56,
+  "assets_2019": 28350217,
+  "assets_2024": 47003506,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3432000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 20932000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 85000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6720991
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 6767250
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1580000
+      },
+      {
+        "category": "Plan No 133 LIC 1,23,697 1 Lacs+ Plan No 89 LIC 2,32,224 2 Lacs+ Plan No 149 LIC",
+        "value": 2833052
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3770800
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2481250
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 26071506
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3740",
+      "total_assets": 47003506,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 47003506,
+  "attendance_pct": 65,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Parbhubhai Nagarbhai Vasava ( Prabhu) (born 1 March 1970) is an Indian politician from Gujarat. He is a three time member of Lok Sabha from Bardoli Lok Sabha constituency representing the Bharatiya Janata Party.",
+    "title": "Parbhubhai Vasava",
+    "url": "https://en.wikipedia.org/wiki/Parbhubhai_Vasava"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "4 Sardar Patel Shopping Centre, Mandvi, Distt.-Surat Surat Gujarat, 394160",
+    "emails": [
+      "mpprabhuvasava@gmail.com",
+      "prabhu.vasava23@mpls.sansad.in"
+    ],
+    "phones": [
+      "2623222108",
+      "9537277301",
+      "9265928288",
+      "1123381911",
+      "8287823899"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/prabhunvasava"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://twitter.com/prabhunvasava"
+      },
+      {
+        "platform": "instagram",
+        "url": "http://www.Instagram.com/prabhunvasava"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "No",
+      "party": "the candidate"
+    },
+    {
+      "detail": "No",
+      "party": "spouse"
+    },
+    {
+      "detail": "No",
+      "party": "dependent"
+    },
+    {
+      "detail": "No",
+      "party": "Hindu undivided family or trust in which the candidate or spouse or dependents have interest"
+    },
+    {
+      "detail": "No",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    },
+    {
+      "detail": "No",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "01/03/1970",
+  "eci_state": "Gujarat",
+  "email": "mpprabhuvasava[at]gmail[dot]com,prabhu[dot]vasava23[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1075790,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1002550,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 615990,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1129140,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1055420,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1088280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 887150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 526190,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 505280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 467930,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, MP Salary & Interest From Bank"
+      },
+      {
+        "person": "Spouse",
+        "source": "Teacher Salary And Agriculture And Interest From Bank"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.43 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 124286777,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 8456474
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 8456474
+  },
+  "margin_votes": 230253,
+  "minister": false,
+  "mp_name": "Shri Parbhubhai Nagarbhai Vasava",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 22713223,
+  "mplads_unspent": 124286777,
+  "mplads_utilisation_pct": 15.5,
+  "mplads_works_completed": 61,
+  "mplads_works_recommended": 293,
+  "mpsno": 4757,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bardoli election results 2024 live updates: BJP's Prabhubhai Nagarbhai Vasava wins",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaEt4a2RaaVdfdFVqeUZFMmdDQzNDWkZDT1JSNUVYcF9VVTBSUlB4V0FIVVI0Zk14QWFmUUlFeV81blVXZE5NWGZsbEFKbFNDajRVMllUMXlyVW9NZkZqNW83Z1dOaUR4RUlwd1NkOF9XdkFVaElJanJ3UFI2TENSXzJLQTZVZnVGWUVKUEZSaHFTTFpwX1ZyWkJqRExTS2pQeDRDRWg0cDJLYTNuMTNycWQ5YUEzdFRGb1VEcDlIT2JHdVN4TXZpV0RaMklldzQ0SHQ0dlRZTk5xRWtyWVdLTFJIVmZObGJVenRiRG55b20zSVRiUXFocXI4WndwNmhJaGROZDgydXlzTXNUazdIQzN1aTJfNGpudEpqY3Y3ckx5ZzJGajA2MV9XR0Fmc1RxcThuNC1ZS3owX0Jleld3YjN1YXI5TVdsbmZxcWtCaFdBUdIB1wJBVV95cUxPSXJiYndibTdraVdkWnFYSEo4bGxIMmZDVHVENHJlT1BmdVZtWG05RXRoS2l6aHEzc1U4Y3dNUGItZW1LR3E1N1VsQ1ZpMUloWUlhQWRybDdVSW1jTGxLSUJlcUx4Q25nZDRXV21MQlp6Zjlac2VuLUQ4anNzQ0s2SWNNdFpNbzFqSk52YlNKbDBwSzVBNndLX3pjaWdReHFCYmVNRkphNHk2UURVRmhGSDJlMG1PTHE1SlF1U09iR0ZpbHQyeW43M2pPMmxwaWYyYTV0WFJ3ZTFFQVU1eGRqU1hoTTlBUlQydFRsVDlLdVJCR01YVmZrNWpCLUptOE9Dc1FWbDdoVWM0SXgxdGh1QkdyUXZPSlZZQ1ZpV3Eyekh2dUgydlZJaFM5U2dPbW1IXzExSmFtRlRCSXZ4ZDNtZUpLcFlFbE9EaE1CZVMzcXVHMlpaTWpN?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bardoli Election Result 2024 Live Updates: BJP's Parbhubhai Nagarbhai Vasava Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM01nRGwwVlg2Mi1UNlJ6dW5Ic1VxZWhiUkk3VE9nSEs4am5neU1PczBMZzZUV2ZVNUM2Z3d5M1d3NkNsaS1BYkdtM0hWa3R3dnFtN2JObndCMk5PS1FwV2NPS19xRTZZMWpLSW1uWVI4QU9DdC05OENTcHA3WWpfX1YybkRSeUNSNFEwRl9pUXJLUEVIeDg5Sll2cGVmS0lmcjZqX0taX245VFU1MUR4ZkE5TFZjdGxrMVpfR3BSWWJ2Z9IBzwFBVV95cUxQZ2hrX3dFbmpqTS1FaktLZlN2N0ZkNmNjZnI1QmdhMmdLamNNZkxpcTFTdVVQaHhwZC1Fck8tOUs2NWpuaGpYLTdDZHkzcXhXcXRHU0hKU0J1T2oxV2VBa0lfcHVKR3lVU1A5Q1MzRTZmSUVhQzZ3LTNrcFI2dUR4U200dVg2TGhuaWMxWk1MWS04a1VxdHFFaFUyZlFvRzBlQ0VmdG9GeTU0SmdUa0g2UGc3T2JfYmpVMDFONVJ6Zzg5dU8yUHZ0MGVRRDBtVGM?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bardoli Election Result 2024 LIVE Updates Highlights: Parbhubhai Nagarbhai Vasava of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS21qcjRVT2ZCOUNyRUFWYXdjcTNubWF6azVoam1Hdk90WTdYSUM3NHJFMkdhZnNxWE9QVEc0ZWdPY0k4aEFncW5mdXY2TmRZY1ZpSWZuY09qOHVsNXBmSXJ6ZHByMC1OSXMwbTU1VnN5b2E3Q2Jkd0ZEa2Y3OFk0dlJKVldSa0w4dUNQNnE2VUlUWm9oMy1aZURDN2hjeWJvTUFfSFdnZmlHR0h2alZNWTZzQ1pRWG5WVG1aTmJfNXJIX3lORVFUSU1RYngzQ1laQzRxdWlWY05tMjRCSEl5bXFB0gHnAUFVX3lxTE0yZXgwS1lPV2I4MWtFNlRxNmMtbTB6LWZmbzdCNmVmVkdiR3JzZHlxaXVoTXZoQVdqal9TZnNTNi1RSUFiU0ZtdDF4eklDSV9wT3MydENuWG8waVpaWVJTdVFaejM5N1RGcld3Wmc3dlBZbGthQlpzZk81YnloZmdwZkV5bjI3am1RQTVKbWZzRldkS3RodUVBSU04VThTMUxlMEs0QklwYmtNakhSQlRELTZjZVBLM1J0blp3M2o2RDJzMlV3VWxBUjRWZnFPYk9abDJHMGtmaENIbnpEVUdUZ2RrQmFFOA?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:41:12.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Parbhubhai Nagarbhai Vasava, Bjp Party, Bardoli, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajhfaEQ0X1ZoSHF1WWlieHJoLUR5aVJtUnRmNWZuS0xsVlJGa1ZhdGNmbm5yWkdKMWdETDJTOGwwVGwxRmlUS1NFZTlZeDRtRnNIWjJUSXdubG90VHN4Vk5vV0ZxdE9xUEtpLVdEa0N5cXNpMHdxRHdsSk5uMTNLbzQ1XzBmRFpRM1Z1TEdEVjZXaVY2QTExTjQ0RUhkZklNUk5EWF9OQ3lmVWNHT1JkNXRhRDd5THRTaVFuVVUyU3diczQwZ1hUNUNhSUQ2aV9PUWlwbzlHeUdCRE1vdW5sNEhlVS1CV0k4d1E?oc=5"
+    },
+    {
+      "date": "2019-05-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Firstpost",
+      "title": "Bardoli Lok Sabha Election Result 2019 LIVE updates: Parbhubhai Nagarbhai Vasava of BJP wins",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzhkc2lTU0JXN09oQ2poRUdEVkNGUGdjakV1bnAyNGFjbUQtNjZVS3BwR28xaGJOdkc2OEJpeFdrdmlfbzBQclplVHNhaE5CWXBReWlCYUFFZnl4Nzlsd3FneGtMNm0yckNsT0lSVWVmT0JGZXFKd0lPUXFyc1NFNG15RmVVeUtVUnFVVFF0QzdrODNFRUYwTlR6YTFta1FETXRVUW1mdUtTbGN6U3BESnlXelRDUTB5SnZLekJfTXdwWTMxVm5hVnJOTVNORjltX1BZVkVB0gHbAUFVX3lxTFBQSVFrTndCNWpIZzJteThQV1ROMUxMQm4tRkZ0S3lsT2ZsRjNqUk1oVGdyZlBEU2NvaWRDVW9MUXJKUTRMY3lvOTN4X2RsQmp6QVI2STJIRkFrS0xOOXZNUFBzekFQemRaSW0telloZGRtcklHaFVHWjFJV01hMmZVTTZmWVN5UGl3dUN0SlpjUkE5RWF0ajZQVjA4ZlBUWG1VVmJ4MHRXTnp5eHFVUGk5UWdybTZSam1NM2VRRmFPR2RnQUFsd1B0U3lmeVVGWmJSNl9uY1NWOGhTMA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 25542,
+  "notable_record": null,
+  "num_candidates": 3,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-23",
+  "pc_name": "Bardoli",
+  "pending_cases": 0,
+  "phone": "Tels : (011)  23381911, 08287823899 (M), 9265928288(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180127.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to establish an additional modern Krishi Vigyan Kendra in Bardoli Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding construction of �Sardar Circuit� in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding compensation to farmers in lieu of loss incurred by them due to power transmission lines passing over their agriculture fields in Bardoli Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to construct underpass on NH-53 (Hazira- Dhulia) in Bardoli Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to establish ESIC hospital in Bardoli Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to establish a Tribal University/ University Center in Tapi district, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Direct Flight Service Between Surat and Raipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding condition of washrooms in Railway Coaches",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding request for setting up of swimming centres in Tapi and Surat Districts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 101
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/parbhubhai-nagarbhai-vasava"
+  },
+  "qualification": "Diploma Course",
+  "questions": 27,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 3,
+    "Micro, Small And Medium Enterprises": 1,
+    "Parliamentary Affairs": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 1,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "CHAUDHARY SIDDHARTH AMARSINH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 0,
+    "legislative": 47,
+    "mplads": 32,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 47003506,
+  "total_liabilities": 8455874,
+  "wealth_pct_increase": 66,
+  "winner_vote_share": 57.04
+}

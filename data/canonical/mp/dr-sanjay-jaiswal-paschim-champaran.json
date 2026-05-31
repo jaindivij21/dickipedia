@@ -1,0 +1,757 @@
+{
+  "accountability_score": 1,
+  "age": 61,
+  "assets_2019": 199404885,
+  "assets_2024": 290535126,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 117000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 34500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 20000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 30000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 201500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1225000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5371417
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 67870764
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "ICICI Insurance 10,00,000 10 Lacs+",
+        "value": 1000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 4150000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3820369
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4125000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1472573
+      }
+    ],
+    "movable_total": 89035126
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mip8QHWjF8xT4mAQXjh5",
+      "total_assets": 35941299,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mip8QHWjF8xT4mAQXjh5",
+      "total_assets": 199404885,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7852",
+      "total_assets": 290535126,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 708,
+  "assets_latest": 290535126,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr. Sanjay Jaiswal is an Indian politician who has represented Paschim Champaran constituency of Bihar since 2009 as a member of the Bharatiya Janata Party (BJP), winning the seat in 2009, 2014, 2019 and 2024. He served as the party president of the BJP in Bihar from September 2019 to 23 March 2023.",
+    "title": "Sanjay Jaiswal",
+    "url": "https://en.wikipedia.org/wiki/Sanjay_Jaiswal"
+  },
+  "charges_framed_count": 4,
+  "committees": null,
+  "contact": {
+    "address": "Shivam Hospital, Dr. M.P. Jaiswal Path, City Bettiah, Bihar, 845438",
+    "emails": [
+      "drsanjayjaiswal@gmail.com",
+      "dr.sanjayjaiswal@mpls.sansad.in"
+    ],
+    "phones": [
+      "6254242868",
+      "9431212008",
+      "1123736782"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/Jaiswalsanjaybjp/"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/Sanjayjaiswalmp"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "Bihar State Food Corporation for Rent Warehouse",
+      "party": "dependent"
+    },
+    {
+      "detail": "Not Applicabel",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 5,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 5,
+    "ipc_summary": [
+      {
+        "count": 4,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Undue influence at elections",
+        "section": "171C"
+      },
+      {
+        "count": 4,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CRI No. 622/2019",
+        "charges_framed": false,
+        "court": "ACJM III, Dhaka",
+        "fir_no": "PS Case No. 165/2019, Ghorasahan Police Station East Champaran",
+        "other_acts": "Section 27 Arms Act",
+        "sections": [
+          "147",
+          "149",
+          "341",
+          "323",
+          "295A",
+          "504",
+          "506",
+          "171C"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CRI No. 1753/2019",
+        "charges_framed": true,
+        "court": "ACJM I Khisanganj",
+        "fir_no": "PS Case No. 511/2019, Kishan Ganj Police Station",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CRI No. 3624/2019",
+        "charges_framed": true,
+        "court": "ACJM 1st SC, Motihari S.C.",
+        "fir_no": "PS Case No. 58/2017, Ghorasahan Police Station East Champaran",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CRI No. 3626/2019",
+        "charges_framed": true,
+        "court": "ACJM 1st SC, Motihari S.C.",
+        "fir_no": "PS Case No. 60/2017, Ghorasahan Jitna OP Police Station East Champaran",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CRI No. 3635/2019",
+        "charges_framed": true,
+        "court": "ACJM 1st SC, Motihari S.C.",
+        "fir_no": "PS Case No. 59/2017, Ghorasahan Jharokhar Police Station East Champaran",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "29/11/1965",
+  "eci_state": "Bihar",
+  "email": "drsanjayjaiswal[at]gmail[dot]com,dr[dot]sanjayjaiswal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1990840,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1503940,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1407630,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2422740,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 8640161,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 600350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 539430,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 374460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 357920,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 447320,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 249150,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 249530,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 246950,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 157650,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 553744,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary & Allowance (Member of Parliament), Shivam Lab - Betiya and Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Medical Service , Shivam Nursing Home - Betiya , Warehouse-Baghambarpur - Police Station - Bairiya Pargana Champaran"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹3.59 Cr (2014) to ₹29.05 Cr (2024).",
+      "headline": "Declared assets grew 708% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 35941299,
+        "from_year": 2014,
+        "pct": 708,
+        "to": 290535126,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹25.46 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.60 Cr.",
+      "headline": "Declared assets rose 16× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 254593827,
+        "declared_income": 15965311,
+        "itr_years": 5,
+        "ratio": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "4 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 4,
+        "convicted": 0,
+        "pending": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 13525
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 13525
+  },
+  "margin_votes": 136568,
+  "minister": false,
+  "mp_name": "Dr. Sanjay Jaiswal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 0,
+  "mpsno": 4455,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-01-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Mamata Banerjee is biggest coal smuggler...\": BJP's Sanjay Jaiswal slams West Bengal CM",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRl9abDRBalk0SW5TRzdaenpVT2RuRHVIM1N0NGlWaE5GN3pFYnZuUWJXazBlb0xweTFMNndxLVpUSlhCQ3RZVWZaVGNkNllGZ2l0dnpLb252dk1oVkFzLXhkOVItcFVsdFY4OXpXWGFoVkNPa1k1NmFKd09XUVlwUDc3Q1VLcmM1UGhfNkQ4azdzaVF3b1Q3NXlrVjZrSUxxODRiMXJfZjBlbWNqS0w4SmRSRkxvLW42QzR1SEw2ZGZSMHlpOFp4WXktUlZyNmFZOEQ3amtPYno?oc=5"
+    },
+    {
+      "date": "2025-12-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Memorial will immortalise sacrifice of Ram Temple Kar Sevaks: BJP MP Sanjay Jaiswal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVNkYzZDWmE3ZERSTkpQQklhWk9ENlBfazU2dHdDbndVeGV1SzJqMDRDRjgxR3pzc2VwejJfSjdVNDNVZGxmcWViY2pxdG9FdHhqamNKQTc1NmZGUVJ0X1FqNlFYVkQwVC05bVFSN2tId3NucjBmLXdSU2h4SkQxM21DTmFsd0RVN3g1TVVZbkJpcVNwYm1tUTZuZlJCMlNMcnVRQURZSmFqZklSMU9QNTZJN1E5blBfTmxsdDVtT3hHTW9nbzVYa1c4SDNWd9IB0wFBVV95cUxQanBXVWdnOTc5TkZ5Zi1kWDEzNWFzTzI2UWZ6UmFONWxCNkYzM1E4Tm5TeFhwWUZvdW5wLWl0ajRJNUlFQjE3MTVMeVQwMjk1RTVTSUx6VmZEU0Rodm1DUDVMZzE0R2ZlX2JlOS1lLUlTa3RiUlpySW81RnNzNERXZUJqbm1pSFZBRjZ6X1M4cmZ2c0c1SUU1N29abTZLbTh6ZnRkZHpLNzNiNE1LM1lCQ0t1clFxZG1EZ3BkT0czZkU5QzJHYk56MnJqaTFsWHhRNFVN?oc=5"
+    },
+    {
+      "date": "2025-10-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Bihar: Youth held in connection with extortion call to BJP MP Sanjay Jaiswal",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcksxalhsVFdBTkM4b25Dd3VPMThXQWpEZDRyWHlwMEhWSjlZN1dtNWNnZ3FPNWpROVN3NnlEbnVIOFVzRk5oRHRPaXdpSDIwR2FOQklETWlWZUMyM0pEckJORmRoYlA5Vmd5WWo2TFlsOVZ5aFl3cDRrYlVHSldaN1l5UDdRNEszcXNyRHEzblZOTnJGWUkzelpyS0tzTEphTmVCMFdCUlpZcm5DWlZRd1FtWXcxM21sY1pLcGNqblM1c3FHUEZobk9nV2VtYkZ6?oc=5"
+    },
+    {
+      "date": "2025-10-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "BJP MP Sanjay Jaiswal gets Rs 10-crore extortion call, threatening to kill son",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY0FvZmZFM1d3cEh3aTZyU21nSnVwcV9IREZfZHplUlJ0MW5UeUZzYWVyMkZwVVZXTk10SjZLQVQ2VUN3dXBaZVRJNmJDLUdTUWtCOGhSNEdjMDJYSTBpVmJQMXVIbjhIWlRJY185TkRhWEdYWHJ4OEVydTRoZDljY3ZqbnNqajNGVXR1am9ici1RaHBlZ0RqMjFmb2w0Um1TbEw4NFFJQk1QTlJhalJyeTRKbDFtMWJ5T0J6d1NQQVI0dmhlcno1SWNVWWNwQnBBNFdKVkJucnZhZUp3RjM0dkpFdUzSAeoBQVVfeXFMUHZUQ1JCZlBZUFc5VjZ3OEstd25iTUZWOFR1cDhLZlZDVHZNalZIVGQ4QVFuenBMVjJHdmNGVlJQTnpUUS1fYWtHUW8wRXZ2YWs3Q1NYWFJ6eUxoaDNTNUswRzIyUHhJbXh6cFZYUG5pcjFnOHk0THpDcGp1MEVkYnhXU1RONTdlQ2NxLU1PN242WG9SU3VNcU9fby1JMmh1cFY3ZEswSVE3UGNHVDBVTVcyRmhja2xMcW83WHhvQURYWEl4SjByVVBSbHdRdkJzYnFjWVB2aFFfQWJORF9GTHZLQjFtWThJZTBB?oc=5"
+    },
+    {
+      "date": "2025-10-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Patna Press",
+      "title": "BJP MP Sanjay Jaiswal Receives Rs 10-Crore Ransom Threat, Son Targeted",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoT3AxWEg5b3hHVGZwdFVla1FsX3JvMnNqeHRnTENHbXRHd19EdldDT2VaNTJOLUtWaXljaVJoYzRWNVpZcHg4VF9VdGF6dV9hajhWOVM3TzNhZjUxY1FLOEdrb2U2T3p0VTV1cmNLNTFXYm90a1hROVdZcEI?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11288,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "bihar-2",
+  "pc_name": "Paschim Champaran",
+  "pending_cases": 5,
+  "phone": "Tel : (011) 23736782",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180073.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Medical Practitioner",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "24.03.2026",
+        "title": "Regarding revival of Champaran Sugar Company Limited in Chanpatia in West Champaran district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding rising unemployment among Tharu Tribal Community due to restrictions imposed on extraction of river stone in West Champaran district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Facilitate Export and Trade of Goods via Integrated Check Post at Chauradano, Nepal Border",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Repair and Strengthening of Champaran Embankment under Waterways Management for Protection of Valmiki Nagar Tiger Reserve and Surrounding Population",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for stoppage of trains in Chanpatiya",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of a Memorial at the Historic Sugouli Treaty Site to Strengthen Indo-Nepal Relations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to establish an Intra Circle Hub (ICH)Centre at Narkatiaganj in West Champaran district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for a CBI Inquiry into the Brutal Assault of an Army Officer and His Son by Punjab Police",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Restart Chanpatia Sugar Mill for Farmers' Welfare",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Finalization of Alignment for Haldia-Raxaul Expressway for Improved Trade between Bihar and Nepal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to give priority in admission to local students in Mahatma Gandhi Central University, Motihari, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Operationalizing Steel Processing Unit and TMT Bar Production in Bettiah, Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to strengthen embankments along Gandak River in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding protection of crops from damage caused by Nilgai in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt an inquiry should be set up against the delhi govt. in the incident of 3 student deaths in old rajinder nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 126
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sanjay-jaiswal"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 26,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 2,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 1,
+    "Mines": 1,
+    "Panchayati Raj": 1,
+    "Parliamentary Affairs": 1,
+    "Railways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MADAN MOHAN TIWARI",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 31,
+    "criminal_deduction": 30,
+    "legislative": 51,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 6
+  },
+  "serious_cases": 5,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 290535126,
+  "total_liabilities": 13525,
+  "wealth_pct_increase": 46,
+  "winner_vote_share": 53.43
+}

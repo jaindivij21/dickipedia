@@ -1,0 +1,568 @@
+{
+  "accountability_score": 25,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 29864968
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 29864968,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 50489
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4525288
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 6633724
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1054342
+      },
+      {
+        "category": "HDFC Life Policy No 1933xxxxx, 21,00,000 21 Lacs+ HDFC Life Policy No 1905xxxxx ",
+        "value": 19672159
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3856980
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 360685
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 36153674
+  },
+  "assets_earliest_year": 2021,
+  "assets_history": [
+    {
+      "label": "West Bengal 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=2B4yzqFiUnoaog3zcmxf",
+      "total_assets": 34449609,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7950",
+      "total_assets": 66018642,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 92,
+  "assets_latest": 66018642,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "June Malia is an Indian actress and politician who predominantly works in Bengali cinema and television. She is a philanthropist and also a member of West Bengal Women's Commission.",
+    "title": "June Malia",
+    "url": "https://en.wikipedia.org/wiki/June_Malia"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "11/3 B, Old Ballygunde 2nd Lane, Ballygunde Circus Avenue Kolkata West Bengal, 700019",
+    "emails": [
+      "junemaliah@yahoo.com",
+      "june.maliah@mpls.sansad.in"
+    ],
+    "phones": [
+      "9903147821"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/JuneMaliahMLA/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "24/06/1970",
+  "eci_state": "West Bengal",
+  "email": "junemaliah[at]yahoo[dot]com,june[dot]maliah[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1323350,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 836600,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 823500,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1001080,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 811447,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2599170,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3473660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3049770,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2737590,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2414965,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional fees, MLA honorarium, Interest Income, Dividend Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income, Interest Income, Dividend, Capital Gain"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹3.16 Cr between affidavits, while declared income across 5 ITR years totalled ₹48.0 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 31569033,
+        "declared_income": 4795977,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 92%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 92,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 20% of MPLADS local-area funds were spent — ₹11.74 Cr unspent.",
+      "headline": "80% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 117387538,
+        "utilisation_pct": 20
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 17920737
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 17920737
+  },
+  "margin_votes": 27191,
+  "minister": false,
+  "mp_name": "Smt. June Maliah",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 29612462,
+  "mplads_unspent": 117387538,
+  "mplads_utilisation_pct": 20.1,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 36,
+  "mpsno": 5816,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-01-15T04:35:47.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "June Maliah , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2RKZFdyMlpBNDFlTUtWdVVsWFN2QldFTVI5SW0zV2R1ZzcteGh4U2hPdjVvUzNPUzZKUVpXZEx4YnhkTE05dDBUcWxKNkpnTVNqTmpJOG50ZC0wRnJpSUxaWEdZVDZVaXIzMk5iOGxsUVVnX0pod3Z0NnFTVk9GT3lB?oc=5"
+    },
+    {
+      "date": "2024-12-15T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Video | Meet Our MPs: Trinamool MP June Maliah On Her Political Journey",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3VnUG1RclNMVGFFWFFPckhRZUl3NDZpYVdzSDczc05tQU8xVVpGQVZEWU9wNVRkMUo2V3llSE1UR3VKMm1VZTU3ZVBpX3RXU1FEWjgtMFRCTWp2QVZIR1N2Z0dWdXhXRUlVdlhXM3lEVmVtOG12c1BTZmItb1M4YmhOUXZxN0dwZ2JlaVdJTTFvamwydTU1eldoQ0U?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Medinipur election results 2024 live updates: TMC's June Maliah wins",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNek1xbk4tbVVPTDgyV3gySEZlUmlMWmt5QlcyOFJMVEw5R29DTFVqUk5SaTg0dzBEQXFZMlRvMEczLXBIQ2xiUnlucWN2UzI1SW5NS1VBQm1nQl8tRFZEYVgyNUtKZ2VWU3VkdlZjYVhuVlhxbjRXS3A2cHhBMGxhbUFjQmhqNFI2SU1Sd1dnbnJIenQwYnY5dGNZVGFxU2RKdVdmcldVYUdva3g5Z1hhTnhZaDd1bFAtWGdFcUowNGZCck1lS09SVER5WHplMUtscmRSbmttYVJWSG1rWTZueDBWbGJWSE9JVTNMMkNnLU4xVDU2UFk1NTJBLWNEVEx5enZ4bWF0aFFBRzlYT20tWWxPM0ZpNHptaEtIT2RrZkdabEk4bkpZbWJVUdIBsAJBVV95cUxObzBmU1BicXVHV0N4VnY1X3czUGFpWkFxd0lCZ192cjJJRWUtSUNDVmtNZExJUDZta2wxbDBPWXJnVXBUZWFQbmNhV1phSEtQaWhQNUktMGl1d0x3QWw4V1lXRDA5Uy14LXRkek84aTkwNUN5VXpCYlZpb1FTVlpBUHZ6MzJvQVRfYmRvNzJfdXJFanh6NVNURkx3SzdmbG9acVIwYllURWRsTW9xZXItU0Jmb0h1cWJ5LXU4OHE2eXZzcmhLUEdraG15amxQSjRwSGpZbVcwdlBaUXc5bUFWV20tWGwtMnJVbGItWE5lTFRvUzlOSzBlQjNVdnpDdmE0ZWxxN2N6eFNrdUxqRkRTbEdYRy1GSXRWaTVLNDlYVlBXcXREY1I0NGxCd0RkUnlQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Medinipur Election Result 2024 Live Updates: TMC's June Maliah Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHB2UC1VLXJkblYwbXp1bTAxYjVhOXJRYTljdmFZaGM1Uk9rWGFwbDV5aEZPWmstTVFQUWVyV3hpRFBnQTRtQXNzQ19WYlVnWkFHMkJhZ3FEbXdSY3Q1U2VpV0dQcmRpbFpjRFhVdnlTbExDQzg0RW1jQWlsTEtEcV82akRMYm01QjlKT0pmMXhsWHhOR3N5Y0kxc0NLcTlsMkJ0YTB2MGU0RWFnOTVtMXdZb29SX2FEVHdhOGtRdEVzemgwUV9mR3lR0gHXAUFVX3lxTE1qd2R1NmNvTk5kRVppQWFZQVhWeWZpWG13M2lYa3BoellVVkQzQTNDZlBmczZzN0hpNmQ2VEsxZkc3ekdIUXd1bGRKQWFmRU9MUl82eUVuNGU3OFo4RVZfUWFFQlNUWUQtRy11aHozUTZCWEExRUhfSVowbzlJMHhYVTdfZEROSm1rSjBCUHRsd0FoS2dHakFDbkx6T1ZaeTlCZTJJZ25Bb2lybk1tdzdsQ09iOVc5QzFJcUYxTk55SXYxUE5NRkpmMlFvMk5ISEoyMlMyY1NJ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Medinipur Election Result 2024 LIVE Updates Highlights: June Maliah of TMC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObDVSM0Y3OXlpcGJCU1JKTE5iZUdoZjJhcENMX2VNVEhwSWVOTWxBbUJxcEtDd0ZDSU5ldmp6OEhXbWk3TTdneFo0WWlKWG43RGRIMkhtUkQtdnB3X0t0RTJSZ2xUcHl6anNjT0RsTzlQRFlFdndmblZLZHk5c1FOZmNRWWU3Q2NCa2pCYUNMcnhvV0FPa3N0bE9QQXhXblA1MElJdjYyRWN0NjE5aXhUYU0xdkRBOThOMHl1WnM0VGhNMkk0eXV3bzVhTlQyVGpVQ3Qyem41TXdUZUZnZGlsbktyMlnSAeoBQVVfeXFMTlpqc29qRnB0YnJRajBsWnptWWdOLS1wOFFhX01Qb1BTMDVTcUpFd1BUa1lheDZsSWJhWTczX3BHeDlXbHJMX3hIaVdTREZRU1haOWtJRm9Cc0dDckdYTVNESUU0VTRqVkF6RFE4c0NXM3ZYWDdmdFdIMGkwTVl3dUZWcnpFWm1TY3k2WFl3bW1GTVFHbE5ic1dRQzdaUFNGRmQwQjdnNlczTlFEWnRaZTZleU5jb2NKSmlGT2Z2YkFYQlFFRFhxYzlJaVJrLWdlQXVXeGQ4NjU5NVk3em1iU1ZUVmpvZG9hXzhn?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12424,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-34",
+  "pc_name": "Medinipur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180515.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Actor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Establishment of a National Authority to Regulate Adventure Sports and Amusement Ride Safety in India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need for comprehensive and compassionate measures for protection and conservation of wildlife in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to put in place a single Statuary National Authority to regulate Adventure Sports and Amusement Ride activities in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need for comprehensive and stringent measures to control crime against women and children across the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to release pending funds under Disaster relief and other Centrally Sponsored Schemes to West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to expedite granting the Geographical Indication (GI) tag to Sholapith craft in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to address unemployment problem in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Release Pending Cyclone Relief Funds of Rs. 37,000 Crore for West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to restart the MGNREGA scheme and disburse the amount owned in West Benagl",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need for desiltation and maintenance of Farakka Barrage and Damodar Valley Corporation dam in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding alleged arrest of individuals for speaking �Bengali� in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to address the human-elephant conflict in Junglemahal region of West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding problems being faced by the Bengali speaking migrant workers at Jai Hind Colony in Vasant Kunj near Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need for clarity on Over The Top (OTT) regulation Framework",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Clarity and Balanced Regulation of Over-The-Top (OTT) Platforms",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to recognize Gangasagar Mela observed in Sagar Island, West Bengal as a National Mela",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to expedite the introduction and passage of the draft Prevention of Cruelty to Animals (Amendment) Bill, 2022",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to expedite introduction and passage of Draft Prevention of Cruelty to Animals (Amendment) Bill, 2022",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon to govt. kindly consider an enhancement of the honorarium payable to the anganwadi workers and helpers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding provision of basic Railway infrastructure in Medinipur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Urge upon to govt take some steps to provide ownership rights to people residing in the railway colonies situated in kharagpur",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 27
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 41
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/june-maliah"
+  },
+  "qualification": "Matric",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "AGNIMITRA PAUL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 25,
+    "criminal_deduction": 0,
+    "legislative": 21,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 66018642,
+  "total_liabilities": 17920738,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.4
+}

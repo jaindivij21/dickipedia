@@ -1,0 +1,461 @@
+{
+  "accountability_score": 54,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 20000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 11000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 18000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 49000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 650000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2643409
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1739755
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Bhartiya Jivan Beema Nigam Itawah Policy Sr.No 265707138 Premium-71297 8,55,564 ",
+        "value": 1432006
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2800000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3985000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13250170
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5079",
+      "total_assets": 62250170,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 62250170,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jitendra Kumar Dohare is an Indian politician and a member of the Lok Sabha from the Etawah Lok Sabha constituency. He is a member of the Samajwadi Party. In the 2024 general election of India, he defended Ram Shankar Katheria of the Bhartiya Janta Party by 58412 votes.",
+    "title": "Jitendra Kumar Dohare",
+    "url": "https://en.wikipedia.org/wiki/Jitendra_Kumar_Dohare"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "101 Friends Colony Bharthana Road, Etawah Etawah Uttar Pradesh, 206001",
+    "emails": [
+      "jitenderdohare19674@gmail.com",
+      "jitender.doharey@mpls.sansad.in"
+    ],
+    "phones": [
+      "9412184802",
+      "7500037889"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "06/02/1970",
+  "eci_state": "Uttar Pradesh",
+  "email": "jitenderdohare19674[at]gmail[dot]com,jitender[dot]doharey[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 874560,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 646150,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1166720,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1183050,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 814111,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 494550,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 574440,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 455310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 373910,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 379543,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 365510,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 485540,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 467290,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 402590,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 294520,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Contractor & Agriculture & Public Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Public Interest & Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "Son Anurag Singh Contractor & Public Interest"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3168054
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3168054
+  },
+  "margin_votes": 58419,
+  "minister": false,
+  "mp_name": "Shri Jitendra Kumar Dohare",
+  "mplads_allocated": 188747306,
+  "mplads_expenditure": 106660840,
+  "mplads_unspent": 82086466,
+  "mplads_utilisation_pct": 56.5,
+  "mplads_works_completed": 184,
+  "mplads_works_recommended": 412,
+  "mpsno": 5657,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Etawah (SC) election results 2024 live updates: SP's Jitendra Kumar Dohare wins with 4.9 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNcVhwcUNLeFRNei0wMTcwQlZsVWpoMVJPeWozMzhzWG8yMDIzWW1fWmJRYk04Mjl2aldVMkhKdVhNZkpWQjR4VHlsQzZ3SzRoVVlQdl9zZlZoR08yZmR3ZWFRdFV3eVBvNlNwLV9wZ1hoaF9XV0hTU2U0ZjBYeDBXQndrTFNycUpyUmUzTFBKczBQUDRmOVlpS0dkOFBBNllTb0VUZjNMMUhyRjhRUWNnOUNLQzlha09FUjBnd0RVM1p2OWZESTN6N3k0a2wxNktQVEswRnFfcF8zdmtfRk1BTHRnYVpnck1kcmxfcFV1U1pobUFtOHFyUzZmUGFONW5GYVZsTGVWQVlKejk4RDltQ1U0WktOUzhIWlRKOFBoY1R5U0ZVSkREOWdkaEpOOTRVUHhMSDNJWEM4eFVFX1RzSnNXX1lISy1reHZzNmJqV200SHF4VTZ3anFmZVZhb1NDREHSAecCQVVfeXFMTWx6RDNiUml6cU9aVENZajdralpIWlJlVTl5QVNUZGdPM25VWkZzMkFLWThKeVgzRzRlVTMtYzlTaWw2YkUxaUhEU0wyUW5oMmFTeUhnd3MtZC1EQkNkMC1iZVM3enNudXdjemRseTA0VnlUdXplS1E2a3FzU0FpendvRHdHdmd5dWVMYWF3X3lIdHpRRXVEV1cxOS1mSzlUTXhOeENCZVJMSkptRE5PVjdhdkE2RkRRMHd0OTJMd0F3OUlYZGhUZy0zRjJiSFl2dVNEbFhLN0loT1U1UkEydFJ1MVBObzRpWDFIUWFncDBLcWZpMFB5S0JMWWF0c0YxMVItbDFnR3JETE1WeUd5TXl2WmZtUEF6cFdNQVZQZjJva3czTXZkNUVuYnh4NnBBRHRrc2hjVUFrWDBWd19ZVlM5aHIzWEszZUk3YzQzcWZFQWhJeDdxbmtFMkljV1drWndFc0k4NFU?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Etawah Election Result 2024 LIVE Updates Highlights: Jitendra Kumar Dohare of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekhQVFRDRzM0b2hTNUN6ZklKLUdIdlB0dnFpQ1FaeUJWaW1sQjNEQmtKTkJXVkxud1RtbWxyZ01rcmJxd2JIcHpnWTFKYklTRHJxSTBtaGdocXZoejFQMzR5VXMwVXNFbVhOdHAwVmJyUWdleGJINnlwdFdIekdRU01jbXo5Qmp1c1JwbnUtU0dtS1ItOUZYUXQxNVB0amRkbm53T29nWjF5TE41bzQyLXRfRXRITXp2TkpLUUEyWFZuRTUtejlHQVlPbVVUVUV5WTF6aXNTM0VES2Y4WlhIYtIB5gFBVV95cUxQN25KaVhNUkFBcmY1TjNRMDBBSmc0dzNfR2stakx2OFJsRy1FS1N3anFsTDVQVDgxTnpKeWR5LUk4MWo5MFNLQ3ZlVDlqLTFuYkswUWlKY2xpZTBiQ3RiYXhOY0NudXhNaEUtT1pxdFpkR0tOaW1xSy1ZMzBaeVlvTGtGcUVuUFMzWl8xbG43MmFndUlwMkZiTm80c1FYend1ZUJFUlR3VXJNYmtkejBpYWJhSF9kTWlzRkJ1Q2UtZTZHYU5HRFVEMGNrZ1c1cXMwNms3YnN5SjNuenVkZF93cHlfclkyZw?oc=5"
+    },
+    {
+      "date": "2024-05-31T17:59:31.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jitendra Kumar Dohare",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzEtYlg2MzFJeVNTeC1sMUk5YlNvakI1RkVCU213aWxhREI0eDBPV1lGUkk5SlZsLTBhbGtiVWNGQVlxWG5EX0lTYU5SbEdUbWJWSU5pdXFZMWt1c19hX0hVcE94X0FxaENKcEFvVFpTaDFYcm9uOVFRWW5iUV84bks0NUJRQjdOQVlDY00zNkl3VlBWaG9wUDR0eFlIMThiNHNTNzhXczFhNlRsNFVtOTAwdWZYYzIxdVlGcHQyaFJzTWZFNFE?oc=5"
+    },
+    {
+      "date": "2024-05-15T11:37:40.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Jitendra Kumar Dohare",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVE3MUg0OXctX191Mmh0ZTBHTmFhb01RQzZWOEhQZENkNGVHV3lUX2VRU05lN0docG5pOFFMMFdoc25tTmFRS3ZKTVlsYVcwR2VtamhJTmdXNEFZbWNGNUxVVGNMOWlZUDJpLVZCX01nTkdfRnJZdlNIRDVpUDI1c1ZTaXZwb1lRcXdsWnNwaEVldTVvLWlTVHlRb0RiekM4NkxaeVpVZDEycE9oQTRCc3dNQQ?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:18:27.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Jitendra Kumar Dohare, Sp Party, Etawah, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMS1XNlhRNzZmbllWTjZzY1VWd2VLcGQ2YjVncGF0czhBUEQ5QmFZYWN6RDhLYkZrZkthU1RkdW83QlZNUUlSWFFqRmQyWW84eHExNDVGUmNpSXdpUjFPd3FLMGxXZ3lwMmRZNUNGbTFwTndpdVhtRDVBam9ZWXJqUm5aLXJxQmJ2bno0eC1DdWVabzNfZmxQWEtjMW5SajI0cFA1VWpPREx6bklrbUdRdmlseWNIQTlza0Vfb1B3clV1RVRDejVwR3ljX21oZnV2bXVSVmt0Tm1Sb3FkUXNQWEJra3JRaUhT?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6266,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-41",
+  "pc_name": "Etawah",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180452.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for a Time-Bound Investigation and Settlement of Claims for Poor Investors Defrauded by Kalpataru (Pulse Group)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Doubling Farmer Assistance and Addressing Issues of Stray Cattle and Irrigation in Etawah Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Need for Establishment of a Kendriya Vidyalaya in Chakarnagar Block of Etawah",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to stop illegal mining in Etawah",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Protection of In-Service Teachers from Mandatory TET Requirement and Forced Retirement Following Supreme Court Judgment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to school merger policy in UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of a Dam at Panchnanda in Chakarnagar Block to Benefit Farmers of Multiple Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Employment of Displaced People in GAIL Authority of India, Etawah",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from govt. that the recruitment of the judges of the high and the supreme court should be done based on reservation by constituting the indian judicial service commission",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding need to provide stoppage of train Duranto Express and Rajdhan Express at Etawah Railway Station and Ajmer Sharif Express at Achlada station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding provision of train stoppages in Etawah Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jitendra-kumar-dohare"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "DR RAM SHANKAR KATHERIA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 0,
+    "legislative": 27,
+    "mplads": 94,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 62250170,
+  "total_liabilities": 3168054,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.47
+}

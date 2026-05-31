@@ -3,15 +3,7 @@ import tseslint from 'typescript-eslint';
 
 export default tseslint.config(
   {
-    ignores: [
-      '.next/**',
-      '.open-next/**',
-      'node_modules/**',
-      'data/**',
-      'db/migrations/**',
-      'db/*.db',
-      'next-env.d.ts',
-    ],
+    ignores: ['.next/**', '.open-next/**', 'out/**', 'node_modules/**', 'data/**', 'next-env.d.ts'],
   },
   js.configs.recommended,
   ...tseslint.configs.recommended,
@@ -19,14 +11,17 @@ export default tseslint.config(
     rules: {
       'no-undef': 'off',
       '@typescript-eslint/no-explicit-any': 'warn',
-      '@typescript-eslint/no-unused-vars': ['warn', { argsIgnorePattern: '^_', varsIgnorePattern: '^_' }],
+      '@typescript-eslint/no-unused-vars': [
+        'warn',
+        { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },
+      ],
       'no-console': ['warn', { allow: ['warn', 'error'] }],
       'no-empty': 'warn',
       'prefer-const': 'warn',
     },
   },
   {
-    files: ['pipeline/**/*.ts', 'db/**/*.ts'],
+    files: ['pipeline/**/*.ts'],
     rules: { 'no-console': 'off' },
   },
 );

@@ -1,0 +1,465 @@
+{
+  "accountability_score": 77,
+  "age": 52,
+  "assets_2019": 48172936,
+  "assets_2024": 23615126,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1900000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 6900000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 145000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 420126
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 7150000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 16715126
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xJPoqBUW65mzt2tbW5tr",
+      "total_assets": 7304895,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xJPoqBUW65mzt2tbW5tr",
+      "total_assets": 48172936,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=134",
+      "total_assets": 23615126,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 223,
+  "assets_latest": 23615126,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ganesan Selvam is an Indian politician. He was elected to the Lok Sabha, lower house of the Parliament of India from Kancheepuram, Tamil Nadu in the 2019 Indian general election as member of the Dravida Munnetra Kazhagam.",
+    "title": "G. Selvam",
+    "url": "https://en.wikipedia.org/wiki/G._Selvam"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "148, Mariamman Koil Street, Siruvedal Vill., Distt. Kancheepuram,Tamil Nadu, 631561",
+    "emails": [
+      "gselvamdmk@gmail.com",
+      "g.selvamdmk@mpls.sansad.in"
+    ],
+    "phones": [
+      "9443597043"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/siruvedalgselvamdmk/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "18/06/1974",
+  "eci_state": "Tamil Nadu",
+  "email": "gselvamdmk[at]gmail[dot]com,g[dot]selvamdmk[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 970460,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 981530,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 681350,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 996740,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1171744,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Head of Family"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "From ₹73.0 L (2014) to ₹2.36 Cr (2024).",
+      "headline": "Declared assets grew 223% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 7304895,
+        "from_year": 2014,
+        "pct": 223,
+        "to": 23615126,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3112213
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3112213
+  },
+  "margin_votes": 221473,
+  "minister": false,
+  "mp_name": "Shri Selvam G",
+  "mplads_allocated": 186508749,
+  "mplads_expenditure": 94834304,
+  "mplads_unspent": 91674445,
+  "mplads_utilisation_pct": 50.8,
+  "mplads_works_completed": 78,
+  "mplads_works_recommended": 302,
+  "mpsno": 4963,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Kancheepuram Election Result 2024 LIVE Updates Highlights: Selvam G of DMK Wins",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa3AtYWRlWGhMczBveXF5VTdjTVMzM2ZuRWZxUHNURDRIbmM5QkhPaHZVRXpidm9pd3FqcTlzdzMyMktmcTE0cU4zOFJIcmhwUm1paktIaWFKOVU0dS1WN3BxVlFkQ1pHeHNiSEtiQkpMeTB4TjhEUG12OEo1cGhWekdrcUNqZXNqaVVuVUQ4cGl6ZTBKTmljY3BFSlNwZ2RhQmRJSXZ0eE9pc0ZVY0NnQVVRVUN0MTRYSFFqOUxxQmMyZTQ3RGRuZFFFM0VQcGdTZzJyZ1UxU0hHakppQlBrSzlHamRNV2F30gHuAUFVX3lxTE9hWWZhNHkxcnpQSFRuQkt0NmNVQmlvOGVKZ2FrUGpMdTBRU2t2b1k4ZXFUcF9Ic19qeWl2T1preWtCclg4TzlkLV9IMkN0UXpjNEZHU2FObkpHNGIxQm1ISXRoWUF5bGJ2SGZXWnVDVkZ0ZFM5dnFtci1zT3Fsa09QbXZzRVJLSkRLX000M2xNZHBnS0RtUV83VHQ1MTFmdE5uZm1yVnhXM1A2VkdvSmQ4UHFwMHZjdEVaR2V1ZGIzbUJ2ajk0TjlZRURHUTJHOE9haENUVm0wU21NZFZEVldHQ202NFpPd3VBbHRRa1E?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kancheepuram election results: DMK's Selvam defeats AIADMK's Rajsekar to win Kancheepuram Lok Sabha seat",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPTW5OcWlMVEQ2QV8xWmR3V0lJS0JmZXc2ZW9ZTG9QUEpSYkVEY1VVWHZRSC1GT0ZkTThWeGY4TXVOSG5qQUd3UEF1WmZKcEZmZFhWRHUtNzRaNkQ1cHVseHFPSHRZZ25jV1VSN3dWalFqbEM2T180UEdMM2pmNmpNNE0xSmFyVUdsanE2T2hXWVg4WF9xenJEdVVmdUlLdkF1THNQTFhXQWZueGlMcldSQnF3Tk5QYzVQaGpfbVNSVXNjM2hlV2FiZnZwOEFDTWN1MTY1XzJIclZFeDU2ZHBLYk5ZWGVsenZBaVNTcGV3bmZCdGhnRndvRWFWY01ZSHhrbnRPQXdIeGlNTkhZQjUtVy1jeUdPUmZrWGlZTmFDT2ZNLU5RRlBNMHJnRjdUTkQzbmplSS11a2dpd2hKX211Si1ma1BfYm5EQ0FsY05nUnZwQdIB1wJBVV95cUxNRnNwcnRxYUtaUTlCWmRUdVl6RWNPUkdtaFloVmJMS0N4Si1OY1NiOVpqLTBpVHFoTnBEZ3Q0QTQzbVNFYW1WOTRSOTJpSVpvNnMtbzF6S2tZSjRZRjNYbFRkV2Z2S3I4Q2Rjam9TcG1rRU5HaFN1YWdDN19XWjlpbm5rcm9oRG1kU0o2eGhUWGZjUmxtYWVyMmFmdURKR2NNTEtxZnlycFhSbkZFWVJ4aHJ1YUZ2SnRfaG5IMU5YOUpKaW1wUVh4WmdNZF9LemZfWnRBZnF5SC1PbWNLeDY0azRsVzZzR1k2M2VJSjJFcUJ5ZjB6ZEdjYVp3Y0Q3Q29fSXZxbWI4MzdNQlBxSFJtS0huX28tNW12MVhWWWpaX056SjNhM2FlV19UMWtTMXhqanctSGN1c1J3OTYzTzFDZHNhWVdOVzF4T1ptU1dVdzFhZU5HZDJN?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 16965,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-6",
+  "pc_name": "KANCHEEPURAM",
+  "pending_cases": 0,
+  "phone": "Tel: 09443597043 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180368.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Extension of Chennai Metro Rail, Vande Bharat Train Stoppages, and Doubling of Chengalpattu�Kanchipuram Railway Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to take necessary action for promoting export of Kanchipura sarees",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to establish a dedicated Handloom cluster in Kanchipuram Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to address the demands of residents living in the vicinity of the Kalpakkam Nuclear Power Plant in Kancheepuram Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Increase MGNREGA man-days and Wages, and Release Pending Funds for Kanchipuram and Chengalpattu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for New Railway Line Between Dindigul and Sabarimala to Ease Pilgrim Travel and Reduce Congestion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 224
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/g-selvam"
+  },
+  "qualification": "Post Graduate",
+  "questions": 73,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 3,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 4,
+    "Education": 7,
+    "Electronics And Information Technology": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 6,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 5,
+    "Micro, Small And Medium Enterprises": 5,
+    "New And Renewable Energy": 3,
+    "Petroleum And Natural Gas": 2,
+    "Power": 2,
+    "Railways": 7,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 3,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAJASEKAR. E",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 75,
+    "criminal_deduction": 0,
+    "legislative": 73,
+    "mplads": 78,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 23615126,
+  "total_liabilities": 3112213,
+  "wealth_pct_increase": -51,
+  "winner_vote_share": 46.53
+}

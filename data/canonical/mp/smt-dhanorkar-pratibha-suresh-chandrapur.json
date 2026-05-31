@@ -1,0 +1,516 @@
+{
+  "accountability_score": 28,
+  "age": 40,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 42892776
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 179840351
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 100851852
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 62234500
+      },
+      {
+        "category": "Others",
+        "value": 333000
+      }
+    ],
+    "immovable_total": 386152479,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2566000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 22735326
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3254625
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1047550
+      },
+      {
+        "category": "LIC Policy No 97491xxxxx and 974915316 5,01,657 5 Lacs+ MAX Life Policy No 50103",
+        "value": 5655033
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 29471517
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 28543479
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7392000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 316942900
+      }
+    ],
+    "movable_total": 417608432
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=g8mUdFg4bx8UZzFFGpCj",
+      "total_assets": 130802042,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=300",
+      "total_assets": 803722094,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 514,
+  "assets_latest": 803722094,
+  "attendance_pct": 80,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No 748 Laxmi Nagar, Abhyankar Ward, Warora Chandrapur Maharashtra, 442902",
+    "emails": [
+      "pratibhadhanorkar0006@gmail.com",
+      "pratibhadhanorkar.06@mpls.sansad.in"
+    ],
+    "phones": [
+      "9540560407"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "09/01/1986",
+  "eci_state": "Maharashtra",
+  "email": "pratibhadhanorkar0006[at]gmail[dot]com,pratibhadhanorkar[dot]06[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4985511,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 7229823,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1052120,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹67.29 Cr between affidavits, while declared income across 1 ITR years totalled ₹49.9 L.",
+      "headline": "Declared assets rose 135× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 672920052,
+        "declared_income": 4985511,
+        "itr_years": 1,
+        "ratio": 135
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹13.08 Cr (2019) to ₹80.37 Cr (2024).",
+      "headline": "Declared assets grew 514% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 130802042,
+        "from_year": 2019,
+        "pct": 514,
+        "to": 803722094,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹13.92 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 139168111,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 105765131
+      },
+      {
+        "category": "Anil Narayan Dhanorkar 10,00,000 10 Lacs+ Ansika Traders 70,00,000 70 Lacs+ Saty",
+        "value": 446621479
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 552386611
+  },
+  "margin_votes": 260406,
+  "minister": false,
+  "mp_name": "Smt. Dhanorkar Pratibha Suresh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 7831889,
+  "mplads_unspent": 139168111,
+  "mplads_utilisation_pct": 5.3,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 70,
+  "mpsno": 5748,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-10T13:01:14.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dhanorkar Pratibha Suresh Alias Balubhau",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWRhU2RGS1NJRmUyUEtJb3E3eldQRFB0ejdCLVlndThxcXBXZUxKOVVuR0FCZklLdjhkaTRjbF9RRmlNRWlBTXhPR0xFeEVfUG5qTnpEQmI1S2NfT2VoNV9rZUpKRUdMT1l6VGlXRVRyeDV5dmRNNXRSNERacndhMWtmTF9NOVVRUGZjbXI3UXhrb3ZYbFpJc0V4V2NyUnlLUkJCTjhRSQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chandrapur election results 2024 live updates: Dhanorkar Pratibha Suresh Alias Balubhau of Congress wins",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb0tpb01sVU12OEVIWHItNURkMEFOVGJFcncxTVlXTkN6TkpNSzhQbTBLd05acGxoUHVNMUV4VVJCQm1mZ0d0TElGWjQ1MG8yYmI4UlducjF2TnNQbzdYMFpEU1RnVUhhaFZPVmJWeFhlQllGZFRrRXJ5RWFYeDlSNF9HaG5yQkliVDlOLVZrOEZiTUV6OUp6NEhlT3dTa2ZTcWZ5TmpjQllVYkQzMUFHdDdtSW1yNWtIMFgzekltYkVjTUN5bmV3YTFaRWJlOUJ1RndyQ2FrMnRHcHZnSXAxUzB5b2lfM2NTanFxMUhfYm5ZUlBxWTBGMnhBeDU4cWVxUmx5alJzeHoyRG1DSEx6X0VGSGlMZ9IBmwJBVV95cUxNTEd6THJWSWRDUWE3R05UQ0hBdVdwejJDeC13RUZUbHZnazl3Ul83bVdUdkNIeks0SjdXUUUtaWJwNTNVbFRJRHQ5bXNjVFBaODNDUkpJRm03Q3Nqd1k5V2FMbTVPTGM1eklfLWxBNjE1bS1GejZuOURzM2lfdzlHc2tXS2Y3NlgycjRoRFg3YlR3MVRzb1dWZFdKZDVkMk5qOTBtV3J6MVZXWEM4ckZaMzBwOEhfUFA5SmN5dENpYUp2V3RmaXY4b0VYSWIta3FZVEZ4UGQ3aUhtZG9mM2E2Wk5FQmN6eWgzRmxTN2h2VExXbl9QRlFtTDhsU1hhTjlvYUVFbUcxS2J1U1RscXlOYmJqbVMtTjhQM3Vn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Chandrapur Election Result 2024 Live Update:Congress's Dhanorkar Pratibha Suresh Alias Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUWxLdXR0TlJwazg2SUl6bF93UzZrbkFkN2ZxTUEydFF1bTVsRko0WXBlS1lZNHlJR0xrSlNEcFBYVnJ3RGxVVkpNUTZiT19VUng3dGhoLVVuWkJIMlBTdS10MGM1SDJoeHBMNS1ZZTdyMnFrLXFIdlhCeHY1Yml3ajJZVE9maUZheTRJNmNXTXozbkIzQmxRaEFkbXZ0X2hzOGhDdEZMZGQ2cUdhbHpJbWltQzBTWXZPb0lGMTJxUjU4T213UGVPcTJURdIB2AFBVV95cUxQbGlQXzRSQnBvdlh6Q2Y5VVZ0UDRMNENQanc3dHNhU3JkOGc1a3hKMGpsUlVtcHRKelpQV2VQd3JlNlRQWEtWYXRkX3VCVzRhQkpLWTd0d2pHd2oxSXVwblkyUG5hYVlNbHpTejRBcTVKeTBHR3lMNUw1aGE3X2tmOVZQVDdTQVJrTV81aXNSejEwX1IyY3pZdjZXMFUzdm9mS1NzVGM0cG51U1c5LUc3OXNfSW9yQlc2eXRsc0xvUzV3Rjc5WEt1Y0ZpZWphVTVmamw3ai0teDE?oc=5"
+    },
+    {
+      "date": "2024-05-31T20:01:27.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dhanorkar Pratibha Suresh",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1c0Q1pXSHNWdG93RmoxcUxwbGtvTV9wTE5XeEJRZ2xqdXhMVGVqRzliQnFsVFZZZHRmcHUxc2xQYWpBM2lkR1NlOTNsUjRjbUI3cHFZc3pVVHdOSnpuVVU5c2lWV1IxTHVXT2FDdWdWWWUzMV9YYkdZNHVFSmxxX2EyQWxRNXo4ZGE2MXJhWDlrd2dSVTVhcWJBRmxfcDdHQVQ5ZTczdGQxSnNIX2NmdzBhUC1MeXV4TFM4TVhwZEljc3V6UDZxdGJHUElSdw?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:24:58.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Dhanorkar Pratibha Suresh Alias Balubhau, Inc Party, Chandrapur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSWFkWVdaZGNBNThfaWxlVW5vQU51ZXN5ZWl2NktZdnB0S2RfVzFXR2RWdlBCZnJ6VGdhWm5lSUgwb1lYdjltU3FBNmhYSXl3OXJrMldlY1ZnUlpsLS1EOHFLeGhEbHBRR2s5ZlA0cjFHc3ZPXzkySy01NjY4d1ZHOE16V0p2YV9BZThOV3FhVVlWZFlSYktIenVjY3hMRmJLVXppMnhiNnlSM2xuRG1BVEtjVmtLUjg4WjgxNFJhdHg0R3pPY3VHZ2o1R19CVVhCM3lUQk1WR3VNYi1BNU04YjdpdkZFOFRGQ1hFaEMyLThMbGxENGxsblN2Y0M3SjJLQW5qYg?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10843,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-13",
+  "pc_name": "Chandrapur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180260.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand to Waive Proof Requirements and Grant Forest Land Titles to Farmers in Jivati Taluka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Related to Environmental Pollution and Health Hazards from Chandrapur Power Station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need for adequate compensation to farmers whose lands were acquired for construction of railway line in Chandrapur Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Introduction of Direct Train Services from Chandrapur to Mumbai and Pune",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Enhanced Pension and Medical Benefits for EPS 95 Pensioners as per Koshyari Committee Recommendations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to increase the quantity of foodgrains distributed thourgh PDS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Direct Flights from Nagpur to Gaya and Varanasi to Facilitate Pilgrims and Improve Connectivity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Expansion of Rail Network and Introduction of New Trains in Chandrapur Lok Sabha Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for relief through the crop insurance benefits to farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt to take some steps to stop the famers� suicides",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 56
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dhanorkar-pratibha-suresh-alias-balubhau"
+  },
+  "qualification": "Under Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Coal": 2,
+    "Communication": 1,
+    "Education": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 3,
+    "New And Renewable Energy": 1,
+    "Power": 2,
+    "Rural Development": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MUNGANTIWAR SUDHIR SACCHIDANAND",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 31,
+    "criminal_deduction": 0,
+    "legislative": 46,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 3
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 803722094,
+  "total_liabilities": 552386611,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 57.88
+}

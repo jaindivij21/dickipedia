@@ -1,0 +1,438 @@
+{
+  "accountability_score": 33,
+  "age": 43,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 0
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 2500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 180000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 355295
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3909840
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 6445135
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Madhya Pradesh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=hJXQU8i87FprhiaavzGc",
+      "total_assets": 13127439,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1831",
+      "total_assets": 16355135,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 25,
+  "assets_latest": 16355135,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rahul Singh Lodhi is an Indian politician from Bharatiya Janata Party and was a member of the Madhya Pradesh Legislative Assembly from Damoh. He was in the Indian National Congress and he defeated Jayant Malaiya of Bharatiya Janata Party by 798 votes in 2018 election. Lodhi joined BJP in October 2020 and was given a ticket for 2021 by-election where he was defeated by Congress's Ajay Kumar Tandon by 17,097 votes.",
+    "title": "Rahul Lodhi",
+    "url": "https://en.wikipedia.org/wiki/Rahul_Lodhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "B-3 Vaishali Nagar Damoh Madhya Pradesh, 470661",
+    "emails": [
+      "rahulsinghdmo07@gmail.com",
+      "rahulsingh.lodhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9039999992",
+      "8435399999",
+      "1123092210"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/RahulSinghMPWLC/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/rahulsinghdmo?lang=en"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/rahulsinghdmo"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "23/12/1983",
+  "eci_state": "Madhya Pradesh",
+  "email": "rahulsinghdmo07[at]gmail[dot]com,rahulsingh[dot]lodhi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 837187,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 521226,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 415621,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 344221,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 80000,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 425850,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 350000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 248850,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 350850,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Warehouse Operator, Ex-MLA"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife & Agriculture"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 25%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 25,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 36% of MPLADS local-area funds were spent — ₹10.52 Cr unspent.",
+      "headline": "65% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105173713,
+        "utilisation_pct": 36
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 553202
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 553202
+  },
+  "margin_votes": 406426,
+  "minister": false,
+  "mp_name": "Shri Rahul Singh Lodhi",
+  "mplads_allocated": 163058785,
+  "mplads_expenditure": 57885072,
+  "mplads_unspent": 105173713,
+  "mplads_utilisation_pct": 35.5,
+  "mplads_works_completed": 32,
+  "mplads_works_recommended": 270,
+  "mpsno": 5689,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "BJP MLA highlights OBC Chief Ministers under BJP rule: MP's Lodhi Community eyes political power after cast...",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbjQ0OG51UVRnd3A5THp2NUtNdFZ0bGVoTV81ejRQbVV4eTVmUkxiX1BKdHgzWEpRbXdDXzZBRlp0R2plOVNFNmd5TW9FSkZCOFRydTlvUFQ5UUpjakJsQV95QVpVTFNHU3I4eWFPUUVsVXQ0NzktNVQweDJXQ3d1aGxBQjI0dDhqMnQtWVhqY2pQWmNwcVY1TWtIZHFWRVdIV1h4b3JCVGVxU1EyM09tdlZvMXBVemJjVEk3UGZ3emk5S3JReHJ2d2g5T00zMzI4dzNGT09BUGxQOWRUaUZ6SEM0a2NHazNsUlYxNzNmVjlZMjNlVTNFbEptVVVBTHPSAYQCQVVfeXFMT1RvZWxaRVVLeHRTSWZTOE5iSGExNWxTMnc0dHBjRmNfOGYtYU1TRWZIWkdpLWNybVVKZ1JVNzNiVjRqcl9NS1N3U0gwUHl0ZEM2RDI5T1JGVGRfNFFpQXZ4MTZvRjJJUlhGTEpYVWhsbnJQbXBnb1hPRlJDV2R0UGtROThqbUpNZnUwY2o5ZWMzQlA1d3hIUFZ0dDEwM3hpc052X0NkdWdSV1Jfd25IMFFWS05PUVdYS2l2MDE4ZWNlemJMUkF5UjhWcGRNcHY2b1ZDYjB0UFp5bzJ4SGZvZlJId2pPWkxvWGVFU19uNGZBWENmQ2dKQmZ3LVctMlBPMW5LSWk?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Damoh election results 2024 live updates: BJP's Rahul Singh Lodhi wins",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPX19MZ3pILVdrd3JjNllrVi11MXNydk4zTDBtV1JSVUFVNGc4VzVUeG5SNG8yUW1uQ3hUMWtMOUJSckdlczMzMjdGUURGNWJrUzdoOXBYdC1FZFlLbVhqRHlTRjBYYXBpSlJ4NndocmgzREJCdl9MRkRtT1BQUjFFdE5ZSEpSZkMxeXk1VWxhM2NfaEo0Y3RaWlNIUXZWX1J2UkdiLVBsaDVqU2R3VUltRnM4RFZzSWZ4eDhQdTBJUEhXdEJuTldWVkEyVzE1Tm13V3V2T0w1VGs4dk96dURPcVNyLTJ5Z2lyS3EtYkVnZkx4UXpmTjZtMXRNaHItQXFoRUFRa29wZTF0T1ZJc2k0UDFwNjJmRzc0OUlPSUxRWEtpNlFUZmNZOEh3cFZ1cHllc2Z5eEdOcDRhQ2RYMHBhaGszUDVMNzVvZEHSAc8CQVVfeXFMUDZEWHBScWxZb1VMX3VYTzZibkU1UFZJdVJvWndpNmNCTFl1SUZSblkyQm9CR1JfY3FFVlc2REJvV2hreV9MTEhTSTQxbTl0aEx3enZFYzNRZElyemloR0wwUmJFanRXeXoyUEQwa2p2MjV1bnh0bHpTZTJJSTlRSTZadHo1LVJic1kxOFkwZGpVOXFES3BKdkpJUUhHQVlHZ002ZWl5ZEtBT0VwZ1N3OU1KZ3UwcWdCSG4taWxiX1REMUtDa0NYUEQ3S0xrYWRyaFhXcDBER2IwY1J2Wmg1c1h4RTY3YWFWaS14T3dlNEtfTWtGTGE5YkNSOVV4SXJXSEZ5X3NvdnRWY1pPMzFteXZXdnlaaktZWkRJdEI0YUNBWmZyS182Tm9zcDE3cVEyaUFwSDhNbGEybnN5cWpZUDlPZk94bjI4WU1YQ0VzeEk?oc=5"
+    },
+    {
+      "date": "2024-04-25T09:35:52.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Rahul Singh Lodhi, Bjp Party, Damoh, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTDRKT0o0WTBkUTk4MkhZMnBPcGRhUU5yaVpMMTZVMXVXR1BVUk56SW45TndreDdJZTk2dUxCS0d0R3ByQXdEcm1XVGh6YzU3NGdnWi1YOUl5elk3M0Q4bGZhTk5TNWdaZTlCMDVqZU9XWmFmdmF4LVVUUzMxMHFUVU1rMlc2eXdiOWlvdm9DUUpoOXdJcHZuM2pqRllSZjVUOU1XV050UVU4b3p0dERuLTR0Tnpmei14OVMyd1VmVUhhbi1Ick14aHFXaGRWSUlNN0Jya0lvV2NfY2ZLdGQ4ZHdhZw?oc=5"
+    },
+    {
+      "date": "2020-10-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MP: Congress MLA Rahul Singh Lodhi joins BJP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTM3bEp6OEcxUHpiUnFXSk10NEw0LU5rUENOVk9DVi04Y05lVUcyQnBYT0FHWDNwNHJHZ0xGTFNEOF9YMjR2NTZOVFJHaFZkd1ZXZ1BJU3dkQ1FRaVNMVVRUMVIyRUVVQWQ4aU0tWENoOElaMy05SzRBeTlTdk5rdi0yUFBPeXItVDg4TXBJYTNwazA4VUdqbGJSeVlIS0xXU3BSRnJDRDJUY1oyblhxdnEwa9IBuAFBVV95cUxOVmVJeXp6bVdZbWZuQ2UxSkdvQUlYbkNRUnFGaFhvMG1laldJTGx1STBOMWd1QWNuTm56dW5fV1dSdUVBTjlrc0pLY3d0aFA1ckJnRWtEUWtTcHV1WXZUU2NkaGUzNHBlTzV3UVExWXAzMV8xcWtQaGM4Mnh5Y2RSa1p5UTRiN3RWeFJxYXVPT2FqdlNnSkt4WGlVVlA0R05USk5MM2lINExZaThkYmd4QUZ3VGxaaWxr?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7833,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-7",
+  "pc_name": "DAMOH",
+  "pending_cases": 0,
+  "phone": "011-23092210",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180234.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 94
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to provide 50 percent disability Certification to monocular persons",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Completion of the NH Ring Road Connecting Samanna Bypass to Hatta Naka in Damoh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Connect Narmada River Water to Sonar River for Irrigation and Water Supply in Damoh Parliamentary Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to build rail route from damoh to kundalpur and kundalpur to panna as soon as possible",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 62
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rahul-singh-lodhi"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "TARBAR SINGH LODHI (BANTU BHAIYA)",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 33,
+    "criminal_deduction": 0,
+    "legislative": 22,
+    "mplads": 50,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 16355135,
+  "total_liabilities": 553202,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 65.18
+}

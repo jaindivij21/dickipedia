@@ -1,0 +1,757 @@
+{
+  "accountability_score": 44,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 59000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 100889766
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 159989766,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 800000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 16263262
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1420268
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Life Insurance Policy 927325118 1,50,000 1 Lacs+ Life Insurance Policy 881834202",
+        "value": 950000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 66994815
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 9504525
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2615000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 4465178
+      }
+    ],
+    "movable_total": 103013048
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7462",
+      "total_assets": 262602215,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 262602215,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Naresh Ganpat Mhaske is a Shiv Sena politician from Thane district, Maharashtra. He is former Mayor of Thane Municipal Corporation.",
+    "title": "Naresh Mhaske",
+    "url": "https://en.wikipedia.org/wiki/Naresh_Mhaske"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Row House No. 21, Eternity Friends Cooperative Housing Society Ltd., LBS Marg Thane Maharashtra, 400604",
+    "emails": [
+      "nareshmhaske@gmail.com",
+      "nareshmhaske.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9819389080"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/minareshmhaske/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/nareshmhaske"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/nareshmhaskeofficial/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+        "section": "452"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "471/2020",
+        "charges_framed": false,
+        "court": "CJM Court Thane",
+        "fir_no": "136/2009, Kopri Police Station",
+        "other_acts": null,
+        "sections": [
+          "353",
+          "143",
+          "147",
+          "148",
+          "149",
+          "452",
+          "427"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "301637/2015",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "II 57/13",
+        "other_acts": "Section 37(3), 135 Bombay Police Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 19,
+  "dob": "24/03/1970",
+  "eci_state": "Maharashtra",
+  "email": "nareshmhaske[at]gmail[dot]com,nareshmhaske[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2035270,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1318500,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3791070,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2215800,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3039077,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1399150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1924660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1366970,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1518990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1426686,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Construction Business, Rent, Interest Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Construction Business, Rent, Interest Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 28866553
+      },
+      {
+        "category": "Atul Bhagwat 35,00,000 35 Lacs+ Madhavi Mhaske 74,24,337 74 Lacs+ Yash Infra 37,",
+        "value": 17197337
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 46063890
+  },
+  "margin_votes": 217011,
+  "minister": false,
+  "mp_name": "Shri Naresh Ganpat Mhaske",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 0,
+  "mpsno": 5693,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-09-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Bombay High Court rejects Rajan Vichare’s plea against Naresh Mhaske’s Lok Sabha victory",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMDM2eWdSMC14cFdCc3ltX0NXOGhqLXZnRTRRTk9VUTZMWmxrMi1jNmtRWmpOWlJNd1AxSk1JcjRpcDlRaHlvRzdnY24tSDl2czZZR2FkdjhSZDhBc0xYN1FwYXhCejNYT0dvR01WRUxMOWVhY29uVGo3U3dOY1BNOVBQX0toQ0MzRHdoVkg5cThTYmo4dFhSc05DeG1jM3ZVMVRWZmxaQUluN0pqQlZ0NzZCMmQ0R1NYRW5vdTNwRUJ4aWliM3lXLW41THBJTUtHY1VmZVlNd2dsYzdRdEVKM2pwUXHSAesBQVVfeXFMTVg3MFdYTFpIcFlIN3NBVXY5MFRkVE5xcUttX3RLSi1VanBiUEg2V1hjT0pxMGVTR2xIXzhRUGx1bUNGZ01aenFDbHI0SWtLTjdWZDZCMHlqWHgtLWhnRXRYS1FVTUpzUk1tM0hOTnJaTFdsZU1xcTZZUElXRHV3ZzV1a2hXdVpSY196S3BaWk9FUXZzNUxGMFhZRmZBVGNHXzNXbnQzYlpsMzkyWDY4eXgzcVNjNVpYRm9icVZBN09MNUJzVlE3ZE9IUnlGd3NfUDlNOHRtRUJMcVJ6Wkx5T2xFSEV1UWJoa0xXZw?oc=5"
+    },
+    {
+      "date": "2025-09-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "BW Legal World",
+      "title": "Bombay High Court Upholds Naresh Mhaske’s Thane Lok Sabha Win",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk5YeXlfNzl4YXQzTVBINjJYSHFqNmZreDVmQXJMZE9ndE9XckJtaE50Ql91SXEwa0RNTkJUUzBQbzV5aEFiRy15VGI0eS1YbGsyZm56aTROSWNvOFN4VXRXS3VSc3lHTUJmUkxibzFVNGhsNUsxQXVVbm9ja1kzMVI3blM2UnJqdGFjcGQteXY0Q240Z1ljOUE5TmtXMVJlTHVVZWFlSQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Thane election results 2024 live updates: Shiv Sena's Naresh Ganpat Mhaske wins",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOc3BNQXVkQkVEYmhlYUU1ZVVlei1Bc1RwYmhxamlPbllyTE00OGNnZy11RmFialYtRjg2VHYweUNHTzBXMFlVS2hsbldlVlE1cDFDVkF3Sl9oNjNHWFZKMFYwcW1paTUxU1Q0UktiUklsM1QtZUVrLVJwOWplRHZMSXUwZXk3eFBwZWNRWmQzSXpEYi1QSjZiN2ZpQ3ROaUpQaGxacVNJRVFNVGRmVGlJWVJjMl9nbDc4SlJCaDJIaTQ4VFl6TmlwWTJEbTYtbms2LXQzVlo4Qkd3YVV3Q1ZjYlc1d1QyNE5vM3NfY2NGVTdBWUxGNFVjYVF0RDlfb3pmMFFwNWtOSm5MVUcyVmdVQVFYOFRaSWlaZFV1MXpGMEhFZU9SejhtUGt5Z0NmS25lUVdzeNIBugJBVV95cUxON09nME0wTl9EY0xUZ2ZyTTRuWDRBY0hVVUNFeXc5cFZmUGFMSVNmN2JIY0RRbC1XREVLSGVPRXBqcGhsSWxNRHBmQkNQaVl2ZjRoelJCZ3R5UUs2WGZQUXJ6c1BaMzFFR3hHYlVFOGIwOE9nYlFIQ2N6bXc0VWoyYWpjYnJLYnpnTUIzdmllM0xQck5TYWxrMHlzUEpaWHg2MC1kSG14ZmVoYkgydXVRNzg0bEpPUktVQXNxc0FxRU02WWx2OUNnVTdXbWd0Mi00ZXk5bWRNVERkaDRwSE5TS1ZsSUE1cGtHZTBYVVhFaTE5VHhxNnFkeDZGZmJmY01NbU5WTk15akJLNmpPUjNER0YwOXZTQllGeWNYYzRKU3hsMnAzLTVNeUtmbG1kQXo2UlJUZ3AxemJnZw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Thane Lok Sabha Election Results 2024: Shiv Senas Naresh Mhaske Won By Margin Of 2,17,011 Votes, NOTA Stands",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZldOZTE4d0NUYkRDVFlXQ3VDQzdRWllBdTRpUS1aVFpFZmhOMGVWXzJtLW5pUnp6NVh4NGhyZF91WU01eGs1VGhCVFhnemtrNmZBV21UYlBncGZQcmlZcmJlbUNIUkhfTzhpZHNKWTNiY202MWNFdy03VFduNjVEVEszeXRraDNmajRIRGFneE8zMVNYaEdaSVRqY0VtM3ozaUIxX2NLOW1lcEltX1dmbXdvd3pBUmRHenZTNkpMakRGclJmRjQzNTR4X093dEJ0dElhX3VMYWlEWTNiRUVfMHV4a29wSlNYMF9HYmlYT0VWVVZySkIw0gH8AUFVX3lxTE9ZZV9SYjROMTNHeFZVN2htZTZRNHg2Xy1VWEZTQWZhMm1SbzFfb3E2UEVrOTFlNk5sS3ppWUVsODFNQzRCNzhpeGRSZDB5a3UycmlfcmJqMWRYSVNwNVkxYWtCQllzRnlJZGdSTjlEOWVKaGRtdlhHZVFVNmx3WTZES1BqT2gtakw3ZXhHQXBkTWRvZGY4V2w3N0xidlh6d0tpcXg2ems5OXAxaTZvb1BkME1GaTRXYWYxLUV3LVdjZmt5MmZwWGRCMkswbF9XZ2c4YmtHbTkwbFNzVlpsZkhTMHZYZjA0M0hJRWw3dWhQOElHcHlPYV9MWlRzZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Thane Election Result 2024 Live Updates: Shiv Sena's Naresh Ganpat Mhaske Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObGI4dGJkQ0ZzT0Vqbm9mLVZtai0weTNpTmFpVjJGRTJ2U0ZZcU9MUDRDRGYxX1JKZnpuWTJRZFZ2cHY4LUMzTDdOM005c1diMTJOY3Y5UjZoQ3M1cEcyZzhzUDNiWU90dm4xMUxnbFNLZ21kZUFwaUoxYVozT1BWOGJYVkFQUVhyWGprZndHdDdXRGJPZl9ZeWpZQWxZbzJOd1c0UF80NmJYdkRjaWQxTG9RVUVhdmZLWEtPVEZJaWpMM19E0gHSAUFVX3lxTE9rX0NZTk10Y0lmR2ZCTWc0akF2SzRwSVctYjlaMnVoM2txNDc5c3lwYTFvTFJ2RUxBeW5Rc1JTNkFVY04wR19RYTJuYm9MTVV3OU9ubnV5cFNNbmNyM1dxcjQ1dnVYZ2FNZWZJbzdMTjJMX3FTSzY2Nnc3bDhaVVFfQTl0Mk9CaUxFQTZLdW1jZlNoRnl4aWJaS2NlNkoyYTRNZl83NmVJV3draDVsOUs1YWlLV2Y2cXJfWHB0UnhFRms4MkhYWlBmRkxjUm5oLUdXZw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 17901,
+  "notable_record": null,
+  "num_candidates": 24,
+  "party": "SHS",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena",
+  "pc_id": "maharashtra-25",
+  "pc_name": "Thane",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180271.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Centre�State Coordination for Redevelopment of Encroached Lands in Maharashtra.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to enhance medical insurance & facilities to the victims of road accidents",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need for a scientific and holistic approach to address human-leopard conflict in Pune and Ahilyanagar districts in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for better medical facilities in Thane",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Immediate Completion of the New Thane�Mulund Railway Station by the Ministry of Railways",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for Fixed Salary, Social Security, and Equal Pay for ASHA Workers Across India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding railway related issues of Thane Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Amend the DICGC Act to Provide 100% Deposit Insurance Coverage to Depositors",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to increase the amount of pension under National Social Assistance Programme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Implementation of Koshyari Committee Report and Increase in Minimum Pension under EPS-95 Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Demand for Merger of Konkan Railway Corporation Ltd. with Indian Railways",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Removal of Memorials and Graves of Oppressors Who Enslaved India and Oppressed Freedom Fighters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Increase Minimum Pension under EPS-95 Scheme and Provide Free Healthcare Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Strict Regulation and Censorship on Social Media, Broadcast, and OTT Platforms",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Establishing a Central University for Marathi Language Development and Research",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Raised the issue of atrocities on minorities in Bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to take steps for timely completion of Inland Passenger Water Transport System in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to control OTT and social media platforms streaming objectionable and obscene contents",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. provide benefit of crop insurance for the year 2022-23 to the farmers of jalgaon",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt take an appropriate steps so that discipline and control can be established in the field of online gaming",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to minister should consult the german govt. to return the girl named ariha shah to her parents judicially",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to ensure the return of Indian child from Germany who was taken away from her parents by Child Protection Services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding declaring Thane Railway Station as heritage Station",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding need to transfer Salt Department land to MBMC for developmental work in Thane Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Request to govt help to transfer a land of soil department for building a road and providing civic amenities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 49
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 240
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/naresh-ganpat-mhaske"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 75,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 4,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 3,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Corporate Affairs": 2,
+    "Culture": 3,
+    "Defence": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 3,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 6,
+    "Jal Shakti": 2,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "New And Renewable Energy": 3,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 1,
+    "Prime Minister": 2,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Science And Technology": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAJAN BABURAO VICHARE",
+  "runner_up_party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "score_breakdown": {
+    "base": 51,
+    "criminal_deduction": 7,
+    "legislative": 85,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 262602215,
+  "total_liabilities": 46063890,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 56.09
+}

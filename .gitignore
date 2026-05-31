@@ -1,11 +1,13 @@
 node_modules/
 data/cache/
-data/raw/
-db/*.db
-db/*.db-*
+data/raw/*
+!data/raw/*.json
+data/canonical/mps.json
 .env
 .env.local
 .DS_Store
 .next/
 .open-next/
+out/
 *.log
+*.tsbuildinfo

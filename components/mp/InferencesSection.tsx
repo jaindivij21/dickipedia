@@ -1,14 +1,9 @@
 import { Sigma, ExternalLink } from 'lucide-react';
-import type { Mp, Inference, InferenceSeverity } from '@/lib/data';
+import type { Mp, Inference } from '@/lib/data';
+import { SEVERITY } from '@/lib/constants';
 import { DataSection } from '@/components/mp/DataSection';
+import { EmptyState } from '@/components/ui/EmptyState';
 import { SRC, type SrcKey } from '@/lib/sources';
-
-const SEVERITY: Record<InferenceSeverity, { token?: string; label: string }> = {
-  extreme: { token: 'var(--color-danger)', label: 'Review-worthy' },
-  flag: { token: 'var(--color-danger)', label: 'Flag' },
-  notable: { token: 'var(--color-warning)', label: 'Notable' },
-  info: { label: 'Note' },
-};
 
 function Row({ inf }: { inf: Inference }) {
   const sev = SEVERITY[inf.severity];
@@ -72,9 +67,7 @@ export function InferencesSection({ mp }: { mp: Mp }) {
           ))}
         </ul>
       ) : (
-        <p className='text-ink-soft max-w-[68ch] text-sm leading-relaxed'>
-          No notable patterns surfaced from the available public record.
-        </p>
+        <EmptyState message='No notable patterns surfaced from the available public record.' />
       )}
     </DataSection>
   );

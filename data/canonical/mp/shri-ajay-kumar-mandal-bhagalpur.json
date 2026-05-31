@@ -1,0 +1,418 @@
+{
+  "accountability_score": 47,
+  "age": 48,
+  "assets_2019": 6801126,
+  "assets_2024": 12232756,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 0
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3600000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 430000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 398406
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Policy 49,95,000 49 Lacs+",
+        "value": 4995000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2108300
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 528000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8632756
+  },
+  "assets_earliest_year": 2015,
+  "assets_history": [
+    {
+      "label": "Bihar 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=E4cfTdDw2Kpa5xotdtqr",
+      "total_assets": 4823000,
+      "year": 2015
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=E4cfTdDw2Kpa5xotdtqr",
+      "total_assets": 6801126,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1930",
+      "total_assets": 12232756,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 154,
+  "assets_latest": 12232756,
+  "attendance_pct": 25,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ajay Kumar Mandal is an Indian politician and Member of Parliament Lok Sabha. He was elected to the Lok Sabha, lower house of the Parliament of India from Bhagalpur in the 2019 Indian general election and in the 2024 Indian general election as member of the Janata Dal (United). He defeated Rashtriya Janata Dal candidate Shailesh Kumar Mandal by a big margin of 2,77,630 votes. He has been also elected three times for Bihar Legislative Assembly, two times from Nathnagar and one time from Kahalgaon.",
+    "title": "Ajay Kumar Mandal",
+    "url": "https://en.wikipedia.org/wiki/Ajay_Kumar_Mandal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "village Golsadak, Kulkulia Po Ghogha PS Kahalgaon Bhagalpur Bihar, 813205",
+    "emails": [
+      "ajaymandal.bgp.jdu@gmail.com",
+      "ajaykumar.mandal@mpls.sansad.in"
+    ],
+    "phones": [
+      "7631836540",
+      "9470437258",
+      "6287100307"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "02/02/1978",
+  "eci_state": "Bihar",
+  "email": "ajaymandal[dot]bgp[dot]jdu[at]gmail[dot]com,ajaykumar[dot]mandal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 779450,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 681310,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 461520,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary and Allowance"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Attended 25% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 2% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 25,
+        "percentile": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "From ₹48.2 L (2015) to ₹1.22 Cr (2024).",
+      "headline": "Declared assets grew 154% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4823000,
+        "from_year": 2015,
+        "pct": 154,
+        "to": 12232756,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 29% of MPLADS local-area funds were spent — ₹10.51 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105063380,
+        "utilisation_pct": 29
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 32
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4980480
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "18,000 18 Thou+",
+        "value": 18000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4998480
+  },
+  "margin_votes": 104868,
+  "minister": false,
+  "mp_name": "Shri Ajay Kumar Mandal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41936620,
+  "mplads_unspent": 105063380,
+  "mplads_utilisation_pct": 28.5,
+  "mplads_works_completed": 35,
+  "mplads_works_recommended": 74,
+  "mpsno": 5170,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-10-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India News Stream",
+      "title": "Denied ticket, JDU’s Gopal Mandal files as independent; Upendra Kushwaha’s wife enters Sasaram fray",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVi1ySkdXcGZCSFBVWjNULUVNSkswRmJBMTJKc0JYYV95enVIT0k4OC1JZ0I0RG04bWprSTdvWWYzMlppWjBrYkt1NXpUdEo0TW1UVUtHbnhidHR3azg1UGhxYmJuM1BEVmxDS2pfaVlXRXUyV0VQS2pDOGZ6cWxPbS1vV3N6OUJQZFFnYlpkUWNCWEdQa3BHTXZjWDh5VXFMellxVkFDVTgxNFF6QkcwWVozVmdIUlVwb0dCZ3VaQUJYbHpOV3Rz?oc=5"
+    },
+    {
+      "date": "2025-10-14T07:03:27.000Z",
+      "flagged": false,
+      "publisher": "Patna Press",
+      "title": "Bihar Election 2025: JD(U) MP Ajay Mandal Threatens to Resign, Alleges Being Denied Meeting with Nitish Kumar",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDFDODRCRVo0ekNyOFRxdDJkOW1hNW5NdHU4Q1luV1RCX3ZmTHc4OVBaVEltcFNIY2NrVVZKN1RpeElKVUdDQ09Bc3JTYXk3U2xNeGRlVElrSVREd3FCOXRjMXJ4QWUzazZoNmdxcTkxQkRVT1JwU0Zod25MbjNSaUU5a2ZEUFk3MDIzWlBrRQ?oc=5"
+    },
+    {
+      "date": "2025-10-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "‘Not consulted’ on ticket distribution, JD(U) MP Ajay Kumar Mandal wants to quit",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORnYwTV9ET3lNYVpNcTU4d0tUS25PRzNnVTNCOXE1TWdGS2N1b2o3aVR6Tnd6enFhQnY5YVE4S05rMndUcWJFRnBuM1RzVzlBYmhia0dBc0EwbURfOTc1eFEzaU1zd2JYZV9GakdiRkhMUkpfdk5OUHlZSXlVX3hpRXZaYWdkUklfeTBVcVMzZ1oyRVVWR1JwSDFNYnR6TWM4NWtoREtKcVFmUjlWR2ZxT0NOY2dBYlpzZ1NIa1ZyRVNlRElRTjVsd291Z0RTdlZrb0o1Qm5IdG9kNFNmcVd5dEJ6aWdMZjd6dzhvYkxCV0gwQ29WbE1vOERIR3BZTUo4VktFTm5mRdIBjgJBVV95cUxQVG5WZnYzZDAxUEdmdVZiU0M4U01PSWhVVFM3dHQxSnVHMnVkSFEycGRZLXV5cEpySVVSemhqNE90bW9aTjhaRldfamtnT2pKQ0I1THo0ckM1MVNEbkFrLXJQNk1DbmsyVUo0cjFCcnllYmlPVTJMOVVKRXVYSHRjNEpFWl9HVUJ1YURwZUxmQkZ3NkZTOGI5eXlhVWVoNW1oMVp4WjlhcHBRYm1ESldOVXdCMGpqczZnZTVkRVRLSHdqTzZKTjhRMDBtZnpjaUhFelRpcVFyLWVjczBpcTIxMTJsY0VyRWlPOXpPUm1hVTlNZTVwS18zOFZENHZYY3FBSXk4QjZJWUZFSGFxb1E?oc=5"
+    },
+    {
+      "date": "2025-10-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Bihar Assembly Elections 2025: JD(U) MP Ajay Kumar Mandal seeks to resign over ticket distribution",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXlvLWM5UEJHOGpTVWdCdnBjeGJ3UkNCUXlIQWItMm9Yazh6aExBYlNJYlpQYkV2MjdGVFQ3SHE4TG5jajYzNEthaE5WMm9oQnhBNWMtNTFvblBfcGlJWjNxSlJwcU1RSTZzVDhQOXh5V1hoWlQyQXdoOUhmVzRfZ2h6NEItOERrVkJuYU42Wm9zUWxPYU1DOXJYdWdRR01ENlZEOWpfNDEzVTFJbG52X1BvS1ZiM2JsQ01odFdCSjdkcVBaMVVsNTJlckRONHJycXRXNldSaW1GWlp5ZGpEMjNB?oc=5"
+    },
+    {
+      "date": "2025-10-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "JD (U) MP Ajay Kumar Mandal Resigns From Post Ahead Of Bihar Assembly Elections",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXp2RDNqYi1TYUxQTkJGRjlkdGVWV2psN2VYbnV3REpIUjRySXhDUC1LOC15QWFILVBlQVpQQzdnYmc5Z0J4WVNnY1B6X25nYThiYkdUenFvRC0ya3g5NVNISG53X2pKYlExRVZ1d01hQ1dmUXhvWlNLUDQxODZpVUl2V0RIUG85SUMwMVN6Y2VKWUNkSDhUbDVQbmRFYmtERGVMSDNhLUUzdWNaODE1Nm90Z2hBM3BxNGU4OdIBwgFBVV95cUxOWktKUjd5ZHo2MHoxU0prVl96RDBzVFRtbEIwTV9lc1A2UWhvdFpZa1BadDZ0SmpJUlN4YTVIMWxOUTZfT0VLbkZHVVRVVDd1ZkFqRXdPTm1WYkF1dWM0UVI2MnFRUHU5RldYU0M1SFRkZWk5aUxsbDJPeUxWa3l4RlM3b2tnYkhwWGVXUGNoZi1iWldpbV9YQ2kxNlluQUdfWWhJQWlOYzBXQkJ1MTlYcHlJXzFpQTh4aW9DYno1c2dMUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 31803,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-26",
+  "pc_name": "Bhagalpur",
+  "pending_cases": 0,
+  "phone": "Tel:7631836540, 9470437258, 6287100307  (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180044.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Service",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 41
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 93
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ajay-kumar-mandal"
+  },
+  "qualification": "",
+  "questions": 32,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 2,
+    "Communication": 1,
+    "Earth Sciences": 1,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "AJEET SHARMA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 0,
+    "legislative": 31,
+    "mplads": 65,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 12232756,
+  "total_liabilities": 4980480,
+  "wealth_pct_increase": 80,
+  "winner_vote_share": 50.38
+}

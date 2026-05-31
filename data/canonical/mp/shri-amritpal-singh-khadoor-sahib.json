@@ -1,0 +1,686 @@
+{
+  "accountability_score": 0,
+  "age": 33,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 0
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 0,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 20000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 418441
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1400000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1838441
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9665",
+      "total_assets": 1838440,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 1838440,
+  "attendance_pct": 0,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Amritpal Singh Sandhu is an Indian politician, Sikh preacher and pro-Khalistan separatist. He is a Member of the Indian Parliament in the Lok Sabha representing the constituency of Khadoor Sahib since 2024. He is currently serving as leader of Indian political party Akali Dal since 14 January 2025 and Sikh organisation Waris Punjab De since 29 September 2022.",
+    "title": "Amritpal Singh",
+    "url": "https://en.wikipedia.org/wiki/Amritpal_Singh"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "VILLAGE JALLUPUR KHERA TEHSIL BABA BAKALA Amritsar Punjab, 143112",
+    "emails": [
+      "123@gmail.com",
+      "amritpalsingh.mp@mpls.sansad.in",
+      "123@abc.com"
+    ],
+    "phones": [
+      "9878055112"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 12,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 12,
+    "ipc_summary": [
+      {
+        "count": 7,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Hrbouring offender",
+        "section": "212"
+      },
+      {
+        "count": 2,
+        "description": "Extortion by putting a person in fear of death or grievous hurt",
+        "section": "386"
+      },
+      {
+        "count": 2,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Statements creating or promoting enmity, hatred or ill-will between classes",
+        "section": "505(2"
+      },
+      {
+        "count": 1,
+        "description": "Imputations, assertions prejudicial to national-integration",
+        "section": "153B"
+      },
+      {
+        "count": 1,
+        "description": "Conspiracy to commit offences punishable by section 121",
+        "section": "121A"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+        "section": "333"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "House-trespass in order to commit offence punishable with death",
+        "section": "449"
+      },
+      {
+        "count": 1,
+        "description": "Harbouring offender who has escaped from custody or whose apprehension has been ordered",
+        "section": "216"
+      },
+      {
+        "count": 1,
+        "description": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+        "section": "201"
+      },
+      {
+        "count": 1,
+        "description": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+        "section": "365"
+      },
+      {
+        "count": 3,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 3,
+        "description": "Rash driving or riding on a public way",
+        "section": "279"
+      },
+      {
+        "count": 3,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 2,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 2,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "0064 Dated 20.02.2024, PS Dibrugarh, Dist. Dibrugarh, Assam",
+        "other_acts": "Investigation is pending",
+        "sections": [
+          "353",
+          "143"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "19 Dated 30.03.2023, PS Mehtiana, Dist. Hoshiarpur, Punjab",
+        "other_acts": "Section-25(1A) 27 Arms Act, Investigation is pending",
+        "sections": [
+          "279",
+          "212",
+          "120B",
+          "201"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "37 Dated 23.03.2023, PS Bilga, Dist. Jalandhar-Rural, Punjab",
+        "other_acts": "Section 25, 27 Arms Act, Investigation is pending",
+        "sections": [
+          "386",
+          "342",
+          "506",
+          "34"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "48 Dated 21.03.2023, PS Shahkot, Dist. Jalandhar Rural, Punjab",
+        "other_acts": "Section 25, 27 Arms Act, Investigation is pending",
+        "sections": [
+          "212",
+          "216"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "47 Dated 21.03.2023, PS Shahkot, Dist. Jalandhar Rural, Punjab",
+        "other_acts": "Section 25, 27 Arms Act, Investigation is pending",
+        "sections": [
+          "386",
+          "506",
+          "148",
+          "149"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "28 Dated 20.03.2023, PS Mehatpur Dist. Jalandhar Rural, Punjab",
+        "other_acts": "Section 25, 27 Arms Act, Investigation is pending",
+        "sections": [
+          "449",
+          "342",
+          "506",
+          "34"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "27 Dated 19.03.2023, PS Mehatpur Dist. Jalandhar Rural, Punjab",
+        "other_acts": "Section 25 Arms Act, Investigation is pending",
+        "sections": [
+          "279",
+          "188"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "26 Dated 18.03.2023, PS Khalchian, Dist. Amritsar Rural, Punjab",
+        "other_acts": "Section 25 Arms Act, Investigation is pending",
+        "sections": [
+          "279",
+          "186",
+          "506",
+          "336",
+          "427"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "39 Dated 24.02.2023, PS Ajnala, Dist. Amritsar Rural, Punjab",
+        "other_acts": "Investigation is pending",
+        "sections": [
+          "307",
+          "353",
+          "186",
+          "332",
+          "333",
+          "506",
+          "120B",
+          "427",
+          "148",
+          "149"
+        ],
+        "serial": 9,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "34 Dated 22.02.2023, PS Bagha Purana, Dist. Moga, Punjab",
+        "other_acts": "Investigation is pending",
+        "sections": [
+          "121A",
+          "143",
+          "153A",
+          "153B",
+          "505(2)",
+          "188"
+        ],
+        "serial": 10,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "54 Dated 22.02.2023, PS Division-B, Police Commissionerate, Amritsar, Punjab",
+        "other_acts": "Investigation is pending",
+        "sections": [
+          "153A",
+          "506"
+        ],
+        "serial": 11,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "29 Dated 16.02.2023, PS Ajnala, Dist. Amritsar Rural, Punjab",
+        "other_acts": "Investigation is pending",
+        "sections": [
+          "365",
+          "323",
+          "506",
+          "379B",
+          "148",
+          "149"
+        ],
+        "serial": 12,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "17/01/1993",
+  "eci_state": "Punjab",
+  "email": "123[at]gmail[dot]com,amritpalsingh[dot]mp[at]mpls[dot]sansad[dot]in,123[at]abc[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Dependent on Parents"
+      },
+      {
+        "person": "Spouse",
+        "source": "British Citizen, Language Interpreter at National Health Services in UK"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 307, 365 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder, kidnapping",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307, 365"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 0% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 1% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 0,
+        "percentile": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 197120,
+  "minister": false,
+  "mp_name": "Shri Amritpal Singh",
+  "mplads_allocated": null,
+  "mplads_expenditure": null,
+  "mplads_unspent": null,
+  "mplads_utilisation_pct": null,
+  "mplads_works_completed": null,
+  "mplads_works_recommended": null,
+  "mpsno": 5832,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Ajnala attack case: Challan filed against Khadoor Sahib MP Amritpal Singh; trial to begin May 2",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaEF1SVJ5LV8tcDBIQ0x5TUo4UnpzOHMzNGhiSzJvWXZMY2I2X2dXb1RkUVVoWWpTZXgzZ1hTaEp2ajkwaWktR3pNdVJTVDRSZGFZNFdHMWF5ODdSZlNWcjJkSmVFRVVONFlhX204bGRDc09PNXpzRUR4ZDJObzN2WGcxbnJEUXRrZUNaM3Y0Q2xvdmpFY213OXgzY2VZUUlkOEw3RkNWWkt3THZsNTJ1SFpYZ3VaeGw3Ul9jdUhCSWF4clVZNEtTS19ac181ckpHdENV?oc=5"
+    },
+    {
+      "date": "2026-04-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "Amritpal Singh to face trial in Ajnala case from May 2 | Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcVdaRjlxNVdrTDlkZm11U2U3eE1jTm9HUFRndENLRHk5QWxqb0hKeHNvemIweFNlU25sYmxaNkRBbktWSVYyWXBrVnBvT19aTnFNY0x0cTMwOThOaFR5LUVzRFdyS0tfanhfSFBER1RkeG56b0hrMEdocVlxX0szUWNKRFpsODZNM21hX2ZxTHBYTTh2Qk92a1VGeThXcGdLZE5fMGxYM3hicHNpWm4xUXZKY0hXMi1iVzRzNHctME5jSzh6WTJ6etIBzgFBVV95cUxPajhxVWU0alFXVEhab01MMU16ZmZJUE5QOGtOSjNuR0pNcFJaRG5UcVlTODVNeGdVNEVPLWU0dUFPOVhIcXJkNFVhVHVoWW5WVlBSeVU4N1pyYUNWNURqWU1IUnJNVXZxcW9RXzJNM1FZb2xMRE9kRjlucHJjSVVQR2FqcTR4Njlob3R2UGgtZU80OFZ5OGNsZDVzekJNX3RKZUxEVE9Dd0ZYbnRiTzBiSkpBODFIQjdla05DY2ZKVDNjWFdOSWE1Q18zN2VVZw?oc=5"
+    },
+    {
+      "date": "2026-04-25T08:25:06.000Z",
+      "flagged": false,
+      "publisher": "Babushahi.com",
+      "title": "MP Amritpal Singh sent to judicial custody till April 30",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlDelczanVyQ2RGXzlrYUcyTkdsZXRyaG9yZ2tvVERNQ0ktbWRYWEpQUTloelJHLVJqVGxBWWt6QTB6WTU2Q1dxUEFVSi1BRnd3YlpLRHlDRm8zLWF3QVN0OTNjWldBNVE5RVhmTHhsNFl2U0tQRHF1MzF1WTdGdFhaa0tpV2dJRTVLd01YNkJNdUd1QzZSbVdYVTRiVnR0ZTlyWWpLblRXYTk2QzQ4TVFuSGFiZw?oc=5"
+    },
+    {
+      "date": "2026-04-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Khadoor Sahib MP Amritpal Singh Sent To Judicial Custody Till April 30; Punjab Cops Not To Seek Further Demand",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQakl2UTd1MDc4R3c1d3hEVnRXSk5ZdHo1bVRtd3hKRmFITTZ3VGszVE9fOEZpc2R5Y2pENE1JZEpVM3llZThrOU1NNmJhWTNOMEhlaFFnX2kwYXRQZ1l2azBtTkp0QW5MVE94ZVUyVHRQYlQ0aldEcWdKQ2J4YXdsenNGN3o0cnNjclRRSzBhZjE4QW9BV0t6Q0xoS0JpY0ptVFpDX1FpY25NY09mRkExUm5mUThNNVZqel9Va1A4ajZUNG9iQTdKWlAwQWVmZmR5MW0yV25KV29QYUJYNG16aUl5WnhCbmY4SGNRTE0wN0LSAfYBQVVfeXFMTnBYaThXUEVFYVVBbjNyNTVwR3dvNG9pTjNBWnAtckc0b19MWHYzTjB4Y2M4TkhHdlNVY3F3TWFaQnJTVDlmSnU0WUhVeVhCQ1NFVmQ3UVU3dWlMRWNkajZDZUFBLTViZkRNdG50VjZSem5jbXFpNWd4cWE4cHBleVdSYnFvZXlsX2JGNDAwYmNBb3hVQW1mcE5tR1FWLTNiVnVSMDhhREJHVzBZYUo2WkRyOURMd3VyM1RCMFhQaFZoeEtielUyR2ZRWVNTMzlnMDBMM0dKU0o4WnJpTE5kZ1AzRnctbENPenR3YW9CSDVsMk9SUFhR?oc=5"
+    },
+    {
+      "date": "2026-04-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Khadoor Sahib MP Amritpal Singh back in Dibrugarh jail in Ajnala police station attack case",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWm5HZTRocmtvOXhBdW1iSEVVSDBPcjdyWXdadzZBM0dUOG85a1cxQzJDNng5eWRUdTlpMkxhR0pnNDhrd0ZqSFFqRWdnSzFsT1dLVVhMYVhQZ2drWnYzR1ZDVzNsUEFpUWZIVjRpeDgtZGc3QnZpRU8zTEdHZ3A5SVlGZklZRU1kV19PNU9nNGZhN3ZyODhFSmk0R0hUQ19hNy1Pc2pvQ25JU09TZGJHRDZKRmk1WHBoaGpKcDVhZEkwUXJuYzlOcGFPOEVPdw?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 3452,
+  "notable_record": null,
+  "num_candidates": 27,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "punjab-3",
+  "pc_name": "Khadoor Sahib",
+  "pending_cases": 12,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180322.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Transport",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 70,
+      "value": 1
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.2,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 63,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/amritpal-singh"
+  },
+  "qualification": "Matric",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "KULBIR SINGH ZIRA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 0,
+    "criminal_deduction": 40,
+    "legislative": 0,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 9,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 1838440,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 38.62
+}

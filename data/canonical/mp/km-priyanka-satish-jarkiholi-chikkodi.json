@@ -1,0 +1,397 @@
+{
+  "accountability_score": 16,
+  "age": 29,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7800000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10443668
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 18243668,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 487965
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 12901454
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 50000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 58850467
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 624070
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 72913956
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4024",
+      "total_assets": 91157625,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 91157625,
+  "attendance_pct": 50,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Priyanka Satish Jarkiholi is an Indian politician from Karnataka. She is a first-time MP from Chikkodi Lok Sabha Constituency of Belagavi District. She represents Indian National Congress. She won the 2024 Indian general election in Karnataka. She is the second youngest woman MP in India in 2024.",
+    "title": "Priyanka Jarkiholi",
+    "url": "https://en.wikipedia.org/wiki/Priyanka_Jarkiholi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "R.S NO: 290/1 HILL GARDEN, Anna Road, Gokak, Belagavi, Karnataka, 591307",
+    "emails": [
+      "priyankajarkiholi2024@gmail.com",
+      "priyanka.satish@mpls.sansad.in"
+    ],
+    "phones": [
+      "9916121997",
+      "8332226764"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/privanka.iarkiholi"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/privanka.iarkiholi"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "16/04/1997",
+  "eci_state": "Karnataka",
+  "email": "priyankajarkiholi2024[at]gmail[dot]com,priyanka[dot]satish[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 16482270,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 8612210,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4729730,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6164640,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3290350,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary & Business Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 9% of MPLADS local-area funds were spent — ₹13.44 Cr unspent.",
+      "headline": "91% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 134353806,
+        "utilisation_pct": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Shri. Satish Jarkiholi Hand Loan 1,47,18,768 1 Crore+ Smt. S.S. Jarkiholi, Hand ",
+        "value": 15743768
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 15743768
+  },
+  "margin_votes": 90834,
+  "minister": false,
+  "mp_name": "Km. Priyanka Satish Jarkiholi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 12646194,
+  "mplads_unspent": 134353806,
+  "mplads_utilisation_pct": 8.6,
+  "mplads_works_completed": 8,
+  "mplads_works_recommended": 148,
+  "mpsno": 5831,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-11T10:00:02.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Priyanka Satish Jarkiholi , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEhFMmhxTXAybFJ4cnlDSTNzNy12SEFseUozbERyRFRLbEV5UzVsTFAyczVwWWZ0Q0FJOTNRTVZxVmpEelplaUZ3S1c3UkhHdjRLazIxc0hIelkzQ091ZlJodWVFQ0tTVFFLVzBuOUdmeU9wQ05nVGJTS2FFNUtmVC04TVJ3R0Rvb0ZCc0xZVzdGTHRD?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Priyanka Jarkiholi wins in Chikkodi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUxSU2xWbm9hSU95M3NKNUY5YWtpZTV0Z3lLT0d2M1hENzBoT3NORHN4bmwxaUNVMjVVdUp2ejMxZW9JdUdOV1NBR2pmTEsydHhqTndnc2JLUWx4X3NDZl9sZ3BSV2FDSnAxTjZ0ZW9aUkFPWk9nLU9ZRWZRcWlvYVIwX3lZLXF3YnBsUTNlMnRrNGF3Q181WVVieTVZNGhySDBpR084Z2pqRHJDR1N1Z9IBtgFBVV95cUxPUUlPX0kxMVdaUHdvbWZla3dUTUlIU1lmcVJmcUx1XzJyQkk2ZGRmQk9OX2ZZdUg4Zm8zcFFicGpMeEZwYm1BUEx4UlhwY2xXNm85SUhCbnVuSzR5UG1TRFplV0FZckxfRE01Mm1PYzVvRkVpb2pvdWVGTlFzcGhKVUtGOF9XYnR1MVMwWHYzZV95TXUxd0YzTkM3bW9EZHA4S1ZMWGphUUFQZVl6a1JjbDhHOFpXUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "All About Belgaum",
+      "title": "PRIYANKA JARKIHOLI Gets 51.21%",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xLUVkQ3hiVmNRUVRsSFBKYnBZQjZHekZrdG4xVFJSd0ZMdEdrc0gyWjg2TTJGR2F6T193aFRPSkw0bGhYc0FwMUFwZVRwS2tGUTdQcUhkV0JyQVAyckZtd2ZmNzlfVUxsTzJQRzFGTGs?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Chikkodi Election Result 2024 LIVE Updates Highlights: Priyanka Satish Jarkiholi of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSTNCdGtCX04zV1A4bjNWWjk1R1E3dmllSE4weVlhaWhrWFZ0Rm5xSFhjWFVVR0xlNGEwZFI4LWIyZGdKdzhlSlRaOXJ2Y3pidEE1TExHem8wTXZPMDFmcmV1d2N0aGp1VXptMkVsTkxld0xlSTJ0aG1EOFZ5bEVaaDlNODc2Qk14cHRuUW1ZcFA3TjNzTVhORWNUNGZ2bk5GX190Q2ZaS3E5Vy11ZXB4ZnRmNDlmTDZLTmNQT09GSGkzV3Rhd1RVRll1M1JjbkNkclRudENKVlQ5Nk1yLWYydUdXY9IB6AFBVV95cUxOR2tpc0F0a0ducm9DcElvRGNyQVJYQmJHLWxWQnRWb1ByclhMS3RGODFabG4xN1R2NVJYek1JTTdSVS1RM0FtQmRPWVJ2REUtTllPMFVuTG5ocW5NWG1vQm9ZWDloVTFMOVNBcUhzd0RteUUzVEtTSVhyY2hwZEE2X3FyQ1YzMFpmYWkyMzBqR2YtOENJTk9ZM3c5dTdrWFNuSzFwWEsydEZLalNlZ1JiZG9KVHVxaGZ2b1g0Nkd6R0FDaGN5T3hubzlURHBBSEJhTGdSbWVvSmdsaXh5bzQwbG1FSFdTUTB4?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chikkodi election results 2024 live updates: Cong's Priyanka Satish wins against Annasaheb Jolle",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQbzY1c0lOS0x5LTRRTl9PTGNLUUEyYWh3VzZqUnFOM09uLTRfTDlYZEVJdXREcWpWSVl4Tk4zSnJ3MUJMZkktOHV6bW1kQ2JjdnRFTWFqN0JXTmhHUXoyRVlwOGItZDdsaFF4UDkzY2VGVnBPeTFMWjl3T0djeGNOakU0WHl6dGd4SVhxT0RjZFFmVjVMUWE3UjBwbUY0dTduby13eTlramc3bVpBbHV4SV9oR0hrN1VtMnNDQ3Z5OTl3UW5SM0dwV05fMFdPQ1J0ajF2bWxvX1pnRjdkRDM2eF94MmJlM0dwVFNrMHRMVWcwcWdCUGFFV3pMel8tVWtmdDdjaEstVEVzQnV2M2Q1c1FUdzNERkktem5HSEN6VHREcEJSalJWRTl4UFhuaG12QzJfRUNBcmtmbWM3czZrWFY3dXBQeDNn0gHOAkFVX3lxTE1kNElBa2lpRFdmWmQ4NWoxeFIzWm1sd1VLa0JsQVc4Q2VUcHZnTEIySmFBa2JTQUxWWjRUSHNSTnRvY0lqcWZCZ1hkOVVQMXNOSTBscDFvNThrSkhXSUJYNW42ek8tSTVTbi1OdXNwekIxWHBFSDdMeGFzUHVUYzdyZE84cjN2TldTSlpwX2plUC0xNWhVSlNhN09LZFpyWmdDUHZLQmFLUXZPbGRoTVJfSy1jS0ZwTjQ1RnREUG90a3FSUEFkdHlMcVRoZ2FCYV9PTXNHZHBLVngyZE56N2IyZkFqYVFNZzBrSlFMYUZpVEF5LWM5dldKREdCdDN2S0hMeTRoZ1YyZ25BOVZ5dEVRWHp5R3V5c2Y4ZEQycmlVWVBvbWJDc3MxUEFIcC1HTTgzb0QwTVdCMldpWUFsSXdhQ096WkFSSm4xMWI4LWc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2608,
+  "notable_record": null,
+  "num_candidates": 18,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-1",
+  "pc_name": "Chikkodi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180182.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 56
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 4
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/priyanka-satish-jarkiholi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Defence": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ANNASAHEB SHANKAR JOLLE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 16,
+    "criminal_deduction": 0,
+    "legislative": 18,
+    "mplads": 14,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 91157625,
+  "total_liabilities": 15743768,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.21
+}

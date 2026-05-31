@@ -1,0 +1,450 @@
+{
+  "accountability_score": 71,
+  "age": 44,
+  "assets_2019": 18466066,
+  "assets_2024": 26875873,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 42000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7790278
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3591000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 312000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1440595
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 16675873
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RMYauc4NjRBBdGGMXnH",
+      "total_assets": 10414470,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RMYauc4NjRBBdGGMXnH",
+      "total_assets": 18466066,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7281",
+      "total_assets": 26875873,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 158,
+  "assets_latest": 26875873,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Chirag Paswan is an Indian politician and former actor who is serving as the 19th Minister of Food Processing Industries since June 2024. He is the 1st president of the Lok Janshakti Party since 2021, 2nd president of the Lok Janshakti Party from 2019 to 2021 and a Member of Parliament, Lok Sabha from the Hajipur Lok Sabha constituency since 2024. He is the son of late Member of Parliament and Union Minister, Ram Vilas Paswan.",
+    "title": "Chirag Paswan",
+    "url": "https://en.wikipedia.org/wiki/Chirag_Paswan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Mantri Ji Tola Post - Saharbanni Aloli Khagaria Bihar, 800001",
+    "emails": [
+      "office.chiragpaswan@gmail.com",
+      "chirag.paswan@mpls.sansad.in"
+    ],
+    "phones": [
+      "9810555055",
+      "8881688816",
+      "9013869899",
+      "1123794071"
+    ],
+    "socials": [
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ichiragpaswan/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "31/10/1982",
+  "eci_state": "Bihar",
+  "email": "office[dot]chiragpaswan[at]gmail[dot]com,chirag[dot]paswan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1208090,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1153970,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 917190,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1213840,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1128850,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹1.04 Cr (2014) to ₹2.69 Cr (2024).",
+      "headline": "Declared assets grew 158% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 10414470,
+        "from_year": 2014,
+        "pct": 158,
+        "to": 26875873,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹10.71 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 107124765,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 170105,
+  "minister": true,
+  "mp_name": "Shri Chirag Paswan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 39875235,
+  "mplads_unspent": 107124765,
+  "mplads_utilisation_pct": 27.1,
+  "mplads_works_completed": 42,
+  "mplads_works_recommended": 90,
+  "mpsno": 4777,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-02-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ET Retail",
+      "title": "Processed food 'false narrative' by influencers harming sector, need to counter it: Chirag Paswan",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbndkTTV4VEdZQy1PZzBzelBRbHNiYjdqcGI5eHUwem9KeDNqangtTlRmTExlSEVqanNtQk05N0hHQ1ZPelBfLXVTckVVQ0d1TVMxenA0YU1QMmNhOVNmeTVGaWdaMExodHZaTmdtVUZtM25vLVVVZy1sZHFZWEtnOFhKZHZQQ2xHV3hkR2VzOWdUSVczUERqQVVzdXA3VlNMbHlMYVNiV2E5elV3SnA1RGlFWGhyaXoxeGdtemN4YUhnWklyYzFNQXByenY5ZGxxN1RvTTVWclo5Y3NoUHBrREhIVF9pMkI0R20xb0doeG0zcC1IUGRBTUk5LVUydzhk?oc=5"
+    },
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "BJP wins in Hajipur as party bets on ally Chirag Paswan’s stronghold in Bihar elections 2025 | India News",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWjZjN0hFOXdKU3pDQ3cwWTNITzRONGhkVVgxOTdfODVQQkVEVTV4WGNtZFdFQUpaRzltTlhqbHZkXzFPd3NjLWZMZkQ2S3NzeEVrVGZmYVZIM202T2pMRUdVdVBicDBJdjBzdGpWN3B3SmVHNEtiaWdRTk1fVWpTbFZLQ3p0NThGWGxFRjIwR0hhbWItcTJlcl9IUFkyNE5weGs4VEk4b2NFcWtzbU1Nc2dCV01aSHJlRWV0M2pYM3paVzhQNF9BQnFtU2pyaVg0THdJVHhwV2FXdHNXVi16d0lXbzg4a01tMy12RWlpRdIB9AFBVV95cUxNX1BDMFB6OHVackdCMDJFU1V5cDgzY1pqTWJPTzdrajlFMVpTT0pzV0ZGVThjM1VjNE11RExYWTA5a01hc3h6Slcyc0VPZUhuZ2NkVmxWLTU1N0Vtby1MbV85UDRpRy1FbGdUWFVUWlZYdklSZ2V5ZU5CT0dNM1gzZ3hyVnhQY3V0UE9xYklMN0YwdTh0d0pLQjU0bVNuOS1KN1JZeHJoTUt5bzNGQjV1S1lybmEweG9lSEE4TG9LbEhmNHJIMlZ3SktqR0lDSFhuQm55MHltOUhhd0VWN1hXc2dIWEYzN3d4bkdUQkx4ZmRGclk5?oc=5"
+    },
+    {
+      "date": "2025-10-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India.Com",
+      "title": "Chirag Paswan Salary: From college dropout to Bollywood actor to minister..., Here's how much the LJP MP from",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNWjE5ZzQ3UElBdGxYUHEtRE1kUE1JODZHQ2JGVDhHNWRkWHl3X3VnY1ZlcnAxWkdvYTJqQkhtRUxIMm4wSXd3dm1Sc0lkNEZZZWtEVWZHelYxYS16dWlPbTQ0emJsLTBOXzdnYmE5YmlZN0E5UFNnSXlFVzUxckdUWVBqeXNFSktQTHd2OVVrVkhUZ3QxTkVvNGpvTUJqNjljR1EyQmhTT2F5aFlPS2xjMGpvMTN4cjFSVlpWMlRsTC0tUWw2NlFCYjdwQ0VNYjVER1B4Q0VVOEdIYnFuTVpyaXBYZ1d4am9HblJxVWdWX0ZtT1pCZDRmakl2bW5UdUdRV1p5SnFiWEF6cjZCWThQc2oza2JwRW00UXhnTnBUdmZleVdTTFJneHgydXJaZ9IBswJBVV95cUxQR3JDeUtfQk1aOUJPaGMxYXBqUm9tODNKNGhlTFZpbVJfbTVXRkRrQXpnc3BWSmJ2QlJXZ2E4cHFIeXZiUktwVC04RmVZWXh4ejFFT2gzTUlnWFdKblNvTk5wR1lpSEVZdHhwUmh0WndET2JZaHdNMFNrRXNZMDRNbnlzNmphQV9VM0dSQTdFR1pBM2pIZTlkUEp0cnR0ekloSzdsZjVablRCTE1NaGZNaldDYVgwZ2c3S2dlUVZxTVJaenhsdEVsalZZTlRqSFJHLWxzaTVjVThVTFZFUjVqQlozaTc5VXJPVXdSWUthOG02VUp4ZnpNS1VURDRCRUo2T3lTcER3dzF5T1QxbjljeDlIcG91X0xIT0lseHFJZFBtME1hZDNDVTFzazMzeWJOR1lz?oc=5"
+    },
+    {
+      "date": "2025-10-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Swarajyamag",
+      "title": "Seat-Sharing Deadlock In NDA Persists As Chirag Paswan Pushes For Key Bihar Seats: Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbncwTllKb2UxZXlUZTYxNUNiSFZRc2Z2SWdSQXhsUjVYSUdXeTVVcHotNFFZTnJuZ2ctNEJ1N3lXSHk0UFV5WEFvWnc0cGtzSmlLQVhiTTM5ekY0Y0Z1RVM4ZkMwNmtZZFdscWNpSk81aEdfVEJYODlLazNOdjVaNkJCS25LOHJMTEF2Sk1xUVFXWjRNYUJ6MG5oWVU2SHVpQkhXUERoR254UG1reGpkMUpHZnJsMFRDd3R5UlhnWEvSAdABQVVfeXFMTnVrWDdPMms4U294SEVqU3Z5TEcxa3YxMFRQYlFoSkZWeHhJZ3R6ZVhHTUV1ZThMdXB3OU5CTEtaUlRESFNKSHlldWh6cTJnNW9La09HdkNNZ3BzTUpoTXNCUnB4b1g1aExxRkhPb1hVcVBhNjJnbWJSampOQnZXMTJZcWNzc3BoclpFY01RTHhHRmFlaTdDQzZWVm1GMWtlSjVtTUh3MVRRVzJETGJMdE1yWGtLRGJOODg5c3ItTktjMXBGNUdaY0JwWklUZGtEcw?oc=5"
+    },
+    {
+      "date": "2025-09-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Frontline Magazine",
+      "title": "Bihar Dalit Politics: Will Chirag Paswan Become Kingmaker in 2025?",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVBPM0hkNlhCY1Rld1J1ZG02SzlabEpmdDVZSzlFVEZkME1LNE5ZUWlXbDY3V2JNQUJhVGhIMTQtQjFHQVFLWjFPZHBTdkFpaHhGZVFHVW5HNndvUEg4WGhCZ0J0NE1NeUVhTzVDUDdBeUhuMDJwNU56OXA0WFZwaU45TlNYdWY5QVJGakFrTmFkQUlUUWhkS3RDeVdfMzR3N3JvVHVfMDdqdknSAbIBQVVfeXFMTUV1Y1piVk1DS3lOSW44X2ViWUZ5eWp3SnplLUkwWmM3NGkxQ0VYaEZKbWxhSlFUMlVRSnlVNENBZmZUeVY4SGNXM3RZcnduUmNTZGo1UzEzMXNsTVNCVVB4d1p6RXBJT0VKeDQ0Wm9hVE5yQl9UcGc3NlljVGxrb24yOW9GY0I1TUtxUzRXOGEyTGEwUkZUMVBNMWljNEM4MEpiczcwcng4dW83ekE0N0x3QQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 36927,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Chirag Paswan",
+            "url": "https://en.wikipedia.org/wiki/Chirag_Paswan"
+          }
+        ],
+        "title": "Union Minister of Food Processing Industries (2024-)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Chirag Paswan",
+            "url": "https://en.wikipedia.org/wiki/Chirag_Paswan"
+          }
+        ],
+        "title": "President, Lok Janshakti Party (Ram Vilas)"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2020",
+            "publisher": "Swarajya",
+            "title": "Bihar Politics: How Chirag Paswan Sank Nitish Kumar In 2020 And What That Means Today",
+            "url": "https://swarajyamag.com/politics/bihar-politics-how-chirag-paswan-sank-nitish-kumar-in-2020-and-what-that-means-today"
+          }
+        ],
+        "title": "LJP candidates against JD(U), 2020 Bihar election"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Chirag Paswan",
+            "url": "https://en.wikipedia.org/wiki/Chirag_Paswan"
+          }
+        ],
+        "title": "MP for Hajipur (2024-)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2014",
+            "publisher": "Wikipedia",
+            "title": "Chirag Paswan",
+            "url": "https://en.wikipedia.org/wiki/Chirag_Paswan"
+          }
+        ],
+        "title": "MP for Jamui (2014-2024)"
+      }
+    ],
+    "office": "Union Minister of Food Processing Industries"
+  },
+  "num_candidates": 14,
+  "party": "LOK JANSHAKTI PARTY(RAM VILAS)",
+  "party_bond_total": null,
+  "party_full": "Lok Janshakti Party(Ram Vilas)",
+  "pc_id": "bihar-21",
+  "pc_name": "Hajipur",
+  "pending_cases": 0,
+  "phone": "Tels. : (011) 23794071, 23017681, 09013869899 (M)\r\nFax : (011) 23015511",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180048.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/chirag-paswan"
+  },
+  "qualification": "Professional Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "SHIV CHANDRA RAM",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 67,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 63,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "notable",
+  "total_assets": 26875873,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 46,
+  "winner_vote_share": 53.29
+}

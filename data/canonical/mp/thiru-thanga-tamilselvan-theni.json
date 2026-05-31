@@ -1,0 +1,806 @@
+{
+  "accountability_score": 20,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 23118844
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4597393
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 352800
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 11412010
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 39481047,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1075000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3924405
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 210000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1350000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 165200
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1765000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1880000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 10369605
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=GVzNwuhiZPQQUQfEL2iA",
+      "total_assets": 11070012,
+      "year": 2009
+    },
+    {
+      "label": "Tamil Nadu 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=GVzNwuhiZPQQUQfEL2iA",
+      "total_assets": 12289000,
+      "year": 2011
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1225",
+      "total_assets": 49850594,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 350,
+  "assets_latest": 49850594,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "102/1 Thendral Nagar Narayanathevanpatti Cumbum Tamil Nadu, 625521",
+    "emails": [
+      "ttspsn@gmail.com",
+      "ttsmp.dmk@mpls.sansad.in"
+    ],
+    "phones": [
+      "9842127696",
+      "9688933314"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 17,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 17,
+    "ipc_summary": [
+      {
+        "count": 15,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 12,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 8,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 4,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 2,
+        "description": "Negligent conduct with respect to explosive substance",
+        "section": "286"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 887/2020, Rayapanpatti, Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "283",
+          "341"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 810/2020, Rayapanpatti Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "283",
+          "341"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 809/2020, Rayapanpatti Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "283",
+          "341"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime no 61/2022, Bodinayakanur Town Police Station",
+        "other_acts": "Section- 3 of ED Act, 1897, Sec. 4A (1a) of TNOPPD Act, 51 of DM Act, 2005",
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 49/2022, Bodinayakanur Town Police Station",
+        "other_acts": "Section- 3 of ED Act, 1897, Sec. 4A (1a) of TNOPPD Act, Sec. 51 of DM Act, 2005",
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime no 48/2022, Bodinayakanur Town Police Station",
+        "other_acts": "Section- 3 of ED Act, 1897, Sec. 4A (1a) of TNOPPD Act, Sec. 51 of DM Act, 2005",
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 323/2019, Bodinayakanur Town Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "286",
+          "341"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime no 87/2021, Bodinayakanur Taluk Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "341"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 77/2021, Bodinayakanur Taluk Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "283",
+          "341"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime no 9/2021, Bodinayakanur Taluk Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 8/2021, Bodinayakanur Taluk Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 2238/2020, Bodinayakanur Taluk Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 104/2011, Bodinayakanur Taluk Police Station",
+        "other_acts": "Section- 4AA (1a) of TNOPPD Act",
+        "sections": [],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 57/2022, Theni Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269",
+          "341"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 720/2018, Andipatti Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341"
+        ],
+        "serial": 15,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 205/2016, Andipatti Police Station",
+        "other_acts": "Section- 179, 201(1) MV Act",
+        "sections": [
+          "143",
+          "188",
+          "286"
+        ],
+        "serial": 16,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No 67/2021, Palanichettipatti Police Station",
+        "other_acts": null,
+        "sections": [
+          "447"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "03/10/1961",
+  "eci_state": "Tamil Nadu",
+  "email": "ttspsn[at]gmail[dot]com,ttsmp[dot]dmk[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 494523,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 456251,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 399850,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 684240,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 404070,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1108620,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 783300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 702060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 571460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 496530,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farmer & Rental Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pensioner"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.11 Cr (2009) to ₹4.99 Cr (2024).",
+      "headline": "Declared assets grew 350% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 11070012,
+        "from_year": 2009,
+        "pct": 350,
+        "to": 49850594,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.88 Cr between affidavits, while declared income across 5 ITR years totalled ₹24.4 L.",
+      "headline": "Declared assets rose 16× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 38780582,
+        "declared_income": 2438934,
+        "itr_years": 5,
+        "ratio": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹11.90 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 119045553,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 278825,
+  "minister": false,
+  "mp_name": "Thiru Thanga Tamilselvan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 27954447,
+  "mplads_unspent": 119045553,
+  "mplads_utilisation_pct": 19,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 85,
+  "mpsno": 5686,
+  "myneta_serious": false,
+  "news": [],
+  "non_serious_cases": 17,
+  "nota_gt_margin": false,
+  "nota_votes": 11336,
+  "notable_record": null,
+  "num_candidates": 25,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-33",
+  "pc_name": "THENI",
+  "pending_cases": 17,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180393.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 80
+    },
+    "debate_titles": [
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to review the decision to hand over the construction work on bypass projects of Usilampatti-TheniBodinayakkanur section of NH-85 in Tamil Nadu to NHAI",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need for execution of DindigulLowercamp (Kumily) broad-gauge rail route project in Theni Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to expedite completion of various bypass road projects on Usilampatti-Theni-Bodinayakkanur section of National Highway section in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Construction of a New Bitumen Road between Devaram and Saakaloothu Mettu in Theni Parliamentary Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for the relaxation of moisture content in paddy for public procurement",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to confer Bharat Ratna posthumously to Pasumpon Muthuramalinga Thevar, a freedom fighter and Parliamentarian from Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to expedite laying of new railway line from Dindigul to Sabarimala via Theni",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to provide status of national importance to Keeladi excavation site in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Cancel RBI Order Mandating Full Repayment of Agricultural Jewel Loans for Renewal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to review the decision Regarding exclusion of farmers from the PM-KISAN Scheme owing to acquisition of land ownership after 1st February, 2019",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Additional Funds for Synthetic Athletic Track and Youth Hostel Maintenance in Annai Sathya Sports Stadium, Thanjavur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to review the decision for implementation of two-shift format for National Eligibility Cum Entrance Test for Post- Graduate (NEET-PG) Examinations",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Halt Auction of Petroleum Blocks in the Gulf of Mannar to Protect Biodiversity and Livelihoods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to expedite completion of laying of new broad gauge railway line between Dindigul and Sabarimalai in Theni Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Urge upon the union govt. to bring a law to tackle the problem of infected dog menace",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for New Railway Line Between Dindigul and Sabarimala to Ease Pilgrim Travel and Reduce Congestion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to form a committee consisting of the representatives of the fishermem to protect the tamil nadu fishermen",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 86
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/thanga-tamil-selvan"
+  },
+  "qualification": "Post Graduate",
+  "questions": 6,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Jal Shakti": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "TTV DHINAKARAN",
+  "runner_up_party": "AMMA MAKKAL MUNNETTRA KAZAGAM",
+  "score_breakdown": {
+    "base": 29,
+    "criminal_deduction": 8,
+    "legislative": 33,
+    "mplads": 24,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 49850594,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.08
+}

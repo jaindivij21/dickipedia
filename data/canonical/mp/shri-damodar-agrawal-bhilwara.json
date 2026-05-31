@@ -1,0 +1,596 @@
+{
+  "accountability_score": 48,
+  "age": 71,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 16920000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6781250
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 6000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 22500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 52201250,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 198353
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1595639
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3326372
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 11135501
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2932300
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 19191165
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2743",
+      "total_assets": 71392415,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 71392415,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Damodar Agarwal is an Indian politician from Rajasthan. He represents Bharatiya Janata Party and is a member of the 18th Lok Sabha from Bhilwara Lok Sabha constituency.",
+    "title": "Damodar Agarwal",
+    "url": "https://en.wikipedia.org/wiki/Damodar_Agarwal"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "C-150 RK Colony Bhilwara Rajasthan, 311001",
+    "emails": [
+      "tush_agrawal@hotmail.com",
+      "damodar.agrawal@mpls.sansad.in"
+    ],
+    "phones": [
+      "9414111841",
+      "9414454812"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/DamodarAgrawalBJP/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/DamodarAgarwalB"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/damodar__agrawal/"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "No",
+      "party": "the candidate"
+    },
+    {
+      "detail": "No",
+      "party": "spouse"
+    },
+    {
+      "detail": "No",
+      "party": "dependent"
+    },
+    {
+      "detail": "No",
+      "party": "Hindu undivided family or trust in which the candidate or spouse or dependents have interest"
+    },
+    {
+      "detail": "No",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    },
+    {
+      "detail": "No",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 1,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "Criminal Case No.22/1976",
+        "charges_framed": true,
+        "court": "Chief Judicial Magistrate, Bhilwara",
+        "fir_no": null,
+        "other_acts": "Rule 43(1)(a) of the defance & internal security of indian rules 1971",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 1,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "05/09/1955",
+  "eci_state": "Rajasthan",
+  "email": "tush_agrawal[at]hotmail[dot]com,damodar[dot]agrawal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 511008,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 514760,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 444339,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 302265,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 424694,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 503204,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 498743,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 425215,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 418380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 310930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 255156,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 251021,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 229958,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 358956,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 283395,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business, Rent & Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agency Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 1,
+        "pending": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.10 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 100974898,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Advance Rent 30,600 30 Thou+",
+        "value": 3320600
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3320600
+  },
+  "margin_votes": 354606,
+  "minister": false,
+  "mp_name": "Shri Damodar Agrawal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 46025102,
+  "mplads_unspent": 100974898,
+  "mplads_utilisation_pct": 31.3,
+  "mplads_works_completed": 44,
+  "mplads_works_recommended": 222,
+  "mpsno": 5620,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-03-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "Rajasthan: BJP's Damodar Agrawal to contest LS poll from Bhilwara",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjBoaXcxUzIxbm4xaGEwcndCZXBBalJXT1pDR1JtWnUybk0zamc5QU10STF6bEFNYndIQU1SSFNnT2lPdDRzZnR4bGNJZmF1eWhDRkVidHNtVVdQRTBXejZYa3pYcVlCOFRrMW4zRDR1WXdRTFdVcWlIRk01UjdUYkd5TEJIUGdBcUdfb09rbmZQN25jM0paZ2lYZlQ2Vmp2?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 13376,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-23",
+  "pc_name": "BHILWARA",
+  "pending_cases": 0,
+  "phone": "9414111841",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180340.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Operationalization of Hamirgarh Airstrip under Regional Connectivity Scheme (UDAN)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to run the proposed train from Indore to Jaipur via Chittorgarh, Bhilwara and Ajmer",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Daily Operation of Train No. 12995/96 Between Bhilwara and Mumbai.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to construct a new railway line from Nathdwara to Jaipur via Bhilwara - Shahapura - Kekri Todaraisingh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to abolish the imposition of penalty on BH series vehicles for non-adherence to tax-payment schedule",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to lift ban on export of Biochar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to upgrade Bhilwara-Ladpura National Highway No. 758 as a four-laning road",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to enact law for regulation of vehicle speed limits",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to establish CGHS Wellness Centre in Bhilwara, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to start air services under RCS-UDAN Scheme at Hamirgarh airstrip in Bhilwara, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Immediately Stop Illegal Blasting and Mining Activities by Jindal Saw Ltd. in Bhilwara and Ensure Public Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to conserve and declare Nandasa Stupa in Nandasa village in Bhilwara Parliamentary Constituency, Rajasthan as a National Memorial",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to construct Ajmer-Kota railway line",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Extend Train Services from Delhi to Bhilwara via Jaipur to Ease Travel Demand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding construction of a Rail Overbridge in Bhilwara city in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to set up a Textile Park in Bhilwara, Rajasthan under PM MITRA Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to set up a Textiles Park in Bhilwara, Rajasthan under PM MITRA Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to declare the Bhilwara-Chhapad-Jahajpur-Devli Road as NH",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding four laning of Bhilwara � Shahpura � Jahazpur � Deoli road in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding augmentation of railway services connecting Bhilwara parliamentary constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to minister provide at least one train running from ajmer to mumbai via bhilwara on everyday",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 223
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/damodar-agarwal"
+  },
+  "qualification": "Post Graduate",
+  "questions": 28,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 2,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Law And Justice": 3,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Road Transport And Highways": 1,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "C P JOSHI",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 7,
+    "legislative": 58,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 71392415,
+  "total_liabilities": 3320600,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 61.92
+}

@@ -1,12 +1,12 @@
 node_modules
 .next
 .open-next
+out
 build
 dist
 coverage
 data
-db/migrations
-db/*.db
 package-lock.json
+next-env.d.ts
 *.log
 .vercel

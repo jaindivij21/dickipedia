@@ -1,0 +1,872 @@
+{
+  "accountability_score": 38,
+  "age": 71,
+  "assets_2019": 144098612,
+  "assets_2024": 180933863,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8701025
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 51924511
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13932715
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 76193586,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 15000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7030692
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 86769645
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 865489
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3625088
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7600000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 105905914
+  },
+  "assets_earliest_year": 2016,
+  "assets_history": [
+    {
+      "label": "Kerala 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yQV6hERuh9hsFN4DZSif",
+      "total_assets": 101364904,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yQV6hERuh9hsFN4DZSif",
+      "total_assets": 144098612,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3084",
+      "total_assets": 180933863,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 78,
+  "assets_latest": 180933863,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Ramanilayam, Konnamankkara (Muri), Adoor, Pathanamthitta, Pathanamthitta Kerala, 691523",
+    "emails": [
+      "adoorprakashkonni@gmail.com",
+      "advadoor.prakash@mpls.sansad.in"
+    ],
+    "phones": [
+      "4734224300",
+      "9447008166",
+      "7012407301"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 3,
+  "criminal_cases": 13,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "ST/1845/19 Crime 256/19",
+        "charges_framed": true,
+        "court": "JFCM 1 Pathanamthitta",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "147",
+          "143",
+          "149",
+          "283"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "78/2022",
+        "charges_framed": true,
+        "court": "CJM Thiruvananthapuram",
+        "fir_no": null,
+        "other_acts": "Section 118E KP Net KEDO Act",
+        "sections": [
+          "188",
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "391/2020",
+        "charges_framed": true,
+        "court": "JFMC III Thiruvananthapuram",
+        "fir_no": null,
+        "other_acts": "11/2691, 2118 & KP Act of the KEDO",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 13,
+    "ipc_summary": [
+      {
+        "count": 7,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 7,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 7,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 4,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 4,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 3,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to quarantine rule",
+        "section": "271"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "297/22",
+        "charges_framed": false,
+        "court": "JFMC III TVPM CC",
+        "fir_no": "Contonment Thiruvananthapuram 253/2022",
+        "other_acts": "Section 4(2)(e) 4(2)(f) KEDO, Section 77(B) KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1304/2021",
+        "charges_framed": false,
+        "court": "JFMC III, TVPM/CC",
+        "fir_no": "Contonment Thiruvananthapuram 1329/2021",
+        "other_acts": "Section 39,121 KP Act 4 (2) (e )",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 2366/2020, New CC No. 1026/2023",
+        "charges_framed": false,
+        "court": "JFMC II Attingal",
+        "fir_no": "Mangalapuram 973/2020",
+        "other_acts": "Section 118E of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "283",
+          "269",
+          "270",
+          "271"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 3820/20",
+        "charges_framed": false,
+        "court": "JEMC II, Nedumangad",
+        "fir_no": "Nedumangad 1799/2020",
+        "other_acts": "Section 118 (e ) of KP Act & Sec 4(2) (a) 5 of KEDO Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269",
+          "283"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1131/2021",
+        "charges_framed": false,
+        "court": "JFMC II Nedumangad",
+        "fir_no": "Nedumangad 2233/2020",
+        "other_acts": "Section 118(e) KP Act Sec 4(2)(a), 5 of KEDO Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269",
+          "283"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 342/19 Now CC 6275/2021 Now CC /249/2022",
+        "charges_framed": false,
+        "court": "JFMC Varkala",
+        "fir_no": "1993/2018 Varkale Police station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Enquiry Commission and Special Judge Moovattupuzha",
+        "fir_no": "5/2016, C.R.M.P, 102/2016, Police Station VACB SIU 2 06-06-2016",
+        "other_acts": "Section 13(1)d of the prevention of Corruption Act",
+        "sections": [],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "105/2008",
+        "charges_framed": false,
+        "court": "SDMC TVPM",
+        "fir_no": "Contonment Thiruvananthapuram",
+        "other_acts": "Section 151 CRPC, Final report submitted on 23/05/2008, Prieventive arrest on 23-05-2018 at in front of secretariat main gate",
+        "sections": [],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 6/2011",
+        "charges_framed": false,
+        "court": "The Hon Enquiry Commissioner and Special Judge, Kozhikkode",
+        "fir_no": "VC/02/2008 VACB, Northern Range, Kozhikkode",
+        "other_acts": "Section 7, 15, 13(1) d of the Prevention of Corruption Act",
+        "sections": [],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "QV 01/2023 SCT",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Vigilance Special Bureau",
+        "other_acts": null,
+        "sections": [],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 13,
+  "dob": "24/05/1955",
+  "eci_state": "Kerala",
+  "email": "adoorprakashkonni[at]gmail[dot]com,advadoor[dot]prakash[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1962420,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 920240,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1072050,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1226120,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 697263,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 682360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 23950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 648080,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 360070,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 15490,
+        "person": "spouse"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 552210,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 120630,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1162660,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 16070,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary of MP, Business Income and Agricultural Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹7.96 Cr between affidavits, while declared income across 5 ITR years totalled ₹58.8 L.",
+      "headline": "Declared assets rose 14× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 79568959,
+        "declared_income": 5878093,
+        "itr_years": 5,
+        "ratio": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.54 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125425905,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 3,
+        "pending": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "NOTA drew 9,791 votes; the seat was won by 684.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 684,
+        "nota": 9791
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 20100241
+      },
+      {
+        "category": "Union Bank of India No 50710503000xxxxx 1,60,000 1 Lacs+",
+        "value": 16702358
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 36802602
+  },
+  "margin_votes": 684,
+  "minister": false,
+  "mp_name": "Adv. Adoor Prakash",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 21574095,
+  "mplads_unspent": 125425905,
+  "mplads_utilisation_pct": 14.7,
+  "mplads_works_completed": 79,
+  "mplads_works_recommended": 369,
+  "mpsno": 5123,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kerala Assembly Elections 2026: Adoor Prakash’s stance adds to Congress confusion in Pathanamthitta",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUC1WdkE1LVRQQVFydnRCSGplZmxyWlgtZk5tZVdjbDdmNWhzdEN6OVNaNXB4NXViN2ZIb0VSQm00Q3I2Mm5jNWtLUy0tZ29MckozYkdhY2pyUzlvYVU3UUstaG02ZkRrRzEzellVclJHQ3hMUmxiWkZqc2paR2VfUkFyamVhUlFqMjNuUEphODdOLWVRcTRsYWNWSFFpUG5nWmZTLVhVWkdyRVZyaGUzdUg1UGJqZVg1bUhRUHJXeUd6ZTlCMHBFUVJwckNfcGRwdGhN0gHaAUFVX3lxTFBsYmczaFhuT0l2SXhsRGk0SE5pbnFKeE1zd0JYanhRRjJJMzhZX1JsUUFUWVM2RGppN0ZmZUQ4Q2NPdmQ4dWhxbkpRVWNHUnFyXzJoa0lzS1ZSZTY1REU3UEVwUTdXRDZiLWdzem4tSDJfN3BpRFA1a1ZocmdZOXZET3luMEYxS1hoOVpqOTFySGNIY0ZjNC0yTGFhYzZzWFJvUE5pdXFXaENmdVhRODNWOEhhb0J4MVpuY1p3dXFKd25NdUEwUm1NM0pka21jZF9nYkcwaWxrTFdR?oc=5"
+    },
+    {
+      "date": "2025-05-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Sunny Joseph named new KPCC chief, Adoor Prakash as UDF convenor in major Congress reshuffle",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOER4d0N0U1ZqU2dJYzdnbENYRUdYeDd6WGtxZ3k2ZWZ3dGlkNnBabzFld2FOUnlUQmtVOWZHMldBNURMN2dPUzNjT2owT2ZfWmNtdDY1VW55Y3NsY0doUkZNdC1iOTdGbWVuUVNSTWdzQ0J0WHp0b2loLVd6Ty0zSmpUM0hYMkE3bkItZ0VldGl0ZTJza2h2SmFfNGtSYjJKNEZKcHJFNVNDOUx4aXRwb0dfRUtGdUNZVUZjZWdMbF82alpjc1EtWTJkall6T3VfdlRQM2tUTnRmdWdCU2cwb0RQcjnSAfIBQVVfeXFMT04ydWVSSFl0RmpFZ1RsaU0td3JIZmRQdHBpUzlHc3IwbDZ3NnFWN3A0ZlU5WHBXeTNLcUd4Q3FSR2Ftb25yREpXNndjd283U0VFdHJfM1l5eTc3QmVEdU91Y2xxaXY1eVZDVFpyYlhWN3k5YVBoSVhOa0xzRlZpWlFzbXNSLXBpbndzQlNlSW1iMjRGdE13LUpCMWgyRWliREF3cG83a0tLeTdpaEFnRU5IdHpVSVRmWTVUa3RVWm9YWGUyNXZPd0V0dlg3ckdkcENWQlNRYlFZYlNwR0Yybm4yWHp0WXZUZ1BmdHVMNXdYTXc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "V Muraleedharan loses Attingal seat to Adoor Prakash by 16,272 votes | India News",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM3FROF9VZHh2Yk1BYmFGNkFIYTdwdHpUcFV0cnQySTZZZThnT0FreTNta0NNRWVjRkxMX2lYZ0ZBenRleEQxNktNeXNvQml3Wm5jQ1NHUkw3aEZIeUpMNHJlclNUeGVwQ3YzdFJrdzFWcmpkSW02eDVRTkMxS2UzbjJwdlV5MGlwQlhtRHRKNUMzQUpjNEQwaGFRMEpMZWRyUjZpYW9zaGdKc2pwYThKMk4zZGFiZHluNk45Tk1PbmdTX3lRVWZ6UFFOV2gxNVdxcEdWckFMdkVlTmNiTEdFemR5S1dLVlhPV0U0OW5aQXhicmR3LUpneU9GNlFRQXBueVJwV2RPdXV5Z9IBjwJBVV95cUxNaFN1ODBpTzFwWEpzWTNuRVBmcDhCM2w1TENERzU4ZVFhajhSWDIyRDNPUVVvYjhfQXpZYzlYOTltZ21mUGVTTlNkekcxWmdfYUtSSkZhUGNDZjZITGszWFYxU202QVJzMFR1Ni1PZWVqZmpwc2pZZWJSMkZvYUd0YkUzcnhfNTV0QmRjbjZMNUVtYkdyOWYyODhUY1d3THU5dHZ1eGNvZm1lXzJzemFvZGxQcEU5Z0x4MU9OTTcyM04yaXcxSnFFTlBIaUxaT1JqQ3VaaWJKM0I3Rm5NQzJxQUFwZl9ocFV3VmRPdWJycTFyQ0RFeE1YdFliRl9JcEdjVV91TFRSYmtGYmpmbW5Z?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Attingal election results 2024 live updates: Cong's Adoor Prakash emerges as winner",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQb0hvYXRVaUZVYjAzeW94aktFZVBRQ1lHLVhwc0F3ZmlKNHJrTnk0Nm02WDRNU3RBS0JUam1OWDNtZVZBOVdWMDlCbWxHRzB0QnNCUGFKc21JVV9nckZYRUFmazhMUGozNmtBRXFyOEpwbFlqZTAyWlI3RHFGVWhKQW5pLXN4TnRkUU5KZFZPdWphT2FzQWJvZ0FfRUJzTmd3Ul9yaDAtZG5Qd05uRjBTS3czSUZMUzA1S1dDU2Zhek8wZTdFVHY4VVV6dTctX3ZqMDljYU9aZzU1YmQtREZ4YXk3Vy1yaWd3NW1mN0R0ajlMOUtWMzI4Q21ieTRYeEtjekNSRFEzbnQ1Sml3T1REMjJJcE14SURoM1k0ZFktdzV4cW1XLTlWUXN2MDZKWFBQUkI1RGpKWHVEczRORW9DbkdHcmpIV055MDZhbUdmNnLSAdYCQVVfeXFMUGs5NUdpUDF5NEFHM25keHhHQ0dHM3pyYWUwdkdNdkpjUkpPUEE1OHF2cjBIOVJSb0hLel8zNlJQTktpY3U4d1JNUm5PeVNmdHRmNGhGQkE4eEI3aWVJaU95cGtfaDh1NnBxUGZNUWRxOXBYMHBWcFNmaUt5cnlpN1lTSXhwMUN1QmxxMEhCRXUwNC1weVFhNWMtUXFUckFUUi00YjFkYXFzdnU5bEVKeWwzREFyRlFibURnY0duR2R5VmFydU1iRzJtZmFfYVQ2Unc0VGJjRXFSTHNtZVdMNDQ1UnZEYW82WlcybG9wY01iQXk2cVM4bHE3ZDF2WFJHSWE3X2hhUXRyaDF2N0RHZEllU21yNXA3bEFCZEJmaWZDcE9tNDB4cHRTWVZxNFRYcEt4YXVfazVsckc0S3RqNU4xRFFMWWVWZWtrbHZjVDlnVmVuNHJB?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Adoor Prakash wins Attingal, but by a thin margin",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlJoTFY0bFAtcklMMHJUSllINkxxRE55cU5yLWR6c195a1V6bng2VHN2bnU2TmdBRTc1ZF9kWG1GYjVIMUJBaHByOUJiVkJ0VDZvbFhjYnBibmliOE5xUHJZNjMzNzQ3am5nLVVrUVRqNW8wSGhJOTgtMVdCWEZnNU1NSk8xdDBTTFpPeHNHZ1hDb3ZCdlRnSk1qa1VZUVJoNkkyR1BJaW5ETVlSNzgwRUU5c18zUU55WFlB0gHIAUFVX3lxTE43Ny1pRjlmSG9tRF9pSk9YSENhN0VWN1hqTlpscDc2RUNXVkxiT0toSTZXVUlLVWJFWDVkeWpyb0VzYXdHZG1NdDhFMEIzWEpHS18yOFFNUlNmdEtLTWxmcGU3V1A0NjBrZzRVNjdVRUhOUFpMc3F4MTlTNjdsVzFwX3p5LU5weklQU3ZNbXZEWGtyaE11SUltdE1XSHpoYVlFVGhQTjRvWllpM3RPVm80NHhkYS1ucFpMWHlPWnU0aFJSWWZnMU1F?oc=5"
+    }
+  ],
+  "non_serious_cases": 13,
+  "nota_gt_margin": true,
+  "nota_votes": 9791,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-19",
+  "pc_name": "Attingal",
+  "pending_cases": 10,
+  "phone": "09447008166 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180193.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to address the issues of nurses working in Government and private hospitals in Kerala and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to expedite approval to the Outer Ring Road Project from Vizhinjam to Navaikkulam in Kerala and disburse compensation to the landowners whose lands were acquired for the project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to accord approval of Outer Ring Road Project from Vizhinjam to Navaikkulam in Kerala and also to disburse compensation to the land owners whose lands were acquired for the project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to expedite completion of Muthalapozhi Fishing Harbor project in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to waive loans for the flood and landslide victims of Wayanad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to release the Pink Book (20252026) of Indian Railways",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Immediate Release of Pending Samagra Shiksha Abhiyan Funds to Kerala and Other States",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to expedite the completion of construction work on the stretch of National Highway No. 66 between Kazahakkoottam and Kadambattukonam in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Compensation and Timely Execution of the Vizhinjam-Navaikulam Outer Ring Road Project in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Immediate Intervention to Complete NH-66 Development Works in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the enhancement of the minimum pension under EPFO",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to sanction the expansion of Angamaly Sabari railway from Erumeli to Vizhinjam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to expedite completion of Sanctioned Railway Over Bridges at various level crossings in Attingal Parliamentary Constituency in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to expedite completion of the Vizhinjam- Navaikkulam Outer Ring Road Project in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to expedite completion of Nemom Railway Terminal Project in Thiruvananthapuram South, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. to complete the sanctioned railway over bridges in attingal constituency under Thiruvananthapuram Railway Division",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to increase the number of minimum employment days in a financial year alongwith revision of working hours under Mahatma Gandhi National Rural Employment Guarantee Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding issues pertaining to land acquisition for Vizhinjam � Navaikkulam Outer Ring Road project in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand to implement a special project for ensuring safety of Muthalappozhi fishing harbour",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 173
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/adoor-prakash"
+  },
+  "qualification": "Graduate",
+  "questions": 55,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 3,
+    "External Affairs": 3,
+    "Finance": 4,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Petroleum And Natural Gas": 3,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 6,
+    "Road Transport And Highways": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "V JOY",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 67,
+    "criminal_deduction": 26,
+    "legislative": 90,
+    "mplads": 32,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 180933863,
+  "total_liabilities": 36802602,
+  "wealth_pct_increase": 26,
+  "winner_vote_share": 33.29
+}

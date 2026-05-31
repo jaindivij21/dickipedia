@@ -1,0 +1,683 @@
+{
+  "accountability_score": 32,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 21500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 21500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 189550
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 148361
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 128689
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Life Isnurance Corporation of India Policy No 12486xxxxx 1,03,418 1 Lacs+",
+        "value": 895028
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1852352
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2909500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 6123483
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Municipal Corporation for Delhi 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mygR4wfgcampBCRbrhph",
+      "total_assets": 2192230,
+      "year": 2012
+    },
+    {
+      "label": "Delhi Election 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mygR4wfgcampBCRbrhph",
+      "total_assets": 3862075,
+      "year": 2015
+    },
+    {
+      "label": "Delhi 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=mygR4wfgcampBCRbrhph",
+      "total_assets": 5011220,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7905",
+      "total_assets": 27623483,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1160,
+  "assets_latest": 27623483,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Yogender Chandolia is an Indian politician from Bharatiya Janata Party. He is currently a Member of Parliament from North West Delhi.",
+    "title": "Yogender Chandoliya",
+    "url": "https://en.wikipedia.org/wiki/Yogender_Chandoliya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No.5528, Street No.74, Raigar Pura, Karol Bagh Central Delhi delhi NCT of Delhi, 110005",
+    "emails": [
+      "yogender.chandolia@gmail.com",
+      "yogender.chandolia@mpls.sansad.in"
+    ],
+    "phones": [
+      "9810578491",
+      "9654024553"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force in attempt to commit theft of property carried by a person",
+        "section": "356"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Cr. Case No. 13129/2022",
+        "charges_framed": false,
+        "court": "CMM Central Tis Hazari Court Delhi",
+        "fir_no": "298/2020, P.S. Desh Bandhu Gupta Road",
+        "other_acts": "Section 3 of PDPP Act 1984",
+        "sections": [
+          "188",
+          "269",
+          "147",
+          "148",
+          "149",
+          "427"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Cr. Case No. 12914/2023",
+        "charges_framed": false,
+        "court": "MM-01 Central/Tis Hazari Court Delhi",
+        "fir_no": "265/2020, P.S. Prasad Nagar",
+        "other_acts": null,
+        "sections": [
+          "186",
+          "353",
+          "356",
+          "341",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 9,
+  "dob": "22/05/1962",
+  "eci_state": "NCT OF Delhi",
+  "email": "yogender[dot]chandolia[at]gmail[dot]com,yogender[dot]chandolia[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 383140,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 321530,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 360170,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 305230,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 382850,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 348100,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 318750,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 331700,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 335230,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 299310,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹21.9 L (2012) to ₹2.76 Cr (2024).",
+      "headline": "Declared assets grew 1,160% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 2192230,
+        "from_year": 2012,
+        "pct": 1160,
+        "to": 27623483,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹2.54 Cr between affidavits, while declared income across 5 ITR years totalled ₹17.5 L.",
+      "headline": "Declared assets rose 15× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 25431253,
+        "declared_income": 1752920,
+        "itr_years": 5,
+        "ratio": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹14.47 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 144700531,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 938900
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 938900
+  },
+  "margin_votes": 290849,
+  "minister": false,
+  "mp_name": "Shri Yogender Chandolia",
+  "mplads_allocated": 147876307,
+  "mplads_expenditure": 3175776,
+  "mplads_unspent": 144700531,
+  "mplads_utilisation_pct": 2.1,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 55,
+  "mpsno": 5587,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Explained: Why did a court direct framing of charges against Delhi BJP MP Yogender Chandolia?",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmdpdFNUNFZTSjVXZGFuMHFQek5rSXk1a2ZJb2ZiWTZrS3VKd1BSTHY1UEpEd0doMkZPeW5UN09XY01oV1hkSEw1bVNfV1BTY0Z1OVc1VjZYcDVYQkNVWncxVk8tdGM1VDZpZ0V5aXFTNTFkWVVNQ3pwMnN6QWhhdHZBa3IxdW1LWC13Vy1sQUY4SU9GdUktbVo2QVZ3UmpyQ1cwQXJQYWJ0aVFwNGRrb1dsbkZfOUVzaGo1MXlONGh3QnFyQ0g3c2k2YlhtTTkx0gHXAUFVX3lxTE4yMm0zb2JrV3loTkNsa0lCOXJoeWtUdUxzS0xocHdmc2xYYlZaRWZXMFZwcEFCaG81Nk9sNmtUZ1B4U3RqSGtzam1uN2tsakZNZUhHMnZtWGhtRzZPV2ZQNVViUHpzeFpRdlJmN2plTl9OT2RnSW92TFlGSUs2NlczT2hDazBxNnc1ZjNWLTRBdEZNZVJLcTNoMURBZ3RKQm1aMWVJTENXZUxJeE1OWnlhOV9fV3pqZ1hjSkVFMERkTjdzTmFQdUxmSEV0NEt1MzU3T3pDWWFz?oc=5"
+    },
+    {
+      "date": "2025-01-02T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Assam Tribune",
+      "title": "Narela may get new international cricket stadium: BJP MP Yogender Chandolia",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RheTVfR1cwUWw5MmNNVDF5cHM2WGgyeTY4RFN5aUxZMUNDeVJzb3RWY21CS0h1SFd4Qm9QNXBhV0g1dE1KZGpUYnpTVHRGV3REMjdsNGczT0xzWnJrcVFZY0tqcThYXzFRQXAydnhJWVJFY1o2VFBPQmZLVEJmVFZoWWdQYksyWHhuQXZISlBzbEFTcURzVlBRRGtyYjhtbUVqOEdNMmRZZ0VqUTNqQ0ZZMkTSAboBQVVfeXFMUFV5NXd1ZmpFTE96a3Roa19ENnU1SmY2enJlRER5Njc0QmdXcUZGQ1ByTERkVGV4U1Z0ZUxTV3d6MmpURmVnN2FkdnBOV3JyeXZiSTRXMVhHVU5Lal8tVURzTVFCSjREOEl3bUVBWkkwaG9EZ3plX2lDRzdRVFEtNTFtb2NWVXd0SEdST2dLbVVNVW5QR0p4WE5CU0Q3WkVqSzB4RXZFV25CNXR6VVJ5RzRnbVU3ci1lb1Nn?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Yogender Chandolia: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZEZaOWI0ZU5ucnktSllMV002UEJLOE5QS0Z6R1pyaEJPM3ptbzk4UXgwS0VJUVpXQmhGTWhsQW4yRVUwdTRSX0FHWVlEeHZZLThuVms5S3YwYkpkRFhiRnU1Wk5IMkpTT3JRcU53TXp6UWFm?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "North-West Delhi Seat, New Delhi Lok Sabha Elections 2024 Live: BJPs Yogender Chandolia Defeats Congress",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaVRKNmN6NE11VTJmdXVETGo5TjRlT2ZYVUNvQ0Y2LWlXTnI4U1pqUno3dERBTEZLczc5eTNwRXZHOXFJa1BCNzVvS294QUtBbnJwTWM5aklOOFB6Q2JJR1hpMzZwVkc1YTFSYkFnaGpjWjBua3R3WEdRdTV1Yk1zbDVtV2FIeGxWVHhPRmpBaFZBeDVoMExxX0JNek5HYnRWbU9xdFBWZzQxanQ4b09TaW5KOXlaaHctUTQzaWlkUlF2VFJlVTZfOWdUM0lMeUJzUllhcS1n0gHbAUFVX3lxTE1LWk52OVRzSElmbDcwZlBrWmI1NVRyb1BielZMWXhxcHdLcHNZVUNobWtxelBCcWJtUi0zVHlBaTNMcHl5UzBGd1NJTmRnaGREWTB6cnFCZU5kdjg2aGpmY3N2QThsUzVnazlXSzRjLTNkS2htNFVZbDY3cnA2Nmkxd0xuaFJ0OVRxdzBkVXNXRkN3M1N2VXZyd0xyLWtleGxjTGF1Vmp3cmFvYXFraW5QemNFTks1V2tPNjg3N08xYm0ybjkwZm1qcV92cmRMejlmWWZKQWlrNkRiRQ?oc=5"
+    },
+    {
+      "date": "2024-05-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Meet Yogender Chandolia: North West Delhi candidate for Lok Sabha election 2024",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWxwQVZBNWl2ZVBWbzRCdXBTMDMwLWdjVDYxeS1mVEJlMkhTSE5scmZWMjVrbHYtT2JVUms2N2N4RmJwT1NRMzJfQnZabjJBYkdaemlQdUYzTlBHZThVYXNvYm9pdFptRTdCbHNULURZWTBDbG1FeDdRT3MxQkd5MDk4N2hEOC1aRHZETEcxanZzMDJuY3J4LW1WR0xHZXFISGlXSlJCa0lGbWFjalRfUHpobmg1akE3eUgzUGpnS1BtVDNTWWVqQWViUUM2NHhZUl9LZkZR0gHbAUFVX3lxTE5DMnFYU0hGT0Q4YkdFTG1fUkNSWUtsV3VyZTl1QUxCVE5DTnNoZjVtVEhONDhPYVQzZldkTUJJWVFualB6VURxX3ZZTWJCNjB0MjRCSnpPRU5PV0gxbWFDLWVFQmFtT2tpbzRHRWtodWg5RFJvVFkzVmJEb01hdTdEQ2RGOTM1VERJQkl6eTg1bUo0UVBpeGdhOHZOWHNHSTE2T0NtNGs2cGduYXlEaGJnN0VHRmdzNndNcFY1Q2RNaE1Vc3NzLUJldk8zcFIyN05BVWlpTHFtVk5VSQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 8984,
+  "notable_record": null,
+  "num_candidates": 26,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "nct-of-delhi-5",
+  "pc_name": "North-West Delhi",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180103.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Implementation of Master Plan and Construction of Bypass in Narela.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding establishment of a Kendriya Vidyalaya in North West Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to set up an AIIMS hospital in North West Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to resolve the pension problem of JNV teachers as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to expedite budget allocation for construction of Narela bypass road in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding need to re-develop water bodies and community centres in North West Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for a separate hospital in Delhi for premature babies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding development of water bodies in North West Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to provide benefits of �SVAMITVA� Scheme and �PM UDAY� Scheme to residents of villages in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding non-extension of cashless medical facilities to pensioners of Electricity Distribution Companies in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to extend benefits of Central Government Schemes to farmers of Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to establish a Convention Centre in North-West Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Direct Connectivity Between Rohini Helipad and Kundli-Manesar-Palwal Expressway via Elevated Road or Flyover",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to allocate the EWS Flats in Delhi to eligible families under PMAY(U)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Urge upon to minister to take immediate action within a time frame to provide ownership rights to landless people and farmer of Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to connect Helipad at Rohini, Delhi with KMP Expressway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to abol ish Service Charges on Industries in Delhi under DIDOM Act",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to provide basic civic amenities in residential colonies of North Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding poor financial health of Discoms in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to minister to look into the scheme of delhi govt. related to the drains and roads worth about 190 crore due to the absence of the cabinet meeting of delhi govt.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding expansion of metro network from Rithala to Bawana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding deaths of mentally challenged inmates reported at Asha Kiran shelter home",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding Problem of water logging in NCT of Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18,
+      "value": 25
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 149,
+      "value": 234
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/yogender-chandoliya"
+  },
+  "qualification": "Graduate",
+  "questions": 47,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 3,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 3,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Space": 1,
+    "Statistics And Programme Implementation": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "UDIT RAJ",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 7,
+    "legislative": 78,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 11
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 27623483,
+  "total_liabilities": 938900,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 58.26
+}

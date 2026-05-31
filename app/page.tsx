@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
-import { ALL_MPS, mpSlug } from '@/lib/data';
+import { AGGREGATES, featuredMp } from '@/lib/data';
 import { pct, rupeeCr, scoreBand, colorVar } from '@/lib/format';
 
 const initials = (s: string) =>
@@ -34,28 +34,23 @@ function StatCell({ figure, label, token }: { figure: string; label: string; tok
 }
 
 export default function Home() {
-  const crimDenom = ALL_MPS.filter((m) => m.criminal_cases != null).length || 1;
-  const withCrim = ALL_MPS.filter((m) => (m.criminal_cases ?? 0) > 0).length;
-  const crimPct = Math.round((withCrim / crimDenom) * 100);
-  const utilArr = ALL_MPS.map((m) => m.mplads_utilisation_pct).filter(
-    (x): x is number => x != null,
-  );
-  const avgUtil = Math.round(utilArr.reduce((s, x) => s + x, 0) / (utilArr.length || 1));
-  const notaSeats = ALL_MPS.filter((m) => m.nota_gt_margin).length;
-  const zeroQ = ALL_MPS.filter((m) => m.questions === 0).length;
-  const featured =
-    ALL_MPS.filter(
-      (m) => m.accountability_score != null && m.photo_hotlink && (m.criminal_cases ?? 0) > 0,
-    ).sort((a, b) => a.accountability_score! - b.accountability_score!)[0] ?? ALL_MPS[0];
-  const fBand = scoreBand(featured.accountability_score);
-  const plateColor =
-    featured.accountability_score == null ? 'var(--color-border)' : colorVar(fBand.token);
+  const {
+    criminal_pct: crimPct,
+    avg_util: avgUtil,
+    nota_seats: notaSeats,
+    zero_questions: zeroQ,
+    total,
+  } = AGGREGATES;
+  const featured = featuredMp();
+  if (!featured) return null;
+  const fBand = scoreBand(featured.score);
+  const plateColor = featured.score == null ? 'var(--color-border)' : colorVar(fBand.token);
 
   return (
     <main className='mx-auto max-w-5xl px-4'>
       {/* Hero (kept) */}
       <section className='pt-14 pb-10 sm:pt-20 sm:pb-12'>
-        <p className='eyebrow mb-4'>Volume I · 18th Lok Sabha · {ALL_MPS.length} records · 2024</p>
+        <p className='eyebrow mb-4'>Volume I · 18th Lok Sabha · {total} records · 2024</p>
         <h1 className='rule-top max-w-[16ch] pt-6 text-[2.75rem] leading-[1.04] font-bold tracking-[-0.02em] text-balance sm:text-5xl lg:text-6xl'>
           The <span className='mark-accent'>public record</span> of India&rsquo;s{' '}
           <span className='text-accent font-bold'>powerful</span>, in one place.
@@ -72,7 +67,7 @@ export default function Home() {
 
       {/* Featured — bordered dossier card */}
       <section className='mt-16 sm:mt-20'>
-        <Link href={`/mp/${mpSlug(featured)}`} className='border-border group block border'>
+        <Link href={`/mp/${featured.slug}`} className='border-border group block border'>
           <div className='border-border relative flex items-center justify-between gap-3 border-b px-5 py-2.5'>
             <span className='eyebrow'>Featured record · lowest score on file</span>
             <span className='text-ink-soft font-mono text-[11px]'>FILE / {featured.pc_id}</span>
@@ -84,60 +79,58 @@ export default function Home() {
 
           <div className='grid sm:grid-cols-[auto_1fr_auto]'>
             <div className='border-border bg-surface-2 border-b p-5 sm:border-r sm:border-b-0'>
-              {featured.photo_hotlink ? (
+              {featured.photo ? (
                 <img
-                  src={featured.photo_hotlink}
+                  src={featured.photo}
                   alt=''
                   className='border-ink mx-auto aspect-[4/5] w-36 border object-cover object-top grayscale-[15%] transition-[filter] group-hover:grayscale-0 motion-reduce:transition-none sm:w-40'
                 />
               ) : (
                 <div className='border-ink text-ink-soft mx-auto grid aspect-[4/5] w-36 place-items-center border font-mono text-2xl sm:w-40'>
-                  {initials(featured.mp_name)}
+                  {initials(featured.name)}
                 </div>
               )}
               <p className='text-ink-soft mt-2 text-center font-mono text-[10px]'>
-                {featured.eci_state}
+                {featured.state}
               </p>
             </div>
 
             <div className='min-w-0 p-6'>
               <h2 className='group-hover:text-accent max-w-[16ch] font-serif text-2xl leading-tight font-bold tracking-[-0.01em] text-balance transition-colors sm:text-3xl'>
-                {featured.mp_name}
+                {featured.name}
               </h2>
               <p className='eyebrow mt-2'>
-                {featured.pc_name}, {featured.eci_state} · {featured.party_full}
+                {featured.pc}, {featured.state} · {featured.party_full}
               </p>
               <p className='text-ink-soft mt-4 max-w-[44ch] leading-relaxed text-pretty'>
-                <span className='text-ink font-medium'>{featured.mp_name}</span> holds the lowest
+                <span className='text-ink font-medium'>{featured.name}</span> holds the lowest
                 accountability score on file
-                {featured.criminal_cases != null && (
+                {featured.criminal != null && (
                   <>
                     {' '}
                     —{' '}
                     <span className='text-ink font-semibold'>
-                      {featured.criminal_cases} declared case
-                      {featured.criminal_cases === 1 ? '' : 's'}
+                      {featured.criminal} declared case
+                      {featured.criminal === 1 ? '' : 's'}
                     </span>
                   </>
                 )}
-                {featured.attendance_pct != null && (
-                  <>, {pct(featured.attendance_pct)} attendance</>
-                )}
+                {featured.attendance != null && <>, {pct(featured.attendance)} attendance</>}
                 {featured.mplads_unspent != null && (
                   <>, {rupeeCr(featured.mplads_unspent)} left unspent</>
                 )}
                 .
               </p>
               <div className='rule-top mt-5 max-w-[44ch] pt-3'>
-                {featured.criminal_cases != null && (
+                {featured.criminal != null && (
                   <Finding
                     label='Criminal cases'
-                    value={String(featured.criminal_cases)}
+                    value={String(featured.criminal)}
                     token='var(--color-danger)'
                   />
                 )}
-                {featured.attendance_pct != null && (
-                  <Finding label='Attendance' value={pct(featured.attendance_pct)} />
+                {featured.attendance != null && (
+                  <Finding label='Attendance' value={pct(featured.attendance)} />
                 )}
                 {featured.mplads_unspent != null && (
                   <Finding label='MPLADS unspent' value={rupeeCr(featured.mplads_unspent)} />
@@ -158,7 +151,7 @@ export default function Home() {
                   className='border-b-2 pb-0.5 font-serif text-4xl leading-none font-bold'
                   style={{ color: plateColor, borderColor: plateColor }}
                 >
-                  {featured.accountability_score ?? '—'}
+                  {featured.score ?? '—'}
                 </span>
                 <span className='text-ink-soft self-baseline font-mono text-[11px]'>/100</span>
               </div>
@@ -205,11 +198,11 @@ export default function Home() {
                 Lok Sabha MPs
               </div>
               <div className='text-ink-soft mt-1 text-sm'>
-                All {ALL_MPS.length} members of the 18th Lok Sabha (2024)
+                All {total} members of the 18th Lok Sabha (2024)
               </div>
             </div>
             <span className='text-ink-soft inline-flex shrink-0 items-center gap-2 font-mono text-sm whitespace-nowrap'>
-              {ALL_MPS.length} RECORDS
+              {total} RECORDS
               <ArrowRight
                 size={14}
                 className='group-hover:text-accent transition-transform group-hover:translate-x-0.5 motion-reduce:transition-none'

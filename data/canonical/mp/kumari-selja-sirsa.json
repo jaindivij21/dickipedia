@@ -1,0 +1,468 @@
+{
+  "accountability_score": 7,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 119593750
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 112556548
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 33004000
+      },
+      {
+        "category": "Others",
+        "value": 51731136
+      }
+    ],
+    "immovable_total": 316885434,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 205000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 71930218
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 23509285
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 900000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4457676
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2768190
+      }
+    ],
+    "movable_total": 103770369
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HEEhTSpiodcVpw7q3gy",
+      "total_assets": 7176087,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HEEhTSpiodcVpw7q3gy",
+      "total_assets": 46711386,
+      "year": 2009
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HEEhTSpiodcVpw7q3gy",
+      "total_assets": 240508152,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8546",
+      "total_assets": 420655803,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 5762,
+  "assets_latest": 420655803,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Selja Kumari is an Indian politician and a member of the Lok Sabha, the lower house of Indian parliament. She is a member of the Indian National Congress and has served as the union minister of state for social justice and empowerment and tourism during Manmohan Singh's premiership.",
+    "title": "Selja Kumari",
+    "url": "https://en.wikipedia.org/wiki/Selja_Kumari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "662 Dabra Chowk Hisar Haryana, 125001",
+    "emails": [
+      "kumariselja.mp@mpls.sansad.in",
+      "officeofkumariselja@gmail.com"
+    ],
+    "phones": [
+      "9013181062",
+      "1123018074"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "24/09/1962",
+  "eci_state": "Haryana",
+  "email": "kumariselja[dot]mp[at]mpls[dot]sansad[dot]in,officeofkumariselja[at]gmail[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3462320,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5836990,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4941160,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4447180,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4218160,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Interest on FD and Saving Fund, Rent, Dividend & Interest on Share & Mutual Fund and Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹71.8 L (2004) to ₹42.07 Cr (2024).",
+      "headline": "Declared assets grew 5,762% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 7176087,
+        "from_year": 2004,
+        "pct": 5762,
+        "to": 420655803,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹41.35 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.29 Cr.",
+      "headline": "Declared assets rose 18× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 413479716,
+        "declared_income": 22905810,
+        "itr_years": 5,
+        "ratio": 18
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 11% of MPLADS local-area funds were spent — ₹13.14 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 131379334,
+        "utilisation_pct": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 268497,
+  "minister": false,
+  "mp_name": "Kumari Selja",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 15620666,
+  "mplads_unspent": 131379334,
+  "mplads_utilisation_pct": 10.6,
+  "mplads_works_completed": 45,
+  "mplads_works_recommended": 261,
+  "mpsno": 3589,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-19T22:30:31.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "MP Kumari Selja alleges govt failure over growing cancer crisis in Sirsa",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGluVW1TNTd6RWZscDZZYzMxcDZtem83ZWFaYzhjbnlqUnpZQ2NGa0VmUU1iSVJuOFlSVnRibWZYT25URjlQaTNpcTJUMWhDR01kTHdqem9WVXMtdTYxb1lRYTNidU8yWFp1Zmd2cDJZXzN4UVhzQVJ0X1dNNEZlTUhONVhHY3pINTc3S0lkOGt0d001VkVNeUpjX0tKODVRcnBvRWlXbVQ?oc=5"
+    },
+    {
+      "date": "2026-05-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News Arena India",
+      "title": "Congress general secretary and Sirsa MP Kumari Selja on Saturday expressed serious concern over the latest National Crime Records Bureau (NCRB) report, saying Haryana has recorded the highest rate of crimes against children among all states.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeW9obGxaaUtPT3BWU2xVcnF4aTRjMmNGWjA3a0hLRHhoUXgwMWlQbTJYS2FneXU1YlMzZXJOdlRGRGNIT2FDNTlySDZzazROeTJvUnN1dF85OF92VlVFVHd6YS1ib2tjQ1ZXV2pLQV9md0dWZ0hjejFNRUQxMDhGSklMVS1vczFFRUJ1YXpRbGdjUjVHYjVGNTVKU3lBX0R3aW1v?oc=5"
+    },
+    {
+      "date": "2026-04-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Toll plazas within 37 km of each other near Hisar violate NHAI norms: Sirsa MP Kumari Selja",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUhST3c4SnI5ZjlMQ3JSbkE2cEpramticmhoWW1KWFBsdDB6RFFFTFdXYmVGc0FTRkFfWnM4c01veGZMMzI1Z3h6NUc4bWd4aWhsTHV6dklzall1cTlSdkxCeUpjeGNhZXU4V3l1bDFaVHE1cWJnYjRrNkdjN3BlbmJOejlGd0QtUzZpaTAtTWZ4dzNHMFRfVlNaLXZJSWhadVVOOTZKM0JFeWhrWmtDRFhTRFdqbHRZeHJpVDk3OV9JQTJLQzZfYlJSanI0Zw?oc=5"
+    },
+    {
+      "date": "2026-03-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Sirsa MP Selja raises alarm in Lok Sabha over rising cancer cases in Haryana",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVFUYlN1Nm9ROWV0LVFIYWMwLVk0UXU1ZFA1Rk9zS3lNdnl2WnJ4bzFWOHVMVGd1dG5UdTdielJvdFM4azNJVjdmNndUaGFURmExZ0E0TGZNTm0ta1E5eDFwcGpHdUhYWHhTZjBTTmRQWWlRR0l2RnFvb3Y2TEI4b3ZwdFVGWnU4dXFneU5WZ091QzFSaVdFb2x4YlZVOWFEWmFzeDFocGlkTGNB?oc=5"
+    },
+    {
+      "date": "2026-03-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Re-evaluate Hisar–Fatehabad–Sirsa rail line project: Selja to Centre",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1JpYlIyaUV0dVYzdm0zUXRWemhrbDFLNkUxVFB5eGpTN2JYakRYNmsxdExqUmpSYWRzeXk0SF9mLVFmSERYN1M0cmlGME5Lb1BrV0NEZ2N0MzByZ0dJNUQ4elNMMmhxUkFLaGF0ZGNSVVZIT1VHOFRITjFnZEhLT25pMUlGTWhzeFlheV9tTjZ5M1lzOGtPcU9NdkstYjNPdHhURWV4a2swQ3FWSjFZOXUwdlgyYjNDSXBSOHhCV2U1SXZQQ0RhTWIxVzNuVDk2dXlJd2t1RlNjU2_SAeABQVVfeXFMT2lwbGd6S3dlR29mWUhJOVB3UTdTUWZmdDV3ejNMbU5KQTRTVWRlR0pCUkNJY1RrUjZEVFhhb2ZycDdiOU9iRGIyS1pjUVlEV2xSMGN2VTFuQVVISE9FZUdvanM4S01xX2VUMWZVSDNXWDN5WElfekZzUy1Fbmk2bl9QRVJ3LS13QTlleVY4bm9Rbnd1eDVNY3RRaHlHcDdQWVR6bHE4S2dvRzlMbUtLQmhXcXBPQmF1dnRQTlhWSGpjTjlFblJBcVdDVGVUYXBMMFpNazRaSGtXbG1ZQ0hNcEk?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4123,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "haryana-3",
+  "pc_name": "SIRSA",
+  "pending_cases": 0,
+  "phone": "Tels (011) 23018074, 23018269",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180140.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 92
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Concern Over Issues in Grain Procurement System in Haryana Mandis.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Scientific Study on Rising Cancer Cases and Groundwater Contamination in Haryana.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to confer Bharat Ratna on Haryanvi folk poet Lakhmi Chand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding the poor condition of NH connected to Haryana state",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Immediate Action to Address Severe Water Pollution and Health Crisis in Ghaggar River-Affected Areas of Haryana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Rehabilitation of Displaced Families in Sirsa, Haryana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.7,
+      "value": 10
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 88,
+      "value": 33
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/selja"
+  },
+  "qualification": "Post Graduate",
+  "questions": 9,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "ASHOK TANWAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 29,
+    "criminal_deduction": 0,
+    "legislative": 32,
+    "mplads": 24,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 5,
+  "top_inference_severity": "extreme",
+  "total_assets": 420655803,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.17
+}

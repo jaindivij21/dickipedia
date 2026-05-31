@@ -1,7 +1,6 @@
 import type { Mp } from '@/lib/data';
+import { TOP_DEBATE_TYPES } from '@/lib/constants';
 import { BarList } from '@/components/charts';
-
-const TOP_TYPES = 8;
 
 export function DebateRecord({ mp }: { mp: Mp }) {
   const titles = mp.prs_detail?.debate_titles ?? [];
@@ -15,7 +14,7 @@ export function DebateRecord({ mp }: { mp: Mp }) {
   const items = [...byType.entries()]
     .map(([label, value]) => ({ label, value }))
     .sort((a, b) => b.value - a.value)
-    .slice(0, TOP_TYPES);
+    .slice(0, TOP_DEBATE_TYPES);
 
   return (
     <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>

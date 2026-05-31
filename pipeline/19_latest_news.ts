@@ -1,9 +1,3 @@
-// Pipeline step 19: per-MP press coverage from Google News RSS (keyless, India-localised). News is the one
-// AGGREGATED, non-registry, score-excluded source — handled like the Wikipedia bio. We store only the
-// headline + publisher + date + OUTBOUND link (never the article body; CLAUDE.md invariant 6), and flag any
-// headline that carries accusatory phrasing (invariant 3) so the app hides it by default. Reads the canonical
-// spine for the resolved name, fetches uncached (so re-runs refresh), throttles, and is resumable; a dead
-// query returns null and is skipped rather than aborting the 543-MP crawl. Runs before 17_merge folds it in.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import { fetchTextOrNull, sleep } from './lib/http.ts';
@@ -41,9 +35,6 @@ interface NewsRow {
 }
 
 const cleanPc = (s: string): string => s.replace(/\s*\(.*?\)\s*/g, ' ').trim();
-// Canonical names carry an honorific (520/543 are "Shri …"/"Dr. …"); no outlet writes that verbatim, so
-// quoting the full honorific name throttles Google's recall to near-zero. Strip the leading honorific(s)
-// and anchor on the (quoted) bare name + constituency; the namesMp filter still enforces relevance.
 const HONORIFIC_PREFIX =
   /^\s*(shri|shrimati|smt|dr|kumari|km|prof|adv|mr|mrs|ms|md|haji|maulana|col|gen|capt)\.?\s+/i;
 const queryName = (name: string): string => {
@@ -54,10 +45,6 @@ const queryName = (name: string): string => {
 const RSS = (name: string, pc: string): string =>
   `https://news.google.com/rss/search?q=${encodeURIComponent(`"${queryName(name)}" ${pc}`)}&hl=en-IN&gl=IN&ceid=IN:en`;
 
-// Significant name tokens (initials/honorifics dropped) plus the surname (last token). Google News RSS
-// returns loosely-related results, so a headline is kept only if it actually names the MP: the surname is
-// present, or at least two name tokens are — which screens out party homepages, scheme notices and
-// constituency-keyword bleed ("trains to Varanasi") while tolerating mononym usage ("Modi inaugurates").
 interface NameKey {
   tokens: string[];
   surname: string | null;
@@ -84,7 +71,6 @@ function parseRss(xml: string, key: NameKey): NewsArticle[] {
     const link = item.find('link').first().text().trim();
     const pub = item.find('pubDate').first().text().trim();
     const sourceEl = item.find('source').first().text().trim();
-    // Google News titles read "Headline - Publisher"; prefer the <source> element, else the trailing segment.
     const tail = rawTitle.includes(' - ') ? (rawTitle.split(' - ').pop()?.trim() ?? '') : '';
     const publisher = sourceEl || tail;
     const title =

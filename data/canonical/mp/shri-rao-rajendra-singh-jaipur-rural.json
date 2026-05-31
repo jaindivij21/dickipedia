@@ -1,0 +1,541 @@
+{
+  "accountability_score": 28,
+  "age": 68,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 122500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 44866640
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 57500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 262466640,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 175000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2281352
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 10,00,000 10 Lacs+",
+        "value": 2000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 185000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 24625000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 30886352
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=436",
+      "total_assets": 293352992,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 293352992,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rao Rajendra Singh is an Indian politician a Member of Parliament in the 18th Lok Sabha from Jaipur Rural as a Bharatiya Janata Party candidate. He was a member of the Rajasthan Legislative Assembly from Shahpura from 2003 to 2018.",
+    "title": "Rao Rajendra Singh",
+    "url": "https://en.wikipedia.org/wiki/Rao_Rajendra_Singh"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "A-24, Bheru Marg Hanuman Nagar Khatipura Jaipur Jaipur Rajasthan, 302021",
+    "emails": [
+      "raorajendrasingh@gmail.com",
+      "raorajendra.singh@mpls.sansad.in"
+    ],
+    "phones": [
+      "9829066636"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "25/06/1958",
+  "eci_state": "Rajasthan",
+  "email": "raorajendrasingh[at]gmail[dot]com,raorajendra[dot]singh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 892589,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1013515,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1055509,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 661439,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 984977,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1469750,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1358827,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1292899,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1245595,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 686716,
+        "person": "spouse"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1003973,
+        "person": "huf"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1015145,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1010547,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1006033,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 895984,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 8% of MPLADS local-area funds were spent — ₹13.59 Cr unspent.",
+      "headline": "92% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 135895640,
+        "utilisation_pct": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 7,519 votes; the seat was won by 1,615.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 1615,
+        "nota": 7519
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 20889099
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 20889099
+  },
+  "margin_votes": 1615,
+  "minister": false,
+  "mp_name": "Shri Rao Rajendra Singh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 11104360,
+  "mplads_unspent": 135895640,
+  "mplads_utilisation_pct": 7.6,
+  "mplads_works_completed": 8,
+  "mplads_works_recommended": 74,
+  "mpsno": 5632,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-11-04T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jaipur Rural election results 2024 live updates: BJP's Rao Rajendra Singh wins against INC's Anil Chopra",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQOTZ3empnN2FHX09Ya1MxR2o3TUYwMkNLUGtTSGZTdkNwR1hhdEMxaFN4cC0xMjE4ZGtjcmc1RElOXzBzZm03aGRaNGlFVEZRSEpvY2dmdXJHTXVURHVPakRZeG4wY1pzUUdVNnpDbldrR1U3TkpWVzBDQWJnckNmTVhBOHR4dGc2XzUtWUVBYi1oWXFSUWltY0VhQnl5ZzRCemh3ZE11VUZZLTU3Q2RDSndzSmxaQWYtRzY3V2p4d0FUQy1HNUF6TTRIellnWGtDUG9zZFhVd2VxUmY1Vlo2VC1qTFM1eDhZT05lZUt1bGxhbkNEa0NYWjdObHVOVWNXUEtZamlHdnBMTWd6Ujh3MGw0RHhHaWx2SkhtcG1oS1ltTkgwMG9GWl8zbWl0b3dQZzlCZExqY25oZUN4Vzc4clZZQ1BXQdIBywJBVV95cUxQNmdqa2xlU1dVUk9XN040XzJxTVZ2VnU3R0lJQ3dOVVE5SGhZdl91TGJveURVR0xCZDR4WFFEd2xCa2hJdVN5R3hRWVFPZ1NsNzJZLV93RFdtMmhvQXJYUWVxLWUxOVY1M21LdXJ4YmVYYUJKLUk0UkVvbmNrN29jZENlT3o5TE1yS3poc2xFekZ6cHV6WUZtSW40VlE2R3hFNWhQNFE2MVcwbS1saDFjdXJLdmk0Zmh5SzgwblEwalNUQ0NlVGpPN25mdHBvY05NNUh4YnRMMGMzQlZiVWdzOVcwSzBzZzVKSjZsNVJ1eTdHempEYXJzRW9hdGF3OUtxRVYxdWFmMUlvOEVrZHhORjFrQWxjZHJzZW1JbDY4ZnQxN00zVXlydXloQ1JSYUFYUDJoTm9fRk5vUWRUN2ZoZ2FLN2pxOThOeFZR?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Jaipur Rural Constituency: Rao Rajendra Singh's Win After Close Battle",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcTlGUHFUZDhHVm02WllsZ2N2QTAyVHMxcXB6NzgycXpjNGl2SERtTFZTZEl5UERYSE4weWJTQ3RMcWVpVS1YQmtIRXlqQlBJUWxib2M3SDA4UGVfNWRyT2VrWWd2akNRWThaMU5FakhpQ2hibVl2S2JmcGdZZDRSQU45ZjhseHA1bTNVa2YwM0huaVFlT2diUERjUHlzQ3JfOTFmbGpsTXllTVhlMVlOUGVXcnNBWG84UVE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "BJP's Rao Rajendra Singh wins Jaipur rural constituency in Rajasthan by 1,615 votes | India News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUnkyZGgySkZfRHhWSVpHRHp0RVFmUkM4MjNNTGwwSUk4amVVd2U1RC1qRUcyNlY0X25WQVk0TDg5NFU4TjJidkgwSVVnYktpN3dxOTZpNWU1RU1CUURsc0JCb2tkdkJjeWctQXMtd0ZKUngtV2hSNUs0LVk1NlFTTm5paGkyQURnVm9HWkVxaEFRS2lzbzkxT0VQZ0E5ZDVYdXh4RzBQTUdZSGVoWFpwcXliaW1aV3c0TWJQY1ZZMmkxYTFTdnBSd1FLNC1rY0RzbG1oMmNkcmxZTFh0a1MyODA4cEUtS3pZSGpKQWxnMDhGZDAyNmNtQnpNa1hDaFlLRXpNbTNkbmg1QkZq0gGSAkFVX3lxTE03TWs4aHg5SnVSRlFWMjNJbFZYTmdOUGVBcW52LTRlZ2xPQmUwZk9rQ1ZMNlo3SXNwLUJNLThyVjFLTllvRmdwMUswYjNqcVNCZS1JVk1NamtkOXczV1Y0SERZNjhpeWIta3pwVmFZMHZ2ZFYzbkppMUhaazgxM3daRkltMjRPQlZLbEduR2lsZmZ0T2Zzd2VvS3NxY3FKclJpSTNPWC1oaWFiWlFpYUh6MnpiREdEWmlWZy11UDBqX3JnSFhnejVROV9OdVVVRDlRV2NORnVnT3E4ajktYm13b25QZENRUVRjN05OYUwwRnNhYmhlUFc4Slk4Q2VqcVhqTVh1ZW4tUXY2OEhhc0xlY1E?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Jaipur Rural Election Result 2024 LIVE Updates Highlights: Rao Rajendra Singh of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUF9WT2psaUs0eXZyWlpsUVZYWXpHR2ltRlcyd192M19rbk9JamxrU3o5eUtESW1EWFBoNTlSZE9ITVF0OUs3c0xqbEd2dWJHcmp1WWpzV2xJemFkaTJFS1FvQUVxeEVhMzNvT0xnMVpZSXNyUVFVS3AyLUZacXNFdm9GQ3RwY2ZhZm1hRFlra0pTa2ZlN2NGMjFOTVdtWV9GcHdUT3JsTWpMNlhlUUdlNnNHWWMyTTVGQXp5QnhkSUltOGVGNTZ0SkFCNHc1T3l4dUQ1b3NJZGE5WVZmLXdKZGhZMU9SS05W0gHuAUFVX3lxTE1vT19TMXhGS1BEWU9DNkwxZHdQZjRnTVdnWDJydU52UTNGTFJsOWRPLWpfTmpDeHphcTc4LWlOZVdPaG4zTGE5ZTlMdkhYVjg4VC1KUjlMajFOSGdEV25MNjdCSC1QS0lOYUItRWJWcUtTMWRTV0lkNmxTcHpER2FFU1JRS0VORWlBZ2FwMnFicl9Wdl8yWF8tQ1dsSEEyRVN3czdOTWR6aXo4RVhJOUVJSFhaVWo2bGF3RFJCcU5QWVpjaXZ6azdkSE9EU05lWUFIdVFCYUJnbzBLNm1ZYmZvYVlFdDJlTnFqUEZUZHc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "After drama, BJP's Rao Rajendra Singh wins Jaipur Rural by a slender margin",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzhiMnUyeHZreEE5N1lYYmxWdkJDbkQ0dXFrem1nSnl6YWxFREhFVlpDcGwyb0V1S1B3U3RNSU9uUmRpLTZJYnpPM3IzaC1MWUY4Ui1sQTRpajRKby1SaXRTalJvekJBSWx3SkhaVzdjT0dZNkdOdG1YeVQ3MjNlS1B4X21yT2dlc2N1ekotQUVVUW9RdW1ORFQ0bUMyN2xqWWpjN0xVVy12aDFiOEE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 7519,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-6",
+  "pc_name": "JAIPUR RURAL",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180355.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need for establishment of a dedicated Nuclear Science Specialized Research and Educational Institute in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need for fresh survey to reassess the viability of the region for proposed Delhi-Bhiwandi-NeemranaManoharpur-Jaipur Railway project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to elevate Buchara Block in Rajasthan, currently under protected forest as a conservation reserve in order to prohibit mining and industrial activity",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to take comprehensive measures to achieve the objective of economic empowerment of farmers and sustainable farming through Carbon credits",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding rising levels of Uranium in ground water posing a serious health hazard to new born babies consuming Uranium contaminated breast milk",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to address the problem of pollution of river Sutlej due to untreated sewage and industrial effluents from Punjab",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Condemnation of Disrespectful Remarks Against Rajasthan's Culture and Heritage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Acknowledge and Respect the Legacy of Maharana Sanga in Parliamentary Discourse",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 96
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rao-rajendra-singh"
+  },
+  "qualification": "Graduate",
+  "questions": 16,
+  "questions_by_ministry": {
+    "Coal": 1,
+    "Commerce And Industry": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Power": 1,
+    "Prime Minister": 2,
+    "Road Transport And Highways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ANIL CHOPRA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 33,
+    "criminal_deduction": 0,
+    "legislative": 45,
+    "mplads": 16,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 293352992,
+  "total_liabilities": 20889099,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.96
+}

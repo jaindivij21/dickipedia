@@ -1,0 +1,462 @@
+{
+  "accountability_score": 26,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 0
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 439000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 0
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 5595023,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 580000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 9726276
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 1,44,586 1 Lacs+ LIC 55,196 55 Thou+",
+        "value": 199782
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3910570
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2625008
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 224000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 17265636
+  },
+  "assets_earliest_year": 2005,
+  "assets_history": [
+    {
+      "label": "Jharkhand 2005",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PnTQ4upmRiHCGY6cr9n",
+      "total_assets": 3045941,
+      "year": 2005
+    },
+    {
+      "label": "Jharkhand 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PnTQ4upmRiHCGY6cr9n",
+      "total_assets": 6612206,
+      "year": 2009
+    },
+    {
+      "label": "Jharkhand Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PnTQ4upmRiHCGY6cr9n",
+      "total_assets": 4962813,
+      "year": 2014
+    },
+    {
+      "label": "Jharkhand 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PnTQ4upmRiHCGY6cr9n",
+      "total_assets": 11981426,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5157",
+      "total_assets": 22860659,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 651,
+  "assets_latest": 22860659,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Joba Majhi is an Indian politician from Jharkhand. She is a 5-time MLA and was the Minister of Social Welfare, Women and Child Development and Tourism from 2019 to 2024 in the Hemant Soren government. She won the 2024 Indian general election in Jharkhand from Singhbhum Lok Sabha constituency.",
+    "title": "Joba Majhi",
+    "url": "https://en.wikipedia.org/wiki/Joba_Majhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Tonki Toli, Pump Road, Chakradharpur Chakradharpur Jharkhand, 833102",
+    "emails": [
+      "mp24.chaibasa@gmail.com",
+      "joba.majhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "8969397070",
+      "9431066917"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "24/01/1964",
+  "eci_state": "Jharkhand",
+  "email": "mp24[dot]chaibasa[at]gmail[dot]com,joba[dot]majhi[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 3548578,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3500911,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3657625,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1527947,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1435145,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary From Vidhan Sabha and Agriculture income"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹30.5 L (2005) to ₹2.29 Cr (2024).",
+      "headline": "Declared assets grew 651% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 3045941,
+        "from_year": 2005,
+        "pct": 651,
+        "to": 22860659,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 32% of MPLADS local-area funds were spent — ₹10.06 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 100576058,
+        "utilisation_pct": 32
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 620000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 620000
+  },
+  "margin_votes": 168402,
+  "minister": false,
+  "mp_name": "Smt. Joba Majhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 46423942,
+  "mplads_unspent": 100576058,
+  "mplads_utilisation_pct": 31.6,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 118,
+  "mpsno": 5827,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-02-23T09:50:20.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Joba Majhi",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWG9CRkR5MTdtdjFWOVc5WlZ5U0ZhTG9sUkY5NWI0d0NKWTNweVVWNngzOXkwVnV6QjBJVnZFcmoyTGpxOTlwdHdSclQ4eENPaGpVd2VOMkRrRmdTT1FESnNvaUdPQmVXM1I5Q3Y2NTlVNmFJemxkaUdYQVE3NDl5WQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Singhbhum (ST) election results 2024 live updates: JMM's Joba Majhi wins against BJP's Geeta Kora with a",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaVFFeFAydVBwbkhVQ0dNSEhrcGh4V081aGZxbVF1eHhGYWJ2Nk5PSlpSSzJJNzROSl9EZGR1WnRqSThacmNYd01yVVlRWG9rZ2cyMU9OX0Rhc0NWMXB3R1hFLVQxa0hCZ2tyVm9SemZZdmRXOV9ySjdWSkl0OUE3NF9pbGlfT19XaEpZWktlOGlYTUw0OUNTSjVaSzJyU19KVWMzb1VFVm1sRjg2UjNEUGNhaS00Q3hUb0FoVjhJb3ZjS1FMZUpFS1lVOVNTUWZMX3hzNFpyajBSV2swcGc0WmRxM3cwVnVrVURDV0lCeUdLengxSV8xN01tMWdkd0NRWGFtaWR5dmJ4UnRzVzFLS0VTQXZ0Y0RwYzFTZUhGb2vSAaYCQVVfeXFMTk9yOF9aTnBIQWY4d0VkbHRLdG5aa3pUMHd3NS0xb21HTXpRWVZ6VjN5d0pWTUprX0R1NjhTQjBZOXJ4aGQ2ZHNMRklkNEFNeVJ1UjcyZ1BOVmd5bnFnc01MRm1ISXY3czNiYjZUel9LaXNOZ0t2b045TGxXSEl6ZFZZalR4UHhNMGtlNzdMMUlscHl5Q2J2c2pWUUlUUF9rMFNvYlJ1NlRfcm55OVRQdEVTZE9lSHZ4VEE3Mks1ekhfNENjcnBkaGZ0ME04dUxVajZPUUp4cGsxLVhObVVZbVhWT0NQMGUtTHA4ekFKcnhjU0tOYVFCaG9pYXJSU3BtbFBLWllkRzE3NDlsTEx1WXF5c05DLUhfN2RHNHJrMk9UeXdRWFVn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Singhbhum Election Result 2024 LIVE Updates Highlights: Joba Majhi of JMM Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRlpxZGtMekF0c2pxRVk0czlQeV9jM3JHWTUyNTN3MGp3ZlJmUFUzbGh5SktIenNGMlVuNUpsRmhOWlJxU196T1hSaGp0N0VmWXQzQ25ZMGJjem1sRHBsN0gxX0dLckRoaW0zM3ljN1VwY1hpMDdFT0l4RXN1V24xZ3ZVY1pRaEk4T2l5QUtVOWgzR1lyRi04TXBBMDV4WE42YUtlZmxjaDFmVFRtMVFTNUtzZ2FZWHl4TE9JTWlmRDJESVlDQ1U0OUUwMm1jM0NsVDdYOXV0LWxoRkhMZ0xRTHNPTGzSAeoBQVVfeXFMTlVHWXFIc25zQ2FiRXpCV1NIbVNpbjB4SmlnVW9mMGdiTXNLSGFaODhqMEdyN1o3MlowZEdCdllYYWlQMEhoMmQ4dWtGQm1MVDRIYmt0dlRKblpSY1ZRbEVtLV94LWxFdC1VLU1kR1dHTDZyaWtEdVU0UUF1R0tZVElLUWJJQmlJN2duUGhmMjhDTWtLclVOMWQyMURBdlBseVR1YlNXQ1EyelNTRmljUWZoTkVwc0U5WDZuakU0Mi1Vemdla3ktNFdFZVUtSWFpOEpTaHJSTk5odUJpaE1keGFFN0dKX05QN2F3?oc=5"
+    },
+    {
+      "date": "2024-05-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Avenue Mail",
+      "title": "CM Champai Soren rallies support for Joba Majhi, vows protection of state resources",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDl5WWdfZjFMSHBDQk5SY0loSjRUUmNzb3VMRmhnUTdraUdrbkF4QU8tWFdzTUlteU5iQlltYVduN0tOY2RheS1NY0lfdWhDTE4zYW9OOTlHbmt0NUwyRmxTYjZ1aFRLeTA1UG9PUHcwdUdWY0RKZjJhaWlMTlZRUXRXMWVNQnB2RnpyazZZOEtPdU1kWkV3MWZNRjVudWJBV3U4R0VJSFU?oc=5"
+    },
+    {
+      "date": "2024-04-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Singhbhum Lok Sabha Election 2024: Turncoat Geeta Koda to take on JMM's Joba Majhi",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeTdHTFB4a29YdGk0VUw4dGt6MGZiNm5UbURHbXVFcFVmNVlWdS1TenEtQ3ducmd5QzkteDl1Q3MwWU1ta09PVmYwR1lMRFNnSTMzNk5xc1ZWZlF0dkw0Wjc0TWdfOUR4STYtelFiVDBFY2w4dEZaYTE2YTQ2R2ZYbDVjcXRTRkk1cTd1TzZEdEZpMHMwNTZnaW04YnN0VHk1ZGZUTGFxQzFVbXBvcHhOYzZHU3RhLTUtVUJoNndYeUtPRFRmRkZIV3JJamVMSFZiZzg3Vko2VS1CQUZnOWpMSzZXREZ2bWxQWUI4akI3SDBLWkZJcWwyV0lTVEphUmh3OVg40gGIAkFVX3lxTFBvckFFc3ZJdVZINWU1cnJjS3dhbmtOajZGOWpGdW9KVTgycmtMaHJkTDRoOFpzYjJKb3JEOVE5anUtcUN0UVliRXJkWEVKdW5yOWRZRDAtVk1KNnhFMHN2LWRCZ3otTW5yRTU4RmJ5M1V0Z0tUSVF4b241V1hLU3JhTVJzenNmeEliZEFfNFRBZ1JzbEZxOTU4dDc2d3ZyUFVZMHUwNTVwb2g5SEdMOFRjOUw0dmluVWcydFVwMXcwc01fVGJzc0hza3RVc0doQktXN2R2YTA2N3R5X0R6Uy15a0R5OVJFX1lNMzFQZ3ZIelM3YzZuUnNDdXZOZV80YmhFUzM2eXdWOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 23982,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "JHARKHAND MUKTI MORCHA",
+  "party_bond_total": 135000000,
+  "party_full": "Jharkhand Mukti Morcha",
+  "pc_id": "jharkhand-10",
+  "pc_name": "Singhbhum",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180155.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to establish an indoor sports stadium in Chakradharpur Division headquarters in Singhbhum Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.8,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 126,
+      "value": 28
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/joba-majhi"
+  },
+  "qualification": "Matric",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Corporate Affairs": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Home Affairs": 1,
+    "Labour And Employment": 1,
+    "Railways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Steel": 2,
+    "Tribal Affairs": 2
+  },
+  "reservation": "ST",
+  "runner_up_name": "GEETA KORA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 31,
+    "criminal_deduction": 0,
+    "legislative": 26,
+    "mplads": 38,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 22860659,
+  "total_liabilities": 620000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.62
+}

@@ -1,0 +1,610 @@
+{
+  "accountability_score": 47,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 700000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 750000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 11950000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 165000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4047793
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 500000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 20000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6979060
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11711853
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=417",
+      "total_assets": 23661843,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 23661843,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Manju Sharma is an Indian politician from Jaipur, Rajasthan and a current member of Lok Sabha. She won 2024 Indian general election from Jaipur Lok Sabha constituency. She belongs to Bharatiya Janata Party.",
+    "title": "Manju Sharma (politician)",
+    "url": "https://en.wikipedia.org/wiki/Manju_Sharma_(politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "107, Unique Sanghi Apartment, Mahavir Nagar Durgapura Jaipur Rajasthan, 302018",
+    "emails": [
+      "manjusharmabjp@gmail.com",
+      "manju.bjp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9499100326",
+      "9829394789"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 13,
+  "dob": "02/09/1960",
+  "eci_state": "Rajasthan",
+  "email": "manjusharmabjp[at]gmail[dot]com,manju[dot]bjp[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 539251,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 608465,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 507969,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 438509,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 297179,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Jewellery Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.77 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 127694287,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4169859
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4169859
+  },
+  "margin_votes": 331767,
+  "minister": false,
+  "mp_name": "Smt. Manju Sharma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 19305713,
+  "mplads_unspent": 127694287,
+  "mplads_utilisation_pct": 13.1,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 57,
+  "mpsno": 5619,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T14:18:40.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "MP, MLA lash out over Collector, JDC's absence: Gopal Sharma says, 'Officers are concerned with money, not ...",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlVRZXJncHd4U2djMmRFN2ZBbW5kbm5HZE91TDQza0RwZENySmJ0WXZyMmtYbnREZGpxMjd5ZXc1QzVPN1ZmWVVkVl90eGd3ZTNlOG10d0U4RmZZSHQ1SEc4S085VHJrX1BOUzdYYjk4c2tvNEJlZWJ2b0ppdzNYaHc4LXl1TlMtcm1zT0hoUmNBaDNqY2h3aVBlMTA4MnBnV1J1N3JUbXU1LWpJY2lDUVczemFlVk5SMnZVWlczaWpuZFpKdHpLNk51QzRKZVA50gHWAUFVX3lxTFBHalFUM1hYWVVYbDN4eHlzbTRqTE94TWoxS293TUtfcUNPWDI0eE5tRU1FWFlHNDgzVzRvc1Z4OF90VFhSVWdRZE1CbTJ6QU5KY1gyZWVFakZYVV9PZXl0M1hyVklFczVmeGpYeXpWVkx2YS1BOHZMWk8tc0k5VzJraUh6VUFCQkUtWE5PY2twLXgzQS1IaDMzZnFIOHp2Z2w4S1dBZnYtVmNxOVJIM1p3ek5OSmZIY3Z5R1VmMm9VRXBZUlNIQkRxd2dyMDlLTFgxUnl5MGc?oc=5"
+    },
+    {
+      "date": "2026-02-02T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehawk.in",
+      "title": "Rajasthan BJP MP Manju Sharma raises issue of dependence on foreign technologies, calls for priority to indigenous digital platforms",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSzA3LWZCS1QzUHNjVVVPdTRreFRpcWxXa0dJblZ4bUlPajRDdG0ybVJ6YzFFcEQ5SGxuUFozTlJ3QU5nazg5T0xUeXFQSkJrcV9TYzgyTEM3bDZqdzBYUUtRMDZlQXpZeE1WN2xxZkhkdW56RVlyUHVab3Rmb1JSRlppanJBU1hleWFZaFBhdkJLZ0ZWZVoybmdVeDBlSHppaFNDWGVCWENZd2h5amdfRVBUbEpweVg3YjhrR0RFQ21pSmxENjhWSy04X2FKVDQxcmp5ekZoa2ZhbEtvZ2NUQzFQRXNyUDFERlB0WWFQdUh5XzZ3OUw5dA?oc=5"
+    },
+    {
+      "date": "2025-12-31T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Expedite Jaipur Ring Rail Project: MP Manju Sharma urges Railway Minister",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnZwNGNYUlV2X0tlMFZHdTlfUERTZjNwNjd0YkdFWTFfeXlROTlnYU42QjlPRkl1WVpHS05ZNnlCVkYwbDFkZ3JrRnAwVXp6Q3kwZXlmRFNiQVFsLTVFZEhwVWlCMURUb2JiV2E4N0hGd1VMZTE1eEQ3MmRYYVRLVTJZeGZWc0d6MHB5M1VwNkItOGktenlucUxycGNndERPcXpHWkV1LXBVM1J2bFRJZ9IBsAFBVV95cUxNTnZwNGNYUlV2X0tlMFZHdTlfUERTZjNwNjd0YkdFWTFfeXlROTlnYU42QjlPRkl1WVpHS05ZNnlCVkYwbDFkZ3JrRnAwVXp6Q3kwZXlmRFNiQVFsLTVFZEhwVWlCMURUb2JiV2E4N0hGd1VMZTE1eEQ3MmRYYVRLVTJZeGZWc0d6MHB5M1VwNkItOGktenlucUxycGNndERPcXpHWkV1LXBVM1J2bFRJZw?oc=5"
+    },
+    {
+      "date": "2025-11-13T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "MP Manju Sharma gets upset over missing seat at event: Confusion during BJP women’s conference in Jaipur as...",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQmlSVElPWTV4VDFVZmd5djR3RWJVa0NuRENycGhGTzRNeW0tVDRwdE1LUV9RU3lveHFna0V5bWZ2dmk3bFA4eGdGM2oxR21WUjlvU1JYSU9VaDItNUpPb0x2Nk4wMk9lVGJvdlpEZGgtT3pEZzZjcGE3dlNKOUk5NnB4bjc3THBybWt1VFF1aGpuNzJBcTJ6RTY5YjQyOEpUTHg0NUNUcDRTV0hLT2pmMmtsNmNzcE14em1TQjRDLUQwd1AxMl8wNEE0TVBwZDItd2MtVXhJSTdYMk1IZHl3RDMxMHhlTUNMT0M4YUtBbjZrSFE5VXVGT2NQV3V4SWJuS0V2eDdmLXkxR2txdTdJelY2eGPSAZoCQVVfeXFMTndSQkEyVnoxbVVNQm01Nm15WFZtN1M3QTBJRWRZWjJ5V2FmZVR1X00tNWJpYnQxWXN2MW0zOVZQYm1lTmdqZFZXWU5VT2lDWXR5VVVoblEtZUVLZjEzczkxS001Y3pqLW9kdGthMC1rOUpVYjBFd05uWU9OcHhrOHphVy14R3YyWlBrUmdVdFByOVFRWlY4ZTREN3RXc1hmYXFCaWdXZ0N1aExZVmJjS0h6RUVRNVBTZ05ndGlINXFSNXVETHp1a2taTU5IaHVPbU0tQk1QV0FrX0dMVVJQek5nMzRjc04xTjNZUkFtdzIweXdDOHhHam9FRFA5dEp6OU84RXlHTkE5SU5xTVhtNGh5V3hHajBXQkN3?oc=5"
+    },
+    {
+      "date": "2025-09-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Rajasthan Paper Leak Case: Former RPSC Member Manju Sharma Files Appeal Before High Court's Division Bench",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRSX09HSUZxTEd6aWdDVWlSOVkzQ192cnVmNllSUGJ0N0FEZkNZd1NGNGJWUkpQVlY3U3I1N01raHBvTnliSlFrOGhlNWFPMG9adUhERnUzZW1LLS0yX09mT2NUa09GSHRTZXZsRkVhTWo0U3hRV2Y5TS1jTGRBcWdmZ0I5TmZKa1dkazhOb1AtVDZQamJ2UVdGeUUxbjYtSHBMRk5IVGhhcDJpSFdJTWVSWVctQ09hQVJMQjB2ZHQ3WHExYjZ3bDdFbGQ2bnhIMmV1c1U1QkwxWENvQk1QYTlfb1lVM0swdWfSAe8BQVVfeXFMTTNTRFlhRHZTYWxudnNOck1FenVJWEZFWXFvSW1XQVZSYllMaTI0UUk1Y0ZVaWRxLVdpTldUT01KSm9qcklBVmRpako0NVg1dUVjMENaakJqSlNsRWZMay01UkJFUU81bEVfMXJ6ZEE2SW9DQW9CdE02WEVHZVFEbDQtNldFZk16dlB4bXBkWXFQcER4UXJIazIzMnhJbFh0XzRxUlpFbFNnbUMyNGlkTEhaUGtMa2JkUHVyR0tnUUszOFhsemNXbHJNVkUwQ3Bpd3lsX0JNU0pLYzZ4Tm91bVcweW9UdGZnVVcyV3pObEk?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10428,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-7",
+  "pc_name": "JAIPUR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180348.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Reformer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to set up a digital network system integrating with family, police and health services for the care and safety of the Senior Citizens living alone",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to include Blue Pottery (Sanganeri Print) of Jaipur in 'One District One Product' scheme in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to provide funds to Rajasthan under PM-e Bus Sewa Scheme for introduction of Double-deckar buses in Jaipur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to set upMulti-Modal Logistics Park and Warehouse Zone in outer areas of Jaipur, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to boost investment in development of indigenous technology and data protection",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to formulate a Special Task Force to control trafficking of narcotic in various places of Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "An appeal to the government to take back the land from the land grabbers and take it under its protection.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding reported sale of medicines above MRP in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Expedited Clearance for Ropeway Projects at Religious and Hill Sites to Promote Tourism and Accessibility",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding Unclaimed Financial Assets deposited in Banks and its utilization",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to set up Waste Disposal Plants in the Country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to appoint an agency for monitoring and ensuring safety and security of public parks in cities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to set up special teams to investigate cases of cyber frauds",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Regulate Coaching Centres and Ensure Safety Infrastructure for Students Across the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to establish a Cooperative University in Jaipur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to review and improve EWS (Economically Weaker Section) eligibility criteria",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Timely Completion of Pending Works under Smart City Mission in Jaipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to constitute Airport Advisory Committee for Jaipur Airport",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Establishment of a Center of Excellence for Sports in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to set up Integrated Textile Park in Jaipur, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Establish a Unified Authority for Road Maintenance to Prevent Delays and Ensure Public Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to undertake beautification of the Dravyavati River passing through the Jaipur city in Rajasthan under Amrut Yojana and also declare the river area as Tourist site",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to frame a uniform policy for coaching centres with a view to ensure safety of students",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need for underground power cables at Parkota, a heritage wall in Jaipur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to establish a specialized Cancer Research Institute and Hospital for children in Jaipur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to regularize unauthorized colonies in cities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding maintenance and repair of city roads in States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt develop jaipur as an IT hub",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to remove encroachments in Ramgarh dam area in Jaipur Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding need to restore the traditional methods of rain water harvesting by preservation of old Bawaris in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding grant of Central University status to Rajasthan University",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister please grant the status of AIIMS to sawai mansingh govt. hospital located in jaipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 47
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 119
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/manju-sharma"
+  },
+  "qualification": "Post Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "New And Renewable Energy": 1,
+    "Planning": 1,
+    "Power": 1,
+    "Railways": 3,
+    "Skill Development And Entrepreneurship": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PRATAP SINGH KHACHARIYAWAS",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 0,
+    "legislative": 65,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 23661843,
+  "total_liabilities": 4169859,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 60.61
+}

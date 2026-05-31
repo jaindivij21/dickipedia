@@ -1,0 +1,383 @@
+{
+  "accountability_score": 54,
+  "age": 36,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 27402000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 410707549
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 448609549,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 27834611
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2212500
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 23662xxxxx 6,00,000 6 Lacs+ PNB Med life-322673905 15,00,000 15 La",
+        "value": 2100000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 10400000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1675000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2700000
+      }
+    ],
+    "movable_total": 47072111
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7440",
+      "total_assets": 495681640,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 495681640,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Karan Bhushan Singh is an Indian politician, member of the Bharatiya Janata Party and the Member of Parliament in the Lok Sabha for Kaiserganj. He is the son of former 6 time MP & former Wrestling Federation of India (WFI) president Brij Bhushan Sharan Singh and Former MP Ketki Devi Singh.His Brother Prateek Bhushan Singh is also 2 time MLA From Gonda.He was made the candidate for Kaiserganj. He is also the president of the Uttar Pradesh Wrestling Association and the president of a cooperative development bank in Nawabganj, Gonda.",
+    "title": "Karan Bhushan Singh",
+    "url": "https://en.wikipedia.org/wiki/Karan_Bhushan_Singh"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "VPO Bishnoharpur Tarabganj Gonda Uttar Pradesh, 271303",
+    "emails": [
+      "karan.bhushan@icloud.com",
+      "karan.bhushan@mpls.sansad.in"
+    ],
+    "phones": [
+      "9838989000",
+      "9839690000"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "13/12/1990",
+  "eci_state": "Uttar Pradesh",
+  "email": "karan[dot]bhushan[at]icloud[dot]com,karan[dot]bhushan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 42372600,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 32772340,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 21758010,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 20058110,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 23856190,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 926710,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 887100,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1202600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1062460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 851526,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 229359343
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 229359344
+  },
+  "margin_votes": 148843,
+  "minister": false,
+  "mp_name": "Shri Karan Bhushan Singh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 87089662,
+  "mplads_unspent": 59910338,
+  "mplads_utilisation_pct": 59.2,
+  "mplads_works_completed": 30,
+  "mplads_works_recommended": 73,
+  "mpsno": 5581,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Will Brij Bhushan Singh return to SP again?: Seeks share on Ayodhya, Devipatan division seats, matter stuck...",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEExSUNjTGUzdzQzM0c1RmRLWWltc3pLT0l3Z3dGTlBPam1IeTM4d3F6UGVUVVRBNVBhcGlqVGg4M2VQalRXMzZMd3lfakplb0VNSjZpbXkzU2dhcFpSZTN2MGEzY2VQLV9lZFhzeVRXV3Vvbm9NaE94Nk1LTlM0UkNTc2RSVW1Id2oybGlkQzM3ZFRTdnV2RVBjcE9CUEllQUdHZF94SlA3Q1BTV0hLdFFwQVZYN19ic0c4WXpjTUVSaUd1WUJUedIBzgFBVV95cUxQeXVzZE9kOUZJb0pLSGxrR3dhd0pEM0NqcVJDeG94UFJyRXl6S1c4ZldJN1VyeTB2ekJEX3BSMWZVek8wLXZCbU4zTTJuVzBIemRVZXc0VzI4NnVnS2pramJPeDVFOWw0dzF3VGI4VFRQa2swdkxwSHlWcV91MkNKSk1fVDNkanc4Z1h1X2lKVmR3U3E2em15NkNwNVZ1TjU1OWl6c0ppbXJjTlA3UDVQSXBhdWZ4TGpCVWVGNlZURGpDNnNleTBTczZhN0sydw?oc=5"
+    },
+    {
+      "date": "2026-01-09T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Brijbhushan Singh fed cake to Muslim children with his hands: Riteshwar Maharaj holds Karan Bhushan’s rifle...",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaGVmNlAwcXJUU2lmQ2pWbjFKNks0UTBIblFDTms0UjgxSHNTQnAtNjFHaFo1N3Z1WHdfVkFHanBUTXF5dTBCY0VUNUdxWEtiUHNQZWptMTJHWjNVUUl1SXFvcDZoeUJCdlRPY2hkbFhIZWtwX2lHRnF6dm85YTZGbjZWdnFSMVU5YnRWWUNCTUpRZVE4MTZFc1lxdGVOYTJnQ3ZFZ0tyMEFURVdGOGpmSHQtVVZEcUdScl9aVUw4ZV9iZ0xUX0J6OTZDbklwaUNWcXFadE5Qb3pSVnRpTXBReUFSLTlnWjBmSHB5UGFIYkI2Zk9MajZCM0VSWk9wM0HSAYQCQVVfeXFMT3ZLUXptNEgydUZ1UVVzenRWS3piaWRsWk5PY1J2cUJId1FiMHFscEtQV2dRUE52YmxXN05QcGFlTkpXQ00tbmRyZGoyd0ttNzRRUEM2dU5EaUNkNE1RVTRZTjRzclZ6VXdFWWp2UGdZME1YNW9Cc0FIbUdrU1VSQk1JRkRodkpCUDJGZy1uNDEzLTZ2WkF5WWJrT29GRXQyNGJ3SWFSVUhla3k5ZzJlX3pwV3FYVGstLVFTZm0ycVJZNnVBbnhnMVI4UmNyc0FRbnh1UW83UTZPbjhyanpabV8wSlNvWk1pQUdyS2xRRkZpa2FvWjBvYTVWRFdVRjZVWmQyc2E?oc=5"
+    },
+    {
+      "date": "2026-01-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Dhananjay Singh attends Rashtra Katha amid controversy in Gonda: Security pushes media asking about codeine...",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZVp6Z3Rtd0lnSG5ZalRrNjZlWWVBLXJUR0FEUFdFLWpSSWlvdldLd19vbHBCeThFZGtPYU1QV0NSR2JYbDVCSVFjdEhnRUhTcGppYTh6VzNaejZ2U0FQTkVjRDNjM1E0M01jQzh4cVo3VHAxNGpBWHBRX05jVlp3V0V4b1JROG05MEVmbTRMRnlzSm9QazdpQ1V5NmhRakRSNGNjWW5ETlFvMWg5aVJIeWY0YWFaTTBYQXpDc2tJX0V6c3c4dE1fRVBwcGdXWXhVZ3JzOEstS21VU1VsaFR4SW14aU1NdEJqSUVhal91eU9saG1Jdi0tbzAzOUJrZmw5ZXIw0gGIAkFVX3lxTE5aVEw2ZkZYQjVsWUtETnRSQlZsNXlTWEdnT0FuLUtGNVB6d2pXdXlldFRMWHF2eFpCZzBMZGdmOGx3VzBHc1NGcjhtdTN1Mzg3enFLeTVQWEZSQlRlNHFqbE1sSm5fTVR4aktyNV9BMXpjOXBLNDgwYi1xaVc4R2tnSDNhc2N4M1JGOFRWYmZOLXdjVnlsOUJJdjdmcGw3M0pVa3hiYWRpU051QXZELUNKTThxeVBKcnJQckhxTTBVcUtxNFczSzB4czRKUkhzSEpTS204QmMwNlZlUzFfbU1pN1FuQkdva0lkdmNqRlNLd0FTM2ctTmNxcWE1Wm13YUllWXlLUXF3VA?oc=5"
+    },
+    {
+      "date": "2026-01-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'Removed through conspiracy': Brij Bhushan Singh's big charge after sexual harassment-linked ouster; vows",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZ2FrbGdnYVFMRFlwelBrS29DRHM3b0ZKVlBIQ2JuTjUwenFqWkppRzhqZ2ZCa0NrOFRieGNpd2U4V1BSZ1M2U1A5Q190bVlROGwxX09HTlAtLTBrbXduVXEwdXdpcTcwN3h3YWhmT09DV3Vnc0hsd2tiZGhqMk5NSFNHWC11S2t6amdyYkppZi04c2U1b0ZVRW55SFJpbVRUWW5icV8xYzBXcmJTanRWVUcyOEdDMUtRbVZrWVNIV1gyNGtPZndBZkxTQ0d5LWIzUURTY0xaQ090ODJYbDVKd2VhWGdKTlh0dE1FWVNIYWJzdnZiSnJjQk1SS0t0Y2hjTVlKS0hyOU0ybGJ0b2Fockxsc9IBmAJBVV95cUxOal9YUDBHV3Z5Tm1qYjFjZmtkWVZ3RG91M2FoZnhOYk52ZFdNSTI1OTV3QjBuNjNMN2V0SUItWU90WHRUbXBta0xCbWoyUk52RFdtODZGcXh1NTEzdC1tN2hxMGlWcTdzY21HVWxlMmZZZS0tZFQtV0h3LU9oRTBON1pfb29CZ0VWcjFLeWhZT0tKWXFhRmRtTjhXM1ROa1h1YTRheHFOemNxTEJpQkhSRFFUYWtic0xwanVDdDR1YXNqY0VBa01NTVRPWUNwSnZ5OG8zM3VaMlkwWmFiaHFPTWZYdTlaUGo3NGRXd19mWFZMdGJNSWpKS0ptTEpkUmdwS3ZLN3F4RmthR0FuQU5qckFQVzlGb2gz?oc=5"
+    },
+    {
+      "date": "2025-12-25T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "‘Will reach Parliament with my father Brij Bhushan after next elections,’ says Karan Bhushan Singh",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMTFzdXRjTDFBWmxRMlg5OEQ4QnVSRXhNSHdNcXdhSW91ZElreFduc2VSbmxvOWdPR3JkRThMci1kN0pDQ3p1bkZnY0Y5SFVOMkI0UjVOX1BON2Qtd01neUJRemJGb2N4VlNLUGFFdHU4YlJmZXVnTHFtcExhUEFfenY3NmkyblNkTDg3RVk3TFNjenRjSW51aWFRdnRHVERTMnV5bzNaYzNUZktmeTZfTzhia3ZWSUdOLVdCanlEZ2g4UHFFY19TOTgzWUE5ZW5USEd4aF93VjA3S3dUR0530gHkAUFVX3lxTE5DNlNtS1Jud0J3XzFtRnZQb2JyZjFfR1NNN3RmaXM5V2dfY1FSazJhdVA1TmU0eHZMSTBWeXR6NzVEeHBGbWxyQ01TOVoyRTdhQXQ4eVlFbE15cHdNNGYtcjBjNDJONGlYUU9aTEpfZjZZdVFLVUowWlM0YWZGWjYyTTZnMjlCaFRLck5NTTU3R1Q4bmprSzljOWNsekNGNC1PbGtUQW81M1V1aWhLendDZzlTUGdsbExmRmttLVcwN1d0N2VPcjRNZ09hR1hITFpNNEFGWmE5aE1Ba3R6Y09hSGJKcA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14887,
+  "notable_record": null,
+  "num_candidates": 4,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-57",
+  "pc_name": "Kaiserganj",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180456.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "03.04.2025",
+        "title": "Suggestion for Inclusion of Newly Shelterless Families and Quality Improvements in PM Awas Yojana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from the govt. to establish a excellent stadium to conduct sports activities in kaiserganj",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 44
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/karan-bhushan-singh"
+  },
+  "qualification": "Graduate",
+  "questions": 6,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Food Processing Industries": 1,
+    "Labour And Employment": 1,
+    "Panchayati Raj": 2,
+    "Prime Minister": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "BHAGAT RAM",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 0,
+    "legislative": 29,
+    "mplads": 92,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 495681640,
+  "total_liabilities": 229359344,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.79
+}

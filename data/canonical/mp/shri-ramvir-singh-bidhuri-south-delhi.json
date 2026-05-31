@@ -1,0 +1,630 @@
+{
+  "accountability_score": 40,
+  "age": 74,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 42650625
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 245500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 288150625,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 825000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 17368167
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 14450000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 189827625
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 13356000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2442524
+      }
+    ],
+    "movable_total": 238269316
+  },
+  "assets_earliest_year": 2008,
+  "assets_history": [
+    {
+      "label": "Delhi 2008",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=f6Be6WAr5LaS5NT85pBB",
+      "total_assets": 56419613,
+      "year": 2008
+    },
+    {
+      "label": "Delhi 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=f6Be6WAr5LaS5NT85pBB",
+      "total_assets": 121946408,
+      "year": 2013
+    },
+    {
+      "label": "Delhi Election 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=f6Be6WAr5LaS5NT85pBB",
+      "total_assets": 159892678,
+      "year": 2015
+    },
+    {
+      "label": "Delhi 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=f6Be6WAr5LaS5NT85pBB",
+      "total_assets": 206622689,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7907",
+      "total_assets": 526419941,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 833,
+  "assets_latest": 526419941,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ramvir Singh Bidhuri is the current Member of Parliament for South Delhi Lok Sabha 2024, having won on a BJP ticket in the Lok Sabha elections 2024. He was a four-time MLA from Delhi's Badarpur seat. He served as the Leader of Opposition in the Delhi Vidhan Sabha from 2020 to 2024, having been elected from the Badarpur Vidhan Sabha constituency in Delhi from 1993 to 1998, 2003 to 2008, 2013 to 2015, and 2020 to 2024. In 2024, he was nominated the BJP's candidate for the South Delhi constituency in Delhi, succeeding two-time MP Ramesh Bidhuri.",
+    "title": "Ramvir Singh Bidhuri",
+    "url": "https://en.wikipedia.org/wiki/Ramvir_Singh_Bidhuri"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No. 1, Tughlakabad Village, City New Delhi, NCT of Delhi, 110044",
+    "emails": [
+      "bidhuri.rs@gmail.com",
+      "ramvirsingh.bidhuri@mpls.sansad.in"
+    ],
+    "phones": [
+      "9810004800",
+      "7217839527",
+      "1123070541"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/theramvirsinghbidhuri"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/RamvirBidhuri"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/theramvirsinghbidhuri"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "5/2021",
+        "charges_framed": false,
+        "court": "ACMM, Rouse Avenue, District Court, Delhi",
+        "fir_no": "Complaint Case u/s 200, Cr.P.C. Under Jurisdiction of PS DB Gupta Road",
+        "other_acts": null,
+        "sections": [
+          "499"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "04/12/1952",
+  "eci_state": "NCT OF Delhi",
+  "email": "bidhuri[dot]rs[at]gmail[dot]com,ramvirsingh[dot]bidhuri[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1493050,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 364820,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 849750,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1870460,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1700580,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1753730,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 583280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1156880,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2581720,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1524980,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as Leader of Opposition, Delhi Legislative Assembly, Rent Shares of Profit Frol A LLP Bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rent, Shares of Profit from A LLP, Agriculture Income & Bank Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "N.A."
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹47.00 Cr between affidavits, while declared income across 5 ITR years totalled ₹62.8 L.",
+      "headline": "Declared assets rose 75× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 470000328,
+        "declared_income": 6278660,
+        "itr_years": 5,
+        "ratio": 75
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹5.64 Cr (2008) to ₹52.64 Cr (2024).",
+      "headline": "Declared assets grew 833% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 56419613,
+        "from_year": 2008,
+        "pct": 833,
+        "to": 526419941,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.89 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128864313,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "RENT SECURITY 5,00,000 5 Lacs+",
+        "value": 1000000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1000000
+  },
+  "margin_votes": 124333,
+  "minister": false,
+  "mp_name": "Shri Ramvir Singh Bidhuri",
+  "mplads_allocated": 147559100,
+  "mplads_expenditure": 18694787,
+  "mplads_unspent": 128864313,
+  "mplads_utilisation_pct": 12.7,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 100,
+  "mpsno": 5543,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-23T09:13:35.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "BJP Candidate from South Delhi Lok Sabha Constituency, Ramvir Singh Bidhuri files his nomination papers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWxqN0VTbXh0bkFqNkJyU0hjOHZYR2tvaUlQMUhuM0ItUDNvSXZVUUZVQ1dXNm5HblZ6dFNvVGQ4YktFR29UaE51RjQ0VWJCN0ZvNlZXS0xXMTczRERtNUdTRTg4M3B0S2NtZm8tb0xjRGNwMVg3N19MdkplOFFlMnBZa0VuUWgxbzhmaDQweUFQbDlPaXVyMnN0ZWpnbTJoSHREOWJXZE9vb2p5ZVFCY05McUxZR0o2bmozYkNlNFowSjJ1bHg4?oc=5"
+    },
+    {
+      "date": "2025-12-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Bidhuri urges Centre to okay CLU for 351 roads",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOVZLZ1ZJUTZhdlhaajJCLW1tZUpnQzd3UXVmUUJRdk8yQmpYcDd4dzVmaUxRUGpCX05qS2tDMEthbGM5VmI2REk3VXltNWg0TlIxeU5Yd0VYZ0paUE1hZU5UWV82bGRYQnRvV3JWNmVmczR0dlFKbmJNRWZ6X3FDR19FM0NjcG50QlZQZ1ZvLXc?oc=5"
+    },
+    {
+      "date": "2025-06-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'BJP will win 10 out of 12 zones in MCD standing committee polls', says BJP MP Ramvir Singh Bidhuri",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSzFuNXRJNVhqYlN3X3B1azZnTmVQVTlaNGJkcUs4dmdvQXNTUnlVZ203TXRLampidXFZX1ExNE9DbTZXNktMQVlfVVM3dy1mTHEyVVlOS213bGNPVnNHcUZzcXF3MGlFdUlnM014QjFGbm54bDU4Njd2VGI1NW5MY21NeHI5b19YSVl1dUlidkVMYVR2dFJGQkJPRExHcGFEcEVGR3J6SjMtSTNQNXNTYjJOQlZYaFJRZmE2VTVVYjdRSEpGRG9TYk5YNklHa2dyNDRZMmlsMndXVV9RRlVkOThoRnY2NU1jY1dadG1VUEFoTmdMRllZ0gH8AUFVX3lxTFBtMEU5ZlhvcUZhMWJjdVlsTUUtQnBoWkZ1eTNtakdpQ0ZCX0RNVF9jWDl0SEJFOW5BbnJoUnNZOHRDV25YRFNhaXpXbEJ4RkIxeXNLdjdZbHV4b0ItZDVFZXdHSWpIRVBheHFDak5SZ0MxNFVrTmlRV05HZ3d2NWR5ZmVpYUsxd2tla19XbUstZmhUM3djYXZjdHlBUzdDLTVSTUFFNlk0c19nNEZTRzZSZlVUc2FZX3Y0VXNjRG9jY2FhRkc1OFplcVNncmlvcHpoMlFGMnZpa2FsNmYtQ1Q0YU1IY1NrUF9YNkhsc3M1MmJqSTJZOHp5LTBuQg?oc=5"
+    },
+    {
+      "date": "2025-02-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "BJP's Ramvir Singh Bidhuri calls Kejriwal's allegations baseless, calls for action against MCC violations",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZUhpMnFNZ2g4Zzd1Z3d2MUdyTGNFTDQ4a0NDZ1ZNQjJaNHBRXzdsTU83Mmcya1dmVnh5OFVyQ3hjWk4yc3RET1RwdmsxYktVZmNoOElLWXZjUE5pSmZGOXRIS1lZNENRSzdDNzltSGc0aF9GSG41WXpBZnFVTUxpM2tpOTFuRUZfVkVZSncwSWpITEgyUVp3SG9qV1RtWnBHbkliem5xcW5WN0N1U1hfdzZseWZwSjktRm5PMFhSUGZlQkpwYmhLelZGMlFUMkRGQkM0MXpyWFQxT1hGUWxydko3T3ZMVXpTUHNfWDF1cng4cGRsM2pYdkNBaERUQVJtZzJOV2NsZ0RBbFRPbWJXQ28wTnhlaHkzV1Y5VmN5VEtUZ9IBpwJBVV95cUxPNzdzUTQwNWFJZE05aXlTU3k0VFhJQkY0c1BpZUpjRW9Sc3JiMkJ6N0diaDJjTkpSYnI3cG5IdTdhdHpTOG1MemVZYk83WmFRbGhmSUFxWVRDVUhEcTAtSi1nbzJIMDNhMjUweGlmeUtTQWRQemk4LW9EX2RKYTJSeTJybGJQc3NBSzRualFETGF6MWF4M2xrRDNTTzZnLUNaSEluMHFLOFZfN0JNbFJndEh5Snp4YmdYdUFqYkk2cmdtcW1hQnk4Zk5fUy1YYk9VUWVmU3RoZnFKaDM4YWU0QkVBYjBaNkk3Umc4U2RESHFJSkhmZTQzMEVab3hzVlZuc1VxekdqRVhrN2RDUVotc1RadFJ3Yk04X3BuY09vcHZCUVd6ZGc0?oc=5"
+    },
+    {
+      "date": "2025-02-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Delhi Assembly Elections 2025 | Only God or Modi can develop Delhi: BJP's Ramvir Singh Bidhuri",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFRmU2dTbmhDZEl3SkttOXVOamM1cjRmRFRoVXhhUjRNSFBMRUJQQm5mTGRZUHZqWGVJQkdDTXdZV0hyM3MxaXRSQTNSRjJWU1dweERMb1VrX1FMUTMxRnBseFpZM0Z2dUtBRDlpYVdZUGEtcWRMa29GeWZfRjEydk0tVWI2RkkwTENhYm5HUmQxLWRENk5CSlQyb0VDVTVmV0VXbGFaNWZRM040VElHVmNrMHh0WVBXRGV2Ym1YdzFYeUJMUnFseDhZU3p4d0l4MlJOMVp3?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 5961,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "nct-of-delhi-7",
+  "pc_name": "South Delhi",
+  "pending_cases": 1,
+  "phone": "011-23070541, 23070341",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180102.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Alternative Residential Plots to Farmers Whose Land Was Acquired in Delhi.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to regularise unauthorised affluent colonies in Delhi under PM-UDAY Scheme and provide civic amenities in the colonies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding delay in regularisation of unauthorised colonies and implementation of land pooling and GDA policy in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to transfer Jaunpur - Mandi road in Delhi to NHAI",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to ban sale and use of Chinese strings in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding extension of AIIMS-Delhi by using vacant NTPC land lying in Badarpur, Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Acceptance of MCD Recommendations to Declare Commercial and Mixed Land Use Roads in Delhi and to De-seal Shops",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to include Jaitpur in the proposed Tughlakabad sector-142, NOIDA Metro Corridor in Delhi NCR",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to notify master plan in Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to de-seal shops in Delhi to boost employment and revenue",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to renew the lease of plots and houses granted to people in Delhi who came as refugees during Partition in 1947",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding utilization of land acquired by now closed down NTPC Power house in Badarpur in South Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for a stadium in Badarpur in Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to provide stoppage of Train Nos. 20451/52 and 12059/60 at Tughlakabad Railway Station",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Resume Construction of World-Class Skill University in Jaunapur, South Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding establishment of World Class Skill University in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding widening of Master Plan Road in South Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Revoke ASI Notices and Restore Rights to Tughlakabad Villagers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regularization and Provision of Civic Amenities for 69 Unauthorised Colonies in Delhi, Including Sainik Farm",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to implement land pooling and GDA policy in Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to provide ownership rights of houses under PM UDAY Scheme to people living in unauthorized colonies in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding deteriorating pollution condition and public transport system in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding widening of Master Plan road passing through Jaunapur-Madi area in South Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding shortage of drinking water in Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 149,
+      "value": 144
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ramvir-singh-bidhuri"
+  },
+  "qualification": "Graduate",
+  "questions": 45,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 4,
+    "Commerce And Industry": 2,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 4,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 4,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 1,
+    "Power": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 2,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SAHI RAM",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 48,
+    "criminal_deduction": 1,
+    "legislative": 69,
+    "mplads": 17,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 7
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 526419941,
+  "total_liabilities": 1000000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.46
+}
