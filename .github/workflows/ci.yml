@@ -39,7 +39,7 @@ jobs:
         run: npm run build
 
   pipeline:
-    name: Canonical + seed smoke test
+    name: Canonical determinism (rebuild from committed raw)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -53,11 +53,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # No scrapers run here — they are network-bound and non-deterministic. This job re-runs only
+      # the pure-local recompute over the committed raw inputs and asserts the committed output matches.
       - name: Rebuild canonical from committed raw data
-        run: npm run canonical
+        run: npm run rebuild
 
-      - name: Seed local database
-        run: npm run seed
+      - name: Validate canonical
+        run: npm run assert:canonical
 
       - name: Assert canonical is committed and unchanged
         run: git diff --exit-code -- data/canonical

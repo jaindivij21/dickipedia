@@ -1,0 +1,61 @@
+name: Data — monthly (PRS + news)
+
+on:
+  schedule:
+    - cron: '0 5 1 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: data-monthly
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore HTTP cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: httpcache-monthly-${{ github.run_id }}
+          restore-keys: httpcache-monthly-
+
+      # Source steps tolerate failure so one rate-limited feed never sinks the others' fresh data.
+      - name: PRS activity
+        run: npm run prs
+        continue-on-error: true
+      - name: PRS deep (mptrack)
+        run: npm run prs_mptrack
+        continue-on-error: true
+      - name: Latest news
+        run: npm run latest_news
+        continue-on-error: true
+
+      # The local recompute is the hard gate: a broken scrape must not be committed.
+      - name: Rebuild canonical
+        run: npm run rebuild
+      - name: Validate canonical
+        run: npm run assert:canonical
+
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'data: monthly refresh (PRS + news) [skip ci]'
+          file_pattern: 'data/canonical data/raw/*.json'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
