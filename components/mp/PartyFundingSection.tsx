@@ -1,8 +1,8 @@
 import { Landmark } from 'lucide-react';
-import { type Party, MANIFEST } from '@/lib/data';
+import { type Party, MANIFEST } from '@/lib/mp/data';
 import { rupeeCr } from '@/lib/format';
-import { TOP_DONORS_SHOWN } from '@/lib/constants';
-import { DataSection } from '@/components/mp/DataSection';
+import { TOP_DONORS_SHOWN } from '@/lib/mp/constants';
+import { DataSection } from '@/components/ui/DataSection';
 import { StatCell, StatGrid } from '@/components/ui/StatCell';
 import { Bar } from '@/components/charts';
 

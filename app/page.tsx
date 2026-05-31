@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
-import { AGGREGATES, featuredMp } from '@/lib/data';
+import { AGGREGATES, featuredMp } from '@/lib/mp/data';
 import { pct, rupeeCr, scoreBand, colorVar } from '@/lib/format';
 
 const initials = (s: string) =>

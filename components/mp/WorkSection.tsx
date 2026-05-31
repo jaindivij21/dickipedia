@@ -1,8 +1,8 @@
 import { CalendarCheck, MessageSquareText, Megaphone, FileText } from 'lucide-react';
-import { type Mp, AVG_ATT, AVG_Q, AVG_DEBATES, MANIFEST } from '@/lib/data';
+import { type Mp, AVG_ATT, AVG_Q, AVG_DEBATES, MANIFEST } from '@/lib/mp/data';
 import { pct } from '@/lib/format';
-import { TOP_MINISTRIES, COHORT_HEADROOM } from '@/lib/constants';
-import { DataSection } from '@/components/mp/DataSection';
+import { TOP_MINISTRIES, COHORT_HEADROOM } from '@/lib/mp/constants';
+import { DataSection } from '@/components/ui/DataSection';
 import { DebateRecord } from '@/components/mp/DebateRecord';
 import { CompareRow } from '@/components/mp/work/CompareRow';
 import { MinistryBreakdown } from '@/components/mp/work/MinistryBreakdown';

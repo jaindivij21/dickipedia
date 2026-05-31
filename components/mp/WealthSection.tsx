@@ -1,7 +1,7 @@
 import { Wallet, Landmark, Gavel, TrendingUp, ScrollText } from 'lucide-react';
-import { type Mp, MANIFEST } from '@/lib/data';
+import { type Mp, MANIFEST } from '@/lib/mp/data';
 import { rupeeCr } from '@/lib/format';
-import { DataSection } from '@/components/mp/DataSection';
+import { DataSection } from '@/components/ui/DataSection';
 import { StatCell, StatGrid } from '@/components/ui/StatCell';
 import { GrowthBar, WealthTimeSeries } from '@/components/charts';
 

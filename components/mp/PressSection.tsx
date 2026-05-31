@@ -1,6 +1,6 @@
 import { Mic, ExternalLink } from 'lucide-react';
-import type { Mp } from '@/lib/data';
-import { DataSection } from '@/components/mp/DataSection';
+import type { Mp } from '@/lib/mp/data';
+import { DataSection } from '@/components/ui/DataSection';
 
 export function PressSection({ mp }: { mp: Mp }) {
   const press = mp.press_accountability;

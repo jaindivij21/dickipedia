@@ -1,7 +1,7 @@
 import { Sigma, ExternalLink } from 'lucide-react';
-import type { Mp, Inference } from '@/lib/data';
-import { SEVERITY } from '@/lib/constants';
-import { DataSection } from '@/components/mp/DataSection';
+import type { Mp, Inference } from '@/lib/mp/data';
+import { SEVERITY } from '@/lib/mp/constants';
+import { DataSection } from '@/components/ui/DataSection';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { SRC, type SrcKey } from '@/lib/sources';
 

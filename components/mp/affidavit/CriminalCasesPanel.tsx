@@ -1,5 +1,5 @@
 import { Gavel, ShieldCheck } from 'lucide-react';
-import type { CriminalDetail } from '@/lib/data';
+import type { CriminalDetail } from '@/lib/mp/data';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { CaseRow } from '@/components/mp/affidavit/CaseRow';
 import { CriminalStatBox } from '@/components/mp/affidavit/CriminalStatBox';

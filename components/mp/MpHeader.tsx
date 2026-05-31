@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import { AlertTriangle, Gavel, MessageSquareText, Megaphone, Mic, MapPin } from 'lucide-react';
-import { getParty, type Mp } from '@/lib/data';
+import { getParty, type Mp } from '@/lib/mp/data';
 import { scoreBand } from '@/lib/format';
-import { PHOTO_SRC } from '@/lib/constants';
+import { PHOTO_SRC } from '@/lib/mp/constants';
 import { ScoreGauge } from '@/components/ui/ScoreGauge';
 import { PartySymbol } from '@/components/ui/PartySymbol';
 import { Portrait } from '@/components/ui/Portrait';

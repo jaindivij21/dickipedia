@@ -1,7 +1,7 @@
 import { Coins } from 'lucide-react';
-import { type Mp, AVG_UTIL, MANIFEST } from '@/lib/data';
+import { type Mp, AVG_UTIL, MANIFEST } from '@/lib/mp/data';
 import { rupeeCr, pct } from '@/lib/format';
-import { DataSection } from '@/components/mp/DataSection';
+import { DataSection } from '@/components/ui/DataSection';
 import { StatCell, StatGrid } from '@/components/ui/StatCell';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { Donut } from '@/components/charts';

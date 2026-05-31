@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import { MpBrowser } from '@/components/browse/MpBrowser';
-import { SLIM_MPS, parties, states } from '@/lib/data';
+import { MpBrowser } from '@/components/mp/browse/MpBrowser';
+import { SLIM_MPS, parties, states } from '@/lib/mp/data';
 
 export const metadata = {
   title: 'Lok Sabha MPs — dickipedia',

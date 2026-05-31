@@ -1,6 +1,6 @@
 import { ExternalLink, BookOpen, ArrowUpRight } from 'lucide-react';
 import { SRC, SRC_KEYS } from '@/lib/sources';
-import { DataSection } from '@/components/mp/DataSection';
+import { DataSection } from '@/components/ui/DataSection';
 
 export function SourcesSection() {
   return (

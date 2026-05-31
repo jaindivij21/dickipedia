@@ -1,5 +1,5 @@
 import { AlertTriangle } from 'lucide-react';
-import type { CriminalCase } from '@/lib/data';
+import type { CriminalCase } from '@/lib/mp/data';
 
 export function CaseRow({ c }: { c: CriminalCase }) {
   return (

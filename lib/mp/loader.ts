@@ -1,6 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
-import { hasSlug, type Mp } from '@/lib/data';
+import { hasSlug } from '@/lib/mp/data';
+import type { Mp } from '@/lib/mp/types';
 
 const MP_DIR = path.join(process.cwd(), 'data', 'canonical', 'mp');
 

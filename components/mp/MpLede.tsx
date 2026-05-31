@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
-import type { Mp } from '@/lib/data';
-import { buildLede } from '@/lib/bio';
+import type { Mp } from '@/lib/mp/data';
+import { buildLede } from '@/lib/mp/bio';
 import { SRC, type SrcKey } from '@/lib/sources';
 
 const LINK =

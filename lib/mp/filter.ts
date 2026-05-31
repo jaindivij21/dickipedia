@@ -1,7 +1,7 @@
 'use client';
 import { useEffect, useMemo, useState } from 'react';
-import type { SlimMp } from '@/lib/data';
-import { PAGE_SIZE, SORTS, type Sort, type CasesFilter, type RoleFilter } from '@/lib/constants';
+import type { SlimMp } from '@/lib/mp/data';
+import { PAGE_SIZE, SORTS, type Sort, type CasesFilter, type RoleFilter } from '@/lib/mp/constants';
 
 export function useMpFilter(mps: SlimMp[]) {
   const [q, setQ] = useState('');

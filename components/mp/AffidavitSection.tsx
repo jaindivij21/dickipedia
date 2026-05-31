@@ -1,8 +1,8 @@
 import { ScrollText, Coins, FileSignature } from 'lucide-react';
-import { type Mp, MANIFEST } from '@/lib/data';
+import { type Mp, MANIFEST } from '@/lib/mp/data';
 import { rupeeCr } from '@/lib/format';
-import { TOP_ASSETS } from '@/lib/constants';
-import { DataSection } from '@/components/mp/DataSection';
+import { TOP_ASSETS } from '@/lib/mp/constants';
+import { DataSection } from '@/components/ui/DataSection';
 import { CriminalCasesPanel } from '@/components/mp/affidavit/CriminalCasesPanel';
 import { BarList } from '@/components/charts';
 

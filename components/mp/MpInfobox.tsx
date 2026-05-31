@@ -9,7 +9,7 @@ import {
   GraduationCap,
   ClipboardList,
 } from 'lucide-react';
-import { getParty, type Mp } from '@/lib/data';
+import { getParty, type Mp } from '@/lib/mp/data';
 import { PartySymbol } from '@/components/ui/PartySymbol';
 import { InfoRow } from '@/components/ui/InfoRow';
 

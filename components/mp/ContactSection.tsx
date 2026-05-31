@@ -1,6 +1,6 @@
 import { Mail, Phone, MapPin, Link2, Users } from 'lucide-react';
-import { type Mp, MANIFEST } from '@/lib/data';
-import { DataSection } from '@/components/mp/DataSection';
+import { type Mp, MANIFEST } from '@/lib/mp/data';
+import { DataSection } from '@/components/ui/DataSection';
 import { EmptyState } from '@/components/ui/EmptyState';
 
 export function ContactSection({ mp }: { mp: Mp }) {

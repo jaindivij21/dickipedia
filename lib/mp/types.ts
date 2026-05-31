@@ -1,7 +1,3 @@
-import indexJson from '@/data/canonical/index.json';
-import partiesJson from '@/data/canonical/parties.json';
-import manifestJson from '@/data/canonical/manifest.json';
-
 export interface Mp {
   pc_id: string;
   pc_name: string;
@@ -231,16 +227,6 @@ export interface Inference {
   sources: string[];
 }
 
-export const slugify = (s: string) =>
-  (s || '')
-    .toLowerCase()
-    .normalize('NFKD')
-    .replace(/[̀-ͯ]/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '');
-
-export const mpSlug = (m: Mp) => `${slugify(m.mp_name)}-${slugify(m.pc_name)}`;
-
 export interface CohortCaps {
   questions: number;
   debates: number;
@@ -278,15 +264,6 @@ export interface Manifest {
   sections: Record<string, { source: string; as_of: string }>;
 }
 
-const INDEX = indexJson as unknown as CanonicalIndex;
-export const SLIM_MPS: SlimMp[] = INDEX.mps;
-export const AGGREGATES = INDEX.aggregates;
-export const MANIFEST = manifestJson as unknown as Manifest;
-
-const SLUG_SET = new Set(SLIM_MPS.map((m) => m.slug));
-export const allSlugs = (): string[] => [...SLUG_SET];
-export const hasSlug = (slug: string): boolean => SLUG_SET.has(slug);
-
 export interface PartyDonor {
   name: string;
   amount: number;
@@ -304,19 +281,6 @@ export interface Party {
   symbol_license: string | null;
   symbol_author: string | null;
 }
-
-export const ALL_PARTIES: Party[] = partiesJson as Party[];
-
-const PARTY_BY_CODE = new Map(ALL_PARTIES.map((p) => [p.code, p]));
-export const getParty = (code: string): Party | undefined => PARTY_BY_CODE.get(code);
-
-export const AVG_ATT = AGGREGATES.avg_attendance;
-export const AVG_Q = AGGREGATES.avg_questions;
-export const AVG_DEBATES = AGGREGATES.avg_debates;
-export const AVG_UTIL = AGGREGATES.avg_util;
-
-export const featuredMp = (): SlimMp | undefined =>
-  SLIM_MPS.find((m) => m.slug === AGGREGATES.featured_slug);
 
 export interface SlimMp {
   slug: string;
@@ -337,25 +301,3 @@ export interface SlimMp {
   pc_id: string;
   mplads_unspent: number | null;
 }
-export const toSlim = (m: Mp): SlimMp => ({
-  slug: mpSlug(m),
-  name: m.mp_name,
-  pc: m.pc_name,
-  state: m.eci_state,
-  party: m.party,
-  party_full: m.party_full,
-  score: m.accountability_score,
-  photo: m.photo_hotlink,
-  symbol: getParty(m.party)?.symbol ?? null,
-  attendance: m.attendance_pct,
-  criminal: m.criminal_cases,
-  mplads_util: m.mplads_utilisation_pct,
-  nota_gt_margin: m.nota_gt_margin,
-  assets: m.total_assets,
-  minister: m.minister,
-  pc_id: m.pc_id,
-  mplads_unspent: m.mplads_unspent,
-});
-
-export const states = (): string[] => INDEX.facets.states;
-export const parties = (): string[] => INDEX.facets.parties;

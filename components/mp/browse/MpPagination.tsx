@@ -1,6 +1,6 @@
 'use client';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { PAGE_SIZE } from '@/lib/constants';
+import { PAGE_SIZE } from '@/lib/mp/constants';
 
 function pageWindow(cur: number, total: number): (number | string)[] {
   const keep = new Set([1, total, cur, cur - 1, cur + 1].filter((n) => n >= 1 && n <= total));

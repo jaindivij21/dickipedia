@@ -1,7 +1,7 @@
 import { Landmark, ExternalLink } from 'lucide-react';
-import type { Mp, NotableRecordEntry } from '@/lib/data';
-import { RESPONSE } from '@/lib/constants';
-import { DataSection } from '@/components/mp/DataSection';
+import type { Mp, NotableRecordEntry } from '@/lib/mp/data';
+import { RESPONSE } from '@/lib/mp/constants';
+import { DataSection } from '@/components/ui/DataSection';
 import { Badge } from '@/components/ui/Badge';
 
 function Entry({ entry }: { entry: NotableRecordEntry }) {

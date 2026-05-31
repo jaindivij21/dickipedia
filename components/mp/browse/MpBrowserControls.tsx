@@ -1,6 +1,6 @@
 'use client';
 import { Search, ChevronDown, X } from 'lucide-react';
-import { SORTS, type Sort, type CasesFilter, type RoleFilter } from '@/lib/constants';
+import { SORTS, type Sort, type CasesFilter, type RoleFilter } from '@/lib/mp/constants';
 
 const FIELD_CLS =
   'h-11 w-full appearance-none rounded-md border border-border bg-surface pl-3 pr-8 font-mono text-sm text-ink outline-none focus-visible:ring-2 focus-visible:ring-ink/30';

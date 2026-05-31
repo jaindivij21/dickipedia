@@ -1,4 +1,4 @@
-import type { IpcCharge } from '@/lib/data';
+import type { IpcCharge } from '@/lib/mp/data';
 
 export function IpcSummary({ summary }: { summary: IpcCharge[] }) {
   if (!summary.length) return null;

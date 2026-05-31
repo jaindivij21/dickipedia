@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
-import { allSlugs, getParty } from '@/lib/data';
-import { loadMp } from '@/lib/mp';
+import { allSlugs, getParty } from '@/lib/mp/data';
+import { loadMp } from '@/lib/mp/loader';
 import { MpHeader } from '@/components/mp/MpHeader';
 import { ElectionSection } from '@/components/mp/ElectionSection';
 import { WorkSection } from '@/components/mp/WorkSection';

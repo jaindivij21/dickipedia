@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { Gelasio, Ubuntu_Mono } from 'next/font/google';
 import Link from 'next/link';
 import { Stamp, ArrowUpRight } from 'lucide-react';
-import { MANIFEST } from '@/lib/data';
+import { MANIFEST } from '@/lib/mp/data';
 import { LastUpdated } from '@/components/ui/LastUpdated';
 import './globals.css';
 

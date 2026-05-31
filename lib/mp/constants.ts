@@ -1,4 +1,4 @@
-import type { Mp, PublicResponse, InferenceSeverity } from '@/lib/data';
+import type { Mp, PublicResponse, InferenceSeverity } from '@/lib/mp/data';
 
 export type Sort = 'score-asc' | 'score-desc' | 'cases-desc' | 'assets-desc' | 'funds-asc' | 'name';
 export type CasesFilter = 'all' | 'has' | 'none';

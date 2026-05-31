@@ -1,7 +1,7 @@
 import { Newspaper, ExternalLink } from 'lucide-react';
-import { type Mp, type NewsItem, MANIFEST } from '@/lib/data';
+import { type Mp, type NewsItem, MANIFEST } from '@/lib/mp/data';
 import { fmtDate } from '@/lib/format';
-import { DataSection } from '@/components/mp/DataSection';
+import { DataSection } from '@/components/ui/DataSection';
 import { EmptyState } from '@/components/ui/EmptyState';
 
 function Row({ item }: { item: NewsItem }) {

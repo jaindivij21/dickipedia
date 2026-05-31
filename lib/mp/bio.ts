@@ -1,4 +1,4 @@
-import type { Mp } from '@/lib/data';
+import type { Mp } from '@/lib/mp/data';
 import { SRC_KEYS, type SrcKey } from '@/lib/sources';
 import { ordinal } from '@/lib/format';
 

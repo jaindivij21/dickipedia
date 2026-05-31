@@ -1,10 +1,10 @@
 'use client';
-import type { SlimMp } from '@/lib/data';
-import { useMpFilter } from '@/lib/useMpFilter';
-import { MpBrowserControls } from '@/components/browse/MpBrowserControls';
-import { BrowserLegend } from '@/components/browse/BrowserLegend';
-import { MpBrowserGrid } from '@/components/browse/MpBrowserGrid';
-import { MpPagination } from '@/components/browse/MpPagination';
+import type { SlimMp } from '@/lib/mp/data';
+import { useMpFilter } from '@/lib/mp/filter';
+import { MpBrowserControls } from '@/components/mp/browse/MpBrowserControls';
+import { BrowserLegend } from '@/components/mp/browse/BrowserLegend';
+import { MpBrowserGrid } from '@/components/mp/browse/MpBrowserGrid';
+import { MpPagination } from '@/components/mp/browse/MpPagination';
 
 export function MpBrowser({
   mps,

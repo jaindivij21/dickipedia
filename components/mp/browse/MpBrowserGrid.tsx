@@ -1,6 +1,6 @@
-import type { SlimMp } from '@/lib/data';
+import type { SlimMp } from '@/lib/mp/data';
 import { EmptyState } from '@/components/ui/EmptyState';
-import { MpCard } from '@/components/browse/MpCard';
+import { MpCard } from '@/components/mp/browse/MpCard';
 
 export function MpBrowserGrid({
   items,

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import type { SlimMp } from '@/lib/data';
+import type { SlimMp } from '@/lib/mp/data';
 import { pct, rupeeCr, scoreBand, colorVar } from '@/lib/format';
 import { PartySymbol } from '@/components/ui/PartySymbol';
 import { Portrait } from '@/components/ui/Portrait';

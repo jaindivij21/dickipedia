@@ -1,5 +1,5 @@
-import type { Mp } from '@/lib/data';
-import { TOP_DEBATE_TYPES } from '@/lib/constants';
+import type { Mp } from '@/lib/mp/data';
+import { TOP_DEBATE_TYPES } from '@/lib/mp/constants';
 import { BarList } from '@/components/charts';
 
 export function DebateRecord({ mp }: { mp: Mp }) {
