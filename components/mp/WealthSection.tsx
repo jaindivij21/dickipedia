@@ -3,7 +3,7 @@ import { type Mp, MANIFEST } from '@/lib/mp/data';
 import { rupeeCr } from '@/lib/format';
 import { DataSection } from '@/components/ui/DataSection';
 import { StatCell, StatGrid } from '@/components/ui/StatCell';
-import { GrowthBar, WealthTimeSeries } from '@/components/charts';
+import { WealthTimeSeries } from '@/components/charts';
 
 export function WealthSection({ mp }: { mp: Mp }) {
   const hasAffidavit =
@@ -21,11 +21,18 @@ export function WealthSection({ mp }: { mp: Mp }) {
     (p): p is { year: number; total_assets: number; source_url: string; label?: string } =>
       p.total_assets != null,
   );
-  const trend = series.map((p) => ({ year: p.year, total: p.total_assets, label: p.label }));
+  const fromHistory = series.map((p) => ({ year: p.year, total: p.total_assets, label: p.label }));
+  const trend =
+    fromHistory.length >= 2
+      ? fromHistory
+      : mp.assets_2019 != null && mp.assets_2024 != null
+        ? [
+            { year: 2019, total: mp.assets_2019, label: '2019' },
+            { year: 2024, total: mp.assets_2024, label: 'Lok Sabha 2024' },
+          ]
+        : [];
   const hasTrend = trend.length >= 2;
-  const overallPct = mp.assets_history_pct;
-  const hasGrowth =
-    mp.assets_2019 != null && mp.assets_2024 != null && mp.wealth_pct_increase != null;
+  const overallPct = fromHistory.length >= 2 ? mp.assets_history_pct : mp.wealth_pct_increase;
 
   return (
     <DataSection
@@ -36,7 +43,7 @@ export function WealthSection({ mp }: { mp: Mp }) {
       src='myneta'
       updatedAt={MANIFEST.sources.myneta?.as_of}
     >
-      <StatGrid cols={hasGrowth ? 4 : 3}>
+      <StatGrid cols={hasTrend && overallPct != null ? 4 : 3}>
         <StatCell
           icon={<Wallet size={12} />}
           label='Declared assets'
@@ -66,7 +73,7 @@ export function WealthSection({ mp }: { mp: Mp }) {
         )}
       </StatGrid>
 
-      {hasTrend ? (
+      {hasTrend && (
         <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>
           <p className='eyebrow mb-3'>
             Declared assets across {trend.length} sworn affidavits ·{' '}
@@ -90,13 +97,6 @@ export function WealthSection({ mp }: { mp: Mp }) {
             .
           </p>
         </div>
-      ) : (
-        hasGrowth && (
-          <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>
-            <p className='eyebrow mb-3'>Declared assets · 2019 vs 2024</p>
-            <GrowthBar from={mp.assets_2019 as number} to={mp.assets_2024 as number} />
-          </div>
-        )
       )}
     </DataSection>
   );
