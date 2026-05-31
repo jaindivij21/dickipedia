@@ -49,7 +49,9 @@ jobs:
       - name: Commit refreshed data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'data: semi-annual full refresh [skip ci]'
+          commit_message: 'chore(data): semi-annual full refresh [skip ci]'
           file_pattern: 'data/canonical data/raw/*.json public/parties'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_options: '--no-verify'
+          push_options: '--no-verify'

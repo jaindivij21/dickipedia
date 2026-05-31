@@ -1,16 +1,16 @@
 name: Data correction
-description: Report a wrong figure on an MP's page. A public-record source is required.
-title: '[Data] <MP / constituency>: <what is wrong>'
+description: Report a wrong figure on a subject's page. A public-record source is required.
+title: '[Data] <subject>: <what is wrong>'
 labels: ['data-correction']
 body:
   - type: markdown
     attributes:
       value: 'Thanks for improving the record. Corrections **must** cite a public source — no source, no change.'
   - type: input
-    id: mp
+    id: subject
     attributes:
-      label: MP / Constituency
-      placeholder: e.g. Narendra Modi — Varanasi
+      label: Subject (office-holder)
+      placeholder: e.g. an MP — Narendra Modi, Varanasi
     validations:
       required: true
   - type: input
