@@ -20,6 +20,20 @@ Please keep every contribution inside that line.
 - Electoral-bond funding is **party-level**, never pinned to an individual office-holder.
 - No re-hosting of non-open sources (e.g. MyNeta parsed dumps, Sansad portraits) — see `ATTRIBUTIONS.md`.
 
+## Roadmap — next actionables
+
+dickipedia is early. Volume I (543 Lok Sabha MPs) is the proof of concept; the platform is built generically to grow far beyond it. High-value directions we want help with — all bound by the sourcing rule above:
+
+- **Go full-stack.** Add a lightweight backend for live submissions, verification workflows, and richer queries, while keeping the static, JSON-first public read path as the source of truth.
+- **Crowdsource with guardrails — think X's Community Notes.** Let contributors propose facts and context that surface only once corroborated against public records — never an open free-for-all (see the rule above).
+- **Adopt Wikipedia's architecture, on our terms.** Crowdsourced content, regular verified updates, and a visible paper trail — every edit cited, attributable, and revertible — bound to the public-record-only rule.
+- **Become a one-stop accountability hub** for each office-holder's public record.
+- **Wire in civic actions.** Let people act on what they read — e.g. file an RTI request straight from a subject's page — routing only to lawful channels.
+- **Deepen the inference engine.** Derive more sourced, arithmetic-only inferences from the raw data.
+- **Raise data quality.** Broaden coverage, fill gaps (e.g. multi-year asset history), tighten validation, and keep sources fresh.
+
+Want to take one on? Open an issue describing the approach before a large PR.
+
 ## Licences
 
 Code: **MIT**. Aggregated data: **ODbL-1.0** (attribute the upstream sources). Photos: each under its own licence. Contributions are accepted under these terms.
