@@ -3,12 +3,15 @@ import { getMp, allSlugs, getParty } from '@/lib/data';
 import { MpHeader } from '@/components/mp/MpHeader';
 import { ElectionSection } from '@/components/mp/ElectionSection';
 import { WorkSection } from '@/components/mp/WorkSection';
+import { NotableRecordSection } from '@/components/mp/NotableRecordSection';
+import { PressSection } from '@/components/mp/PressSection';
 import { WealthSection } from '@/components/mp/WealthSection';
 import { AffidavitSection } from '@/components/mp/AffidavitSection';
 import { MpladsSection } from '@/components/mp/MpladsSection';
 import { PartyFundingSection } from '@/components/mp/PartyFundingSection';
 import { InferencesSection } from '@/components/mp/InferencesSection';
 import { ContactSection } from '@/components/mp/ContactSection';
+import { NewsSection } from '@/components/mp/NewsSection';
 import { SourcesSection } from '@/components/mp/SourcesSection';
 import { MpInfobox } from '@/components/mp/MpInfobox';
 
@@ -38,12 +41,15 @@ export default async function MpPage({ params }: { params: Promise<{ slug: strin
         <div className='min-w-0'>
           <ElectionSection mp={m} />
           <WorkSection mp={m} />
+          <NotableRecordSection mp={m} />
+          <PressSection mp={m} />
           <WealthSection mp={m} />
           <AffidavitSection mp={m} />
           <MpladsSection mp={m} />
           <PartyFundingSection party={party} />
           <InferencesSection mp={m} />
           <ContactSection mp={m} />
+          <NewsSection mp={m} />
           <SourcesSection />
         </div>
         <MpInfobox mp={m} />

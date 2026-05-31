@@ -11,10 +11,17 @@ export function WealthSection({ mp }: { mp: Mp }) {
   if (!hasAffidavit) return null;
 
   const cases = mp.criminal_cases;
+  const seriousCases = mp.serious_cases;
+  const otherCases = mp.non_serious_cases;
+  const caseSub =
+    cases && seriousCases != null && otherCases != null
+      ? `${seriousCases} serious · ${otherCases} other · self-declared`
+      : 'self-declared';
   const series = (mp.assets_history ?? []).filter(
-    (p): p is { year: number; total_assets: number; source_url: string } => p.total_assets != null,
+    (p): p is { year: number; total_assets: number; source_url: string; label?: string } =>
+      p.total_assets != null,
   );
-  const trend = series.map((p) => ({ year: p.year, total: p.total_assets }));
+  const trend = series.map((p) => ({ year: p.year, total: p.total_assets, label: p.label }));
   const hasTrend = trend.length >= 2;
   const overallPct = mp.assets_history_pct;
   const hasGrowth =
@@ -46,7 +53,7 @@ export function WealthSection({ mp }: { mp: Mp }) {
           token={
             cases == null ? undefined : cases > 0 ? 'var(--color-danger)' : 'var(--color-success)'
           }
-          sub='self-declared'
+          sub={caseSub}
         />
         {hasTrend && overallPct != null && (
           <StatCell

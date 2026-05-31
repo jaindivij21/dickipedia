@@ -125,14 +125,15 @@ export function CompareBar({
   );
 }
 
-// Declared assets across affidavit years (2014/2019/2024). Discrete sworn snapshots → straight segments
-// with an ink area wash, serif ₹ figures at each vertex, mono ticks, and growth call-outs between points.
+// Declared assets across an MP's election affidavits (as far back as MyNeta records the same person).
+// Discrete sworn snapshots → straight segments with an ink area wash, serif ₹ figures at each vertex,
+// mono ticks, and growth call-outs. Non-Lok-Sabha points (state assembly) carry a body tag under the year.
 export function WealthTimeSeries({
   data,
   width = 560,
-  height = 280,
+  height = 296,
 }: {
-  data: { year: number; total: number }[];
+  data: { year: number; total: number; label?: string }[];
   width?: number;
   height?: number;
 }) {
@@ -140,7 +141,7 @@ export function WealthTimeSeries({
     return (
       <p className='text-ink-soft text-sm'>Only one affidavit on record — no trend to chart.</p>
     );
-  const PAD = { l: 64, r: 24, t: 36, b: 28 };
+  const PAD = { l: 64, r: 24, t: 36, b: 44 };
   const plotW = width - PAD.l - PAD.r;
   const plotH = height - PAD.t - PAD.b;
   const maxV = Math.max(...data.map((d) => d.total)) * 1.12 || 1;
@@ -198,6 +199,10 @@ export function WealthTimeSeries({
         const prev = pts[i - 1];
         const growth =
           prev && prev.total > 0 ? Math.round(((p.total - prev.total) / prev.total) * 100) : null;
+        const body =
+          p.label && !/lok\s*sabha|loksabha/i.test(p.label)
+            ? p.label.replace(/\s*\d{4}.*$/, '').trim()
+            : null;
         return (
           <g key={p.year}>
             <circle cx={p.px} cy={p.py} r={4} fill='var(--color-ink)' />
@@ -222,6 +227,18 @@ export function WealthTimeSeries({
             >
               {p.year}
             </text>
+            {body && (
+              <text
+                x={p.px}
+                y={baseY + 31}
+                textAnchor='middle'
+                fontFamily='var(--font-mono)'
+                fontSize={9}
+                fill='var(--color-ink-soft)'
+              >
+                {body}
+              </text>
+            )}
             {growth != null && (
               <text
                 x={(prev.px + p.px) / 2}

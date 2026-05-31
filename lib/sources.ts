@@ -6,6 +6,7 @@ export const SRC = {
   mplads: { label: 'MPLADS eSAKSHI (MoSPI)', url: 'https://mplads.mospi.gov.in/' },
   bonds: { label: 'ECI / SBI electoral-bond disclosure', url: 'https://www.eci.gov.in/' },
   wikipedia: { label: 'Wikipedia (CC BY-SA)', url: 'https://en.wikipedia.org/' },
+  news: { label: 'Google News (aggregated press; not verified)', url: 'https://news.google.com/' },
 } as const;
 
 export type SrcKey = keyof typeof SRC;

@@ -321,6 +321,10 @@ async function main(): Promise<void> {
             ['case_status', cs.status],
             ['provenance', 'self-declared (ECI affidavit); pending ≠ convicted'],
             ['charges_framed', String(!!cs.charges_framed)],
+            [
+              'serious',
+              cs.serious ? 'yes (cites a serious section, per ADR/MyNeta criteria)' : 'no',
+            ],
           ];
           if (cs.court) q.push(['court', cs.court]);
           if (cs.sections?.length) q.push(['sections', cs.sections.join(', ')]);

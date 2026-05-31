@@ -33,7 +33,9 @@ export function AffidavitSection({ mp }: { mp: Mp }) {
       sub='Reproduced from the sworn 2024 ECI affidavit. Self-declared — pending ≠ convicted.'
       src='myneta'
     >
-      {mp.criminal_detail && <CriminalCasesPanel detail={mp.criminal_detail} />}
+      {mp.criminal_detail && (
+        <CriminalCasesPanel detail={mp.criminal_detail} mynetaSerious={mp.myneta_serious} />
+      )}
 
       {ab && (ab.movable_total != null || ab.immovable_total != null) && (
         <div className='mt-8'>

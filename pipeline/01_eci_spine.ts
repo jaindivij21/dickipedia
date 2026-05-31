@@ -4,6 +4,7 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import { fetchText } from './lib/http.ts';
 import { parseCSVObjects } from './lib/csv.ts';
 import { normConstituency, normName, normParty } from './lib/text.ts';
+import { reservationFor } from './lib/reservation.ts';
 import type { EciSpineRow } from './lib/types.ts';
 
 const WINNERS_CSV =
@@ -47,7 +48,7 @@ async function main(): Promise<void> {
       eci_pc_no: (w['PC No'] || '').trim(),
       pc_name: (w['PC Name'] || '').trim(),
       pc_name_norm: normConstituency(w['PC Name']),
-      reservation: /\(SC\)/.test(w['PC Name']) ? 'SC' : /\(ST\)/.test(w['PC Name']) ? 'ST' : 'GEN',
+      reservation: reservationFor(w['State'], w['PC Name']),
       winner_name: (w['Winning Candidate'] || '').trim(),
       winner_party: normParty(w['Winning Party']).short,
       winner_party_full: (w['Winning Party'] || '').trim(),

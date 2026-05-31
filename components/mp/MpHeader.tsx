@@ -1,11 +1,12 @@
 import type { ReactNode } from 'react';
 import Link from 'next/link';
-import { AlertTriangle, Gavel, MessageSquareText, MapPin } from 'lucide-react';
+import { AlertTriangle, Gavel, MessageSquareText, Megaphone, Mic, MapPin } from 'lucide-react';
 import { getParty, type Mp } from '@/lib/data';
 import { scoreBand } from '@/lib/format';
 import { ScoreGauge } from '@/components/ScoreGauge';
 import { PartySymbol } from '@/components/PartySymbol';
 import { Portrait } from '@/components/Portrait';
+import { MpLede } from '@/components/mp/MpLede';
 
 const PHOTO_SRC: Record<NonNullable<Mp['photo_source']>, string> = {
   sansad: 'Lok Sabha Secretariat',
@@ -87,34 +88,7 @@ export function MpHeader({ mp }: { mp: Mp }) {
             />
             {mp.party_full}
           </p>
-          {mp.bio?.text ? (
-            <>
-              <p className='text-ink-soft mt-3 max-w-[60ch] leading-relaxed text-pretty'>
-                {mp.bio.text}
-              </p>
-              <p className='text-ink-soft mt-1.5 text-xs'>
-                From{' '}
-                <a
-                  href={mp.bio.url}
-                  target='_blank'
-                  rel='noopener noreferrer'
-                  className='hover:text-accent underline-offset-2 transition-colors hover:underline motion-reduce:transition-none'
-                >
-                  Wikipedia
-                </a>{' '}
-                · {mp.bio.license} · every figure below traces to the{' '}
-                <span className='mark-accent'>public record</span>.
-              </p>
-            </>
-          ) : (
-            <p className='text-ink-soft mt-3 max-w-[46ch] leading-relaxed text-pretty'>
-              <span className='text-ink font-medium'>{mp.mp_name}</span> represents {mp.pc_name},{' '}
-              {mp.eci_state} in the 18th Lok Sabha
-              {mp.minister ? ' and serves as a Union Minister' : ''}. Every figure below is drawn
-              from the <span className='mark-accent'>public record</span> and links back to its
-              source.
-            </p>
-          )}
+          <MpLede mp={mp} />
           <div className='mt-4 flex flex-wrap gap-2'>
             {mp.nota_gt_margin && (
               <Flag token='var(--color-warning)'>
@@ -129,6 +103,18 @@ export function MpHeader({ mp }: { mp: Mp }) {
             {mp.questions === 0 && (
               <Flag>
                 <MessageSquareText size={11} /> asked 0 questions
+              </Flag>
+            )}
+            {mp.attendance_pct != null &&
+              mp.prs_detail != null &&
+              mp.prs_detail.debate_titles.length === 0 && (
+                <Flag>
+                  <Megaphone size={11} /> 0 floor interventions
+                </Flag>
+              )}
+            {mp.press_accountability && (
+              <Flag>
+                <Mic size={11} /> {mp.press_accountability.flag_label}
               </Flag>
             )}
           </div>

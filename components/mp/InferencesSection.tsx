@@ -58,19 +58,24 @@ function Row({ inf }: { inf: Inference }) {
 
 export function InferencesSection({ mp }: { mp: Mp }) {
   const inferences = mp.inferences ?? [];
-  if (!inferences.length) return null;
   return (
     <DataSection
       icon={<Sigma size={20} />}
       kicker='What the numbers suggest'
       title='Read between the lines'
-      sub='Arithmetic on the public record — cross-checking what was declared, attended, asked and spent. These are observations about the figures, each cited to its source. dickipedia draws no conclusions about any individual.'
+      sub='Arithmetic on the public record — cross-checking what was declared, attended, debated, asked and spent. These are observations about the figures, each cited to its source. dickipedia draws no conclusions about any individual.'
     >
-      <ul>
-        {inferences.map((inf, i) => (
-          <Row key={`${inf.key}-${i}`} inf={inf} />
-        ))}
-      </ul>
+      {inferences.length ? (
+        <ul>
+          {inferences.map((inf, i) => (
+            <Row key={`${inf.key}-${i}`} inf={inf} />
+          ))}
+        </ul>
+      ) : (
+        <p className='text-ink-soft max-w-[68ch] text-sm leading-relaxed'>
+          No notable patterns surfaced from the available public record.
+        </p>
+      )}
     </DataSection>
   );
 }

@@ -65,9 +65,53 @@ export interface Mp {
   pending_cases: number | null;
   convicted_cases: number | null;
   charges_framed_count: number | null;
+  serious_cases: number | null;
+  non_serious_cases: number | null;
+  myneta_serious: boolean | null;
   inferences: Inference[];
   inference_count: number;
   top_inference_severity: InferenceSeverity | null;
+  news: NewsItem[];
+  press_accountability: PressAccountability | null;
+  notable_record: NotableRecord | null;
+  score_breakdown: ScoreBreakdown | null;
+}
+
+export interface ScoreBreakdown {
+  track: 'parliamentary' | 'executive';
+  base: number;
+  legislative: number | null;
+  mplads: number;
+  criminal_deduction: number;
+  wealth_deduction: number;
+  nota_deduction: number;
+  press_deduction: number;
+  seniority_bonus: number;
+}
+
+export interface PressSource {
+  publisher: string;
+  title: string;
+  url: string;
+  date: string | null;
+}
+export interface PressAccountability {
+  flag_label: string;
+  statement: string;
+  as_of: string;
+  sources: PressSource[];
+}
+
+export type PublicResponse = 'positive' | 'neutral' | 'negative' | 'divided';
+export interface NotableRecordEntry {
+  title: string;
+  detail?: string;
+  response: PublicResponse | null;
+  sources: PressSource[];
+}
+export interface NotableRecord {
+  office: string;
+  entries: NotableRecordEntry[];
 }
 
 export interface Bio {
@@ -76,10 +120,18 @@ export interface Bio {
   license: string;
   title: string;
 }
+export interface NewsItem {
+  title: string;
+  publisher: string;
+  url: string;
+  date: string;
+  flagged?: boolean;
+}
 export interface AssetYear {
   year: number;
   total_assets: number | null;
   source_url: string;
+  label?: string;
 }
 export interface CriminalCase {
   serial: number | null;
@@ -90,6 +142,7 @@ export interface CriminalCase {
   other_acts: string | null;
   charges_framed: boolean;
   status: 'pending' | 'convicted';
+  serious: boolean;
 }
 export interface IpcCharge {
   count: number;

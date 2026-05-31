@@ -2,6 +2,7 @@ import { CalendarCheck, MessageSquareText, Megaphone, FileText } from 'lucide-re
 import { type Mp, AVG_ATT, AVG_Q, AVG_DEBATES } from '@/lib/data';
 import { pct } from '@/lib/format';
 import { DataSection } from '@/components/mp/DataSection';
+import { DebateRecord } from '@/components/mp/DebateRecord';
 import { StatCell, StatGrid } from '@/components/StatCell';
 import { Bar, CompareBar } from '@/components/charts';
 
@@ -133,6 +134,8 @@ export function WorkSection({ mp }: { mp: Mp }) {
               </div>
             </div>
           )}
+
+          <DebateRecord mp={mp} />
         </>
       )}
     </DataSection>

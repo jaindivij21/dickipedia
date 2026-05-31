@@ -2,7 +2,14 @@
 // Constituency-anchored join off the ECI 543 spine; fuzzy fallback recovers spelling gaps. Output feeds the DB seed.
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
-import { normState, tokenSortRatio } from './lib/text.ts';
+import {
+  normState,
+  looseState,
+  looseConstituency,
+  tokenSortRatio,
+  tokenSetRatio,
+  initialsRatio,
+} from './lib/text.ts';
 import type { EciSpineRow, PrsRow } from './lib/types.ts';
 
 const RAW = new URL('../data/raw/', import.meta.url);
@@ -12,7 +19,18 @@ const load = async <T>(f: string): Promise<T> =>
 const loadOpt = async <T>(f: string): Promise<T | null> =>
   existsSync(new URL(f, RAW)) ? load<T>(f) : null;
 
-const clamp = (n: number, lo = 0, hi = 100) => Math.max(lo, Math.min(hi, n));
+// MPLADS join: name-within-state only (no shared id across sources). The primary pass takes a
+// confident token match; the residual pass recovers abbreviated/boundary-split registry names
+// ("C R Patil" ~ "Chandrakant Raghunath Patil") only when one candidate dominates its bucket.
+const MPLADS_NAME_THRESHOLD = 85;
+const MPLADS_GAP_FLOOR = 60;
+const MPLADS_GAP_MIN = 25;
+const CONST_FUZZY = 90;
+const CONST_FUZZY_LOOSE = 85;
+const mpladsScore = (a: string, b: string): number =>
+  Math.max(tokenSortRatio(a, b), tokenSetRatio(a, b));
+const mpladsResidualScore = (a: string, b: string): number =>
+  Math.max(mpladsScore(a, b), initialsRatio(a, b));
 
 // per-pc_id resolution map of deep-source ids — the single authority the 11-16 deep scrapers iterate.
 interface CrosswalkRow {
@@ -75,41 +93,63 @@ async function main(): Promise<void> {
   // indexes
   const byKey = <T extends { state?: string; constituency_norm: string }>(rows: T[]) => {
     const sc = new Map<string, T[]>(),
-      c = new Map<string, T[]>();
+      c = new Map<string, T[]>(),
+      lc = new Map<string, T[]>();
     for (const r of rows) {
       const k = `${normState(r.state || '')}|${r.constituency_norm}`;
       (sc.get(k) ?? sc.set(k, []).get(k)!).push(r);
       (c.get(r.constituency_norm) ?? c.set(r.constituency_norm, []).get(r.constituency_norm)!).push(
         r,
       );
+      const l = looseConstituency(r.constituency_norm);
+      (lc.get(l) ?? lc.set(l, []).get(l)!).push(r);
     }
-    return { sc, c };
+    return { sc, c, lc };
   };
   const prsIdx = byKey(prs),
     sanIdx = byKey(sansad),
     mnIdx = byKey(myneta),
     wIdx = byKey(wealth);
   const mpladsByState = new Map<string, any[]>();
-  for (const m of mplads)
+  const mpladsByLooseState = new Map<string, any[]>();
+  for (const m of mplads) {
     (
       mpladsByState.get(normState(m.state)) ??
       mpladsByState.set(normState(m.state), []).get(normState(m.state))!
     ).push(m);
+    (
+      mpladsByLooseState.get(looseState(m.state)) ??
+      mpladsByLooseState.set(looseState(m.state), []).get(looseState(m.state))!
+    ).push(m);
+  }
+  const mpladsBucket = (state: string): any[] =>
+    mpladsByState.get(normState(state)) ?? mpladsByLooseState.get(looseState(state)) ?? [];
 
   // resolve a state+constituency source (PRS/Sansad), name-confirm
   const resolveSC = <T extends { state?: string; constituency_norm: string; name?: string }>(
     s: EciSpineRow,
-    idx: { sc: Map<string, T[]>; c: Map<string, T[]> },
+    idx: { sc: Map<string, T[]>; c: Map<string, T[]>; lc: Map<string, T[]> },
   ) => {
     let cands = idx.sc.get(`${normState(s.eci_state)}|${s.pc_name_norm}`) ?? [];
     if (!cands.length) cands = idx.c.get(s.pc_name_norm) ?? [];
     if (!cands.length) {
       // fuzzy over constituency-only
       for (const [cn, rows] of idx.c)
-        if (tokenSortRatio(cn, s.pc_name_norm) >= 90) {
+        if (tokenSortRatio(cn, s.pc_name_norm) >= CONST_FUZZY) {
           cands = rows;
           break;
         }
+    }
+    if (!cands.length) {
+      // loose-constituency fallback: UT names differ by "&"/"AND"/"THE" tokens (see looseConstituency)
+      const lq = looseConstituency(s.pc_name_norm);
+      cands = idx.lc.get(lq) ?? [];
+      if (!cands.length)
+        for (const [cn, rows] of idx.lc)
+          if (tokenSortRatio(cn, lq) >= CONST_FUZZY_LOOSE) {
+            cands = rows;
+            break;
+          }
     }
     if (!cands.length) return null;
     return pick(s.winner_name, cands, (r) => r.name || '', 0).row ?? cands[0];
@@ -164,19 +204,52 @@ async function main(): Promise<void> {
     }
   >();
 
+  // MPLADS assignment (two-pass, mutually exclusive across MPs). Done up-front so both the canonical
+  // record and the crosswalk share one result. Pass 1 takes a confident token match; pass 2 recovers
+  // abbreviated/boundary-split registry names only when one unclaimed candidate dominates its bucket.
+  const mpName = (s: EciSpineRow): string =>
+    (resolveSC(s, sanIdx) as { name?: string } | null)?.name ||
+    (resolveSC(s, prsIdx) as PrsRow | null)?.name ||
+    s.winner_name;
+  const rankMplads = (name: string, cands: any[], scorer: (a: string, b: string) => number) =>
+    cands
+      .map((c) => ({ c, s: scorer(name, c.name || ''), t: tokenSortRatio(name, c.name || '') }))
+      .sort((a, b) => b.s - a.s || b.t - a.t);
+  const mpladsByPcId = new Map<string, any>();
+  const mpladsClaimed = new Set<unknown>();
+  for (const s of spine) {
+    const ranked = rankMplads(
+      mpName(s),
+      mpladsBucket(s.eci_state).filter((c) => !mpladsClaimed.has(c.mpId)),
+      mpladsScore,
+    );
+    if (ranked.length && ranked[0].s >= MPLADS_NAME_THRESHOLD) {
+      mpladsClaimed.add(ranked[0].c.mpId);
+      mpladsByPcId.set(s.pc_id, ranked[0].c);
+    }
+  }
+  for (const s of spine) {
+    if (mpladsByPcId.has(s.pc_id)) continue;
+    const ranked = rankMplads(
+      mpName(s),
+      mpladsBucket(s.eci_state).filter((c) => !mpladsClaimed.has(c.mpId)),
+      mpladsResidualScore,
+    );
+    const best = ranked[0]?.s ?? 0;
+    const second = ranked[1]?.s ?? 0;
+    if (ranked.length && best >= MPLADS_GAP_FLOOR && best - second >= MPLADS_GAP_MIN) {
+      mpladsClaimed.add(ranked[0].c.mpId);
+      mpladsByPcId.set(s.pc_id, ranked[0].c);
+    }
+  }
+
   const mps = spine.map((s) => {
     const pr = resolveSC(s, prsIdx) as PrsRow | null;
     const san = resolveSC(s, sanIdx) as any;
     const mn = resolveC(s, mnIdx) as any;
     const w = resolveC(s, wIdx) as any;
-    // MPLADS: name within state
-    const mpName = san?.name || pr?.name || s.winner_name;
-    const mplRow = pick(
-      mpName,
-      mpladsByState.get(normState(s.eci_state)) || [],
-      (r) => r.name || '',
-      80,
-    ).row as any;
+    const mpDisplayName = san?.name || pr?.name || s.winner_name;
+    const mplRow = mpladsByPcId.get(s.pc_id) ?? null;
     // party funding: fuzzy full-name
     const bond = pick(s.winner_party_full, bondsDoc.parties, (p) => p.party_full || '', 80)
       .row as any;
@@ -188,23 +261,9 @@ async function main(): Promise<void> {
     if (mplRow) cov.mplads++;
     if (bond) cov.bonds++;
 
-    // accountability score (v1): performance base - integrity deduction (criminal, self-declared)
+    // accountability_score is computed in 17_merge.ts (pipeline/lib/score.ts), where the integrity
+    // tiers and wealth-growth inputs are folded in; left null here in the base canonical.
     const minister = pr?.minister ?? false;
-    const util = mplRow?.utilisation_pct ?? null;
-    let performance: number | null = null;
-    if (!minister && pr) {
-      const att = pr.attendance_pct ?? 0;
-      const q = clamp((pr.questions ?? 0) / 2); // ~200 questions ≈ full (rough cohort cap)
-      const d = clamp((pr.debates ?? 0) * 2); // ~50 debates ≈ full
-      const pm = clamp((pr.pmbs ?? 0) * 25); // a few PMBs ≈ strong
-      const u = util ?? 0;
-      performance = Math.round(att * 0.25 + q * 0.2 + d * 0.15 + pm * 0.1 + u * 0.3);
-    } else if (util != null) {
-      performance = Math.round(util); // ministers: MPLADS-only track
-    }
-    const crim = mn?.criminal_cases ?? 0;
-    const deduction = Math.min(crim * 6, 36); // declared cases (as self-declared); deep-pass refines by severity
-    const score = performance != null ? clamp(performance - deduction) : null;
 
     // portrait: only validated, reliably-served hosts (PRS mptrack -> MyNeta -> party sites). All
     // photos.json URLs are HEAD-checked live. sansad's image host is unreachable, so it is excluded;
@@ -247,7 +306,7 @@ async function main(): Promise<void> {
       pc_name: s.pc_name,
       eci_state: s.eci_state,
       reservation: s.reservation,
-      mp_name: mpName,
+      mp_name: mpDisplayName,
       party: s.winner_party,
       party_full: s.winner_party_full,
       // identity (Sansad)
@@ -295,8 +354,8 @@ async function main(): Promise<void> {
       mplads_works_recommended: mplRow?.works_recommended ?? null,
       // party funding (party-level)
       party_bond_total: bond?.bond_total ?? null,
-      // score
-      accountability_score: score,
+      // score — assigned in 17_merge.ts
+      accountability_score: null,
     };
   });
 
@@ -305,13 +364,7 @@ async function main(): Promise<void> {
     const pr = resolveSC(s, prsIdx) as PrsRow | null;
     const san = resolveSC(s, sanIdx) as any;
     const mn = resolveC(s, mnIdx) as any;
-    const mpName = san?.name || pr?.name || s.winner_name;
-    const mpl = pick(
-      mpName,
-      mpladsByState.get(normState(s.eci_state)) || [],
-      (r) => r.name || '',
-      80,
-    ).row as any;
+    const mpl = mpladsByPcId.get(s.pc_id) ?? null;
     const bond = pick(s.winner_party_full, bondsDoc.parties, (p) => p.party_full || '', 80)
       .row as any;
     return {
@@ -348,18 +401,6 @@ async function main(): Promise<void> {
   );
   console.log(
     `Photos — ${mps.length - photoCov.none}/${mps.length} (sansad ${photoCov.sansad} · prs ${photoCov.prs} · myneta ${photoCov.myneta} · inc ${photoCov.inc} · bjp ${photoCov.bjp} · none ${photoCov.none})`,
-  );
-  const scored = mps.filter((m) => m.accountability_score != null);
-  console.log(
-    `Scored: ${scored.length}; avg ${Math.round(scored.reduce((s, m) => s + (m.accountability_score || 0), 0) / (scored.length || 1))}/100`,
-  );
-  const worst = scored
-    .sort((a, b) => (a.accountability_score || 0) - (b.accountability_score || 0))
-    .slice(0, 3);
-  worst.forEach((m) =>
-    console.log(
-      `  low: ${m.mp_name} (${m.pc_name}) score ${m.accountability_score} | att ${m.attendance_pct}% q${m.questions} crim ${m.criminal_cases} mplads ${m.mplads_utilisation_pct}%`,
-    ),
   );
   const withSymbol = [...partySeen.values()].filter((p) => p.symbol).length;
   console.log(`Parties: ${partySeen.size} (with election symbol: ${withSymbol})`);

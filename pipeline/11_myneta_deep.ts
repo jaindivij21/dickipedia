@@ -13,8 +13,10 @@ import type { Provenance } from './lib/types.ts';
 
 const CANON = new URL('../data/canonical/', import.meta.url);
 const RAW = new URL('../data/raw/', import.meta.url);
+const MYNETA_BASE = 'https://myneta.info';
 const CANDIDATE = (id: number): string =>
   `https://myneta.info/LokSabha2024/candidate.php?candidate_id=${id}`;
+const CURRENT_YEAR = 2024;
 const SLEEP_MS = 1100;
 const FLUSH_EVERY = 40;
 const PROVENANCE: Provenance = {
@@ -59,6 +61,13 @@ interface Contract {
   party: string;
   detail: string;
 }
+interface PriorAffidavit {
+  label: string;
+  body: string;
+  year: number;
+  total_assets: number | null;
+  declared_cases: number;
+}
 interface MynetaDeepRow {
   pc_id: string;
   candidate_id: number;
@@ -79,6 +88,8 @@ interface MynetaDeepRow {
   liabilities: { total: number | null; lines: ValueLine[] };
   income: { sources: IncomeSource[]; itr: ItrRow[] };
   contracts: Contract[];
+  prior_affidavits: PriorAffidavit[];
+  compare_url: string | null;
   source_url: string;
   _provenance: Provenance;
 }
@@ -89,6 +100,17 @@ const clean = (s: string): string =>
     .replace(/\s+/g, ' ')
     .trim();
 const yes = (s: string): boolean => /^\s*y(es)?\s*$/i.test(clean(s));
+// MyNeta lists IPC sections inconsistently — commas and spaces separate distinct sections AND a
+// section from its own subsection, e.g. "153, 153A, 505, (1) (B), 505 (2)" means 153, 153A,
+// 505(1)(B), 505(2). Re-attach any parenthetical-only token to the preceding section number.
+const parseSections = (raw: string): string[] => {
+  const out: string[] = [];
+  for (const tok of raw.split(/[,\s]+/).filter(Boolean)) {
+    if (out.length && /^\(/.test(tok)) out[out.length - 1] += tok;
+    else out.push(tok);
+  }
+  return out;
+};
 
 function summaryRupees($: CheerioAPI, label: RegExp): number | null {
   let out: number | null = null;
@@ -141,11 +163,7 @@ function casesUnder(
         fir_no: cell(1) || null,
         case_no: cell(2) || null,
         court: cell(3) || null,
-        sections: cell(4)
-          ? cell(4)
-              .split(/[,\s]+/)
-              .filter(Boolean)
-          : [],
+        sections: cell(4) ? parseSections(cell(4)) : [],
         other_acts: cell(5) || null,
         charges_framed: yes(cell(6)),
         status,
@@ -156,11 +174,7 @@ function casesUnder(
         fir_no: null,
         case_no: cell(1) || null,
         court: cell(2) || null,
-        sections: cell(3)
-          ? cell(3)
-              .split(/[,\s]+/)
-              .filter(Boolean)
-          : [],
+        sections: cell(3) ? parseSections(cell(3)) : [],
         other_acts: cell(4) || null,
         charges_framed: true,
         status,
@@ -247,8 +261,37 @@ function contracts($: CheerioAPI): Contract[] {
   return out;
 }
 
+// MyNeta links the SAME candidate across elections in an "Other Elections" table on each profile
+// (declaration body + year, declared assets, declared cases) plus a compare_profile group link.
+// This is MyNeta's own cross-election resolution — the time-series source, no fuzzy matching.
+function otherElections($: CheerioAPI): { prior: PriorAffidavit[]; compare_url: string | null } {
+  const table = $('th:contains("Other Elections")').first().closest('table');
+  const prior: PriorAffidavit[] = [];
+  table.find('tr').each((_, tr) => {
+    const tds = $(tr).find('td');
+    if (tds.length !== 3) return;
+    const label = clean($(tds[0]).text());
+    const ym = label.match(/(\d{4})/);
+    if (!ym) return;
+    const year = Number(ym[1]);
+    if (!Number.isFinite(year) || year === CURRENT_YEAR) return;
+    const total_assets = parseRupees($(tds[1]).text());
+    if (total_assets == null) return;
+    prior.push({
+      label,
+      body: label.replace(/\s*\d{4}.*$/, '').trim(),
+      year,
+      total_assets,
+      declared_cases: parseInt0($(tds[2]).text()),
+    });
+  });
+  const href = table.find("a[href*='compare_profile.php']").attr('href');
+  return { prior, compare_url: href ? new URL(href, MYNETA_BASE).href : null };
+}
+
 function parse(html: string, pc_id: string, candidate_id: number): MynetaDeepRow {
   const $ = cheerio.load(html);
+  const { prior, compare_url } = otherElections($);
   const movable = assetLines($, 'movable_assets');
   const immovable = assetLines($, 'immovable_assets');
   const liabilities = assetLines($, 'liabilities');
@@ -272,6 +315,8 @@ function parse(html: string, pc_id: string, candidate_id: number): MynetaDeepRow
     liabilities: { total: liabilities.total, lines: liabilities.lines },
     income: { sources: incomeSources($), itr: itrRows($) },
     contracts: contracts($),
+    prior_affidavits: prior,
+    compare_url,
     source_url: CANDIDATE(candidate_id),
     _provenance: PROVENANCE,
   };
@@ -304,8 +349,9 @@ async function main(): Promise<void> {
   await writeFile(new URL('myneta_deep.json', RAW), JSON.stringify(out, null, 2));
   const withCrim = out.filter((r) => r.criminal.count > 0).length;
   const withContracts = out.filter((r) => r.contracts.length > 0).length;
+  const withPrior = out.filter((r) => r.prior_affidavits.length > 0).length;
   console.log(
-    `Deep MyNeta parsed: ${out.length} (with criminal cases ${withCrim} · with contracts ${withContracts})`,
+    `Deep MyNeta parsed: ${out.length} (with criminal cases ${withCrim} · with contracts ${withContracts} · with prior affidavits ${withPrior})`,
   );
   console.log('Wrote data/raw/myneta_deep.json');
 }

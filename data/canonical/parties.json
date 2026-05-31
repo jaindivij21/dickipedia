@@ -102,10 +102,31 @@
     "code": "JD(U)",
     "full": "Janata Dal  (United)",
     "members": 12,
-    "bond_total": 0,
-    "bond_count": 0,
-    "rank": null,
-    "top_donors": [],
+    "bond_total": 435000000,
+    "bond_count": 75,
+    "rank": 12,
+    "top_donors": [
+      {
+        "name": "RITHWIK PROJECTS PRIVATE LIMITED",
+        "amount": 100000000
+      },
+      {
+        "name": "NARA CONSTRUCTIONS",
+        "amount": 100000000
+      },
+      {
+        "name": "MEGHA ENGINEERING AND INFRASTRUCTURES LI MITED",
+        "amount": 50000000
+      },
+      {
+        "name": "KCR ENTERPRISE LLP",
+        "amount": 50000000
+      },
+      {
+        "name": "ILABS HYD TECHNOLOGY CENTRE PVT LTD",
+        "amount": 50000000
+      }
+    ],
     "symbol": "/parties/jd-u.svg",
     "symbol_source_url": "https://commons.wikimedia.org/wiki/File:Indian%20Election%20Symbol%20Arrow.svg",
     "symbol_license": "CC BY-SA 3.0",

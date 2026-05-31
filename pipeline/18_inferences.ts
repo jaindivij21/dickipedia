@@ -4,6 +4,7 @@
 // rejects any accusatory phrasing at build time. Inferences cite the registries they derive from and feed
 // the derived projection only — they are never primary facts. Runs last (needs the merged blob + cohort).
 import { writeFile, readFile } from 'node:fs/promises';
+import { BANNED } from './lib/text.ts';
 
 const CANON = new URL('../data/canonical/', import.meta.url);
 
@@ -18,10 +19,6 @@ const ATT_BOTTOM_PCTILE = 10;
 const ASSET_TOP_PCTILE = 99;
 
 const SEV_RANK: Record<string, number> = { info: 1, notable: 2, flag: 3, extreme: 4 };
-// person-characterisations that must never appear in a headline (invariant 3). "criminal case(s)" — the
-// affidavit's own term — is intentionally NOT matched (no word boundary collision with these stems).
-const BANNED =
-  /\b(corrupt|fraud|bribe|launder|embezzl|misappropriat|loot\b|thief|scam|crook|guilty)\w*/i;
 
 const SERIOUS_SECTIONS: Record<string, { label: string; tier: 'flag' | 'extreme' }> = {
   '302': { label: 'murder', tier: 'extreme' },
@@ -80,6 +77,7 @@ interface Mp {
     convicted: { sections: string[] }[];
   } | null;
   income?: { itr: { person: string; income: number | null }[] } | null;
+  prs_detail?: { debate_titles?: { type: string | null }[] } | null;
   inferences?: Inference[];
   inference_count?: number;
   top_inference_severity?: Severity | null;
@@ -231,6 +229,21 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       numbers: { sections: serious.sections.join(', ') },
       sources: ['myneta'],
     });
+
+  // 9. no floor interventions on the itemised deep record (debate_titles, not the undercounting headline
+  // debates field) — the on-record analogue of putting oneself on the public accountability record
+  const interventions = mp.prs_detail?.debate_titles?.length ?? 0;
+  if (!mp.minister && mp.attendance_pct != null && mp.prs_detail != null && interventions === 0) {
+    const alsoSilentQ = mp.questions === 0;
+    out.push({
+      key: 'floor_silent',
+      severity: alsoSilentQ ? 'flag' : 'notable',
+      headline: `Left no recorded intervention on the floor of the House`,
+      detail: `PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.${alsoSilentQ ? ' No starred or unstarred questions were recorded either.' : ''}`,
+      numbers: { interventions: 0, questions: mp.questions ?? null },
+      sources: ['prs'],
+    });
+  }
 
   return out;
 }
