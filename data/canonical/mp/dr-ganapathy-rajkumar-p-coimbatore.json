@@ -1,0 +1,552 @@
+{
+  "accountability_score": 20,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 30000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 217200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 559395000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 43350000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 859445000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 431197
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 11881408
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 3,00,000 3 Lacs+ 5,00,000 5 Lacs+",
+        "value": 1300000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5440000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11600000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 300000
+      }
+    ],
+    "movable_total": 30952608
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1352",
+      "total_assets": 890397608,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 890397608,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ganapathi P. Rajkumar is an Indian politician active in the state of Tamil Nadu. He served as the 5th mayor of Coimbatore from 2014 to 2016. He contested in the 2024 Indian general election from the Coimbatore Lok Sabha constituency as a candidate of the DMK.",
+    "title": "Ganapathi P. Rajkumar",
+    "url": "https://en.wikipedia.org/wiki/Ganapathi_P._Rajkumar"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "394, Sanganoor Road, Nalla Thanneer Thottam, Ganapathy Coimbatore North PO Ganapathy, Distt. Coimbatore Coimbatore Tamil Nadu, 641006",
+    "emails": [
+      "raj11100@gmail.com",
+      "ganapathyrajkumar.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9842211100"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 1,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC No. 3/2010 in Crime No. 382/2008",
+        "charges_framed": true,
+        "court": "Honble Judicial Magistrate No. II of Coimbatore",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "17/04/1965",
+  "eci_state": "Tamil Nadu",
+  "email": "raj11100[at]gmail[dot]com,ganapathyrajkumar[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1631660,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1367310,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1273810,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1098930,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1116940,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1511320,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 484670,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 525880,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 329560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 325289,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 717100,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 659770,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 603480,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 434940,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 311675,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1190880,
+        "person": "dependent3"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 437370,
+        "person": "dependent3"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 503120,
+        "person": "dependent3"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 424480,
+        "person": "dependent3"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 403883,
+        "person": "dependent3"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Small Scale Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture and Small Scale Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "Son- Profession, Mother- Housewife"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.35 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123509856,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 1,
+        "pending": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 33284669
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 33284669
+  },
+  "margin_votes": 118068,
+  "minister": false,
+  "mp_name": "Dr. Ganapathy Rajkumar P",
+  "mplads_allocated": 147370490,
+  "mplads_expenditure": 23860634,
+  "mplads_unspent": 123509856,
+  "mplads_utilisation_pct": 16.2,
+  "mplads_works_completed": 3,
+  "mplads_works_recommended": 67,
+  "mpsno": 5807,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-14T21:39:08.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Ganapathy Rajkumar P , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTdPZTI4OVJWU3Y1M0hMNWtNTG93SDJXNFNibWxlUUozWm1TZ1g1RkMxX2VVaXlnM2NiMUlBakRHOHVrUldnM1ppajJaUThidjBhcWNlSW9JSWU1YWItX0xKa0RmTUtkRGFOeC04eEtBSDBub2wwZkx2S3luTnZnRThfZnNrVll2VDNadkN3?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Coimbatore Lok Sabha Seat Result 2024: DMK's Ganapathy Rajkumar P Defeats BJP's Annamalai by Over 1 Lakh Votes",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQa2hoMmVVTmlpWm5TTTVBbG9ZV3BmWlpJVy1jNHZVaVh4Mkh4SENZY291XzVHbnUxRlc3R0xMUjdlb2l3Y0ZKNkltbmJSXzJZalc0MldwQm5mUm1tdWdCRkJIVFNUcEtJUTE2RHJpamtUR25OcnNXT1ZnZ3VmZlVzb05vTm5zV2JUc1BabHpXTHJ1NmVNVVBCZUNhb3NGdWFyNkFyLVAxY0FKbjROWEVrVUdQQ0JEa3U1UWc3OUdUTHllazFnaXFJRnlsWUtCdHVTTldqSktEWlJfR2JvNDY1NC1MeHJGLWtUM3FtSkdDZkJXN0JZZ2J0alprc0YxTi1QdEZTSTgyYkpYeFpHS0I3LWZ0alF0eG1acV91eTUtX3JPS0lLaXfSAasCQVVfeXFMTjY3bXYyOXZFblZRVWlGUUFfamUzemF0bUdYdGRYN2xlNjZnenBxTEtENVdJcFFSenB1bXhHelRxYXFTTlVITlh1LUtRRjRGWjhjNmM1Y2t3VUUzWjcwaVdEaTRTWkxEV00wazRvaHV0Z3lLM1dJMkZ3eHVhTDQ5R2xnQ2YxLXZBa09fOFlRcU9ERHI3RHZpZFBHRGxqaWhqM2EyYXZuNkxLdUdHZGVaTThqanJsUXlXaEdraTg0ZEo2T2pIam9pOXFrTkk2Vll3REZIOW5uMTFaUFlIT3FncWJlWmJkZU9NNWlhVmFiRW8xRFZQZTdlNnp2U1JVZkVmSDgzMkdEdS16b0YwZ3VGenBkbUxTYXZ2Mm1YLWJHS0wwcUxfajktOVFLQUU?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Coimbatore election results 2024 live updates: DMK's Ganapathy Rajkumar P wins",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZGRLS0c1WXhWQWQ4WWQ1WGtRVS1sXzhKV2Q0MlhQY1RYcXAzR0FYTHoxNm9NM1g4dzh5cWpKa2s4aHdJajRqMk1Pdlg4VllpSnRqczBZanM4UnQ2bGxvdk5tUmVIQmM2SHRKSXpyclU5VkVKQUxPV1JiaU5uSzVKM1FoRy12c2RJcW1ib0VlSHNfejZqMnRyTWFKX0h5NVh3ZVNKaHAwTVJlRkpSOV9ldGZHTHVBV0VVVk9OZllEeXBRUzc3ZjFXYi1uazNUVXBvWWZsb0tEOTU1TFRsTVJkQV8zQ0xidG9oUjZNb0FJRXVSVjZuWjVxMncwNlFlSE5fMkdmTlhoam1tQdIBjwJBVV95cUxPaWxSSkt3djZ6UXpHQmFKZGVxZlBDQlRGbDA1MUNKWlZYQ2NHZUNMbFlhcDZwSUw0M29GQUlnMXlaa2ZpVlBsUVdiSzB1eEdxOWpIZUE0blFIVlNNU0pIUVpla3hJckFPeWp1ZWlYb1RZRjZncFRKQ3JOZHdKTVRBa0paMnBSTXpBYUR0Uzl2ZVVVN3JIYW1vNDh5R2JXbXR6MFdXTmxZaVcyZVNfTVFUVWlsSnhFTEhqS29ISEhqSXNuT2xnS2lZX0NkR2VMUkNraTFlWEhTV3VaclZaNHY0VXhBTElUT3dpR20yV2VSeHhLZ2FPMHptMElhT2F1c1M3NldNRUcxSEhHVVNrVkg0?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Coimbatore Election Result 2024 Live Updates: DMK's Ganapathy Rajkumar P Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2xLeVFzRWVDYUYtT2h1MFBvY3pyeHpaVkp2djRPcUZPSks0ak9FS1pUVHJFcTY1cU5GSjVHYi1ZN1Y0c0taTXQyUVFrWFNKdHRmQ09oaVBZblhRbmppMUlINlJiemhaMWFiSWJwbkRmcDF1UTM1eGFJT0lBQ0RFbWJtWDlLdmtRU0hnd0RFR0tNWjA1S0RnM3lJUlFUQW54amx6T01mNXR2Y0ZYdmZibFhpbHZhNkw4b2NocHNpU2NYQ09SbEhMQ0lR0gHXAUFVX3lxTE8tRWZmSFZSMUdQakpod1Fhc3NodHdzeFAtZ1ZJVElpcmtWZmxuQWZGSnVXb083ZkRlR0sybFhaZGh3cmhObDBNaUVQWFlCbnBLNy0zYzJRYm5uRkkwSElqVVlydDRRQUdtVVM0OGd6MjN2eTU0NXJDM05rdWVXLWozNnlnU2tBczNrU2NfcV9FZDBUSUxMUVVzT3ZabVQxXzhHby1tYzV0SEhkbjZQcVl6MVFfVFo5amg5NmcwMk44TzVudXcyd3UzRWRwemRNcnRNMXRuc29B?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Coimbatore election results 2024 live updates: BJP's Annamalai K vs DMK's Ganapathy Rajkumar P",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc21GZ3BYTVM4cjlzZDZqMnEtQnJXVkhCdG1lRnVNQXBrckktdEJweG93akdYbE9BelNrOU1UYXVHaEppNmJOSE1uSW10Q2tabWVWd2RjVHdNaDBLSDZZZUVISVlCcW9obDYtYzZIRHEyYnU0MDBmNVBLYVMyekRTM09tVWRZYWZqSGZqcEpaYno1UUhReU8yakpaVUhybzRFbWZ3SzRfRFBHTDN2WmpTMkxsMWRLSi1DU0dFeVU4OF9FUWFhaGY5aHZSdUdYSlRPTEZFYmFwbFc1TU9sVkdlQjRMQUd5SmhPaExlUGp6UUVaM1NBMUxxT3dR0gH_AUFVX3lxTE1WTVVQTGplMzl3LWJiVDMwa3NtRVVhYTFycldfZHFnUTJIaDJWVWpMRXRpTldYZTYtQmJ4SHIzc0lCZkV0MlBGb3Bvd08tX3UtejFPT2dNdU9vRlMwZ3NUdS1nWDRfVHBqVVNFNW00c3VCaFNFZS1vd2E5WlE5eEE2VWE0TXRhcVJLSDBLRldQdjNZd2ZuRXJ5OEFmX1Q2TUI3REVMZy15aUNfa1ZDdEZ1QXdoVFZ0YlY0NGFNRk04WVpLTGhBZXhYaWNpLWFuUmtKWThEazZNUHppV0JJcHJEcFIyb0t3a281bnZIY2pva2h1RlExdVJRZ09MXzNWNA?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 11788,
+  "notable_record": null,
+  "num_candidates": 37,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-20",
+  "pc_name": "COIMBATORE",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180369.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "23.03.2026",
+        "title": "Concern Over Minimum Balance Penalties Charged by Private Sector Banks",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to grant citizenship or long-term visas to Sri Lankan Tamils residing in India for more than 30 years",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to issue Standard Operating Procedure to run coaching institutes in the country and take stringent action against the Institutes charging exorbitant fees",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to declare 15th January observed as Pongal festival across the country, a gazetted holiday",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need To Name Coimbatore International Airport in Tamil Nadu as Dr. Kalaignar Karunanidhi International Airport",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to review the decision to grant approval to Madurai and Coimbatore metro rail projects in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to expedite acquisition of land for expansion of Coimbatore airport in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Immediate Action to Resume Operations and Salary Disbursal in NTC Cotton Mills in Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Urge upon the union govt. to bring a law to tackle the problem of infected dog menace",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Halt Auction of Petroleum Blocks in the Gulf of Mannar to Protect Biodiversity and Livelihoods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to include Coimbatore Airport in the list of �Points of Call� for operation of International Flights",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 14
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 112
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ganapathy-rajkumar-p"
+  },
+  "qualification": "Doctorate",
+  "questions": 7,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Cooperation": 1,
+    "Education": 1,
+    "Health And Family Welfare": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ANNAMALAI K",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 7,
+    "legislative": 30,
+    "mplads": 22,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 890397608,
+  "total_liabilities": 33284669,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 41.39
+}

@@ -1,0 +1,501 @@
+{
+  "accountability_score": 58,
+  "age": 73,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 41694313
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10518950
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 64488500
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 116701763,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 263000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 23939536
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 30197299
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 2299263
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 362768
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5863104
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 62924970
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bcminaZ7FpoAfPYn6ti",
+      "total_assets": 150639697,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3647",
+      "total_assets": 179626733,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 19,
+  "assets_latest": 179626733,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Charan Das Mahant is an Indian politician from Indian National Congress who serves as the 7th Opposition Leader in the Chhattisgarh Legislative Assembly since 2023. He was the member of the Indian Parliament, representing Korba constituency. He is the former Union Minister of State for Agriculture and Food Processing.",
+    "title": "Charan Das Mahant",
+    "url": "https://en.wikipedia.org/wiki/Charan_Das_Mahant"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "D-2 Pump House Road, Near Panchvati Rest House Korba Chhattisgarh, 495677",
+    "emails": [
+      "jmkorba04@gmail.com",
+      "jyotsna.mahant@mpls.sansad.in"
+    ],
+    "phones": [
+      "9424144444",
+      "9013997085",
+      "9893870000",
+      "1126873116",
+      "1126873651"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/JyotsnaCharandasMahant/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/jyotsnamahant"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "18/11/1953",
+  "eci_state": "Chhattisgarh",
+  "email": "jmkorba04[at]gmail[dot]com,jyotsna[dot]mahant[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1894386,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1685841,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1403260,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1412300,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 173790,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 740919,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 539877,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 490300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 421110,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1178350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 136000,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 136000,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 189700,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 181900,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 488320,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farming & Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Farming & Salary"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 44% of MPLADS local-area funds were spent — ₹8.71 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 87138833,
+        "utilisation_pct": 44
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Loan From Pallavi Chouksey Bhopal Personal Loan 5,00,000 5 Lacs+",
+        "value": 500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 500000
+  },
+  "margin_votes": 43283,
+  "minister": false,
+  "mp_name": "Smt. Jyotsna Charandas Mahant",
+  "mplads_allocated": 155153738,
+  "mplads_expenditure": 68014905,
+  "mplads_unspent": 87138833,
+  "mplads_utilisation_pct": 43.8,
+  "mplads_works_completed": 95,
+  "mplads_works_recommended": 288,
+  "mpsno": 5011,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Cong’s Mahant retains Korba seat in hard-fought battle",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVlkTjZtc0FXRUhKUGhFM2lGaWJRcks1Y1o4WWdVV1FkQjVUNHdYNGFNT2c4VHJ1enlCVGhHVnIzR0ZtZXE5ZnJ2V0owLWM1SG11ekdfRXU1RngxSUlxX2JkV1pZSm9jbk42SUtzT01MVXRycU1wVGxXWl9Yc09GeWQ0eldnejg0X2Q2X3czVnJJX0tEVjhDWDZJVDlVTnphRm9vTXM2dUwxWW5sOE53Yjd4WUZ6dEJqaDVuYWFIaGIzbnBvQjJ4TVVCMHkxam1tQjFuY9IB2gFBVV95cUxOYlJ2UHIwSDZzaDFsc0doWG5TbFl4c3ZvdXp2UjI1QkVGTDM3OU00MGg2YTRWVnFheVpLWVVubHNKYktwUXh2aU0tMmczZWR3Tkg5ZHRqRFpQRlZEZUNtdDlqaU9uVW0tRjdJMl82QU11Yk9HaUNtR2lubHNlMXJ3SzlMeVlodDAtRFhMbUt4XzhheGJUT01rdEVvOWNDRjJZXzZDT3NFX19rRDU1eGpWVFBUWmhLSGRVc2RxSG5sN3VablcxRXViS1lpU0E2S1psTlIwUm5jTkF0QQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ground Report",
+      "title": "Who is Jyotsna Charandas Mahant won elections in Hasdeo Protest region?",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPai0yRV9LN2taMUQ2RE5kcTA5bkdYbHBJX0RHdVlVTXM0eHJVWHZ6cnhQWGttemljSDU4Znp5V1BqZVk0Wm1TNnlPdDNtdDV4S2hYRzh5VFJtU1NQN2MyTlVFY2ZfOS0wMWhONnhwS2JBR21tS2NycUZ6WWoyWEU1WkFYWXp2czB4VWw5X0s5ejQ5bHNrZmlpOFJZdWpqSHRmc2oyT0hPTTRKUG82c1JVVEx5SkpPVkx1UWlMdERPMFI0ajlFS3B0WmdPVV9ndHc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Korba election results 2024 live updates: Congress' Jyotsna Charandas Mahant wins against BJP's Saroj Pan",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOeHg1V05qN2JnRWtMeC11bGJ6RUFRSEF2aUc2cVM0eG9DOUVlblJRQ29nZngzV0tYaExoTFFJVmt1ZHAzQWp3MUY2b3ZueUpxLUFuNnVjUnJEYTl0WFllX3g2RTJaUTJxOGRrQVRwQ2p5amNDWGFwTk5kVGRQYlgxSmZoY0NRWmd2eWxqUE82T1JNLVV6UXUtSkxjUFc0SnBVZXB1b05ldFl4R1doTTl2OGhESkFqODZ0QW50TGdlNHVWMDZmaVAwUS1BVE96MXhoR2FoNnFJU1p1WGVheGEtRVBwWWxBYkhGQzUzYjltMXRTMjFGMy1aUVMxNEdTUlZVaFUxekZYTmV3Sm9QTUtCWlpROW1VN29MTUtsaHlGS3B0Rm9HRnhES9IBrgJBVV95cUxPcWhMVkQ2Yko2RlhaMmxxXzFJN1d5X0tscXNnSTVCd0Jwb2kyUkZ0QTEzR1lYdHZyQ2Yta29qc2ZEc0c4c3hlaXJrenY2dW5YTkhPdks5SkoyVHk0TnpJaGJBME5LeUMwRU5vMW1kTHA3aGszdk9jOUNNdl9vOFpJM2xUM3ZSblBNaHo3MjFkd2NqcXhZZFI3X1Mtcmp2RVNxREhlaFo2M2RiVWx0UjdTTjkyOHFnOTZLNlIzNmpZUHR4a2JLX3k2N3VBMFJaMlRaNi1JVlcyWlY3dS0zQk5md3lJczRVMlRDU2ZSZkh2YWJvQTdXM1N4c2hqQThPWnFsUkpUeUlCVGJQSGJCTUVnOGtKZ19ac2o0STBpb3BvY09nR01nbFQ1NmIyS1NpQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Korba Lok Sabha Seat Result 2024 | Congress's Jyotsna Charandas Mahant Leading by 8,158 Votes",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWDlPOUQ3Y1UxWmEwM2NDMklBSmNfN3ZvenpudmpSWExCeExRNGh4SlpVYjFjbnlwUmhHakZYdzdEdHlFbFhLMENnblFnOERWR1d5REFUOVV3ZW95LVE4cnFGanlnUk1TYS1VN0VGRlo2Vy1QSlJBQ0J4aU1yVEVtV3gxNHBLMHBoTDZfRTlNZkljWHB2eTRnRkNSTVE1Ui1iQUVVUi1LdTk1eVRHMkU5el9TQXpwX3l4VEtYSU5tUkpBWlpsV1ptd0JDSmlPRDY3OENoWm9oZnZWenJYdlluRjhid05sMGhqNVNnYzR2UmRubWxyd0I4dkppZ1RmX3ZBdFpF0gGIAkFVX3lxTFA4NUpWNW1odlplc2g5NEhEbmUyUzhoVUhFVWtfaWF1dURtWFZGdjdsM3FXM1NkdldsR2xzb3RwMmg2NEhnM1dsTmtEX0VkT1dkWDU2MFVGVWY1RmRyRG5oYy1GNF82ak9MT1VoakoyRFhuTUtPZ3VwX0N0VU92aURnVjNUazdYcDc4SUxqWHhjWHJuNkxLM1VQbElHWU14cklpMk9jLTBETG1rd2ZVVUgtMmNGZHRROVBNWVQydEUtb0FELV81OW83ckM1bHoza2s4a1d3eWRWSnQzUEFaS1JyREEwbG92SEJDc0VjUDMwYVNlODMtZkVWNE54d2xmbFAtVy1lYzVDVw?oc=5"
+    },
+    {
+      "date": "2024-05-30T23:06:47.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Jyotsna Charandas Mahant , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFozbjNqNmhOaDREZVhVUU1qTXFNcG4tMVkzS21OLW5jN1BSLWtQcGhkaHlYblpaYlZETFNSMWF3Zk1NblhsWmRhMFpiVGliWVZsNzZnTTJheXNFWEg5SG55QlFXY1BEZXVxVUxSejBTMmExWDU5VEIzM0dfc19DbktVTldmVEdBQ1c1dWNaa2VLdzA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6097,
+  "notable_record": null,
+  "num_candidates": 27,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "chhattisgarh-4",
+  "pc_name": "KORBA",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 26873116, 26110595,09013997085 (M),Fax : (011) 26873651",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180087.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 87,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Appeal for Inquiry into Reduction of Seats and Education Irregularities in Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Immediate Removal or Scrapping of Defunct Aircraft Posing Safety Risks at Raipur Airport",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for CBI Inquiry into Financial Irregularities in Bharatmala Project in Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Expediting the Implementation of Pradhan Mantri Awas Yojana in Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Improvement of Healthcare Facilities at ESIC Hospital in Korba",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to minister to re-start the korba-gevra road passenger train and start pit line at korba",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.3,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 123,
+      "value": 74
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jyotsna-charandas-mahant"
+  },
+  "qualification": "Post Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 2,
+    "Health And Family Welfare": 3,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SAROJ PANDEY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 56,
+    "criminal_deduction": 0,
+    "legislative": 43,
+    "mplads": 74,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 179626733,
+  "total_liabilities": 500000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.53
+}

@@ -1,0 +1,1300 @@
+{
+  "accountability_score": 0,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 122884000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 20000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 55000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 75000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 272884000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 242800
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 8857320
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 36672041
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 64496xxxxx 5,00,000 5 Lacs+",
+        "value": 500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 211122242
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4900608
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 267295011
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Andhra Pradesh 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Z9tUX96n33pJpATVM9o",
+      "total_assets": 79609000,
+      "year": 2009
+    },
+    {
+      "label": "Telangana 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Z9tUX96n33pJpATVM9o",
+      "total_assets": 145103105,
+      "year": 2014
+    },
+    {
+      "label": "Telangana 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Z9tUX96n33pJpATVM9o",
+      "total_assets": 560325991,
+      "year": 2018
+    },
+    {
+      "label": "Telangana 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Z9tUX96n33pJpATVM9o",
+      "total_assets": 539428867,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5238",
+      "total_assets": 540178712,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 579,
+  "assets_latest": 540178712,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Etela Rajender is an Indian politician from Telangana serving as the Member of Parliament from Malkajgiri Lok Sabha constituency. He previously served as the first Finance Minister of Telangana from 2014 to 2018 and as the Health Minister of Telangana from 2019 to 2021. He is a member of Bharatiya Janata Party since 2021.",
+    "title": "Etela Rajender",
+    "url": "https://en.wikipedia.org/wiki/Etela_Rajender"
+  },
+  "charges_framed_count": 9,
+  "committees": null,
+  "contact": {
+    "address": "7-155/5, Pudur Medchal, Malkajigiri Medchal Telangana, 501401",
+    "emails": [
+      "rajendareatala@gmail.com",
+      "eatala.rajender@mpls.sansad.in"
+    ],
+    "phones": [
+      "8588866666",
+      "9849224411"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 5,
+  "criminal_cases": 45,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC No. 420/2014",
+        "charges_framed": true,
+        "court": "Honble Metropolitan Magistrate Court at Kazipet (Railway Court)",
+        "fir_no": null,
+        "other_acts": "Section 147 of Railway Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC No. 418/2014",
+        "charges_framed": true,
+        "court": "Honble Metropolitan Magistrate Court at Kazipet (Railway Court)",
+        "fir_no": null,
+        "other_acts": "Section 147, 145(b) of Railway Act",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC No. 226/2014",
+        "charges_framed": true,
+        "court": "Honble Metropolitan Magistrate Court at Kazipet (Railway Court)",
+        "fir_no": null,
+        "other_acts": "Section 147 and 174(a) of Railwary Act",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC No. 157/2012",
+        "charges_framed": true,
+        "court": "Honble IV Addl Chief Metropolitan Magistrate",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC No. 417/2009",
+        "charges_framed": true,
+        "court": "Honble Metropolitan Magistrate Court at Kazipet (Railway Court)",
+        "fir_no": null,
+        "other_acts": "Section 147 of Railway Act",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 45,
+    "ipc_summary": [
+      {
+        "count": 6,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Voluntarily causing hurt by dangerous weapons or means",
+        "section": "324"
+      },
+      {
+        "count": 2,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 2,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Undue influence at elections",
+        "section": "171C"
+      },
+      {
+        "count": 1,
+        "description": "Statements creating or promoting enmity, hatred or ill-will between classes",
+        "section": "505(2"
+      },
+      {
+        "count": 1,
+        "description": "False statement in connection with an election",
+        "section": "171G"
+      },
+      {
+        "count": 20,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 7,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 6,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 5,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 4,
+        "description": "Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+        "section": "109"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      },
+      {
+        "count": 2,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for house-trespass",
+        "section": "448"
+      },
+      {
+        "count": 1,
+        "description": "Negligent conduct with respect to fire or combustible matter",
+        "section": "285"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial First Class Magistrate",
+        "fir_no": "Cr. No. 226/2023, P.S. Medchal",
+        "other_acts": "Section 151 CR.P.C",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 123/2023, P.S. Saifabad",
+        "other_acts": "Section 151 CR.P.C",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 215/2017 Date 02-03-2013",
+        "charges_framed": true,
+        "court": "Honble Metropolitan Magistrate Court (Railway Court) Kazipet",
+        "fir_no": "Cr. No. 30/2013, Railway Police Kazipet of Warangal District T.S. , (Previously it war registered before P.S. Kamalapur vide Cr. No. 164/2011 and the same was transferred to railway police)",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "290",
+          "341",
+          "506",
+          "149"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 123/2022, P.S. Munugode",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "324",
+          "34"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "JMFC Huzurabad",
+        "fir_no": "Cr. No. 367/2021 P.S. Huzurabad",
+        "other_acts": "Section 67 of IT Act",
+        "sections": [
+          "171C",
+          "188"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 470/2022",
+        "charges_framed": false,
+        "court": "IInd Addl JMFC Huzurabad",
+        "fir_no": "Cr. No. 356/2021, P.S. Jammikunta",
+        "other_acts": "Section 51 BO of DMA Act",
+        "sections": [
+          "153",
+          "505(2)",
+          "188",
+          "34"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 132/2022",
+        "charges_framed": false,
+        "court": "1st Addl .JFCM Huzurabad",
+        "fir_no": "Cr. No. 317/2021, P.S. Huzurabad",
+        "other_acts": "Section 51(b) of DM Act 2005",
+        "sections": [
+          "188"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 241/2022",
+        "charges_framed": false,
+        "court": "Spl. JFCM Excise Court Hyderabad",
+        "fir_no": "Cr. No. 316/2021, P.S. Jammikunta",
+        "other_acts": "Section 51(b) of DM Act 2005",
+        "sections": [
+          "188"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 1140/2021",
+        "charges_framed": false,
+        "court": "1st Addl JFCM Huzurabad",
+        "fir_no": "Cr. No. 316/2021, P.S. Huzurabad",
+        "other_acts": "Section 51(b) of DM Act 2005",
+        "sections": [
+          "188"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 235/2022",
+        "charges_framed": false,
+        "court": "Spl. JFCM Excise Court Hyderabad",
+        "fir_no": "Cr. No. 315/2021, P.S. jammikunta",
+        "other_acts": "Section 51(b) of DM Act 2005",
+        "sections": [
+          "188"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 222/2021, P.S. Karimnagar III Town",
+        "other_acts": "Section 51(1) of DM Act 2005",
+        "sections": [
+          "341",
+          "188",
+          "290"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 240/2022",
+        "charges_framed": false,
+        "court": "JFCM Excise Court Hyderabad",
+        "fir_no": "Cr. No. 220/2021, P.S. Kamalapur",
+        "other_acts": "Section 126 OREURPA",
+        "sections": [
+          "188"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 238/2022",
+        "charges_framed": false,
+        "court": "Spl. JFCM Excise Court Hyderabad",
+        "fir_no": "Cr. No. 217/2021, P.S. Kamalapur",
+        "other_acts": "Section 126 OREURPA",
+        "sections": [
+          "188"
+        ],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 647/2023",
+        "charges_framed": false,
+        "court": "IV Addl JMFC Hanamkonda",
+        "fir_no": "Cr. No. 215/2021, P.S. Kamalapur",
+        "other_acts": "Section 51(b) DM Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 237/2022",
+        "charges_framed": false,
+        "court": "IV Addl JMFC Hanamkonda",
+        "fir_no": "Cr. No. 199/2021, P.S. kamalapur",
+        "other_acts": "Section 123(1) RPA",
+        "sections": [
+          "188",
+          "171G",
+          "504"
+        ],
+        "serial": 15,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 7753/2022",
+        "charges_framed": false,
+        "court": "IV Addl JMFC Hanamkonda",
+        "fir_no": "Cr. No. 198/2021 of P.S. Kamlapur",
+        "other_acts": "Section 51(1)(B) DM Act",
+        "sections": [
+          "188",
+          "341",
+          "34"
+        ],
+        "serial": 16,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 7087/2022",
+        "charges_framed": false,
+        "court": "IV Addl JMFC Hanamkonda",
+        "fir_no": "Cr. No. 79/2021, P.S. Kamalapur",
+        "other_acts": "Section 3(1) EDA, 51(1)(B) DM Act",
+        "sections": [
+          "188",
+          "285",
+          "34"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 1088/2021",
+        "charges_framed": false,
+        "court": "1st Addl. JFCM Huzurabad",
+        "fir_no": "Cr. No. 329/2020, P.S. Huzurabad",
+        "other_acts": "Section 51(b) of DM Act 2005",
+        "sections": [
+          "188"
+        ],
+        "serial": 18,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 300/2013, P.S. Saifabad",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 19,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 271/2013, P.S. Abid Road",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 20,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Executive Magistrate at Second Class",
+        "fir_no": "Cr. No. 102/2013, P.S. Subedari",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 21,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 290/2012, P.S. Panjagutta",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 22,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honble IInd Metropolitan Magistrate court at Kazipet (Railway Court)",
+        "fir_no": "Cr. No. 251/2012, Railway Police Mancheryal",
+        "other_acts": "Section 147 Railway Act",
+        "sections": [
+          "143",
+          "448",
+          "109",
+          "149"
+        ],
+        "serial": 23,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "VII MM Court, Nampally",
+        "fir_no": "Cr. No. 388/2011, P.S. Saifabad",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 24,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 164/2011, P.S. Kamalapur",
+        "other_acts": "Section 7 of Criminal Law Amendment Act 1932, Section 147, 150(A) Railway Act 1989",
+        "sections": [
+          "143",
+          "188",
+          "353",
+          "506",
+          "109"
+        ],
+        "serial": 25,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 134/2011, P.S. Thirumalgiri",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 26,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 130/2011, P.S. Saifabad",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 27,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "2nd Addl. JMFC Godavarikhani",
+        "fir_no": "Cr. No. 127/2011, P.S.Ramagundam",
+        "other_acts": "Section 7 of Criminal Law amendment Act Section 147, 151 fo Railways Act",
+        "sections": [
+          "143",
+          "188",
+          "506",
+          "109",
+          "149"
+        ],
+        "serial": 28,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "2nd Addl. JMFC Godavarikhani",
+        "fir_no": "Cr. No. 126/2011, P.S. Ramagundam",
+        "other_acts": "Section 7 of Criminal Law amendment Act Section 147, 151 fo Railways Act",
+        "sections": [
+          "143",
+          "188",
+          "506",
+          "109",
+          "149"
+        ],
+        "serial": 29,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "1st Addl, JMFC Huzurabad",
+        "fir_no": "Cr. No. 122/2011, P.S. Huzurabad",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 30,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl Judicial First Class Magistrate",
+        "fir_no": "Cr. No. 12/2011, P.S. Huzurabad",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 31,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 1355/2010, P.S. Banjarahills",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 32,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "IV addl MM Court Nampally",
+        "fir_no": "Cr. No. 264/2010, P.S. Osmania University",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 33,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honble Metropolitan Magistrate court (Railway Court Kazipet",
+        "fir_no": "Cr. No. 89/2010, Railway Police Kazipet of Warangal District T.S. (Previously) in waf registered before P.S. Kamalapur vide Cr. No. 169/2009 the same was transferred to railway police",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "290",
+          "341",
+          "506",
+          "149"
+        ],
+        "serial": 34,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honble Metropolitan Magistrate Court (Railway Court)",
+        "fir_no": "Cr. No. 79/2010, Date 28-05-2010, P.S. Mahabubabad Warangal District T.S.",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "332",
+          "307",
+          "149"
+        ],
+        "serial": 35,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 29/2010, P.S.Mahabooba Bad Town",
+        "other_acts": "Final Report Dt. 10-09-2020",
+        "sections": [
+          "147",
+          "148",
+          "307",
+          "332",
+          "149"
+        ],
+        "serial": 36,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl. Chief Metro Politian Magistrate",
+        "fir_no": "Cr. No. 343/2009, P.S. Osmania University",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 37,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Addl. District Metropolitan Magistrate",
+        "fir_no": "Cr. No. 268/2009, P.S. Karimnagar",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 38,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr. No. 169/2009, P.S. Kamalapur",
+        "other_acts": null,
+        "sections": [
+          "324",
+          "34",
+          "506",
+          "447"
+        ],
+        "serial": 39,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "1st Addl JMFC Karimnagar",
+        "fir_no": "Cr. No. 294/2008, P.S. Karimnagar",
+        "other_acts": "Section 151 Cr. P.C",
+        "sections": [],
+        "serial": 40,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "20/03/1964",
+  "eci_state": "Telangana",
+  "email": "rajendareatala[at]gmail[dot]com,eatala[dot]rajender[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1304710,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1216160,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2300000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2961860,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2298320,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 15030335,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 15266310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 21383310,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 16985610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 12135900,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rent, Agriculture and Honorarium"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business, Rental and Agriculture Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹46.06 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.01 Cr.",
+      "headline": "Declared assets rose 46× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 460569712,
+        "declared_income": 10081050,
+        "itr_years": 5,
+        "ratio": 46
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹7.96 Cr (2009) to ₹54.02 Cr (2024).",
+      "headline": "Declared assets grew 579% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 79609000,
+        "from_year": 2009,
+        "pct": 579,
+        "to": 540178712,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 8% of MPLADS local-area funds were spent — ₹22.60 Cr unspent.",
+      "headline": "92% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 226014349,
+        "utilisation_pct": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "9 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 9,
+        "convicted": 5,
+        "pending": 40
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 142932329
+      },
+      {
+        "category": "Loan received from others 2,35,07,192 2 Crore+",
+        "value": 61224884
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 204157216
+  },
+  "margin_votes": 391475,
+  "minister": false,
+  "mp_name": "Shri Eatala Rajender",
+  "mplads_allocated": 245000000,
+  "mplads_expenditure": 18985651,
+  "mplads_unspent": 226014349,
+  "mplads_utilisation_pct": 7.7,
+  "mplads_works_completed": 12,
+  "mplads_works_recommended": 219,
+  "mpsno": 5731,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-02-28T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telangana Today",
+      "title": "Eatala Rajender comes down heavily on Congress Govt for Velugumatla demolitions, demands rehabilitation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0pONFl4Ymh4WFUxMkRNQWd1VFB0cGNsMzRPLW5VN2JjRktZc2p2TmdaYlRDNnBVdkpIRThlaGhwTTFyUkRXSFpvZFkwWEtIcTFBRndWRzhrTzYzWHdZUDNLTVVseVBpcXZGUnpmWTNQWldudVZreXEtQUpSQXBFOEFFVGxvVEVpcFJVU3NpWS1LNzRpSUhnUFVRZWRMRkY1QnRPNTJGMXoyWkJKSDdFejlVRjFINGhKYmNYMUVETmpmLV9WbzZ5dA?oc=5"
+    },
+    {
+      "date": "2025-10-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rajiv Rahadari property owners seek Eatala Rajender’s intervention to reduce road width",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSVVhZW1TdmpseGpONnVoYzJ2VGV3QlZOZXc2eWFPUk9TbzEzR3VMck1KdWN3SWI3aXJHbzZ0RllBelQxdldXd1ZWV0stbmRWUk9ZZHBSSWp5U3NuVDNsRHBNOGY4eUYxVE5zcXBLTGVjWUFYQ2pNbEFaaDRTd0lEX2pTY2hXZjlnODUtV080UEprU3A1ZG53SU4yMHNRRWh4Ym04TXozdVZ4dzVLVFRJTmMwbFlBTlNCT1FfNVJfM3lsMHBGdC1TbEJqSi02OS1pU21scGp0SmlSeHlrQXdfVjVKTHpEb1la0gHvAUFVX3lxTE02b3JKZVhGWFRacGxZalU1bVY5SzhlcGZLTHlyX3ZtSUNuaWttRllHM2NudzE5eWlpQi1PcUd4RThyS3hZT1BfOFB3NUVVMWlzSi10NmZCRmZlR2VLSVVZcVRNTzlmVUtSUmRYY015MWRXdUdSeHpCTDVzRGhSWjRzckVTZDNOOWkxdGZMa3VkNUdTMUtMelBFWXFGTFd1anRWbnA4OUMxbTl4VXNlM3NESHltdEZvUkh5ZXN3Y3YwYXA4bW8tQUJBQW04T2c0OG5XeFBDcjZyVm9mV3lsNkxwWU5hZ1JFZFMxNzRIZVY4?oc=5"
+    },
+    {
+      "date": "2025-07-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'Prepared for straight fight, not a street fight': Eatala Rajender vs Bandi Sanjay; infighting roils Tela",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPY2JhbUk5OGVHSGt4a1ZCLVZjWjNsWk5yRGV3MTVQU0I1MGp5WkRZdFZkeG9zU0NPYmVuM1E1QTlDZzJDT0E1RGVFSV92SENiM1Q2XzdvV0R2U0ZLXzRuVW0tejNNT3NIOFViWUduSEN4SW5LbjRHdWxXcHZZTTNjSWVoUVZENDVGQnVHZ0JXZlYzTDdFWnRxeUx5LXROb3ZCWVhmc1VpNjVzcXFxRGtsa0JQVVFNdktxc3c5WjlKcUsxSmQwZDhxS1I3U2p6NlJTdHFNQ3V2NVlrelJlMndiWkd3eXZLN0ZkUzdmd21CWk03UUJhaDhfMVM1T2owamJjM3EzMkhMRXVjaGFFVlFkYWEwWGrSAZoCQVVfeXFMTnpidUNFNGlMRl9Ebi1Hb290LWpBMmhib3NVVHI0cFJpVzR6RVdDbTBDMDZTXzl2d2RPMG92Z0JSNlJPRVNPLXVkWTV1RXpubDR2alBUYlBZUmtGX0JmQ20wSHlWX1pOY1VRb3VuUmxIekdiT0Nyanh2MlVQOW9xUXlfdXdidHhVYWFOMndaTWlEaE5oVmxJMWxTOWlEZFIxclBKOVNGMDYzUk00S09IUTg0a0Y3bEswQVU2M3ZsYzI1X21XWGRQOHVQN0txYmZlVU9FdmdzX3VnQnAtTFhPcTVsU2wwSEVVMmdRXzlVeU15S2tNS0JLb1dLb1Q2TXR6Nk1xTEJXbmdOOVFmM2lZemI0MWpvYVZFMFBn?oc=5"
+    },
+    {
+      "date": "2025-06-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Telangana BJP president poll to be held on July 1, several in fray; Eatala Rajender & N Ramachander Rao a",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbl9BT0kwOE5WOGpKaEVNVUlhWGllM2hqNG9PMEFxUFBDbDZLaUduSkpkWVdkcjdiRUhuXzRYZ2paSEEwRUx6Y2lNS0hDNUZZX3VCUk45S1kyVlJCbjlObFl5eVBZMnlWR0MtNkYybldLaHk3emhXYTRud2c0T0hKYXlmWEpqZkJwTXcwY2I0dUs0LWtzTUxxMXBCWmlERUtEZE9yRUQxNHFNeTRlOHdpc05lTVVmOEgwZ2ZNRG1OZVQ0UFRJUmNyaTJveUF5c3EyZnoyMWNjRFh6U19Ta2JfOXIxRmFVdTUwaWxzb2NSS2xvSkdSTF96cVlveXdTQTRMek9ITkQ3SjQ3MG5VRE4wQkRWbjdwc2w1MmFPNXBXb1pGbUdq0gGqAkFVX3lxTE1PRmd5b1ZGWjRab1ZWOFlCZGFGNGFwXzhjVldlQTVuZDNOY3ZldXRlQ2h6Nnoycmo4TGNvSzBpakRxYjczMkNLc3p5dm15Z1RiMVNHTzdVbTJ1VDdrMllsZDhIell0SFhGOTRfWGkwY3VvUjRCMWdKQjVXb05fejIwN3lSeTVtRlZvWVgyd1NnUkRLS1hUdDRiYlRZSFVVQjZQY1VoSmRCSVFTZnN5eUZZaW9keHdEODdSc0ZGckUzSllSSF9Fbllxbjk2Z3hudnZnNFl5XzJkVnpYekF1OFlMTXBDcUQwQjRQb09HVTJ0MGRsdllGNHdSeml0YjJQZDFnXzdCb1lhV1ZPTUdEY0hDTXM3Uk1ZeWJZS1p1cEpMM1UxcnA0eUJpTEE?oc=5"
+    },
+    {
+      "date": "2025-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Phones of hundreds of people tapped during Huzurabad byelection: BJP MP Eatala Rajender",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTNyNWhpSHBuc1htcFVXOWFaYXdRbDRLaktFcmxzck9iZVVHYW4wTHE3Rm9nZ3RCZEp1VDBtQ1hscnh1eTNNVWdtek10a2g3a2tYcDRQSGt6Y1NOaEk2MDdQVUZJT2VrY3ZJc2xNa1JFUjIwOEdMbWJ5VV9fVGxpUDI5NkpVeUxwTTlxamY1cGtrTnExaTNYaFdPQmlBWUlaMG9nbHNMVGNkeXF5TXA2WjgwZ0x6WTlLWnhRdm5mdG1BYXJxdk9yMDI2dEtJTXdsTXF6Qk5Ya0l3YUVPTlF3V1Bn0gHvAUFVX3lxTE9BZ0JOSHFiV2x5a2V4bkhLWTdxbUdCQ25pdEdrTEJYWUVwTkloRmRUV1ZWa1BzelJYcWR1ZDRSSV9YT2JDRWVtTVN5MFIxRFlaMV9XNVpUS3hOd1BmSXZzVGxZbTZjbHhNQzUxMmFudHd6bnptbzRiNmh0aDVOWVZBZ1llUW45ZGhlWVZjTUNnU3lFY1BsVUZObVhnMzRfUk1ibW1ieFA2X0pSMnlrS1pQQ19JaDlpSTdtSDIyNFFZdWlHQVdua2c5T000aWNCSm1ibnNjaURKcjBXRy0xR3c2dlE3UVZ2UktYdWFFdy1z?oc=5"
+    }
+  ],
+  "non_serious_cases": 40,
+  "nota_gt_margin": false,
+  "nota_votes": 13366,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "telangana-7",
+  "pc_name": "Malkajgiri",
+  "pending_cases": 40,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180403.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 82
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Demand for sports facilities under Khelo India Scheme in Ramanthapur and Medchal Polytechnic Colleges",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need for expansion of the Pradhan Mantri Jan Aushadhi Yojana and ensure its effective and uniform implementation all over the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to accord permission to provide public accessibility to Defence lands in Malkajgiri Parliamentary Constituency in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Revival and Support of Closed Industries in Hyderabad to Protect Employment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need for establishment of a national skill centre for Southern India in Malikajgiri Parliamentary constituency in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Closure and Remediation of Hyderabad Dumping Yard to Protect Public Health",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need for flyover at Turkayamjal stretch on Nagarjuna Sagar road in Telangana alongwith conversion of Balanagar to Gandhi Maisamma X road stretch and Rajiv Rahadhari road in the State to National Highways",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to provide rail connectivity to Medaram village in Mulugu district, Telangana and interlink it with nearest railway junctions",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need for an elevated flyover in place of underpass proposed between Chinthalkunta Check post and Auto Nagar on NH-65 connecting Hyderabad and Vijayawada",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need for customs duty and Tax exemption on machines and medicines used for treatment of Kidney disease",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding closure of Indian Drugs and Pharmaceuticals Limited (IDPL) in Hyderabad",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for compassionate appointment for dead sanitation workers of Malkajgiri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding extension of proposed metro rail corridor between Secunderbad and Medchal in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 164
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/eatala-rajender"
+  },
+  "qualification": "Graduate",
+  "questions": 34,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Education": 2,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 3,
+    "Micro, Small And Medium Enterprises": 2,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Science And Technology": 1,
+    "Steel": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PATNAM SUNEETHA MAHENDER REDDY",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 38,
+    "criminal_deduction": 40,
+    "legislative": 54,
+    "mplads": 13,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 4
+  },
+  "serious_cases": 5,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 540178712,
+  "total_liabilities": 204157216,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.25
+}

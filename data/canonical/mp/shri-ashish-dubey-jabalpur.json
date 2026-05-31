@@ -1,0 +1,486 @@
+{
+  "accountability_score": 29,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 257507492
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 20609200
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 60000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 338116692,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1240652
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3741706
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1050376
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 484707
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2900000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4088290
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3879500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 502295
+      }
+    ],
+    "movable_total": 17887526
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=240",
+      "total_assets": 351856860,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 351856860,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ashish Dubey is an Indian politician.He was elected to the Lok Sabha, lower house of the Parliament of India from Jabalpur, Madhya Pradesh in the 2024 Indian general election as member of the Bharatiya Janata Party.",
+    "title": "Ashish Dubey",
+    "url": "https://en.wikipedia.org/wiki/Ashish_Dubey"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "2469, Wright Town Jabalpur Jabalpur Madhya Pradesh, 482002",
+    "emails": [
+      "aashish1970@gmail.com",
+      "ashishdubey.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425125737"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "15/09/1970",
+  "eci_state": "Madhya Pradesh",
+  "email": "aashish1970[at]gmail[dot]com,ashishdubey[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1325775,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1618978,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1086059,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1801920,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1430996,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1067246,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 995336,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 595960,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1276784,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 738201,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "AgricultureIncome, Dividend Income,Interest Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.86 Cr unspent.",
+      "headline": "88% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128554158,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 13529284
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 0
+      }
+    ],
+    "total": 13529284
+  },
+  "margin_votes": 486674,
+  "minister": false,
+  "mp_name": "Shri Ashish Dubey",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18445842,
+  "mplads_unspent": 128554158,
+  "mplads_utilisation_pct": 12.5,
+  "mplads_works_completed": 15,
+  "mplads_works_recommended": 195,
+  "mpsno": 5699,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-04-22T12:38:15.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Ashish Dubey , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXNWX2FyQThiWUFFQmhjd0NEQjVxdlUwcEk2OTBfUE9XVTdyZVJlWHVwOE9ITkQwUzlxdTQxT2x2bk5ETkdiSGNhZ3dfVlZMdmVWM1hWZmw2a29oWWdFbjlJMTl3UzVwTU9GUDRwTXRCMkd6VXNBZHdiNEd0allWTFNB?oc=5"
+    },
+    {
+      "date": "2025-02-12T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehitavada.com",
+      "title": "MP Ashish Dubey urges Union Sports Minister to build intl stadium in city",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEVnWkpJeVB6cDNUVlExQV8ybVZud1RBSnp1eWxwSWVPQWE3NV83azVIR2U4MTIyOHBFZmhpbWZ4T2RJN0pqQzdWckxmcFZHZXNrMUNLcnp5d0dnVGk2VmJFQTBackNyaWFmenc4QXhMVVV4UW03UFJIU2w4ZzhlQWF5VFBfY2oxX0pmTEVIa0JmdmF5VEdsSnd1VkUyMk1NTi1KTkZ6Ykpzc0pFZTY2bTR1R3RTRThBNmkxQzFSRdIBxAFBVV95cUxQaHBTeUdQVzRHZ0t1b0lES3JlT2U4c1BMTGhZVlA4UlppbE9KMVhyV1c5OXRMNTMtNWZYTjhQQWF3THFRaWVQRHo5THJpZ0hUQkZ6TE0wNGJEaW1uY0IweHJVNTNZSUl1eVg4WUZlODdMR0ZKcU1lcmlhV0FXSFRiNjJFQ3Bic05QdTR6WFRPQ3owSjFuMWlxLTNCWnNvNnFSQjB5MVBVa2VvWE51QlpDMjIwakNveTB1TXR0OC0zVWtReUUt?oc=5"
+    },
+    {
+      "date": "2024-11-24T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehitavada.com",
+      "title": "MP Dubey examines progress of Ring Road with senior officials of NHAI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN29PbEc0SlM0emxsS0M1SmduNjJ0a1FZWTlmT3c4THZwQU1xT0QzSjU4RkxveGJTWlJGSERUVjR4MTBmT3VHYTFENDJDUkNpYWZ6Q2FzWm9VTjc2SzgwSXdoWTYxR0szb3dQNTB5LTVtQUVpU3REZm9femdSVVhuQ1NIRGJIWE9ZM3ZQeHFXdTR4Ynh1VUgwbDJPelhuVXNjU0xqd0tOeG5ScjZMMV9GWjFtUVZkbWhGUEo00gHAAUFVX3lxTFBvOWxCaE1sX1J5Qy1fZW1yakt1NFZYYm01Y1hEcDdlNEFSaFdPZW1MSTZOS3Z6cFBLQWdOX0llTnA0ZFpucEFXWU1QZ2ZhVTlFTmRhcE9KY1VaZWEwYXBFZGFza1hSWll1X3hlNzFVWGhwYjAyYU9HRzIwYlBzSjNDWHM2OS1pNTRXTmhES1dXdWw0SzIzaE5VODFxcm1kcFZlQnZTV0g4Mk0waWNXQllmV2tYZ3N1NDhjaWt2WG5wZA?oc=5"
+    },
+    {
+      "date": "2024-07-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehitavada.com",
+      "title": "P&T Factory land issue Cong corporators demand MP Dubey’s intervention",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QNF96alhRWDY3eVA0Q21TdzBXZGV3d3NLbmZHRmR0X1Q0OV9vbGVCQWxsbF9mQUZzZjllZTl6eHpkRkxVMGhVaFhiT3NwV1BtVEpTZUo1cHcxUmI1QUQ2d0pZckstLU5GU3NLYzl5U0FWVU5WUjZwZ1Nnc9IBgAFBVV95cUxOT1FyQ0V5dllOTDFJbVZ6ZllNaHVPX3k5X0loSU1PNkNJa0lYX3hRWnQ5SVdPS1pZVmR2Y3NPdmVYbjBkZ1VYaTVpMjJsMlhNYmxMNF84SmFEQmdaNl91NFdZSG9WUnhxNTlINEJNNDBzbXJPZzgwNTNCY05tRGlyNg?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jabalpur election results 2024 live updates: BJP's Ashish Dubey wins",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWTBYRDBra09iRnlmU042a2tTczJQOTAzWlFPUFM4SFZGbEwzMFFJVXJSUm85N1pNNjhxYVdndExEY0NUcjJ0dkRfcEctRWI2UFdKRjBwQVRTWXpBT05XQUl1ZmFJTUpHVFBzbG5kQndfem9QY2FPVE9yZlRCNURST1lHekJEQzRoTXFpa2xOV2ozdFdfQTBhbEUwZVVlUVZWZ083R1B6S3hTNGIzZEVONnNOOXlSZlI4XzB3aktCbC1Dc3ZWNHRKNmdUSF94SlNoMjA0ODBBQ1B6YTVXZWRCbHR0UEw0ZmhJVjdMQW1HbktQaVJCOWVXRXJXVlRGNzE5bG4tV1BjZlY0Z2ViZzRnek9wOW1IMDFsVDFsdEJlVDE1alNkTm9hRERkYUxXcHNhdWQtczA2eVVkYkhTNElnZzByenF0V0nSAcwCQVVfeXFMTWt4aS16QUdIME54WnFqU2RrN21remlpTWZWQnlJYnRhYTJFZzFRWXZrUlBITW4wRE5TR1Z6YW50WDAyaVN1ZHFlcDlaWW9Uby12a200c0xoMmZGeWtla01fak44VkJvbTVkRUNCUFF1bGpkVDRjaEppb3ZYTkwyV252WHEwcnVEb1F6N0JHM2xia0h4c3ZUcVRUNlYtbVAzMHhISlFmVGd2OUdBS3AxQUZLS2YyenI4T1l5WjQ5M2JYN3oyTm1DSkNzY1YtR1QtWGNKRkd1YjlxVmJKYXlPTkYya0JyM3FUYVRwcGd5enFiMmNRVENzQXhmMkp1dk9fNV9tYlpoZ1RhREQ4MlUteldGU3pfQkg5bjE4M3VLbXBWVlY3Ql9qUlpmRkl0b053c0UxMmVLcVl4NG41aHRkQ2RsOWJETEJyR01SOVE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4986,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-13",
+  "pc_name": "JABALPUR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180218.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Establishment of Pea Procurement Centre and Dairy Processing Unit in Jabalpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to establish a Science city in Jabalpur, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to introduce 'Bharat Gaurav Paryatan Rail' connecting the sacred rivers Ganga, Narmada, Krishna and Godavari",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to develop �Energy Self Reliant� Villages in Jabalpur Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Establishment of a Defense Cluster in Jabalpur for Industrial and Employment Development",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to promote MICE tourism in Jabalpur, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to introduce Metro Rail Service in Jabalpur City, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to restart cruise ship service from Bargi dam to Mandla in Jabalpur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of an International Standard Cricket Stadium in Jabalpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to establish a Railway Museum in Jabalpur, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to sanction funds for development of Jabalpur as a Smart city",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to set up �Safal� Store for sale and storage of Green Peas in Jabalpur Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to establish a National Zoological Park in Jabalpur Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister doubling the rail line of jabalpur-gondia",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 58
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ashish-dubey"
+  },
+  "qualification": "Post Graduate",
+  "questions": 5,
+  "questions_by_ministry": {
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Railways": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DINESH YADAV",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 29,
+    "criminal_deduction": 0,
+    "legislative": 35,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 351856860,
+  "total_liabilities": 13529284,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 68.2
+}

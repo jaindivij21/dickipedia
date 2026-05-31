@@ -1,0 +1,351 @@
+{
+  "accountability_score": 42,
+  "age": 58,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 94271000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 42225000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 13802266
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 150298266,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 657780
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 63932147
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 600000
+      },
+      {
+        "category": "SBI Insurnace Policy No. 1K58001506, Yearly Premium of Rs. 49000 2,94,000 2 Lacs",
+        "value": 5519028
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2361140
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 629000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 3866200
+      }
+    ],
+    "movable_total": 77565295
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1924",
+      "total_assets": 227863561,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 227863561,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Amarsing Tisso is an Indian politician who was elected to the Lok Sabha from Diphu Lok Sabha constituency in the 2024 Indian general elections. He is a member of the Bharatiya Janata Party.",
+    "title": "Amarsing Tisso",
+    "url": "https://en.wikipedia.org/wiki/Amarsing_Tisso"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Longnit bazar house no 60A PO and PS Manja Dist karbi Anglong Diphu Assam, 782461",
+    "emails": [
+      "amarsingtisso7@gmail.com",
+      "amar.sing@mpls.sansad.in"
+    ],
+    "phones": [
+      "8822388210",
+      "9810656485",
+      "1123311504"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "14/03/1968",
+  "eci_state": "Assam",
+  "email": "amarsingtisso7[at]gmail[dot]com,amar[dot]sing[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Agricultural Incme, bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Agricultural Income, Bank Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 41% of MPLADS local-area funds were spent — ₹8.65 Cr unspent.",
+      "headline": "59% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 86483934,
+        "utilisation_pct": 41
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 54075091
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 54075091
+  },
+  "margin_votes": 147603,
+  "minister": false,
+  "mp_name": "Shri Amarsing Tisso",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 60516066,
+  "mplads_unspent": 86483934,
+  "mplads_utilisation_pct": 41.2,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 94,
+  "mpsno": 5658,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "MP Tisso slams absence of senior officials at Amrit Bharat train flag-off in Diphu",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFJpR3NSREJOOFNrYU52aTVhSWF4dG9IMVJrSXNBT2Y4R09rajY4aWozQjVDSlF1RU9CdUpWX1U0VExiWG15cGZ6RzV3OGZOZnJhcW5xdHdSd3lybVpqdmtyd0h0M0dVNTB6RFN0RTRrLUpJR04wM1poVnJWaUJNSE5CYVZwbUw2OFpvS1N4UVBwcGVoNmRNN2t3dGRqSnlfeUR6YmlTZ3VqYUxzUm1NLUd1ZWZqbWhlblIxWlU1c3JNd1FNZkNYejRic2NtaGxPdVdCTFUtUTjSAd4BQVVfeXFMTTZMMndMdWNHbWNiWnBrMXRMOFFXU3hSOC1SSElPV0Z6NmlkWDFzNlM3N0tIMmUtWFBHaE5CbGt0elNneXMwdmpXNU5hRDYxbk9zN2ViX0JGYU12SzJrT2pYR05jVjgydW5iYkp2RGo4Sjk1cmhEaS1uMWxpNS1ydldmOExQMjd1WnBCUks4bU03bWtYSTRxYkVpbFBVNDlzSzBsZ2h0MlNjTEFDSm0tc3JfRVhDOUZtNE0yTFl0WFJvYTlGWGd5YzdSVFh3eDFHNkRTb0dibFFYMkRFXzN3?oc=5"
+    },
+    {
+      "date": "2025-02-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "MP Amarsing Tisso Advocates For Autonomous State Status For Assam's Hill Districts",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjhqVW5MR0RLbFI3bUZ5VERDYVBmLV8xRlU4QWQzWmxuX3ZJRUFacjREb3VyanZXcEc0Ymg4Q1NxSlc4YjJLZXBEYnRXQnRTWHRoZDBfUUtSWFVBT2RrRE5sZmdlZ2hReTRXSGxfcFN2bkFLYklDYWRsQmNjejhaQURrcjFQM0E3V254c241NnNlUzE1enR3UWxfRFllSlFWRE5vOFphNmc1MzZpT1hVSS02LVlGS1NWN3ZsSm9GQTEtZ0dLYlNydWJyYVNqTnl2NElQSDQ2eFBEd0pV0gHqAUFVX3lxTE5UcnVVZ25rNzdSQW55QVhlTG5FOW1HQnpxQVp4Nk9xeFlxQ2FUenNpMEVDTThsZHdyUldjcTVET0thb0p1Mmp3NFIwbHp3cGNxNU9sdy1kZEwtWEZjU1diTE41ZDdTd3hWeGpQcXNjeW9hT1gyREVoVUVGbDhEXzJxcHA2ZkUyMlRtREplLWxWaFpiVVQzeWRveTZXallockVRcGpfV1FDTno5dkxXVnJ6ekcyR2VMRHBwcVJmSHJfVDBDc2Rub1JmWjJ0dXJHS3AyWGNuNmtvSTZIcmhwbFhSaTUtWVoySmJtQQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Diphu election results 2024 live updates: BJP's Amarsing Tisso wins",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMDF4TkwtX3l6UWVDeF9kaTAweG83bjgzSUdjYXBaZXVBQUNodFF2OXBqYkpXeFRKaGdyM3M3TXd0OC1ZajlLMDZvU0NQelV1d2FrMnZyWVpFU0VNY2k5Y1o1NmVCd2o0NW5SUDlhZ3ZxYWNsNzlyS3NWNkJrQVY2THBHTUI5WTBDampQNHhWMXhqbGZSeUl6SkRHY2FWSkVWV1dVLW5aU0pNbm9nVTE3MGV0SGN1YU5VenFiX2hPZS1XQ1VQeVBJSlk5RkdnOHFFaHExa0pWZWctTW96ZmFRWmt0eExYcTBtOFd0MENhQUVZVklJWndmYVFfUS1VNWtZSlI0NFhQWUNDMmpmS3lwRUV5bzhBTEd1WnZybXhVa1hoZjVrdFHSAasCQVVfeXFMT0pOTTNPRWxiUmN4QjhFUW1ZWTUtbWtLMFVpeFE5U1MtbkNyQXhsWEtsTU9VZDJFM2xSYkw5MENWUjZ0VkgxOURpejEtSGZfRTE0R3JPTDloWHlSek1rNF9DY0p5c1U0a3J5NG4wWmNXTlNQd3dHb3hKOV8tUlQ1a3dwSEVoT2s4Y2c1QzFkZ0lkU2JiY0poNGhDV1dDMlQ3S01ENVFUMndteHlNaFIxSEFsRDE4MGFqZUs1VjRmelU2Y2k1M3oyM0ZSSTFJcFp3b0RnYzU2Y0xfTGxNLVY5TzRJVzJxWngyd0xUYmFNS1V3Ri1uX3RiUUJ1Y0VlZmxaTnlOZ3p2b1dFdW1veDUzSGl0a0hYSjN2VmctZDZiS3Jrc2VfUFQ3SnRycFU?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "newslivetv.com",
+      "title": "Lok Sabha Poll 2024 Results: BJP’s Diphu candidate Amarsing Tisso wins Diphu seat",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanN2eXpzSEl6NzFCTGcwc1U0NW5aTDRoalExVmFfS1hTZ0I0OUJEd0JVU1ZCa3h0WnJkYzRBTzFibjV1YUlBWmVGcWt6Z3NXT2J1RlJrZ0VvOXdzV215NjNyNzNQMWlzQmU3UU5fYkJVeXZrbkhIc2lHUFBCWTdFOEx0QjFDRWdqSTUwUF9VZ1ZxeDN0SzU3NmFtWnNENThOM3VGTy1n?oc=5"
+    },
+    {
+      "date": "2024-06-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Amarsingh Tisso In Diphu Constituency On BJP Ticket",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVNSclE0S3hneFVwRUVEVlU1bHFHYVR1OG5URktuY2pOU0t6a3FqWkR0eEVENnBoUEU2ZWY4alRXcjVkYWlpSUtZb3dyUjhZLWM4ZnlHUU5SVmV5UzJ3Q1d6NnU3X21tRkNFRlVPWl9oQWpTbi1ycW9yajExOF80LW4yZkhXNWpBVzlzWTBaNUFMbHM4RXVMU0JDOHFWaDl3ck1R?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 16259,
+  "notable_record": null,
+  "num_candidates": 5,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "assam-6",
+  "pc_name": "Diphu",
+  "pending_cases": 0,
+  "phone": "011 23311504,",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180029.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.4,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 62
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/amarsing-tisso"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 14,
+  "questions_by_ministry": {
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "New And Renewable Energy": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 4,
+    "Women And Child Development": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "J. I. KATHAR",
+  "runner_up_party": "IND",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 0,
+    "legislative": 36,
+    "mplads": 52,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 227863561,
+  "total_liabilities": 54075091,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.01
+}

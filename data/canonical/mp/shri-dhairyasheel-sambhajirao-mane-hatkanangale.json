@@ -1,0 +1,523 @@
+{
+  "accountability_score": 45,
+  "age": 46,
+  "assets_2019": 47771462,
+  "assets_2024": 45131759,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 13651000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2450000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 19700000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 35801000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 122000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5794049
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1070000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2344710
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 9330759
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=4g5RwaFK3rxJM9WMWom",
+      "total_assets": 47771462,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3537",
+      "total_assets": 45131759,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": -6,
+  "assets_latest": 45131759,
+  "attendance_pct": 65,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dhairyasheel Sambhajirao Mane is an Indian politician. He is elected to the Lok Sabha, lower house of the Parliament of India from Hatkanangale, Maharashtra in the 2019 Indian general election as a member of the Shiv Sena.",
+    "title": "Dhairyasheel Sambhajirao Mane",
+    "url": "https://en.wikipedia.org/wiki/Dhairyasheel_Sambhajirao_Mane"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Ashirwad Villa 157 Ruikar Colony Kolhapur Maharashtra, 416003",
+    "emails": [
+      "dhairyasheelmane@gmail.com",
+      "mp.dsmane@mpls.sansad.in"
+    ],
+    "phones": [
+      "2312656158",
+      "1123311421",
+      "9717525172"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://m.facebook.com/dhairyasheelmane"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/mpdhairyasheel"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/dhairyasheelmane"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "23/12/1980",
+  "eci_state": "Maharashtra",
+  "email": "dhairyasheelmane[at]gmail[dot]com\r\nmp[dot]dsmane[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1069640,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1067400,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 798210,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1037559,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 792510,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 287790,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agricultural and Remuneration"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agricultural"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹14.05 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 140480794,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 11975671
+      }
+    ],
+    "total": 21975671
+  },
+  "margin_votes": 13426,
+  "minister": false,
+  "mp_name": "Shri Dhairyasheel Sambhajirao Mane",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 6519206,
+  "mplads_unspent": 140480794,
+  "mplads_utilisation_pct": 4.4,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 13,
+  "mpsno": 5187,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-07-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Maharashtra: Dhairyasheel Mane appointed deputy leader of Shiv Sena parliamentary party in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkhyM1FKSnVrNXRGUVZiWVE1ejU5TEFmTHZ6T2REM2F5blhBVldpdmdiNFZlT2VCdXJienpWN3ZvMjBZSFl1VllPMFAxV3A1ZWlSMWQwSFRyeUt3c0VsdFN5Z2JRSjhkeWg1SG9oOUs3ZkgyNmJhcjFvSFktWUx4aDBNTjlLOEoyYU52ZWVWcUtBbG92ZkxsVmI1VVM2dnE3OFZNRDg4QkgwanlUalhSUUJFay1RTHFaUEZwbjBLWDJSSl8tamhBRDRPV0c5U3ZiUE9Vc1BkSUxGV0w5bnVfTHBNMVBQdmdkeFRYMk1zS05tenNpcFpoZnZha3JaZzh6eE9QbS1SQVRhcm1LRDVCb2JORkItNnlh0gGeAkFVX3lxTE1HZUdHX1dQZUJrbTZqWEVIVVBITjRPR1VNUFk5RkZ2aDczYXBGb3NMVzh5TGx5ZWIzT1pWSl9UbzFpU25iNS1IV085MU9UY0l4dDNhdUJ6N1JQQkNlZVVvdEstV0RiUnYycGVIdzVtVmQ1N3I1MXBGZThid09jZVdFR25kQlJPci1kazZ4a2J1dWUtVWg3eTdGYWNoUm80YWgyMlgyaFNtOEYtTU9wMGxfRS1pcms5SzBPTm9qbEpnNGlpZ0ZIMm16OUlNUTIzVUczR29TeFRMajJHaTZ5NTc1Yks3RGlXNkZIYTJfdXFDdmpnNUVHM3BxUWlnbzB0Si1FNy1JLW5mUUY2bmktX0lYcVVkcnhKUFdHVGZvUWc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Hatkanangle election results 2024 live updates: Dhairyasheel Sambhajirao Mane of Shiv Sena wins",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMUNKbGktcGR0cThUYm9wZFd5QXpJaWRWakszd2xydHlQOEVpOEx3d01YSUotbjVDd0l0d1R4Wk5JcjFIeUgtMW44cG1xczVQN0pCbGxpNmlOY3Y1dVRtYmYzQ0lfS1ZmZmgxMmpoQXZtbVlzNmxSZEtMQXJpUE9aa2hUajFhMm1vVFBWaTF4eThfeU1BSlRxMmkxX2pHSmtxa0NMZDEyaFo3UVF5bHZpVFhNOEMwcVJyelZiZEZ3eHJ3M0V6N1laaXJmRm1nNngwVUM4elhMUlFZRUd4Ym1lX2pQT1dnaWl6NUlvN2NWRG9vWGRqTkNYZDZPNHAxcG5HVkd2NWI3cXk2MnVpaEpPSDIxWThjdTjSAZwCQVVfeXFMTzZZYUR1bUFoeFRKQVZydUdCRjIyV29lMUFoanJ0c2dBemxHSnZDODRleVFZdDhTc25qdjFjUmF5MTNLSlctd1l4eUZlcVNVTHl3ZVhXQVBzNkJOMHMtSnpXZHpDMGF4b2JvdXZ3RXdkTy1zUE9ndHRIZUxKQXpyRDdCaWxZWF9Td0MwYnZjdFNPRG1xUkJ0RHV5Sl85YXZsQk5FbG94bFVmR252cDl3ajlmNlF4YzJmcXplQ29LNU5yOHB1VV9LdXBTZ0xNazJURzR3WUx0aDdTNDlvRVNzYjFsLTg5Y29WcWI1VUhfX1p2cm05d01MdDhNNjhzUm9PMFlJdjB6MmhlVVhlVTJzYW40TVdzcGpyd1Rsd0o?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Hatkanangle Election Result 2024 LIVE Updates: Shiv Sena's Dhairyasheel Sambhajirao Mane Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU81eDZvTVk0cjFvZUF4ZkE2cUtZd19ocVdfNHNoSFZfNTUzYzBKMnBXVTFoaFFFR013cl9YV3lhcjZGSVBEQWJCQW1hd0s3V093dHhUbkZWeTdsUVktdEVaOGJQNkNVbHFFcEdwWlB5U3A4TWZOalZiR1d0VVNlSS1sYlFxak5rTlRoaUdUM0VCUFdJQjdRSjJFVHJlY1dZenY2UEJoaVQweDdITmMzbEd4UUNHMjh2MTNSUWo1TkY5NGlpWlVSbDNpcUVIc0FsOXBTT3NxeHNsNnpTREdWSXppOThYZG_SAewBQVVfeXFMTnFLRDVWM1hRZkFPNlZVTmRfQlFDNTFDLThfa25HWGc1ZXYtMkNfRWNhUFM2alFQbl9MSk5YRjhROUFISGM0dzBsb1FCODBXUmJRZUVxSFJla1ZrRjlsVVhtYlFLRFZaOEZDS1lZVGl4eE9VWGRzSHczcWZQcEV4cWJ4SnBDakg4eEdpNmtRT1N1SVBGdml6MnlBOUxNVHlPMDNMVy15em0tLTU1TEFmMVhpNXVoc0x3WmdpY2tiNENXeGpsek94OFNwUzhmQVkwTzZ1azg3YXVyczZ6S0J0bW1TLV9tdkxCTXZmeDQ?oc=5"
+    },
+    {
+      "date": "2024-06-03T21:52:29.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dhairyasheel Sambhajirao Mane",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbC14MG5XVnVJYWxCdk45bEk0a0Z0Vk5ETFhEXzRYNzdTVHdTME1aSmdXSlpvbHNXTDhSaTZHcTlzeDNDYTdPYWRmdzFrOWZ2QmQ4TXhhQ3RqYmFvMFl3TTlsQ2ZSejJQWUVSLVVOanNCWWxZcVpURVdRT0UxQWZhZDJQXzZMTnVaWnR4dEx4RzUzc1BkNUprLXlR?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5103,
+  "notable_record": null,
+  "num_candidates": 27,
+  "party": "SHS",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena",
+  "pc_id": "maharashtra-48",
+  "pc_name": "Hatkanangale",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23311421, 9717525172",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180259.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 75
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Issue Related to Delay in Implementation of Jal Jeevan Mission and Drinking Water Supply",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Issue related to Growing Threats from Wild Animals in Chandoli and the Need for Effective Measures to Protect Citizens and Children",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand to provide equal LPG booking facility for rural and urban areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding problems faced by textile sector in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Intervention to Protect Teachers from Mandatory TET and Ensure Fair Recruitment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Investigation into Misuse of Subsidized Urea and Its Impact on Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Action on Mismanagement and Exploitative Practices of Torrent Power Company in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Strict Regulation and Censorship on Social Media, Broadcast, and OTT Platforms",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt take an appropriate steps so that discipline and control can be established in the field of online gaming",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 220
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dhairyasheel-sambhajirao-mane"
+  },
+  "qualification": "",
+  "questions": 71,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Atomic Energy": 1,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 3,
+    "Commerce And Industry": 3,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Defence": 2,
+    "Earth Sciences": 3,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 3,
+    "External Affairs": 3,
+    "Finance": 2,
+    "Health And Family Welfare": 2,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 4,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 2,
+    "Labour And Employment": 5,
+    "Micro, Small And Medium Enterprises": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SATYAJEET BABASAHEB PATIL (AABA) SARUDKAR",
+  "runner_up_party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "score_breakdown": {
+    "base": 43,
+    "criminal_deduction": 0,
+    "legislative": 62,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 45131759,
+  "total_liabilities": 10000000,
+  "wealth_pct_increase": -6,
+  "winner_vote_share": 40.14
+}

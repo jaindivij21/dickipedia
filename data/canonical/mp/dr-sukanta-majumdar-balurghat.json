@@ -1,0 +1,857 @@
+{
+  "accountability_score": 2,
+  "age": 47,
+  "assets_2019": 5825866,
+  "assets_2024": 12476825,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4100000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 70000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4506898
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 227216
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 45541xxxxx 5,66,667 5 Lacs+ LIC Policy No.-456568964 46,875 46 Tho",
+        "value": 1073431
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1179280
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1320000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8376825
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yNrQa7XsQuh4uqk4d9un",
+      "total_assets": 5825866,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2211",
+      "total_assets": 12476825,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 114,
+  "assets_latest": 12476825,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sukanta Majumdar is an Indian politician. He was elected to the Lok Sabha, lower house of the parliament of India from Balurghat, West Bengal in the 2024 Indian general election. He served the 10th state president of Bharatiya Janata Party, West Bengal. From 20 September 2021 to July 2025, he served as the president of the Bharatiya Janata Party in West Bengal.",
+    "title": "Sukanta Majumdar",
+    "url": "https://en.wikipedia.org/wiki/Sukanta_Majumdar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Khadimpur Master Para P.O. & P.S. Balurghat, Distt. Dakshin Dinajpur West Bengal, 733101",
+    "emails": [
+      "smajumdarwbes@gmail.com",
+      "sukanta.majumdar@mpls.sansad.in"
+    ],
+    "phones": [
+      "9434964125",
+      "8768333983"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 16,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 16,
+    "ipc_summary": [
+      {
+        "count": 6,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 4,
+        "description": "Statements creating or promoting enmity, hatred or ill-will between classes",
+        "section": "505(2"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for voluntarily causing grievous hurt",
+        "section": "325"
+      },
+      {
+        "count": 2,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+        "section": "333"
+      },
+      {
+        "count": 1,
+        "description": "Resistance or obstruction to lawful apprehension of another person",
+        "section": "225"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt by dangerous weapons or means",
+        "section": "326"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to commit culpable homicide",
+        "section": "308"
+      },
+      {
+        "count": 7,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 7,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 6,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 6,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 5,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 5,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 3,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Threat of injury to public servant",
+        "section": "189"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 2,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Word, gesture or act intended to insult the modesty of a woman",
+        "section": "509"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR Case No. 422/2022",
+        "charges_framed": false,
+        "court": "CJM, D/Dnj Balurghat",
+        "fir_no": "PS Case No. 170/2022 , Date 28-02-2022, Balurghat Police Station",
+        "other_acts": "Section 8B of National Highway Act & R/W qmpo Act., PDPP Act.",
+        "sections": [
+          "143",
+          "447",
+          "427",
+          "323",
+          "506",
+          "186",
+          "188",
+          "189",
+          "353"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 437/2022",
+        "charges_framed": false,
+        "court": "CJM, D/Dnj Balurghat",
+        "fir_no": "PS Case No. 166/2022, Date 27-02-2022, Balurghat Police Station",
+        "other_acts": "Section 130 of the Representation of peoples Act.",
+        "sections": [
+          "171F",
+          "188"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 428/2022",
+        "charges_framed": false,
+        "court": "CJM, D/Dnj Balurghat",
+        "fir_no": "PS Case No. 164/2022 Date 27-02-2022, Balurghat Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "323",
+          "506",
+          "509"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 993/2022",
+        "charges_framed": false,
+        "court": "CJM, D/Dnj Balurghat",
+        "fir_no": "PS Case No. 11/2022, Date 13-05-2022, Cyber Crime Police Station",
+        "other_acts": null,
+        "sections": [
+          "505(2)"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 1371/2023",
+        "charges_framed": false,
+        "court": "CJM, D/Dnj Balurghat",
+        "fir_no": "PS Case No. 396/2023, Date 09-07-2023, Tapan Police Station",
+        "other_acts": null,
+        "sections": [
+          "186",
+          "353",
+          "332",
+          "427",
+          "34"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr.Case No. 62/2022",
+        "charges_framed": false,
+        "court": "CJM, D/Dnj Balurghat",
+        "fir_no": "PS Case No. 26/2020, Date 13-01-2020, Balurghat Police Station",
+        "other_acts": null,
+        "sections": [
+          "505(2)"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CR Case No. 3451/22",
+        "charges_framed": false,
+        "court": "JM 2nd Court Alipore",
+        "fir_no": "Complain case",
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 72/2023",
+        "charges_framed": false,
+        "court": "ACJM at Sealdah",
+        "fir_no": "PS Case No. 08/2023, Date 06-01-2023, Beliaghata Police Station",
+        "other_acts": null,
+        "sections": [
+          "120B",
+          "153A",
+          "295A",
+          "420",
+          "468",
+          "504",
+          "505(1)b",
+          "505(2)"
+        ],
+        "serial": 8,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 456/2019",
+        "charges_framed": false,
+        "court": "ACJM, Gangarampur at Buniadpur",
+        "fir_no": "PS Case No. 84/2019, Date 08-06-2019, Banshihari Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "186",
+          "188",
+          "506"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 457/2019",
+        "charges_framed": false,
+        "court": "ACJM, Gangarampur at Buniadpur",
+        "fir_no": "PS Case No. 211/2019, Date 08-06-2019, Gangarampur Police Station",
+        "other_acts": "Section 3 of PDBP Act & Section 8(B) of NH Act & Section 9 of MPO Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "186",
+          "188",
+          "332",
+          "353",
+          "325",
+          "326",
+          "307"
+        ],
+        "serial": 10,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. Case No. 402/2019",
+        "charges_framed": false,
+        "court": "CJM, Raiganj Court, U/Dinajpur",
+        "fir_no": "PS Case No. 156/2019, Date 07-06-2019, Itahar Police Station",
+        "other_acts": "Section 32 of Police Act",
+        "sections": [
+          "143",
+          "188"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. No. 505/2024",
+        "charges_framed": false,
+        "court": "ACJM Basirhat",
+        "fir_no": "PS Case No. 71/2024, Date 14-02-2024, Hasnabad Police Station",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "186",
+          "332",
+          "353",
+          "427",
+          "506",
+          "120B",
+          "34"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. No. 88/2024",
+        "charges_framed": false,
+        "court": "ACJM, Serampore",
+        "fir_no": "PS Case No. 08/2024, Date 07-01-2024, Dankuni Police Station",
+        "other_acts": "Section 3 of PDPP Act & Section 32 of Police Act & Section 15 of NH Act.",
+        "sections": [
+          "143",
+          "323",
+          "325",
+          "332",
+          "353",
+          "427",
+          "34",
+          "225"
+        ],
+        "serial": 13,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. No. 4148/2023",
+        "charges_framed": false,
+        "court": "ACJM Basirhat",
+        "fir_no": "PS Case No. 241/2023, Date 18-10-2023, Nazat Police Station",
+        "other_acts": null,
+        "sections": [
+          "153A",
+          "505(2)"
+        ],
+        "serial": 14,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR. No. 152/2024",
+        "charges_framed": false,
+        "court": "ACJM Basirhat",
+        "fir_no": "PS Case No. 17/2024, Date 11/01/2024, Nazat Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "332",
+          "353",
+          "188",
+          "323",
+          "506",
+          "34"
+        ],
+        "serial": 15,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 498/2024",
+        "charges_framed": false,
+        "court": "ACJM Basirhat",
+        "fir_no": "PS Case No. 92/2024, Date 14/2/2024, Bashirhat Police Station",
+        "other_acts": "Section of 03 Prevention of Damage to Public Property Act 1984",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "186",
+          "188",
+          "189",
+          "332",
+          "333",
+          "353",
+          "323",
+          "325",
+          "308",
+          "427",
+          "34"
+        ],
+        "serial": 16,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": null,
+  "dob": "29/12/1979",
+  "eci_state": "West Bengal",
+  "email": "smajumdarwbes[at]gmail[dot]com,sukanta[dot]majumdar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 994620,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 930320,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 595210,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 919300,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 513800,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 633420,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 664000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 464260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 382400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 299350,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "M.P Salary and Allowance"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 420, 326, 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, voluntarily causing grievous hurt, attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 326, 307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 9% of MPLADS local-area funds were spent — ₹14.37 Cr unspent.",
+      "headline": "92% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 143748223,
+        "utilisation_pct": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹58.3 L (2019) to ₹1.25 Cr (2024).",
+      "headline": "Declared assets grew 114% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5825866,
+        "from_year": 2019,
+        "pct": 114,
+        "to": 12476825,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1125114
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1125114
+  },
+  "margin_votes": 10386,
+  "minister": true,
+  "mp_name": "Dr. Sukanta Majumdar",
+  "mplads_allocated": 157085365,
+  "mplads_expenditure": 13337142,
+  "mplads_unspent": 143748223,
+  "mplads_utilisation_pct": 8.5,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 181,
+  "mpsno": 5035,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-27T18:49:43.000Z",
+      "flagged": false,
+      "publisher": "MillenniumPost",
+      "title": "Sukanta Majumdar reviews key Dev projects in South Dinajpur",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2s0cXc5RkV2elA3Mk8wOVFINUgtSlBZZFk3Q1ZwZVNQa2tQRU1ER2k0REJHQzRqWUVxY0dyQjVPU29aUmJnVDdDbl9XOU9lZWM5UlRWT3RGenQtc19VUF91cmxmLUdKbEZXc3AwZE9sWVctQVJFMkFiUDE5dkVhZTI4MDN3bXdsdlk1MFFMVlduTFlOLUI3UGM2VG5wM2RsZWg1YnNR0gGrAUFVX3lxTE1mcUMtNWFpM0JsLXpvdkk2UmJUN1VHR1gwZTg1UXZxcFI2ekhEX04zblVIQWN6bWlWUVN2S0xUMy1LMG1reWlpMWYzdWpHY2MwVWtoZXAzSzlEQTZUbkdlVWU2LTJUaW11M3hLQnRmRjRiUW5RQTNTRVF0WWtPVkJZSGlxN2U5RmpfN3VfZ1BOaE9ZS0FPZWpvZ0d6dXZWQm9zRTY4QlpTV3Awaw?oc=5"
+    },
+    {
+      "date": "2026-05-25T10:48:24.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "WB Election 2026 | Balurghat | Sukanta Majumdar | ভোট দিলেন সুকান্ত মজুমদার",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSURUclRSNlFMLTFBMnJ1YUdDTGJpM1R4SENSbU56dV9IQl9sYVpRVkJXaDRhc043dkhJaXVIUkJVbzhZanJqVFZWRVlKV0YyZmNqYzJ1ZlpkUVd5ck9GMXlGMjVkNXZ5dmFIUkJPMHktZHl0Y1RzZVVYWHN2SEJtN05pRzFKbmlFempWYjhyQ3A5cU1uRUlWZFNZUkUtYVZr?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Video: BJP's Sukanta Majumdar takes out bulldozer rally after historic Bengal win - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2gxc29Tak1hdHlEbm9jRDBSTXh1OFNLeW05NUxSTFYyanFFZHY0REZVZWN1Q2pWRDJQaVFYNkNiZEp1aFlLelIxX3BjbnBDQXVDOWtWU1UzLUdsdzk0Q0VIODF5cHc5MWlqSVFJWFlJbnZxaW8wTWtxWDk5bmhqWlc0MnBTVHkxOURfbkk0RWdfc09sTTVPdUg0M3dRM3BDYVZSSXR5QzU2bk5vYkhlU0pNcGxFemRPdHY2LWk1ZmhzNzdfaHg5QVdLcmsyRnJNaUY4Zmg4RzBtVHdzV3VHRzVMNNIB6AFBVV95cUxPenpoVVRQUWNNVF9JdjZPcC1ET3pjRVNfcUszUjhSZ2NRcVkyZHI3TUpfc3FfaUdzN0FjY18wRldSN1M4WkdBV3V1bGZseUNIQW5vNWNTNmRrVm5rV2pQMUx6R0VwZTQ1UzF4SklyWlZtUHdObDJqRktuZjBQSS1UZmlLaG0wMHdNWHpWcDhZXzl3bzFvd2ZWSldNejJYeE9FRjZmY0I2WHkwYXlJVmNsd0gxQkVDaWJUMjRjTk5RT2d5em1icndhTGdjRGVZZjdSSG12bXphTVNTUS0teU12bkczSWVPSjFm?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Odisha TV",
+      "title": "West Bengal Polls 2026: Sukanta Majumdar Celebrates With Workers In Balurghat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSE5veThXVFBZOXhoYnhjUzRrLWRiRVZGV0RWTDhGTzJRTDVkRHB3bGRxdDdFWWNUQVllR0gxRDBTLUNLa1J6OU9UX21oR0QxSm5UT1Y4cEpkUk5zWVV5UFVnYWh2NVhDajEzQkVTYWNvUFJmUWZHSnZVcEVfU2ZmNG9lRWg3aFUxS0JKajJmUGZSRW9Zek1ralFxN0NfaEpMNl9nSHFhcHNHR1NCUFpIUkprRndXcF9rLVJMeHdmTGRac2py0gHKAUFVX3lxTFA5UTExbVl5RjRuQ2V4QXkzUVlEc3NVTWlKTUNGT0ZnOWlvVHFTb2RwN0pBWDY1ZV82MlFDdXVrRzZheFFtVjFKT09fMTR5LV9fNEpqa2I3aEtaV2hyQlU1d2Z5Und3cFdWUmlNdGZ1cWpsYVFra2dRaHdnbXY2eFlGbFEtQ09jSWxZWElGRHI4MUZJdDlwcURoM3l4UUs5V01xRzFLTURKYXp6bk1fR0JKNHBUdVVwSWJJVHJxSmdYVUQ2dVJ3MVdLQmc?oc=5"
+    },
+    {
+      "date": "2026-04-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "West Bengal Polls: Union Minister Sukanta Majumdar casts vote, says polling peaceful; praises EC vigilance",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTEM2bFJlU2x4bGVvRnFZbDdvc19JdDVxeFJ3SS1SRzI0aUJiS09hMFNQclNiZDFDOWZVZVllX0ZpZm9aMXY5bnVfT3BkSm5ubDNmWVN4akFqLWZyUUNMR3VnVU5sdW1PLVVQWmpfRVhaRnBUQmc4VUJZOC16cmc4bWhpS1N0MXdydUlkc2pkRWV3blhjblRUSU8yRkk3LV9ZWFlFUkM0VVQyVWE4ZmFRNURKVnMydkV6VnJobGFhSU1mRUgwTmd3Y2Q0OVQ3ZnVtYmpCOEM3M3Y5TnJ1X2E5V1I1TDAzTjlaYmNmR1dZNm4xMkxGaWtEZlVlUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 7,
+  "nota_gt_margin": false,
+  "nota_votes": 7437,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "west-bengal-6",
+  "pc_name": "Balurghat",
+  "pending_cases": 16,
+  "phone": "08768333983, 09434964125 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180543.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Teaching",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sukanta-majumdar"
+  },
+  "qualification": "",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "BIPLAB MITRA",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 40,
+    "criminal_deduction": 40,
+    "legislative": null,
+    "mplads": 11,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 9,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 12476825,
+  "total_liabilities": 1125114,
+  "wealth_pct_increase": 114,
+  "winner_vote_share": 46.47
+}

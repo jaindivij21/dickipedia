@@ -1,0 +1,530 @@
+{
+  "accountability_score": 39,
+  "age": 57,
+  "assets_2019": 48652722,
+  "assets_2024": 109245500,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 62175000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 63075000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 95000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 16917701
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 920418
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 553741
+      },
+      {
+        "category": "SBI Life Smrat Wealth Builder, Rs-1000000/- 16,77,699 16 Lacs+ SBI Life-Smrt Eli",
+        "value": 2965822
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 14210171
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3458011
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6685000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 354632
+      }
+    ],
+    "movable_total": 46170500
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=7ToyeKzpUkU8vpU7ui",
+      "total_assets": 48652722,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5187",
+      "total_assets": 109245500,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 125,
+  "assets_latest": 109245500,
+  "attendance_pct": 50,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Satabdi Roy (born 5 October 1969) is an Indian actress, film director, and politician. As an actress, she is known for her work in Bengali cinema. She is a recipient of two BFJA Awards. As an actress, she ruled the array of commercial Bengali cinema during the late 1980s and 1990s. As a director, she has been denounced critically for her use of superfluous themes. She is a Trinamool Congress Member of Parliament, Lok Sabha since 2009.",
+    "title": "Satabdi Roy",
+    "url": "https://en.wikipedia.org/wiki/Satabdi_Roy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Flat-12 G&F 85 Prince Anwar Shah Road, City High Complex Kolkata West Bengal, 700033",
+    "emails": [
+      "mpbirbhum@gmail.com",
+      "satabdi.roy@mpls.sansad.in"
+    ],
+    "phones": [
+      "3324227017",
+      "9433025125",
+      "3324145739"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/people/MP-Satabdi-Roy/100087419953925/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/SatabdiRoy_"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "05/10/1969",
+  "eci_state": "West Bengal",
+  "email": "mpbirbhum[at]gmail[dot]com\r\nsatabdi[dot]roy[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 838410,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1193830,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 511710,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1151690,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1481443,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 359000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 600760,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 153010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 541990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 599989,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional fee as Artist and Salary of MP, Interest from Saving Accounts, other deposit and Capital Gains"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income, Interest from Saving Accunts, other Deposits and Capital Gains"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹6.06 Cr between affidavits, while declared income across 5 ITR years totalled ₹51.8 L.",
+      "headline": "Declared assets rose 12× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 60592778,
+        "declared_income": 5177083,
+        "itr_years": 5,
+        "ratio": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 125%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 125,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹4.87 Cr (2019) to ₹10.92 Cr (2024).",
+      "headline": "Declared assets grew 125% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 48652722,
+        "from_year": 2019,
+        "pct": 125,
+        "to": 109245500,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 32% of MPLADS local-area funds were spent — ₹10.02 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 100237249,
+        "utilisation_pct": 32
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 20171392
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 20171392
+  },
+  "margin_votes": 197650,
+  "minister": false,
+  "mp_name": "Smt. Satabdi Roy",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 46762751,
+  "mplads_unspent": 100237249,
+  "mplads_utilisation_pct": 31.8,
+  "mplads_works_completed": 31,
+  "mplads_works_recommended": 126,
+  "mpsno": 4506,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Birbhum: Satabdi Roy Campaigns For TMC Candidate In Suri #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmhCMFZ3ZDR6dV9vMjNmM0pHWjJXYXhvU3JabDJSbTZDek5hLTZ2OVZvaktUVEFUVkxKMmdqN050ak9fa1FsZk9uRURLZjlDX2stS1dMYWJOUzdoUnR0VFZIVUQ1X3FzMFpocVNJY1VsUmxtWlVDbjA2MW5IVFZTM2lGLUlFQ3EwNVM4cHlJYklnc0JuaWUxVFE0WFNYeU82X3k0SdIBpAFBVV95cUxPZmhCMFZ3ZDR6dV9vMjNmM0pHWjJXYXhvU3JabDJSbTZDek5hLTZ2OVZvaktUVEFUVkxKMmdqN050ak9fa1FsZk9uRURLZjlDX2stS1dMYWJOUzdoUnR0VFZIVUQ1X3FzMFpocVNJY1VsUmxtWlVDbjA2MW5IVFZTM2lGLUlFQ3EwNVM4cHlJYklnc0JuaWUxVFE0WFNYeU82X3k0SQ?oc=5"
+    },
+    {
+      "date": "2026-04-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Birbhum: Satabdi Roy Campaigns for Nilabati Saha #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEtneV9zdHNWbUxSSEdBOC1FazRaYjdPelNlNUNvN054WVo5NU5peXh4ZGltdXFULXhWMGJqMEZUUm9mNm40SlU1cmRhaXhTSFBpZzRqZG1Qb0NpcWRtcm1jbng3MnFLTzNyUjdjblIzeld6TzA5OEMxNEJRNWszQWN1Tjd6LW1vc1RiZXRMSTFpbzMyY01ydzVR0gGaAUFVX3lxTFA0S2d5X3N0c1ZtTFJIR0E4LUVrNFpiN096U2U1Q283TnhZWjk1Tml5eHhkaW11cVQteFYwYmowRlRSb2Y2bjRKVTVyZGFpeFNIUGlnNGpkbVBvQ2lxZG1ybWNueDcycUtPM3JSN2NuUjN6V3pPMDk4QzE0QlE1azNBY3VON3otbW9zVGJldExJMWlvMzJjTXJ3NVE?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Birbhum election results 2024 live updates: TMC's Satabdi Roy wins",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUnM0SFZvVUktT3gzUzdFZHRVMlZnLVJXVEpIT2xfRXdidkpQZFB4OWpTam9ZazNteHBvaFNPWTRDWjlqdjR6dmtnVVdvaVc5a052UEE3WWJ0VlRGVEV1bXpldzZGTkRTclJzNTZ1a1ZYMHMxUkpOQTI1QU5tUHE2X2owLXZUUWtpeTF6VTVtT251MExIbmt1NTZKakFIUmdzUHFmZkJuTmNoX0NQQTQwd0NYWl9GVEFqMjI4elNqd1A5OUdHUjNPN2ZwWWRlSVBYZUxZRE9zRThGOTk0aGRKb3A4NlNjQlc0dGJMVGNIX2Z5eUhLY2ZKa3h1Nmp5NW5kQTJUYzdDVjQxZG9HUGpZODJ2bFpCYVBISFlGcnljcFlobno4cGhMRzZwMW8wV0lUcTFkY3NTaWUxbHpZMW1RWGZMYzYxY3PSAcwCQVVfeXFMTWRKM19rZUE5UzFic0ZaUDJ6SWR4RmxreUZiZTBvX1hBRzBhekNEektSb0QtMVN2WTE5Yk1fNUU0cUpoN0l3bmU2RW9Qd2dCRGNhZnhqam5ubkYwRF9rb0U3a1JubF9wdW80ZE5ta2M1WDFtMG0tNG5UaVR6bVFTc0hxRmhIU2dYb3pOTG5IM192S1BIUW1yY3p4MnNhWktpNjk3OHhoOHpra0twcDIxd09oZmZpUHpPUDkydWM2SEdvbEtnWW41VU4xTHlzR3ZEWTFZbnhtd0tjZ2V6V3pnZzRFTDNiWnpCY3FLTXQ3c3ZfSkQ3Y1pEWVdBcTdqZmh4dEhqdjNmR0ItcUw5dGVEZG1RNXZhQzJwX3dSeUJzZW1JN3lkOUQ3aDVWRkFzS08xVFBUWldMZHgxd1lUZHozaEpMY09Ga1Z4WGN1eUc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Satabdi Roy wins from Birbhum constituency in Lok Sabha Elections; Becomes MP for the fourth time",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPYjZudTU3UnlyU2FmeWdUMEdVbHZTZTVGM2FIYXZURGRvQkFEakxzc011ZlJoZ2IzRG5xX29zYkVodDcxVV9sVDkzLVlvUFRrUkVNODh2SnJRdWhFc1RUa1dNRGR3XzgtZUxxQVdIQmdyQzJDc0NIekdfTS0ycFFJeWJBY0lYR1JyWmxPcEtGNmRCdWFFTlByQlZvOGx5VUJmbWVsQ0JIdldGdEhjOFRwc3o5bE1fd202dlhZS1RVdF82Ml8xeElxdlZ0THNZUzVRRW85ZF9yR2MyYjVBc1R2dU4yUEVVaU9UM004QXBJcC1ETmw2QmU1Y0Z2UXFqNE8wX0wtb2Y0dTRobFpJZlB3OXNyVlMzd01JVzdNSNIBogJBVV95cUxOV3EwTkNGZU1MSy0tN2lMTXVwV3ZrMEg5NGdGRURxLTBDLVVETHZoSnBWN21BcWdFR0JXdXAzUGlYTTYyeEVLeXBqTFo1ZGhRZ0JYaEdEWlNjMk1vTkRFYVRRMVdQRzY5SEpCNnpuNnFhYl9RM1hFNmZ5TkVUUnhEUEdpUnNEZzljbmlYNUIzdjhnanlHeUpNdjV0djFLX3dhZDRqUnZ4QjMxYm1TSHZqNTgzYTV4M0NBQU9NYWdKRkNaNHpLN1lyZTk0bXByTGgwU0toTmttdnhfOVE0RmVTamdlTV9EcE40OG42TEJfTTNpZHFzREV3akh3NmpLbU1XbUl3dzJETzJaVVU1UFJBS2pCbEZTYmRXdW1VYW9YeUJIdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Birbhum Election Result 2024 Live Updates: TMCs' Satabdi Roy Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGRkaUtPRlQ4Z3ZEbXhtbEwzLU1sS0NTQ1BqVE5qNC1HWS1BNFFCOU9jSkdka2x1eFE2Z0x3N056YllVSkhtY0VxemxBYTZ6bjM4dXRFR05URHUwWUlIRnhaMEJHSWd2elRNUWZpV2VyUnc4NzhGWU9rWHkwN1JEZjV2M3Z1cXdEc1dwdml3SUJ0UVJPdXhMcEhNeDdoaVI0UjJGMW9NTEIzemFaNXZ1TVN6a0o2WUNUT185Q1ltRV9SX2JXdzJv0gHUAUFVX3lxTFByQ0hlaWRvOGk2ZjJacUwwMkxzbUc2aml5WDhYUTBWU2ZtSlpUdHA3RE1ISnRWeUQ0d3VvR0RoRFVZWm5zcjhZUnpRU2h2aFVydW9zcTBkSXVPTmgxSHFwbnZMaDgxRFFCcm1ybG5qZl9QZ3FZbDBGeWc3OW5jMW9udW8wdkJUXzdUcjh3bmxQLTJsV0ZxdGxjN0hjLUVOVGs0c29heHRCbUQzMUJvalIxZ1pZWjJDckkzNW5FZ1dyMXNtV0tJWFFmNHhlenpla0tvTEw2?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14093,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-42",
+  "pc_name": "Birbhum",
+  "pending_cases": 0,
+  "phone": "Tel: 09433025125 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180534.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Film Artist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 73
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to expedite completion of construction work of rail overbridge at Abdarpur in Suri district, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to reduce doctors' shift hours",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Protection of Bengali-Speaking Migrant Workers from Illegal Detention and Deportation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Renovation of Post Offices in Birbhum Constituency and Clarification on Use of MP-LAD Funds",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Improvement in Infrastructure and Teaching Quality in Central Schools",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. for the construction of overbridges and underpasses in Srikrishnapur and Pakuria",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand to govt. start the fertilizer corporation of india in haldia",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/satabdi-roy"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DEBTANU BHATTACHARYA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 33,
+    "criminal_deduction": 0,
+    "legislative": 18,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 109245500,
+  "total_liabilities": 20171392,
+  "wealth_pct_increase": 125,
+  "winner_vote_share": 47
+}

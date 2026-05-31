@@ -1,0 +1,456 @@
+{
+  "accountability_score": 46,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 500000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1917000
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 990000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3407000
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Odisha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=LsZGtipmd3JDdCrmUk2T",
+      "total_assets": 2250500,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9392",
+      "total_assets": 7407000,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 229,
+  "assets_latest": 7407000,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Naba Charan Majhi is an Indian politician and Lok Sabha member from Rairangpur, Odisha. He was elected as a Member of Parliament from Mayurbhanj Lok Sabha constituency. He is associated with Bharatiya Janata Party.",
+    "title": "Naba Charan Majhi",
+    "url": "https://en.wikipedia.org/wiki/Naba_Charan_Majhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village Mahuldiha, Ward No. 1 Rairangpur Rairangpur Odisha, 757043",
+    "emails": [
+      "nabacharanmajhi2022@gmil.com",
+      "nabacharan.majhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9437294557",
+      "7735454637"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR Case No.443/2010",
+        "charges_framed": false,
+        "court": "SDJM Rairangpur",
+        "fir_no": "92/2010 Rairangpur Town PS",
+        "other_acts": null,
+        "sections": [
+          "342",
+          "186",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "18/04/1961",
+  "eci_state": "Odisha",
+  "email": "nabacharanmajhi2022[at]gmil[dot]com,nabacharan[dot]majhi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 275000,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as MLA, Odisha"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹51.6 L between affidavits, while declared income across 1 ITR years totalled ₹2.8 L.",
+      "headline": "Declared assets rose 19× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 5156500,
+        "declared_income": 275000,
+        "itr_years": 1,
+        "ratio": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.54 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125399223,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹22.5 L (2019) to ₹74.1 L (2024).",
+      "headline": "Declared assets grew 229% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 2250500,
+        "from_year": 2019,
+        "pct": 229,
+        "to": 7407000,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 219334,
+  "minister": false,
+  "mp_name": "Shri Naba Charan Majhi",
+  "mplads_allocated": 147563957,
+  "mplads_expenditure": 22164734,
+  "mplads_unspent": 125399223,
+  "mplads_utilisation_pct": 15,
+  "mplads_works_completed": 18,
+  "mplads_works_recommended": 154,
+  "mpsno": 5672,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Odisha can’t progress without\ndevelopment of tribals: CM Mohan Charan Majhi",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0pWYWt2MnkxdTNNUDFxUkFSSWh1QWk3UEZRQ2RJc0JMc2FkdVhsOWF0U2ZQelVhR2haUG4tSXpJT01RaUJ6R2M3TVlkMlNEZzdwQlRiaXRPVWpaQ1ZiclJONGxqb1ByVHhZb1ZYN0ZmQS1SZ3dqcU1fVHdCNm56VDU2VmdnSU9WcDF4bHpMYl9zTlUtSmppTmVnMVZPNEZNY1J0cGNtV193MWV2cmNyLXZ6OW9MaG5xT1l5blZwbkszNFl1d01XeHFXeDLSAdoBQVVfeXFMUGFDbGdJUGQ4NmNReGJfalZnTU1hT2pWMXd1UEtIcDBXLVRjM1ZrTGFPQVN1Q0pjcS1KTVlCdTZ2cWdBa0Z6bG9jbTRhODdrcDBkX2FhVmh3Z0hkX3N1MmVrcUxyWHljZFE3ZkpjVkpYNFFxZWlZNGtTSHFZM3ZmRlZCN25LcjZIZmF3c05sWTNqeUVRd2pjekV3Q05LMDc4OVRfRUdwc0ZkRjNoeXgtSDFQcl9WdUl3Q2gtQ2tPUUktQUc2cWVnVmxOSjgwaDQwU0VyRmM4eWlkUXc?oc=5"
+    },
+    {
+      "date": "2025-06-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "CM Majhi Inaugurates State-Level Adivasi Shakti Samavesh In Mayurbhanj",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFNuVjJBM1AxQzJ1S1p2N2lkTEtiaWNQb2U1S08zdUs2dmhBVmctQjR0dHpTMHpTMXVHZ3FfSVpLbWg2MVZNSTZwem5YNklRSTczNmZTdzFtOTcwSXhlLXRLWDlwX1lBTVQwQXhjdmJUeHRDLWI5eHdPUXQ2U0JPd3VsblEwb1o1YWJGbnJqaThmZ1U0bDdTSjVyQ2U3WjhYeTRyNWJ3WHBrQQ?oc=5"
+    },
+    {
+      "date": "2024-06-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "BJP’s Mayurbhanj MP Naba Charan Majhi To Take Oath In Santali Language",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVR5R0g3SDFJSG5hQ2FkVWJiUkJVN09xLU1YdzFsdUk5R0hKX04zYnEzTURWb2h2YUk3aWNsZ3BpeW1ka0lXd09wOTF3UFFYZ2dsTzNfMFB1dGRzSFBjNjJaVk5yTEZSZmNMcnJjN3VSMm9VMTNKMkR0MldZSXk3TzFweV9WRERkQmtYSkhCVTdaM2dVYVgxRDZFNmpiVXZlNkxoZVpWY0s?oc=5"
+    },
+    {
+      "date": "2024-06-18T03:49:54.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Naba Charan Majhi , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlVzMVpzQ090WkVPRVNKWGowUFZTZVZFc2xJaDBiYzY3aW1tZTJhZUxJcHI0M3pJejd6Wk1DYnBKQjlLRGxoYW9xTm5Kc1NnNno0M3JEb1hIOTU1XzRpZlRYODM0aHJhOGtWRHRlWEEzaXRrNmRmbTNRTDFBTUlyU1hQUDR4SmVhUmc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mayurbhanj (ST) election results 2024 live updates: BJP's Naba Charan Majhi defeats BJD's Sudam Marndi by",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNjYyRUJjWW11RlJKMWFzR2pyWjhhRHJKUDVQVVFZeWVnQm9pMU5XdkpTMjF3Y2U1YkdVTUFQOWNoVUxObGFVUXQ4YXM3c2JPUUwwUVdtZmZqOEE2MFhlZWpiRVdyaUU2RElsWnRrTUF0R1haNXBoOW9zMmxRd3pzalhiLVNfNENlNzZtTXZ3SU82dVhjdWZTYzd1LXpEUWdFclBUYnRROFN4NmRMUFM2TXdhZlZVaVc5UmJRUk5odXpZVExiN3BvZHBfc1lYUEx0V2VDMmUyRy1WODJ3b09tRzlmemhGSFJBY29lWnBHbkxvTDF3d0hwOUw4Z2ktSktodE93OdIBigJBVV95cUxNVkYxY2dkbHpmUVF2RlMxVmwxMkk5aU1yM3hZdU0yOUtMNks0X2M1SHJHS1NkaExaNzhCTHJTZ3hrWFhWUk11dFBiLS1XZDd5YUNFLU9pOEpvQWd2b1lkZ2gzaHRlWEhkbmFzeXI0a2M0NGFjaWNseDBiWjc5SHZmdnZ5QWtmenNldkNlM29laU9YQ243UW1tSVhQUVdKR2E1Y0dvR3RZa1hCWGNZNHBRVC1EcXE3V2N4dWlhXy1wcnZmZ3hoWU93ZE5PeXR1dXpGYlkzeEhkU1FkdHJZcEhSTE0zUVIzYTFqLW9WOE82bTd3dkI2b0Y4OHZRMDFCbW45djNZWlE1allsUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 19953,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-5",
+  "pc_name": "Mayurbhanj",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180310.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Cultivation  (Agriculturist)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Issue Related to Alleged Protocol Breach During the Visit of the President of India to West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to reconstruct the railway underpass compatible for heavy vehicles in Mayurbhanj Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to set up a Tribal Auditorium and Museum at Rairangpur in Mayurbhanj Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 248
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/naba-charan-majhi"
+  },
+  "qualification": "Graduate",
+  "questions": 52,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 5,
+    "Coal": 1,
+    "Communication": 3,
+    "Corporate Affairs": 1,
+    "Culture": 2,
+    "Education": 3,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 2,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "SUDAM MARNDI",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 1,
+    "legislative": 61,
+    "mplads": 26,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 7407000,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.91
+}

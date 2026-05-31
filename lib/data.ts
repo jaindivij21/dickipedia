@@ -1,5 +1,6 @@
-import mpsJson from '@/data/canonical/mps.json';
+import indexJson from '@/data/canonical/index.json';
 import partiesJson from '@/data/canonical/parties.json';
+import manifestJson from '@/data/canonical/manifest.json';
 
 export interface Mp {
   pc_id: string;
@@ -241,11 +242,51 @@ export const slugify = (s: string) =>
 
 export const mpSlug = (m: Mp) => `${slugify(m.mp_name)}-${slugify(m.pc_name)}`;
 
-export const ALL_MPS: Mp[] = mpsJson as unknown as Mp[];
+export interface CohortCaps {
+  questions: number;
+  debates: number;
+  util: number;
+  completion: number;
+  wealthP50: number;
+  wealthP90: number;
+}
+export interface IndexAggregates {
+  avg_attendance: number;
+  avg_questions: number;
+  avg_debates: number;
+  avg_util: number;
+  criminal_pct: number;
+  nota_seats: number;
+  zero_questions: number;
+  total: number;
+  featured_slug: string;
+  cohort_caps: CohortCaps;
+  score_bins: { poor: number; mediocre: number; decent: number; strong: number };
+}
+export interface CanonicalIndex {
+  schema_version: number;
+  mps: SlimMp[];
+  aggregates: IndexAggregates;
+  facets: { states: string[]; parties: string[] };
+}
+export interface SourceFreshness {
+  as_of: string;
+}
+export interface Manifest {
+  schema_version: number;
+  generated_at: string;
+  sources: Record<string, SourceFreshness>;
+  sections: Record<string, { source: string; as_of: string }>;
+}
 
-const BY_SLUG = new Map(ALL_MPS.map((m) => [mpSlug(m), m]));
-export const getMp = (slug: string) => BY_SLUG.get(slug);
-export const allSlugs = () => [...BY_SLUG.keys()];
+const INDEX = indexJson as unknown as CanonicalIndex;
+export const SLIM_MPS: SlimMp[] = INDEX.mps;
+export const AGGREGATES = INDEX.aggregates;
+export const MANIFEST = manifestJson as unknown as Manifest;
+
+const SLUG_SET = new Set(SLIM_MPS.map((m) => m.slug));
+export const allSlugs = (): string[] => [...SLUG_SET];
+export const hasSlug = (slug: string): boolean => SLUG_SET.has(slug);
 
 export interface PartyDonor {
   name: string;
@@ -270,15 +311,13 @@ export const ALL_PARTIES: Party[] = partiesJson as Party[];
 const PARTY_BY_CODE = new Map(ALL_PARTIES.map((p) => [p.code, p]));
 export const getParty = (code: string): Party | undefined => PARTY_BY_CODE.get(code);
 
-const mean = (xs: number[]) => Math.round(xs.reduce((s, x) => s + x, 0) / (xs.length || 1));
-const NONMIN = ALL_MPS.filter((m) => !m.minister && m.attendance_pct != null);
+export const AVG_ATT = AGGREGATES.avg_attendance;
+export const AVG_Q = AGGREGATES.avg_questions;
+export const AVG_DEBATES = AGGREGATES.avg_debates;
+export const AVG_UTIL = AGGREGATES.avg_util;
 
-export const AVG_ATT = mean(NONMIN.map((m) => m.attendance_pct ?? 0));
-export const AVG_Q = mean(NONMIN.map((m) => m.questions ?? 0));
-export const AVG_DEBATES = mean(NONMIN.map((m) => m.debates ?? 0));
-export const AVG_UTIL = mean(
-  ALL_MPS.map((m) => m.mplads_utilisation_pct).filter((x): x is number => x != null),
-);
+export const featuredMp = (): SlimMp | undefined =>
+  SLIM_MPS.find((m) => m.slug === AGGREGATES.featured_slug);
 
 export interface SlimMp {
   slug: string;
@@ -296,6 +335,8 @@ export interface SlimMp {
   nota_gt_margin: boolean;
   assets: number | null;
   minister: boolean | null;
+  pc_id: string;
+  mplads_unspent: number | null;
 }
 export const toSlim = (m: Mp): SlimMp => ({
   slug: mpSlug(m),
@@ -313,13 +354,9 @@ export const toSlim = (m: Mp): SlimMp => ({
   nota_gt_margin: m.nota_gt_margin,
   assets: m.total_assets,
   minister: m.minister,
+  pc_id: m.pc_id,
+  mplads_unspent: m.mplads_unspent,
 });
 
-export const states = () => [...new Set(ALL_MPS.map((m) => m.eci_state))].sort();
-export const parties = () =>
-  [...new Set(ALL_MPS.map((m) => m.party))]
-    .filter(Boolean)
-    .sort(
-      (a, b) =>
-        ALL_MPS.filter((m) => m.party === b).length - ALL_MPS.filter((m) => m.party === a).length,
-    );
+export const states = (): string[] => INDEX.facets.states;
+export const parties = (): string[] => INDEX.facets.parties;

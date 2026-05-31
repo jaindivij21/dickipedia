@@ -1,0 +1,684 @@
+{
+  "accountability_score": 49,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4752030
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4752030,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 40500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6896
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 60000
+      }
+    ],
+    "movable_total": 107396
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1808",
+      "total_assets": 4799426,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 4799426,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rajkumar Sangwan is an Indian politician. He is Member of Lok Sabha, the lower house of the Parliament from Baghpat since 2024. He is a member of Rashtriya Lok Dal.",
+    "title": "Rajkumar Sangwan",
+    "url": "https://en.wikipedia.org/wiki/Rajkumar_Sangwan"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "306 Pashchimi Kachheri Marg, Civil Lines, City Meerut, Uttar Pradesh, 250001",
+    "emails": [
+      "drrajkumarsangwanmp@gmail.com",
+      "drrajkumar.sangwan@mpls.sansad.in"
+    ],
+    "phones": [
+      "7007731774",
+      "8923460525"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "595/2015",
+        "charges_framed": true,
+        "court": "ACJM-V",
+        "fir_no": "178/2003, Civil Line Meerut Police Station",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "332",
+          "353"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "F.R.No.123/12-05-2010",
+        "charges_framed": false,
+        "court": "ACJM-V",
+        "fir_no": "134/2010, Civil Line Meerut Police Station",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "323",
+          "504"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "F.R.No. 99/16, 29-03-2016",
+        "charges_framed": false,
+        "court": "Judicial Magistrate Sardhana",
+        "fir_no": "114/2014, Sardhana Meerut Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 13,
+  "dob": "05/03/1960",
+  "eci_state": "Uttar Pradesh",
+  "email": "drrajkumarsangwanmp[at]gmail[dot]com,drrajkumar[dot]sangwan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 323155,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 949870,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 864376,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 807453,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 593186,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Tuition"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.59 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125932460,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 159459,
+  "minister": false,
+  "mp_name": "Dr. Rajkumar Sangwan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 21067540,
+  "mplads_unspent": 125932460,
+  "mplads_utilisation_pct": 14.3,
+  "mplads_works_completed": 15,
+  "mplads_works_recommended": 117,
+  "mpsno": 5550,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-19T23:32:17.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr Rajkumar Sangwan",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVJXbUpIa3d2SG5TV1NDYThZXzRQZDBCa0J3aUVyTkJHeC1NWnNJai1wbjgzS1JhZjMtNndKdjdzOFFxTG5jYS02M3BhSEx4NnBJVTNCZjdzMDlWWWZ6MmZDQnAtUV9wWG9SM3UtVUoyZ2Voa3QzcWtzVzdsQjZmRGIyOUJNOU5xTTlEcw?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "All You Need To Know About Baghpat MP-Elected Dr Rajkumar Sangwan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOelVOOS1lTk5fVWo2MEJQczRNTWJfb1FCY1JuWW9GZTMtdTltVk9lYTZocUxleG1KMHRTeXN5X3R5d1NHUGdHNXgtSWo5aDZCVTc3b055N1V6ejJaRlE3RzZKWUFwclQwa29fM25Ia09uSXMwdDdfUDN4d3V1LUdlOWNUZC01b0Z3c2F0ckxWX2U3eVpZLXNLZi1VR2JWdVdPY1N3Z19ORzNJblR0emZQQTJ3b05nQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Baghpat election results 2024 live updates: RLD's Rajkumar Sangwan wins with over 1.59 lakh vote margin",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMDY5TmY0c2lZVWRCb1p0TnQ5UWhEMEMtNlFEN1hqVm45djVsOHg1QkFGZFNNeUJHeEZ4dlBiS2NnNmc1bkt1QmVXNE9Jc3FDWWp5WVNYYUhlYUt6UmtyaUx3WHJmVm9HWDh3NTFQbHRNd04yZ1dfVEJOb3FWbVBmOFQ4R2NTVVhRbFd1QVdSR3ZZNHRnR21NUHoxaXlRdTJhN1hIMXBBb2N4NnJJUU9YMVJDbldZbWxJRk5hOExFWkQ5MVNrSTNMSVJnTFptYTFlQnppTmZlYVZrUGwyeTZJaNIB5gFBVV95cUxPV2dGWGVXSV8zbW8zekhBaTN3aHVhcjdjcXZsQ3BpakJQM2xLSGE3UGdfcVdTOHh3endwSXhtNXR5RDRISzZoWGpMRXZFT1IzTFdnaXVLNzBGeFFkUkdpTXpoTmlINTl4cW8wT1BPbXFmS0lTczUyakRYOHdxYU9hOEFnLVRSR2RQa2gzdWhRaFQ2ZGd6TjZLX3AxNVVEckctcE5nQkxGTElwbjhEelJ4dFFlcUcwVHJJWmQ2a20wZ01KeVZYVm5fRjVrZ1FSdjZOVVdRYllqVjktaTdaemI5d2FNaWQ2UQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Baghpat Election Result 2024 Live Updates: RLD's Rajkumar Sangwan Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXo3WVRKYWtPZHB4ZnBNckJFMlkyX0c0anlKdzhmczlvNVhqbjBWMGRvX0pXT09KRHZFNy1FamN5bVh6WG1MU2FnZ3lleUJsYXgxdTFWcDlROHQzaTVWeUZzbFN6YTFzd3hkd3dRWDJ3emF4UHVEWXkyNEN4UEMxSG15ejFYQ0dmQzFMeUlCd2QwNmtQN0otZnpxVDU2ekhfQm5iaHZWaU52ckJLOVpiU1kyS2R3bmU4aGFXNnZtZ2VjY1YxVGVCekNn0gHXAUFVX3lxTE54Qjc5SzlFdjVmMGUxSklRbFlpR05IR093LXhlMFA1bXRZQUo1N2tBLXdIazVuNFlDdVZPTERsTDZ2SFdXN2pDRmR0WUVjSWNocm05ZGVJQ09aNzJIUlNraGh5RDJqTjJTWDRrZkRuOXhxMnltNmYyYjAwT1BSbnpsUXMybnp5UjN0WmRwaGx3YjRlX0xYVVVwVDVYek0zT1BGaDhMcUFuMTJrSVZtMnNCd2lTek5TRzg4emlxbjVZVHZFX3FVc3oxNXBWUlJmeFJ6RE11cjNR?oc=5"
+    },
+    {
+      "date": "2024-05-31T21:46:52.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Rajkumar Sangwan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOHVPaGF5MnVKSlpsQ3lHcFJqVGJwbW1oNktUNjMzQ0hMWW0wVk9EeVZvS2lWUWVlTTlqZ2NtVVpxX2tyZkRXODdqMDNIQXZjY1JkeXhYN0w5NnRzZW8wS2FaWjZzOFhBRGotUHJGM0dDbzdsdkJzaDJrNmlkN0ZFakpUNmVUUkJ1cjhBN3JDSXoxUmtKa1pNQnc2VktTUENCN3gtd0llMjRwaEdhRzhxVUNpdVktYXI1Y3ZKV1ZsMA?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 5110,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "RASHTRIYA LOK DAL",
+  "party_bond_total": null,
+  "party_full": "Rashtriya Lok Dal",
+  "pc_id": "uttar-pradesh-11",
+  "pc_name": "Baghpat",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180444.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Financial Assistance to Talented Sportspersons from Economically Weaker Backgrounds",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Setting up an Indian Institute of Management (IIM) in Baghpat to Promote Higher Management Education in NCR",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to establish a Research Centre of Sugarcane Breeding Institute in Bagpat, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to implement the policy to give priority in the transfer/posting of women teachers working in KVS near their husband's place of posting",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Establishment of an Advanced Trauma Centre on the Delhi�Dehradun National Highway",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to set up a Sainik School and Sainik or NCC Training centre in Baghpat district of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to establish a sub-centre of AIIMS in Baghpat on the lines of a sub-centre of AIIMS in Jhajjar, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for River Rejuvenation and Pollution Control of Hindon, Krishna, and Kali Rivers in Western Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishment of a Super Specialty Hospital in Baghpat, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to set up a bench of Allahabad High Court at Meerut, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to provide adequate funds for conservation and development of monuments of historical and cultural importance in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to establish an AIIMS in Baghpat Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. that the proposed national highway from dabwali to panipat should be further connected to ganga express in meerut via chhaprauli, baraut, barnawa from panipat",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Demand from govt. to ensure participation of the regional panchayat member of our country, their participation should be ensured in the proposal of MNREGA, or finance commission and they should be given an honorarium",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to establish an AIIMS in Bagpat Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to include Baghpat district in Khelo India Programme and accord permission for construction of a stadium",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 40
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 92
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dr-rajkumar-sangwan"
+  },
+  "qualification": "Doctorate",
+  "questions": 25,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 3,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "New And Renewable Energy": 1,
+    "Parliamentary Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Steel": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "AMARPAL",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 3,
+    "legislative": 69,
+    "mplads": 26,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 4799426,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.36
+}

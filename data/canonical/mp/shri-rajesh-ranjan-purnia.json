@@ -1,0 +1,1715 @@
+{
+  "accountability_score": 40,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 15000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 46000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 44500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 105500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 593500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 9023733
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy 7,91,094 7 Lacs+",
+        "value": 2401948
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 900000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2465500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15384682
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RFZ4UP8dGBaoopoYWyq",
+      "total_assets": 119543561,
+      "year": 2019
+    },
+    {
+      "label": "Bihar 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RFZ4UP8dGBaoopoYWyq",
+      "total_assets": 119543561,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2710",
+      "total_assets": 120884682,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1,
+  "assets_latest": 120884682,
+  "attendance_pct": 70,
+  "bio": null,
+  "charges_framed_count": 16,
+  "committees": null,
+  "contact": {
+    "address": "Arjun Bhawan Vardaman Hata Purnea Bihar, 854301",
+    "emails": [
+      "rajesh.ranjan19@mpls.sansad.in",
+      "yadav.pappu@gmail.com"
+    ],
+    "phones": [
+      "6454227479",
+      "9643779643"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 2,
+  "criminal_cases": 41,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "Phulwari Sharif PS Case No. 840/2014",
+        "charges_framed": true,
+        "court": "ACJM-1, Special Court MP/MLA, Patna",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "414"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "convicted"
+      },
+      {
+        "case_no": "Fatuha PS Case No. 70/2023",
+        "charges_framed": true,
+        "court": "ACJM-1, Special Court MP/MLA, Patna",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "353",
+          "147"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 41,
+    "ipc_summary": [
+      {
+        "count": 7,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 6,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 3,
+        "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+        "section": "452"
+      },
+      {
+        "count": 3,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 2,
+        "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+        "section": "333"
+      },
+      {
+        "count": 2,
+        "description": "Voluntarily causing hurt by dangerous weapons or means",
+        "section": "324"
+      },
+      {
+        "count": 2,
+        "description": "Assisting in concealment of stolen property",
+        "section": "414"
+      },
+      {
+        "count": 2,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 2,
+        "description": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+        "section": "365"
+      },
+      {
+        "count": 2,
+        "description": "Extortion by putting a person in fear of death or grievous hurt",
+        "section": "386"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+        "section": "511"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for lurking house-trespass or house-breaking by night",
+        "section": "456"
+      },
+      {
+        "count": 1,
+        "description": "Mischief by fire or explosive substance with intent to destroy house, etc.",
+        "section": "436"
+      },
+      {
+        "count": 1,
+        "description": "Theft in dwelling house, etc.",
+        "section": "380"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for theft",
+        "section": "379"
+      },
+      {
+        "count": 1,
+        "description": "Bribery",
+        "section": "171B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for dacoity",
+        "section": "395"
+      },
+      {
+        "count": 1,
+        "description": "Putting person in fear of death or of grievous hurt, in order to commit extortion",
+        "section": "387"
+      },
+      {
+        "count": 18,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 16,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 13,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 12,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 9,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 8,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 7,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 7,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      },
+      {
+        "count": 4,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 3,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Causing hurt by act endangering life or personal safety of others",
+        "section": "337"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for house-trespass",
+        "section": "448"
+      },
+      {
+        "count": 2,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 2,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Non-appearance in response to a proclamation under section 82 of Act 2 of 1974",
+        "section": "174A"
+      },
+      {
+        "count": 1,
+        "description": "Right of private defence of the body and of property",
+        "section": "97"
+      },
+      {
+        "count": 1,
+        "description": "Wrongful confinement to extort confession, or compel restoration of property",
+        "section": "348"
+      },
+      {
+        "count": 1,
+        "description": "Assaulting or obstructing public servant when suppressing riot, etc.",
+        "section": "152"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+        "section": "109"
+      },
+      {
+        "count": 1,
+        "description": "Joining unlawful assembly armed with deadly weapon",
+        "section": "144"
+      },
+      {
+        "count": 1,
+        "description": "Oath",
+        "section": "51"
+      },
+      {
+        "count": 1,
+        "description": "Fractions of terms of punishment",
+        "section": "57"
+      },
+      {
+        "count": 1,
+        "description": "Rioting",
+        "section": "146"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Abettor present when offence is committed",
+        "section": "114"
+      },
+      {
+        "count": 1,
+        "description": "Threat of injury to public servant",
+        "section": "189"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to quarantine rule",
+        "section": "271"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "G.R No. 687/93",
+        "charges_framed": true,
+        "court": "ACJM-1, Purnea",
+        "fir_no": "Banmankhi P.S. Case No.82/1993, Dist. Purnea, Bihar",
+        "other_acts": "Sec.27 Arms Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "452",
+          "323",
+          "448",
+          "504",
+          "505(B)",
+          "386",
+          "365"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "G.R No. 930/09",
+        "charges_framed": true,
+        "court": "ACJM-1, Purnea",
+        "fir_no": "Kasba P.S Case No.43/2009 Dist. Purnea Bihar",
+        "other_acts": "Section 171F R.P. Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No.535/09",
+        "charges_framed": true,
+        "court": "ACJM-1, Purnea",
+        "fir_no": "K. Hat P.S.-75/2009, District Purnea, Bihar",
+        "other_acts": "Section 3 Prevention of Damage to Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No.921/09",
+        "charges_framed": true,
+        "court": "ACJM-1, Purnea",
+        "fir_no": "Rupauli P.S Case No. 38/2009 Dist. Purnea Bihar",
+        "other_acts": "Section 177, 179, 194 MV Act & Section 133 R. P. Act",
+        "sections": [
+          "188",
+          "171F",
+          "290",
+          "420"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No.848/09",
+        "charges_framed": true,
+        "court": "ACJM-1, Purnea",
+        "fir_no": "Janki Nagar P.S. Case No.-37/2009, District Purnea",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "S.T 478/1989",
+        "charges_framed": false,
+        "court": "FTC-8 Purnea",
+        "fir_no": "K. Hat P.S.- 143/1988, District-Purnea, Bihar",
+        "other_acts": null,
+        "sections": [
+          "395"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "ACIM-1 Special Court, MP/MLA PURNIA",
+        "fir_no": "KASBA PS CASE NO. 101/2018",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "KASBA PS CASE NO. 72/2024",
+        "other_acts": "Section- 3 Difence of Property Act",
+        "sections": [
+          "188",
+          "171B"
+        ],
+        "serial": 8,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "S.T No. 431/23",
+        "charges_framed": true,
+        "court": "ADJ-3 Saharsa",
+        "fir_no": "SAURBAZAR PS CASE NO. 165/1991",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "452",
+          "379",
+          "380",
+          "436",
+          "109"
+        ],
+        "serial": 9,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "23157/14",
+        "charges_framed": false,
+        "court": "ACJM-9, Patna",
+        "fir_no": "Phulwari Sharif P.S Case No. 768/2004, District-Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "456"
+        ],
+        "serial": 10,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "920/2001",
+        "charges_framed": false,
+        "court": "ACJM-4, Patna",
+        "fir_no": "Kotwali P.S Case No. 69/2001, District Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "144",
+          "452",
+          "342",
+          "365",
+          "511",
+          "506"
+        ],
+        "serial": 11,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "5741/20",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Kotwali P.S Case No.390/2020",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "353",
+          "51",
+          "57"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "406/15",
+        "charges_framed": true,
+        "court": "ACJM-9 Patna",
+        "fir_no": "Shastri Nagar P.S. Case No.-552/1995, District- Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "420",
+          "448",
+          "506",
+          "511"
+        ],
+        "serial": 13,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "947/2013",
+        "charges_framed": true,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Beur P.S. Case No. 34/2013, District Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "353",
+          "323",
+          "341",
+          "147",
+          "146",
+          "504",
+          "34"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "3069/2017",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Gandhi Maidan PS Case no 49/2017 District Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "341",
+          "342",
+          "333",
+          "332",
+          "504"
+        ],
+        "serial": 15,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "2012/2017",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Gardnibagh PS Case no -109/2017 District Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "342",
+          "323",
+          "307",
+          "353",
+          "332",
+          "333",
+          "114",
+          "147",
+          "148",
+          "149"
+        ],
+        "serial": 16,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "5298/2015",
+        "charges_framed": false,
+        "court": "CJM ,Patna",
+        "fir_no": "Gandhi Maidan PS Case no 314/2015 District Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "189",
+          "353",
+          "337"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "276/2018",
+        "charges_framed": true,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Shastri Nagar P.S. Case No.- 19/2018, District- Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "336",
+          "353",
+          "290",
+          "186",
+          "188"
+        ],
+        "serial": 18,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "9182/2018",
+        "charges_framed": true,
+        "court": "JMFC Cum Sub Judge XIV Patna",
+        "fir_no": "Gardani Bagh P.S Case No. 569/2018, District-Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "348",
+          "324",
+          "307",
+          "332",
+          "353",
+          "427",
+          "337"
+        ],
+        "serial": 19,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "8002/2017",
+        "charges_framed": false,
+        "court": "JMFC-13 Patna",
+        "fir_no": "Kankarbagh P.S. Case No.-975/2017, Dstrict-Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "341",
+          "323",
+          "353",
+          "427",
+          "504"
+        ],
+        "serial": 20,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "3917/2018",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "RPF PS Case No. 177/2018",
+        "other_acts": "Section-74(A) of Railway Act",
+        "sections": [
+          "147",
+          "148"
+        ],
+        "serial": 21,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Kotwali PS Case No- 425/2018",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "323",
+          "504"
+        ],
+        "serial": 22,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "4978/2020",
+        "charges_framed": false,
+        "court": "ACJM -14 Patna",
+        "fir_no": "Gandhi Maidan PS Case no 225/2020",
+        "other_acts": "Section- 3 Epidemic Disease Act",
+        "sections": [
+          "143",
+          "149",
+          "188",
+          "269",
+          "270"
+        ],
+        "serial": 23,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1625/2020",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Kotwali PS Case No- 133/2020",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "186",
+          "188",
+          "341",
+          "342",
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 24,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "G.R NO. 2663/2017",
+        "charges_framed": true,
+        "court": "CJM Patna",
+        "fir_no": "Kotwali PS Case No.179/2017",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "341",
+          "342",
+          "152",
+          "504",
+          "506"
+        ],
+        "serial": 25,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "5335/2004",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Phulwari Sharif P.S. Case No.-840/2004 District- Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "414"
+        ],
+        "serial": 26,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "3609182/2018",
+        "charges_framed": false,
+        "court": "ACJM -14 Patna",
+        "fir_no": "Gardanibagh P.S. Case No.- 569/2018, District-Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "324",
+          "307",
+          "332",
+          "353",
+          "427"
+        ],
+        "serial": 27,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "3917/18",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "RPF 177/2018 Rajendra nagar",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "145",
+          "174A"
+        ],
+        "serial": 28,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "920/2001",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Kotwali P.S. Case No.- 69/2001, District- Patna, Bihar",
+        "other_acts": null,
+        "sections": [
+          "97"
+        ],
+        "serial": 29,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "9608/2019",
+        "charges_framed": false,
+        "court": "SDJM Patna",
+        "fir_no": "Gandhi maidan P.S Case No. 478/2019 Dist.patna",
+        "other_acts": null,
+        "sections": [
+          "387",
+          "506"
+        ],
+        "serial": 30,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "893/2021",
+        "charges_framed": false,
+        "court": "SDJM Patna",
+        "fir_no": "Gandhi maidan P.S Case.- 55/2021",
+        "other_acts": "Section- 3 Epidemic Disease Act",
+        "sections": [
+          "188",
+          "269",
+          "271",
+          "143",
+          "145"
+        ],
+        "serial": 31,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "9681/2019",
+        "charges_framed": false,
+        "court": "SDJM Patna",
+        "fir_no": "Gandhi maidan P.S Case No.-483/2019",
+        "other_acts": "Section 05 Loudspeaker Act 1958",
+        "sections": [
+          "147",
+          "149",
+          "188",
+          "353",
+          "506",
+          "332"
+        ],
+        "serial": 32,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR-3640/2015",
+        "charges_framed": false,
+        "court": "ACJM 1 Darbhanga",
+        "fir_no": "Keoti P.S case No.- 124/2015 Dist. Darbhanga",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 33,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "5939/2020",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA Patna",
+        "fir_no": "Kotwali P.S. Case No.-. 404/2020",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171F"
+        ],
+        "serial": 34,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "4686/2020",
+        "charges_framed": false,
+        "court": "ACJM-4 Patna City",
+        "fir_no": "Agamkuan PS Case No- -909/2020",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "341",
+          "323",
+          "332",
+          "353",
+          "269",
+          "188"
+        ],
+        "serial": 35,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "57/2023",
+        "charges_framed": true,
+        "court": "ACJM-1 Special Court, MP/MLA PATNA",
+        "fir_no": "Kotwali P.S. Case No.-331/2022",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "188",
+          "149",
+          "341",
+          "353",
+          "427"
+        ],
+        "serial": 36,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SPJ 60/2020",
+        "charges_framed": false,
+        "court": "ACJM-1 Special Court, MP/MLA",
+        "fir_no": "RPF, Samastipur-P.S Case No.-60/2020",
+        "other_acts": "Section- 147, 145(B), 159 Railway Act",
+        "sections": [],
+        "serial": 37,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Lodi Colony P.S Special Cell CASE NO. 236/2021 Dist. Delhi",
+        "other_acts": null,
+        "sections": [
+          "386",
+          "506"
+        ],
+        "serial": 38,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "METROPOLITAN",
+        "fir_no": "Amar Colony PS Case No.- -144/2020",
+        "other_acts": null,
+        "sections": [],
+        "serial": 39,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 22,
+  "dob": "24/12/1967",
+  "eci_state": "Bihar",
+  "email": "rajesh[dot]ranjan19[at]mpls[dot]sansad[dot]in,yadav[dot]pappu[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 469070,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 449840,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1143840,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 450440,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1241292,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 405278,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 436473,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 335010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1241292,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 675902,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 95165,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 354890,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 363913,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension ( Former Public Representative)"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary (Public Representative)"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 365, 420, 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for kidnapping, cheating, attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "365, 420, 307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "16 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 16,
+        "convicted": 2,
+        "pending": 39
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹9.92 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 99225182,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 15575000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "16,61,808 16 Lacs+",
+        "value": 1661808
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 17236808
+  },
+  "margin_votes": 23847,
+  "minister": false,
+  "mp_name": "Shri Rajesh Ranjan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 47774818,
+  "mplads_unspent": 99225182,
+  "mplads_utilisation_pct": 32.5,
+  "mplads_works_completed": 46,
+  "mplads_works_recommended": 101,
+  "mpsno": 554,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Rajesh Ranjan Urf Pappu Yadav: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zQjBjTHU5NUJYamNGc0U5U1p5bFhBVUt2TURETzZ3R2N4SjEyUVNYS050b1BQV2NwNHVrYWhPZXRTM3M0aHJ5Z09fTVE5ZGtfU09OdkFBSTJ2NzBxSjJFdVhwZ2ZhaG1JU3ZuX3c4Q0I4MjZkWmVDQWxzU2RpQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Purnia Election Result 2024 Live Updates: Independent Rajesh Ranjan Alias Pappu Yadav Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQblpIR09XeDZUSTB5MzdMSWs5cjNXeVFxVFBadW43QVVlVU40WjF6VTBEUlRaRkl4OXB3dmM0NzBkd1J2WTNBRlBFRmJpalBHVWtQRWtVVzEyUVIyNGEzOHpQNmUyeGVNeFhBOW0wQkhXTjV6bWtONXQtNFhGU21TaWd4eVZGSkV1U2taU05FSXZxZmVsMlFYYkVZUFdtNV8zaUxlbXBzWWxmejRvdXU0S1hJRFgwTWd5NDlNLU1R0gHLAUFVX3lxTE9OWVN3bFpRbWxGaElURUhxa1Z2TVcxOXlKTU9WdzFfU0tiRmJDcDFONlUzU0pfNEZzZGZSbkNSMVZCTGIxWUZyVDZEV1VLZGdfV01RZkV5aDRUOWVlQVFRcnR5ODZBaVBNUDhsSmFxOVctTFJ1T1JzVktleG1XRmc5WGNMZlRFcEFralZvZnF6aktSVmc1OVNnSGphNkdpUXRHWU5hUlZTM243MEJzeVU3RTVCYlZycWU2eEJJWVhjUVBkNnF0Si1kQVZZ?oc=5"
+    },
+    {
+      "date": "2024-05-31T11:56:02.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Rajesh Ranjan, Independent Representative for Purnia, Bihar - Candidate Overview | 2024 Lok Sabha Elections",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1hMWnh2aUs2UVcydFc3TGxHX2hMMENMUUJXSUJ1SHFzVVlTUFBZVVFWaWlha1pxeEVpemRwUzFpZDROcm9QX1laeFdwVXZIS1o1VnJ1QnhDVXZzQVdfYkNKTU9TVm0tN0FQaUdObUZpbEE2QW1QazhfdHI0MTYwVUpmbUlQYzdSTGxjQl9kb1ZPQU5PbFc1UHhlUjEwczh6RGpCMmw0RlhFejJTd3k4RQ?oc=5"
+    },
+    {
+      "date": "2024-05-15T09:56:38.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Rajesh Ranjan alias Pappu Yadav",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQekZpM2pqQm1vTjJ1dUNYVVkzQ2h3WUZZUjNuWTN1cDNQUlE5UXBlck9rTTlNR09jVEY2a2V6bk5jQkNxX3B6RVlVY3FXNVRjSjJCay1JUGVwUkc2YWRfUDNIX3dOODhzb3E1Z0RzQURMeG1NMTktS3JGdy1sOWtqZTA2My1HWFExUUN0WDRGTGFZQVQ2cTl3SXFCSkFtTUJxNTM0OFFHZjRtOTllcWdlM1VYZUswdw?oc=5"
+    },
+    {
+      "date": "2024-04-25T11:26:40.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Rajesh Ranjan Alias Pappu Yadav, Ind Party, Purnia, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHBlb01qZGlvSHRBZ3RtS3h3VTl4RUtkaHAwSEVIbUpySEliVGZMb2wwWnZ1Z1BiaXBiUjFqMEw4dHJuUUdhMnN4cVBFSFdURzNLYWZTRy1YUGJQR09kQXhvOE9GMGFXckJfSmtSTnozZnBYRmF4dUJETU02Q1ZESU9xSkxKV29JczZvMmRXNTVPYWxIX29VT2ZnU2tvU3pTdllaa0doS1Ntb2dVQmVYNGZEdF9MMVJBVHl0ZHpyVGVIdHN3anE2Q1BkY3p1RzJIVnZvSXR3UlFYZEVXVEQ4WVRaaE81MWRlU3dn?oc=5"
+    }
+  ],
+  "non_serious_cases": 20,
+  "nota_gt_margin": false,
+  "nota_votes": 23834,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "bihar-12",
+  "pc_name": "Purnia",
+  "pending_cases": 39,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180067.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 80
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Strict Action and Speedy Trial in Cases of Sexual Assault Against Girls in Bihar.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue of Sexual Exploitation of Girls in Coaching Centres and Hostels in Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding alleged irregularities in PMGSY and 'Har Ghar Nal se Jal' scheme in Purnia Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to develop District Hospitals in Purnia, Kishanganj, Araria and Katihar districts in Bihar as Referral Centers and to establish a Super specialty Hospital in Purnia",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need for establishment of Information Technology and other Skill Development Institutions in Mithila-Simanchal region of Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Establishment of Factories for Sugar, Milk, Maize, Makhana, and Tea in Purnia, Araria, and Kishanganj Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to improve healthcare facilities and infrastructure in GMCH, Purnia, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal not to destroy Dalit villages in Arora Guha, Purnia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to establish a Rashtriya Makhana Vikas Board in Purnia district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to flood and sand excavation in Patna",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding loan disbursal by public sector banks in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Declare April 14 as 'National Equality Day' or 'Constitution Maker's Day' in Recognition of Dr. B.R. Ambedkar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Timely and Affordable Supply of Urea and DAP Fertilizers to Farmers and Fixing Fair Prices for Maize and Makhana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Increase in Wages, Pensions, and Scholarships for Marginalized Workers and Students",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Demand that the nexus of crime be stopped immediately",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to run Amrit Bharat Express trains from Sealdah to Saharsa and from Punia Junction to New Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding shortage of DAP and Urea",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Expressed concern over cases of paper leaks in Bihar's public examinations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to provide financial assistance for construction of roads and bridges in Purnia District, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to expedite construction of railway line from Kursela to Bihariganj and Bihariganj to Birpur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Issue related to the power cuts in katihar and purnia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt take an appropriate steps so that discipline and control can be established in the field of online gaming",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to take measures to promote production of Foxnut seeds (Makhana) and also set up industry for �Makhana\" production in Purnia, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand from govt that the guidelines for the coaching should be made and their quality should be improved",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Demand to govt construct high dam for kosi seemanchal and mithilanchal as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding need to enhance the compensation for land acquired for Purnea Airport",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 68
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 123
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajesh-ranjan-alias-pappu-yadav"
+  },
+  "qualification": "Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 5,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Statistics And Programme Implementation": 1,
+    "Steel": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANTOSH KUMAR",
+  "runner_up_party": "JD(U)",
+  "score_breakdown": {
+    "base": 72,
+    "criminal_deduction": 40,
+    "legislative": 74,
+    "mplads": 69,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 21,
+  "terms": 6,
+  "top_inference_severity": "extreme",
+  "total_assets": 120884682,
+  "total_liabilities": 17236808,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.46
+}

@@ -1,0 +1,556 @@
+{
+  "accountability_score": 17,
+  "age": 77,
+  "assets_2019": 61176355,
+  "assets_2024": 84812907,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 21825578
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7074200
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 28899778,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 203700
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 14026146
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 37346160
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1982119
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1855000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 55913129
+  },
+  "assets_earliest_year": 2006,
+  "assets_history": [
+    {
+      "label": "West Bengal 2006",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5gQK2WMpN48iQU7QTWte",
+      "total_assets": 4097608,
+      "year": 2006
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5gQK2WMpN48iQU7QTWte",
+      "total_assets": 4187479,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5gQK2WMpN48iQU7QTWte",
+      "total_assets": 22086278,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5gQK2WMpN48iQU7QTWte",
+      "total_assets": 61176355,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9027",
+      "total_assets": 84812907,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1970,
+  "assets_latest": 84812907,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sudip Bandyopadhyay is an Indian politician and a Member of Parliament. Sudip Bandyopadhyay has been a member of the Lok Sabha for five terms, serving in the 12th, 13th, 15th, 16th, 17th, 18th Lok Sabhas. He represents the Kolkata Uttar constituency of West Bengal. He is the leader of Trinamool Congress political party in Lok Sabha.",
+    "title": "Sudip Bandyopadhyay",
+    "url": "https://en.wikipedia.org/wiki/Sudip_Bandyopadhyay"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "72/4 S.N. Banerjee Road, Moulali Kolkata West Bengal, 700014",
+    "emails": [
+      "sudip@mpls.sansad.in",
+      "sudip_bandyopadhyay2006@yahoo.com"
+    ],
+    "phones": [
+      "3322175010",
+      "9433086118",
+      "9013180066",
+      "1123094200",
+      "1123094201"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "RC 39(S)/2014-Kol, Dt.05/06/2014, CBI/SCB/Kolkata",
+        "other_acts": "Section-4&6 Prize Chits and Money Circulation Scheme Banning Act, 1978",
+        "sections": [
+          "420",
+          "409",
+          "120B"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "T.R. Case No.04/2017",
+        "charges_framed": false,
+        "court": "Special Judge/CBI Bhubaneswar",
+        "fir_no": null,
+        "other_acts": "Prevention of Corruption Act, 1988",
+        "sections": [
+          "147",
+          "149",
+          "427"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "06/01/1949",
+  "eci_state": "West Bengal",
+  "email": "sudip[at]mpls[dot]sansad[dot]in</br> sudip_bandyopadhyay2006[at]yahoo[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1613212,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2761158,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3968084,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2035716,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1983835,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1140495,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 881486,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 698324,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 721502,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 509567,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Others, Salary From Parliament (Loksabha) as MP"
+      },
+      {
+        "person": "Spouse",
+        "source": "Others, Salary From Legislative Assembly as MLA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "From ₹41.0 L (2006) to ₹8.48 Cr (2024).",
+      "headline": "Declared assets grew 1,970% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4097608,
+        "from_year": 2006,
+        "pct": 1970,
+        "to": 84812907,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹8.07 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.24 Cr.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 80715299,
+        "declared_income": 12362005,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 1,970%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 1970,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 29% of MPLADS local-area funds were spent — ₹10.38 Cr unspent.",
+      "headline": "71% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 103816986,
+        "utilisation_pct": 29
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 92560,
+  "minister": false,
+  "mp_name": "Shri Sudip Bandyopadhyay",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 43183014,
+  "mplads_unspent": 103816986,
+  "mplads_utilisation_pct": 29.4,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 38,
+  "mpsno": 38,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-09-17T20:27:57.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "In Conversation With… Sudip Bandyopadhyay",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zYS11S2dxMjdQUHNySzM0SDNCT1BCWHBQZjh2QUVvYXh1QUlPQ1BPRjZpTngxNnl6VEhCckxsMlI0andPTWhFQ0NLMHJOUk92ekFOOGNoOFBrWm40MDk1cE5qajRlU0hlblE0RFlmUWl5MUFr?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "TMC Elects Sudip Bandyopadhyay As Its Lok Sabha Leader, Derek O'Brien To Lead In Rajya Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVjcxc0hNSVlTY19YaEVCanVVbVJsRHluUzV0NVVZcEZjOGdZV0c5OHVEWWkxQ2w2aUVfcDJDLVUwR1J2dGhRWEY5UW5TYzZhVXRvWFB4RjRNZkxuaFh0Sy16akpKLXZqQVBEWVh5SDBrTkdkVElxMFI1YVUwLVdwYkVsMFNtNnNWLXFNeUx0R1VINkpiRjRwTC1aU1BncVpCbmlhd3dSRndEbzVLcVZMazFzeXl1TzVlNFplQkJUcTZqekVkT3pjM05OZmJOQ2Z2OE54bmViaWxJb0xTQ1VWMdIB5gFBVV95cUxNSmdXME56R1RXejNybUZsaTBac0dscXRMUzFsNUlyUE5WakM2R09DTXNFOVVZLUJidFZZcGJWZ3JjT1lrV2lDWWZLTnAzbWhveER1clY5RXg4TUZLNFBRajExOWpDZHpjcVJSdGc1a05xTFBqUF9Mb09Sc3d3aUNnX3ZTT2drdVljZkNvVFY2NjlRZjZFdUx6Skg4SjRrWlUwTzhESl9QM0paTjk4bFFoaFNXbHlDRzY3bEpjdWw1VVh6X1pVU00zdEY0VUR4OTE3WG1IeDNaUjRrakZiNmZVX1hIOU9NZw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Kolkata Uttar Election Result 2024: TMC's Bandyopadhyay Sudip wins for a fourth straight term",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNmFXU2hvVU5LUG5JcmZ6NVJnQmhXekpxbTVTWDRPXzM0bXk4SXY5WFhvTGtZbWZ5UmxmdGM3SDIyUDhPMlN2czdFSWwxSXlyNDc5NkNESjdjRjFRWFZpZ2VwWE9IZzk2bmdZeTFPemZ6eG5sUnBfXzdoS1JpcHRmamIyaFd3b1RMYzFxOUlYREV5bkx6M0VkV09WRVdiSHhnV3dyOWNxM0hnQXpNZXlfOEJjYUJyNFpCS3dIYTYxRGRCOFRBazdDQ2k4aF9QMU5OMGVCNFNwNS16VFdZTlRqV2ZJLUxPdFND0gHuAUFVX3lxTE1aR09XdWJ2Wl9FclpSS0Q5bWZVM2FRSjFWVFZmRGZuMloxMkpDaURPYktBVWRaY01KSnVZVUd1UFhPRjMweFNkRnluNnFhREJRWmJnQzZXU0hac1pPbVRlRnM3M0VtS1NrbWF0eU0xVnZrYVhKbzdRaG9qcXQ2cThsS2Rhc1ZCMTYwRXRyZDJ0N28yZG9rVjdGTnFWcnl3SWlQb19aNHVsakdSQkhzWTJ5QkYxWm1nV3NzOFRZQ2dEd0ZHbE4zN3NBd1Rsd2JiaWx2R28wbjF2eFpKUFVxdlkyZXA4aHprcGV2N1U4ZkE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kolkata Uttar election results 2024 live updates: TMC's Sudip Bandyopadhyay wins",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVm9RYklwN01kMFJUMnZVLWp0cG5xR19XLVhNd24ycnU4TXRfdUZ3QmRqUl9qRGNJUkhDVnloeGJPWnhuclVwbUFfbHFyNGhYZ3Q4OVZGQ0RfaEcxbGtCM2lBNFFWZ1BIRC1rYzNoZjlOc2swVXgwS1NsVHJqQTQ2eUVsa2JPclpzZmZZWHFLWjkxcjJVdnhKcEhVOE9UaXpwMmFrVU5YLUdONEQ0ZTlUVTBPOV9SQlNaQUhSQXp5ZVJTbUYweTlyMG8xYV81dVhrb2xvMVZPcGxoLWptb1U0dkQ1QkFodXlnNjc4RFQ2WUZsTHJOWTlxMm40eHpEWHpNbUdlS081WmJ3a24yMGtLZUtXYjRiSFpZaHFSYWEtS24yR0tHdmxaN3FlYldqck10VU1RUl9fLUtqeUxRRUgwZ0lFSklCbElCdVlKR2ZnbnNmNGdjRTFESkx3Z9IB4AJBVV95cUxQczh4RTNaTEZJeDFHdE9sTFRCbkpLdHV5ZzMzdGVpTzRTNjVuWnRzYm1vN2p2NElwTnZ2VTVObmNJMG1rcWU0eDZJczUwYm1xbmZsMnFIYmFnSXYyZG1WMkctLVhWZWlTWUNZSEpoREJWdkF6M3VKeUhkV0VvdmstUUFEa0l5T0dPSHZoSDNQQjFZd1I1ZmxsSGo1UkNuWkQ4azRub3FhQ0lFWURsUV95YnhmalBhMDB3cGdZd1VIa2c2VkN5WWNiOXJPcUZmYVlaM0o1dzBfUWthaEZYampOVGtzWnFKeGZ6MkIyc0xxSk9oNFpaOXpEVHk4LXh1Z0N5LU9LcjFRT1YzTl91RUFmdE1XV0dSOHZld19hZVRQZWUtRmNQRXVGSzdLdlVWVG44bmtiY3c1Z3JwX1lpcGowaXF3NlBUNlJGdFVwczlFS2NvTjNsOTh3TzFmdWVBejhT?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bandyopadhyay Sudip Election Result 2024 LIVE Updates Highlights: Bandyopadhyay Sudip of TMC Wins",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0I0MmR4VDVXOE1HMlhnQTlFTnhjQUZXNFhrcERDb3haUzdISFRuclB3WElPQnZLakptbFF0d0J1U0s3WXFtYTRmV3E1WUpmWlRvc2UxYUViQ2lPRFYwQWNndk4zRlNmdFRjZzZjVUcycFl5LVdSOE9WY25UTUxzQVZYTGlEbE1JVE9CUl8tQlNYSEZ2aEExOVN6dk1lUXJzZU1iaXVsU0lxZ0g0Zm0yd2pERnJTN1psZDYwQ3JqVlhPX0J5aHfSAcsBQVVfeXFMTWFraGtyUG9hOHltRS1fS05qMHhCTVV5NzRkcTJhOHd0cHhBRkJCSjM0MmxaVlFLNlo2SXVrYmZfT25HT3VLWTd3M0IxMkxHU2h5WjQyRkt3SmRNWkdZaklQWThtRmcwOTNNOUduamFkV0ZrX2g2MG5EWXYzNmtrVlhfR3AySnQxQmVZYjNvSW1GOHlaZF9iZU9LeE95ZmdKeEhQTnhwRHB6b25QOTQ1dE5fdmtXS2RpS21jTTNkdXExUVVpMk5UMGVTYVE?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 10044,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-24",
+  "pc_name": "Kolkata Uttar",
+  "pending_cases": 2,
+  "phone": "Tels. :  (011) 23094200, 09013180066 (M),Telefax : (011) 23094201",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180542.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 36
+    },
+    "debate_titles": [
+      {
+        "date": "16.12.2024",
+        "title": "Raised the issue of atrocities on minorities in Bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to minister intimate the house about the latest position regarding bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Demand to be withdrawn GST immediately from life insurance premium and medicines",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to minister to submit a report on the railway safety",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sudip-bandyopadhyay"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "TAPAS ROY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 7,
+    "legislative": 31,
+    "mplads": 46,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 21
+  },
+  "serious_cases": 1,
+  "terms": 6,
+  "top_inference_severity": "extreme",
+  "total_assets": 84812907,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 39,
+  "winner_vote_share": 47.44
+}

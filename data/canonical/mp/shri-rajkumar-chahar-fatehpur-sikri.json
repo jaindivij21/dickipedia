@@ -1,0 +1,617 @@
+{
+  "accountability_score": 29,
+  "age": 59,
+  "assets_2019": 14854247,
+  "assets_2024": 34176612,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 456800
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 20000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 25456800,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 375700
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1073626
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4748614
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2482672
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 40000
+      }
+    ],
+    "movable_total": 8720612
+  },
+  "assets_earliest_year": 2007,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2007",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HSxU29n97Dh6S6jY4TGB",
+      "total_assets": 195000,
+      "year": 2007
+    },
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HSxU29n97Dh6S6jY4TGB",
+      "total_assets": 6255443,
+      "year": 2012
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HSxU29n97Dh6S6jY4TGB",
+      "total_assets": 14854247,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4223",
+      "total_assets": 34176612,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 17426,
+  "assets_latest": 34176612,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rajkumar Chahar is an Indian politician. He was elected to the Lok Sabha, lower house of the Parliament of India from Fatehpur Sikri, Uttar Pradesh in the 2019 Indian general election as member of the Bharatiya Janata Party. Chahar is from Jat community.",
+    "title": "Rajkumar Chahar",
+    "url": "https://en.wikipedia.org/wiki/Rajkumar_Chahar"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "59/121, Ajeet Nagar, Kheria Gate VIP Road Agra Uttar Pradesh, 282001",
+    "emails": [
+      "rajkumarchahar9@gmail.com",
+      "rajkumar.chahar@mpls.sansad.in"
+    ],
+    "phones": [
+      "5622301911",
+      "7895160009",
+      "9013997422",
+      "1123092324"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing grievous hurt",
+        "section": "325"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 2,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 2,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 2,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "ACJM-2 MP, MLA Court",
+        "fir_no": "264/11, PS Fatehpur Sikri",
+        "other_acts": "Section 7 Cr. ALA, Section 3/5 PDPP Act., Section 150, 151, 152,174 Railway Act.",
+        "sections": [
+          "147",
+          "148",
+          "323",
+          "427",
+          "336",
+          "332",
+          "353"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "ACJM-2 MP, MLA Court",
+        "fir_no": "PS Achnera 30/2006",
+        "other_acts": "Section 7 Cr. ALA",
+        "sections": [
+          "147",
+          "148",
+          "332",
+          "353",
+          "427",
+          "341",
+          "325"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "10/07/1967",
+  "eci_state": "Uttar Pradesh",
+  "email": "rajkumarchahar9[at]gmail[dot]com,rajkumar[dot]chahar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1368926,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1386596,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 955502,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1165461,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 352844,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 498750,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 495250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 470750,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 432250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 404250,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Surya Medical Store Care of Dr. Sunil Kohli Nursing Home Arjun Nagar Agra"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Computer Training Center Kheriya Moad Agra"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.9 L (2007) to ₹3.42 Cr (2024) — among the steepest on record (top 1% of MPs).",
+      "headline": "Declared assets grew 17,426% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 195000,
+        "from_year": 2007,
+        "pct": 17426,
+        "to": 34176612,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.40 Cr between affidavits, while declared income across 5 ITR years totalled ₹52.3 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 33981612,
+        "declared_income": 5229329,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1964321
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1964321
+  },
+  "margin_votes": 43405,
+  "minister": false,
+  "mp_name": "Shri Rajkumar Chahar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 95259092,
+  "mplads_unspent": 51740908,
+  "mplads_utilisation_pct": 64.8,
+  "mplads_works_completed": 45,
+  "mplads_works_recommended": 47,
+  "mpsno": 5142,
+  "myneta_serious": true,
+  "news": [],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7793,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-19",
+  "pc_name": "Fatehpur Sikri",
+  "pending_cases": 2,
+  "phone": "Tel : (011) : 23092324,09013997422 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180476.jpg",
+  "photo_source": "prs",
+  "pmbs": 1,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Need for New Railway Line to Improve Connectivity in Agra, Dholpur, Bharatpur and Karauli Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Formation of Atal Nagar District in Honour of Atal Bihari Vajpayee",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to declare the road between AgraTantpur Court as National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Providing Financial Compensation to Highway Accident Victims and Their Families through Toll Operators or a Government Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to declare Agra as an Information Technology (IT) hub of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeall to make IT hub in Agra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding demarcation of boundary of Chambal Sanctuary along Chambal river in Fatehpur Sikri Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Fatehpur Sikri Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for a railway station at Bateshwar in memory of Atal Bihari Vajpayee",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need to establish a sports stadium of international standard in Agra District, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Rename Delhi Roads After Indian Historical Heroes Instead of Mughal Invaders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Release of Water from Rajasthan Dams to Revive Dry Rivers and Clean Yamuna River",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for the Development of a Grand Railway Station and Establishment of a Metro or Mono Rail System Connecting Taj Mahal, Civil Airport, and Fatehpur Sikri for Enhanced Connectivity in Memory of Shri Atal Bihari Vajpayee Ji",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Issue related suicides of the farmers in karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to complete construction of remaining portion of Agra � Tantpur court Raod in Uttar Pradesh declared as National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding request for expeditious completion of Kendirya Vidyalaya building at Achhnera in Fatehpur Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding development of Bateshwar in Agra as a tourist destination",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 121
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajkumar-chahar"
+  },
+  "qualification": "Graduate",
+  "questions": 12,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Food Processing Industries": 1,
+    "Housing And Urban Affairs": 2,
+    "Labour And Employment": 1,
+    "Power": 1,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Statistics And Programme Implementation": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAMNATH SINGH SIKARWAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 69,
+    "criminal_deduction": 12,
+    "legislative": 48,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 2,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 34176612,
+  "total_liabilities": 1964321,
+  "wealth_pct_increase": 130,
+  "winner_vote_share": 43.09
+}

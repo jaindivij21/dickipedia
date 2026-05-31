@@ -1,0 +1,576 @@
+{
+  "accountability_score": 4,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1029500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 60000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 16200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1105700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2468525
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1374530
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 11161262
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "India First Life Insurance Company Ltd 7,59,069 7 Lacs+ Sudlife Insurance 5,35,0",
+        "value": 1694112
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 149284125
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2970250
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 874900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 53678980
+      }
+    ],
+    "movable_total": 223506684
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9pSdzcpXNr4hR23zaS9v",
+      "total_assets": 5408086,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9pSdzcpXNr4hR23zaS9v",
+      "total_assets": 22155412,
+      "year": 2009
+    },
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9pSdzcpXNr4hR23zaS9v",
+      "total_assets": 69054791,
+      "year": 2014
+    },
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9pSdzcpXNr4hR23zaS9v",
+      "total_assets": 518276356,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5320",
+      "total_assets": 1329206684,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 24478,
+  "assets_latest": 1329206684,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Punyai H-43, Satyamnagar N-5 Cidco, Chhatrapati Sambhajinagar, Aurangabad, Maharashtra, 431005",
+    "emails": [
+      "drkvkale98@gmail.com",
+      "drkvkale.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9822011151"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/drkalyankale/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/drkalyankale?lang=en"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/dr.kalyan.kale_111/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "340/2023, Jinsi Police Station, Aurangabad, Chhatrapati Sambhaji Nagar",
+        "other_acts": "Section 135 of M.P.A",
+        "sections": [
+          "143",
+          "149",
+          "188",
+          "341"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SCC 5364/2021",
+        "charges_framed": false,
+        "court": "14 JMFC Aurangabad Sambhaji Nagar",
+        "fir_no": "331/2021, City Chowk Police Station, Aurangabad, Chhatrapati Sambhaji Nagar",
+        "other_acts": "Section 135 of M.P.A & Section 11 of Maharashtra Covid-19 Regulations",
+        "sections": [
+          "188",
+          "269",
+          "270"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "17/11/1962",
+  "eci_state": "Maharashtra",
+  "email": "drkvkale98[at]gmail[dot]com,drkvkale[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1627432,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 9677390,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4009177,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3244338,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4100587,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 114856,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 74427,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 96650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 240587,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 295879,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1715995,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6262020,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2063638,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1044647,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5996400,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Social Work, Agriculture & Dairy Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture and Dairy Business"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹54.1 L (2004) to ₹133 Cr (2024) — among the steepest on record (top 1% of MPs).",
+      "headline": "Declared assets grew 24,478% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5408086,
+        "from_year": 2004,
+        "pct": 24478,
+        "to": 1329206684,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹132 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.27 Cr.",
+      "headline": "Declared assets rose 58× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 1323798598,
+        "declared_income": 22658924,
+        "itr_years": 5,
+        "ratio": 58
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 23% of MPLADS local-area funds were spent — ₹11.28 Cr unspent.",
+      "headline": "77% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 112836828,
+        "utilisation_pct": 23
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 30204028
+      },
+      {
+        "category": "Ashish Kale 26,00,000 26 Lacs+ Bhaskar Musande 35,00,000 35 Lacs+ Bhausaheb Kale",
+        "value": 91143480
+      },
+      {
+        "category": "1,23,94,004 1 Crore+",
+        "value": 37921373
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 159268881
+  },
+  "margin_votes": 109958,
+  "minister": false,
+  "mp_name": "Dr. Kalyan Vaijinathrao Kale",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 34163172,
+  "mplads_unspent": 112836828,
+  "mplads_utilisation_pct": 23.2,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 60,
+  "mpsno": 5767,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-30T06:38:29.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kalyan Vaijinathrao Kale , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmJyOEJZSXFzZUVkQTl1T3NqTkJpYTlZU3d6anhOSlpHUFcwY0J3b0RxTkdmaU40dThSczhNVjg1Rll2WHFZWWxJS2Q5cUJNM19CRFFUaEdyaE5obHRPckVnbzJVblpHR0wtNmd1NGVrWG01a09vNkpNRTJNaXJrelRLZmM1WnV5dXJvTE9weVk1Rlk?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jalna election results 2024 live updates: Congress' Kalyan Vaijinathrao Kale wins",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc1l3QmktZVFCdGpSSXBTd0hwTm9RbFhQWGVhRzZ0OUpYSkZCczJWWDcwNDhLcUxMWjQ5RlZEcm51bWJZT0t6WFRlWGJlOXQxY1Z0QUFHYXpkLURUV0ZiN3hpcFFJNnRoOVlkNjNXVVZTdGRWN1V2U3c4Y1RGVWh6Q28wUmoxc29Gd3NUajZlTG51QkpfQWtSTHhUN0l1WGVtcXRtTTg0WG9wLXhYMGlSX3hOSW1OdUFNbUdUamp3WldxTC03QXo5WWpGaUd1OEliS1J4TVNZQ0VqVUR2SVRCMnZHWHgtaVpxZWxMMDY2d3R0QUFnX2dyd0VPbmFvMktFVVd4TNIBigJBVV95cUxPSS1zYW4ybExXWmlkMHZ4bEJyd1ZFSVYwLUNzTVhzOGJQVEQxWUN3TXdKSTEzNnhJbTFVM0daa2tfYU01VGhFTFJsSjB5dUh2QXU1d0h0a0RaSnZKRTZlbEJzdHNfdW5aZERPU1RicHllMXVZaGtzTWoxcmFKdm5CR2xtaXVsYnNUYm93ak43TjllOWYwb1FiTS1jZHB3OGNkU3JtQjJfYUJLSklLRWRKT09sSkNlbU1iNFI0Zm1IeXBCMDdjZ1VyeEdPbWx3aG9yX20wM0dFM2pHbFdianZhSXFnUUN0Q2dFamhEZ1dGME5PYTRHRUZld29jY19acURyUjM4UTVjVF9Qdw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kale opens doors for Sharad Pawar’s entry in region",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVlR1dTY4bVFZRzQyQTl4WExtMFd2c3gtbkdhWTg4aDFKZjVqd3g1d3hqU05MNHZfTldTbVp3aW4xUjNUMTlld1NRSU94aVhZUEpwVU1MRDh3Z0pQMXQwUXJKeFBKelpvcTFNRDI0T25oZHowQk9fNDZuY0pQVVc4WUpSbWgwRFBNbkg0TUVLc0V5MXJ2R0NVamUxZDhpWXhEbG1oYTJXSEZ1WFhsd2Vqal9JSTZlLTlwbHBndm9iWFVhaE9ZUGNsSUNaQ2ZEQ2xvR1BES9IB2gFBVV95cUxNNTVsRTNsWlBrQkY5TnZXTWYydDMyV09FaEFxbkRzMG1SVTdubWZjaGkzREcyNHAydVI1YmJsQkZoeFJKSzZ0OUtJcmh1MHUxUnJMZWVieXFLNUhNM2hTTHdLdEJaT09aUmRyNHdrbmlKak5tNkRQdWVRZ3cxZFRCa0R1a1BnN1RRMlRqVTJNdlU3VzhwN09hRDl1TWFZUUdSRW1acURfNW03MmR3NUMtUkJwVm1MazAwUjlqeXRwblZxTmFmUkRScHAxYjg4U3pvUTdPV1hoMkZEUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Jalna Election Result 2024 Live Updates: Congress's Kalyan Vaijinathrao Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnFqYWVTZklpbFl0QmR1aTZkNXFndTBxaEs4SGxQa3ltQ1gtTUZDTTJqTUNEX2N0aGdJTGE4aFYtZEVRSmtyWE9DUFJuby1XMUJMOS1pVFV4b0NGd185VUQ5ZzIyNk55QnFkcVN4SllYTEd5akREaHJmVl9CMGE5WVpWRkw2R1hvUkJ6ZTRjNG5tUTVZUWR1Z3NhTU1uZHptNzZvWnphdTBfVXNQOE9TakdqcG42VV8wN0ZqQkhPUk0tV29S0gHSAUFVX3lxTE1SczVjX2tDNXUtRlczYWlMNkpadlFnQXZHV0pLMFp4V1BJeTNyQTdURGdwanhHU3FrWkVNZ0pqV0pVdWl3OEkyRTBpVmZLWTZlS0JJNHNLbXlNM2tiRGJyNi1JUDM1UnZzTlVWdWFJY19Hb25KTFRaZ2pqamthdU5XZktJcG1OSGQ2WEFfODRZSE5uOHlOclBwZTBVYjdxcjFGNGp2N2oxOHVrb0V0QTNaQTBROThmbDlhb3I3T3RFNktoQmZIc3FFNzRybWZfZ1VJdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Jalna Election Result 2024 LIVE Updates Highlights: Kalyan Vaijinathrao Kale of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1M4emtTQllmVzRET2ZpTWJ4TnJPZjg4QUN1ek9aMmh6Q3RqTzRPd1FHQmRqbkFvXzhZM1NXX21iZUJTTE9FZHpQc2lLYlRadWJUdF9oQzE2U1V2ODY4Y3pxbUVFZ1ctcTlKaEVKdGFVb3NleG9pdWYyZDNCb0hKcEdQN2s1b0RUSkZZRy13YTh4TUtqRFA1UFQyU2liRUh1VTY0dVBjQV8yRUwySjVSWWwzYVk1LVRHQ1EtUWRKQ2NQSjlFRlpZLVNHQUZLdU9MUXlHU1h0UDJIY0ZPY2RJ0gHkAUFVX3lxTE9CSWltNnZpaUI5Ni1iX0V5UHlpSVN5VXZrZU9BNTR4cG80N18zYmtDbGYtQWZ5VzJzTGYzOWllamJ3WVhxaFpJcFZIUXBIU01SRmNqRXZzN3EwUWphV1dhNW1ENllXblN5ZFpTOXJXQmxfLUlaTEh3ZnJuaURfbHBRLXUwNy1CdFhkeWpsM3hxdlFudXhLNXlnd1oxVFhmWWFvQ3JGZkxWSDhKYlpaNjNYUUFjZk45VGxPd2lGRlpJZk1SLUo1Y2UtZnVQZm5ZYUhvblhiQ3BhS0x3QnNHMVpOUThBUg?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 3537,
+  "notable_record": null,
+  "num_candidates": 26,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-18",
+  "pc_name": "Jalna",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180266.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agricultural and Animal husbandry",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Fair Compensation and Employment for Farmers Affected by Samruddhi Mahamarg Land Acquisition in Jalna",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt take action against the gyanradha multi co-operative state society",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 75
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kalyan-vaijinathrao-kale"
+  },
+  "qualification": "Graduate",
+  "questions": 9,
+  "questions_by_ministry": {
+    "Communication": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Labour And Employment": 1,
+    "Panchayati Raj": 1,
+    "Railways": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DANVE RAOSAHEB DADARAO",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 2,
+    "legislative": 36,
+    "mplads": 35,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 1329206684,
+  "total_liabilities": 159268881,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.59
+}

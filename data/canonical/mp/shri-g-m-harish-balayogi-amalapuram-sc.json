@@ -1,0 +1,557 @@
+{
+  "accountability_score": 61,
+  "age": 35,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 31167000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 16525000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 30200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 77892000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1400000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 15180853
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 175149
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Future General India Policy No 0091xxxxx 1,18,000 1 Lacs+",
+        "value": 2130000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3196126
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5415000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 27497128
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V4uMdrGXPXJwWaR4drZ",
+      "total_assets": 73049918,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5300",
+      "total_assets": 105389128,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 44,
+  "assets_latest": 105389128,
+  "attendance_pct": 95,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "236-1, Nishant House Near Black Bridge Amalapuram Andhra Pradesh, 533201",
+    "emails": [
+      "office@mpamalapuram.com",
+      "harish.ganti@mpls.sansad.in"
+    ],
+    "phones": [
+      "9985999544"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/HarishBalayogi/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/harishbalayogi"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/harishbalayogi/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "22/03/1991",
+  "eci_state": "Andhra Pradesh",
+  "email": "office[at]mpamalapuram[dot]com,harish[dot]ganti[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 758200,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 614740,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1529860,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 445080,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 830610,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1106180,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 942130,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3352340,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1044030,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1417570,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Interests Accrued Through Fixed Deposits"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "Interests Accrued Through Fixed Deposits"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹3.23 Cr between affidavits, while declared income across 5 ITR years totalled ₹41.8 L.",
+      "headline": "Declared assets rose 8× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 32339210,
+        "declared_income": 4178490,
+        "itr_years": 5,
+        "ratio": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.26 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102556082,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 199712
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 199712
+  },
+  "margin_votes": 342196,
+  "minister": false,
+  "mp_name": "Shri G M Harish Balayogi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44443918,
+  "mplads_unspent": 102556082,
+  "mplads_utilisation_pct": 30.2,
+  "mplads_works_completed": 11,
+  "mplads_works_recommended": 108,
+  "mpsno": 5722,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-10-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Balayogi’s 73rd birth anniversary celebrated",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNk4zRFowZ0sxc0hzaEtuQWVKWTRBT1NRM2ExcWJhLXZVRERoT3VZTjJQTXpKOG1XcjNHREttbFFIbTdfa2piS3BqNUFheDUyYlZnaU5fdFBlWWFGa1N0OGpIc2QxbXNtUnJwZ1lub09qbmxwQ0VFOUlCdVNfaElsZ0NrUGdhVUVPZkNpRms0TW5BSXNjWmRaN01B0gGfAUFVX3lxTE5tejl4ei1OS2hJTVdXZ2ZqSzJhakt5VU5vbW05ZFRYc3pjd3k3LTVrZkNQYVZyNmRwcjRLbE5JdUsxUUloZXYyRS1hX3p5QWpSc2VaN1NiWTNzMlBlclVLdVBpbTM4dXgwRWp2YXlJUzBTTUdwN0RONnNRNEtwRlNXczg5SGVyVzFlNkRaNFdMbW5iZ01qcDZuT2x0ZkdYMA?oc=5"
+    },
+    {
+      "date": "2024-07-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Aiming to fulfil father Balayogi’s ‘dreams’, TDP MP G M Harish: Rail line to people’s welfare",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHRtbFItVU9FSUIxc0ZRVU40UFlzaEdQdkhiUG9Pek9TdHBBVmdkNGtIRWFUa3NNR0Y5bFRpMjk4UDh3WHV1T2dJbmI3NjdSRWwwRGU5ZHU0a05vRVlpTWdlOGJpcUc5cVZsb3JpSFFHRkc1TU9Oakpwcl9QVnB6MzlEeUIzc0tlaWZlbmItY3hLTHJHT2JOU2xMa2d3SjRr?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13518,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-7",
+  "pc_name": "Amalapuram (SC)",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180012.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Technologist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to expedite construction of Cancer Day Care Centre in Amalapuram, Andhra Pradesh and launch a targeted screening of high-risk cancer patients in the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to establish a dedicated Trauma Care facility centre in Amalapuram Parliamentary Constituency, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Motion of Thanks on the President�s Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Motion of Thanks on the President�s Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Matter related to road and bridge connectivity in Amalapuram",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to establish a district hospital along with a critical care block under Pradhan Mantri Ayushman Bharat Health Infrastructure Mission in Konaseema, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Establishment of a Coconut Development Board Regional Office in Dr. B. R. Ambedkar Konaseema District, Andhra Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to expedite establishment of Rural Self Employment Training Institute & Pradhan Mantri Kaushal Kendras under PMKVY in Konaseema district of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding establishment of a second campus of the National Institute of Water Sports in Konaseema district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to consider Konaseema district in Andhra Pradesh as a regular centre for entrance and recruitment examinations",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to operationalise and promote the Coconut Farmer Producer Organisations in Konaseema and other districts of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to undertake extensive awareness campaigns and training programmes to promote sustainable aquaculture in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to promote �Education for All� in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding comprehensive execution of Pradhan Mantri Matsya Sampada Yojna in Konaseema region of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to set up a National Coir Training and Design Centre in Dr. B.R. Ambedkar Konaseema district of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Submission on the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Urge upon to minister to allocate the necessary funds for the completion of the railway line between kotipalli and kakinada",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 27
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 174
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ganti-harish-madhur"
+  },
+  "qualification": "Graduate",
+  "questions": 45,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 4,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 3,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 1,
+    "Social Justice And Empowerment": 2,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Women And Child Development": 4
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAPAKA VARAPRASADA RAO",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 0,
+    "legislative": 74,
+    "mplads": 43,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 105389128,
+  "total_liabilities": 199712,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 61.25
+}

@@ -1,0 +1,557 @@
+{
+  "accountability_score": 24,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 248200
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1052800
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 3301000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 140000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 969630
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 577393
+      },
+      {
+        "category": "Aditya Birla Sun Life Insurance Policy No 00894xxxxx 10,00,000 10 Lacs+ Aditya B",
+        "value": 17652049
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 30000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 178180
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 17543
+      }
+    ],
+    "movable_total": 19564797
+  },
+  "assets_earliest_year": 2021,
+  "assets_history": [
+    {
+      "label": "Assam 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=p5H2aMuZ9xzgtvsBXFok",
+      "total_assets": 450879,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3672",
+      "total_assets": 22865797,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 4971,
+  "assets_latest": 22865797,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Joyanta Basumatary is an Indian politician and a member of the United People's Party Liberal (UPPL) from Assam. He is an MLA, from the Sidli constituency of Assam legislative assembly since 2021. He contested the 2024 Indian general election from the Kokrajhar Lok Sabha constituency and won on the UPPL ticket.",
+    "title": "Joyanta Basumatary",
+    "url": "https://en.wikipedia.org/wiki/Joyanta_Basumatary"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Mainaguri Tangabari P O Kajalgaon Kajalgaon Chirang Assam, 783385",
+    "emails": [
+      "basumataryjayanta0@gmail.com",
+      "basumatary.jayanta@mpls.sansad.in"
+    ],
+    "phones": [
+      "9854071021"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/MLAof31No.SidliConstituency/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Obscene acts and songs",
+        "section": "294"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "03/2023, Sidli PS, Dist. Chirang, BTR Assam",
+        "other_acts": null,
+        "sections": [
+          "323",
+          "294"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "01/03/1976",
+  "eci_state": "Assam",
+  "email": "basumataryjayanta0[at]gmail[dot]com,basumatary[dot]jayanta[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2287041,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1955554,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 180717,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 618367,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 456450,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 294785,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salaried"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salaried"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹4.5 L (2021) to ₹2.29 Cr (2024).",
+      "headline": "Declared assets grew 4,971% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 450879,
+        "from_year": 2021,
+        "pct": 4971,
+        "to": 22865797,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹2.24 Cr between affidavits, while declared income across 3 ITR years totalled ₹44.2 L.",
+      "headline": "Declared assets rose 5× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 22414918,
+        "declared_income": 4423312,
+        "itr_years": 3,
+        "ratio": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 36% of MPLADS local-area funds were spent — ₹9.36 Cr unspent.",
+      "headline": "64% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 93613388,
+        "utilisation_pct": 36
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 51583,
+  "minister": false,
+  "mp_name": "Shri Joyanta Basumatary",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 53386612,
+  "mplads_unspent": 93613388,
+  "mplads_utilisation_pct": 36.3,
+  "mplads_works_completed": 19,
+  "mplads_works_recommended": 84,
+  "mpsno": 5548,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "28th death anniversary of Bir Chilagang Basumatary observed in Kokrajhar",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVAzSHRqeVhrRlc4dUhQakdxZ0RBWUFBT0RTV0ZUT1pMakRoazBSSFVNN2p5Z0lDZDdDVFhHODY1dDMzbW5PWEhjSzVzeEVPRU9tSzYxWjJ1cFgwSy00OW9SRTZ2Zjcyc28zdWh3eEw0ZVhUTXdhTFN6bk9LeDVESG85X2UteW9OT1BKUkxzTjdqaEhQajhoSUdWZDBVdEpFaXI1bG01UVl1TXBsSDB2TVpEV2tlTFJtUkJhclQzZnM3SDlOSEx6WnZZMlJWNUnSAdwBQVVfeXFMTjBpWDhuV2RmUExqakNzOU1yQTdTUGdjdXg5SFhMXzNWUlpwSV9aSHpGb3RPaXRwbXRhTmNQZFFuRDU3alRIOHEwYWEyaE9PMWdKczV6M1FLbWJDdTl3QS0ycGhTc09zM3lGWkpGQThOcDBxS3ZlbDlidVdzODdTYUpvQXc0aDNNN2U5TmI1RXBTMFMxSVZJS2FBZjVRcWVpamM3T1NRMlQ0ZjIzOGNxWTNzUm9WUFVhUnJLelBrQWJ2ZmRmR21Gb0JTQTF3emtFaUNIUEN6R0VzOE1LNg?oc=5"
+    },
+    {
+      "date": "2025-06-11T03:23:24.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Joyanta Basumatary",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUNiMWlVYV9ZSHF6eGFHZXh5QlJDR2dhU3hPVWpPOFIzeTJjMnphNllFSHlfM3hDeVBxakNBVk9oV1MwMEFMRkhHdEJIQmgyZGZFWGFuSTRRaXhFaTlHc0Y5QmpjdzlFVXBGaGRCWkJ6UGRNeFZkOGNaNWRTUVM4X2haTVhoZmJYWUVR?oc=5"
+    },
+    {
+      "date": "2024-10-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Live",
+      "title": "Assam By-Poll: BPF Candidate Suddho Kumar Basumatary Files Nomination for Sidli",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnF5Tm5SR3R5eEtiOHFybkpsaFUwRGNBNTJscVkxWnRLeHh5bndTNWhZUVFoQTduYk14a2w1ZS1tVERMUmY5X3lXRFpuOWQzT1c3b240TVRxZm8zRHhfZGJwZGNpNUV4azJERWwtaHoySU5nc3VsakVhVDBaVmVaaGhFb0diS00zNDVuV0JmbndUUnptYVBScUlQRnR3MFRmNlZjUTRFdGJ1eU81VFRXZW5iak1xUQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kokrajhar election results 2024 live updates: UPPL's Jayanta Basumatary wins",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdWpwdGQ2NkE3ODdKcTViblRUcEpxeGtjQ1pFNmhWVlFhMU5DU0pmR05EbmlWYnE5cGxQVDZtMjBkN094MURGbjYyQmJvZEFRRGYwMjRxZWZza3R6MjBqbnVpeG1jRllDRnNfY08wZS1OT2VCbm85X1o3UkdZdm9yWjlWUGVyZnBEVHZSbV9IU2prQWc1ODRTTzgxRFk5cGRJanJac1ktb1dVUFMtSVljWVRLcndkU1VxRDZtMERoNlZid0hxUng3aTJIcGIxYTF1T3ZmY1VyQW9rYWNPYzE5SlZVTkxfc1hsT1JoQ1VoNmhjYktuNzQ5Y0YxMG94eVZ1UUU0YlJKd3NPX01sNjJMWHNTaGNCX3VQTDI5Sy1jZXQyZG5QR1hqUHN5eDJIUE10SE5KT9IBugJBVV95cUxNT3BscTNYbG9raUNjZlcxTmtRMzZXVkZFQ2NMbHVxN3VLaWVkc1NBcnZEMEtvcGlWTWJoQ05Gd054dW1iYmxXN0lGeVRCTU1kYTVqR2Q5QVRvamhZc0dRV2RtS1FMZlRWamJXVnEteU1wek5TYUJ6bVNRWDhIVlFRaGZzbmhhYm9pcGtyNzA4dW45ckxkNkVzZU1NZm9JOEQxVVRqc3I2b2p6MGV4WGZESVp1R2ItX1o5Q1F4UEtHWUpzYzVfNVFCY056VS14X3ZITUFqelNvTGNWOWJkMXRvMVJhd0oya2QybVM5S1VVaDc2Qjc1aU5GWjJuZ2RDM2I4QTBtQnk5Q0pWSnl1NE5ycnpBdkJrM0k0MWtZOS0xMnR3TnFnUDBTdWQtaUJKSUZNeUx0RmpvODhrdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Kokrajhar Election Result 2024 LIVE Updates Highlights: Joyanta Basumatary of UPPL Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHlWMzVlWXZKRW9HMlpSRTNacWQ3Yi1fNDVZTHAtZjFVZHU2RVhVWWc4VGdSdWhOdGc5dXBqSnpJSzZWMVh6UXpIZEpyckl5ZkxXZVdnc0dxakQ1OHV6U2pPYk55SjQ4VERqRVhIUDdFaFQxRThTbHA3bFI1dzd5SnN4VG9IV05PSVdnTUVvT1g2b2NXZXR0MnBFVnJ6Q215OGRGVHhXY1B1U1czSUpvREp4eXZPaTBGZHE5TndqbFZOYk83Q1NYbjF3NDgyMVhIZHlnOU42aFhYMGh4QUtDalF3cUnSAeoBQVVfeXFMTlNwVHAzaVlBZ29vTUNKTTNCWmdrUi1MNUNMZ2t4T3RCYmg1cDlqRmZfTkJFQ1lxTTFYYnZ3Z3hMTGhlYlVmMnNONDVQejNHR2ljeG5JX3JXMUI1V0pNOFNXcDFWZ29BNkpFTGtwT2xNbDhnUDN4TjV6VnBjM0l6ZzIzSzR6YWgyZXdNZmZ1OFIzY09JWG1wZUJoeGdoUUVUTjBpN0htR0JiTW5lbVFPeGJOTEk1SVJpT3M4OVFVcEVVdVctYmJkMkFtNWN1djVRTjg3X3llVFlrTzFiNlppenFnNm1nNGVfZmtB?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 13912,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "UNITED PEOPLE’S PARTY, LIBERAL",
+  "party_bond_total": null,
+  "party_full": "United People’s Party, Liberal",
+  "pc_id": "assam-1",
+  "pc_name": "Kokrajhar",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180033.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to provide additional funds directly to Bodoland Territorial Council for development of healthcare facilities and sanitation services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Expeditious Implementation of Bodo Peace Accord Commitments and Grant of Additional Powers to Bodoland Territorial Region under the Sixth Schedule",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Review and Resolution of ST Status Inclusion of Six New Communities in Assam to Protect Rights of Existing Scheduled Tribes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding need to empower Bodoland Territorial Region and other Autonomous District Councils under Sixth Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Re-establishment of Radio Centre in Kokrajhar, Assam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Improvement of Mobile Network Connectivity in Kokrajhar and Border Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Release of Funds Under Border Area Development Programme (BADP) for Kokrajhar, Assam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding incidents of death due to malaria in Bodoland Territorial region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding increasing incidents of human-wildlife conflict in Bodoland Territorial Region in Kokrajhar Parliamentary Constituency, Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need to improve mobile network services in Kokrajhar Parliamentary Constituency, Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to solve the problem of land erosion by sending a specialized team to Kokrajhar Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to minister provide stoppage of trains at shrirampur, gossaigaon, chautara, guabari, sapatgram, kokrajhar, fakiragram, salakati, basugaon as before the covid and renovated these mention station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Urge upon to minister restart the services of flight from rupsi airport, Assam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.4,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 75
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/joyanta-basumatary"
+  },
+  "qualification": "Graduate",
+  "questions": 10,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "External Affairs": 1,
+    "Jal Shakti": 2,
+    "New And Renewable Energy": 2,
+    "Railways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "KAMPA BORGOYARI",
+  "runner_up_party": "BODOLAND PEOPLES FRONT",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 1,
+    "legislative": 53,
+    "mplads": 58,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 22865797,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 39.39
+}

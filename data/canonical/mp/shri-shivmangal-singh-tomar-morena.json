@@ -1,0 +1,375 @@
+{
+  "accountability_score": 21,
+  "age": 67,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5977620
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1742000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10667000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 18386620,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 709000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 222291
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 45000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1300000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1900000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 52000
+      }
+    ],
+    "movable_total": 4228291
+  },
+  "assets_earliest_year": 2013,
+  "assets_history": [
+    {
+      "label": "Madhya Pradesh 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=JRXQmfgxdf9akjsX2ZYr",
+      "total_assets": 11475522,
+      "year": 2013
+    },
+    {
+      "label": "Madhya Pradesh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=JRXQmfgxdf9akjsX2ZYr",
+      "total_assets": 23037911,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3618",
+      "total_assets": 22614911,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 97,
+  "assets_latest": 22614911,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shivmangal Singh Tomar is an Indian politician. He was elected to the Lok Sabha, the lower house of the Parliament of India from Morena, Madhya Pradesh in the 2024 Indian general election as member of the Bharatiya Janata Party.",
+    "title": "Shivmangal Singh Tomar",
+    "url": "https://en.wikipedia.org/wiki/Shivmangal_Singh_Tomar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "44 Village Badagaon Morena Madhya Pradesh, 476554",
+    "emails": [
+      "shivmangalsinghtomarbjp@gmail.com",
+      "shiv.mangalmp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425126142"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "01/09/1959",
+  "eci_state": "Madhya Pradesh",
+  "email": "shivmangalsinghtomarbjp[at]gmail[dot]com,shiv[dot]mangalmp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 821188,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 668656,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 852917,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 773850,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 977132,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Interest from Banks, Ex MLA Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, Interest from Bank"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.82 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128209623,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3611523
+      },
+      {
+        "category": "Personal loan 8,18,682 8 Lacs+",
+        "value": 818682
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4430205
+  },
+  "margin_votes": 52530,
+  "minister": false,
+  "mp_name": "Shri Shivmangal Singh Tomar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18790377,
+  "mplads_unspent": 128209623,
+  "mplads_utilisation_pct": 12.8,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 70,
+  "mpsno": 5604,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "BJP MP calls Banmore Naib Tehsildar ‘stubborn’: Tomar dials Morena Collector over officer’s absence, says '...",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbS1mMDFINjg5X1BCQVVSNUs3UE90czhMMUVuWUtGZS1uTXZ4UUtTT0ZaSlRUTk5MVU5hMW1MUXB1dURCVW41ZHVma1dsOHgxeVA3ajVjLXRseWRhUElNWGEtMC1ZcFlQdWpTUHhNSG44T1VLUjk2aUlHQU5RY0RCMzVmcDhhQ1U0Y2NvdF9yQ3dMb2N5S0VfbFZlZjJfRHFYc3RpU1JYM2dWTE1nUUx1RFJCN09UT1haWk5BeUlCYW1PX1hNdDZ6UTV5My01UkVScXdzQXM4WDhLNnkwWmlxS3A4Sk8zVjUxLVJjOVBvZnJhc0FRRzBVY1dpOFFiUDN4Z2dXYjhYYzFSUTNJVEpMYVRwMHp0TzNZVzFxRjFGd0ZVd9IBpwJBVV95cUxNZlNhNFBtNldHVWhETHVWX1hxX1QxNG91VEZLcEtMdW01RUtIZWt0NUpCcnNkN1VqZlBVMWo3WklfQ1k1UFdiYVlBSURSZU5wZ1NDc2sta3NXRlFMWk8xQXNSTG5hRDlzOHlQRVpPVE9TSThGblVtSVFZdTVwZnZ6ckJ6MzJlWE9FWU9IMFhJaWZfWGVGZ0ctV0R3a1Q2MTEycGU1S3l0RUJqc2gxMEdjVDZGOVJ3dWhQTThzSmNVVGt2VmV3dVN6eFY0TDhlWUlVRDJpajduU1gzWm1nUU5HVE5Wa3dPeUZyT21nMWlUTDluYmcwa2xSNk1iRGFDcFFoVFlwUTV6VW5MZkp1aWJoUDZqbWhPaV83cmMxUGMzdDZNS2dwOVMw?oc=5"
+    },
+    {
+      "date": "2025-08-26T06:58:29.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Shivmangal Singh Tomar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenZBaUhzcEJEMGtINE1jLUNMUGxvanNvOXk1N3VxYXprLVZYTnJZUWNUcWJyQTVQeVgxZGV0WjFtd29ZMWRGR29BR28zZWxWV2lYZjY0WTBzOGdlVGZMcjlQeDhfTmlyUmJ3TTRpZUxlelZ6VWFiRmJ5b2tOOWFKUnB3X0lrLURMazM3VXJnWUs?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Morena election results live updates: BJP's Shivmangal Singh Tomar wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPNGdaelhYNHp2QUNhdWIwNHhJaVF1NEFyUUtpR1ItTERXMU01QmNvMlNkblR5Umw2RDMwYVcxaHpkN2x4ZXc2QjFPMkdPOUs3VEFpZEZVdnJjcERKZ0NSYmdnNkhGMUhXM3UwZWJzb2xneWZsdHRXZXJmQXRTYkNRR1Bpc2ZUYXhaZmxaOWJZTUFfS19WWXZaY2ljZGVaTzI5S0pib21za0xQMXlSXy1DeTU0MUFMX3hGMVRoeFdqTzBlb1FXMlNnZVJWdjRXdnhmZnBac1E3VERSUlJ5SkstSkFmOWx4Y0xNbVhPMVdaZEJtSHVQcmpNRDVRMWdVMFBXWmRLVDdrR1p2cUJXXzljLUEwb1Q1NDI3blpvLVFqVU5KTHlFRnN4NXNoMHJDekMzWGxBMHp6bVZDSENEdy1yN2E0eTNjNEI2SHg0aEU2SnpOaFdmMDFaNWptM1RjX3fSAeQCQVVfeXFMUGVmSlpZVGY1MjhSZUl5eVoxZi1fR0dBNnpBdlp2NWZjVEZSOEZpSlppUVQ4QjdfcGlHTWg4VDJnSWFmUUZCMzlXR0RRTGRlWXB3ZHhvRE85T1gwRk45MHM0ZnFUOGF3XzBNOGYyNEF1NjQ5LU9JOXAzRUZnVjQzaVA1R1U0UjNqOS1iMDZQSzlYLTBIR1hkQXRkRzk4dmlHQThaMWc5VW9ZeldjQVl1TVlseTM3ZTBocExkU2prMzVVUmtmdmN6R1V3YjNwb2ZJNUhNYjJVZDNIY3h1VUg3WWEtTWo3V2pNZjI1Ymx4REJJa2tZMjNhY0lJbnUyUEVDT1hHcnZqUlE2SHdOLTBEMnM0Y2pYcy1NeHJTM1hFR081N1N4WGREdTVIN0haSnQ2RzRhOFB5V3ptRGN1WGJsc1lfcElsbkNsV1RRVVRBZHBUNlRJS3EzMWpRTXFxNFNBblNJNjE?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP Stronghold Continues In Morena With Shivmangal Singh Tomar's Victory",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUk9GM1NwSF9acDhPeUM4bzVDTUxJb0U3VzJoNWt2SHgxUnRHNmJzWG44MldvTlNyMUpTX01SN0ZtQndvNzB2ZWd1MjVEOTU5VXhzdVZFOWFnRVg1b2xGelBnQ0VOdGZ6NUFxMEE0UmR2VjhBM2dwRHQ3ajA1SzRTQ0hiTHBhRmFYNHlqVXE1c3JPekNROWJSU0djbEsxcXJ1UWd4UmhmRTIwblFCdDI0X29aZ045OU01WnlrNlhR?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Morena Election Result 2024 LIVE Updates Highlights: Shivmangal Singh Tomar of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUtpTjYxemJZV0ZnRmJXdkpGZmUyTFdTVWs5c1BfNEdzLV9TckxnZUFkR1NSTEpqbWxlR2lEdXpaWWVaaWxUUnZ5WGY0WGQ5bmkybmN3ZTBfeGpaVEpVenpGUzlnRVdQaEc2NW5QQktWOS1kQ0wwbW53T1pwR2YxM0duSzdaeGw2TDUzM0tQd1VBVDRtQTJhY1JSV2ZQQWpYVXBOMDZnT2syZWExSWVIU1paRWVfTWFOc1VxYmtnd3Mwam9LNnNUSkVESl9vLUdveU56OVRaNVVNMWJMN1lKTNIB5gFBVV95cUxOYllQLVNVTFBYUkx2dlNRblNIUzRQZllyanMxZElQTEJKZ2F2VE9FTUJaZmZWaWlaSjMwejJpb05WeHNuUWxGY0xtNkNMcElEY3dOT1phbkcwWTB2U01SSDBGaFphRHlqcmZUT3N3bnl2RmdSdnNnUjREdXBmcVI4eEJLVGQ2UUE2MkdKd2FtMWFZNHRyeWwxYlJFOU92dHdzT0VzemRwV0RneVFKY0IySk1yeGxqZUF6VW5EcDk4Mk5VaVBPYXRHdjlaMWNsS3dqM1pCN29Ra2ZRVmhhWU1sU2tuenRmdw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4914,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-1",
+  "pc_name": "MORENA",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180239.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 82
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Construction of FOBs and a Bypass at Banmore on NH-44 to Prevent Accidents.",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 35
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shivmangal-singh-tomar"
+  },
+  "qualification": "Graduate",
+  "questions": 2,
+  "questions_by_ministry": {
+    "Finance": 1,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NEETU SATYAPAL SINGH SIKARWAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 21,
+    "criminal_deduction": 0,
+    "legislative": 25,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 22614911,
+  "total_liabilities": 4430205,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.41
+}

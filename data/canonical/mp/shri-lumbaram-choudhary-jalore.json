@@ -1,0 +1,584 @@
+{
+  "accountability_score": 73,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3750000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7150000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 900000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 14300000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 200000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1937446
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 3,50,000 3 Lacs+ LIC 7,50,000 7 Lacs+ LIC 2,50,000 2 Lacs+",
+        "value": 1450000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1250000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 450000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5287446
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2557",
+      "total_assets": 19587446,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 19587446,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Saansad Jan Suvidha Kendra, jila Parishad Parisar, Swaroop Vilas, Sirohi, 307001",
+    "emails": [
+      "lumbaram.choudhary70@gmail.com",
+      "lumbaram.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9799525117",
+      "9785056831",
+      "2972222140",
+      "9499100337",
+      "8527963315"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "16/09/1964",
+  "eci_state": "Rajasthan",
+  "email": "lumbaram[dot]choudhary70[at]gmail[dot]com,lumbaram[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 534860,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 485270,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 455430,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 598900,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 563430,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 248900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 292900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 245800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 408730,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 315600,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "LIC Agents and Farmer"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife & Farmer"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 38% of MPLADS local-area funds were spent — ₹9.07 Cr unspent.",
+      "headline": "62% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 90656839,
+        "utilisation_pct": 38
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 626171
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 626171
+  },
+  "margin_votes": 201543,
+  "minister": false,
+  "mp_name": "Shri Lumbaram Choudhary",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 56343161,
+  "mplads_unspent": 90656839,
+  "mplads_utilisation_pct": 38.3,
+  "mplads_works_completed": 50,
+  "mplads_works_recommended": 159,
+  "mpsno": 5621,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Jalore-Sirohi Lok Sabha Seat Result 2024: BJP's Lumbaram Choudhary Defeats Vaibhav Gehlot by Over 2 Lakh Votes",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTEx4bWN2N2puTW1XRTB2a3UwN2k4Sk03dms4Njk1ZHVCNjd6WnA1LUxkWEpWVUpjb1lzNlZXYm4wMkdjdXNvR1Y4bnlYQmJqMHFNQWxwUm9WS3hIZzJTRVEwNzIyNV96MEZ3V3pPaWJNTEpEWWxyUWNtQ3BCQ2VVR1p6WFA1YUxFZlp3RXBwbXZodC1zamt2U0JzX0Q2X0k1SWs4ZVV3a2E5MmZHSzFwRmYyN19UNFVlQ3BJUkw2RHZqdVoxMHFkTHJfdmZKLXpXbzZLTDh6MFYteGpodDhYd0ZBTjR3Q3YzRjN1a0hTVTZPNnFtd0pJaGxpYllyakx6STRjZHhaOVU1QdIBjwJBVV95cUxQaXIzRUtVWjdqMmE5QVhhbGdZbHlFQjdvNVk5Slp4NjZHYzZuS1M5cGM3RFlzWlNLOFowSVo2Y1JFMU5WSWVrOFFCblB5a2RzdDdBWldyamYzdldZM2pYMUNoWTdjVjJvbWFvcXhfcW5haEs4eGNFQkVBckxZVkFNdk9yeW5xalV2dk9jOVdteUt3dmh0ZzVQOEFVcE9aSjZjMTBJdzJLcXFKYkp4bWJTbndvRkIxbGo4RzZpcXdBNC01czctbUtBZE5POGNUbGxCU0FiLTdxbDJaQWdIYS05Q2wyWkpwblBGYWFBM0lrM2ZXbWdfX1RGQl9LWkFVRGVWV2FVUGdWTF9sc1Z4eGhJ?oc=5"
+    },
+    {
+      "date": "2024-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Lok Sabha Polls 2024 | Face-off: Vaibhav Gehlot vs Lumbaram Choudhary",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQktoNzZ2NElTTXRhaHNqV3pVbENXRTREUF9BMXVIejFDeXNPelhkbHhVN2xFNFZKOHh6Q3NNcUw1S2NKTDU3eVYzeVZXSmlIcEFDaW5OUEFGOHpzYXo2RkJpSHBXQ1J4b0JZNkg0RHMyU1NpYkFvNnpzOG1GWjJxQ3NfdU1zWko4RUVPay1wQ3JxWnBTdXlnNEh5QVZaTmJOT0Flak1RYUo0N1JXLV83UGlXaGNpQ2JCT0pF?oc=5"
+    },
+    {
+      "date": "2024-03-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Jalore Lok Sabha election 2024: Ex-CM Ashok Gehlot's son Vaibhav to take on BJP's Lumbaram Choudhary",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUV9wU1BvTW5sR0dwTjEtVHZNbVQzZThOZFR3UGstNXRXMUptOHh1alZWUDJFcXVNVzVjSDRLV2hSZDNFeXJLSWt5RkhGMjdza2htX1hZcXJBSzYzWFF6dmIwZjhfdHJrMGoyeE1Ra0tOMXdPZVBLa3VISFlTdmtKdEt0R0QwZWN1S3F6ejJZVXNQaWV1dkRMSWxBUUVGSFVlWG1mWFRvZDZFMmVUZWRYdXoxZFRhNTBRdDhhNjRyUllWUjZKcno1QWtLckFMd3dlVFM2VWhkMlVCUmt3UG16Q1d1ckN2QTFNNnRQeFNtbjhIR2VRa0RnWXFQVEk2d9IBgwJBVV95cUxOTWZfQXExQTVrZnpBYUdFWG5iYmoxaDlMTWRDVDRJam0yUkIwMmFBVGRydEZDTVZ3Z3lXMm5nZ19mZmQ2Tk5kNWNJazhyeHA1XzRpeVFGOFFKRFFjWTJYNVp4eXo2UHFqSWI0WmgxU2Vzd1hzemI2T294eEdhazh6VlN4MThCUWsycWdxeWpnOXBDYmRzNWM1Y1lFa25VRlRETVdNd09XekJVX1dPZ1dJSkU4VER6dktmVl9hQURLSFl6S3UzN2NjX1l1NDZBbnAwQTVPb1hrTENWeVVmcXVubUpLNllxMXBfMTA5Z3p2dEFyQnVOS2h1bVJaV3VwN3M4dkdF?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 18459,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-18",
+  "pc_name": "JALORE",
+  "pending_cases": 0,
+  "phone": "9799525117, 9499100337, 8527963315",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180346.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request to Ensure Water Supply from Kadana and Mahi Dams to Sirohi and Jalore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to start passenger flight services from Manpur Airstrip in Rajasthan to Hindon Airport, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding development of National Waterway 48",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding railway related issues of Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding construction of a railway over bridge on level crossing No. 104 in Pindwara in Sirohi district, Rajasthan and other railway related issues",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding railway related issues of Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding various railway related issues in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Restoration of Suspended Rail Services and Expansion of Train Connectivity in the Jalore Parliamentary Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Proposal for Upgrading Manpur Airstrip to Airport for Enhanced Tourism, Industrial and Pilgrimage Connectivity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to rollback the hike in rate of Toll Tax for residents living in the surroundings of Uthaman Toll Plaza between Sheoganj and Sirohi district headquarters in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to start construction of ropeway in Jalore Fort in Rajasthan and take measures for inclusion of the Fort in the list of UNESCO World Heritage Sites",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to establish Sainik Schools in Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding providing water to Jalore and Sirohi districts of Rajasthan for drinking & irrigation purposes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of drinking water in Jallaur, Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding railway related issue of Jalore Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding railway related issues of Jalore and Sirohi districts, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of a Medical College in Jalore and Upgradation of Sirohi Medical Facilities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request for Water Allocation from Kadana Dam and Restoration of Jawai River in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding railway related issues of Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to expedite construction of Salgaon Dam Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Special Trains and Railway Connectivity for Sirohi-Jalore Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding railway related issues of Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding four-laning of Jherda-Mander- Revdar-Sirohi NH and construction of by-pass roads",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to augment railway services in Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister water from kadana and mahi dam should be supplied to the farmers through high level canal for drinking water in the villages of jalore, sirohi and barmer",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding request for supply of water to Jalor Sirohi District from Kadana Dam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding need to provide funds for the construction of road from Gulabganj to Mount Abu under Central Road Fund",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 36
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 246
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/lumbaram"
+  },
+  "qualification": "Matric",
+  "questions": 65,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 3,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 3,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 4,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 6,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 3,
+    "Mines": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Parliamentary Affairs": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Tourism": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "VAIBHAV GEHLOT",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 73,
+    "criminal_deduction": 0,
+    "legislative": 77,
+    "mplads": 67,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 19587446,
+  "total_liabilities": 626171,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.91
+}

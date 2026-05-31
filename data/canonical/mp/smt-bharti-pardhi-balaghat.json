@@ -1,0 +1,583 @@
+{
+  "accountability_score": 77,
+  "age": 58,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 23500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 18430000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 51930000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 400000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 439100
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 554202
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 150964
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1943000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3600900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 7088167
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=45",
+      "total_assets": 59018167,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 59018167,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bharti Pardhi is an Indian politician. She was elected to the Lok Sabha, lower house of the Parliament of India from Balaghat, Madhya Pradesh in the 2024 Indian general election as member of the Bharatiya Janata Party.",
+    "title": "Bharti Pardhi",
+    "url": "https://en.wikipedia.org/wiki/Bharti_Pardhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Ward No. 22, Madikeri Gali Balaghat Balaghat Madhya Pradesh, 481001",
+    "emails": [
+      "bhartipardhi1968@gmail.com",
+      "bharti.pardhi1968@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425139798",
+      "7746039798"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 10,
+  "dob": "23/02/1968",
+  "eci_state": "Madhya Pradesh",
+  "email": "bhartipardhi1968[at]gmail[dot]com,bharti[dot]pardhi1968[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 42% of MPLADS local-area funds were spent — ₹9.03 Cr unspent.",
+      "headline": "59% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 90250852,
+        "utilisation_pct": 42
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 174512,
+  "minister": false,
+  "mp_name": "Smt. Bharti Pardhi",
+  "mplads_allocated": 154398389,
+  "mplads_expenditure": 64147537,
+  "mplads_unspent": 90250852,
+  "mplads_utilisation_pct": 41.5,
+  "mplads_works_completed": 74,
+  "mplads_works_recommended": 160,
+  "mpsno": 5696,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Railway bridge in Balaghat inaugurated twice: BJP MP Bharti Pardhi opens it first, Congress MLA Vivek Patel...",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUhmWmRGMmM3LTBWb3IwcDg1QlVyd3dIUER2NmE4MmRHdWM4azZTdlBwblpfU0VhdUdWSzVYaXAyMXktNTl1Q0NJcWpPV0xPSzJpd3cta3lGemw1blAzZWxpdzd2MFVVbUd5Rzk0SkRVSHVtWWdORVdSeVhQTmRSQjcxYy15Z0hnb3RCdzZWR1V2RjZ5cXd1U2tMUFRkM0N1WkZoVkYtczhLSUhReS1DTlFNdzlhUXRIZ3F2alNn0gHDAUFVX3lxTFBKajZFemRPbnB5NTg4XzZNQWpGUmV6TENlSk0wQXlUM0tLZzVBalp0emt0ZXluaFViUlhGaUtFb0JvNlE0ejFua05VcUFicnNSRkotbzlFS241RnZXcTJZNW5JQ0JZbXF3TVAtNk1uN2puQXdiYTlZYUVldmZHVW9WN0lpbDJTVDFZV2tSMHowMnNnZW10TF9HRGZxZHBOc1ZvUy0zMEZ3bTI0aU9IWkk0b2FlSjhfdnJUeTFucnEtaUtlWQ?oc=5"
+    },
+    {
+      "date": "2026-03-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "SCC Online",
+      "title": "MP HC rejects vote mismatch petition against BJP MP Bharti Pardhi | SCC Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTndzNXRMSmUzYzFQb2cxRGpUc1UtWlZYaGZyOW83QzNhS3FLanB1VVFIQ3ZmbGhub2NyWTFPVVBKRzdLVUVRR0NuczNMemk3V0dmQWZXd21qY0pqdU5LMm95MkxzamlPMmcyLWNFSlpxV0lZTGFncUhIZEFjMFEza2RLSXMwZC1ROVR0aDhkVG52dUpnYWFDUDgyeVRPUE56Ti1lUksxSENHZURyNnR6MkM4OA?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Balaghat election results 2024 live updates: BJP's Bharti Pardhi wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdFJNWV9wQzhDWk1xRnl6WnNlajlHUXhkdmdCNURlV2ZvY1pMdFdHbnF0MnFabG9vM3kwWUhtUUlpREpNNE1LOFdzMm1nUWhUZnMzcGxjeGNka21oVzg0MzJydnR1QkpMaFJNc1pwTDZ5eTJkbEMxN2dqZTBUUFVjYm4yYVFiY0NJWTJlSDVMb2VLQzJoU2ZHeEFKTHNiSjFnYWFJQktEeW1IbGZmZWJiMG9vUHI2ZnZkLXpfR1dSWV9uSUJCTUJaamRyV1R2MTYweXNqcHpoTkRLbHRUd1F5al9hNUhacXJxTnBtUFl0V2xETkhPY28ya1hsTUZXNGdfVzNEOGRjUlZDLWMxc2ZmY01fdGtFQmUyN0dkS3REQ3lJNm9VdWRxVUdyLURKOVl3dkt3TFhkdHhYeTlUb1NOY2N1bUEzTk9EcXZVLU5zRW1zcG9OWTMzQW5ZQnJEWXPSAeQCQVVfeXFMTUdLOUlBdkd1NnREZzY0aFJXd2FMYk1JZTBsdW95TmtTWVFfVTc3STYyOHo3T2h1MVdtZHBpUEpiYkF3Y0lrWVY1aS1Pc0J5Yl9NNmNXYTUyTjRNcVJOOFMxb2tYNnR0MXBWSkFvMEJIVS1wMWlmUThyUE9fekNQYy1ZSzBWLTNEblgzc2pVVFNURmJjRTlZZzBsZWJFYXVYQ2JLa2N6clRCdExhaGNBQWozQXBYOHhnenE3enVnUkRvazhHekg5VWlDNjdWelo3ZEpYVzgtSGhKVDVTWllPRC1iU0NwbS1jSGZPZ3VHU2stUGNuZ0lPbnh5RVZLT3JZRG1sOFdPTGlJZF9peDVFM2tEaXN3MXRkR3c0cFJ6Q01JeEF0bVVNNFBRdFRlMVpBV0xQQnplQkI3NFlKOE1RQzBWek5HazBwZWRRMXIyQlg4TTVmdldtb2ZDUFY0eG1ZT3ZOU2E?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Balaghat Election Result 2024 Live Updates: BJP's Bharti Pardhi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYjlRRVlQQUJzTnhNbnpVUjEwTGFvWG9yaVAtcWU0R1ZCS24zWTc5UXFzYWo3WFVVMm5kdUpMNDM2ZHBlbnhaTzU2eENpSDEtVVc0bndZMUFLcGFJSDJlWTlEMTdXSXNiM1VTZUVJYVdkREVudElQaWlnUEYwM2dMNjl0Ym1Xa04zZlRLNW1HdjhuYTFKelo0aU84cEZrN1FyR0tiSzNRYjh6NmZuc1pYTlVlSTN3SjBpZjNOYWRMZll0d3NEdkxxTUphQlXSAdoBQVVfeXFMTW9kQVE4dnNSMVJBZXcyZmtZMXc3SUNUTHhWTTNIQlBrMDctSUNuZURmUWxIU3pTUmtEYUlPUUU5LVVobDY3RDhqVTBNSUVtbjJ0TDBvdXFpdHpFc2M4djFaS0hFd3lERV9vQXBFeWV0N0FlUDF4ODg1aUNaSWZISE9xZl9LQVpHaThDYXZpdlpUSTFIUXJraXloTVBSazR6d2R5NnhmMm9MV0FZMnF6TzNmWGtHWk9qZnZpWGxxblM2MHZYMzFkczRuZzg1N2xQUXhSOWE2c20tMnc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Balaghat Election Result 2024 LIVE Updates Highlights: Bharti Pardhi of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ29waTlLY0c4MDJGcDBFM1BienppQWlQWGJIX1BqTkFIRVF6TmV5ejR0aGQtRnE0YmNTcFc5SVhPMlVOSEY5UUVHX2oxVnNrT3luaW8zSVRRVkVpMmJaMUlrbUdNWk1CcUxZbnYyN0tZbUlqVEJLdC1rNjhVM3JVcUFaZzgwa3FLRTBpcWc1cldOeFR4RmlwbEozX1hpNE9HUVFqamJIZHVhZzlRdzdFVkZKZG1SZ2hhSHNfYjF4eEUtVWxJNGlNRFZLQzBSQTI5ajA4dWJYR0xJQjNXWDROcGdhNNIB6AFBVV95cUxNdHBYSzctOWJTR0Z6N0JRX19GRjlxQzZQWTdnNEtNVVlsSXJpRi0yTXVQRTVueXd1Mlhqd1RJSUNja0RFZVQzc2NONjRfZGVlMFBaQkhFalJVR2luOS1qcl84dFFNcE9LYzcyZWZHWHFIOXhGbWU5bmhtYWF5UE56TE5JZ3kxa2JjVXpjWE54eEg4M2ZUOE1xOVh2VEZYdGpmbVpuWUthbTNYS0k3MDdZNWVBaF9lYmg5LXNSamE2cXpjR0hvLTBNWG10Q0hvZmRmejQ3RDhHc2VXUkR1X3ZTME5nZVl6bHl2?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11510,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-15",
+  "pc_name": "BALAGHAT",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180220.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Service",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request to grant autonomous status to Shivni College to improve quality higher education and provide better opportunities for students.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to retain and strengthen Central Bureau of Communication office in Balaghat, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Establishment of a New Kendriya Vidyalaya in Balaghat District of Madhya Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding establishment of industrial units in Balaghat Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to establish an Integrated Beekeeping Development Centre in Balaghat Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to make stringent laws on addictive online games and also include digital addiction awareness, mental health education and safe internet use in school curriculum",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to declare Sonewani region in Balaghat in Madhya Pradesh as a Conservation Reserve",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to construct a Railway Overbridge at Baihar railway crossing (JJ-37) in Balaghat, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to provide adequate pension/family pension under NPS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Demand to declare Seoni, Pench and Kanha as special tourism zones",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to establish a �Baagh Anubhav Kendra� in Balaghat, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for a National Zero-Tolerance Policy and Protection Mission Against Cattle Trafficking and Cow Slaughter",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to provide GI tag to jumbo custard apples of Sivani",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to strengthen Aanganwadi Centres in the Country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to redevelop various railway stations in Balaghat Parliamentary Constituency under Amrit Bharat Station Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to establish a Railway Container Terminal in Balaghat district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to waste water of HCL's copper project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to facilitate availability of Solar energy based Agricultural equipments to farmers in Balaghat and Seoni in Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to start direct flight services between Birsi Airport, Gondia, Maharashtra and Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to govt. for the protection and permanent construction and fortification of ghats on the wainganga river in Balaghat",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt include baba koteshwar dham a religious place in balaghat under the adopt a heritage scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to establish Agriculture University in Seoni, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding renovation of canal system in Balaghat, Seoni and areas bordering Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to re-open Forest Rangers College, Balaghat, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to extend the services of Patalkot Express (train no 14623/24) upto Balaghat in Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to expedite doubling of Gondia-Balaghat- Nainpur-Jabalpur railway section",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request to repair the Balaghat- Sivani road and NH 72",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister provide more rail track in balaghat and trains going from jabalpur should be extended further",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 45
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 221
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bharti-pardhi"
+  },
+  "qualification": "Under Graduate",
+  "questions": 44,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Coal": 4,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 6,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 2,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 2,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Skill Development And Entrepreneurship": 2,
+    "Steel": 1,
+    "Tourism": 2,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SAMRAT ASHOK SINGH SARASWAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 77,
+    "criminal_deduction": 0,
+    "legislative": 76,
+    "mplads": 80,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 59018167,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.56
+}

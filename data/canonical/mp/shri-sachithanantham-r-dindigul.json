@@ -1,0 +1,605 @@
+{
+  "accountability_score": 60,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 400000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1400000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 140276
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 500
+      },
+      {
+        "category": "PLI 31,482 31 Thou+",
+        "value": 54702
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1197978
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=834",
+      "total_assets": 2597479,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 2597479,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rathnavel Sachithanantham is an Indian politician from Tamil Nadu. In 2024, he was elected to the Lok Sabha, the lower house of the Parliament of India from Dindigul Lok Sabha constituency on behalf of the Communist Party of India (Marxist).",
+    "title": "R. Sachithanantham",
+    "url": "https://en.wikipedia.org/wiki/R._Sachithanantham"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "140 Kattachinnanpatti Kamatchipuram post Dindigul Tamil Nadu, 624622",
+    "emails": [
+      "sachirs@gmail.com",
+      "sachidgl.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9488835071",
+      "9943595087"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 9,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 9,
+    "ipc_summary": [
+      {
+        "count": 8,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 4,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 4,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Negligent conduct with respect to explosive substance",
+        "section": "286"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "C.C. 80/2022, Cr.No. 1115/2021",
+        "charges_framed": false,
+        "court": "J.M.2 Dindigul",
+        "fir_no": "1115/2021 City North Police Station, Dindigul",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "286"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "STC. No. 1175/2023, CR No 831/2021",
+        "charges_framed": false,
+        "court": "J.M. 2 Dindigul",
+        "fir_no": "831/2021, City North Police Station, Dindigul",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "270"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. 59/2022 CR No 2484/2020",
+        "charges_framed": false,
+        "court": "J.M.2 Dindigul",
+        "fir_no": "2484/2020, City North Police Station, Dindigul",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "341",
+          "269"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. No. 66/2022, Cr.No. 2176/2020",
+        "charges_framed": false,
+        "court": "J.M. 2, Dindigul",
+        "fir_no": "2176/2020, City North Police Station, Dindigul",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "341",
+          "269"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "STC. No. 2000/23 Cr. No. 1385/2020",
+        "charges_framed": false,
+        "court": "J.M. 1 Dindigul",
+        "fir_no": "1385/2020, City West Police Station, Dindigul",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. No 273/2022, Cr. No. 1083/2020",
+        "charges_framed": false,
+        "court": "J.M. 2 Dindigul",
+        "fir_no": "1083/2020, Thadicombu Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. No 666/2021, Cr. No. 622/2018",
+        "charges_framed": false,
+        "court": "J.M. 2 Dindigul",
+        "fir_no": "622/2018, City North Police Station",
+        "other_acts": "Section 174(a) Railway Act 1989",
+        "sections": [
+          "143",
+          "188",
+          "341"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. 5/2020, Cr. No. 427/2018",
+        "charges_framed": false,
+        "court": "J.M.1 Dindigul",
+        "fir_no": "427/2018, City West Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "392/2023 Palani Nagar Police Station, Palani",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "283"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "18/05/1970",
+  "eci_state": "Tamil Nadu",
+  "email": "sachirs[at]gmail[dot]com,sachidgl[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Amount For Party Work"
+      },
+      {
+        "person": "Spouse",
+        "source": "No Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 785694
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 785694
+  },
+  "margin_votes": 443821,
+  "minister": false,
+  "mp_name": "Shri Sachithanantham R",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 73650766,
+  "mplads_unspent": 73349234,
+  "mplads_utilisation_pct": 50.1,
+  "mplads_works_completed": 27,
+  "mplads_works_recommended": 80,
+  "mpsno": 5628,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dindigul election results 2024 live updates: CPM's Sachithanantham wins",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPTXdDRlptdDVOWUpoVVQwS3FPSHNDLURySjRJMWRKT2pWenFVLU4xenJnTE5pclhLUjdHb1NBVUdEMDk3ZlQ3NG1hakNaeXI5RkI2YVNSQVNlZjZKa0RhS241MkxKWWpxNGdpVmJlcVl6NXJyTlhnWDU0T3VZVnJfVlVvWUEtZEZWb0hGRlhPT1NOeE9yQngtcGJId3B5d1MxWVdEb0RkYnBfWlV4cnZFZ1FpRE1VZnRaeDJWbHRiYkQ2LVJudllrTjAwUVFaWGdtRXN5OEhOVUt5Y1hKelJfWnprNGVJR2VLVHYxcG5aclJOWWJIaHR5YTluaU5qaUs2ZHZ4Q1NmTHR5Z1l2a0hZWWJvMlJEcW5fVDR4b0t4Qjlmcld1YXl3UERFd9IBsAJBVV95cUxPam82WjZfOTV1cUVVd3Z1T3JiaW5EbnM4dlNTVkliNE43bkl1LXpkSVd1a1hiS05iTjNSN3JWeUMzdDcxR1c4RW1qRy0zN2JLRGo4RERmSjdERndRdldKeWktbE1jcjNVMVVhTFhaQUFxSktLcUdZS1kwSG5JMTI2Y2Flclh5YXRwQzJueUJ3M3h5aERDbFQ3bmJEbktRaXd1VXo5SERCTTIyYThnVm55YVhtNTlHNDFiTDhZN0czRV8wbDVIQzkwNHNKWjBMMDFxQ3J6NF92WjBLVUstUkpyWEFqQmpzUEhKODJGQXBJMDN0bUVVYXdRT18zcG41dEFpSnBZSk9yLURPdjNxVWFYTkpjRTFoNmoxOG1KUUViVTNjNVlTUm5oUy1nOVBwQm5L?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Dindigul Election Result 2024 LIVE Updates Highlights: Sachithanantham R of CPIM Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZmJmZG1Xb2dQbVZOX1NxaXczVjFsYVRhcVFzTVNxMlhRYlZNVVAtVkNFRG5tV0xCNnZySGkwSkZSWUhxSmJ2cDBWMmtsaWpPaWtvV1NrQWx3LXNmSE9oNG5MQXBXY0Z6YWpocG1YS0ZILUxUZXZTcV9Uc01CM1YzU2dBa3FlbmZ5UnpDbDhTWkxhOHk3VVJwY3VmV2lkVy1tRHozNzF3NjVzcHMtS0xBYXdvaUV1NTdoSHBELVh3SndnYWNuOTVlN3FIU2xIUjUtYzVPZ0lFUEZ3MTV2dHVpN2kza9IB6AFBVV95cUxOV1ljd3RGV0hkci1xUWx1TjM5WlF3ZTQ4c0dyWnRkZXJ6elV5Rm5kM3F2RmU5c1VEREhqVzkxbVZpQ0liRjBEdHlIR1g3ZUhnc0t4cXFab2F5LUNPVk5pVUtfVlVpNnMwSHJ3dXFqQkppbmhiTzFsUTFFTUkxM0ExbkcxcHlhRXducU5rRVhLMGVOY29mUHIzRVRiOUZ0V1plOXBhUUlHSFZOeWdpbm9mS0ZEOTRsRWJEMkpKWUlWTHhzMWEyY2g4Z3JjMjBfWURfNWRzT0VtSml4eFA1YS0xMkxVblo5cTZt?oc=5"
+    }
+  ],
+  "non_serious_cases": 9,
+  "nota_gt_margin": false,
+  "nota_votes": 22120,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "party_bond_total": null,
+  "party_full": "Communist Party of India  (Marxist)",
+  "pc_id": "tamil-nadu-22",
+  "pc_name": "DINDIGUL",
+  "pending_cases": 9,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180386.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 92
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Regarding upgradation of Gandhigram Rural University (GRU) in Tamil Nadu as a Central University",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to include Pulayan Scheduled Caste community in Tamil Nadu in the list of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need for effective BSNL connectivity by laying Optical Fibre Cable (OFC) or Fibre to the Home (FTTH) in hilly regions of country including Sirumalai and Kodaikonal of Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to include the pulaiyan tribe in the list of ST",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding inclusion of districts under National Horticulture Mission in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding establishment of tourism corridor between Kodaikanal and Munnar",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 96
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sachithanantham-r"
+  },
+  "qualification": "Graduate",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 2,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Defence": 2,
+    "Education": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 2,
+    "Textiles": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MOHAMED MUBARAK M A",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 68,
+    "criminal_deduction": 8,
+    "legislative": 58,
+    "mplads": 82,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 2597479,
+  "total_liabilities": 785694,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 58.29
+}

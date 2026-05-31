@@ -1,0 +1,577 @@
+{
+  "accountability_score": 63,
+  "age": 41,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14880000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 5023690
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 32103690,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 400000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3860012
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3000000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 264543
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3340000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1191650
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 100752
+      }
+    ],
+    "movable_total": 16192488
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=nYmSck9AYypVEKCvRQPa",
+      "total_assets": 8087459,
+      "year": 2012
+    },
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=nYmSck9AYypVEKCvRQPa",
+      "total_assets": 14634128,
+      "year": 2017
+    },
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=nYmSck9AYypVEKCvRQPa",
+      "total_assets": 24498651,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5211",
+      "total_assets": 48296178,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 497,
+  "assets_latest": 48296178,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Utkarsh Verma 'Madhur' is an Indian politician and currently serving Member of Parliament, Lok Sabha from the 28 Lok sabha Kheri. He was formerly member of the 16th Legislative Assembly of Uttar Pradesh Legislative Assembly. He represents the 142 Lakhimpur Sadar constituency of Uttar Pradesh and he is a member of the Samajwadi Party. He is kurmi. He won his first Assembly election at the age of just 25, and became India's youngest MLA in the year of 2010.",
+    "title": "Utkarsh Verma",
+    "url": "https://en.wikipedia.org/wiki/Utkarsh_Verma"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "498 Near Y.D. College Rajgarh, District-Kheri Lakhimpur Uttar Pradesh, 262701",
+    "emails": [
+      "utkarshmona@gmail.com",
+      "utkarshverma.madhur@mpls.sansad.in"
+    ],
+    "phones": [
+      "8765954841",
+      "8005002036"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/Utkars.VermaMLA/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "01/11/1985",
+  "eci_state": "Uttar Pradesh",
+  "email": "utkarshmona[at]gmail[dot]com,utkarshverma[dot]madhur[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 542007,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 446010,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 440030,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 495735,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 565078,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 488950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 466240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 435780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 426948,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 374410,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Business, Interest and Rent, Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹80.9 L (2012) to ₹4.83 Cr (2024).",
+      "headline": "Declared assets grew 497% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 8087459,
+        "from_year": 2012,
+        "pct": 497,
+        "to": 48296178,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹4.02 Cr between affidavits, while declared income across 5 ITR years totalled ₹24.9 L.",
+      "headline": "Declared assets rose 16× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 40208719,
+        "declared_income": 2488860,
+        "itr_years": 5,
+        "ratio": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 47% of MPLADS local-area funds were spent — ₹7.74 Cr unspent.",
+      "headline": "53% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 77379311,
+        "utilisation_pct": 47
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 4814945
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4814945
+  },
+  "margin_votes": 34329,
+  "minister": false,
+  "mp_name": "Shri Utkarsh Verma Madhur",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 69620689,
+  "mplads_unspent": 77379311,
+  "mplads_utilisation_pct": 47.4,
+  "mplads_works_completed": 197,
+  "mplads_works_recommended": 349,
+  "mpsno": 5809,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-09-09T12:05:08.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Utkarsh Verma (Madhur) , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTBPODBoZ1NmZGs0MTFZYndtYmMtc3phYnQxeVhONUpsMUs2akRiRzRVN3pVMk1hNnh2SXRHWlhUdDNadE9lN01DcFNuRGRhUksxaFZWQWRuczlvNndsZHpiSTRFTUttbWJjQzRqSG1aWHF5UmZCVUhoMGZFeU1qbmpEMUctM2xNd3Q5YlZn?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kheri election results 2024 live updates: SP's Utkarsh Verma wins with over 5 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQNEQwOUhqcXJnU0JvMFM2N0JPbGR5b2gwQ2VBeXlvR05FcWc0ZUltU0REN2gxNXBDRlhDOGt1OGpVamJaZlhpVFZjRnNkXzlRejdxbnRvaVFMQXlDaDY4REtqUzQ1Mk1MV1FzUnY5YU9EaF9MODY2d0x3aVlsa3BuUHRnY2huQU96Q0FFYUdfeU1penRPdHd2QTBoWURTdmRudld3UTVYRHBlMGp4MDFlZE1rUUM1Ti1ORnpDbTZmT3J0eDQwclBod2ZfWVY0Qno4R2hMc0FOanItbWV5dVptS0tFLWppZmxUaDc3UkFRNWNydWtiNXRMUTM1NXRlcWV5UGVvZVIyMHV2X1dqNHVNVXdYY2dpWWF6UGNldEhoN0R0WTEwQXd4aXNTTW1xRFdBTVlLTzZB0gG7AkFVX3lxTFB4TDBmdVk1cks2RFRURndHYzZZMTIxTHVWZkg1WkZoNUFsRVJZU2huVGVTYTVTb29JczUyVlNpX2JKSTJmV1lqRWxvVmp6NUZmeGFiX3NvNHJCa1BJMTN2WXUyYkxya2d0RHlOUzFFeTRHTjRVbHloTDZoU2FDdFVzWFFVR1JETi1JS2RXYzN3STVZY3FKVkZFMkZxLUJvNDFody1MeU90ejF0cTdVTzZoUzFYcGJnNEhTb25DRHlrdGJMM3ViUG5qUDRaSGRRMkpKX2ZscXc2Tm5aSnNxd2pESmJ1R1lON3BMSTRfREdwNHQ2SkdLWVFDVXdBSGxQdFRaQllrb3ZHbHFlTTFtN1VuM1IwRE5qUFc4ajlqUHR2QnNiTTVleHliRXFrTnc4WWNiQkFOZ1NvSFRhVQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Lok Sabha Election Results: BJP Bigwig Ajay Mishra Teni Loses UP's Kheri Seat To SP Rival Utkarsh Verma",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbWh1bjRwWUJ3MlFYNzZYcmxRaUNTNTNkdDl0dllTNXM4MnFKY2diZnlyNWZWVGc2dDVaeDRuRlhzUmlaVjljeEo5MTI2RXNueTktYUxHMDIyOWhuR2hlNUdINWpTSTRqeThLNmU2ZGQzZHhySFp6dXlIOWJaVFNhQ0N4R0RLM0tLbTJOUUJkbWFpZkRDUzRhUUVMZ2FJVFdJaHRqWklqMC10aGlzTlZBMFJJRVlPejduYUY0bWZYeG1zT1RfUGVFUUNibEduT0h0N1lfYVRRZG9yNlZheF9WSHhvZFlJbnBjZTlkLW5UZmVvN19LM3pPR2hGeTJ2aUJS0gGGAkFVX3lxTFB0bEMyN1NkY19SVlVFRkd5Uk1sZ0YzNWZMeThSTkVyR3BUUC12bUVxblBaS1hjSENBLW92dXhpQ3NCU0tuZUREY2NiazB2R3FsNjBtYWxzdjNDcHl4UnJTN0VoRURSRzdhdVgwZkN6bkt0WjcxRi05b1dVMFg4aDhtOTdYWElqc2E4MlJ4RlEzRk9SSEE4RE9nWGI5NFcwdHJGUXRxMzdkMnZKYWYwVnFWMFJabks4c292WnFfNG1JQm40aEg4RDlSVXh6azRjZ203UGdpakR0eHRvbGpvRTBjNVB3Q1JhYU94cDJXNldPRnhpNXZnZS1rQ2NFN2hEc1JjWGc5b1E?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Kheri Lok Sabha Elections 2024 Result LIVE: Who will win in the battle of Ajay Teni vs Utkarsh Verma? Will the bicycle run or will the lotus bloom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkFoZFl4dXFXZVpfc0pXT3dDTlBWZndkTnJMTTM4cUo4SFl2TzVZejhfRnhhX1FXeWJTakt0TDJvQTNsMU52NkJiSERqSmZkeDR5VVFqVW9tMUNWV0g0WlNaT2pLQlM1WTFQdm11MEMyZFFtMktVMnFUSkFJRWxUSzBNemdxNXdNb0puelI4RVE3cW9MVGZGTWl4N1g4UlJXRUd3YjFjdUJBamdMYURid2c3MXhJSFZ3RzVTTVN3TWtPeXMwcnc?oc=5"
+    },
+    {
+      "date": "2024-05-13T00:16:24.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Utkarsh Verma (madhur), Sp Party, Kheri, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR09ENTF2WUYxTFhTZnBTM3FNUmJjcXZUYVdrWlBON205NVhSWnRQdF9BODY4ZG1CT29GNURLWUUtR05HNzBlRlZNdE45YW5zc1BlVWJxTEJTa1hKdVA0eFc5Vks3a1REZmszcVdqcGpQVjhYb3k0SmhOUWR6RG5jbHBnUEs1X1BtenY1blplRDVtaV92eGRDZ3VnTVFVZElxSE1oTmczQ3dBdW5JS1dEU0RNNDV6SFg5amZQWmQyckhOSXNvN1FfSE1uaDZGc2tUNms3Uk91OVRRWm5iOFBQM1lxaGw1dw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7931,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-28",
+  "pc_name": "Kheri",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180494.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Need for Special Wildlife Management to Protect Farmers in Lakhimpur Kheri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding construction of embankment along Sharda river in Kheri Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to protect the interest of retail shopkeepers in the light of rapidly growing e-Commerce sector",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Need to Address Problems of Sugarcane Farmers and Increase Sugarcane Price to 600 per Quintal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to enhance the MSP of Sugarcane and provide good quality seeds, fertilizers and pesticide at affordable price in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to address the problems being faced by in-service teachers due to mandatory Teachers Eligibility Test as a service condition",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Conversion and Expansion of the Mailani�Nanpara Railway Line and Introduction of Express Train Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to regulate the sale of medicines both through offline and online mode",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding request for inclusion of the Banjara Community in the List of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Urgent Relief and Permanent Flood Management Measures for Kheri Constituency and Removal of Submergence Zone Restrictions & River Channelization",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need to construct embankment from Sharda bridge to Sharda Barrage in Lakhimpur Kheri district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding railway related issues of Kheri Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for immediate intervention to address human-wildlife conflict and ensure compensation for victims",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Land Rights for Scheduled Castes and Tribes in Khiri Lok Sabha, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to restore Old Pension Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to extend SitapurMumbai train upto Mailani Junction in Kheri Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt to ensure that the supply of DAP in khiri lok sabha constituency is made available to farmers regularly and they can market their crops regularly",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt towards the operation of trains from lakhimpur station to railway station of other important cities of the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt provide compensation to farmers for their crop loss by flood and strict action should be taken against mining mafias",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 62
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/utkarsh-verma-madhur"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 16,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Railways": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "AJAY KUMAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 66,
+    "criminal_deduction": 0,
+    "legislative": 49,
+    "mplads": 92,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 3
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 48296178,
+  "total_liabilities": 4814945,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.94
+}

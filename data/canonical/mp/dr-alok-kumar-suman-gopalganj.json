@@ -1,0 +1,657 @@
+{
+  "accountability_score": 82,
+  "age": 69,
+  "assets_2019": 32739903,
+  "assets_2024": 26713230,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3707054
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 5700000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 17507054,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 350000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1992821
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC P. No 5399xxxxx 10,64,766 10 Lacs+",
+        "value": 1064766
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2468189
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1739900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1950000
+      }
+    ],
+    "movable_total": 9565676
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=khn6BX5sZJDJ6WMnwGYA",
+      "total_assets": 32739903,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8110",
+      "total_assets": 26713230,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": -18,
+  "assets_latest": 26713230,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr. Alok Kumar Suman is an Indian politician. He was elected to the Lok Sabha, the lower house of the Parliament of India from Gopalganj in the 2019 Indian general election as member of the Janata Dal (United). He is also the National Treasurer of JD(U).",
+    "title": "Alok Kumar Suman",
+    "url": "https://en.wikipedia.org/wiki/Alok_Kumar_Suman"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Thawe Road Turkaha, P.O. & Distt. Gopalganj Gopalganj Bihar, 841428",
+    "emails": [
+      "draksumangopalganj@gmail.com",
+      "aloksuman.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9431217530",
+      "7004266866",
+      "6203721848",
+      "7317594282",
+      "9013548333"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 18,
+  "dob": "04/03/1957",
+  "eci_state": "Bihar",
+  "email": "draksumangopalganj[at]gmail[dot]com,aloksuman[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1852550,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1955220,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1429130,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1398370,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3622972,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 580510,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 571930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 596480,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 572300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 722248,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary from Lok Sabha, Pension, Medical Profession, rental Income & Interest Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Professional Income, Rental Income & Interest Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.33 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 103343645,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 875215
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 875215
+  },
+  "margin_votes": 127180,
+  "minister": false,
+  "mp_name": "Dr. Alok Kumar Suman",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 43656355,
+  "mplads_unspent": 103343645,
+  "mplads_utilisation_pct": 29.7,
+  "mplads_works_completed": 21,
+  "mplads_works_recommended": 85,
+  "mpsno": 5211,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Gopalganj (SC) election results 2024 live updates: JD(U)'s Alok Kumar Suman emerges winner",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWTNNTTJLZW9nUE9jZW1CQmQydzhWSk1JWFMwUVE5dnFWM1R1TDFHVVpIZ1REX3BLZUhWbE5PQ2NQNkVudWVZYXAtdU90c2piMlljUFdCVHBJSllhSWl4MFh2dFZMREQwV2NXNmxoZE5YTjl1MFNtaWw5dFhhRHFwaUxSU1BYUGt5TWhSOEdNRHRjNEpZaXJMSW96YnUzMS1ZZHhzc01WaXBzVkNOQkRuVjQxTTFDSFRjUzFIVHN2SGFzV3lWVms1RGVnRm9QT3I4a0lTQ2tBUTQ5dEV4OHA1Y0tpdEF5SGxzOERsWmFSUVZwSW95bW51YW9GU3ZHMUhTMEhMOEMtNmIzT3JfbHl0LTZCOWVJQdIBmwJBVV95cUxQNDQtdHJHeS1YaDBnZjRRd0hTQlBlaFItWlBwanJnczhmWGVrNmNHbjJXbXhqSzVWd3hQMExBbUZGYnlMU1BDa1l4b3QtLWxFV3IzWUJjTkM4cTlfN2RramxmZzhucG1aT3ZMYjA3ZVBFdEU2dlBKQzQteGM3emFKR3BSRWw1YzZLRGl6MjMwUkJBcE1Lcnd6M0Q5ZWp0bkgteTB5b1hXTHNfYTFwSXJJb1NfMXpaZm4tc0Y5TU82Q2xiVEFGb0JkOGNTMzIxdmZWVEg2Y0dWeWpXNGFKb0Y0bFpuZDNQN0Y1cHZ2cER0eVlRVndURFZUQzBsLU5CMGE0V1NKQ25lWXRsdVNSTkt5c0ZpaHo2YmlnSW5B?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:48:55.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Alok Kumar Suman",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2FKekRxaF93clhrVjVIdVVpZzBiNTluejRhVUVMZEZJMHE2MlVUNjN6WVF2MFROZjNOemdQUzhDWHR0bFhqRjc2SDZyOXhtLTRVTnBnNUM0RXp2R3VDNngxNWlzclRTVG9uby1OT3hSWE41eWpKNV94TTNobkNIcVBGbjgtZk4wZmJtVDlYRmtEY1FIQlNjLVRNeFRWejFHWmU1X2hEcDhYakNHVEtyYW45T0ZrMXRB?oc=5"
+    },
+    {
+      "date": "2024-05-25T01:05:04.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Dr. Alok Kumar Suman, Jd(u) Party, Gopalganj (sc), and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMmoyR0loNGxmdzZ1Zm0tZjN3MUV2Mnh4N21fLUx6TExWTFlFYjdhVUpOYkhxUFNCb1VBVk1IS0d1X0YyXzItVGtiQWkwLVdONHRrSXZsVU8xN200WnFqTGloSURiUVlhVTRXeUpwTjJYRzdYdXNUYlhBWV9DLW9pZEJCVmtfek05eC1mR3RoVUtBMDVDWXRmQmxtRkliNkpEVFpsZXZUTndQTUpHdU1tSWRtNlBZRTQwT1d5MjRLUklUbDVHd1R4b09tQmZfRWdobF9IQ1cybVpqM051WGt0WWM4SQ?oc=5"
+    },
+    {
+      "date": "2021-07-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sabeya airport is part of UDAN scheme: Gopalganj MP Alok Kumar Suman",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVhIZUphQ3M2ZE81VUhEV0lYZV9OLVd3bzN1d2kyU1IzNXI4U2ZTWHc1WnRoOEpveDRyTDRMNlY0Uk9qYVJTWW9OUEVvUUdwbUdUb2hEYnh3V1pVSlBUNlo4WEsyUkRvczYzQkt1VVRJRy1COHhfR1RBWlVFeGI4WmFyODJmTVVCSVdMdzdqRFl5Zm9JY05fSkFKZ1NkUEp1WTZlbnBfMGk5NmtkcnMyaTRB?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 42863,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-17",
+  "pc_name": "Gopalganj",
+  "pending_cases": 0,
+  "phone": "Tels: 09431217530, 7004266866,7317594282, 9013548333(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180045.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for a coordinated plan with Nepal to prevent flood damage and protect families and crops in Gopalganj.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding development of National Waterway No. 37 from Bhaisalotan Barrage to Hajipur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to expedite Panchdeori-Bhatni rail line project in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Immediate Approval and Funding to Complete the Panchdeori�Bhatni Road Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to start operation of flight services from Sabeya Airport in Gopalganj district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding construction of a Pit Line at Thawe Junction railway station, Gopalganj district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to start operation of flight services from Sabeya Airport in Gopalganj district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to develop and modernize Thawe Junction Railway Station in Gopalganj, Bihar under Amrit Bharat Station Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding construction of new National Highway-19 in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to expedite development of City Gas Distribution network in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Pit Line and Yard Facility at Thawe Junction, Gopalganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Inclusion of Bhojpuri Language in the Eighth Schedule of the Constitution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Expedited Land Acquisition and Immediate Resumption of Panchdeori-Bhatni Rail Line Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Operationalizing Sabeya Airport in Hathua, Gopalganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding development of Sabeya Airport, Gopalganj, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding construction of Panchdeori-Bhatni Railway Line Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to release financial assistance for construction of Y-line connection at Thawe Junction Railway Station in Gopalganj Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to include and develop Thawe Junction Railway Station under Amrit Bharat Station Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding need for immediate repair of NH-27 passing through Gopalganj",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding need to provide special package for the development of Thawe Mandir in Gopalganj district in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to minister help to construct boulder and pitching at the banks of river",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding inclusion of Saran Bandh in National Highways",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding regular services of train number � 05305 and 05306",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 49
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 6
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 140
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/alok-kumar-suman"
+  },
+  "qualification": "Post Graduate",
+  "questions": 51,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Defence": 1,
+    "Education": 4,
+    "External Affairs": 3,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Parliamentary Affairs": 2,
+    "Petroleum And Natural Gas": 3,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 7,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "PREM NATH CHANCHAL ALIAS CHANCHAL PASWAN",
+  "runner_up_party": "VIKASSHEEL INSAAN PARTY",
+  "score_breakdown": {
+    "base": 80,
+    "criminal_deduction": 0,
+    "legislative": 99,
+    "mplads": 52,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 26713230,
+  "total_liabilities": 875215,
+  "wealth_pct_increase": -18,
+  "winner_vote_share": 48.15
+}

@@ -1,0 +1,565 @@
+{
+  "accountability_score": 55,
+  "age": 55,
+  "assets_2019": 244067031,
+  "assets_2024": 328162601,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 34400000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 23500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 30000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 122300000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 210200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 368500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 87957295
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2752334
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Insurance Policy no-2B768488904 11,00,000 11 Lacs+",
+        "value": 3167500
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 11893495
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4988667
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3646000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 3000000
+      }
+    ],
+    "movable_total": 117962601
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7903",
+      "total_assets": 328162601,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 328162601,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Flat No. 1603/1604 Shiv Shakti Apartment, Sundervan, Andheri West Mumbai Maharashtra, 400053",
+    "emails": [
+      "mt7tiwari@gmail.com",
+      "tiwari.manoj@mpls.sansad.in"
+    ],
+    "phones": [
+      "9892632287",
+      "1123094123",
+      "9013869536",
+      "1123094122"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "900/2018, PS. New Usman Nagar North East Delhi",
+        "other_acts": null,
+        "sections": [
+          "323",
+          "341",
+          "506",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "51/2019",
+        "charges_framed": false,
+        "court": "ACMM, Rouse Avenue Court",
+        "fir_no": "PS. Tilak Marg",
+        "other_acts": "Section 200 of CrPC",
+        "sections": [
+          "499",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "01/02/1971",
+  "eci_state": "NCT OF Delhi",
+  "email": "mt7tiwari[at]gmail[dot]com,tiwari[dot]manoj[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4625488,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5134686,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4996131,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6162846,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 7015069,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 335441,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 643973,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 498104,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 552579,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 260774,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Singing, Acting, Salary, Rental Income, Interest Income from Bank"
+      },
+      {
+        "person": "Spouse",
+        "source": "Director Remuneration, Interest Income from Bank"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 12% of MPLADS local-area funds were spent — ₹19.95 Cr unspent.",
+      "headline": "88% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 199539293,
+        "utilisation_pct": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10171359
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 10276413
+      }
+    ],
+    "total": 20447772
+  },
+  "margin_votes": 138778,
+  "minister": false,
+  "mp_name": "Shri Manoj Tiwari",
+  "mplads_allocated": 225843858,
+  "mplads_expenditure": 26304565,
+  "mplads_unspent": 199539293,
+  "mplads_utilisation_pct": 11.6,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 16,
+  "mpsno": 4606,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-14T17:01:38.000Z",
+      "flagged": false,
+      "publisher": "Cityairnews",
+      "title": "BJP MP Manoj Tiwari welcomes contempt proceedings against Kejriwal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWpGVmtCaDNPX1RKSWVVd1hSY1RjaTVHNGktYVFreXk0NC10WFQwVjgxc194WEZLYkh5WnVBVlRUYUZHZ04tLUp0cWNQeFUzX19STWpFSV9JMWxrVEpYX2FLQ1FmZFlHVXk2THpnei01alRabDhXOW9va1lNLWlwTVJiX3QxaFVyRnp4SzI2UGo1cjRDSXlnMi1tNm1fWHg1dDJLYg?oc=5"
+    },
+    {
+      "date": "2026-02-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "BJP MP Tiwari claims fake FB account using name, FIR filed",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3NmVGRnVkhIazUzX2NFellfbWRCQ1VWTkJnOC1RQXptYzFMWXNjeDJKcDlHTnhKaURzUU1KSUZVZ2l1SGVVVEpjTzNSWnFFcU9uLUlyY1M3djVnX3Q3TUR0bEVrdW42SWoxYmt0TnA4RjBmU1ZsLVgycllKdm00MHBGWFNNM0dweFdZZ2VaS2VCaVdFbHNXLUpWV1JTVTVaZGUtUTRpTHVoZUhTQmJ2WEM0MW5tSXFCUDZLUUVSeDFhalRDeUJKWG5R0gHPAUFVX3lxTFBERW1OYndoUnpkcm9MWTlqY1ZUVjlaaFNSLVBUdWhiNWwtVlYxNWZrVXFTMUU5cG50RThaYndkVS1TZVdmal9mcjEwWGk1a1FCYW9kMk9CRWpabWNQSkhOM2RneE5sMDlVV3Z3MUhnR3RCbGJHRk9UcHh5Sk5RX3BUX2t2R3JoNTBYM21yTVVQeHJnbG1WeHhWU1NZblFjUjhpMVRsLWoyRW9veEEtSUE5YlFqY081Nm5qYk9oWnNNZVdzYm5tQi0tRHg4WVZJUQ?oc=5"
+    },
+    {
+      "date": "2026-02-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "BJP MP Manoj Tiwari lodges FIR against ‘fake Facebook account’ in his name with blue-tick verification",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmtVLWp6SzQ3QTVZRTlEbl9aVnhvWE5tS3RTUmRDZV94RjRzcmZGd2JSMU1HNzJkY0NqbFB5Sk8ydDQ4OTFMYzg0S2ZGS0gyWXZ6Z1VOb2lIWEpSUmI2VGZodGdIRkhmRTlqcE1TNVFiZGRmb0cwQ2Y5bTFvQXRYTFRiX25Jb1FaVUZZREZ6aEo2X3h1TlE3ZmJOXzZJaFpyMkNIdtIBqwFBVV95cUxNR3h6aUFMeXkxN0xBVk83cmM3bzhMVXN2dXg4b0UwRF9mSEZWNmdFYXpSdGJZZU5sb3Z3U1l5UmFYVENSeVVQU2xmRkVTYm9tdEhncktRX280RHRaSHIxY1R4UXZIaEkya0ktT0NVM0txcEVpWGNhS2tiTVlpMVBHendNUUw2ZmhpZDFaS2tDeFdHejR3MFZKRDh5VENZUDZ3bTZzOGNnQWg4Ukk?oc=5"
+    },
+    {
+      "date": "2026-01-31T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "BJP Leader Manoj Tiwari Files Police Complaint Against Fake Facebook Account",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG9ZdzVKZGRWeUN3R0xFdTJJZ3Q5Zm1aWG54Z1Zhcnp3cDZkN3loYXgxaENlZDlsc0ROQkNXYlg1cUM2dUFYRnRmbTlCR0FiSnV6U2xnRGtLRE5zRXpxY0JybEJJYjFsdld5Z2ltTk9Ca0R4TkRZeDdfUEJfRmp0cTNCSm9rNGdSb1FGa214R0JhcHlPVmFYaGNXdUxjei1sZElZNWtpZng1NDB5akRaMjNScTNFLWJL0gHAAUFVX3lxTFBKT3l1N1pfTGpwbnBLOUFiQW5xNFVtLXJ0dlNjV04wdTQ2MzQwanJxZVNxd0NJaVh3TEdoNWE2WnpUUk5yX2l6QVNnZDJFR010VW9yOVdIc0ZIZDFvcEpzLUtXMU9sQTlEOG9FcTJGMy1FQ2l3eDUyaW4xUjdYOTJkR2N3MUVBQ0pVc0Y1NG1xVzk1ajZUNjhZMk5PNFB1aXl0Q01IeXVnUjVhWWRJZ1ViNWttMlNUSk43bEhoWVV1Zw?oc=5"
+    },
+    {
+      "date": "2026-01-31T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MP Manoj Tiwari files complaint over fake Facebook account; FIR registered",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHIyWEcwdmE5VGZ5T1N3UXg5bHZ2bHhieG1MRTA2WFZZd3JqRlA5ZlV5em4wU0paR0JyMTcyaTduODdUZkdqdE11T0xVVVlNZWJzVkNaVTR0LUFlNmFXWl9ZcnVhZElXSmdCYVhscWp3bUNPbGZrWmFWZWRZeFlGd253cHVDb0ROSnFUVmdKUVd6ZDNBZVNIbEkwa196MlVOOEN3X2xCSzJTMExsaHdOSEs3Vmw4VUVJQzJLRTlBVkdyMU41alVqcGNVTG5FUjdpVG1Kb0JQb3VsY0R2VHBN0gHkAUFVX3lxTFBtRW5DY3Q3aVQxTWF5emtEck1qS1dXak1OMjViOWozLXVVVF83czllODhaaWJIUXgxNTRFNHZ0QlBHbEh4ZWxJZzU2blBrZ2xNOFJrTXc2clRjalFOSXRqMlBtanBVRGpUQ3gwWHR5OHZZYUVocjJJcnVJOEN4bnVMek0tVWhVMUJEamNrMmlQcHk3azRYRlJXZjZ1aFhGUG5oa0lLTUZHSW9MSG83QkJiOTRHNUtmV3RsSU1mZnNic2pkWWZNcXphYzJDbVRTdExXaUMyRzBPOGZiVHRUOFVjbEs3OQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 5873,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "nct-of-delhi-2",
+  "pc_name": "North-East Delhi",
+  "pending_cases": 2,
+  "phone": "Tel : (011) 23094123, 09013869536 (M),Fax : (011) 23094122",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180100.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Film Artist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to protect Government land from illegal encroachment in North East Delhi and utilisethem for public services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to set up a modern water sports complex and a public park in North East Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to develop a park in the Yamuna River Front and develop the area as a modern tourist place",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to strengthen healthcare facilities in North East Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to construct a building complex for police department in North East Delhi district",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to establish a Medical college and 500-bedded Hospital in North East Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Establishment of Purvanchal Bhavan in Delhi to Represent Diverse Communities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to establish Sports Stadium in North East Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt set up an AIIMS screening centre in north-east district of delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding desilting of Yamuna River",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding problem of water logging in North East Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 149,
+      "value": 243
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/manoj-tiwari"
+  },
+  "qualification": "Post Graduate",
+  "questions": 67,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 2,
+    "Development Of North Eastern Region": 1,
+    "Earth Sciences": 3,
+    "Education": 4,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 1,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 5,
+    "Labour And Employment": 2,
+    "Law And Justice": 3,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Prime Minister": 1,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 2,
+    "Statistics And Programme Implementation": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KANHAIYA KUMAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 2,
+    "legislative": 74,
+    "mplads": 22,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 328162601,
+  "total_liabilities": 10171659,
+  "wealth_pct_increase": 34,
+  "winner_vote_share": 53.1
+}

@@ -1,0 +1,486 @@
+{
+  "accountability_score": 77,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 44200000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 600000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 55300000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 304000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 11455366
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 80000
+      },
+      {
+        "category": "LIC Policy No 36282xxxxx 3,85,754 3 Lacs+ LIC Policy No 34593xxxxx 1,10,000 1 La",
+        "value": 2133832
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2963900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 16937098
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Qp88oMr3uuPmGWfPz6Yt",
+      "total_assets": 51831369,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5069",
+      "total_assets": 72237099,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 39,
+  "assets_latest": 72237099,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gyaneshwar Patil is an Indian politician and a Member of Parliament from Khandwa parliamentary constituency of Madhya Pradesh state. He successfully contested the 2021 by-poll from Khandwa Lok sabha seat from the Bharatiya Janata Party, after the demise of Nandkumar Singh Chauhan due to complications from COVID-19. He won against the Raj Narayan Singh Purni by 82,140 votes.",
+    "title": "Gyaneswar Patil",
+    "url": "https://en.wikipedia.org/wiki/Gyaneswar_Patil"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "B-5, Sanjay Nagar behind LIC Office, Burhanpur Burhanpur Madhya Pradesh, 450331",
+    "emails": [
+      "gyaneshwarbjp77@gmail.com",
+      "gyaneshwar.bjp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425394677",
+      "9009671777"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "7/2020 P.S Thana City Kotwali District Burhanpur M.P.",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "27/01/1969",
+  "eci_state": "Madhya Pradesh",
+  "email": ",gyaneshwarbjp77[at]gmail[dot]com,gyaneshwar[dot]bjp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1976083,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1026539,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 934785,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 756897,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 716151,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 760036,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 705784,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 534431,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 461497,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 987282,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & MP Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5446068
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 5446068
+  },
+  "margin_votes": 269971,
+  "minister": false,
+  "mp_name": "Shri Gyaneshwar Patil",
+  "mplads_allocated": 152992779,
+  "mplads_expenditure": 82986986,
+  "mplads_unspent": 70005793,
+  "mplads_utilisation_pct": 54.2,
+  "mplads_works_completed": 147,
+  "mplads_works_recommended": 298,
+  "mpsno": 5535,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "MP Gyaneshwar Patil Takes Train From Burhanpur To Khandwa After PM Narendra Modi’s Fuel-Saving Appeal--",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaWF2WU13d3ZKdGdXZlpNYjdYbTdHclJXamZPRmVFOUJKYm03Mi1wZXVzYUVtRjdONTc5WHdjQXo5LTBTcDBObHI3enJ3QmVzcFBNWks2N2dvMXFDOXdDRWt6bmlQSnJEekgyVTd2NVdQNEgybEh0S05BLWh0eS1PcVFlRFdmdFhBTER6anljc0traElQRGlHLUh4M3ltODFRSU9MNXcwcHhWQmllbE5wdXhadFpTNU10Y215S0xFZkJnQlRuNkM3TV9EU1o2Ty1jOE00X0pWX3ZHSnZ3TlHSAeMBQVVfeXFMT3F0Vl9jWEdvUUtGR3B1TEpGVnNac0xxZXY1RUVuc3Juc25qQmRfNXhSdHE5RkIyLXhKUEZhLW54aW1OM1FvaFc4ZE1zMzJxRzFuZi1iZjhLLS1rR3NycUp6enhyQVdoWmNKbEVmcjYzQUZGN2lxay1seko1dE1HdGxxZzFmR1hxYzFteHRhZ1d3WEJCNTB1b2V4cTFBUmRmSDJvcEUzUlYzWHVaWEs1R09ua2dVSEJRR2puSzJ6WjNFRG5YRkxfLU5RdjF1T2pPUF9wRXd2dTFJR2llTzliQVdMVFk?oc=5"
+    },
+    {
+      "date": "2026-04-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Khandwa MP Gyaneshwar Patil’s Brother Found Dead In Well In Burhanpur",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWFUdW50T2FmZ3VtX0NscHUxWDFqckxJc3VYcVFnY2g5ZmllQmxVUTd6ZE9wQWI2OWxYc29Fd0h0YXhkTzR2U2FjWlR1QkFDajlNSXBrZ0h3V3BTQ2UyeXBDQXNYWnBybU9qWjFzZk9uTGxvOXJMajc0aS1GdEhRYXhSdEdOcmg3QlRZNTVBVVdzbTB4S1Y0dnhpSFdVbUItLTFsdjdYWlhjTlnSAbABQVVfeXFMT0hvNkNIYW0xdlpfenJ1RXNVWC1BWDRzdmtaeGlBalNaekxSN2ZzeFRxdUZ6cDl0N0gzN3ZuS09rYjhyck1JVFNfam5KcHVSZFJYeG4ybjdyczlyMlRjQ3BiUXdDMVpDZHk4SkwxYkZuZzJSYklnZU11LU44MmFnd0wzT3gzeHEyelJudFhPTVFVc1YxZTZ2dWdhXzhNaXNBaVVpSkRtc0JjcnRnT3Z0bEM?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Khandwa election results 2024 live updates: BJP's Gyaneshwar Patil wins",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQd1h2MV8zWlYySVJhZll3VTNkcHR6ODJCY0o4dGR2R3VkYV8yZE1EV3hZSFFOdFRQYWVlVzdSMUl3aU83ckd1T01aM2dKbk5uVUp3VFpJNnZVU3RjeGNpcFB2M2haTVRfX09YWGtacHFQOE1ZMExFaTlDTE5Rc19FS005RlZIVFFlT0VVUUZLLWd0ZjdGb1J0Rm0zaEtqVjgtT0xWZWxYOVdPT2RuZEhnUGFyMWIzN3FpZUdoNG9QWklCLWJ2R1ZWVEd1M0ExVGpzNmtkRkU2RTRFMDEzQUZRdjF0Z3ZvRXdSSXgzWVFGN1VybE9ZRzFPeFozbExsanhVNTlFZFdHamdnOHRWY3U1Zmctb01vVkMyY1ppRGV1TmF5TzVfVTczbklMSXgwN1NycW8yN25fNlMzck91OU1aUWVn0gHHAkFVX3lxTE9mSDRseTAzSGFFeklzdk83TDVGelB0Z1gxUlpXMHY2cGl0WDN2c3pwZkJSMm8xRWFQQkVZeWpJc21hVE1abmNFVmozQXV4NGtWRGo4RE91eDRJRVNmUkpCV0gwWTNNSUQ4TjdQUmlQZW5hZExGT1JnM0lwUXVyWml5NmJaNzVHZVpibzBBbEpfT1p0SDZrNndfWG5Ia2EtNU1zSWFLMHYwS0ROQ1NhUTZLUU53SnJicmlMR3ByTk85UWNBa1dsZmdZMC1uQnZFZmFULWtPLW9uMVlKUG9HMDhwWDhXMFdvdUNsU2NCanhIbW00TG1ZVXpFRGc1NXdvTHN1aGZiWEJoYmx3Rm5XZzV4WFlnTVVxNjZPdWttU3ZjdXJTd2xQZHY0UnFDa3FJYjl6RDNfbUR1eVFZWWJYTjhoVTYyOXVYbw?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Know All About BJP's Gyaneshwar Patil And His Khandwa Win",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX21tM0YwWE1tSmtjOXlWY0hiSlQ5TEtSNm9rUlZwc2xRZFdIUXl3YTY2bXJaR25Xb2tDQW9pMS1HVF9qNWEwMlBWOTk0Z1EzZGtfaU42Sm5BdEJOMHhGMkRlenVDcElVTWZPY1RSV3lfUElBVHlxdTA4bHF4UEo2QVIyTTJNcVJiMGJGZkFsNDcyMV9NRFdodDROUkp5UVVCWmh0eDl6WUJwUQ?oc=5"
+    },
+    {
+      "date": "2024-05-13T00:16:55.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Gyaneshwar Patil, Bjp Party, Khandwa, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0xUeG5ZYWpwSHlvc3hfOFkzWjQ4eWl5SUM0ZC1rcHlmUDNiN0VqYlk1bkVTeHBac1VIVjd4cnBUR0VNbDFhdF9kTkcxTnpGdmxaN1NNTEVsRHNIZ0hwZnA0MnlFbFVpbld4X0tCb1ZTWmNNYVBwcVUxTV84UzZqRnpqNnRhU2hidUZlRHFOaFpORVBaaEt2d2pDdnRvQ1JnekotNng4NHd1UkpTblBGdW02R3J2R242XzI4V2xJMkY4V0R1dlZMQVZ1MGdFaWNONGl6cjBlQzFyX204cWU5LUJCWDI?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 12839,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-28",
+  "pc_name": "KHANDWA",
+  "pending_cases": 1,
+  "phone": "Tel: 9425394677 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180228.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 92
+    },
+    "debate_titles": [
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need for implementation of Hindi language in High Court and District Courts proceedings and orders in all the Hindi-speaking States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to provide online referral facility to ex-servicemen seeking treatment in ECHS Empanelled Hospitals in Burhanpur district in Khandwa Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need for Special Relief Package for farmers affected by natural calamities in Khandwa Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need for conservation and development of tourist destinations in Khandwa Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding non-payment of salaries to employees of NEPA Limited, Nepanagar, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to establish an Ethanol Production Unit in Burhanpur district in Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to establish a Sports Academy in Khandwa Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to establish a Banana Research Centre and Agriculture College in Burhanpur district, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to provide weather based Crop Insurance cover for banana crop",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 212
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gyaneshwar-patil"
+  },
+  "qualification": "Graduate",
+  "questions": 48,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 4,
+    "Labour And Employment": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 5,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 2,
+    "Textiles": 2,
+    "Tourism": 2,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 5,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NARENDRA PATEL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 76,
+    "criminal_deduction": 1,
+    "legislative": 62,
+    "mplads": 97,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": null,
+  "total_assets": 72237099,
+  "total_liabilities": 5446068,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 57.04
+}

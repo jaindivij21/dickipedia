@@ -1,0 +1,446 @@
+{
+  "accountability_score": 33,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 45200000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 18920700
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 18617000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 82737700,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 449900
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 443302
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 24530827
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3250417
+      },
+      {
+        "category": "LIC 834001753 842 96,921 96 Thou+ LIC 834001755 842 18,266 18 Thou+ LIC 83481997",
+        "value": 1552976
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 22677097
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1089067
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5038300
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 59031886
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3735",
+      "total_assets": 141769586,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 141769586,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dineshbhai Makwana is an Indian politician and the elected candidate for Lok Sabha from Ahmedabad West Lok Sabha constituency. He is a member of the Bharatiya Janata Party.",
+    "title": "Dineshbhai Makwana",
+    "url": "https://en.wikipedia.org/wiki/Dineshbhai_Makwana"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Plot No. 69, Haridwar Society, Behind Satluj Hotel, Near Amin Petrol Pump, Naroda Ahmedabad Gujarat, 382330",
+    "emails": [
+      "dineshmakwana1612@gmail.com",
+      "dinesh.makwana@mpls.sansad.in"
+    ],
+    "phones": [
+      "9327426074"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "16/12/1969",
+  "eci_state": "Gujarat",
+  "email": "DINESHMAKWANA1612[at]GMAIL[dot]COM,dinesh[dot]makwana[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 86120,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 133710,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 839580,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 955620,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 892048,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 522130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 354770,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 214560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 616140,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1044346,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional Income, Interest, Dividend, Share And Mutual Funds"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rent Income, Self Employment Income, Interest, Dividend Share And Mutual Funds"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹15.24 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 152434965,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1094524
+      },
+      {
+        "category": "Ajmal Desai 50,000 50 Thou+ Babubhai Dodiya 3,00,000 3 Lacs+ Bharat Babulal Pate",
+        "value": 12127522
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 13222046
+  },
+  "margin_votes": 286437,
+  "minister": false,
+  "mp_name": "Shri Dineshbhai Makwana",
+  "mplads_allocated": 160434965,
+  "mplads_expenditure": 8000000,
+  "mplads_unspent": 152434965,
+  "mplads_utilisation_pct": 5,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 202,
+  "mpsno": 5694,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ahmedabad West election results 2024 live updates: BJP's Dineshbhai Makwana wins, while Congress' Bharat",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNTWtLNTI1YlVTT2lzUzZZSjNrM0FqOUJ6QjVhUy00YkdvOElWWTRDTjkxTWExOUlVaThMWnR3V3VQRUluVVZkbVdLbkJtekF2c2ZjZUFNbkZrRm1IZW9fVnVwbVVfWmUwWTdpbXBoLUR6WUp5bUhVRnNETlNyZnZVZm9Na3BTLVhFckNMYlVDQkVkR01TWG5YdUZPeU95RFViamluVjEzcmZPbHRsQ3c3ZnZVb0liNnp0NnJneWVIejV2azBxR0FhR1FGRFRwTjJ6OUE3aDllWE1nTGt1dWd1M0dWb0l6RjVMdjZKYTMtdk12ZlQ5NTJqLVpvbmpMUVhHNXR1Y285bWc2TkJnaXU1clJ1NGNGTmgtSEJfd0dpMVYteEF3Y2dJR2RrUVhjdHRyS0tLVGt5RlUwWFYxZllrWTVtUFNsYVVURUk5SdIB0gJBVV95cUxPQzhTMlhvZXY4V01iVGg0czQ5TXF6STZvaWVWWTRvaGJTX2FGZjdWUU5pcWpfVnNNSHZEdTBMcUZfUWpsWkdPMzlEd3BfeTYzS1lJajVKVWsydHJ3NUdOX3pfNHlqa1dyUFFLNTR6M09lNzlWVkl4UUFNM3I2eUVUOVBpM0tEWUlUeFpVbDZudVJ4aWhvbjFXWjZlN3hnTVI5WkVMWEg3LTZhbk8xZGc2b2YwbVJxMUh1WS1DbEo1ekZtV0pXNHViRVVFT3lHb2lVRHQ5bVYtdGZMRFRDUDBVd3drNFN5QkswTk1xcG9aYVM0YWRHVlZ4S2Q2ZWJlbUxtaC0xVU1hVmZyQzhHYWR5eWZQUWFCLVJXWG9hb3laVGhDel8xSzE3OGdVZVZjYXlVVzloX1N0T2hNRXFvSmR5MVZYeFk4OVc5bG5mU2hRVjAxQQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Ahmedabad West Election Result 2024 Live Updates: BJP's Dineshbhai Makwana (Advocate) Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzNUMDBEMEdNdjBxMlR6WHJ2NzZSLUlqS1ZhOTU3aUc1RVdMbWozZHlrZ1N5Yl9MUmhnckdtZEU4Qjc1VzFEZDk0WVhYa2NIM0xTWkNzZFg2cm1zSnNqZXZCN0MwSWxpNDNWT2QzZXlMemtTM0cydUlwWS1qR0xKNTZTVnRjVG9OYWdMZVJUemxIQWFITHFCWDdIeE5rWHJXSkxfRzJyd1pBczk2aFRUY05EVFJnYmkyMVlzVUFqRzFuOFJoQjBqb1RvTdIB2AFBVV95cUxOU09EMktnWm5jdmZfeFM3V3lIV1lST1Ita0NJWHZMWXlUbWVZYkVZdlZ1WlItamkyN1pteUdDNmhtM254VjZWdmJ6cW5aN0JLR2ZTdm5RbGVsRnIzMmNXNlE3cW1sQjVMREx3aWhIZFYtd2RNbkc0SWNnRmUxTkhWc2JRUVVyMWF4bWg2MWxscGVjOVFyVlRXc3hDMVUxeWZEVFV3M0F4ckgtby1aVTBmY2lQVWhfVHV4dXhaV3VNWm9UZ2NWOEl3RkIzdEVqMkFFTXB2cm0zcWc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP’s Dineshbhai Kodarbhai Makwana Wins Ahmedabad West With 6.1 Lakh Votes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM3Znck9Qd1VUMUluMnlibTczdll1QjlCSjdQUm5MSmdlM1dyYnlMcUMxNEUwc3VoUjNTRUpOZHZKQjEtX2JtLW9xSWQtMlBpYklTY0NKLVlzdzVLeG5TY3NWTE5ZazBOZ0x0RzhWTGNSNXJWd0hqT3hoR3JLV1FYT1VybUVtc2tNRVFoUi01Q09WaGxMRG9fclh3amxMOWdKOVlfYmkta2NPSkZ1UUxtZ2M3bE5rREZpT1dhbHg0bGU?oc=5"
+    },
+    {
+      "date": "2024-05-31T16:11:57.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bharat Yogendra Makwana",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0Z5NEZRUXFrcTdyeXZQZ3p0TVJjUm5oWFpvWUZtazFIUmZvb3YyOHBudU90ejd3SnBTb0VKazF0cVRTaERjMjJLY0UtUHYzZFBFVlFtdlh5OU1SNGh0OG9PeTdueVQ1Z1VRcEp2Sk9rQ2h6WTJ1N1BadXFodE9xYV9oMThZOTFYSVBETGRzaUE0YzdDUWhNRGNKZ1VORC1ub0R6cmhDRHphaWplUC1vU2VVbkNBLWpBbnpxOVhZSTJTVkJ1cjVyMg?oc=5"
+    },
+    {
+      "date": "2024-05-06T05:38:36.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Dineshbhai Makwana (advocate), Bjp Party, Ahmedabad West, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYWtDMlNUNXdHeVI2Yi1wMW5aVjlOQW9sQlQyZk5qM2hVWThUeUJXY3lsQ0JNM0NRSlJPMFh4QUNva2JHVVpuaTZMMWlneGtjZ1ltZ2J5VTJhdFVwNHl1b0lIVDRBUnpRRlBBdjRKTzJ0YU1CRENuVXBKUlZGNnA4V29WajBjSFQtUml6Y3lIVXduWXVxdEtQZGhaX1hLYnAzdWJrNWluaV84LVp4MndQS0paTnNpcjFMQVo3QlhRRkZubzMxOU9kdlJSa0M3Q0tZbXhrdzJQTTFMSDBiV0t4WDhxbGk3SGdPQXpHeW5aamRjLXM?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14007,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-8",
+  "pc_name": "Ahmedabad West",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180115.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to introduce Vande Bharat Sleeper Train from Ahmedabad to Gwalior and Agra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to introduce a Vande Bharat Sleeper Express train from Ahmedabad, Gujarat to Ayodhya in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need for construction of an additional entry/exit gate at Chamanpura end of Asarwa railway station in Ahmedabad, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to construct an overbridge/underpass at Maninagar Railway crossing in Ahmadabad West Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Extend MEMU Train Service from Vadodara and Ahmedabad to Rajkot for Improved Connectivity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to introduce a Superfast train between Ahmedabad and Karaikal (Puducherry)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to construct a railway overbridge at Maninagar railway crossing in Ahmedabad West Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 233
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dineshbhai-makwana"
+  },
+  "qualification": "Graduate",
+  "questions": 32,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 2,
+    "Home Affairs": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 3,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Prime Minister": 2,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "BHARAT YOGENDRA MAKWANA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 33,
+    "criminal_deduction": 0,
+    "legislative": 50,
+    "mplads": 6,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 141769586,
+  "total_liabilities": 13222046,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 63.28
+}

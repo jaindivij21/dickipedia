@@ -1,0 +1,537 @@
+{
+  "accountability_score": 58,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 36925000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 151925000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 105200000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3300000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 297350000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 100000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3347009
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 7767500
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 762605320 1,31,568 1 Lacs+ LIC Policy No 762894712 5,69,549 5 Lacs",
+        "value": 15393695
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 9562499
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11756250
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 47926957
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=174",
+      "total_assets": 345276957,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 345276957,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "K Eswarasamy is an Indian politician. He is a member of the Lok Sabha representing the Pollachi constituency in the state of Tamil Nadu and the Dravida Munnetra Kazhagam (DMK).",
+    "title": "Eswarasamy",
+    "url": "https://en.wikipedia.org/wiki/Eswarasamy"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "182A, K K Pudur Myvadi Post, Madathukulam Taluk Tiruppur Tamil Nadu, 642203",
+    "emails": [
+      "erspollachimp@gmail.com",
+      "eswarasamy.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9443052573",
+      "9871186645"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/eswarasamy.k/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/K_Eswarasamy"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/eswarasamy_k/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "STC No. 337/2021",
+        "charges_framed": true,
+        "court": "District Munsif Cum Judicial Magistrate, Madathukulam",
+        "fir_no": "Crime No. 1343/2020 Madathukulam Police Station Tiruppur (DT)",
+        "other_acts": null,
+        "sections": [
+          "353"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 10,
+  "dob": "20/04/1976",
+  "eci_state": "Tamil Nadu",
+  "email": "erspollachimp[at]gmail[dot]com,eswarasamy[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2021-2022",
+        "income": 2077280,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2299210,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3147120,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2709230,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 371860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 979060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 821970,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1294010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 492655,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business & Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business & Agriculture Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹11.71 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 117113863,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 94557520
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 94557521
+  },
+  "margin_votes": 252042,
+  "minister": false,
+  "mp_name": "Shri Eswarasamy K",
+  "mplads_allocated": 162315106,
+  "mplads_expenditure": 45201243,
+  "mplads_unspent": 117113863,
+  "mplads_utilisation_pct": 27.8,
+  "mplads_works_completed": 16,
+  "mplads_works_recommended": 80,
+  "mpsno": 5806,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Pollachi election results 2024 live updates: DMK's Eswarasamy won with over 2.5 lakh vote margin",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbkE3dHRlYUtrVzlrVDNvNVB0TGp4TWY5TWQ4cWt0ZVNnNGVCcE41dDdCNUpJMUV0cl9QSHVqc0RTY056RVJ0bnRjQ3lWMkhncG5TY0ZpOHZkdUNNazFDWjl6V0tMMUtRcWdzU2dFU05yck55VWxDNVZ5ak5wMGhmaFp2ZEVpVFE0c1ZPQWx4N2JyZGZ0cWdycXBEYzFhZWxJMjJjbU54UzJQaF8xcGczU3FaTHIyOUNxZlg4T2YxeDBPT2VlcTgzb3NPajExcnBmRTJ0Vjg5Vy1fNWd1b2RnT3pKbE1ZMnVvMnJvcHU5eV9MUlpnbHhYOTRnbk5ncU1yN04xRjZkRER0eUdOZE9hM05DLWstU1pCbFU3SHgzWDRzUm5HNS1CdGpVWE5fT1BvanlIUHFna21NTmda0gHCAkFVX3lxTE41YzB1bmZWSUphM0hOTzA5eHZNUVZMeXo1UXlPaTlUNHMzUEVCU2xsOXBqenA4RDRLVFVPOUZsSE5DWlJFUXNuZkd4bkxsSzB1dmVmWl85dXh5ajI2VEhNN1RwMUVNXzRWRy1vSUxiSGYwTmJLM3NudlFkTHFNblFQSmR2ZlBkYTlUeU9FeDdsdm1KYUNEVHRpcDJkanZsdXc5d0hsdVV6MEZ6WjlyYnB1WmRtUjQ0X2xST0FnTldPN0gzZzdHeGN4SW5JVVNybWtOMTZmYlpZZVFMdG9rV2REbFpHanJ5NHg2T2sxb1FxN284NXo5UTVBQ1BQYTl1QmFLQUl4VjVXb3ZRLWlQVjUwY1dvaWpRZm1idXBWNjVTVjdNcV85SjkxcFhfR3dFVnExMzlnU2VPcjljXzFrSk1CMWc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Pollachi Election Result 2024 LIVE Updates Highlights: Eswarasamy K of DMK Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcGp2ZE50ZTkzaGJJQTJvVXplT2k0R0Q4bkhnaXpWWGZyRlhCTEFFMk43dURWSGdaWnZnZXhtTnZpUTdfelVHaGEwX3VSdU5BNWVYZk1pa1ItZXcycldkNmpFYUswVmIyOFFDWTJqSUxkZGwwSDJ6enZlMGV0aWRXcHRoVG9sMERmQXlOLVk1U0RReWprTTR3RUZNWHZkRnNuU0NONWh4ZVZIWllpNXBvTU9uWVlpeVFQTUhjcFc0THRYdjRkY08xbVZ2cHdZa3J0YjFCY1ZyS2JCcW90ZXgzcGdXSdIB6AFBVV95cUxQeWU5MEFhSHVUXzYyWUN6LWlTYnVJeGRqakszanlRcVRIVEFnTDN1dlhMa0NEcWdLM29EeXZtb0NRVl9ocTVpZjdadlJYc2Jid1BNMjJldl9NQUgwektodkdhSWM3aHM3bzJ1bDlSLXFnVEdFV1FzcmZRclRHZUdNQURZN0tBT29fSmZ6RVZqOHpjTDRHRlBZNWVSYWpENUFUajdlcXI2MTBTZVRMd0VsODJEMjRYYlFMa1BpZTlKMkJZMkJEQXRQSzdvaUUyUTVVa0szeVA1bk5nemVoejkwT3pPX0JrM3ZX?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Pollachi Election Result 2024 Live Updates: DMK's Eswarasamy K Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFlHMFFyZDlQOUdRQnlqRW5yLWI0RXRPV2hNUkM0TzdsUkx4YUVXRmRKQ2FNbWFFdXZJRzFVSjJDb2YzOUhjd2pONXFCS3prNnBrSndrWkZCSFlmYi1KY0hHTDRmLTZvVnRuV0JvclpKOVViWHVmZXZxXzB5cjVKQUJ4ckNfVlNwYlFySm5ad2E5dUdKSnRiLVVyX2tmSGEyM2g5SjJvR01FMS1JNFAzT3dlYmxpOW5GdjlrajVYSEtPeThwMFJr0gHUAUFVX3lxTFBpUDhSR3M3RFAyMnZUbXNiYWVaZUowNldxQUJHeTVRR2xpQXRzZ3dxWW5IT0NqQTBSSzBlZjZUQnRwQWtOY2xJX19sQ3VRQ2czSk5oYklIZDMtcHU5b1NfVjd0MjlCdVlZbG9ibGhlYmZwNHA2ZUswaWktSWdZQlRGY3h1SDlnQ1ZYdjRfaUxBMHUydXh6NzVZaXlKNzFpcUxyYmdfdUtqT3F1ZjB0a1RxOVM4enF2N1MtSDlxUnJnQWd5TjlucGw5MHVfeGljUzdsYUxF?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:28:49.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Eswarasamy K, Ind Party, Pollachi, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZVRIMjJuSG9WcWJTMVdQUndLQjFQZGJad0RHamloVGV6VFFab0hmdEJpUUJGbjRnZzVrZC1UTncweEdpaThvNXN5QkltQUtkbllEUmVjUlRGUXlPazV4MXhvUUdrTVBKczJtZjR5aXBHOW5tNjBKMF9nZzNCZGVPTlVkUF9BUTRtV0dneWxPd0V3QUJPT3ZCeFRMeHVrUXN5bDVtOWFqOS10NEJ5aHc1VEFaSUZsd05CZTI1OENFUy1STnB5UnVac2RfTVQxaGEzN0JPMmVQam5vN28?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 14503,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-21",
+  "pc_name": "POLLACHI",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180367.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to fix MRP of Generic medicines at affordable rates",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to provide stoppage to Mangalore - Coimbatore Intercity Express and Ernakulam-Karaikal Express at Podanur Junction",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of Approach Roads, Over-Bridge, and Underpass Along NH-209 to Support Farmers and Prevent Accidents in Pollachi Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Appeal for Immediate Release of Pending MNREGA Wages and Restoration of Labour Budget for Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to set up a World Class Training Centre and Research facility at Thippampatti, in Pollachi, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to provide dry ash of Thermal Power Plants at free of cost or subsidised price to MSME companies manufacturing dry bricks",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Urge the govt to make necessary efforts to develop the tourist destinations in and around Pollachi and to set up a tourist and cultural centre in Pollachi giving boost to tourist activities in this area",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to provide better railway facilities at Pollachi Railway Station, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt provide a compensation of 10 lakh to the families affected by the wild animals in the valparai tea estates area",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding construction of a new under bridge in Pollachi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding extension of services of Cheran Express to Pollachi",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 123
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/eswarasamy-k"
+  },
+  "qualification": "Matric",
+  "questions": 31,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 4,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 4,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KARTHIKEYAN A",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 59,
+    "criminal_deduction": 1,
+    "legislative": 67,
+    "mplads": 46,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 345276957,
+  "total_liabilities": 94557521,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.37
+}

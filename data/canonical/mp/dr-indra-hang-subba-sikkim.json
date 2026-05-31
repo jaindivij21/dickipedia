@@ -1,0 +1,453 @@
+{
+  "accountability_score": 25,
+  "age": 37,
+  "assets_2019": 478817,
+  "assets_2024": 14845772,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4192887
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5943600
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10136487,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 251200
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 239084
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 400000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Policy no: 2B47405780 36,00,000 36 Lacs+",
+        "value": 3600000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 219000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 4709284
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=55Sz2zQzPBkMUUsPNtC2",
+      "total_assets": 478817,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=484",
+      "total_assets": 14845772,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 3001,
+  "assets_latest": 14845772,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr. Indra Hang Subba is an Indian politician from Sikkim Krantikari Morcha (SKM) party. He is a Member of Parliament constituency from the Sikkim India, first elected in 2019 election and re-elected in 2024 election.",
+    "title": "Indra Hang Subba",
+    "url": "https://en.wikipedia.org/wiki/Indra_Hang_Subba"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Hee Patal Hee Gaon, P.O. Hee Bazar, P.S. Dentam Dentam Sikkim, 737113",
+    "emails": [
+      "subba.indrahang88@gmail.com",
+      "indrahang.subba@mpls.sansad.in"
+    ],
+    "phones": [
+      "9734164383",
+      "9382840617"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "02/02/1989",
+  "eci_state": "Sikkim",
+  "email": "subba[dot]indrahang88[at]gmail[dot]com,indrahang[dot]subba[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1206342,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1228202,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 981547,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 922581,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "From ₹4.8 L (2019) to ₹1.48 Cr (2024).",
+      "headline": "Declared assets grew 3,001% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 478817,
+        "from_year": 2019,
+        "pct": 3001,
+        "to": 14845772,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 5000000
+  },
+  "margin_votes": 80830,
+  "minister": false,
+  "mp_name": "Dr. Indra Hang Subba",
+  "mplads_allocated": 152003923,
+  "mplads_expenditure": 94626220,
+  "mplads_unspent": 57377703,
+  "mplads_utilisation_pct": 62.3,
+  "mplads_works_completed": 10,
+  "mplads_works_recommended": 68,
+  "mpsno": 5111,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-17T18:49:40.000Z",
+      "flagged": false,
+      "publisher": "Sikkim Express",
+      "title": "Indra Hang Subba meets Vice President, raises key Sikkim issues",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXloeVBCUW0zd3VEQ2ZpRktfRTNCY1F3RnJ5enpYRUZVcXN5VGEzcVNvWWk0VjVHenpYUjFTVl90VUxBQm5HeG83Ui1oeXBLTy1MR3BHcFlwU0pJOUhPUnphb19Ib2ZqanpFQV9sbElzSExsWFRxSGhZMXd5YjE1QktLSUptN0N5TnZERmJ4Y3RvM1JfLVhjSm5Fc3gzZjk5emY2RlRlUS0?oc=5"
+    },
+    {
+      "date": "2026-04-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "Sikkim MP Indra Hang Subba Meets Amit Shah to Discuss Long-Pending Tribal Reservation Issues",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGExMVF1Z2tOel9CcEFjU2pIZkNJV0ExM05iSHAtbWJVS0p3RG5IaThpTWU4dmlkNlo2UUtrZkk0SVRiUUtteWhXRFpGd092bDhMbWxYWGFvdTNqekNqNGhoR3dCTjUzX3hPZWltTEZlMU9YbXl4RlF6anIyMU52bWpSaWtXY1ZuNXhWcUU4bVhmWTdZNDhLRThjZUl4Ti1FczhmMTNndFk2bmZXamhTYm51WjlLeUJ0UnV3d0pHanhNVlBzd0FnVg?oc=5"
+    },
+    {
+      "date": "2026-02-13T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Sikkim Express",
+      "title": "Indra Hang seeks Centre’s support on human-wildlife conflict and eco-tourism in Sikkim",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW9QZlphTXlqdzhvWmlZelllV1pEVWh6TXR5YWdTN0NRUGhVQUQ1VmpvWE1nb1B0akk3aF9vRWIySUJMbTNrcHRJWG93bHNXZHdoaUNqRG53R2NLTnBvM2tHd21JOWZMVFUwMG1tck9fc0g2eVduRWh1MWE5UVBMMXhEUkswSFpiTmRKSkthMl94eUFnVUk4d1ljbk1MZW9ZQ1FZOHpLcFhKVG1qQjB5QVZILUVMM2hLTW9uaFRZaEF6ZmwyaWJF?oc=5"
+    },
+    {
+      "date": "2026-02-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "MP Indra Hang Subba Meets BRO Chief, Reviews North Sikkim Highway Monsoon Preparedness",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQktyWlYtQWJMYXR5SmY1OF9tbjJoSHdGc1VkdWNXaFU2R0JBdFIzY3Z2SUNTNzc1TWJId0R1R3RaZ1NvQV9jVGFEQi1FSDlGUjY5bjVCZ3ZFXzhIS09TUWhiUWNzc3VVSzdlX2xHbThTTXJSMW4wRVdHVlFZOG1HTnd2MGtKOFVZMkxmcmc3dVlPNE51UDJ3bGplRmZlTThqa3pzRFpBNzBVVy1BekpBUmJoOHJ5Wjc0R1lyWnV1Yw?oc=5"
+    },
+    {
+      "date": "2026-01-28T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "Sikkim MP Indra Hang Subba Seeks Special Parliament Discussion On Climate Change",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2Z5SjJqMUN2TDg5TkdwUmhJNC15bWd3eFE2Q1F6R2FxbUhKYVBCZ2pWVElmUEY1MnJycTZHeUtGNkhMTTR3bWduaFMwRTEzckxlVXFrYU1BNlBtTUhZLUdXdm5ILWV0NGxVc3ItSUFQc244MWRBX29KWDBXbS16SzFMVkRXRUV6aTNUSHRyZG5fNkVsQmpBdmlSN2Q2UDdfTG5OZkRJUk5CZ1ZMNFcxM3hUTW5RQmd2?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2527,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "SIKKIM KRANTIKARI MORCHA",
+  "party_bond_total": 365000000,
+  "party_full": "Sikkim Krantikari Morcha",
+  "pc_id": "sikkim-1",
+  "pc_name": "Sikkim",
+  "pending_cases": 0,
+  "phone": "Tel: 09734164383 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180358.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician - Parliamentarian",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 90,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Inclusion of Limboo and Tamang Communities in Reserved Legislative Assembly Seats in Sikkim",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Appreciation for Government Development Initiatives in North-East India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Inclusion of 12 Left-Out Communities as Scheduled Tribes in Sikkim",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for the reservation of limbu and hamag communities of Sikkim",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Declaration and Development of State Highways in Sikkim as National Highways",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 38,
+      "value": 38
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/indra-hang-subba"
+  },
+  "qualification": "Doctorate",
+  "questions": 15,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Culture": 1,
+    "Development Of North Eastern Region": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 2,
+    "Food Processing Industries": 1,
+    "Jal Shakti": 1,
+    "Minority Affairs": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Tourism": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "BHARAT BASNETT",
+  "runner_up_party": "CITIZEN ACTION PARTY-SIKKIM",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 0,
+    "legislative": 39,
+    "mplads": 75,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 14845772,
+  "total_liabilities": 5000000,
+  "wealth_pct_increase": 3001,
+  "winner_vote_share": 42.71
+}

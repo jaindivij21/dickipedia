@@ -1,0 +1,370 @@
+{
+  "accountability_score": 46,
+  "age": 53,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8200000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 520000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8900000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 537100000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 350000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1486115
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 2000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3190000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 18226115
+  },
+  "assets_earliest_year": 2022,
+  "assets_history": [
+    {
+      "label": "Manipur 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=LLhBQjtGDZNfPQxFYBF",
+      "total_assets": 514741471,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=340",
+      "total_assets": 555326115,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 8,
+  "assets_latest": 555326115,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Alfred Kan-Ngam Arthur is an Indian politician from Manipur. He is currently serving as Member of Parliament, Lok Sabha from Outer Manipur. He is a former member of Manipur Legislative Assembly from Ukhrul.",
+    "title": "Alfred Kan-Ngam Arthur",
+    "url": "https://en.wikipedia.org/wiki/Alfred_Kan-Ngam_Arthur"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Poumai Colony, Chingmeirong, Imphal Manipur, 795001",
+    "emails": [
+      "arthur.alfred@gmail.com",
+      "alfred.arthur@mpls.sansad.in"
+    ],
+    "phones": [
+      "9436020309",
+      "8259999609"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "04/06/1973",
+  "eci_state": "Manipur",
+  "email": "arthur[dot]alfred[at]gmail[dot]com,alfred[dot]arthur[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Family Support and Agriculture Source"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 8%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 8,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1400000
+      },
+      {
+        "category": "Manipur Legislative Assembly Secretariate Car Loan 30,00,000 30 Lacs+",
+        "value": 3000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 4400000
+  },
+  "margin_votes": 85418,
+  "minister": false,
+  "mp_name": "Shri Alfred Kanngam S Arthur",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 77591963,
+  "mplads_unspent": 69408037,
+  "mplads_utilisation_pct": 52.8,
+  "mplads_works_completed": 13,
+  "mplads_works_recommended": 33,
+  "mpsno": 5582,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-03-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ukhrul Times",
+      "title": "Lok Sabha MP Alfred Arthur Demands New Budget Addressing Manipur’s Plight",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuZXdoTlM5Zm9rRTRpeE1uaVFXd0tuX1VsSC1yZXhIckQ4RmxqRGRxSXdIWEVDU0hld0lWUS03QXJQRV9TMVVCVEhZanoyTWpBcnNaUkwxYTJHNDZMcmY2Z1AzcHBzZS01cWNDdkFPYTdrZDNINHc?oc=5"
+    },
+    {
+      "date": "2025-03-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "Manipur: MP Alfred Kanngam Arthur reviews development initiatives in Kangpokpi",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX09GX1ozajRIRVBzallDQ3VxOFJSdmoxek5SVGROMXBhRkhrY1J2Ykd6MVdwODdhLXdGc3ZiZGNGSnJtcTVNajJWX0JhdFFjZnFUZDhVeUpVaGJTbWhFaXlCTUJBWlpjWWtSVnhNOHliNnJxQWN0eXVyQ1dfZWt1bDFkMnl1Vk96UWR0YjlTMzJGMVo0VTBLNC1MU2d3SlRzRGY2czJTYzBaeXdSdWJJTGJHNTV5OEhlMmFPSmpmODh4aUl6TFBxU19NdW9EWThfQkRmetIB2gFBVV95cUxPYUhQVXFnNG9qcWhLMzE1ZXd0X2dDR2NNYm1YYmhDNmdUekVLMUVBM3dEV21HQ2x6bzRwQUVrcnpGblZIY3lGTlFhQ1Z0OEJDWlVmYU1lb2ZiZU1SdVgzTXlGeFJseXBCRnNrWTFFcVRsYnU4WV9yT1V3M3I4eG56UmdoVUtqbUR6YjZzZ3pKbXFBUW5LdWFJTTVyY2lYbUxmbXpyX3NQeDJ6OVhmMlZjNDlGY0M2d2l6YTNEZDB0bE04aXFUczhyVTJZYUdlOW5jdWtyUVhXbFEyQQ?oc=5"
+    },
+    {
+      "date": "2025-03-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ukhrul Times",
+      "title": "MP Alfred Kanngam S Arthur Conducts DISHA Review Meeting for Kangpokpi District",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3TjZCQjhMRzlpZ0VzTVliNGtQODBBb2g1d3hjLW9FXzlBR1dzcmtINWkxZXpGTm5rRWNKSnlERC1jd19pS09XSkRmSndxMjhYSEVnd3hRUTdDRkM2S0l5NDRnQzBPNVJtTExlM05CN2RRMnVxQnNYNmQ3NzNhdw?oc=5"
+    },
+    {
+      "date": "2025-03-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ukhrul Times",
+      "title": "Lok Sabha MP Alfred Kangam S Arthur Chairs DISHA Meeting in Churachandpur",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qT1pFY2dxblNyaDRObjE1Q0dBR1BjRTVLbzZ2TGtUQURzOERHOThOZGVyTlgyeXlrbTZNbXVLRFN2eUE4NHpEbThWeG1GbkNUWXhQVXdSVkZjSDdJU0JqTFl1SFprN0o2S2gzcjZpczNHQ2JqVW1acXRYN1hmU0U?oc=5"
+    },
+    {
+      "date": "2025-02-28T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "Manipur MP Alfred Kanngam S Arthur Reviews Flagship Schemes In Kakching District",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGVlV2prdVRFMEhrRzB4WXBSRWpOR3hUeFV6R09FMDJ3LUE2QzFfVXEtMGdSYXIyRVh1d3VlQWItN3RZWkZpVWpBTnlQOEdxQ1Izb25UVWFVenBUVmVydm1lZmJ5ZnFXbFVwU2xISWFLRUxHeEF5S1JGdVlMSUw0RTM1MDdPSWJ5RFVSY0NMT0FxRDdjMzRwT0FkNE94Z0ZsM3FOakphYjJKdEhieHJ2MEwtMEt0QU9W?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7225,
+  "notable_record": null,
+  "num_candidates": 4,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "manipur-2",
+  "pc_name": "Outer Manipur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180292.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 77,
+      "value": 70
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Restoration of Peace and Normalcy in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 9.5,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 30,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/alfred-kanngam-s-arthur"
+  },
+  "qualification": "",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "ST",
+  "runner_up_name": "KACHUI TIMOTHY ZIMIK",
+  "runner_up_party": "NAGA PEOPLES FRONT",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 0,
+    "legislative": 18,
+    "mplads": 89,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 555326115,
+  "total_liabilities": 4400000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.32
+}

@@ -1,0 +1,738 @@
+{
+  "accountability_score": 51,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 29928157
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 286741720
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 71622267
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 89175232
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 477467376,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 3354212
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 177615069
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 163886317
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1200000
+      },
+      {
+        "category": "LIC Premium Paid 20,29,001 20 Lacs+",
+        "value": 3363531
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 11000000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 17675262
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 31505528
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 898348
+      }
+    ],
+    "movable_total": 410498267
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=toueaqkpXkRCBxfepevL",
+      "total_assets": 587579451,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=216",
+      "total_assets": 887965643,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 51,
+  "assets_latest": 887965643,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Door No. 07, 5th East Cross Street, Gandhinagar Township, Katpadi Vellore Tamil Nadu, 632006",
+    "emails": [
+      "dmk.kathir@mpls.sansad.in"
+    ],
+    "phones": [
+      "4162249799",
+      "9842329999",
+      "9443329999"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/kathiranand.dmk/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/dmkathiranand"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 5,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 5,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+        "section": "201"
+      },
+      {
+        "count": 1,
+        "description": "Bribery",
+        "section": "171B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for bribery",
+        "section": "171E"
+      },
+      {
+        "count": 1,
+        "description": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",
+        "section": "477"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+        "section": "109"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC. No. 344/2020, Re numbered on 20.11.2020 From CC. No. 499/2016",
+        "charges_framed": false,
+        "court": "Judicial Magistrate No.1 Vellore",
+        "fir_no": null,
+        "other_acts": "Section- 276-CC and 276-C(2) of the Income Tax Act 1961",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.C. No.382/2023",
+        "charges_framed": false,
+        "court": "Judicial Magistrate No.1 Vellore",
+        "fir_no": "205/2019, Katpadi Police Station",
+        "other_acts": "Sec.125A(i) of Representation of Peoples Act 1951",
+        "sections": [
+          "171B",
+          "171E",
+          "353",
+          "341",
+          "201",
+          "109"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "112/2017,Katpadi Police Station",
+        "other_acts": "Section- 151 CRPC",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "76/2017, Katpadi Police Station",
+        "other_acts": "Section- 151 CRPC",
+        "sections": [],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Special case No. 1/2004",
+        "charges_framed": true,
+        "court": "Additional District and Sessions Judge, Vellore",
+        "fir_no": "Cr. No. 9/2002, Directorate of Vigilance and ani Corruption",
+        "other_acts": "Section- 13(1)(d)(ii), 13(1)(e), 13(2) of the Prevention of Corruption Act-1988",
+        "sections": [
+          "109",
+          "471",
+          "477",
+          "34",
+          "201"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 17,
+  "dob": "19/01/1975",
+  "eci_state": "Tamil Nadu",
+  "email": "dmk[dot]kathir[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 69417510,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 9284410,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7550990,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5086160,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5517990,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 50510840,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 11130650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 949938,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6858530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 763330,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 31940,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business & Properties income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business & Properties income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹13.74 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 137438016,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 69871182
+      },
+      {
+        "category": "Nil",
+        "value": 441787305
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 511658487
+  },
+  "margin_votes": 215702,
+  "minister": false,
+  "mp_name": "Thiru D M Kathir Anand",
+  "mplads_allocated": 160196941,
+  "mplads_expenditure": 22758925,
+  "mplads_unspent": 137438016,
+  "mplads_utilisation_pct": 14.2,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 86,
+  "mpsno": 5528,
+  "myneta_serious": true,
+  "news": [],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 8736,
+  "notable_record": null,
+  "num_candidates": 31,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-8",
+  "pc_name": "VELLORE",
+  "pending_cases": 5,
+  "phone": "09842329999 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180363.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to address the grave situation arising out of shortage of LPG cylinders in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to expedite operationalizaton of Bengaluru-Chennai Expressway Phase III, spanning across Tamil Nadu and Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding need to provide stoppage of various Express trains at Gudiyattam town railway station in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for the relaxation of moisture content in paddy for public procurement",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for commecement of commercial flight operations at Vellore Airport",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Opposed the introduction of The Health Security se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding restoration of Registered Post Services in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to declare �Thirukkural� the book authored by Tamil poet Thiruvalluvar as National Treasure Book of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to declare Thirukkural as a national treasure book",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Need for Adequate Funding and Reform in the Ex-Servicemen Contributory Health Scheme (ECHS)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction and Completion of Railway Over-bridges and Underpasses in K. V. Kuppam Area to Improve Connectivity and Ease Traffic Congestion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need for GST exemption on all recognized Private educational institutions in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request for GST Exemption on Private Educational Institutions to Ensure Affordable Education",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Timely Release of Pending MGREGA Funds for Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Ensure Fair and Equitable Delimitation Process Respecting Federal Spirit and Recognizing Progressive States� Contributions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to provide stoppage of important trains at Gudiyattam Town Railway Station in Vellore Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Handloom Park and Solid Waste Management in Gudiyattam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urge upon to govt to review the decision of the LIC management so as to restore the commission which they were getting earlier",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to provide enhanced devolution of taxes to Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister an overbridge should be constructed at LC- 81 at Vaniyambadi New Town and at Latteri, at LC-57 and at LC-58 at Rangampettai Railway Gate and at Katpadi VIT Gate at LC-53 and Katpadi Vanjur Gate, at LC-129 respectively",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding sharing pattern of Integrated Goods And Service Tax",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding Caste Census",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Urge upon to govt to provide adequate budgetary allocation for welfare of beedi workers and ensure appropriate wages as well as compulsory pension for aged 60 years and above",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding the empty ground surrounding the Vellore Fort should be allowed for organising exhibitions and entertainment-related functions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding construction of RoB at level crossing no. 81 New Town Vaniyambadi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 43
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 144
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/d-m-kathir-anand"
+  },
+  "qualification": "",
+  "questions": 49,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 3,
+    "Coal": 1,
+    "Communication": 3,
+    "Culture": 3,
+    "Defence": 1,
+    "Education": 2,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 5,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Rural Development": 3,
+    "Social Justice And Empowerment": 1,
+    "Statistics And Programme Implementation": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "AC SHANMUGAM",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 64,
+    "criminal_deduction": 15,
+    "legislative": 95,
+    "mplads": 18,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 887965643,
+  "total_liabilities": 511658487,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 50.35
+}

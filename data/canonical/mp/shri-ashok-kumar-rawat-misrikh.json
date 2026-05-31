@@ -1,0 +1,572 @@
+{
+  "accountability_score": 79,
+  "age": 51,
+  "assets_2019": 48771207,
+  "assets_2024": 129670318,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 27500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 70000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 109500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2963318
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 200000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC policy No 230333436 1,00,000 1 Lacs+ LIC policy No 212232589 1,00,000 1 Lacs",
+        "value": 1200000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9750000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 5407000
+      }
+    ],
+    "movable_total": 21170318
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=smDmmKyXpiocRYUmMF4f",
+      "total_assets": 48771207,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5077",
+      "total_assets": 129670318,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 166,
+  "assets_latest": 129670318,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ashok Kumar Rawat is an Indian politician from Sitapur District of Uttar Pradesh. He currently serves as a third term Member of Parliament(Lok Sabha) from Misrikh parliamentary seat of a Uttar Pradesh. In the recent 2019 Lok Sabha Elections, he won on a BJP ticket defeating his nearest BSP rival by a margin of just over 1 lakh votes. Earlier, he has contested and served two terms in the lower house as a member of the Bahujan Samaj Party. In 2019, he managed to retain his seat which he lost in 2014. Mr. Rawat with his exemplary performance was ranked 3rd in the number of questions asked in the 15th Lok Sabha as per PRS India Report.",
+    "title": "Ashok Kumar Rawat",
+    "url": "https://en.wikipedia.org/wiki/Ashok_Kumar_Rawat"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "B-21, SECTOR C ALIGANJ LUCKNOW Uttar Pradesh, 226024",
+    "emails": [
+      "ashokrawat32misrikh@gmail.com",
+      "ashok.rawat@mpls.sansad.in"
+    ],
+    "phones": [
+      "5222328270",
+      "9415047821",
+      "9868180441",
+      "1123368330"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 9,
+  "dob": "26/11/1975",
+  "eci_state": "Uttar Pradesh",
+  "email": "ashokrawat32misrikh[at]gmail[dot]com,ashok[dot]rawat[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1426910,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1316250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 838060,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1117771,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 813210,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1464840,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1235280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 725290,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 642700,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 625241,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Rent, Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹8.09 Cr between affidavits, while declared income across 5 ITR years totalled ₹55.1 L.",
+      "headline": "Declared assets rose 15× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 80899111,
+        "declared_income": 5512201,
+        "itr_years": 5,
+        "ratio": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹4.88 Cr (2019) to ₹12.97 Cr (2024).",
+      "headline": "Declared assets grew 166% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 48771207,
+        "from_year": 2019,
+        "pct": 166,
+        "to": 129670318,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 24861056
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 24861056
+  },
+  "margin_votes": 33406,
+  "minister": false,
+  "mp_name": "Shri Ashok Kumar Rawat",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 85818529,
+  "mplads_unspent": 61181471,
+  "mplads_utilisation_pct": 58.4,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 4,
+  "mpsno": 4096,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP’s Ashok Kumar Rawat Wins Misrikh For A Fourth Time",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjJZMWNjdW5KQVFXWXMyaTROTjBGdWR5cFhBM3A1c2tlelBqbVdDZWQ4ZXdydUdxT19hT0VTZTdtWWk2LWlXUGp5S1pPb0lzN2VkWVhxN0Jhc2FWVjNJbFphM1ZVTXpReDNnWXh5cFBsZjFQQUFaU1JhTFdUcU1SeVd1VHV4dTVlZzR4SHRCMmdwNEF2dG04NnhXbi11eGZYcERsVEtjWQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Misrikh Election Result 2024 LIVE Updates Highlights: Ashok Kumar Rawat of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGVlbVdjWUlfUGk2UzYxdmFiU1c4akxOWFppYUd1OW1mSEg5VHhNNGJOQXVMRkVmTmw4OWpHcmlUUnpjMGFsRkQzS3BTTnZpRXFLOVFoMXczdEdxU1dNbGg1ODZrMVkyMWpwTy1TXy15dHRnaEQ0dENHVlBHU2N5d3Y0VVNQVlo0eHBlRUNLUzFBNFRSZTJadmxsRkVtX2ZyYVE4cXN6bFFuMW5kNVVUQXJvV08tdl94N2M5MGxyOEttLWVxZmxROFhiMTlObHBiS2dLd2pvTjRxSWYyVEtyRnRR0gHnAUFVX3lxTE1mYlVyMTNPSGZNQnhGc2VieTlIbHJhS2FYSFRKaVZiY05KcnJmT3hVQWtCTF9MSXdLZDhnN2dMdG1XWjA3S1J0QkozR3hsSlg1VXo5ckNtc1dxa0JWNURwN091eDVKR2VMTjFWUGVONVVuaXRrT3E3M245NTI3aVk0U2JyeFB1X1dTcEZ3N3lRMTRlcUtVRGVJelZuXzlGX2ltbFZfV0tmb0s0RHhlR1RoV1hZY01jaVVXck1IWlJia0lBT0ltdjk1c3A2N1lPbmFTbWdpNWs0U3RxaThDWUR1U08xdmFRaw?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:18:31.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Ashok Kumar Rawat, Bjp Party, Misrikh, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWXQ4V1lhakEzU1J2OTRtdWxvenhDSGxUN1lwaV9oX2t4OTlrNlZUbi1BSHJHUENac29GUTh0YVZkcHZmOVR6U2M1WWNWb3FpSUh2TWNkQ3E0cjkyV0lleC1ZUnpBeU1TLW5FNTE5U19aZVdBdzJUMjRfNTZCOEhPOEdWQ1YtZ1ZoMklRZ1FSWEc1VlUySVpHQkdYM1hWRlp6bll5V3RuaXlDbW9icmo2MW9HcW1JOE9ROTBZRGk4aE12aGVVakVHR09sbTNHa3hWWlI2dWUwRVRPUlhjR3prUlBaaU4?oc=5"
+    },
+    {
+      "date": "2024-03-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Ashok Kumar Rawat: BJP Candidate To Retain Misrikh Constituency",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTVZelA1bnpHZndfaFlxUzBVRGdKODlVSDFlenpPMThpZExta3FvUFRQVmVPTElueERBMFVaVmFnOXBEeTM5NlFpSTdEbmZDTWw2V3RaODJvT2Q0MEl1SEhRVVExWWVRMDZ0Q1dLaUhVX1dHeG92emFLOWtBV1ZZYUFTZ1VKTm5YUC1FYjgxWTVmTmZPejNsN2hmN3RlZ0E?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8029,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-32",
+  "pc_name": "Misrikh",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23368330,,23352216,09868180441, 09415047821 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180429.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 97
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request to Install a Statue of Atal Bihari Vajpayee in Sandila Town of Hardoi.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to establish a modern Sports Stadium in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to establish a Software Technology Park in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to install a statue of �Bhagwan Narsingh� and 'Bhakt Prahlad� in the vicinity of Hardoi railway Junction in Uttar Pradesh and also rename the Hardoi Railway Junction as 'Bhakt Prahlad Railway Station'",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to install statue of Bharat Ratna and former Prime Minister Late Shri Atal Bihari Vajpayee in Sandila, Hardoi district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need for establishment of Central Agricultural University in Misrikh Lok Sabha Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Inclusion of the History of Ruler Maharajas of the Pasi Community in School Curriculum",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding protocol violation during flag-off ceremony of Vande Bharat train at Sitapur Junction, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to convert State highway 38 and 137 into National Highway",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need to establish a Kendriya Vidyalaya and Navodaya Vidyalaya in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to conserve historical forts, sites and structures associated with Passi kings at various places in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Inclusion of Hatya Haran Teerthsthal in the Ramayana Circuit under Swadesh Darshan Yojana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to establish Indoor Stadium in Sandila/Bilhaur in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to set up a Software Technology Park of India at Sandila in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to declare Bilgram - Mallawan State Highway as National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to establish Mega food Park and Integrated Cold Chain alongwith Value Addition Infrastructure in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to provide PNG Facility in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to include �Hatya Haran� a religious place in Misrikh Parliamentary Constituency, Uttar Pradesh in Ramayan circuit",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to declare and develop Bilgram Mallawan road in Uttar Pradesh as a National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to construct railway overbridge/underpass at railway crossings in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to extend the area under Lucknow Cantonment Board upto Sandila in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to raise new army regiments on the basis of caste",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to expedite construction of R.O.B. near Sandila Railway Station in Misrikh Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding request for repair of Rural roads damaged during construction of National Highways in Mishrikh Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 104
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ashok-kumar-rawat"
+  },
+  "qualification": "Post Graduate",
+  "questions": 18,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Commerce And Industry": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Railways": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "SANGITA RAJVANSHI",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 73,
+    "criminal_deduction": 0,
+    "legislative": 56,
+    "mplads": 98,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 129670318,
+  "total_liabilities": 24861056,
+  "wealth_pct_increase": 166,
+  "winner_vote_share": 45.15
+}

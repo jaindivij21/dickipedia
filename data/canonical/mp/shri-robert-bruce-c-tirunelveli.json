@@ -1,0 +1,481 @@
+{
+  "accountability_score": 40,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 35000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10517079
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 8882921
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4800000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 59200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 3271500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1217746
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 30824
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 18953680
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2813938
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7175200
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 33462888
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1480",
+      "total_assets": 92662888,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 92662888,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "C. Robert Bruce from Kanyakumari dist, is an Indian politician. He is set to be a member of the 18th Lok Sabha representing the Tirunelveli constituency in the state of Tamil Nadu and the Indian National Congress (INC).",
+    "title": "C. Robert Bruce",
+    "url": "https://en.wikipedia.org/wiki/C._Robert_Bruce"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "5/129, Star Cottage, Saral Vilai, Kattathurai Post, Kanya Kumari Dist. Kattathurai Tamil Nadu, 629158",
+    "emails": [
+      "crbrucekk@gmail.com",
+      "robert.bruce@mpls.sansad.in"
+    ],
+    "phones": [
+      "9442075300",
+      "9894975300"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Indial Oil Corporation contract for running the petrol bunk",
+      "party": "spouse"
+    },
+    {
+      "detail": "Spouse- Indial Oil Corporation contract for running the petrol bunk with Mr. Paul Money, Pudukadai",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Crime No. 187/2024",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "187/2024, Thuckalay Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "290"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "27/05/1962",
+  "eci_state": "Tamil Nadu",
+  "email": "crbrucekk[at]gmail[dot]com,robert[dot]bruce[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1010370,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2229220,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 585320,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Advocate Profession"
+      },
+      {
+        "person": "Spouse",
+        "source": "Assets"
+      },
+      {
+        "person": "Dependent",
+        "source": "Doctor Profession and assets"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.33 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 103327374,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1022299
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1022299
+  },
+  "margin_votes": 165620,
+  "minister": false,
+  "mp_name": "Shri Robert Bruce C",
+  "mplads_allocated": 147475440,
+  "mplads_expenditure": 44148066,
+  "mplads_unspent": 103327374,
+  "mplads_utilisation_pct": 29.9,
+  "mplads_works_completed": 14,
+  "mplads_works_recommended": 108,
+  "mpsno": 5629,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-10-23T18:41:15.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Robert Bruce C , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFJpcXZpU3V1cmJBbTU0YUl3VXRJT2FDXzVJcFdaOF80RDBHYUFVekw4a2R6a1Z2bWlNdjlrTmZJRHo1SFY1YjlXRmMwWTJlN3hPcU82cGkwNHVWajdSMXBUdDl0aTZQQXFNWkdoUDczdWY0X0d1TmZBcTNVN010Z01DRHhsQQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Tirunelveli election results 2024 live updates: Congress's Robert Bruce C won with over 1.65 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSXZHWGJkYmNoTElHQUkzZHZWclNKMXM3RWt4dVB1VUEtV0treE5JNGxTWnhPTlB6SmY2WGJ5ek14QkFoejlFRkVPLUplTVhIMmpjcDVnc0NWNk5FNjN5ZjRKMUpEd2JkS2RacEt1dmJEbzFxV1gxdXNuNHdKdi1zRWhWZG1JNktyZkFBT0F4ZmNWeGlzT01WVW1HZlBLUjlXeDh3MTg3UWF6aFRpRElzNE1NRno0N19wNmtibDItQ2N0M1JkYWNiX2R4MmU1WW5hXzFfUTdHMGg0N3ZWU243VlRaU0IxZnlZVnA0Y3lKb0dmWnNwdFQ1NDNqanRHYzdVUWoxbVdwUi1RRU9tZ1pZSjhTYl90UV9oWHNNdXltWG5kMFNNY3NuT2JpZEwzT0JxdDhENFlfT084aGdO0gHCAkFVX3lxTFAxWTR5bFk4TmhyUXRqWnJLNjdvVVlITWV0ZHd4TV9RRWdzWGttRHlmSkNuSXRvLW5wMl9zenctRmNRcjdOdHA2SEpDeUNsTFFWRzlTU1M1aXozWGNiMXVBbDdOeVBDZGw2VF9UbVo1ck9VQ1JFTUE4aDdhNDJYMVJHNXpoSWU5eV8xNGhwSlhMd0dqWWFfbVRCcVlqaHB4OWpzODNiLU4xbXVzWTJ3Z2xIZG5Qd3N6RE9SZ3h6VUR6clN0QWRxVjhJQW82MlloLXlSdFA3X1RGNUVSTVVzYjJOdGhla3JsOXBUM2ozNm5aaFFvakdUQUZJajdyWlZYaGJ5S1NYVDNDRXlrRTB3dUc0WXpKczQ3WmlIVlB1cEd0djJHNHpLN1E5TjZBTEpMeVEtOUhLVkhuRzAxTHNHemxHNlE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Tirunelveli Election Result 2024 Live Updates: Congress's Robert Bruce Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGJBbmpCNzVFR3d1ZS1sMHdHQ1BvRzV1SzJvb1lJckFxNFRTMHhmTHA0MXBJc0xRTWUxQ2RhaGNseF8ybW1fUEl4VF81Z0N5cFJENmJPMGJjaFNMUnJzdlFmQ1JadXdIMVVNT2tSdDZJWTZlWURTb1B3T1BzS0pPRVhrRVNCZlFGRU9rWmFyc1hCbmRaQ3ZKazEzR1pRbTdqZFFiQmFOSlBoVUlQQXNyaVppMFEtRjJtMFlaZ2Jlb3p3QnVlWGRvZm5GONIB2AFBVV95cUxPazhHdXZDc3p5SmIySUYtTzlmZG9HV2hlSlBETnFURGstVWZHUTRsQzlzNkttb081WXZJLUtRS3N2X0ZVU3FBYTJubU91eU15U0wtYmNaUlkxNVByN3h3Vi1YYXFqQTlIN1BYRnVIMGRqVHJtbHJwUHlySXprV0lmdjJsbGdOOFdaNDlGUlB6T0ZjRDgxc1NpNnM0NDAxWmJNcXdGbFRJUFpMUmVzOFpiRHJoYTNRSXJNdVlnTnI5eU1MUzU0N3loaXJyc3g3X25PcUltd1NfUFE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Tirunelveli Election Result 2024 LIVE Updates Highlights: Robert Bruce C of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUpGX3ZPU3ZoYkNiVVgzUF9PRUszbTBPNnRCT3hNQzNSTDZrWkN1cmhlcFNua3gzUVhobzN4eGFFYVIxaUVyVVQyTHlvcjFEQTlwdzZNYVFwNUhSQ2c5M2hYTFRLd0dnRlMtazN4OGFjMHFtcjNNbV9raF9LRDVJRlU4VF9XRVVPLU90R200R0ZrS1c0UXlaTUV3QlFyUmpGNjFaeXYwZk9BOVlHS2FxdG1MaHc1MHVNbnFYVm53ejfSAcYBQVVfeXFMUHA5M1M0TWhyTnhtSUhGSzBYaTVvYXVlV3J5RG1TTFpWWF9HaHJtLTF5cXp5UG9QelFyYW9jMnI5c2ZzLWF0cndxdHZhRU5XWDFnQ3dkUG5mWjVlbW10Tk1yblZabkdQOWF0aTZYbEdyNGozRlVGc1hTTnk3bzloWDJoTzgtMTdHOTM3bS1yWVZycjlKRk5MYTNnQW5ubDVUWVpRR3MzWTBOYUs2Nkx2QWxibzkzd3lGUDZYbDk4bmVBM3BsNTh3?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 7396,
+  "notable_record": null,
+  "num_candidates": 23,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "tamil-nadu-38",
+  "pc_name": "TIRUNELVELI",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180382.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Enhancement of Monthly Pension for Ex-Servicemen from Rs. 800 to Rs. 6,000",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Adequate Compensation to Farmers Affected by Cyclonic Storms in Melaseval, Pranjeri, and Pattamadai Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to provide compensation to the banana growers Tirunelveli Parliamentary Constituency, Tamil Nadu who lost their crops due to Cyclone",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to allocate funds for providing basic railway services at Palayamkottai railway station in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Enhanced Crop Loss Compensation and Exclusion of Wild Pigs from Wildlife Protection Act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need for allocation of Central share fund for construction of �Y� shaped ROB at Kulavanigarpurvam on Tirunelveli- Tiruchendur railway section in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Remove Wild Boar from Schedule III of the Wildlife Protection Act to Protect Farmers and Their Crops",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding disproportionate hike in license fee for auto rickshaws plying at Railway Stations of Southern Railway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to construct a dam on river Koraiyar to address the water scarcity in Tirunelveli Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to grant permission and expedite completion of railway bridge at Pavoorchatram in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to address health issues of Beedi workers in Tirunelveli Parliamentary Constituency and enhance their pension",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to grant adequate funds for upgradation of the ESIC Hospital in Tirunelveli, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding construction of a Road over Bridge in Kulavanigarpuram in Tirunelveli district, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 51
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/robert-bruce-c"
+  },
+  "qualification": "Post Graduate",
+  "questions": 12,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Commerce And Industry": 1,
+    "External Affairs": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NAINAR NAGENTHRAN",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 1,
+    "legislative": 39,
+    "mplads": 44,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 92662888,
+  "total_liabilities": 1022299,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.06
+}

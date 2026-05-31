@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-31",
+  "sources": {
+    "eci": {
+      "as_of": "2024-06-04"
+    },
+    "prs": {
+      "as_of": "2026-05-30"
+    },
+    "sansad": {
+      "as_of": "2026-05-30"
+    },
+    "myneta": {
+      "as_of": "2024-05-01"
+    },
+    "mplads": {
+      "as_of": "2026-05-30"
+    },
+    "bonds": {
+      "as_of": "2024-02-15"
+    },
+    "wikipedia": {
+      "as_of": "2026-05-31"
+    },
+    "news": {
+      "as_of": "2026-05-31"
+    }
+  },
+  "sections": {
+    "election": {
+      "source": "eci",
+      "as_of": "2024-06-04"
+    },
+    "work": {
+      "source": "prs",
+      "as_of": "2026-05-30"
+    },
+    "wealth": {
+      "source": "myneta",
+      "as_of": "2024-05-01"
+    },
+    "mplads": {
+      "source": "mplads",
+      "as_of": "2026-05-30"
+    },
+    "contact": {
+      "source": "sansad",
+      "as_of": "2026-05-30"
+    },
+    "bio": {
+      "source": "wikipedia",
+      "as_of": "2026-05-31"
+    },
+    "news": {
+      "source": "news",
+      "as_of": "2026-05-31"
+    }
+  }
+}

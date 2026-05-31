@@ -1,0 +1,602 @@
+{
+  "accountability_score": 55,
+  "age": 42,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 28081000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7525000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 9500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": 2781000
+      }
+    ],
+    "immovable_total": 47887000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2767124
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7380674
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 445100
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 2331669
+      },
+      {
+        "category": "LIC Policy 14-5-2010 5,80,865 5 Lacs+",
+        "value": 720948
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 38620364
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2949183
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6157900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 61372962
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2367",
+      "total_assets": 109259962,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 109259962,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anup Sanjay Dhotre is an Indian politician and Member of Parliament in the 18th Lok Sabha. He is a member of Bharatiya Janta Party. He is the son of Sanjay Dhotre.",
+    "title": "Anup Dhotre",
+    "url": "https://en.wikipedia.org/wiki/Anup_Dhotre"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Palso Badhe Akola, Akola Maharashtra, 444102",
+    "emails": [
+      "dhotre.anup@gmail.com",
+      "dhotre.anup@mpls.sansad.in"
+    ],
+    "phones": [
+      "9822227554"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "68/2023 City Kotwali Police Station, Akola",
+        "other_acts": "Section 135 Of Maharashtra Police Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "24/05/1984",
+  "eci_state": "Maharashtra",
+  "email": "dhotre[dot]anup[at]gmail[dot]com,dhotre[dot]anup[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1571360,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1228370,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 477470,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 37390,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3830,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 499820,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 790260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 936420,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1080580,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 247000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4602974,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3639613,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3144320,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1579520,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Industry And Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, Service And Interest On Investment"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.57 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105658922,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2859332
+      },
+      {
+        "category": "Smt. Bharti Uday Ghatge 4,86,535 4 Lacs+ Shri Kaustubh Magesh Deshmukh 80,000 80",
+        "value": 34342239
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 37201641
+  },
+  "margin_votes": 40626,
+  "minister": false,
+  "mp_name": "Shri Anup Sanjay Dhotre",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41341078,
+  "mplads_unspent": 105658922,
+  "mplads_utilisation_pct": 28.1,
+  "mplads_works_completed": 36,
+  "mplads_works_recommended": 99,
+  "mpsno": 5562,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Akola Election Results 2024: BJP's Anup Sanjay Dhotre emerges winner",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGo3c2owMm5FeWptWUEtTmFibWw3czN5bDlLTm9id1VZc2c2d01qNm40R2FSRmRieHUzSTVacUpiNUw1eDhWeW91b2dtcnlKNU5Db09iRUVpa3NnZ3pOZWp1aHBzTHFibEIxTjA0djF2S2hSVEZnd1I2M2VDLURuWFBWRl9tVW5Rd0RGVEVaMm1McDh5MUVPcmhjd9IBoAFBVV95cUxNaDZfUklSaFdwT0wyeEFEWUhwc1ZQeUpsQW1IeVdYZmZVVTNBQUlCbzVoMXNyOGpDX19HZEl3bHkzQl92VHF4Tkw1OWZ6QUJXTjF2Vm1KMlBTanNZUXI1OTZiZmttZnBWVHRhcTNhNUJNX256TmFXaEZ1V3RvcUpjcVdMRFExRUNhTXVkMl9icGdnblY4Z2FpdnBBd09wNXJN?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Akola Election Result 2024 Live Updates: BJP Anup Sanjay Dhotre Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONVE2TVZXdUNSZW9wVGVRSHQ5Wm5uWGtvRGVnbXhLd2tkZzFrN2wyU21ESTJVckZXb0VMbzZVSjhDY3dlaVlzNGZXWWZCbUlSajE1emNhX2dteV9FbzB0eXhoX0t0YkZ6V1cyd2x6WE9td3lPczR6bUZXNmVJQlR1Z0FaZWpSaHRuaFl4Y09YMzVFc2loR0NwNWVaSmxyN2hmX2xsREw1dDZ2X0lFeWdGbDNGTHBZdE1SeVZNallLRGFZc1hX0gHSAUFVX3lxTE12clMyNkYyZTJPUlhaZk1oeTlIbkh1WVFKOENvS3Rva00tRkNEVzVGR3VXaUd2V0VvZHJBZzNIYUVpZTRET3RRU3MzeFY1Y0VTODQ4b05laUwxVG5IWTRjRzFLdkVjejZicDhNN1F4VDNfSjNUQWNnWGg2NUJJTFhsaTByT2djbnZJRWx6N0g3VnFHcFNkN3hGWml6MHB6Q0F6Q3JJakowY1k4SFViY3lYV184SF9wOXdnMlc5ZkpMNzNaa3lQRk9fZUtVc1ZHb0kxZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Akola Election Result 2024 LIVE Updates Highlights: Anup Sanjay Dhotre of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXkwQUZtWDBwX1M0ZGVGTHNzTF9tZUtGb2pOQ3pXNFFQOVg3NUc1enVFYXBvaVlYMkpZdlFMVmJ6a2RLNlBGVkNVTVZoQjBjaDRESDd3elpJaEpWLWdIbFdKdkUtMFpOQThzMHVQa1NJNDZUbm1zWnp4Yzd5Mkk2LWlzQTRVRXpzY3J1eWF6cEZ2U0xjcTZnM1E2aFNIdlltQzBsb01wbHowVjY1aGNXV1dacUprU0lqWGNaS1d1X19kWU5vaDk3cmROYWRHVUQ0UHd0Z0VqQ1lPVHlONExF0gHkAUFVX3lxTFBmWTU1eWxkY2tNUHFTUWpNYUQ1aGZaRDRSUWJuNUhiNWZ4X0VYYzR6SG5lZEUxcjk0a0RuT0pBUS1vOVlZYlY0Y3l3elhCdXgzZ2RsbGx2MlF4ZG84WDE2b00wZ3RhbEFWTDBXa0RQeVRGM1l4aGQweXZhZVlMVlJtbTJCZk5xbGtiRTY1WUhUMmNzeVVXZFktOGZfZWNzSkhxdjNUbm4xMWZGSjNnSER0ajB2dmdnejJhNmJZWHlSNDhvY3JLZTNUWFVhSjVIbWU5N3RUYjVOc3FZcFJHUTBTQWdXRg?oc=5"
+    },
+    {
+      "date": "2024-04-25T09:37:50.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Anup Sanjay Dhotre, Bjp Party, Akola, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOXpRS1hzM0JhQ2tUTXNFMWRoTzlZMzhzSjZDSnVLY19veVVmZGdVZndzWmpkQ1VGc1JSM2dzTXZaYWxURDRHTk5XVzByZ09DcTY3anBQc2RwVjlmYWp4VVB2M3lPaVpLczVEZ1VXbjBrWHByRWV3N0VZLVBPTmVMZm8teFN2aV9PVlJteHpqa09SbEY5djdsNDBhRUU3NnNITERNbDdYOHdlNk1QOTh2VVlsOGZhRjV5MU5zRmQ5aXJ5WXd4V3d0RlB2OGZwNHE5Ql9BRGJmUUwzaFN6V01tTQ?oc=5"
+    },
+    {
+      "date": "2024-04-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Akola Lok Sabha Elections: BJP's Anup Dhotre vs Congress' Abhay Patil vs VBA's Prakash Ambedkar",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPOXRuQk0zWG52MHNiczNzRS1QMXQ1LTZDRHRyY3hUZVVERU8tdThNUjB1SWMySU1DcnBIaXpOUTZaN0JxN3E1TmlkVUdRZGMxN0RDQjhPLWRKTnIyUy1QSzA0amRCZVEtTUM2SXBwa3NwdTdBZ19ZTExlNHNKX09nY2ZtM1dmbnMtVVVkTEFpOUVWWmN2YW9wWDBtX2Jkc0tiYk9Dcm14WXVPT2JfTTF0R3VVS3BQSjhnQzhoMUUyUjhKbEdtcUxWaGRINGhGMHFMRmUyd01XU2ZyZ2h1eG5qMGVlblBiNlhFQW13THdBSEU1U1N0eDhiX3RoeXQzR190WVVEdkViQlB4YU1fNzZEZmdkTnJYT0NsLU40ajlkSXB3VkZlZ1o40gGsAkFVX3lxTE5oVjRhVTlGUFhkU2VXMk1wWUVrSlBOdU42U2N3X3djYWtnSGpMS200S24tTUR5cFM0bEIyb1NtOEM3Y3pVX2RUdEZPdm1xX196S0phc3lyUnY1YVdwekdRWmpNQm1fenc4cHJZejl4cTdOODZMVkIyUWxsdmhzSy1IVDdDSDBySmE3Yk5nb0w5TFo0bW8wa2lpU01HY2djVTd2amRoSlBSRUdyenR3UERsdktiS0ItcjEwWGpwSF9PZVU2Xy02WHE2YmZMVnY2VXRFQW1GazV6dnotSlhacTRVNzM1ZGU0bHBKVWtYTDZPMTZKcGpXeWtadDA1emhORVVQdEhTc1AzczVlcUh6bEh4d3dRUEVFcC1CNVpjTlNpS2NUdnROR2Jya2t2Tg?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 5783,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "maharashtra-6",
+  "pc_name": "Akola",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180249.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Central Support and Funding for the Wainganga�Nalganga River Linking Project in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need information abourunways/airstrips measuring upto 1400 metres in operationand aircraft model compatible for such airstrips in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need for creation of 'Sanitation Champion' posts under Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to upgrade Akola-Nagpur and Akola-Khamgaon stretches of NH-53 to six laning road in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to grant fast-track project status to the Purna-Akola doubling of rail line project in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Declare Indigenous Cows as Rashtramata/Rajyamata",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to expedite completion of Murtizapur-Achalpur and Murtizapur-Yavatmal Gauge Conversion (Shakuntala Railway) project in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request to Strengthen and Decentralise the MSME Samadhan Portal for Faster Disposal of Pending Cases",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to expedite completion of Phase III railway tunnel project at Maharashtra � Madhya Pradesh border",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Demand for the Widespread Expansion of Nano Urea and Nano DAP in the Agriculture Sector under 'Atmanirbhar Bharat'",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Demand to Start Amrit Bharat Train from Akola to Nagpur-Mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Strict Regulation and Censorship on Social Media, Broadcast, and OTT Platforms",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Establishing Sports Training Centres for Police and Military Service Candidates",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Development of Basic Infrastructure and Facilities in Pilgrimage Sites of Palghar, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to develop a new Greenfield Road Project between Akola, Maharashtra and Khandwa, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. provide benefit of crop insurance for the year 2022-23 to the farmers of jalgaon",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to minister to start the vande bharat train service between mumbai and nagpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding construction of a by-pass connecting Washim to Akot road linking various National Highways",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt. that the crop loans should be treated on par with the other cash credit loans",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 32
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 152
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anup-sanjay-dhotre"
+  },
+  "qualification": "Graduate",
+  "questions": 26,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 3,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 1,
+    "Minority Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Steel": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ABHAY KASHINATH PATIL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 56,
+    "criminal_deduction": 1,
+    "legislative": 55,
+    "mplads": 58,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 109259962,
+  "total_liabilities": 37201641,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 38.96
+}

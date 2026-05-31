@@ -1,0 +1,661 @@
+{
+  "accountability_score": 14,
+  "age": 36,
+  "assets_2019": 1346593,
+  "assets_2024": 41030489,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 80000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 545430
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 37876600
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "ICICI PRU savings suraksha (life insurance) policy No 1836xxxxx 1,69,750 1 Lacs+",
+        "value": 664579
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1863867
+      }
+    ],
+    "movable_total": 41030489
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=anvDE7GxJZZ6aJ66GjGn",
+      "total_assets": 1346593,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2629",
+      "total_assets": 41030489,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 2947,
+  "assets_latest": 41030489,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Lakya Suryanarayana Tejasvi Surya is an Indian politician, RSS swayamsevak and lawyer serving as the Member of Parliament in the 17th Lok Sabha from the Bharatiya Janata Party, representing the Bangalore South constituency. He is also the president of the Bharatiya Janata Yuva Morcha since 26 September 2020.",
+    "title": "Tejasvi Surya",
+    "url": "https://en.wikipedia.org/wiki/Tejasvi_Surya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No. 381, 1st Phase 1st A Main Road, Near Vivekananda Park, Girinagar, Bengaluru Karnataka, 560085",
+    "emails": [
+      "contact@tejasvisurya.in",
+      "tejasvi.surya@mpls.sansad.in"
+    ],
+    "phones": [
+      "8026651166",
+      "9916836964",
+      "8792257349"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/surya.tejasvi.ls/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      },
+      {
+        "count": 1,
+        "description": "Public nuisance",
+        "section": "268"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "6th ACMM, Bengaluru",
+        "fir_no": "Crime No. 51/2024, Halasuru gate PS, Bengaluru dated 20-3-2024",
+        "other_acts": "Section- 123(3A), of The Representation of People Act 1950, 1951, 1989",
+        "sections": [
+          "153A",
+          "295A"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "6th ACMM, Bengaluru",
+        "fir_no": "Crime No. 50/2024, Halasuru Gate PS, Bengaluru dated 19-3-2024",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "149",
+          "188",
+          "283",
+          "290",
+          "268"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CR Case No. 12/2022",
+        "charges_framed": false,
+        "court": "Rouse Avenue Courts, New Delhi",
+        "fir_no": "200/2022, Civil Lines PS, New Delhi dated 30-3-2022",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "186",
+          "188",
+          "332",
+          "353"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "16/11/1990",
+  "eci_state": "Karnataka",
+  "email": "contact[at]tejasvisurya[dot]in,tejasvi[dot]surya[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4413050,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3586300,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1435610,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1961070,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1191000,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Personal Income, Salary as Member of Parliament, Interest Income and Dividend Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹13.5 L (2019) to ₹4.10 Cr (2024).",
+      "headline": "Declared assets grew 2,947% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 1346593,
+        "from_year": 2019,
+        "pct": 2947,
+        "to": 41030489,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.46 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 114638472,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 277083,
+  "minister": false,
+  "mp_name": "Shri Tejasvi Surya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 32361528,
+  "mplads_unspent": 114638472,
+  "mplads_utilisation_pct": 22,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 101,
+  "mpsno": 5182,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-23T12:48:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bengaluru cannot be run like contractor’s playground: Bangalore South MP Tejasvi Surya",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTEhlS0hYQ2J6TGdoN0JuUTZLWk0tbGhPZExNMm5HSDJNbmd5T3g0RGhybE9WS0l2RkFpSGFKeDJuQmItS1BjQnB4RTd0UmE3NXZDcHd0a204YXFQOTNvdjJ4bmtWTTJ2aFZ3WUpzekNqQXdWcEVrY2tfN3ZEbDYwWnI3UlpSbmhkdWw3OG1ESkVWZlpobWdjVlZOZHBZV2R6Y041ZUVJcU10YXdLUFd5RWJVbTJ0WFhWeDlJZGxYc04wd3dBR3RubVRnYXVEd1paeXJLV09QM2JCVy1CdGdGRHBhYVdyTkNINTJma0h4elZmU3fSAfgBQVVfeXFMT0FpakphQTVXR0I5ZTcxc3p0dnRibDFNLVBhbERQM3l6SDlJcVUtc3hXMzd6REl5azZqbkVGZjlQS1RjQmxWR1BhR3hhRTBvTWYzcUYzcFZ2U3JJcEZ2ZG02T0FsQ19iNE5xRVNBZ3p6VUY4SEk5d181MkFfMmdKdkdCRU4yTzZwQTNjRGdULXlnWEVaZHE2V2p5N2ZJRXB3ZVdPTFl6bGFTS1VXa1FqODZqaXMtWUs1bG1KRUE0eVkzU2Y0eXVtOWZUbFBTeWJZUExJY1h2OGhzRUJ0Zms0R09sMnFXd1NweGwtSlNtR2JMcGIwdnoyN3A?oc=5"
+    },
+    {
+      "date": "2026-05-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Religious segregation\": Tejasvi Surya slams Karnataka cabinet's Rs 600 crore development plan for minority colonies",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYTBiZDdLaTM1X0JUWUFXTW1RQkpCUmJNX1RPRTBTSXdyc052UFB1NHRqZ0NTV0N6S0dvd1NNOHBuTVRTWDBKdXpnOFlQV3EtX19MczF3OFBBcm04UHh1NURocmhJM0k2aGh1OVduaFlPYUJHNmZ1Qkk2TGd4MG9ENTJCekNlMWNxVE95Z0FuRXAzNGxibXlPcjJQcDBMTDcwZGhDN0NCYkMwSkNOMFZvLXVLVUloVGVWWlVUQWFsOERRSEhDLXZBN0oxajU2LTRydnZyMHMwUzBJbkttVl85d3dSNHBqSnFhMlEyaGpGRkZDNkpTbjVCTEptVGI4WHJxaHBHY0lwVQ?oc=5"
+    },
+    {
+      "date": "2026-05-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "UNITED NEWS OF INDIA",
+      "title": "Shivakumar's grandparent moment leaves Tejasvi Surya moved",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1M3dnl6Z1dtUGt4bm9OdVN1b2hKWEhqYlJHU1VMbTlhLXVoWXcxUXpLSlN5RW1vY0E3MXNZRF9rckRtRU9EakYwMFJpdS1ZUEp0djRENTBaRzhaNnc4c2NULWJzNmJiOTJ0Skh2Wi14SmExWk9TRUdTOEYzNFBidFA2TjNBUjBXLVVGWm1fbUdaNjRFejhTWjByU2s4ZDhKUk9TeW9PVTZZcXM?oc=5"
+    },
+    {
+      "date": "2026-04-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Actor Jayam Ravi, Minister Gottipati Ravi Kumar and MP Tejasvi Surya visit Tirumala temple",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGt6dkppRDZMd1JEZVB4WGFMUC1NTFM2aUstSzRZc3JwamtIVVFvc2NqeUloSGVjd1l6WjFnWkhJUldJaWZVWnJIZ3Q4UU93UzItZnctZ3owSUtGTjhGdTU1cVhEczc0VkliR0dVNFRjRU9PMmpPY2dnZ1NtQUt1bHZjei1vYUxJUWNaeHVZOFZDSEx4YjBjTFpSY3Z5R2JpdERWUzlQeU01TEJuTlpfUFVXYjhDSUQ0ZWNzNXlVRzdEc3JIOENkWVZfa0hWdmRQNC0tLWp0WVpRVGlDNXRF0gHmAUFVX3lxTE9COHM1V2t2N1JRNDhBbG1nY1V2OHFtWkNvYWxfZERsc2JzMW1QdTVfSFJTQU9RZDVNa0RydW9FSUNGblZtV09SR2dDU2tyRDFZVzlDZ1hEcVVzT3RiMzRqRUpIN2UwYWxkUTlmWGp3RTRMVEtsU285VTl6enh2RE9HTmRmSFBrRzNJSTlrTjMzbXdPaFkwUzBKYnFDMUhPU1ZZUmtyOHU2cnJmUUNMbE1wRlpORUtDQU9GRDh4VHJ4OEwxQWMxZXFUYndBeDFTZ1UtVVZBbldyZlNRQ055QzdqR3o5dFh3?oc=5"
+    },
+    {
+      "date": "2026-04-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The South First",
+      "title": "Redrawing Bengaluru wards vs delimitation: Why Tejasvi Surya’s comparison falls short",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2h5YUVlNjh1QVVMY3pwUU4wUzZrYlo1bjM3VHppc3k2N2czeW5SYklCRms4LWFHa2JfREw1aVJZNEc5MnhoWlF4SVBQb19KbVJTZ1F1V3ZsWklYazNRUnh5NU1ENloxejNRRGJUNVhUMTJOQ19YZkdERWo5Q3Q5b0h0RDlFZTk4VnJ6ZC1wVGdocWNWNUdoWDh3TElsTVFZS09MVmdIWW0yV0ZPUkxPbkNHQU9SSjJZY1RpTg?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 7857,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-26",
+  "pc_name": "Bangalore South",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180189.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 80
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to amend the Labour Code to include the persons with rare diseases and immunological disorders within the framework of social security and workplace protection",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Motion of Thanks on the President�s Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to reconstitute the Fare Fixation Committee (FFC) for fare revision of Bangalore Metro Rail Corporation Ltd (BMRCL)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Dismissal of the Impeachment Motion Against Justice Swaminathan and Protection of Judicial Independence",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Regulation of Ultra-Processed Foods to Protect Public Health",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to expedite the approval for red line metro in Bengaluru",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to develop a comprehensive policy framework to put in place the modern tram system in Bengaluru and other cities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to create specialized All India Service Cadre for urban transport systems",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Appeal to Stop Environmental Destruction in Telangana and Karnataka Due to Forest Land Clearance and Night Traffic in Bandipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal to Safeguard Bandipur Tiger Reserve and Uphold Night Ban on NH-766",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Increase Deposit Insurance Cover for Senior Citizens & Strengthen Cooperative Banking Sector",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding rolled back the decision of Karnataka government for approving a 4 per cent reservation for Muslim contractors in government tenders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to the Government to Abolish Religious-Based Reservation in Contracts and Protect OBC Rights",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Review and Rationalization of Bengaluru Metro Fare Hike",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to enhance the deposit insurance coverage for senior citizens",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urge upon to minister to take immediate action to ensure fair and timely settlement of health insurance claims",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding Wayanad landslide",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 188
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/tejasvi-surya"
+  },
+  "qualification": "Graduate",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 2,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 3,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Prime Minister": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SOWMYA REDDY",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 8,
+    "legislative": 63,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 41030489,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 2947,
+  "winner_vote_share": 60.1
+}

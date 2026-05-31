@@ -1,0 +1,561 @@
+{
+  "accountability_score": 47,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7535000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 8535000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 80000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 593560
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 37000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 53500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 50000
+      }
+    ],
+    "movable_total": 814061
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1833",
+      "total_assets": 9349061,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 9349061,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Darshan Singh Choudhary is an Indian politician and a Member of Parliament from Hoshangabad Lok Sabha constituency.",
+    "title": "Darshan Singh Choudhary",
+    "url": "https://en.wikipedia.org/wiki/Darshan_Singh_Choudhary"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Opposite Ram Janki Mandir Choudhary Chowk Gram Chandon Tehsil Bank, Khedi Narmadapuram Madhya Pradesh, 461990",
+    "emails": [
+      "darshanchoudhary77@gmail.com",
+      "darshan.choudhary@mpls.sansad.in"
+    ],
+    "phones": [
+      "9685073504",
+      "9425644851",
+      "9499100219"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "14/10/1975",
+  "eci_state": "Madhya Pradesh",
+  "email": "darshanchoudhary77[at]gmail[dot]com,darshan[dot]choudhary[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.31 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123104336,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 431696,
+  "minister": false,
+  "mp_name": "Shri Darshan Singh Choudhary",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 23895664,
+  "mplads_unspent": 123104336,
+  "mplads_utilisation_pct": 16.3,
+  "mplads_works_completed": 48,
+  "mplads_works_recommended": 354,
+  "mpsno": 5613,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Hoshangabad election results 2024 live updates: BJP's Darshan Singh Choudhary wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZWg2aGpVcXhvb0gwTlktV1ktSTh6TU12MnZKTHZKUHBwQmxPeDdocU14UGI2S1Q0TUVjWVRVYXFiYy04RF9TYWhGTTcwUjB5MXdsOTZGbXdEdGRJdjR0NlNlbkhuX2lkMFNleGF0VWZrWEN5eFRPVkdWTFRVTzVVTmNtQmVfaVBlQi0tWGZCRUoyMHZ3LU4zYzI3ZXB6dFRHelAzeFpKOEcweW9lUzNhdmRBQ2dBRVNIcU5zQ3RPU2pCMjBwQkUzdDZydjNMdTJsbWVRa0JOZEZhMWJpSlo3dUNYRzN0aHlCeUtHRUVKODRhSnJ6eVNPc1o0VkxvTTZCTEd6QnFsSkpmQWRpZlFaMXhzTkpfZzVNb3hGY0xjR3pnSjFqYnhUUjJXTWFBQVJNN2NiaGlUN1FOcTR1ZEE2NnJZaWd3TEs1eTRLdEVJOUtJQVcyRi1rcldOaW5mQ0NBZFJzU9IB6gJBVV95cUxNQmxmTVlyMXhUc1VXME5vYnkyRFJ0S0ttUXlQbS1CMVVzSWhfZkRKT09SQ0NsNUhRSlAwQ1BPb2t6SlpLMEk3NTZLZVQ5Yk44Ty1lcmZlSC00VTRXbEhvbk9KMFZzUUFqb2stU3o0VER2cDJHN0ZNRnJyNHliYXNtS1FHOW5qeDI5R01mb2ZYMmN5QXdtTmVsU0N6ci1YWi1mZkVqd045X1djT3VWTWQzYktqWHRicDNJX0gtY1lkQVdURUxFVTNmUXRUZ0w5X2VuN2tPQXRtNjgxb1JnSWY3WGJKYmZua2xhUmhtZXA4MGVoZlE5cDBUTE50cUdjRmlzM2ZGejlSWGdBc3Zyc2locnp5cjFMa3p3RXFUQ0FiU21lT2hIUTI3a2wxTTU4bWdtTTBSbkhiR3Z6d1ktbWVjbGxsT01XQU9YeEtjT3RiWTZjWmtjN1VzWVhZdHpWNjFpeDZrcWI1c082Zw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Hoshangabad Election Result 2024 Live Updates:BJP's Darshan Singh Choudhary Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUZMV3dfaEhfdjVVTEF3Zkl3UXdVbjZ0Sy1heFktYTNwa2FBaEV6SHlWQnJOLUpBbUNQZ1hCUk1VTHpmbDRzak1MZ2RZZHFGX0NYbzdqM0ZqUTUwS0g0cldqV2pSMUVoNjY3a2JYUWJ2dndxckZRT1NLMlpXbTR2dlExNkN5dGx1OXpQSEhha3I0TlVlblhndldid2FmRGREQm1TSTZ3dzBFLUs5TnpyR09TTU0yNU1xc1V4cGxHN2FYclM1UDhsbng1QlY5dTZM0gHeAUFVX3lxTE1sWE5xUEw4ZFlmV2IyS2gwUGFxbDJRVjNpNzlRcnZDX0tYQ1lxREhEaXY4S2F5N2dTeld2MU9Hc2N6OTdLMXp5OER4TWVsQlF0RmlJVWRXb21mS1pnWXhNckpHZlNobW41NmhBYi1kYXNRZmxyVWlaVG1HYlRBRU5ING45cEpMWUJQdlhwYm9jWW5zWURLdnNZVGljSzRBbUNqZU10aDhLVUxLeXNTdDFSanEzZFU0NGxYYWF3bFpWUFNIX21JbXlHVmkzanFEckdFVlhpdndVVldieS16dw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Hoshangabad Election Result 2024 LIVE Updates Highlights: Darshan Singh Choudhary of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFZJMklpb3JvcmtjTjM4aTlCRDd2c005bXNfOUwwMGZlc2xyZUJVRVprSzJ0aUF2V2l3bVJocEUwVXFPa3ZnTmZSajRKWFNHNW1LUWU4RllPR1hMa2llUnFSYmZDc0RZd3lJMnhjcmtfY0x3cExwVEp2VjJfRDY3UnZseTY1NXk3YzJLR3AyQzByRmVpcEZ2ckRJNWN4dHN0Z0J5OG5HcHFSZ3JtUURzcW5hUlBhaWhzOVN2OEgwcHpMUVloaXZaX1BYMzM4UWNsWnF2Zzg3ZFpIcjBscndvalA1V1NmSUXSAewBQVVfeXFMTzNMSFNQcWQ0YUNNQXowT2hGUU52UGE3cUZsX3F2amU4YW1fZEYybDVWcVhOTld6cDh6LVFYam5fN2x3WkxrSldVeVR6b09ZR1dyRXoyUlhRdDZkdmJZV1g5U0N0Y1BHaTJrYXdWQnpKQ1BUdHRGV2RkT19oamFIWHhjU0MyM0x2MExWVkdFMGhwZU5YNEhVSXJFV3lZakpKWld6QXl3Yk5rTUNJVUdDQnh1ckZEMTFlS0Fvd0hYMDh1Nl9YOGlFalJIZUF4TXhEeWQ3Sk02a2dXYkluaTlnZmJkeHZHSHRPN3RHUnY?oc=5"
+    },
+    {
+      "date": "2024-04-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Hoshangabad Lok Sabha Constituency Result 2024 Live: BJPs Darshan Singh Choudhary Wins With Over 4 Lakh Vote",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaWNheC1Kd3pHb3RaY0swTjZsSFpIWnBfWXhPRXVSYjktMG5aT1lmU1ZJVFNoNldnVF9CcGx5Y3RsenpKWkMxeFBzVXF1VklPdjBVejJLUmltNVhVY2tBV0w1NUxvLXN3TlNLOHh4WW5QYV8yMEVrUzEyMTRkTC1kczR5T2RTTVk3dXJfTUxfQUdIUDc4ZWxMRjNiY3hDLTJKT3ZyNE8wM3VlOHhzaVliSFVETldkcjljVFM2d0hYVU85QWxrN082QnowZDd0WmNXWVBaREN5VUlHVVJJc1pRONIB5gFBVV95cUxQUVVnZEVLbkR6YS1JbmVhRjhhcy1NVFBtY25Ick1nUnl1YV96T3hleURJdkVDaVlJMktScFA3c0lJLWNDMktTSVg2WTFuQUV6bUY0M2d4WC1LZE9PZXNMVnhXakpGSWRXOWFBWDViWDFzbXpNMDFocGdwNUJKVFBsRkhuWFRudFpHYm9ySkxQRXZ2d3pkNnBRekxzZnBtdm01UjZyY1B4b3NaaHdIVmlfdEdXT1A5TDFBTldzNjhlQjdDVVpEa2VEOHRvZHRoa09abEFaSnNDS2pycmIyZlA5ZTBIcHR1UQ?oc=5"
+    },
+    {
+      "date": "2024-03-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP Nominates Kisan Morcha Leader Darshan Singh Chaudhary For Hoshangabad Seat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDViVG1ZbUZaTXcwLWdTTnI0MGpuZ3pYa3NidzlNbE1vWnhfdmhMYWdsZmNrTzFMd3l4ZHNwLUxBUWZvWjNwTThYY2lJUGFlXzYwcDAtVjY0anRsU3VDcUYxTm44WENHZENXM1hmX0VBNngyQ1lNVDNpS05UY3pUNXlXQnpjQ1ljajcyWUlBakJwRUZBemMzeWN2cTVoanBOVzJtODRXOENpak1ybnVRWTAyMk4?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14941,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-17",
+  "pc_name": "HOSHANGABAD",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180222.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Regarding policy for protection of Journalists and their welfare",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Need for Ensuring Safety, Social Security and Welfare Measures for Journalists",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding clarity on Teacher Eligibility Test (TET) Examination for teachers appointed before RTE Act, 2009",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding preservation, documentation and development of cultural heritage in Hoshangabad Parliamentary Constituency, Madhya Pradesh under 'Mera Gaon Meri Dharohar Scheme'",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to strengthen the socio-economic condition and provide social security benefits to 'Bank Mitra' (Business Correspondent)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to sanction projects under PMFME scheme, Mega Food Park, Agro-Processing clusters, Cold Chains Subsidy scheme and schemes under APEDA in Hoshangabad Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to introduce a scheme for connecting Agricultural fields with main road networks",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Procurement of Maize at Minimum Support Price (MSP) to Protect Farmers� Income",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to ensure MSP procurement for maize and timely payment by sugar mills to sugarcane grower",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the misuse of Ayushman Card by private hospitals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "The Indian Ports Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to provide benefit of �Scheme of Fund for Regeneration of Traditional Industries� to Bronze and Brass industry in Chichli in Hoshangabad Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Appeal to Confer the Status of �Rashtramata� on Indigenous Cow and Ensure Its Protection and Conservation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding initiatives taken to ensure the safety and security of girls in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to increase the width of roads constructed under Pradhan Mantri Gram Sadak Yojana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to include basic legal education in school curriculum",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need for strict control over OTT platforms and social media streaming obscene contents",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Construction of Four-Lane Road to Boost Connectivity and Industrial Growth",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding welfare measures for farmers undertaking organic farming",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Conservation and Development of the Narmada River",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to accord the States of �Jeevant Nadi� to Narmada River",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding grant of GI tag to Basmati rice produced in Madhya Pradesh and declare MSP for procurement of the rice",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding need to construct stop dam in Narsinghpur district in Hoshangabad Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt extending the selling date of moong crop",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 41
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 121
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/darshan-singh-choudhary"
+  },
+  "qualification": "Post Graduate",
+  "questions": 27,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Information And Broadcasting": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 1,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJAY SHARMA SANJU BHAIYA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 0,
+    "legislative": 60,
+    "mplads": 28,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 9349061,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 64.99
+}

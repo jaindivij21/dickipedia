@@ -1,0 +1,712 @@
+{
+  "accountability_score": 30,
+  "age": 69,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2550873
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3240000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 8990873,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 90000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 238205
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 45075
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 490000
+      },
+      {
+        "category": "Nil",
+        "value": 117703
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3480983
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=z32mkYyThgFqNTL9GL6e",
+      "total_assets": 6076143,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2309",
+      "total_assets": 12471856,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 105,
+  "assets_latest": 12471856,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anto Antony Punnathaniyil is an Indian politician and agriculturist who has been serving as Member of Parliament for Pathanamthitta, Kerala, since 2009. A member of Indian National Congress, he serves as a member of the Standing Committee on Transport, Tourism and Culture and is also a member of the Consultative Committee on Minority Affairs. He was formerly a member of the Standing Committee on External Affairs, Energy and Committee on Government Assurances.",
+    "title": "Anto Antony",
+    "url": "https://en.wikipedia.org/wiki/Anto_Antony"
+  },
+  "charges_framed_count": 5,
+  "committees": null,
+  "contact": {
+    "address": "Near St. Stephens Auditorium Pathanamthitta Makkam Kunnu Pathanamthitta Kerala, 689645",
+    "emails": [
+      "anto.antony@ymail.com",
+      "anto.antony@mpls.sansad.in",
+      "mppathanamthitta@gmail.com"
+    ],
+    "phones": [
+      "4682204400",
+      "9447010000",
+      "9013180320"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 5,
+  "criminal_cases": 5,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC951/2023",
+        "charges_framed": true,
+        "court": "JFMC 1 Pathanamthitta",
+        "fir_no": null,
+        "other_acts": "118(e) KP Act 4(2),3(e), KEDO2020",
+        "sections": [
+          "143",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 950/2023",
+        "charges_framed": true,
+        "court": "JFMC 1 Pathanamthitta",
+        "fir_no": null,
+        "other_acts": "118(e) KP Act 4(2),3(e), KEDO2020",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC946/2023",
+        "charges_framed": true,
+        "court": "JFMC 1 Pathanamthitta",
+        "fir_no": null,
+        "other_acts": "118(e) KP Act 4(2),(a),5 KEDO2020",
+        "sections": [
+          "143",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 665/2021",
+        "charges_framed": true,
+        "court": "JFMC 1 Pathanamthitta",
+        "fir_no": null,
+        "other_acts": "118(e) KP Act 4(2),(a),5 KEDO2020",
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "149",
+          "188",
+          "269",
+          "283",
+          "297"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 1306/2021",
+        "charges_framed": true,
+        "court": "JFMC 1 Pathanamthitta",
+        "fir_no": null,
+        "other_acts": "118(e) KP Act 4(2),(a),5 KEDO2020",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 5,
+    "ipc_summary": [
+      {
+        "count": 5,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 5,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 5,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 5,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Trespassing on burial places, etc.",
+        "section": "297"
+      }
+    ],
+    "pending": []
+  },
+  "debates": 10,
+  "dob": "01/05/1957",
+  "eci_state": "Kerala",
+  "email": "anto[dot]antony[at]ymail[dot]com,anto[dot]antony[at]mpls[dot]sansad[dot]in,mppathanamthitta[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 949190,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 988800,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 687640,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1200000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1152359,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 478530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 410640,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 392460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 386680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 315605,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Tution Fees"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.67 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 126693546,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "5 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 5,
+        "convicted": 5,
+        "pending": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹60.8 L (2019) to ₹1.25 Cr (2024).",
+      "headline": "Declared assets grew 105% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 6076143,
+        "from_year": 2019,
+        "pct": 105,
+        "to": 12471856,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 15673065
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 15673065
+  },
+  "margin_votes": 66119,
+  "minister": false,
+  "mp_name": "Shri Anto Antony",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 20306454,
+  "mplads_unspent": 126693546,
+  "mplads_utilisation_pct": 13.8,
+  "mplads_works_completed": 50,
+  "mplads_works_recommended": 266,
+  "mpsno": 4571,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-02-11T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Anto Antony sends legal notice to Udayabhanu, calls allegations baseless",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTFObTlFWjBsSHJWWV9GVVdHdExCbHpoR2hUOGRDWUlZMUk3WW1ncl9sNG9tLW1nZm1rYkZhTGRPVFFLSTM0TF83dlMwSl91SDN0RmF5TzFvZTJ2LXNad1QzZTQ1NWxCNjl6UHpkMkRuU3BibUpkb2U2YmxuRHRxb3ViSmhKZGtod0xRWUQtRGtSOERHSUFubVE2Z056QkdVNVNsUE4zdk40X0VPWnFtN05wV2RnNk5FVE9lWUhidHF5X3BLSVRMQ1dB0gHXAUFVX3lxTE1uckZSZ2FzeE9rdWpmTUVlYUFvTkYwaXlwX1NKR0dxdUEtRVBIeVJkY001eExGSVpjamVHSkxtcTZnd0d0VC0yMWI3RGdGTktzSnJIcHI0UmcxQ2xOc3JhSTYxa1dwaGM1bFJ4NjRPUVYzTUtac3AzVjhzc09ZWEd3VE5GQ19zemRRU1Nkc1JNdjRxd0hoR21tQjJZWk1iWVYwOWZkNzU0VEhsS2hDNFRTQWJoOF9uOWJnd1dEM0R0akhnc3ZmeTN5N0Z5aTVTc1BiTWdadmZj?oc=5"
+    },
+    {
+      "date": "2026-02-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Pathanamthitta MP Anto Antony serves legal notice on CPI(M) leader",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGFCU1RSN1BRY19BQkxfbHVfWDNpeGczUGRVRmgtMUt6dFR1VHNJRXdfWHZGRHI1Q00wOFhrQWN5RXU4RFpocUFQMGlGUE1CYm1JbXcydlZHZzN5a0Z3RWNIUGdMRXgxNF8yOVdZZGNiZUlEOVZhdG05WjNPVFBxMkNEaWtYUkQ5UDNrZXJCckhucVBxellxUE9QX2sxZTc4ODhORWVvbDNhdURfS2NTbXpIb3ZqOEt3X1RNVkNoZkhJaC13NlBIN2ZB0gHQAUFVX3lxTE5zOXNXeG1MRXVVNGZyS3M4NkhLSlBWaFpGRGlJTnhsTWc4cjVDbzZnYTFobWdMUEwtUDdxekotMnROeThyMmZMZVRxcUFoVnhNS0JCajRlQVNXSy13R0ZNYTB6UnUxRTlfUGdOU3N0dmVobHZpanhscWNuMGJJQ3djOHI3Ql9oY2Y3bXo1NElJVmxUTFBaZ3RjNHROcmE5cVdIanRkVDJFVngyNmFOdmJkVHpqay10UEFWRjZiSDlHM2NFVmRtM215QVhkZ2dtcGE?oc=5"
+    },
+    {
+      "date": "2026-02-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "Anto Antony MP issues defamation notice to KP Udayabhanu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWl9ZVHJBQ09sckxkRDg0eFRNTHE3anhIMnhvVmF1N1RyY256QmNJRjNORkFHOEQzMWdLa0VoanNIUXVsZXROc0hEWGs1Rl9uQkU2dWEzZEVLVjZZWkhQazJKVEMyWUs2Nm9rTzZaVFZGMms0WlNKT25PSUh6VHBRWS01QW5YcVEwS0xIaDBEVWpwNlMzQUtDNGpzaGhyOWZQMWxZQjdPQzhpRlhQVmRCNzFtakJaNlpnNmtGTUV3?oc=5"
+    },
+    {
+      "date": "2026-02-08T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Anto Antony failed to return 2cr loan, alleges financier",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2ROb2RkX013NGdPbzJJYVhLeVBIOUR0djM0eGpFVVFYaS1qUDBPX2xrNTJ0NWtzTzVZWUo4bVlaQm5MSk9QOUs3U2JJc3lXYmtramVHcjBzMjl0SkJ2Ul9VcXdNdEtsNExtakhJMEZxQXlSalpFOFlGVnFWdnNiUWI0Zmp5TG83M05yWVJNMnQxYUFfb2hjQUhqNlNMQUFxN0lEUm9BRlB5NXZBNnA3SUxkZVM2UzFWUXVOSjlwUFVSWEZQTDRV0gHMAUFVX3lxTFBYZHpfRE10M1BrOUtuXy1fczZKVzg1OFNudTNWWTVCakpBUTF1TUdMeXJnMmRRSGxITklMMzY4RW1wQ0hSY0lCdkRaRVFnNFdOUm1wb3BFaE9rRTktN3pWT2x5MmhVbW9TaFpKd2JXeFFYWVVHVXVVMEFxYnl6bzNueVp0dmpibHowMURRc0RnOW9PT21aWlFXRHN2SFctajlOelRzN0pPUmVTMlpNeTV4dzE1azJhRi1mcUgtMEJYdVo3NTlLdVc0T0lTNA?oc=5"
+    },
+    {
+      "date": "2026-02-08T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "NM Raju claims Anto Antony pocketed ₹2 crore; MP denies accusation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVd3N3kzWHVnU0JkaGt4UkZsRjVELU5LaG5pdFhDZkh6UUdvMkIwTXhUUU4yVmlLNmNJbkZqbk1uUjFscXJhRmluNFY0YVNzcm5ZSkJBajF6MUVUanVkTWJnWDZOZ3B5eU1qZUFBNFpQV29mT2lIOVE2TlBmQm9MSFZJYUItNVN6NmJITVBKWnNDOC1QOUJfdUxsOENseE5nVDlHc2dZT2ZzNGk3NHYw0gGvAUFVX3lxTE85V3c3eTNYdWdTQmRoa3hSRmxGNUQtTktobml0WENmSHpRR28yQjBNeFRRTjJWaUs2Y0luRmpuTW5SMWxxcmFGaW40VjRhU3NybllKQkFqMXoxRVRqdWRNYmdYNk5ncHl5TWplQUE0WlBXb2ZPaUg5UTZOUGZCb0xIVklhQi01U3o2YkhNUEpac0M4LVA5Ql91TGw4Q2x4TmdUOUdzZ1lPZnM0aTc0djA?oc=5"
+    }
+  ],
+  "non_serious_cases": 5,
+  "nota_gt_margin": false,
+  "nota_votes": 8411,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-17",
+  "pc_name": "Pathanamthitta",
+  "pending_cases": 0,
+  "phone": "Telefax :  (011),  09013180320 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180194.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Regarding hike in prices of LPG Cylinder and its impact on domestic households and commercial establishments in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Request for Government Statement on Assault, Public Humiliation and Protection of Religious Freedom in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding problems being faced by rubber growers in the country due to import of compound rubber under the IndiaASEAN Free Trade Agreement",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need for inquiry into reported theft of gold in Sabarimala Ayyappa Temple in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding timely execution of Sabarimala Airport in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Statutory resolution regarding the extension of President�s rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Recognition and Fair Compensation of ASHA Workers as Government Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Immediate Implementation and Extension of the Shabari Rail Project for Sabarimala Pilgrims",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to expedite implementation of Sabarimala Greenfield Airport Project in Kottayam district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Urgent Need for Increased Hostel Facilities in Delhi University",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Urgent Request for Release of Pending Subsidies and Increase in Replantation Subsidies for Rubber Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to bring legislation for protection of humans from wild animal menace in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the enhancement of the minimum pension under EPFO",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to revise Standard Input Output Norms (SION) for regulating duty free import of natural rubber",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt provide minimum support price to the rubber farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Urge upon to govt to take necessary steps to ensure that nurses in the private hospitals are accorded the same respect, recongnition as in the govt. hospital",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to establish a Minimum Support Price for natural rubber",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding development of Greenfield airport at Sabarimala in Kottayam District, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 170
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anto-antony"
+  },
+  "qualification": "Graduate",
+  "questions": 61,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Atomic Energy": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 6,
+    "Commerce And Industry": 2,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 5,
+    "External Affairs": 2,
+    "Finance": 3,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 1,
+    "Law And Justice": 2,
+    "Panchayati Raj": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 3,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 4
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR.T.M.THOMAS ISSAC",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 59,
+    "criminal_deduction": 35,
+    "legislative": 79,
+    "mplads": 29,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 12471856,
+  "total_liabilities": 15673065,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 39.98
+}

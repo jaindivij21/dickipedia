@@ -1,0 +1,577 @@
+{
+  "accountability_score": 40,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 15720000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 39000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7000000
+      },
+      {
+        "category": "Others",
+        "value": 151717500
+      }
+    ],
+    "immovable_total": 231437500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1726398
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5774365
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 15470846
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3768878
+      },
+      {
+        "category": "LIC Policy No 91628xxxxx 1,00,00,000 1 Crore+ LIC Policy No 98662xxxxx 55,00,000",
+        "value": 38212000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 16700500
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3060000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6469000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 91181999
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4318",
+      "total_assets": 322619499,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 322619499,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr. Shivaji Bandappa Kalge is an Indian politician and Member of Parliament in the Lok Sabha from Latur Lok Sabha constituency, Maharashtra. He is a member of the Indian National Congress.",
+    "title": "Shivaji Kalge",
+    "url": "https://en.wikipedia.org/wiki/Shivaji_Kalge"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Laxmi Netralaya and Maternity Home, Behind Zilla Parishad Netaji Nagar, Latur, Maharashtra, 413512",
+    "emails": [
+      "kalgeshivaji@rediffmail.com",
+      "kalge.shivaji@mpls.sansad.in"
+    ],
+    "phones": [
+      "9860154555"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/shivaji.kalge/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/dr._shivaji_kalge/"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "YES",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "05/05/1969",
+  "eci_state": "Maharashtra",
+  "email": "kalgeshivaji[at]rediffmail[dot]com,kalge[dot]shivaji[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 9392650,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 7282170,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 6220700,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5068260,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 6136568,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2111880,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1787830,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1304020,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1277530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1080208,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 454260,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 364860,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 281200,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 248920,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 205795,
+        "person": "huf"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 483320,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Medical Practice"
+      },
+      {
+        "person": "Spouse",
+        "source": "Lecturer"
+      },
+      {
+        "person": "Dependent",
+        "source": "(1) Receiving stipend Rs. 76999 Per Month, (2) NIL"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 17% of MPLADS local-area funds were spent — ₹12.27 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 122738371,
+        "utilisation_pct": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 16777951
+      },
+      {
+        "category": "Ashok Kalge 1,40,000 1 Lacs+ Bandappa M Kalge 3,05,000 3 Lacs+ Lata B Kagle 40,0",
+        "value": 7113894
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 23891845
+  },
+  "margin_votes": 61881,
+  "minister": false,
+  "mp_name": "Dr. Shivaji Bandappa Kalge",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 24261629,
+  "mplads_unspent": 122738371,
+  "mplads_utilisation_pct": 16.5,
+  "mplads_works_completed": 18,
+  "mplads_works_recommended": 115,
+  "mpsno": 5746,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-09-28T23:00:22.000Z",
+      "flagged": false,
+      "publisher": "LawChakra",
+      "title": "“An Erroneous Decision of the Caste Scrutiny Committee Can’t Be Challenged Through an Election Petition”: HC Rejects Petition Against Congress MP Shivaji Kalge’s",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhPck43TnVvUWQwbEw0bG9JcHpkcERaWWZORUZrNUlGS2NFa2wzbjhjc0xPQkMwbUxoWFlzWWgtVGU0Mjk2S3pYSGFTQ2FnYkkxMVdMd01zWVZXOWJEMnlfZVVJeWk1VkpGYTlUT0lDOEJGc3pCTGhHRVZiNHV4NjY1NEpYZ1otNmVaRjhsZw?oc=5"
+    },
+    {
+      "date": "2024-09-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Petition challenging Lok Sabha election of Congress MP SB Kalge dismissed",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWlh5dHdzS0w2bldMNUlrS1pQb1VlTFJBRzFzWENBMHRoeVI3T1ZROENITlFtTV9oZDlIRmJSckt3cVprbzZnYjQ4bHN1dXg0NWx5VUNZbTBoMnp3Yldfc0d6VWRXaXdybDZEME5RTW5UWWoyLWh4bUs3MkR0MVg4cmpXcG9FUjBaOEJoZmdFenpWVzh4UDNaQlBMTm13VUhOQTFfSmxxOTQwSEFzcDVxU3o2NEpMeFZTTldNUDFCME53Z1BIaHZJ0gHMAUFVX3lxTE9kaUoxZ1hrRThacDJjZFdnazdvV3FRYlJMMXhZaDQzQWJtMzE3amNHUnNJWW1zMnREbFNoSXI1OUFYMmtRWlZVOWpoMjBNYkxFMHY4a1oyaVYzN2JManRDVlE3THNOZk1zTWVTVGVuOWFOamI4V016T0dnMnNkWk5yRVdCVFRDWFhiODBKSjJ2WTRnNFhSYldtTGVMVmtQcXBfeVBnNmJoZ0xBNGxkZF9qeVRDS3VNNHlVZ3RTZWlIaUNsamVpRXYtN00yQw?oc=5"
+    },
+    {
+      "date": "2024-09-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "SCC Online",
+      "title": "‘Petitions bereft of material particulars’; Bombay HC dismisses plea challenging Congress MP Shivaji Bandappa Kalge’s election",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHp0UkFBN0I4MzhnT3E2N3ZBRnE0OEc1cmdfRUd4SVBScjFQV2pqMFRRMFNhM3l3dVBRaG9lM2xEWXpzbzJwbUZMOUo3ZV9PXzBZbm1Lc2RJWXlQLWhMOFp0bEFvN2x2dDB1cWs2VjRaUFVUcm1obC1SWGZzTEJxbUV0b1VjTWRKbERzZUJIdElxZ3J1dUdXVTU3MFVpVmtzdlFoVlF6WmxxdWVsa1pfVkxaczRtLWx6UHpLQjE0VEM4YWs?oc=5"
+    },
+    {
+      "date": "2024-09-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bar and Bench",
+      "title": "Bombay High Court dismisses plea challenging Lok Sabha election of Congress MP Shivaji Kalge",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ19mOExaVktQdFNZb1ppeWZMdDkyRlpON3U4UlowWGFFSnRIdWcyVWlqcTVYZkFMZkZxdnc0b2dpRUhLUjh3Ull5S1pYSWIxSzlpaXYwcFJhcG11WkxYVjF2SU1yTUEwWWJWVFB0c0M3OWZoOVVGTDZpSE10cjYxX3BobzNoS1Y1eDF5UHFYMmd2MTRKZ2l2ZXU1WkVNdFowUDNEUzYyMW5SY25qMnpaZlRSajlsTkowWEUyTlFZZw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3567,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-41",
+  "pc_name": "Latur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180261.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Special Economic Package for Development of Marathwada Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need for necessary amendments in PMGSY to facilitate reconstruction and repair of damaged roads in Latur Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Special Package for Repair and Reconstruction of Rural Roads in Latur Under PMGSY",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need for establishment of FM radio stations in Latur district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for Vande Bharat for Latur and connectivity between North India and South India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to recruit faculties in veterinary colleges under Maharashtra Animal & Fishery Science University and ensure compliance of norms of VCI and ICAR",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Demand for Filling Faculty Vacancies in Veterinary Colleges of Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for relief to farmers affected by heavy rains in Marathwada",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding delay in implementation of schemes under Jal Jeevan Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to expedite completion of the doubling of Latur Road - Kurduwadi Railway Line Project in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Commencement of Production at Latur Rail Coach Factory and Introduction of Vande Bharat and North India Rail Connectivit",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding establishment of a multispecialty ESIS Hospital in Latur, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Urgent Regulation and Oversight of Fraudulent Cooperative Financial Institutions in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to declare Latur, Maharashtra a Special Economic Zone",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Immediate Resolution of Water Supply Issues in Latur, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Investigation into Procurement of Substandard Medicines in Maharashtra Government Hospitals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding construction of railway line from Latur to Bodhan and Nanded in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt to restart the milk powder production unit of latur as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding need to restart Marathwada Rail Coach Factory",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 27
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 191
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dr-kalge-shivaji-bandappa"
+  },
+  "qualification": "Post Graduate",
+  "questions": 24,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Civil Aviation": 2,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Textiles": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "SUDHAKAR TUKARAM SHRANGARE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 40,
+    "criminal_deduction": 0,
+    "legislative": 47,
+    "mplads": 30,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 322619499,
+  "total_liabilities": 23891845,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.15
+}

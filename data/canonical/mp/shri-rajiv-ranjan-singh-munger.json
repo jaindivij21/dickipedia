@@ -1,0 +1,482 @@
+{
+  "accountability_score": 20,
+  "age": 71,
+  "assets_2019": 88324866,
+  "assets_2024": 138228639,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7825000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 355000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 40327000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 74690000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 123197000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 726545
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6558505
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2704506
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4133000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 909081
+      }
+    ],
+    "movable_total": 15031639
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zsKarC5nmT7CoQiNQTGL",
+      "total_assets": 6746462,
+      "year": 2004
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zsKarC5nmT7CoQiNQTGL",
+      "total_assets": 55757926,
+      "year": 2014
+    },
+    {
+      "label": "Bihar Ministers 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zsKarC5nmT7CoQiNQTGL",
+      "total_assets": 57152982,
+      "year": 2015
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zsKarC5nmT7CoQiNQTGL",
+      "total_assets": 88324866,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5060",
+      "total_assets": 138228639,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1949,
+  "assets_latest": 138228639,
+  "attendance_pct": null,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "B-85, Budha Colony East Boring Canal Road, Patna Bihar, 800001",
+    "emails": [
+      "lalanrrsingh@yahoo.co.in",
+      "lalanrajiv1@gmail.com",
+      "rrsingh@mpls.sansad.in"
+    ],
+    "phones": [
+      "6122523628",
+      "9431821284",
+      "9013997069"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "24/01/1955",
+  "eci_state": "Bihar",
+  "email": "lalanrrsingh[at]yahoo[dot]co[dot]in,lalanrajiv1[at]gmail[dot]com,rrsingh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 13883975,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3089838,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2272443,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 15622130,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1630060,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 225240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 110260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 121080,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 120950,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary From Lok Sabha , Income from House Property, Interest, Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Interest and Others"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹67.5 L (2004) to ₹13.82 Cr (2024).",
+      "headline": "Declared assets grew 1,949% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 6746462,
+        "from_year": 2004,
+        "pct": 1949,
+        "to": 138228639,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1027630
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Under Dispute and For Which Appeal Failed in National Faceless Appeal Center Del",
+        "value": 1887748
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2915378
+  },
+  "margin_votes": 80870,
+  "minister": true,
+  "mp_name": "Shri Rajiv Ranjan Singh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 1,
+  "mpsno": 4134,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-04T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "'Lock them up inside homes on polling day': Lalan Singh's remark against Opposition leaders stokes row; FIR lodged, minister gets EC notice",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOME94NXJnZTdLLW1FRS03VTdDX3V4TWxVZkFHcTFPaXdHQWljc3BfRTVEWHUtVmhrQkNiZEU4QWFUam03OE54eThQaVh6bk5TeUpFZ3E5Sy1SUTQ4UUdFSV9FY2E0aUdWUjdUSHZDUUt0V2IxYzBRRllOeUlKR0w3cS1LM3hCTWJBbm05MXVHNVRKeUdrV1FuQURUZU82MFYxMHpzZDF4dTIxaHNYcFlqY1REdkRMcG1PZG45b3lhVFpxYnJwSnpYbmxWZXRQRmJZNkVoV0FlWmU0MUhqN2w1N29zcGwxZFQ4MlNPTEdzQTNfaUpV?oc=5"
+    },
+    {
+      "date": "2025-11-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "TheWire.in",
+      "title": "Three Months Before Becoming Union Minister, Lalan Singh Gifted Nitish Kumar’s Son Lavish Patna Apartment",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzBsWGtpMld4V013NU4wYVdHU0laU1p3azhXLWFObVFaSlBIWHZxVnBwS2NYUzVkdUtJalptN1RVLXNuSU9fbFo1bmQ4NnVreG1MMUtMUDQ1b0poeGhNOWlmOFZkQk1VNFhDUUF6RVFocDZtbkhTU1lqbDR0aUN3ZkFEdEVrOTFpS2NfdzgzaF96LVFxTDFjREEydEdFenEyX0HSAacBQVVfeXFMUFlDVGdWR0JBM09FdDd0OXVGRks1VW9VUkg5N1pCYTJLUzhJVmZKRTlwSkQwMkFQc2tPZ3pyUnhoY0lNMnFsQnROR3BubnZrZVpNQ2FTM0xpNVV3NC1lYmNDV2d2VzlFQ3lBdFNuYzJlVUY1QjBqYXB0dUw4WmxTeFhPdGVOUmpSVmJfTkpKU3FvempCZW9sRGdRQ2taNlA5dnZ3OE56Tms?oc=5"
+    },
+    {
+      "date": "2025-07-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'Mutton during Sawan': Tejashwi Yadav attacks Union minister Lalan Singh for non-veg party; dares PM to r",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX0Rpb0YyLUhhTV84QWVpaDZkQXhvSTVxSGxMT2pPY2pYVjJqTW5FdkdENmZaYW9XUVI1aFE1TXVBUW1ndFVHZUpnYURmU2FraFhLcmpzR1A4eTR2U2NvUngtdzJLMkdsUHYydnJ2T2VqTUNIZDdBTmpYc1FiU05JcWNPVHRzVXNReWZza0lnbnNjQ2tQaGdjTVlnMUIxR2tieHdMR24tZEltSE5hdnl3cFVITGs1YmFYYmJZR1J2NFl1enduTF91SWpkSzBHLWJlcXlIMFlfYTJLdmFyQzlqSmdpd3dIVFBBeEpDRGFWLVhMR091YzI3MHdYRUUwMGo5ajdkbTRR0gGLAkFVX3lxTFBRRXZQeW41SXltcFZrbVJWWlB2LTYzOXExc2NhSlR3dzhhQkdQVERqdFRKaHkyeFdOWGdDZ3BmSnZmczByWksxRlRkRUFWTkxSX25WLVJIX0IydEo5Ry1fUjNweU9tX2xub3p3SkFCYk9sOU9QaGFQM0NKWVF2cmhycmdiTWp3cWF0dkVmUmowdEdYWmNwOUw3RW5ja2FpVTYtRFA2ZkRhT3hvNnNyZDRMZTFfWmowdHNTVTBCNXZwQTNmY0NPNTBscE5HTGtJekRQNV9EZlBMNXF4b24xRWMtdDVFOUdwWU1XaV9SalcxTU1ybVBoZnFWRXhPODR0ZHF5SElsQmNkdllwcw?oc=5"
+    },
+    {
+      "date": "2025-01-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "AffairsCloud.com",
+      "title": "Union Minister Rajiv Ranjan Singh inaugurated ‘Entrepreneurship Development Conclave’ in Pune, Maharashtra",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW9VLUJTc1dtWGhyVU95ZUZZRHA1NUdIOVo1SFlOUTBwMVJKQVhmZUlTSDF2X1ZpSFhmVWloTkNHa0dXbWlPWTVPZmZWUmJtbXlpNTljRmNBLUFFSU03ZHZMRzd4YUswdHcwNFo3QTlhNE5FMlFCcnFHNzB6blBUUk8wZVkwSlVLZmV1VE8zVUpxb1dHNllDc3Q5blh6dkV4TS0zcE81Ql9SdEZKRDJEUlNrZDNvbFdxQmYycl90ME5iWTNfZXg1MQ?oc=5"
+    },
+    {
+      "date": "2025-01-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "AffairsCloud.com",
+      "title": "Union Minister Rajiv Ranjan Singh chaired the ‘Northeast Region States Meet 2025 held in Assam",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGVyMzBaR1NYbG9JOWVxMkNrdW5KMEU2cUZ6Y2tZNTVOTE4zZktpSk15eW5zU2tkeG9TRERxX0lTS1RHUHFFTGF2UllfMDVOQlFKVmhGLVJ3YjBWSmZPT21CdHByRHVXNnlaQXp3MGdBZ2ZKQmpRQkE4TFRuUUptemY3bjBJVmpmS3NOM05XaC1SbWZPT3ZoMEhVOElFWVgzNFVPM2k2VTNJNms5X2tjZGkwOHpCckxvMHlN?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 21951,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Lalan Singh",
+            "url": "https://en.wikipedia.org/wiki/Lalan_Singh"
+          },
+          {
+            "date": "2024",
+            "publisher": "Krishi Jagran",
+            "title": "Rajiv Ranjan Singh Heads Dual Ministries: Fisheries, Animal Husbandry & Dairying and Panchayati Raj",
+            "url": "https://krishijagran.com/news/rajiv-ranjan-singh-heads-dual-ministries-fisheries-animal-husbandry-dairying-and-panchayati-raj/"
+          }
+        ],
+        "title": "Union Minister of Panchayati Raj (2024-)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2025-02",
+            "publisher": "Press Information Bureau",
+            "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh inaugurates 14th Asian Fisheries and Aquaculture Forum",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2102338"
+          },
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Lalan Singh",
+            "url": "https://en.wikipedia.org/wiki/Lalan_Singh"
+          }
+        ],
+        "title": "Union Minister of Fisheries, Animal Husbandry & Dairying (2024-)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Lalan Singh",
+            "url": "https://en.wikipedia.org/wiki/Lalan_Singh"
+          },
+          {
+            "date": "2023-12",
+            "publisher": "The Tribune",
+            "title": "Lalan Singh resigns as JDU chief; Nitish Kumar takes charge",
+            "url": "https://www.tribuneindia.com/news/india/lalan-singh-resigns-as-jdu-chief-nitish-kumar-takes-charge-22313/"
+          }
+        ],
+        "title": "National President of JD(U) (2021-2023)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2014",
+            "publisher": "Wikipedia",
+            "title": "Lalan Singh",
+            "url": "https://en.wikipedia.org/wiki/Lalan_Singh"
+          }
+        ],
+        "title": "Bihar Minister of Water Resources (2014-2019)"
+      }
+    ],
+    "office": "Union Minister, Panchayati Raj & Fisheries"
+  },
+  "num_candidates": 12,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-28",
+  "pc_name": "Munger",
+  "pending_cases": 0,
+  "phone": "09013997069 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180070.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajiv-ranjan-singh-alias-lalan-singh"
+  },
+  "qualification": "Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "KUMARI ANITA",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "executive",
+    "wealth_deduction": 21
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "extreme",
+  "total_assets": 138228639,
+  "total_liabilities": 2915378,
+  "wealth_pct_increase": 57,
+  "winner_vote_share": 48.3
+}

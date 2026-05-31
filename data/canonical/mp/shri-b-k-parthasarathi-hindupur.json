@@ -1,0 +1,752 @@
+{
+  "accountability_score": 9,
+  "age": 67,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 52528000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 57178650
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 19180200
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 26214800
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 155101650,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 700000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 213561
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Lic No 65699xxxxx 2,00,000 2 Lacs+ Lic No 65699xxxxx 2,00,000 2 Lacs+",
+        "value": 3025000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1095700
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2523984
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6300000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13858245
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Andhra Pradesh 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Zg8hyTTEfDQYUaFAveps",
+      "total_assets": 23589130,
+      "year": 2014
+    },
+    {
+      "label": "Andhra Pradesh 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Zg8hyTTEfDQYUaFAveps",
+      "total_assets": 43062191,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5109",
+      "total_assets": 168959895,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 616,
+  "assets_latest": 168959895,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "B. K. Parthasarathi is an Andhra Pradesh politician. He is the leader of the Telugu Desam Party and has won twice as an MLA from the Penukonda constituency. He won from Hindupur in the 2024 Indian general election.",
+    "title": "B. K. Parthasarathi",
+    "url": "https://en.wikipedia.org/wiki/B._K._Parthasarathi"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "#8-61, R Maruvapalli Village Roddam (M) Sri Sathya Sai Penukonda Andhra Pradesh, 515123",
+    "emails": [
+      "bkparthasarthi@gmail.com",
+      "bk.parthasarathi@mpls.sansad.in"
+    ],
+    "phones": [
+      "0855440122",
+      "9440678999",
+      "9441583456"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 3,
+  "criminal_cases": 15,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "STC No-582/2013",
+        "charges_framed": true,
+        "court": "I. Spl. Judl. First Class Magistrate for Railways Guntakal",
+        "fir_no": null,
+        "other_acts": "Sec.174(a) & 147 of Railways Act 1989",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "STC No-481/2013",
+        "charges_framed": true,
+        "court": "I. Spl. Judl. First Class Magistrate for Railways Guntakal",
+        "fir_no": null,
+        "other_acts": "Sec.145, 147 & 174(a) of Railways Act 1989",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "STC No-576/2013",
+        "charges_framed": true,
+        "court": "I.Spl.Judl.first Class Magistrate for Railways Guntakal",
+        "fir_no": null,
+        "other_acts": "Sec.146, 147 & 174(a) of Railway Act 1989",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 15,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for bribery",
+        "section": "171E"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 10,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 9,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 8,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Penukonda",
+        "fir_no": "45/2024 of Penukonda PS.",
+        "other_acts": null,
+        "sections": [
+          "171E",
+          "188"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Dharamavaram",
+        "fir_no": "247/2023 of Kanaganapalli PS.",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1077/2023",
+        "charges_framed": false,
+        "court": "2-I Addl. Junior Civil Judge Cum I Addl. Judl. Magistrate of First Class Anantapur",
+        "fir_no": "167/2023 of Anantapur 2 Town PS.",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "341",
+          "34"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Penukonda",
+        "fir_no": "183/2023 of Penukonda PS.",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "341",
+          "34"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Penukonda",
+        "fir_no": "181/2023 of Penukonda PS.",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "341",
+          "34"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 945/2023",
+        "charges_framed": false,
+        "court": "Prl. Junior Civil Judge Cum Judicial Magistrate of First Class Anantapuram",
+        "fir_no": "74/2023 of Anantapur I Town PS.",
+        "other_acts": "Section 51(b) of Disaster Management Act. 2005",
+        "sections": [
+          "188",
+          "341",
+          "34"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Dharmavaram",
+        "fir_no": "224/2022, of C.K. Palli PS.",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "188",
+          "34"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Dharmavaram",
+        "fir_no": "97/2022 of Ramagiri PS.",
+        "other_acts": null,
+        "sections": [
+          "153",
+          "34"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 748/2023",
+        "charges_framed": false,
+        "court": "Junior Civil Judge cum JFCM Penukonda",
+        "fir_no": "48/2022 of Roddam PS.",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "353",
+          "506",
+          "34"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Penukonda",
+        "fir_no": "305/2021 of Penukonda PS.",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "188",
+          "149"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Penukonda",
+        "fir_no": "301/2021 of Penukonda PS.",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171H",
+          "34"
+        ],
+        "serial": 11,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM Dharmavaram",
+        "fir_no": "574/2021 of Dharmavaram I Town PS.",
+        "other_acts": "Section 51(b) of DM Act.",
+        "sections": [
+          "188",
+          "34"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "03/09/1959",
+  "eci_state": "Andhra Pradesh",
+  "email": ",bkparthasarthi[at]gmail[dot]com,bk[dot]parthasarathi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 406009,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 305228,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 334368,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 225959,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 414280,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 491600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 481630,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 381320,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 31650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 211350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 455500,
+        "person": "dependent2"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Pension from the Government"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "(1)-Nil, (2)-Civil Engineer"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹14.54 Cr between affidavits, while declared income across 5 ITR years totalled ₹16.9 L.",
+      "headline": "Declared assets rose 86× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 145370765,
+        "declared_income": 1685844,
+        "itr_years": 5,
+        "ratio": 86
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.36 Cr (2014) to ₹16.90 Cr (2024).",
+      "headline": "Declared assets grew 616% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 23589130,
+        "from_year": 2014,
+        "pct": 616,
+        "to": 168959895,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹12.56 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125597549,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 3,
+        "pending": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3563979
+      },
+      {
+        "category": "BK Sai Constructions 3,00,000 3 Lacs+ Srihari Constructions 10,00,000 10 Lacs+ K",
+        "value": 14326491
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 2014740
+      }
+    ],
+    "total": 19905210
+  },
+  "margin_votes": 132427,
+  "minister": false,
+  "mp_name": "Shri B K Parthasarathi",
+  "mplads_allocated": 160491894,
+  "mplads_expenditure": 34894345,
+  "mplads_unspent": 125597549,
+  "mplads_utilisation_pct": 21.7,
+  "mplads_works_completed": 34,
+  "mplads_works_recommended": 90,
+  "mpsno": 292,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-08-08T00:59:58.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "B K Parthasarathi , TDP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObFROa3FLS3FZQVowQm9pbmRIMmw5X3RSZFl2RU9USTF5d28yUG1XcU1TeVdiSHFZUlVzbThBTFdQb1pVZGZZMUJ4OTQ5eEZzMUoxdHhPLUpqTVA2NkNHWHZIV3B2NUxkdTU0cUs4NFBMRkZybXhVUFRKVm9uV1ZDWEtaNUVHZUdRblE?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Hindupur election results 2024 live updates: TDP's BK Parthasarathi wins by 1,32,427 votes against YSRCP'",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQckN6RExaaG5GOVVCUkhla2F6R09KTDBvbkwtbGYxY096bVd3Ml83TVpjUEZsb1BVcG4tZXh5aElMZXZRTnZ2WEhfUUF5T3c2VjlGT0dyODRzd1E0Y2xQU3I1Wkhpb0tNWGJ6UUJGOEtZZElQbDVFNnhoWUgwTEZ6cHVGVDI1YVJUOGEtNjlIdE5RRlQ3RndzRWhpWUMzUmRvTlN5NlNMSVNaZUZuX3I3dHFGdUdwekJGbUFwT1pBQ0ZlNE9BenVTWW9YaWNwQjk4TkdhTV9QSXJVcG95TVFOTlZiWjV3R1EzNFM1S19zU2JaMHlISm11aFRiaWlXZGwxTlJGNmkxZ9IBjAJBVV95cUxQUTBwREpmRFlQbmxSTm9rN1p1c2dEQ2tSSnFkUjU2NzBZSkRFM1l1TmlBZkdNOUg3UzRPTFRQNVB3aTJraHBaTmI3MFBGVEctaEpEVHVsMWhTa0s3SldRejdSMDR6dndnVmVfT0UxeFBqZV9YNTNIellzTEo4RExqQ1U4b0JFaDU2Skxhbk1rdEZQR2lmNklUemttbXFsa2h1WHpsalBfRmotMmp5amNGNVpRVGM0RHJMbmJGcEZ1TUtranpKcXo3eEVIcjRXMzRQTUhxVkJSNWc3YUlxQWVrTEl5ZjE4cjFRQU1mTjBCNlpQdldTRW5XdjhneGU4MmRJVUNBSF96RE1ydWN4?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BK Parthasarathi Wins Andhra Pradesh's Hindupur Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm94SWJSQnRtdE9JT200YlQ3LVRXb2d3cHlacks5bXVNTnlWdldhQTVaXzNyV0sydTRRa2FXLXk5SzB2MHdZS3VvWDduZUlpa1lSYTQzLWstSjlQOU9ZblI2UEsxVWRXUmprNHhORUlWb1lsUksxcmZDX1FwcU9zaVRlMzV3eHllWXpZR3RTZlJ0d3RwdHlRR280bm5SMExDNFNLdHRlZnYzalhBVmo5Mw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Hindupur Election Result 2024 Live Updates: TDP's B K Parthasarathi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWdTNVkweHFwOGVydG5LalJ5YkFLcXpINEFXb2VISExKLW9vZjFwNGRrZC1XUGdrZlc1MWV6UGFHX0RnTkxnbnR4Q2NFTjliQ0hKZlAwRUlfNUN5U3hhZVhtaVVONjhlTlZjdU9sc3ZzeDhyMlhTQVdjOHREaldLY1pKVXJtbWRJSnFQVnIxU0xCY3I4dlphZlNTbUtiSWQ1aGJkdkJzQ29HWS02TW5SWlB6MVpmbjlQNkVKd1IycEFOMnNicTloRTdpeGtpNlXSAdwBQVVfeXFMTzlybzhVYnZIeEVhenBlcHZxUHdfaUlGcFkwTVhjQlJ2Z3EtZEFfNUJON1FPc3lpUHpGalVON2JlYnJDRkNsNzRJUEdsa0ZIU0lQNXpfRkVzM2ZSYTFxd1FrRHVidklXUGV5d1A0TTg4cXpRbVBpT0YyTEJ1WlY3RnhXbi1TMm1YdEpxLWpUX1NPb3ZqbXVwU0ctaDZKelVpdmJRU2xjOUhKMXVJdkRIS3J4OFRpeDQ4aldkTkhhVnVmS25Ua3ZlM20wNTdoNVFueGNuTExadXZ6ZjJGYQ?oc=5"
+    },
+    {
+      "date": "2024-05-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "TDP candidate Parthasarathi confident of big victory",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGNwYWszOExXdVcyWE5BYjMxNThJMkdERGFYdktWUWdONTZLN0ZXaTV2MFp6SW95c3hxZURyRDhYNUNYanFDN3BmaG5FaGZzOWttUWd2cXROLWc1WFl0MWVQaHFRRFMtMjdmRlZtWVVGR2RZajRzYlEyWlBoX1R3LTFyNzdCdzk5UWZkbDB1bGRPazlPVFJNZkhSZ3d5dzR0M2xPVjZR0gGrAUFVX3lxTE5NQmlUTHN4R0t6V2VOMHdNZXNhLW45aG5MT2g3bERFeHViM18zdzFGR0xleEtVLTUyTlk5MHpSWEVNcDIxZzBYTDBzbVlCb2JGQzdkaVc5QWRmdVBvODhoeV9yOUtheHJ1enRVbzFrMmxMdEpfeUhYNHRJUy0weDhFQUItRUJUdzNBU1U4bERkZEMwZFlBNVlJTVN5UWw1c09RcWF1Ty1ucUE3OA?oc=5"
+    }
+  ],
+  "non_serious_cases": 13,
+  "nota_gt_margin": false,
+  "nota_votes": 17971,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-20",
+  "pc_name": "Hindupur",
+  "pending_cases": 12,
+  "phone": "09440678999, 09441583456",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180004.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 72
+    },
+    "debate_titles": [
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to include Veerashaiva Lingayat/Linga Balija community in the list of Other Backward Classes (OBC)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 169
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/b-k-parthasarathi"
+  },
+  "qualification": "Graduate",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 2,
+    "Culture": 1,
+    "Defence": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 3,
+    "Labour And Employment": 2,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 3,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 5
+  },
+  "reservation": "GEN",
+  "runner_up_name": "J SHANTHA",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 38,
+    "legislative": 50,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 2,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 168959895,
+  "total_liabilities": 17890470,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.23
+}

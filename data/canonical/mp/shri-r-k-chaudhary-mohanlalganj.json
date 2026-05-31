@@ -1,0 +1,470 @@
+{
+  "accountability_score": 26,
+  "age": 76,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 13529468
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 11415797
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 24945265,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 48000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1171194
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC P.No 23602xxxxx date 28.03.2010 Installment amount 5026.00 Maturity amt. 575",
+        "value": 575000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1645000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3439194
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=gt6VCXBdsguuL7QvTH7K",
+      "total_assets": 9309539,
+      "year": 2014
+    },
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=gt6VCXBdsguuL7QvTH7K",
+      "total_assets": 7210787,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=gt6VCXBdsguuL7QvTH7K",
+      "total_assets": 9185305,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7161",
+      "total_assets": 28384459,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 205,
+  "assets_latest": 28384459,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "R. K. Chaudhary is an Indian politician and currently serving Member of Parliament, Lok Sabha from the Mohanlalganj. He is a member of the Samajwadi Party. He served as Minister of Transport, Health, Science & Technology, Forest, Environment, Small Industry, Cooperative, Ambedkar Rural Development, Sports and Youth Welfare in the Government of Uttar Pradesh.",
+    "title": "R. K. Chaudhary",
+    "url": "https://en.wikipedia.org/wiki/R._K._Chaudhary"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "8/19 Indira Nagar tehsil Sadar, Lucknow lucknow Uttar Pradesh, 226016",
+    "emails": [
+      "rkchowdhary1954@gmail.com",
+      "rk.chowdhary1954@mpls.sansad.in"
+    ],
+    "phones": [
+      "9415025584",
+      "8090525584"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "49016/2020",
+        "charges_framed": false,
+        "court": "ACJM-VI, District Lucknow",
+        "fir_no": "CC No 232/2019. PS Gosaiganj, Dist Lucknow",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1948/2008",
+        "charges_framed": true,
+        "court": "ACJM-III, District Lucknow",
+        "fir_no": "CC No 199/2008, PS Gosaiganj, Dist Lucknow",
+        "other_acts": "Section 7 Criminal Law And Amendment",
+        "sections": [
+          "143",
+          "145",
+          "341",
+          "332",
+          "336",
+          "504",
+          "506"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "06/12/1950",
+  "eci_state": "Uttar Pradesh",
+  "email": "rkchowdhary1954[at]gmail[dot]com,rk[dot]chowdhary1954[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension & Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.43 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 114284206,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹93.1 L (2014) to ₹2.84 Cr (2024).",
+      "headline": "Declared assets grew 205% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 9309539,
+        "from_year": 2014,
+        "pct": 205,
+        "to": 28384459,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 70292,
+  "minister": false,
+  "mp_name": "Shri R K Chaudhary",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 32715794,
+  "mplads_unspent": 114284206,
+  "mplads_utilisation_pct": 22.3,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 89,
+  "mpsno": 5803,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-12-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "'Difficult to control pollution if...': SP MP RK Chaudhary defends remarks on 'Holika Dahan'; BJP hits out",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcUFPbkMzQV9TdXBNVlcyYlZLa0JfYThLQmtNeDhnWWFONjlTSnBQLU9uNGJEcGlYN2pVNEFsY3ZpM1pndHJDYVVzaVF0cGdFeVItRDNSZXZtYzR4QVA4TDhxVVczWHZUeEt5TUtReFhWanJLSF9mU3NTc2RMU0FFVHpXbVRFNU1LWERkMUNoVk1MaE9YVEVpVW5QQmw2b0FPWVpWeGZFd1JxcTJSTVN1Vl9hRzBUOXNCTllEUnd4bDNnUkFPMWlHUlF3TjZZa0M3NW9ic1Q0Nzg1c2NFR3Z5M2hhNGNmbDlWYUZCdFlsLWtWZENrTGNwM0NGOE7SAYICQVVfeXFMTkptdmMwV3l5NTNybzNMczJtT0xFMGxsZGRFVHRidUc5MzJNMER0UEJOMk5HbGJNVEtIY1U1UVUxRmJKMDA3Ylg4QW9nd3MxaGJCZ0pMeDkyeE9pT3B4ckhuellUVGRsUWV0MmxUb1FlUVdpZHhSanVVNjh3UGthTGI4YjR3YTE4VGhJUFZEWGZQM0NXemFWNnhYeUF3ZzNwVnJCWkRkcFRhcFdyNktJUmk2SE13aFhiZ2JELV9IX3BUYm5kZEhKdDN2cU1HS1NYbFdoWFZTVGUwYVlEZWN3aU9pUy14bTNpVVREOHVwMFhFVF9GQy13SmFBQ240Yk8yZnFB?oc=5"
+    },
+    {
+      "date": "2024-07-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Interview | SP's RK Chaudhary on BSP, Kanshiram, and the Bahujan Voter",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3FkSFYzSmJ4emRjWEZEVVNURE5NZUgyZXNWaDBuQjFDZzRhV1RuVnVPNVQ3QTBJazNzOERiNkczMkJGVE1ZOVNEb1BISWxOczNERWxDWGpNemI3bzlMNGJlS1VWUHpHS1FhTEFiSTR5dERtcTU5UnE5UjNFSXNrdGYwdnhZVzVYV29JdnBnTk5fTTFRQ1NNaVhNUlRLQXMzMkMxaUUxb3ZIR0htalZN0gG8AUFVX3lxTE1rN0prQll4cU9fZ2NaOWlwdTlydG1yNkpTNEZGQy11RFE0WDcwY0hkcjB2NEVSRkJZWFJHZUE1WmtLQ04zYmJSdGFjbXJZc3R5Ym8zR251cFNFNGVKUWN2anBBNF9kS2FsOVM2TGNFa0Q3Y1dJa1FSNmlDNXQ1dTF6MzZRY25YM1JUdllIdFZFU0lPZFdqMW1NcFZxYkRZOU8xTUUxajBQYjFqZ0VRTnRucVVieGp1dVJIX08x?oc=5"
+    },
+    {
+      "date": "2024-06-27T22:11:44.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "R.K. Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTQtN0tIMERjRlRGRE5Sdjdkb3ZPMkpwV0pSNWdZSUxDaVpJb01zb0R3RFFKM2c1OE1kRE9vaURodjVCLWg3Und2Uk45aUE1Qnh4blVBWm03VU5pZnh1WTVFU3gxTW1DaENWLTFraWZPcWdZeXFsb2E1YTNsekJiaEdpUE8?oc=5"
+    },
+    {
+      "date": "2024-06-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Samajwadi Party MP RK Chaudhary demands Sengol be replaced with Constitution, NDA hits back",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeHh3U1U4SEozNTdpVG5iWEdzVnNQOFNxVXRGTmtFeHh2QldVUUFkN2FTcmFxZUFLMDI1MWE1WWMyLVJncTR3MF9vRGQ2SVdteUt1dHZsOFlZbjhmTktQOEdlSHRNcWVWeFRULVc3cDZzVmRqY25aSVc2SE44WDVQMmxveGpCWjdhYnQ0WXFqY3hTRF9YeGtLU1lfM0FSaVk3dGpEa281MVJRVkpseUYyVmZNX0hqMWx4dlBRWmloWkRZdlRBTkHSAcsBQVVfeXFMTnYtT2ZDNXVBdzdqNENCQlAybXRUWURtNVpxc0NReGZpVlMzSEZxZ1k4NnlsbWVuWnkzcy1YazZrZTBNdGdEMG0wQXl0czMtdnJueEhMeHlUeXdQMWNuVDBneVgxTXNPWllCckE2R2xkQjRGdmEzQlZLQ1UxWVh4QzBWdFNDUWtLZGpKcjFqb3c0dHRjcS03OHdSU09zTlRDc3B5TlQ3WHlZbFZYeVdVb2xyZ0ZMWG5QeUUxZmh3RExZdG5idUROME83LTQ?oc=5"
+    },
+    {
+      "date": "2024-06-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "SP MP R K Chaudhary demands removal of sengol, wants replica of Constitution",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZzJpV09tYWE3QTFUZVMxRkFrX1A5a0M4OWhMQXlOOFhNck81TzJzYUp5Y1hkNkprTW9ZV0xYZkl2Z2tIM3piNEUwcndoNm1rcW5SZU1PcENIY1pLZUsxQUVnLXphVXVyZzFUZTdSeFpYMHRNd3Z4RXA2WHN6em1TX2tUaWdiYjVzV05NVUJnQUoxTDZDYXJwYjRjQnBtZGZjSWxwSnNMeV80ZzdNUmdISUhiZHU1dk9RNmZ3TTcxNV95ZTRRNTRFc2VidzFhQlljSmRUS0FjUXBKRWRvX3MtbnN30gHnAUFVX3lxTE5NcDBGMlVSRmpwMWlXc3EwdEJaVnZMaVJ4SzBNWWZleDRyblpJejMyaV9MSkJsQThjbXNxcXgzMjBaV1ZMNmUzbV9rZ0RaX2Z6aTU3em1ldXpiOF80cFVfU1ZtTFdKQzJhSlFMQ0hQY2F6a0JCb1VMN0FUb252Qjl1U1EzVFU2cWNPT0xJTTBLT3dNckdlRU5pbmJ3TUItMHVjVzZuOHdMUTBCckc0Zk55X1BaMXU2X2VMUG9tbUg0UnFqUlRwRnVNQ0Ridjk1d3ItbUJNOUU0bUotdDVTYzlxNmFEMEgwOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 8866,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-34",
+  "pc_name": "Mohanlalganj",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180473.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 92
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request to Restore Dr. B. R. Ambedkar Statue to Its Original Place in Parliament Complex",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/r-k-chaudhary"
+  },
+  "qualification": "Graduate",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Prime Minister": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "KAUSHAL KISHORE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 28,
+    "criminal_deduction": 2,
+    "legislative": 28,
+    "mplads": 27,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 28384459,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.49
+}

@@ -1,0 +1,441 @@
+{
+  "accountability_score": 66,
+  "age": 63,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 35900000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 2500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 10000000
+      },
+      {
+        "category": "Others",
+        "value": 3000000
+      }
+    ],
+    "immovable_total": 54900000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 80000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1536760
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 167126
+      },
+      {
+        "category": "LIC Health Insurance No: 154835712 5,00,000 5 Lacs+",
+        "value": 1000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 200000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 840000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3823886
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8762",
+      "total_assets": 58723886,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 58723886,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "VPO Jassur Nurpur, Distt. Kangra Nurpur Himachal Pradesh, 176201",
+    "emails": [
+      "rajeevbhardwaj223@gmail.com",
+      "rajeevbhardwaj.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7018965394",
+      "8628826686"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 7,
+  "dob": "09/02/1963",
+  "eci_state": "Himachal Pradesh",
+  "email": "rajeevbhardwaj223[at]gmail[dot]com,rajeevbhardwaj[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 402640,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 380770,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 358310,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 493860,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 368590,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 418350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 391020,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 372500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 312480,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 299160,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Medical Profession Clinic & Agricultural Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 41% of MPLADS local-area funds were spent — ₹10.50 Cr unspent.",
+      "headline": "59% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105049943,
+        "utilisation_pct": 41
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 424821
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 424821
+  },
+  "margin_votes": 251895,
+  "minister": false,
+  "mp_name": "Dr. Rajeev Bharadwaj",
+  "mplads_allocated": 179388967,
+  "mplads_expenditure": 74339024,
+  "mplads_unspent": 105049943,
+  "mplads_utilisation_pct": 41.4,
+  "mplads_works_completed": 113,
+  "mplads_works_recommended": 518,
+  "mpsno": 5695,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Kangra Lok Sabha Seat Results 2024: BJP Candidate Dr Rajeev Bharadwaj Wins",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVkhiUy1qM0d4bzFNTkl1dWMyQmdyMGdTMXQ0RVQ1MExMaWh1WkkwTXF3dGFGeXp0VHFEQ2ZFVVlJVFBoT3ZjUmVpaXVzZUhFRmp3T0NVR2E0TVlYV0xpLU1LOTZoUlQ3RU9KckxoSjBIZWxSb1IxcEdmTnNGUHRaQzM2d21QdWIyS1d3WER0ZTZLQmR1V3V6WXBJb0lzYUY5NWtLaUExX0NRd3Q1aU4tYUNXcHprcXFlMnpob2NVNDhfbG1acElQUGpQcF9KNEJHdHgxTXhUWGVwU1dPdVFwMzc4WU9pald3eVFyM1dpeTltTFc5OWIxR2Q2SjRjTFFfckHSAYcCQVVfeXFMTnVSYkdFYm0zSTg5QS16ZjF2WHBUb0JYc2V6QnZwWnp4VHRnckQ5UjFmYUZ3T0Rvd0pwYmNDLTRqNTRob2NmelJBRzh1M1NaeUQxRmR4VjdiczFPQ0QwYUpfODdoWDJla01ReTloX3BaVDhwVkdRcFFjTUNLWW5PVTdoRDlPTzh1a05RZGk4dXJsREJRMXc3X0VDanlZdzh3bzhCZG4yT001S1RWdFFRZVhQTjJQbWUycWF2NDNqdTlUNkkzT2t3NjhiLUhmZkJPbG9FSXVDX3BoU2pEaGJHT0dhLTJjdDBaZU00ckpNenI5WS1sVEllZ1lfRTFJNHc1eTRHbFlGcm8?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6372,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "himachal-pradesh-1",
+  "pc_name": "KANGRA",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180144.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 90,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to channelise the water from catchment area of Beas river in Himachal Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to make Ayurvedic College of Paprola, Himachal Pradesh an institution of national importance",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to set up food processing industry in Nurpur in Kangra district, Himachal Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Government Intervention to Address Crop Losses Due to Low Rainfall in Himachal Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request for hike in honorarium to SPOs posted in Chamba district",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding road connectivity for villages of Chamba and Kangra Districts under PMGSY",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister please open an NIT in chamba district and open a kendriya vidyalaya in churah assembly and establish a sainik school at kangra district",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding need to promote tourism in Kangra Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand to establish Super Speciality hospital and trauma centre in Kangara",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.5,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 144,
+      "value": 104
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajeev-bhardwaj"
+  },
+  "qualification": "Graduate",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Communication": 3,
+    "Cooperation": 1,
+    "Culture": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 4,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Panchayati Raj": 2,
+    "Parliamentary Affairs": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 4,
+    "Rural Development": 2,
+    "Tourism": 6,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ANAND SHARMA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 66,
+    "criminal_deduction": 0,
+    "legislative": 68,
+    "mplads": 64,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 58723886,
+  "total_liabilities": 424821,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 61.03
+}

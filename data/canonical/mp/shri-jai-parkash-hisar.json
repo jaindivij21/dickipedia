@@ -1,0 +1,445 @@
+{
+  "accountability_score": 27,
+  "age": 72,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 6000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 41500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 47500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 390000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 141956
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 13896610
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 400000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5500000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 225000
+      }
+    ],
+    "movable_total": 20553566
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3ehcXqbZnkuPsc2D7Qj",
+      "total_assets": 4568812,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3ehcXqbZnkuPsc2D7Qj",
+      "total_assets": 6558644,
+      "year": 2009
+    },
+    {
+      "label": "Haryana Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3ehcXqbZnkuPsc2D7Qj",
+      "total_assets": 43341325,
+      "year": 2014
+    },
+    {
+      "label": "Haryana 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3ehcXqbZnkuPsc2D7Qj",
+      "total_assets": 50718655,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8547",
+      "total_assets": 68053567,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1390,
+  "assets_latest": 68053567,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "village, Dubble Kaithal Kaithal Haryana, 132077",
+    "emails": [
+      "jai.parkash@gmail.com",
+      "jai.parkash54@mpls.sansad.in"
+    ],
+    "phones": [
+      "1681225133",
+      "9650033558"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "02/12/1954",
+  "eci_state": "Haryana",
+  "email": ",Jai[dot]Parkash[at]gmail[dot]com,jai[dot]parkash54[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1172000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1172000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1132130,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1068020,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1298020,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Pension from Vidhan Sabha /Lok Sabha."
+      },
+      {
+        "person": "Spouse",
+        "source": "Interest on Deposit in Saving Account of Bank of Baroda"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹45.7 L (2004) to ₹6.81 Cr (2024).",
+      "headline": "Declared assets grew 1,390% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4568812,
+        "from_year": 2004,
+        "pct": 1390,
+        "to": 68053567,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹6.35 Cr between affidavits, while declared income across 5 ITR years totalled ₹58.4 L.",
+      "headline": "Declared assets rose 11× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 63484755,
+        "declared_income": 5842170,
+        "itr_years": 5,
+        "ratio": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 1,390%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 1390,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 34% of MPLADS local-area funds were spent — ₹9.73 Cr unspent.",
+      "headline": "66% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 97284397,
+        "utilisation_pct": 34
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 12500000
+      },
+      {
+        "category": "Vidhan Sabha Haryana House Building Advance of Rs. 40 Lakhs 4,61,067 4 Lacs+ Mot",
+        "value": 694392
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 13194392
+  },
+  "margin_votes": 63381,
+  "minister": false,
+  "mp_name": "Shri Jai Parkash",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 49715603,
+  "mplads_unspent": 97284397,
+  "mplads_utilisation_pct": 33.8,
+  "mplads_works_completed": 59,
+  "mplads_works_recommended": 387,
+  "mpsno": 3289,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-26T20:46:44.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Jai Parkash (J P) S/O Harikesh , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWENnbXNLVmc4SDhfR1ZMSXBpdXVhY3pvUGFyUlNfUFk1eTdJY05aQVVrekhIOW5iak9ldHlZVmVxbG1HTWpLVjF6TW1EaDVKRXUzWVVOb1lJa1BBbkNPUzd5WTVrS0ZyalU1ZXA3REVtTXRJTElFS2taZzRKZURIcE80ck5BeFNuMWhLQWxJRDBSUkRiVXN2LQ?oc=5"
+    },
+    {
+      "date": "2025-07-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hindustan Times",
+      "title": "MP report card: Curtailing debate in House undermines spirit of democracy: Jai Parkash | Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV3VabWpTVTVmZVZWOFJTeHNLclY2MDcyeWVUYUhldWFlWDNGdndMTDdXVlowSjdUR00wU01iTXZPd2VoOXZnX3RzNUxndE5za3JsdDNGbTZsNVAxTlZaX3RkbjM4TUN4bmZfbFJaSnQwbnExN25PZVJqYVlQS3N5NG9sdC1lM0pYVlpRWWtpbGpaRHF3VC02NFBtWWxrN0Z4RkFJbURZQ3pSUXRaLTFQNzJMb2FETlpGZkZxZGpvZkY0YnRHV2lyVkpBOG4wSlpZQXE2Tk1sV0N4R0E0RXI2VXMyMGxSN1ZSTE5LUXQ4Tm_SAfYBQVVfeXFMTWpGUnFwQUc0T1FOUkJWS2R6Qm95ZENycXRTU1pMb3BzMmJEVGZQazU5VjNCX0hibk5EZjNHLXVSU0U1T3BYRFB1T0MyYzRBQWlST2pnSDZ6eVRwSGVDVkNWa1VjWGVMRU56em5tNkxxRDhNRm9CbnhnZ3BWa3cwYnJKaFlnMnlweUE0X2ZaNlo3TFgtU01IM1kxc2MwQ2IxUUFrY3JuQVptZi1zR0haa1dfQklSZFY4alJJR0ZyYWZDcWtjbVNMZ2VaSnAtcVA4LWMwdXRRQlktR0ZKSm1VQ0NfZW9tOFlkd0ZyX1p1TGlzVV9IWU9n?oc=5"
+    },
+    {
+      "date": "2024-10-09T17:26:29.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Jai Parkash:Net worth, age, assets , total Income , liabilities , criminal cases and other details IND.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZWFYYW95czQySVRrRDJNTFVjc20yNHBNN2M3LUgzZU1FenBEREhEOFl4Y3AzRzJRV3lDX2UxSHBtWmJSY0NCOVJiOXFhRy11UlVOdGdkeFozQnBVSDlBMXVrNmlPMjB4SUE3aG5KZEVRMnVCZm5XQ3lHUzhJOWM?oc=5"
+    },
+    {
+      "date": "2024-10-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Adampur Election Result 2024: Congress's Chander Parkash wins against BJP's Bhavya Bishnoi",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM1o0bnNxYjRHeW8wNEFTblJKb0l4SURwY1UwREdTOW1OY1MtblU5YjlXMW9TOWNrUU9wcko2cTh5aGttUVlZZjBjYVJaNW92WEFoTS1vSUdUMjZkRGZYNUQ4LVlsSzRSa29vOVpZYjhuRzJXUzJYUUQwam02cERYYkdNRGNUQzNxY0NMSVZEUncxOTZWWDF1SjFFQlp2ckxSZXREdl9hUXNmY0x1a2FnT0F5ckJ0N0RUVF9qNV9xUk10dm5MbjRFR29wak1LTlZDZnQxMWdXNHZmQlg2akZ0dm5xclNKRnZHS1B1a2lyXzktM2dDbWV30gH8AUFVX3lxTE83emhPd1VDQ1NzQm5fc2dSM3VtRTRkbnhoaVgtaXBiY2JhU3RKOHQwcDdpdVRDM2o3V01UazhyLXZrWFBsaGNmaG9kSmVGckpxY0xRbFBaMlRGcTdBcm9XNXRqV3lPRmlHcm5NUVh5WkpMMVQtSUtfV09kNDVBenpTa3Z5SzVPc2d0QUtxdDZWTTVWRTFHemFMZHhWajF5aEJqS2tldVhtdHpwRG5JWXhvcjZZNk45R2JnTzhoN1dNOHZiQm9KazBJOTlOTGIzZ25uYi1EcC1aLWJtN1hGVHNnRnBNNVdoa0hqRXdUQmZqa0dpX1RMaVJPcENjUA?oc=5"
+    },
+    {
+      "date": "2024-09-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Congress’s Hisar MP Jai Parkash gets women panel's notice",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFBCTlAxWjh1a2xIQzVleEI2QnN6Q2VjMlN0T0JrSW9aSlVTZ1RPb2cySnAzaDFYQmFqc05PcHFoMXhIVUYwTmZOb01GblRYUHZjU0RtQzgxZ2hodHMtSlVfb2NzMzVkTUdLWmxZX2Zhc1poejlBOVhxQlcyS19Wc0RIM0xUZFZWOE1NVGhFa1Fid3c0SGoxVXhPZGVvOTg?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3366,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "haryana-4",
+  "pc_name": "HISAR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180135.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to provide information about status and development of the Hisar Aviation Centre/ Airport in Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to start flight services from Hisar Airport, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.7,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 88,
+      "value": 44
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jai-parkash"
+  },
+  "qualification": "Under Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "RANJIT SINGH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 0,
+    "legislative": 25,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 14
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "extreme",
+  "total_assets": 68053567,
+  "total_liabilities": 13194392,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.58
+}

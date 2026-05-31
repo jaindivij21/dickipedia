@@ -1,0 +1,381 @@
+{
+  "accountability_score": 50,
+  "age": 55,
+  "assets_2019": 707774495,
+  "assets_2024": 714454357,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 359310000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 193975520
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 30780400
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8020000
+      },
+      {
+        "category": "Others",
+        "value": 9555000
+      }
+    ],
+    "immovable_total": 601640920,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 637299
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6242285
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 51985
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 212510
+      },
+      {
+        "category": "LIC Policy No 92094xxxxx 1,00,000 1 Lacs+ LIC Policy No 86444xxxxx/2008 1,00,000",
+        "value": 6800000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 32526042
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 29949505
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5277900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 31215911
+      }
+    ],
+    "movable_total": 112913437
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=c9Yhp52fCp5PA9QEBRuM",
+      "total_assets": 707774495,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3666",
+      "total_assets": 714454357,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1,
+  "assets_latest": 714454357,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kalaben Mohanbhai Delkar is an Indian politician and a Member of Parliament from Dadra and Nagar Haveli parliamentary constituency in the Union Territory of Dadra and Nagar Haveli and Daman and Diu. She is a member of the Bharatiya Janata Party. She is the first woman Member of Parliament from Dadra and Nagar Haveli.",
+    "title": "Kalaben Delkar",
+    "url": "https://en.wikipedia.org/wiki/Kalaben_Delkar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": null,
+    "emails": [],
+    "phones": [],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 9,
+  "dob": "21/08/1971",
+  "eci_state": "Dadra & Nagar Haveli and Daman & Diu",
+  "email": "kalamohandelkar[at]gmail[dot]com,kalamohan[dot]delkar[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 7892980,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 8433050,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 6137860,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 9218050,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 13001800,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 84000,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 84000,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 77000,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 85551,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 57289,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business Income, Rent Income and Bank Interest, Salary from Parliament, Govt of India"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1830106
+      },
+      {
+        "category": "Jayaben S. Patel 1,30,000 1 Lacs+ Shankarbhai J. Patel 11,05,000 11 Lacs+ Sitabe",
+        "value": 12685000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Income Tax Demand Subject to Rectification 13,24,320 13 Lacs+",
+        "value": 1324320
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 15839426
+  },
+  "margin_votes": 57584,
+  "minister": false,
+  "mp_name": "Smt. Delkar Kalaben Mohanbhai",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 39,
+  "mpsno": 5536,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dadra & Nagar Haveli (ST) election results 2024 live updates: BJP's Delkar Kalaben Mohanbhai vs Congress'",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPRWdod2t5bU80R0YzRTdvcGZVRzRxT1JNX3c3ejJPbW9VMnpvQXVUNG12MTJ2QzltaXpKWTJORkFtUFNGQVI2LXlqT04wRnNRS0hRbUFESHVOVG8ta21uX3NYX2pTNzQ2NHI0SE9XWFhSZlJhT2xqaHdpVzVqMlNpMW5KN2R5ZFdXVkVwejlLUzM0elNYOHV6WVV6QjNqMDZTa2VYUWZ0dy1oYU9qLVRWd0VQRDczcnowLUo4XzB5bUdPY2hXY2NsRXFHenRYdUpld21WLUVrd2tGNnVtdEtaWGtscFM1SXBRQzJzLTJjNmNkd2t1Ni1udzhvM3JvS2VoZkY5clNKMkhoVmdSRlA3aXlDc3hTWE9mWkRqYUJZVm1qRHk4Ty1ZSGF2RlI0VlV3V19weE1WSG1mQk1aVE5lc1V5aThvdzFmZUZ6VV9sdDMtMFU4WHU2NXBTWk00dl9LMUJjM0p5OW43N1JsUWdB0gH0AkFVX3lxTE5OSU43b3pocFhjc1JkcGpoUENkWWNtanVZQVVGMk5IN3lHSVBhRXNQMnQycXMzckdoN29YMG1OSGgwT1F4b2dUazQtdnlKQ2NtUGF1QVBDV3kxejRXWFpMSE1zR1daendXSUtMOG1FeW9NLUp4MGFBVjl1VXNUXy1IeVdSUWlRNFFBeUVoSkt5OEFKVFBpM21rVnYzVElnSFRfQ0k4OGNIUUNlN0hNcU5fVklXbG55WjlKd0tvX3ZKbmFSbUJOanNTZER1eWhzVnFfR05HckF2ZVY5ZW9JQnZYRENJc3VZSHBZSkFVRnFUc05ienRtR24wdkx5aXppbVI0T19VcTFjMktJZEd5bURibmdyb1B5TFJJNklOQ1ZtZjljUS1RekJWeGVkbFROSU9XQnloNTB6TEVhUWdOclNMVkxsd2k1TXNzdS1qNEpUdHY4R0pNWmxvMzNzMkhFZTg0TFZub21NSHg2ZjZNam9QSFpRaQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Dadra and Nagar Haveli Lok Sabha Election Result 2024 Live Updates: BJP's Delkar Kalaben Mohanbhai Has Won This Seat",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVjBGUnZ0WmlCdjVQdmkwWEYyVGRLTDFaVERhbXdrdFVGTWg0dHA0WlVaTHhsNUVfUm9Nc2NEUjlpRVFVWWFYYmgzcXBJQWdDb3FLYXgyVXZ4UkRJRkctd0pHbDRiUWIwR2lJSWdoelJDUnJDUkpLSGQybDlrS3hpajExVjZnazJkOEMtWEtfU1ZialpRTE8tbjFFU0dKVkpHUndZMllvX3d6MUdybUVfdlFOV0JoNmRQYlZaa3NrRm03NWJnN0tieEdtd2h5cGMxNUQtanRLUVZMcy05UHQ4MS1naEzSAfIBQVVfeXFMTW40SExRcUlycklBRjJMYThMRi04d2E3bXpiZHp5eVdXVkdGdkhSWERrWmlsNVpNa19WTHBkVTJjYldWR0EzcC1GT0FqR2lUT1o0T0NKbmwwSy1xZ0Z0ZmFWcGI1OGJBZHprUlVmOHNHT09STFUxQ3VfZ0JwNmZvUHhUSURLN1YtQUdkbXYwekNIV2g0YmM0Ykx2eFpDbzJUMjN3eGg2VnhnQWhLSnB4NUNfbC0wVEE2NTI0UmYwVGVIVktPbVdPREpoZUxQcEtyWkJnQ01SQzhjdmp6MmtVcmxFeHVsdzBQNk53eW1PdHZXVmc?oc=5"
+    },
+    {
+      "date": "2024-05-27T15:11:25.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Delkar Kalaben Mohanbhai",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWN2bE5vYlJ4STBLZzUwN3Rwa3RhemZlQkpLUjdaQ2paQVl1MFBBaXZnRkpwZGRSaXU2NV80eVJuUHgzZE8tcE53QzNEalZkUWJqcW9VbDNVYTdvQy1aQXkydTlPcE9rT2k4Y3lPQTZLVm4yTF94cUY3eHVoc2pLYno1OGRQRGxtV0NvamRITHVsR1BSNU1nRFV1WTc0cEtxMm9TdzJQeWxQb1d2VExwVENHeGNQV05CVldIeWRYaXlvSVo5bzR6aXNqaXV4Tm81czZSVlF0V3BvMnM?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:40:51.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Delkar Kalaben Mohanbhai, Bjp Party, Dadra And Nagar Haveli, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMnV4SmtoaE5DRVlLZXdXaVdhbUN3cXB1M1JzMnV5V2ZBd0lfRzRrOFlmSmFGUnRrT0pzNTRHVG1vaVBCdG8xeWdXOHNFYklic29mN1BRdWZqczBpYWc3cUJncGNJLUw3STVlQUZ2QUkxeUo0Y2lWd1FnRjVNQll0U1hwajJDX0VtLVhUejA3YkxZeEhtRXQtU216Uk5hc09BN04yOUFmZGttbTlVc1Z1dHlLTmJ2LVBXUm9Udk9NTkhicXBsRTk3azFSaXpMcU0yUzdXbV83NTZxVHVYWnh1VV94VnlrRG5pRHhGQzBNVlEtN1JaQXFoMWYwaklKZnVWZTJjX1BTd3U?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5151,
+  "notable_record": null,
+  "num_candidates": 5,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "dadra-nagar-haveli-and-daman-diu-2",
+  "pc_name": "Dadar & Nagar Haveli",
+  "pending_cases": 0,
+  "phone": "Tels: 011-23230102, 9825296076 (M)",
+  "photo_hotlink": "https://myneta.info/images_candidate/LokSabha2024/a9e421d511c2745be959fc43545c36c583529586.jpg",
+  "photo_source": "myneta",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political Activist",
+  "profile_url": "",
+  "prs_detail": null,
+  "qualification": "Graduate",
+  "questions": 58,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 4,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Corporate Affairs": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 4,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 2,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Panchayati Raj": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 3,
+    "Science And Technology": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 3,
+    "Tourism": 2,
+    "Women And Child Development": 7,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "ST",
+  "runner_up_name": "AJIT RAMJIBHAI MAHALA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 48,
+    "criminal_deduction": 0,
+    "legislative": 80,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 714454357,
+  "total_liabilities": 15839426,
+  "wealth_pct_increase": 1,
+  "winner_vote_share": 58.89
+}

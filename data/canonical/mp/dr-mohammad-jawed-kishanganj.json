@@ -1,0 +1,631 @@
+{
+  "accountability_score": 91,
+  "age": 63,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 20500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 15000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 16000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 34500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 86000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 750000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6410573
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 46674111
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 598425
+      },
+      {
+        "category": "SBI Life Policy No. 2Y754814604 12,00,000 12 Lacs+",
+        "value": 2100000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3150000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 992833
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 13000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 73675943
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PKwbxggWkcJMskeNEuSP",
+      "total_assets": 90973803,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2240",
+      "total_assets": 159675943,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 76,
+  "assets_latest": 159675943,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mohammad Jawed is an Indian politician, doctor and Member of Parliament, Lok Sabha. He has been elected to the Lok Sabha two times from Kishanganj constituency in the 2019 Indian general election and 2024 Indian general election as member of the Indian National Congress. He is a Whip of Congress Party in Lok Sabha.",
+    "title": "Mohammad Jawed",
+    "url": "https://en.wikipedia.org/wiki/Mohammad_Jawed"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Goabari P.O. Azadnagar Chatargach Kishanganj Bihar, 855117",
+    "emails": [
+      "drmdjawaid@gmail.com",
+      "mohammad.jawed@mpls.sansad.in"
+    ],
+    "phones": [
+      "6456222170",
+      "9471007070",
+      "9810807186",
+      "1121400582"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/drmdjawaidmp/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/DrMdJawaid1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/drmohmmadjawaid/?locale=id&hl=ar"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "Azad Rice and Oil Mill",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 16,
+  "dob": "17/06/1963",
+  "eci_state": "Bihar",
+  "email": "drmdjawaid[at]gmail[dot]com,mohammad[dot]jawed[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3477196,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2834502,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2541801,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3167858,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2167099,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2523150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1744942,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1692625,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1730163,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1613121,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Salary and Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Website Money, Agriculture and Rent"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 122000
+      },
+      {
+        "category": "Loan From Mother 82,10,000 82 Lacs+ Advance From Shop at PM Mall Patna 3,30,000 ",
+        "value": 16440000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 16562000
+  },
+  "margin_votes": 59692,
+  "minister": false,
+  "mp_name": "Dr. Mohammad Jawed",
+  "mplads_allocated": 148669229,
+  "mplads_expenditure": 83945400,
+  "mplads_unspent": 64723829,
+  "mplads_utilisation_pct": 56.5,
+  "mplads_works_completed": 116,
+  "mplads_works_recommended": 183,
+  "mpsno": 5216,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "Cong MP Jawed Writes To HM Shah Seeking Intervention In Uttam Nagar Incident",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGtpV2VROWNETl81aUl5Q1NrTk1fSFN5Q0dJUy1yc0xiWmx1UndrbTNJeVBFaU53dHhudDhuWXY1QXFtTC1rR1Q2QWs4THdPVmRreWFCX3RMMlcxdHRST1RaVkktRFAzR01QQmtEZE1HNGhYdkdsQzBTbWpEM1BaOEg4QTB0OTljVFp0RFROUEhMVFRzVF92T0p4aFV4cERfbmJyVGxocGRKY01oUFJybA?oc=5"
+    },
+    {
+      "date": "2025-05-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Bihar Elections 2025: Kishanganj Congress MP Mohammad Jawed Mistakenly Wears BJP Cap During Campaign (VIDEO)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLW9xc1hrVDJCeGdublRzaGRKcU05RWF1YXFnTnZ4d29rVjhQalBFV1ZsTXFkYUlZV1gyQVFuWDBpOGEwQnNFZUk3WTZCSkpkT0tIVDJ1R3NxM0p1MHFxRl94YTZtcHBUU3U1bDQxeTVDV2NmcU9PQVNSbzd4b3RONEtoZmk1VVZ3ZU05OG50YkdTbDVicXJZZXNjdmRkXzRJRU4taHpFQzktLU9qd1psY1p0QWxLT05ZNnJlY1UxMTVLbHl3RllLRWdMaVFma2E4eEJtTkNpaVFfUzTSAeABQVVfeXFMT1UtS3FWOU5PWGxFSDlXVmNzVHJtVmowQ3ZvNEk0MFF4VEI1b1VzU082bE1LVHZnTU9mb0ZEeVZDS0VNdWVBaWtzRG9fV1RCdnQzelktelkxV3k4UnEwTkJPMXFKSFZVaFNha3daVkFqdUxSYURUSmxub05RYUtWbFlwdDhkYTZZLWF2ejhCZlVCbFZGRGlfNk9Pem0wOU0tOWUzUU9SNUtWUW14M1VqSG9ITWthSjR0Y1Uzd0dROWI3a2xTcXhRVE80UTM4eVFFZGFpdDFkckV5dlRHVFJYV3Q?oc=5"
+    },
+    {
+      "date": "2024-06-22T16:39:34.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Mohammad Jawed , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmVzV2ZlREhWYUlNXzk2T2tWNzVaWTFReTFGaDBIaHBnams5N19fSDVUQ3VqeXN6RGM2Y1l1S0pUOW00ODZtLW91cUVUYnZYY3gtVUJhT2hzd3FVUzRzRU9nT3BxeXFleFhrSGhfbUI3VHRyaVF4dlJ0U2IyVDlkRkdNR2V2dw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kishanganj election results 2024 live updates: Congress's Mohammad Jawed wins defeating JD(U)'s Mujahid A",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTERHRHVFeC1ZcnFuVjNVa0JTUnJuSy1XbkxKcjY5ODNkVzRvZndKaE1HU1N4SWpQdW5rd25UbWtRMExLY09QcEZRNDkxX0xiUVpNaGN5djZFdlNUWHZzcTNMWjBZSGZMNUlEbGtQYnhLSVlhTlFVUkZCeHRVZWptY3ZxakFWenplWnM2N0Z4TmF1czNWaWstZTc5QUFWTmlZNGNQZElmQjJJZWJQSjNlVGdOWlBrc0p5TDJkOXByUzdaMkNCUXpzYnVxVGZnZVV2bTRwdkNjY1MzTXFycmpqVlhWbTF0dE41YXA2QmRUbUtlV240SlRqNzVhWmEtMFdRZVRjTWdvRkdsX2t5dlHSAZMCQVVfeXFMT3lxMEtlTTZzZXJ6WU93SkcxY0RPTW5WSUQ2UzBkREEtZVJ1WFVhUUFmenc3VWtRM2FNUEI1bWluYWdYTW4xX1NycHh2aFo1cmZwZFBGNVBqOWNfODI5eEVrdEkwdFFwc0ZiUGFLZkx6TlZ6YXNqOFhhY25IZFVWWUhwazJ4OVNxN0s5cURjd3BUNUdwTndNMERTcThKWEtjMmZxSzVZMm5uV3J5YjRZYmRpMFMtQzNBV3JDWk11SUVCb3VnZ1NQM25kNGFmaGRHaUREUHZXbVVjYzhPdzVQcXpVbElyMmh6a2REaFBBNU4tSWFqM3puOUk0THBpYUlrenVZblVUMXNvMFdCUUU2cXNFUm8?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Kishanganj Election Result 2024 Live Updates: Congress' Mohammad Jawed Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYUpycVpTc0FadVl2ZVNmYzFxM2ZyNUk0aGdhYjVKUDBSZXRJdzRjUUczSzZCWkRaNnVVNXFOM3NnWG9vNG0wOEdsakJZc243WlJiMllpZ3BUNmFhcnk3Mm1iNkNCOWQwbW1OV3NOZXVTZEU2cVZHdmdJd3hVUHNOYzJKV1ZVNk1wcUt0LUJ4R0xOUUlrRmNfWGFTVE16X1lraUd0bkwyZVBIY3pGR3otcWxIUjFfazdzcC1nOEJhZ3ZSQ1HSAdABQVVfeXFMTi1rcmVMUnNkMGRhaUdzVDY4TmZVQTlDemJBU014OHRZcUFKTVZockgwLUtEQ3VNMnNCcjZkdERlLW9BWDdtYTk5dGFjTktGSjRPWng5ZFVvU25PTVlaZ2FPTm5ocFhzNUlHNGZ6cFFWNGxVUlc1cEVJUzJDd0FFbEtUVDVZRkhjNjNGSU5DclNpbllBbGRDWjNmTThHbWNKUUtWVENKdWUtT2h1TGx1U3NSVE56d2dtSHN5d2NCZ1gzZF9FaGY5UEVPdHhYdER0Qw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 24966,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "bihar-10",
+  "pc_name": "Kishanganj",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 21400582/95, 23782568, 09471007070 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180061.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need for comprehensive measures to control erosion of river banks in Kishanganj district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to establish a Cancer Care Centre at Kishanganj district hospital in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to issue fresh DPR and expedite completion of Jalalgarh-Kishanganj New Rail Line Project in Seemanchal region in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Stop Acquisition of Farmers� Land for Camps and Provide Alternative Sites Away from Residential Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding need for environmental clearance on construction work in Aligarh Muslim University Centre at Kishanganj, Bihar including filling up of sanctioned posts in the institute through AMARTH portal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Extension of Deadline for Property Registration to Ensure Nationwide Compliance",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to lift the ban imposed by NGT",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Stop Harassment of Bengali-speaking Migrant Workers and Targeting of Minorities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to expedite clearance to construction work of Kishangnj Centre of Aligarh Muslim University, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to declare Jalalgarh-Kishanganj Rail line Project as a National Security Project and expedite its completion",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Construction of Embankments and Establishment of Seemanchal Flood Task Force",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding need to release funds allocated to Aligarh Muslim University (AMU) Centre in Kishanganj, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Demand to include Surjapuri community in the Central OBC List and request for implementation of special welfare schemes targeting education, employment, financial support for Surjapuri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to release funds and recruit staff in Kishanganj Centre of Aligarh Muslim University in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urgent request for clean water provision and establishment of medical facilities in Kishanganj, Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding illegal encroachments on the floodplains of Ramzan River in Kishnganj Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. a central govt. funded mega food park should be establish in kishanganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need for establishment of a health and research institute like AIIMS in Kishanganj, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt provide 25 thousand crore rupees annually so that concrete walls can be built on both the banks of the river, boulder pitching can be done",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding review and beautification of Ramzan River in Kishangaj, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 41
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 124
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mohammad-jawed"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Earth Sciences": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Mines": 1,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MUJAHID ALAM",
+  "runner_up_party": "JD(U)",
+  "score_breakdown": {
+    "base": 89,
+    "criminal_deduction": 0,
+    "legislative": 82,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": null,
+  "total_assets": 159675943,
+  "total_liabilities": 16562000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 35
+}

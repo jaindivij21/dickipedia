@@ -1,0 +1,804 @@
+{
+  "accountability_score": 62,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1151280
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 15468371
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 20468437
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 37088088,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 35000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 13670558
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 8000000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Pubilc Provident Fund State Bank Of India Vikorli Mumbai 25,19,353 25 Lacs+",
+        "value": 5307201
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 12074509
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 673300
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 39760568
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bZAE7iPFJGNnJhMKmi9b",
+      "total_assets": 6176718,
+      "year": 2009
+    },
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bZAE7iPFJGNnJhMKmi9b",
+      "total_assets": 22426813,
+      "year": 2014
+    },
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bZAE7iPFJGNnJhMKmi9b",
+      "total_assets": 48153719,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7096",
+      "total_assets": 76848656,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1144,
+  "assets_latest": 76848656,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Eknath Mahadev Gaikwad was an Indian politician from the Indian National Congress (INC) political party. He was a member of the 15th Lok Sabha and the 14th Lok Sabha of India. He died from COVID-19 in 2021.",
+    "title": "Eknath Gaikwad",
+    "url": "https://en.wikipedia.org/wiki/Eknath_Gaikwad"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "405, C Wind Gold Field, Girnar Tower, Sant Rohidas Marg, Kala Killa Dharavi Mumbai, Maharashtra, 400017",
+    "emails": [
+      "gaikwad.varsha3@gmail.com",
+      "gaikwad.varsha3@mpls.sansad.in"
+    ],
+    "phones": [
+      "7738223345",
+      "9619222594"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/VarshaEGaikwadOfficial"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/VarshaGaikwadOfficial"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/varshaeknathgaikwad"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 7,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 7,
+    "ipc_summary": [
+      {
+        "count": 5,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 4,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 3,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "104/2024, Azad Maidan Police Station",
+        "other_acts": "Section 37(3), 135 M.P. Act",
+        "sections": [
+          "143",
+          "145",
+          "149",
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "160/2023, Azad Maidan Police Station",
+        "other_acts": "Section 37(3), 135 Maharashtra Police Act",
+        "sections": [
+          "143",
+          "145"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "285/2023, Azad Maidan Police Station",
+        "other_acts": "Section 37(3), 135 M.P. Act",
+        "sections": [
+          "143",
+          "145",
+          "341",
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "6998/PC/2023",
+        "charges_framed": true,
+        "court": "Additional Metropolitan Magistrate 60th Court, Kurla",
+        "fir_no": "259/2023, Chunabhatti Police Station",
+        "other_acts": "Section 37(1)(A), 134 M.P. Act",
+        "sections": [
+          "143",
+          "145",
+          "341",
+          "188"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "334/2022, Bandra Police Station",
+        "other_acts": "Section 37(1)(3) M.P. Act, Section 4, 25 Arms Act",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "243/2016, Azad Maidan Police Station",
+        "other_acts": "Section 34(1)(d)(e), 135 MP Act",
+        "sections": [
+          "143",
+          "341"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "13/2016, Azad Maidan Police Station",
+        "other_acts": "Section 37(1)(e),135 M.P. Act",
+        "sections": [],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "03/02/1975",
+  "eci_state": "Maharashtra",
+  "email": "gaikwad[dot]varsha3[at]gmail[dot]com,gaikwad[dot]varsha3[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4583920,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3767530,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3393520,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2484430,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2259021,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 7281530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2837710,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 484220,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1257240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2181874,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business, Salary, Rent"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹61.8 L (2009) to ₹7.68 Cr (2024).",
+      "headline": "Declared assets grew 1,144% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 6176718,
+        "from_year": 2009,
+        "pct": 1144,
+        "to": 76848656,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Shri Raju Babu Ghodse 80,00,000 80 Lacs+",
+        "value": 10160000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10160000
+  },
+  "margin_votes": 16514,
+  "minister": false,
+  "mp_name": "Prof. Varsha Eknath Gaikwad",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 83571759,
+  "mplads_unspent": 63428241,
+  "mplads_utilisation_pct": 56.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 57,
+  "mpsno": 5754,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-02-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Court dismisses plea challenging Congress MP Varsha Gaikwad's Lok Sabha win",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOFRPT1o3UEtBaVd4TERneUZ2M09kbzhYcGY0TnhHRVlPM0Y4MDlRSTNRb0lqZ01oZlc3RElKUzZaVTVteWJkWGktRl95X0M3WnZULWZwWnFqZWI5bTVyeVdzUUhNZ3V3S1B3Vkk3LTF2SjFVX2xLZWM5NkxNT0dTazltdUFmRHlvQk5ZUVc0ZVlHRk9NNEhtTGNLcWhaa2RyWXgzVDFLTjdUdU8xWGtvU1FRcEt1WlZNeENEODh1UGM3Q1ZtVUg1eEVsenNHX2pPbXFsOTNUTGRKRkRNTGxRMUg4QWNFV1otd3oyaGp0bnBDUdIB9wFBVV95cUxPaFpVVlgwT0hBbjFFVnRxbVBFX2FVLW8wVE5XV05MYnlXdkk0QkF3TjRSWlZQMnBTQ1ZoNVdaZjhZVkJsM0g1Ti1YUE5fOURZOGJPR1ZqU1VYQ0plRWxuVWFKNTgzZlp3N1ozbDNpd2lOclhjNW04Sm1RZTU5NWUwak1ZNmExSW5HMm9SNkF3LTBqem1YZ2hCdjJnVWRCWUd2UFdfWDVDc3BOQ2x4VFhjTm9lUlhZeFZTVVE3X0dvRE1JLWtXdGlwWi1PSHJldnhod01yOU5SQVFjRXAxVW5iaFAxNjF4U20teE1qTkFCazQyRGJ3NDl3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ummid.com",
+      "title": "Mumbai North Central LS Election Result 2024 Live: Varsha Gaikwad defeats Ujwal Nikam",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmt1dnFFRWdFblpIOWpncFJZZV9sODMtQV9QNm5nQTluVkxsaDM2OWJUbWtMWFBmZlZRdllELW9SWXQ0TmtfaGVYajRMbDcxQzlTZzJvc2FTR1IyR2xZMC1JLWZoakNJMkItbjVleE9mX1VKNWhVSW5ZdThTNmdocUE3Z3lPeUJfUDY0cWVhOGM5dmU4cnhJdnBOMFFsMDA0WllUUVp2WEZSZmMzdWdYNmMzeks5c0g3aTQ4?oc=5"
+    },
+    {
+      "date": "2024-05-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "In Mumbai's North Central seat, BJP's Ujjwal Nikam, Congress' Varsha Eknath Gaikwad seek to turn caste matrix in their favour",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORmFCMjhXV3U4V09wNkYxYnNGNzhYTHRLZHFpQmVvOWxrTEM2aHdkX25DMUU0b25qYUVXVGZvMi00X3dYZk56VncyaFlGaTJtb3ZybU0yd1FTWktBQlJWQzVuN1R4NUJ6cGNPWURZMS1IRkM4NGF3Y2c0MF9nRlUzZFA0dEE3NHVpMkZlYmhwOThVNEVJTUtJbWZZeExsNjFNYk1XWjdUSEo3TkF1QUlkM0U5R0s1elVzY2ROcnU1NmpjLVYtRmdkcVpCRW9BTnQyMXN6R0Z4a2RtMnIzMkNxYUJTSlllbjVIUVBTOFBkTUFTTDYzQnBtbjNlVEt5ZU1aRHJVUEJNQW9BbkRiWmlDMktR?oc=5"
+    }
+  ],
+  "non_serious_cases": 7,
+  "nota_gt_margin": false,
+  "nota_votes": 9749,
+  "notable_record": null,
+  "num_candidates": 27,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-29",
+  "pc_name": "Mumbai North Central",
+  "pending_cases": 7,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180263.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Professor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Urgent Need for Redevelopment of Koliwadas and Gaothans in Mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need for issuance of NOC from Ministry of Defence for rehabilitation of Slum-dwellers on Defence land in Santacruz (East) in Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Fair and In-situ Rehabilitation of Residents under the Dharavi Redevelopment Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Need for Rehabilitation of Slum Dwellers Along Railway Land in Mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to increase the height of girders for metro line above the Halav bridge in Kurla in Mumbai North Central Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to ensure uniform implementation of the Street Vendors Act, 2014 in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding appropriate measure to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Immediate Correction of Errors and Removal of Duplicate Names in the Mumbai Municipal Corporation Voter List",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to implement measures to combat air pollution in Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Review Metro Station Naming Policy and Resolve Connectivity Issues on Mumbai Metro Aqua Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding alleged irregularities in Municipal Corporation of Mumbai and other Government establishments",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to review the fee structure of Indian Institute of Management and provide fee concession to students belonging to Economically Weaker Sections",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of railway accidents and failure of safety system Kavach",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need to ban online gaming",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Demand for Legal Safeguards Against Diversion of SC/ST Sub-Plan Budget Allocations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Action on Mismanagement and Exploitative Practices of Torrent Power Company in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Inclusion of Koliwadas and Gaonthaans in Mumbai Development Plan and Protection from Slum Rehabilitation Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to provide free education up to class 12th to children belonging to EWS Category",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Transfer of Bodh Gaya Mahavihara Management to the Buddhist Community",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to demolish dilapidated building of Railway department in Sabale Nagar, Kurla East, Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Transfer the Management of the Mahabodhi Temple to the Buddhist Community by Repealing the Mahabodhi Mahavihara Act, 1949",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Reduce GST on Footwear and Leather Products to Support Small Artisans and Traders",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "need to issue NOC from Ministry of Defence to facilitate redevelopment works in Vandre East-Assembly segment in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Reinstating Senior Citizens' Fare Discount on Trains for Medical, Family, and Other Travel Purposes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding rehabilitation of people living on railway land in Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request for additional suburban trains on the occasion of Dr. B.R. Ambedkar's Mahaparinirvan Diwas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to set up International Financial Services Centre in Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to expedite reconstruction works of Sion Bridge in Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to review the funnel height policy to enable redevelopment projects coming under Airport Funnel Zone",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt that highest civilian award �Bharat Ratna� should be conferred upon Annabhau Sathe",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand to accord the classical language status to marathi language",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding utility of smart meters for Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 47
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 225
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gaikwad-varsha-eknath"
+  },
+  "qualification": "Post Graduate",
+  "questions": 66,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Atomic Energy": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 5,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 3,
+    "Labour And Employment": 3,
+    "Micro, Small And Medium Enterprises": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 4,
+    "Railways": 5,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Women And Child Development": 5,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ADV UJWAL NIKAM",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 80,
+    "criminal_deduction": 7,
+    "legislative": 90,
+    "mplads": 65,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 11
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 76848656,
+  "total_liabilities": 10160000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.93
+}

@@ -1,0 +1,565 @@
+{
+  "accountability_score": 28,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 21000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 37500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 55384059
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 0
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 113884059,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1705000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1104873
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 14595000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1688000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7600000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 26692873
+  },
+  "assets_earliest_year": 2008,
+  "assets_history": [
+    {
+      "label": "Rajasthan 2008",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=6yuuDLBh5NwCjdnWeo3",
+      "total_assets": 12678654,
+      "year": 2008
+    },
+    {
+      "label": "Rajasthan 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=6yuuDLBh5NwCjdnWeo3",
+      "total_assets": 63767751,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=409",
+      "total_assets": 137189112,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 982,
+  "assets_latest": 137189112,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kuldeep Indora is an Indian politician and a member of the Lok Sabha from the Ganganagar Lok Sabha constituency. He is a member of the Indian National Congress. In the 2024 general election of India, he defeated Priyanka Balan Meghwal of the Bharatiya Janata Party by 88,153 votes.",
+    "title": "Kuldeep Indora",
+    "url": "https://en.wikipedia.org/wiki/Kuldeep_Indora"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "20/100, MLA Quarters, Mansorovar, Jaipur, Rajasthan, 302020",
+    "emails": [
+      "kuldeepindora@gmai.com",
+      "kuldeep.indora@mpls.sansad.in"
+    ],
+    "phones": [
+      "9414064546",
+      "9461038303"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/kuldeep.indora.58"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/kuldipindorainc?lang=en"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/kuldeepindoracongress/p/C548S6JvfT7/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "30/10/1969",
+  "eci_state": "Rajasthan",
+  "email": "kuldeepindora[at]gmai[dot]com,kuldeep[dot]indora[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 315870,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 476450,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 568290,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 309330,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 545880,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 712110,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 484870,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 562750,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 414330,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 408550,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 304710,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 330270,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 240000,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "AGRICULTURAL ACTIVITY"
+      },
+      {
+        "person": "Spouse",
+        "source": "AGRICULTURAL ACTIVITY"
+      },
+      {
+        "person": "Dependent",
+        "source": "RENTAL/SALARY OF DEPENDENT NO.1 YOUGANSH INDORA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹12.45 Cr between affidavits, while declared income across 5 ITR years totalled ₹22.2 L.",
+      "headline": "Declared assets rose 56× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 124510458,
+        "declared_income": 2215820,
+        "itr_years": 5,
+        "ratio": 56
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹1.27 Cr (2008) to ₹13.72 Cr (2024).",
+      "headline": "Declared assets grew 982% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 12678654,
+        "from_year": 2008,
+        "pct": 982,
+        "to": 137189112,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹14.00 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 140006285,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 45517499
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 45517499
+  },
+  "margin_votes": 88153,
+  "minister": false,
+  "mp_name": "Shri Kuldeep Indora",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 6993715,
+  "mplads_unspent": 140006285,
+  "mplads_utilisation_pct": 4.8,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 72,
+  "mpsno": 5730,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ganganagar (SC) election results 2024: Congress's Kuldeep Indora secures win from Lok Sabha constituency",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTS1vcnM0MTVDOVdDR0lSMTNaSUdFeXNHUTdtUTVPT3FFNHZEOXVsaUZsV3VEVXc0YU5qci1rUU9hcjRpLTE0aGpRLURoTlJkS25uaHZIUmZ6Q25DQzFCRzkza3RzTkFoMWM5RExOeE1UcEdXQ1M3M2hleXo0WkljcGZ2MlVrUVh4RWk5NTN0Z3kySU5tUHVwY2tZY1cyU3ByNVgwSzhRS1dlVW9WY1VudG85TWdTWXd0dXZIXy1ienBHa193ZE9udTZHOWRaWkVTaUc0VmdYa3lWZk9FSXM3cFllQVdpY3lGMUhUcnU2UEptb2JKR0J5alZabVBabFNpaTVfRDhWQTJrcHVnd0tjSDcxeXhUcW85T0VUX1hmLV84VXpGMXkyek8wU0VyMjhMcU5NaE05RVV1bkJLN1J3c2RPXzB5ajlpSXR0VkM4V0NwQTTSAdgCQVVfeXFMTUhBM2VseWdnQTJDVGlScXAyXzNZcUtTdnpmdktKZlVGZC12dGlkREdCb0phd3F0WTdrRklzTVFVZDBGUmJxNjIxMFBlQ0UxaDg0ZkM2WjBGWXRuYWRHcEZyNjZ0Qk44dVZQYnFhVTFMTG9ITHlDOWJBck80SjY5NERfYkowanVtX3J0LVljbnlIQko4cnJWUmlTakZDZHNGemE0VUx3TVFPdnNoNS1vUFRZejdabzFwYlh1OHlUZEVqRVZaTXhOQ0FlZUVQRnpQbFI4WFo1bWtNT3NxcG5QUnBaVHBySEVmRXFvSldqNXlfenJFNnhfMGNSNG5YbVdiNjkwMFpxa0dyVFMxR1pOblRKWFlBWkx2X1owNEY5SGtQeHM2WE1QdUx6U2ZxdE1UOE9JYW9uSXNzVW96T2FiZ0dWX0NqS1h6SHZFZEFvbXBkVWFZSXVsTG0?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Ganganagar Election Result 2024 LIVE Updates Highlights: Kuldeep Indora of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdnN0ZnFZUjZBT2xrNXZHWGNHLUNzY245eWtkZFc0aWhKYnhtTzdGU0FfRlU0V1AtTXgxSmQwbExUR2tuS3h5RFFTMzdoM3Nmc0lhOUttaDJraUMyODFVUmhwZk5Kb1duczRnQlZ1Q1JsSWlpaWd5MkVKUFNEZmxoV000Y2R1Q3MzOUdQbkFucnVnQ3JETHVvUE5uX0hVcTg2Z25YQXFldnIwcWQzeWNJSFJNNnV5cERMLS0tdms2bllTcHluRUZLZUNKUDZaOGI0dGJiNDhBVGVsS0MzdUpWdk9DSzJ1UdIB6wFBVV95cUxQWlJaV0NHUGhIOE9YQk5XOXU2MXdRbXhaZGx3MkhXVVJuQ2NEeWpOT0FCbGlVbm4waUZwZ0RhWTZ5VnZ0MGtIWWdUUmlydVJCUHpJNlpfYXZIRElwWGU0Ty1oeUNVY25xWS1wTnBqdzZqdGlmMmtzakVtX2UyUXpZVXVJeEJ5aDQ2U0xqajI4dWtiUk9uajVsc2x6WUhlWEhWcVBKMmF3Nk5NaG1GTi1HNEZtV09fVkVQUDhoYXJvMmxmMVhZMmdVY2xpS1B5VzlORTZHZTBlWkFZdWVqN2xoWlByanBpdnU1NHRV?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13095,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "rajasthan-1",
+  "pc_name": "GANGANAGAR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180345.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Regularization of Settlements on Forest Land in Hanumangarh and Sri Ganganagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to include Rajasthani language in the Eighth Schedule to the Constitution of India",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Separate Drinking Water Pipeline from River and Canal Systems.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need issuance of ST certificate to people belonging to Dhanka Community in Sriganganagar district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to provide alternative land to farmers of Sriganganagar district, Rajasthan whose agricultural land fall beyond the border fencing",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Immediate Halt to the Hanumangarh Ethanol Project Due to Environmental and Agricultural Concerns",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to extend Jabalpur-Hazrat Nizamuddin Sridhaam superfast express Train No. 12191/12192 to Sri Ganganagar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Anti-Drone Technology and Coordinated Measures to Prevent Arms and Drug Smuggling in Rajasthan-Punjab Border Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to ensure minimum 150 days of employment with Rs. 500 per day wages under MGNREGS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Strict Action Against Drone-Based Smuggling and Restoration of Border Development Schemes in Sri Ganganagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to extend benefits of Government schemes to families of freedom fighters",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Timely Payment and Increase in Wages for MGNREGA Workers in Ganganagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt provide clean drinking water in ganganagar district",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 116
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kuldeep-indora"
+  },
+  "qualification": "Post Graduate",
+  "questions": 27,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Social Justice And Empowerment": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "PRIYANKA BALAN MEGHWAL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 9
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 137189112,
+  "total_liabilities": 17537144,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.4
+}

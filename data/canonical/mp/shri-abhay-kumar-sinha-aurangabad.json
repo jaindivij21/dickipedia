@@ -1,0 +1,945 @@
+{
+  "accountability_score": 34,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 73050000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 30000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 103050000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 180000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 72529
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1330160
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3021900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 64000
+      }
+    ],
+    "movable_total": 4668589
+  },
+  "assets_earliest_year": 2015,
+  "assets_history": [
+    {
+      "label": "Bihar 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=uEP66SuGsgW8Q68hQzi",
+      "total_assets": 19857947,
+      "year": 2015
+    },
+    {
+      "label": "Bihar 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=uEP66SuGsgW8Q68hQzi",
+      "total_assets": 28400999,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1702",
+      "total_assets": 107718589,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 442,
+  "assets_latest": 107718589,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anant Kumar Singh, also known as Chhote Sarkar, is an Indian politician who has served, and is currently serving, as MLA from Mokama Assembly Constituency in the Bihar Legislative Assembly. In 2020, he left the Janata Dal (United) party after nearly 15 years to join the Rashtriya Janata Dal, but later rejoined the Janata Dal (United) in 2025 to contest Mokama in the most recent state election. According to his election affidavit of 2020, he is facing 38 criminal charges including 7 murders, 11 attempt-to-murder and 4 cases of kidnapping.",
+    "title": "Anant Kumar Singh",
+    "url": "https://en.wikipedia.org/wiki/Anant_Kumar_Singh"
+  },
+  "charges_framed_count": 11,
+  "committees": null,
+  "contact": {
+    "address": "Kujapi Chandauti Gaya Bihar, 823002",
+    "emails": [
+      "kumarabhay2244@gmail.com",
+      "abhaykumar.sinha@mpls.sansad.in"
+    ],
+    "phones": [
+      "9199242301",
+      "9934400809"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 16,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 16,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 13,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Candidate, Electoral right defined",
+        "section": "171A"
+      },
+      {
+        "count": 2,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Abettor present when offence is committed",
+        "section": "114"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Gr.No. 4653/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "312/15, Civil Lines Police Station, Gaya",
+        "other_acts": "Section 5/4 PP Act.",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4689/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "318/15, Civil Lines Police Station, Gaya",
+        "other_acts": "Section 127(A) RP Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4697/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "380/15, Kotwali Police Station , Gaya",
+        "other_acts": "Section 3/4 D P P Act.",
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4698/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "381/15, Kotwali Police Station , Gaya",
+        "other_acts": "Section 127(A), 3(B) R.P ACt",
+        "sections": [
+          "188"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4657/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "217/15, Rampur Police Staion Gaya",
+        "other_acts": "Section 127(A), 3(B) R.P ACt",
+        "sections": [
+          "188"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4752/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "220/15, Rampur Police Staion Gaya",
+        "other_acts": "Section 127(A) RP Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4714/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "178/15, Police Station Delha",
+        "other_acts": "Section 127(A) RP Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4715/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "179/15, Police Station Delha",
+        "other_acts": "Section 127(A) RP Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4675/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "92/15, Police Sation Vishnupad Gaya",
+        "other_acts": "Section 3/4 D PP Act.",
+        "sections": [
+          "188"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4721/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "363/15, Tekari Police Station, Gaya",
+        "other_acts": "Section 3/4 SB Act.",
+        "sections": [
+          "171A",
+          "427"
+        ],
+        "serial": 10,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4725/15",
+        "charges_framed": false,
+        "court": "A.C.J.M-VIII, Gaya",
+        "fir_no": "367/15, Tekari Police Station, Gaya",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171A"
+        ],
+        "serial": 11,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 5417/15",
+        "charges_framed": false,
+        "court": "A.C.J.M-VI, Gaya",
+        "fir_no": "414/15, Tekari Police Station, Gaya",
+        "other_acts": "Section 126 R.P ACt",
+        "sections": [
+          "188"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 1360/10",
+        "charges_framed": false,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "134/10, Kotwali Police Station , Gaya",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "427",
+          "114"
+        ],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 4817/15",
+        "charges_framed": true,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "391/15, Wajirganj Police Station , Gaya",
+        "other_acts": "Section 3 P.P Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "Gr. No. 5340/20",
+        "charges_framed": false,
+        "court": "A.C.J.M-1, Gaya",
+        "fir_no": "333/20, Belaganj Police Station , Gaya",
+        "other_acts": "Section 123 R.P. Act.",
+        "sections": [
+          "171F",
+          "153A",
+          "505(I)(B)"
+        ],
+        "serial": 15,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Cr. No. 769/24",
+        "charges_framed": false,
+        "court": "C.J.M Aurangabad",
+        "fir_no": "237/24, Nagar Police Staion Auraangabad",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 16,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "05/06/1972",
+  "eci_state": "Bihar",
+  "email": "kumarabhay2244[at]gmail[dot]com,abhaykumar[dot]sinha[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1257480,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1056070,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 982140,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1056130,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 885970,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 889220,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 866340,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1009600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 529600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 521250,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension (EX MLA)"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹1.99 Cr (2015) to ₹10.77 Cr (2024).",
+      "headline": "Declared assets grew 442% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 19857947,
+        "from_year": 2015,
+        "pct": 442,
+        "to": 107718589,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹8.79 Cr between affidavits, while declared income across 5 ITR years totalled ₹52.4 L.",
+      "headline": "Declared assets rose 17× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 87860642,
+        "declared_income": 5237790,
+        "itr_years": 5,
+        "ratio": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "11 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 11,
+        "convicted": 0,
+        "pending": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 41% of MPLADS local-area funds were spent — ₹8.75 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 87468872,
+        "utilisation_pct": 41
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 47801483
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 47801483
+  },
+  "margin_votes": 79111,
+  "minister": false,
+  "mp_name": "Shri Abhay Kumar Sinha",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 59531128,
+  "mplads_unspent": 87468872,
+  "mplads_utilisation_pct": 40.5,
+  "mplads_works_completed": 124,
+  "mplads_works_recommended": 232,
+  "mpsno": 5646,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-02T22:37:13.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Abhay Kumar Sinha , RJD candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHVXaEZJSkprb3VWT0p0UzFYRExySzVwRzdSb2VBNWpNaTdPdjk4bnN6NkpiZjh3el9oYzlTbWh4RFBmNy1KeXk3YmhGaXBPVVZDS0xPcjVub0RqZldhTWt5X2RQUk4tbFE1a3hSMU0taWctZ3BWUUFVeDFzTlM2dVV3b0VabThZWUE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Aurangabad election results 2024 live updates: RJD's Abhay Kumar Sinha secures victory",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPa2lsWjNmcEpkdjZqb3N5QWxGTXItcC1XclJkX1lqQUgzdFJGVENwbG00VHQ4MWlpT2V3dmYybDQydUY2dk93cGtzZVVyU0JWdHpEdktoRE43RVNDOGdQQjdxYUdDNld2MEFpOGlNOGVzRGVNUGhQRGlpX3BfTDRrX290bkh1MWRZR0dKM0lmVHBYby1PRk1pMnVCeG43eTBxLWVYanpRSG9DQktnVWZFRDh5cDcxMGRBZmJEeWxEVmtUT2xoREtaU3N2QmlPVEN4OTdlbFpjVnZBQ213MWpDN2N0N25VbVU0WFVjaWlNTEJFOHBVbnNOWnMwN20tMHhyX0gtRTBjWmd1amM3ME11TXI5aEk1ckJRanZiODJJYk9uYm1wcEpYYk5mWDB2X0FoRk8zdtIBugJBVV95cUxOT1ZUSGcwUlRybW9XeFVoYTFmdktGRHVyLUtHc3QwZUhlbWdkamt0cjF6a2swcVFiQXNkTTNvYmxfTl9jMS0ya1lUR0d1d1pHazczSzdhVmt3Q0ZsUFRCVnBMV3dHTXhlZDlhQnlOMXRoWXFOUmlVbnRnTjBHUE50bWpxRVVZNEpwSEhmbDF0NlIzTHlEZjFFR1ZRZUhscmZyWmxWLVZPanRMLVVib0RfMVpQUHlGZzZ6SU9XT0hGa0t2a2RJVXVYYTRrLTRXSDFuajE0MWEzRUJkMEg4cjJNUDVYNzA0V3RxTUlYR2V2ZGF2MHhaeDZCN2hIdzF0R0dNRjFUMndtaktOU1JkX2dCZGdjdjI2RUprMGQxck1GVWIxNGpXZFc5amRhUXRZZV80VDJEc2otaWY0Zw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Aurangabad Election Result 2024 LIVE Updates Highlights: Abhay Kumar Sinha of RJD Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVVVLMXdFcFV6Y3pLaXA3dVRXZXNONVg5QWpnNWk1MzdUQUZ0dXl5SDExMGpXVjJtUDR5ZWtsUVp1MEJuQm9qazgzeWx1ckVwXzJtNVM2azFsa2M5TFFYcWx2SnowbFJibW0xVHNBV09aOG5GV1RQbjlidmI3X0Z6WHBqbG5fTnZfZkVwNE1CUjRhVXpMRzZNakd3VVFZOUw3TW14TENRajYwREQzcWVsTTNRckVna3QtNGFXQXpmZkRVUGRERE9XdEZWVERVTmlibjRIWnVxSUhwOS11aHdaRjRNbERQQdIB6wFBVV95cUxPdzVxdDVRdFBTWjQ3TnZHSkFWUEItVXFPRXNlOFVMeEg4cC1HNHVCa0EzWEwwTXQ2ZkVoeFRVbzJmelJqWkpGZGpfTGhCREN6Y1V5d2dMc3VpcEU3OGxKNTJ5Vi1ndzZLY1ZyVlZwaGlwQk5YYTl1eWlhSkY3cWgxQjZtNFRhcnVYSFkzc1RjNGNScGE3eERCUlFiQWNiUFBrb0R1WHBuWWU1ZTluR3lXcXFQX0JybmxHanRsNnU1aUoyVW40Z2JaT2p4c1hHWDZmM21icV9zandzcGNKbzRHYzhkZnAtMUVUX0VR?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:22:23.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Abhay Kumar Sinha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEdHVUNBdGtNOVZweXllaDZYR3BsX2hOZDdJeHpUN1UtOG94bnJrRkZQMjJMRklfM3MxTmhvYVY4OV94MW1QYzdYd0ZOczNDUDk5SDNUSm1xMTBLS0VlZlhCVHBvUklTam1hNldOZWFfcFFsX1I2NEpzN1Bsc1MwejhURHh3elRKYThkUlUyUXdtSEEwUkdWV2JpWldCT1dzRHJmY1E4LVZkUlpuNzlTa2lOdHhfWHUtd1E?oc=5"
+    },
+    {
+      "date": "2024-04-19T17:19:54.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Abhay Kumar Sinha, Rjd Party, Aurangabad, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOampqTUI3VThkVkVuSVBtaS0wbTRKXzdyejFwZndPVXMwUW9Galk0dHVPbTJXc0ZrS3FtZm5DXzRFUDBFOWpPbkdGQ1J5a2k4X0ZWUkRmS2tMTDlIT19KallPSG1vY2Q0SGFiQTlUZzU2ZjZFNGVEZi15T2Q5S2dNQzVOZFBRTlg1YUdCQXVlMnFzX0ZqbndZYmJJWFhRLU1EOGQ3VGhGWkxLa1RkMEJkVUh6Vi1SdGVqSmJ3bnZKNkpJRUNDMW9sZ1plMkdqMGtRTGd6bDFucURRZXVlSGc?oc=5"
+    }
+  ],
+  "non_serious_cases": 13,
+  "nota_gt_margin": false,
+  "nota_votes": 22627,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "RASHTRIYA JANATA DAL",
+  "party_bond_total": 10000000,
+  "party_full": "Rashtriya Janata Dal",
+  "pc_id": "bihar-37",
+  "pc_name": "Aurangabad",
+  "pending_cases": 16,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180043.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Return of Investors� Money Deposited in Sahara and Other Chit Fund Companies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Railway Connectivity to Historic Deo Temple and Additional Train Stoppages in Aurangabad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding installation of mobile telecommunication towers in Aurangabad Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to increase the honorarium of cooks engaged under Mid-day Meal Scheme and provide other social security benefits to them",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to declare SH-69 in Bihar as a National Highway and to accord approval for expansion of NH-139 into a four-lane Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Urgent Completion and Funding Support for the North Koel Reservoir Irrigation Project in Bihar and Jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Independent Audit and Immediate Rectification of Irregularities in the Jal Jeevan Mission (Har Ghar Nal Jal Yojana)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Special Package and Strengthening of Schools in Landless and Underdeveloped Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to confer Bharat Ratna on Jagdev Prasad who laid down his life fighting for the rights of depressed classes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for stoppage of vande bharat train in Aurangabad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Rename Paraiya Railway Station in Honour of Martyr Subedar Santosh Kumar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Statutory Resolution on the proclamation of the President�s Rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to declare and observe holiday on 14th April on the occasion of Ashoka Jayanti and rename the Central University of South Bihar as �Samrat Ashoka Central University�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Establishment of Urdu Language Departments in Sounth Bihar Central Universities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Loan Waiver and Direct Financial Assistance to Farmers Facing Economic Crisis",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to ensure expeditious disposal of insurance claims of victims of road accidents",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to provide stoppage of train No. 13151/52 at Paraiya Railway Station and extend the train No. 12836 upto Gaya in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding request to complete the pending projects of North koel reservoir project, Mandal Dam project etc.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding sanction of a dedicated entry and exit point at Mithaki Mahua in Gaya District under Bharatmala Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Discussion on India's preparedness for upcoming Olympic Games",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 49
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 44
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/abhay-kumar-sinha"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 3,
+    "Railways": 4,
+    "Road Transport And Highways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SUSHIL KUMAR SINGH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 63,
+    "criminal_deduction": 26,
+    "legislative": 50,
+    "mplads": 84,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 3
+  },
+  "serious_cases": 3,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 107718589,
+  "total_liabilities": 47801483,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.22
+}

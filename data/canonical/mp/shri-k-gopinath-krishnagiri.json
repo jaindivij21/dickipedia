@@ -1,0 +1,441 @@
+{
+  "accountability_score": 36,
+  "age": 64,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 101000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 6500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 108500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 4000000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": null
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 9805500
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1100000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 14905500
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "Tamil Nadu 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ALqo4C3Ennj2ZcHCBXzP",
+      "total_assets": 38342706,
+      "year": 2011
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1531",
+      "total_assets": 123405500,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 222,
+  "assets_latest": 123405500,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "K. Gopinath is an Indian politician and was elected in 2011 as a member of the Tamil Nadu Legislative Assembly from Hosur constituency. As a candidate of Indian National Congress, he was previously elected to the Assembly from the Hosur constituency in the 2001 and 2006 elections.",
+    "title": "K. Gopinath",
+    "url": "https://en.wikipedia.org/wiki/K._Gopinath"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "10B, Singaravelu Mudaliar Street, Hosur, Tamil Nadu, 635109",
+    "emails": [
+      "k.gopinath005@yahoo.com",
+      "k.gopinath005@mpls.sansad.in"
+    ],
+    "phones": [
+      "9865275975"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/KGopinath09/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/i/flow/login?redirect_after_login=%2FKGopinath09"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/kgopinath09/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "19/11/1962",
+  "eci_state": "Tamil Nadu",
+  "email": "k[dot]gopinath005[at]yahoo[dot]com,k[dot]gopinath005[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2020-2021",
+        "income": 1710320,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1539930,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1870990,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 394380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 494240,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 704942,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹8.51 Cr between affidavits, while declared income across 3 ITR years totalled ₹51.2 L.",
+      "headline": "Declared assets rose 17× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 85062794,
+        "declared_income": 5121240,
+        "itr_years": 3,
+        "ratio": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹11.95 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 119457529,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹3.83 Cr (2011) to ₹12.34 Cr (2024).",
+      "headline": "Declared assets grew 222% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 38342706,
+        "from_year": 2011,
+        "pct": 222,
+        "to": 123405500,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9632682
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "18,34,140 18 Lacs+",
+        "value": 1865400
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 92700000
+      }
+    ],
+    "total": 104198082
+  },
+  "margin_votes": 192486,
+  "minister": false,
+  "mp_name": "Shri K Gopinath",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 27542471,
+  "mplads_unspent": 119457529,
+  "mplads_utilisation_pct": 18.7,
+  "mplads_works_completed": 5,
+  "mplads_works_recommended": 118,
+  "mpsno": 5718,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Krishnagiri election results 2024 live updates: INC's Gopinath K wins",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbWhoZGVSNVpfZWVoRjNEN0l0NmJDdU5fWEhWWWlyZ2ozcWExZlBKVS1HRmhpN1phZnpiaVhQYlprU0dZUUNkdTBhWDNyakQ4bTFfV2JoUjdrUkhpNHpzcHVjM0dQSDhaZko5Z25yeHZKdV9pbHd0NTU1cDYxMFN4OVFmT01wUHBuRWZ1OTJJa2NLd0ZrdV9LeEpnZVRubURwMTVkRHE5a0xRWTFVVFU4Mm1RNEFBTFc0ay1oQ2JEMm9EZXExZ2dCUWxUYXVzOVNQaXNpZXhHamxOZXNPOV8yOFpWNlVuTjNYWUNBY1RzR1k1YjZRcUR0bWhSUFVlOTBCcUpoTUhJeWNPSTRub0ZoU2VWWWdpdVlRNktZY2lIX0RvS1NCSkpPcGxDaG5EcTJhQU1EYThxWFNvb3IyekxRbkJBdV9qTHfSAcwCQVVfeXFMT3FqT3BTRUFHV0lMOWtHODB6Q3dXb1Iycklpb2pNZ3dvVUFiZFN3Z05xWEhXNEZFYk9xTkVvSXRrOU9HVGFlYnVFR2g4a2kxUmg3Y3BITVB4S3U3eGlhZHBYeC0wamZKSnl4YUVEY1NRQ2NEek5yVld1VlBMNkoyX0pXb1pLR2ljMUhoLVljX1JCZERuLWpMd3hmSnZSZGMwdXJPNENBUUROZTRURFNTWFJPd0hsYVg3S0toMUNOeF9BR2ltZnlHTDdEaEFiQnZoMFhXNlFHbDB1a0F1OXhTcnZ5LTVjU0VBZUI5OTRfVDhDaFBkWEtwYzJNWVYtd29RUmQwTjFWTmhSaWZZNFNXVnMxb053a2pfYWlHZVQ5RVFqSWVaOXFpYkM0WGgzemViOTVxcXAzTGktd3pMOHBmWnVOTEhFVHN2bjVGVW4?oc=5"
+    },
+    {
+      "date": "2024-04-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Can Former Three-Time MLA Congress' K Gopinath Retain Krishnagiri Constituency?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTJPQkN6Z2dBTE16SUV6X2NVQ0R2V25QbEVwdnczdXN1dl9IdC1QQVR6STdNY3pHa2NFeWdHdVNOTTNsY2JFVVNtcmFKRUxJMEkwSWcxdmVJNFEybmJvbXQ0X2JkSzBqbkNWU0l5U29qZ05LNnZaUVZSUlJsTWZRZGdvTDQxZDJMZURBTWk2alloY2NOTTdMYnQ5RzFRT09DUEs2alVaa09zT0xySG50MTlMaw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10982,
+  "notable_record": null,
+  "num_candidates": 27,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "tamil-nadu-9",
+  "pc_name": "KRISHNAGIRI",
+  "pending_cases": 0,
+  "phone": "Tel :09865275975 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180370.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Transport",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 75
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Request to Ensure Farmers� Consent and Adequate Compensation for Land Acquisition in Krishnagiri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for a New Railway Line Between Bangalore and Jolarpettai via Hosur and Krishnagiri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 6
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 57
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gopinath-k"
+  },
+  "qualification": "Graduate",
+  "questions": 31,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 2,
+    "Civil Aviation": 2,
+    "Coal": 3,
+    "Education": 4,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 2,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "JAYAPRAKASH V",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 0,
+    "legislative": 43,
+    "mplads": 25,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 123405500,
+  "total_liabilities": 11498082,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 42.27
+}

@@ -1,0 +1,567 @@
+{
+  "accountability_score": 67,
+  "age": 42,
+  "assets_2019": 5261775,
+  "assets_2024": 12764194,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3900000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1134609
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1194262
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 50000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 139577
+      },
+      {
+        "category": "LIC 1,05,141 1 Lacs+",
+        "value": 210742
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 925000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 110000
+      }
+    ],
+    "movable_total": 3764194
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=2EbKzKrMzGWiMSMD4bQ",
+      "total_assets": 5261775,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7846",
+      "total_assets": 12764194,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 143,
+  "assets_latest": 12764194,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sunil Kumar is an Indian politician and former IPS officer. He is currently serving as the Rural Works Minister of Bihar. He previously served as Minister of Education Department, Minister of Science & Technology, Technical Education Department and Minister of Higher Education Department in Government of Bihar. He is elected as Member of Bihar Legislative Assembly from Bhore. He also served as SSP for Patna district for more than 6 years from 1997. In 2020 he retired as the Director General-cum-Managing Director, Bihar Police Building Construction Corporation, after that he joined Janata Dal (United), political party. He did MA in History from St Stephen's College New Delhi in 1984.",
+    "title": "Sunil Kumar (born 1960)",
+    "url": "https://en.wikipedia.org/wiki/Sunil_Kumar_(born_1960)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Pakaria Tola Bahoranpur, Pakaria, Majharia Kisun West Champaran Bihar, 845459",
+    "emails": [
+      "sunilkumar7jul@gmail.com",
+      "sunilkumar.7jul@mpls.sansad.in"
+    ],
+    "phones": [
+      "9431212725",
+      "9934791716"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.faceboom.com/Sunilkkushwahamp"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/sunilkushwahamp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "07/07/1984",
+  "eci_state": "Bihar",
+  "email": "Sunilkumar7jul[at]gmail[dot]com,sunilkumar[dot]7jul[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1058100,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1050000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 596090,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 341910,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 304440,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 390700,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 465830,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 347640,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 242670,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹52.6 L (2019) to ₹1.28 Cr (2024).",
+      "headline": "Declared assets grew 143% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5261775,
+        "from_year": 2019,
+        "pct": 143,
+        "to": 12764194,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 41% of MPLADS local-area funds were spent — ₹8.70 Cr unspent.",
+      "headline": "59% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 87031381,
+        "utilisation_pct": 41
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6502981
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6502981
+  },
+  "margin_votes": 98675,
+  "minister": false,
+  "mp_name": "Shri Sunil Kumar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 59968619,
+  "mplads_unspent": 87031381,
+  "mplads_utilisation_pct": 40.8,
+  "mplads_works_completed": 68,
+  "mplads_works_recommended": 169,
+  "mpsno": 5530,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-15T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "financialexpress.com",
+      "title": "Sitamarhi Election Result : Sunil Kumar Pintu wins Assembly Election",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZG9GOGRya2F0M3pNblJxbDhnWXVweXdsOGdEV3ZQVGNzUDVNNUNpUXZNZlNDWl9DNFN4TTdjbnpyQzhGbkJBZDFJaS01SXZ2NU05UFJFSHhiY2taaHBYMDFObVVhTFloQnk1ZFBYYVRoRjVxWkJJc2pMLUc5aHMxbU9XQURwendjbnk3NnFMbk1HN0FyY25hZXR4RmhiUlRHRjBwYVR2RHgzZEZ5LWlqYllhaHBMbVc2Zkx5aFdtRVFYakMxWmZnQW4wN2s2ZTRCSG5laWxZMHFoaXFWVDhSOTB6Q3ctWjhKdFRPOVl1VlV3RzljRUlMcUFMQjRBQWROYmxOM3pxRTBMVGJ2Ti11bm5RVdIBmgJBVV95cUxOTS1nQzRfT1YzSHQ1dnlUVkJ2NFZHQmxIRHlsNmlpdVRJSVgtdjltdmxTcllpN1VmWTlWaVJzRzNIMVlJUy02bHpvOFh4S2xUTS1nZFk2SFhfMWl6WEg3eGFDanhtQkJrbXJhS3I5LWhIckdHOXdldVQ2R2N3a1lOUWNpeWFCOTJwM0RxQVpvd2I5Y21HMjVHeFd0dVR6T2dVcDctd2FoNTNwczJPeXFYNFNnZFRJVERnX3RBel9CWE9WejFGVmJKZkxtQnBSVHZDUS1pYUZfbXNxOVpCcm1iNTI3cVNsT3Y5MW5ROXI0bElXemxDT0hFQXFvQWxBMGl4dVdoYUM4aXB0bkJJckxnUDBJUU5OdGdRU2c?oc=5"
+    },
+    {
+      "date": "2025-11-06T22:37:27.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Sunil Kumar is contesting from the SITAMARHI constituency",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUYtSXhzQ0xRRk9ENVJIdGQ4ZGlNcFk5ejRCUThJNE9FdEhSOHREanBTM09zWFZTaEM3V285cjc0SFVLaDdyYXBEU3o3WlhFc1B2S0o1NV9wMkxjMXpMMnhMd3ptbmJRbkZBOFhDY3MyNGNNT1FRWW9kRnQyRnJORllDTQ?oc=5"
+    },
+    {
+      "date": "2025-11-06T03:31:52.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Sunil Kumar Performance in Bihar Assembly Elections 2025 : Result, Vote Margins & Live Trends",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTV9HRVRDZkJmLVlOU1dDM3FiQ29KQ0tiVGtzYnNGbDZfVGVOUEw4NE9XdzRCWVJlYXNCakpqUExmU2pYRHZwNTNLbUsyeW5TYks1YkFtMkU4UVU1eUpCVDlnRkktblM2blktZ2F4MmVwdFpYUFI5UjZYeGxxa252VE5URWo0TTFRekVTQU9PVW5xUE9GNEx4djJNdDdCRk1zbzJBLUlQcUhpcGNveUE?oc=5"
+    },
+    {
+      "date": "2025-08-06T17:58:19.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sunil Kumar , JD(U) candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2lVMnByTzIxYjF0Nk96d0FqRVlpYWxROVpPd3NsVXZ6Q19mc2RBZVphblBINDBHZEg5ekg1UXc2VHNFTFRpQnZwN01sc1BqdGxPelpEWURabjRjY2RxSGdWY3M5S1lheHA1bFBxM0hucHlKci04UVBRVVhtOFc1S2h3?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Valmiki Nagar election results 2024 live updates: JD(U)'s Sunil Kumar wins",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRXdGZEJfN3ZhVjJBTFdoSjN1M2tuSmNqTTBOMTdvV2ZjWnZYME9xTmpMYnpIS2pNclZlamlDR2lLdnBLb2o4N1M4aGFrYnI4WWk2RDBIdF9WOTZDRWtyNVNHcEQxWEp0Y1JpMi05dnhmUC1oeFZ5bXA1bkU3NEpkVlJkeDZ1SmVoNnZPWEhSVVBoNmNqbklGODhyT1J4U2VhTGhZVG1sS09uMnkyRWFTSFFlSU13TGV1cjc1WFZoVXVESmt2TU13OS1XQUQwLVozUUZBUksxVVpjbGJLUlBTT2wxbV83YmtHZ0RnRHhrbThKTzJMdlp3eTA1VmlRRk5ocmtEdmlxYnV1WDFyaTMyZ0wwVHk2dy1OdUtXLXI3RTN6UdIBpwJBVV95cUxOZk5Bbkp0djlLQmxHVDdWQl9hTDhhR0dSenlYVXBMOVdyVkNKWHZKRWQza1o4ZThTOG5XS1pObFpVdHNxd2lrWXAybDRseW1xVlVvMVctQlBvZ3lETEJXVXlTSDRSNFJQNFNwNXZvVVpJQmxNWkdKcjk4VzJqQUVhbWxZQUY2NHgyak5pZkpkOHVTbkp2MWhVLUdmUlhBdTRDR1lrWlVWWE5YX1EzMldUdmpaLUZnNlA3UGFHcjlKTWV0Y0RYODBhSmRYdDA3cTBZNDZHNzVDbWU5aDZpVFNyQy0zVVloNUtWR09XeDRzV1FOX2UwdHBpNnhDVXRWSmx4SmJ0aDRLUkNiMTJZeTN5b3VpRl9QTTY3cmdXeklLNm1DTWRBaTlz?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 30709,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "JD(U)",
+  "party_bond_total": 435000000,
+  "party_full": "Janata Dal  (United)",
+  "pc_id": "bihar-1",
+  "pc_name": "Valmiki Nagar",
+  "pending_cases": 0,
+  "phone": "9431212725 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180077.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Issue related to non-implementation of assurance regarding the Gandak River bridge project between Shastri Nagar and Belivanya, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Financial Incentives for Girl Students Scoring Above 75% in Board Examinations.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding discharge of effluents by sugar mills into rivers in Valmiki Nagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to establish a Sainik School in Narkatiaganj in Valmiki Nagar parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding construction of roads under Pradhan Mantri Gram Sadak Yojana in Valmiki Nagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to expedite construction of proposed Belwania bridge between Bihar and Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to declare Samrat Ashoka�s birthday as national holiday",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding illegal encroachment on land under Valmiki Nagar Tiger Reserve in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding need to extend the benefit of �Rashtriya Chhatravriti Yojana� to the students of Government Degree College, Bagaha in Valmikinagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need to promote production of Jaggery (Gur) in Valmikinagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to declare the birthday of King Ashoka as the National festival and declare the day as national holiday",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Inclusion of Bhojpuri Language in the Eighth Schedule of the Constitution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to restart operation of train Nos. 03219/03220",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to establish a Handicraft Training Institute at Harnatand in Valmikinagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to rehabilitate people displaced due to floods and erosion and presently residing on railway land in Valmiki Nagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to establish a �Champaran Sangrahalay� in Lauria in Valmikinagar Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding construction of Nawalpur � Ratwal National Highway Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 29
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 111
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sunil-kumar"
+  },
+  "qualification": "Graduate",
+  "questions": 24,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 2,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 5,
+    "Rural Development": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DEEPAK YADAV",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 65,
+    "criminal_deduction": 0,
+    "legislative": 59,
+    "mplads": 75,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 12764194,
+  "total_liabilities": 6502981,
+  "wealth_pct_increase": 143,
+  "winner_vote_share": 47.5
+}

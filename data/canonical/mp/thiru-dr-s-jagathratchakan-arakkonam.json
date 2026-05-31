@@ -1,0 +1,515 @@
+{
+  "accountability_score": 34,
+  "age": 78,
+  "assets_2019": 1146984897,
+  "assets_2024": 534587828,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 39524846
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 10552916
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 298983416
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 41816666
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 390877846,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 421200
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 13685306
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 127747143
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1331333
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 525000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 143709982
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vbtjW4GHjSumRactr2yo",
+      "total_assets": 1146984897,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=533",
+      "total_assets": 534587828,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": -53,
+  "assets_latest": 534587828,
+  "attendance_pct": 25,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "1 First Main Road, Kasthuribai Nagar, Adyar Chennai Tamil Nadu, 600020",
+    "emails": [
+      "jagatarakkonamdmk@gmail.com",
+      "arakkonammp2019@gmail.com",
+      "arakkonammp.2019@mpls.sansad.in"
+    ],
+    "phones": [
+      "4424913113",
+      "9962059260",
+      "9952977777",
+      "0448228776",
+      "9840779246",
+      "9013447479"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 2,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of record of court or of public register, etc.",
+        "section": "466"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for forgery",
+        "section": "465"
+      },
+      {
+        "count": 2,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "The jurisdictional Magistrate is Judicial Magistrate Court Chengalpet No.1",
+        "fir_no": "3/2016 CBCID -HQRS Head Quarter Chennai (This FIR has been quashed by the Honble High Court in Crl.O.P.No.12986 of 2020 vide order dated 23-09-2022)- As against the quashing of FIR, the Defacto Complainant filed SLP before the Supreme Court, wherein leave",
+        "other_acts": null,
+        "sections": [
+          "420",
+          "465",
+          "467",
+          "468",
+          "471",
+          "120B"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "The jurisdictional Magistrate is Judicial Magistrate Court Chengalpet No.1",
+        "fir_no": "2/2016 CBCID- HQRS- Head Quarter Chennai (This FIR has been quashed by the Honble High Court in Crl.O.P.No.12985 of 2020 vide order dated 23-09-2022) As against the quashing of FIR, the Defacto Complainant filed SLP before the Supreme Court, wherein leave",
+        "other_acts": null,
+        "sections": [
+          "420",
+          "465",
+          "466",
+          "467",
+          "468",
+          "471",
+          "120B"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "06/02/1948",
+  "eci_state": "Tamil Nadu",
+  "email": "jagatarakkonamdmk[at]gmail[dot]com,arakkonammp2019[at]gmail[dot]com,arakkonammp[dot]2019[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4562880,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4250690,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4302220,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6051230,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2796707,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4013900,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 21505250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 18850862,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary and Rental Income through Commercial building letout"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Attended 25% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 2% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 25,
+        "percentile": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 18% of MPLADS local-area funds were spent — ₹14.84 Cr unspent.",
+      "headline": "82% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 148404857,
+        "utilisation_pct": 18
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6495000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Disputed Demand Appeal was Filed before the Commissioner of Income Tax Appeal on",
+        "value": 72670968
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6567670968
+  },
+  "margin_votes": 306559,
+  "minister": false,
+  "mp_name": "Thiru Dr. S Jagathratchakan",
+  "mplads_allocated": 180589332,
+  "mplads_expenditure": 32184475,
+  "mplads_unspent": 148404857,
+  "mplads_utilisation_pct": 17.8,
+  "mplads_works_completed": 12,
+  "mplads_works_recommended": 148,
+  "mpsno": 157,
+  "myneta_serious": true,
+  "news": [],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12613,
+  "notable_record": null,
+  "num_candidates": 26,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-7",
+  "pc_name": "ARAKKONAM",
+  "pending_cases": 2,
+  "phone": "Tel: 9013447479",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180383.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 43
+    },
+    "debate_titles": [
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to provide financial assistance to set up a dedicated cancer hospital or District Cancer Centre in Ranipet district of Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to take steps to address the problems being faced by handloom weavers in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need for stoppage of Vande Bharat Express at Arakkonam Railway Junction in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to allocate 5% of the total amount earmarked as capital expenditure to Tamil Nadu for development of railway infrastructure in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 8
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 141
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/s-jagathrakshakan"
+  },
+  "qualification": "Doctorate",
+  "questions": 46,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Atomic Energy": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 3,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Defence": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 5,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "New And Renewable Energy": 1,
+    "Power": 2,
+    "Prime Minister": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Space": 1,
+    "Tourism": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "L VIJAYAN",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 38,
+    "criminal_deduction": 12,
+    "legislative": 45,
+    "mplads": 27,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 5,
+  "top_inference_severity": "flag",
+  "total_assets": 534587828,
+  "total_liabilities": 6495000000,
+  "wealth_pct_increase": -53,
+  "winner_vote_share": 48.39
+}

@@ -1,0 +1,713 @@
+{
+  "accountability_score": 35,
+  "age": 74,
+  "assets_2019": 12502009,
+  "assets_2024": 24936775,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4200000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 16500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 20700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 23000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1903003
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 839772
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 300000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 651000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 520000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 4236775
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Zr8hmwGE9DXmMabUzn5",
+      "total_assets": 12502009,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1855",
+      "total_assets": 24936775,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 99,
+  "assets_latest": 24936775,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "M. K. Raghavan is an Indian politician. He is a Member of Lok Sabha and a Secretary of Congress Parliamentary Party.",
+    "title": "M. K. Raghavan",
+    "url": "https://en.wikipedia.org/wiki/M._K._Raghavan"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "Ashoka, Madhuravanam Road, PO Civil Station Kozhikode Kerala, 673020",
+    "emails": [
+      "mk.raghavan@mpls.sansad.in",
+      "calicutmp@yahoo.co.in",
+      "calicutmp@yahoo.in"
+    ],
+    "phones": [
+      "4952376622",
+      "9446063011",
+      "4952376611",
+      "9013180178",
+      "1123795391",
+      "9873511142"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Undue influence at elections",
+        "section": "171C"
+      },
+      {
+        "count": 1,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 2,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Public nuisance",
+        "section": "268"
+      },
+      {
+        "count": 1,
+        "description": "Continuance of nuisance after injunction to discontinue",
+        "section": "291"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      },
+      {
+        "count": 1,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "414/2019, Nadakav Police Station",
+        "other_acts": "Section- 13(1)(a) of Prevention of Corruption Act 1988",
+        "sections": [
+          "171C"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "ST.1787/2020",
+        "charges_framed": true,
+        "court": "JFCM IV Kozhikode",
+        "fir_no": "1425/2020, Nadakav Police Station",
+        "other_acts": "Section- 4(2)(d) R/W 5,4(2)e R/W 3 (e) of KEDO 2020",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "269",
+          "336",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 474/2023",
+        "charges_framed": true,
+        "court": "JFCM I Kozhikode",
+        "fir_no": "788/2022, Town Police Station",
+        "other_acts": "Section- 77(b) 121 of KP Act",
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "283",
+          "290",
+          "291",
+          "149"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "186/2019, Kannur Police Station",
+        "other_acts": null,
+        "sections": [
+          "409",
+          "420",
+          "268",
+          "471",
+          "120B"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 10,
+  "dob": "21/04/1952",
+  "eci_state": "Kerala",
+  "email": "mk[dot]raghavan[at]mpls[dot]sansad[dot]in,calicutmp[at]yahoo[dot]co[dot]in,calicutmp[at]yahoo[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1200000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1170000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 870000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1100000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1150000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 635252,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 606409,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 492050,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 541591,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 467726,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary(Member of Parliment)"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pensioner"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹14.44 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 144415638,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 0,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 8100000
+      },
+      {
+        "category": "Nil",
+        "value": 4500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 12600000
+  },
+  "margin_votes": 146176,
+  "minister": false,
+  "mp_name": "Shri M K Raghavan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 2584362,
+  "mplads_unspent": 144415638,
+  "mplads_utilisation_pct": 1.8,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 271,
+  "mpsno": 4560,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-04-22T22:02:47.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "MK Raghavan: A Stalwart of Kozhikode - The Journey of Congress Leader Through Resolute Politics and Public Service",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVkVqd2tEWkFUa0VHdUdNYi1RbldXeVprNkx5ajV6ZW1ud1o5eGhPc1U3dFJ6ZEdTQUFxM3k2Ukc1YmN1dGg3R3RNQjhwcGczLTJvNTUzWHJrU1luTk4xZGhod3o2b0JrX1lKYkFyWERWaFkyVENKaVdCUWF1QXRMamM1dnI0M0lxU2ZZNE1xS2M3Z2Rxb05XVFQ4RTVwTERpRUlJQXNuQTdMU2RKN2hnbnFQSmMxSkQyWlVFTWpsWXRFblpTWkFoU3NLU2NDMVo4MnQ2aG5HT0oxVWVYVXZWSEE4LUN6cUVTUkRzN3ZyYkItR3JGWDA4R2FSZUxuZ2xqZTFXbG1aMV9jVUFueExGZElMOVNMYmp0cHN4SkJUVmtramdpQWVCSmxiVVo0QThCalJDdUJfSV9TbkNG?oc=5"
+    },
+    {
+      "date": "2026-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kerala elections: Discussions on Congress CM face will only hurt party, says MP M K Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPejNid3V2d21McWZ4MmZZNmZ4dk95MnBFaHJPZHMyNW5qVEhVWC00VHd1VGxveU1yb1VhNGpYYjdqWU42aFBqTTJaQ29QRjVjODBidlMwOGd2aEh2OEpWQUpLT2ZFZE50UUZ2bGVsbUVRamhCd0hjdVBXTEYzX25wOExfRzJVLW5pd1Z3Vlk0U3lDblFYZjA1bWh3NHRXRFhqQmJqQkJEVFZyUnhwYzBPYmh5WHFqTVVHOEJnckt3YWRIVDJMOTY4dUJfdnJiOGlFMEFpYlVzM0ROVDkxekphZ2pUSzLSAeoBQVVfeXFMTXdhdFBlLWdQc2hfZEtBaElacnJZdTJYUHpoQTUzdktQTVAzZHFyWHp2d2o4VldOSWRiMTFjb0hVdUM3VU9TeGtLaEFrRGZnQXRsNm9zSk9ONzNnenk5eUVRSWpxUmF6NlVuRHR3RzlkQS1VV0hna1dZd2h5VnNrWkVkQkNmTnNrV095NVlLVDBDRDB6eVRvakplYnA2SlRQTFoxNC1PdVpIc2xfQ3hpNEF5aXlfWVNfazF4UWlncUE2V0pLZF8yYnREN3VUS2gxdy1CWWRoS0pDc1ljMXlWYzRyTUFhb0hxVmd3?oc=5"
+    },
+    {
+      "date": "2026-04-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "High command not behind call to keep MPs out of fray: Raghavan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm82aElqQ0tUWG1ROEU5ZFJEVnB6cFE4c1NMUm5WU0VZS3pEbWdac1lfcU5hTEpRUDhOTmVVRk1mdHUxQjdLeXRYVGJDaFo2cjEwVWJPQzktdS04U2lKaDZXOUM2SDRhOWE0VkF5VGJtX1NEZ3NieGdVU2xZWWVtRkpXV3U5MnJ1bmlJakNod0M4RkpmNVIwV25uV2hza3NrNHJhTHpXOXJ1V0NkNHJxa2F1NG9QQnVTeEJ0d9IBygFBVV95cUxOZDZmU05SWEJBT3VNRFlxYmo2Q2paUlFPVnZtMDNoSVdrY1RSdzRVajRMXy1EeGpGck9Ba0hsUHpzaHNJZ1hjcHFrUzZkaU0tbmRlVFFxcFhoTlJlazlMYjVTd1N3UkIyR3JHM1llZ0ZRczZ2Z1pYRXBVaHZXSjVjUlpYV29hZE1oN09LQkljOU1UR1FrQmdZSW5NRDNqMTBOV3A3Q0k2NkVVRHFPUnE3RDlKYVJrMlFjbk1ReW9TYkxhRGR3UVNSVmp3?oc=5"
+    },
+    {
+      "date": "2026-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kerala elections: Kozhikode MP M.K. Raghavan slams Congress leaders’ public spat over CM candidate",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFpIRlN0OUZrUVlrWUNhcjJkczdybElpd0dtUEY1amRmYmtHTDJOVFFURkJoaTk2QjRBYkVQTDNWMVZEal9oQUZYVnhYRWlGRDJhY3ZrVldheW9JNWMxdF9nVXdjN2NfZG14S1RDUjNheEhvUEI4Z1FGT08wYWxKQ1hJaXFHSTU4cHFyYWhmanpUdFpJTGJwV3VobzdVcVR4SU54d0pBd1haaU5WQUZzYzV0WGVNWndUeGJTazlVd3luWk53N1V4NXJDY1NoX01wU2dIQ0dQLVBJODF4bm9CUHFtMkhmUXdBVVI4X1NvUFdKZ9IB-AFBVV95cUxNQVJSazRlVmdFRVBpVmdYN2hBZHJpTUgzV3NDZ0hITzNNcUJPWmRsTUQtMnJVMXZBM0lhSEIxN1dPWEtTWUM3MVZYTlJzRGtqMjhxWHpQVVBfa09aT1V3VDdJWEhyVWpfQ1h5TktKVVgyaHBNOFdndTA0ZlljcmtieGJ4VXdtM3cxYmw3WDUweVJqd3ZzT2FJQjFjLVB0ajAyOXJ1b0Y2WkVJbi1kby0zUXJ2Nl9xME1JSkhTQUpCTTdZcVAyQTNCRy14cV9mMlRQN1ZDeVhzMDR5UVlqVU1WS3V2S19aY3JTVVVUd2RQa3FYa1ZyOGk4QQ?oc=5"
+    },
+    {
+      "date": "2026-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mathrubhumi English",
+      "title": "MK Raghavan criticises Congress factional fight over Kerala CM post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1BJSmJsUXBneE1mVlFkS2xsUTctRDhEelNOY3dmT0VWb0lhcEgwXzF6RGRheVJkV2Y0eUk2TDB0eGdoTE5VNWtUeFJvSWs3V0wyMERsaVhWeUZEUzJuSEo1MUNxLWRnSC1SQjNGUExabEZKRGMzdlBXTVVkc0g2VkwweF83cHZYb0F1YlJ6VEtWWDRxc3FneHdOb09ySmxnQlRqR3hxONIBrAFBVV95cUxNMUZkMHFpX1NCZHVscFlZZWpHN2VfV0JZaUppS0RjN2tMLVJXc2lnb05XbFplblBGMWhzUTJNc09rTXF5cUc3UU5tTXpuWk1SOE5WWjY5SzF6blROQUlrUEo3Z3hCNHBKVmMyR1FXTXJ3VDdPQXBsazhCNUs4U2l2MUxoSUF6U0NfLWpuTzZpeEpScGdxbXpXeFYwWmlDRGdDa21aME8xSmhOQmN2?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 6316,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-5",
+  "pc_name": "Kozhikode",
+  "pending_cases": 4,
+  "phone": "Telefax : (011) 23795391,  09873511142 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180203.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 73
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need for calculated measures to ensure uninterrupted supply of LPG across the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to expedite establishment of AIIMS at Kozhikode, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to abolish toll collection charges on NH66-Kozhikode bypass in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need for comprehensive measures to control stray dog menace in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to ensure scientific and technology based construction of 6-laning project on NH No. 66 in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to introduce new express trains including Vande Bharat Express train from Kerala to different major cities of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request for Review of Appointment Decision at NITC Due to Controversial Statement",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "need to address the grievances of ASHA workers of Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding need to expedite the process of setting up of AIIMS at Kozhikode, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for special train services connecting Northern Kerala with Chennai, Delhi, Bangalore, Trivandrum, and Mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the enhancement of the minimum pension under EPFO",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding setting up of AIIMS at Kozhikode and allocation of more funds under the National Health Mission to Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to minister to restore the old transfer policy immediately for admission in kendriya vidyalayas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt provide all the possible support to the waynad landslide affected people",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding setting up of an AIIMS at Calicut",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 25
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 137
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/m-k-raghavan"
+  },
+  "qualification": "Graduate",
+  "questions": 40,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 4,
+    "Commerce And Industry": 1,
+    "Communication": 2,
+    "Cooperation": 1,
+    "Culture": 1,
+    "Defence": 1,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 2,
+    "Finance": 2,
+    "Health And Family Welfare": 6,
+    "Housing And Urban Affairs": 1,
+    "Minority Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 2,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Statistics And Programme Implementation": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ELAMARAM KAREEM",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 43,
+    "criminal_deduction": 14,
+    "legislative": 69,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 2,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 24936775,
+  "total_liabilities": 12600000,
+  "wealth_pct_increase": 99,
+  "winner_vote_share": 47.74
+}

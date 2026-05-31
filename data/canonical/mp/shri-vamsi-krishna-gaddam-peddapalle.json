@@ -1,0 +1,491 @@
+{
+  "accountability_score": 27,
+  "age": 37,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 24287650
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 17417757
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 41705407,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 9327509
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 114076282
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Birla Sunlife Insurance Co Ltd 11,93,009 11 Lacs+ LIC Jeevan Anand 11,92,956 11 ",
+        "value": 3435965
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 68300000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4080000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 199369756
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5248",
+      "total_assets": 240976163,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 240976163,
+  "attendance_pct": 85,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "6-3-1238/A, Renuka Enclave Somajiguda, Hyderabad, Telangana, 500082",
+    "emails": [
+      "vamsi@visaka.in",
+      "vamsi.gaddam@mpls.sansad.in"
+    ],
+    "phones": [
+      "7337366637",
+      "8008292924"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/vkgaddamofficial/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/vkgaddam?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/kakavamsigaddam/"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://in.linkedin.com/in/vamsi-gaddam"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "10/02/1989",
+  "eci_state": "Telangana",
+  "email": "vamsi[at]visaka[dot]in,vamsi[dot]gaddam[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 58600019,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 50215148,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 19227890,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 34129080,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 31414220,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 241840,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 293380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1317550,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1270170,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1386667,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Teaching"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 10% of MPLADS local-area funds were spent — ₹13.35 Cr unspent.",
+      "headline": "90% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 133468326,
+        "utilisation_pct": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Visaka Thermal Power Pvt Ltd 17,76,000 17 Lacs+",
+        "value": 1776000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 27070
+      }
+    ],
+    "total": 1803070
+  },
+  "margin_votes": 131364,
+  "minister": false,
+  "mp_name": "Shri Vamsi Krishna Gaddam",
+  "mplads_allocated": 148451721,
+  "mplads_expenditure": 14983395,
+  "mplads_unspent": 133468326,
+  "mplads_utilisation_pct": 10.1,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 71,
+  "mpsno": 5771,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "Revive Ramagundam fertilisers factory or face protests, Peddapalli MP Vamsi Krishna warns Centre",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMThCUVM3eHZGYzBILUVXNzBpNzBGVEhmSkZTRUNjMTgxeEQxa0l4Ymprajc2cVBRSDlYbGtWRTFQa2p6cWVhZEltdWJXWHFuQnF2b3pPMTlUdXI0dFpfUjVnbGdwSDUtVHN2cXNianB4UTVWakVxNVlWbXRRbEI3QlBORzc4TnVKOWd4LW0xMEVndXhNMkdpT2ZYb2FpcjZoblFtQlNRdDAyRVgtdG1xbkstRXlHTVpQSlRBOVl1TDljdm9HaWhqRkdSb3g?oc=5"
+    },
+    {
+      "date": "2026-03-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "Peddapalli MP Vamsi Krishna slams Centre over Atomic Bill amendments, flags safety risks to India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0hndTJGWlpya0tPQm9ReF9jVEJZOUlDVy1oVnZWUTNyM3lOZ2NfOVlmUE5sT1h4UjJNN2xUdDlPNXJtYkpZbjJ6bHJEM0NCVjVWU2pvNE1VRU9yR3gxRTRlbVlYSHUydlQyaTBZdXd0LVlfV3lvQWg0NjJvUExsSjJCQ2lxdkNMM2J2Z3RZZ25TTG82X08ybXFySzNVRFBBbS1CRVdqNmtDX29kMFJOV0lvbElrTDVfM2ljWGlpSEpzM0pwOVVTSnFDb0dsWUdyTWE2R3V3alpueFE?oc=5"
+    },
+    {
+      "date": "2025-05-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The South First",
+      "title": "'Caste is more valuable than money': MP Gaddam Vamsi Krishna's post hints at discrimination during Pushkaralu festivities",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNalhKXzV5QmdDTlJ2M1VfeGEzMVBxbDRNbGN1YXZmVGdQd3hjRUpwTE9rbFZtRnB5UnY1d1R6Q2JycDdfMFB2aFRJdGJmZGp1T044OFl1Um9KWGNGNjczYlM5eldzSTRmWHM0Q29zMkdYZVd0eVFvNWVsUGpEYVBicWVyV2xwVTNYbEFzaHo4bWQzaGdPWWR6UllpM2FBWVR2Q3V6aHg4WDdwTGRvajVwbl9RX2Y2bHZPeHpIXzJrMUhXWWFqQWdFQ3dzUF9iV01HcHJrd3llQzNqc01pUzQyMWFKaHdaMG1zMXc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Lok Sabha Elections 2024: Vamsi Krishna Gaddam, Youngest Scion Of Gaddam Family, Wins In Peddapalli",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGNhVE9acmdXLUNhZWotMWkyQ0t4Q0t2SUpNNGFmVjFJc0xPQm5sZDdDcDVaUEQwc1hDZ2E1UmJYQ1JzQ0JuYXBYQ01wSGJUeko4RHJHcDhic1ZPSzQtM1p5aUxjNUdSLWp4cndHQnAwNmJfRU1EQlFNSFJER1FTV3NwdWx1NmVoVldvejNVTU9FZjR4R3FpN29hNUZfaXlpNWxibWtFTzM0bHF0MWJaaTYzeXJmVWZEcE9PQm5WdkhaaHktZHl1aTRiT0FBZEZJQ1ZWUdIB2gFBVV95cUxNV25ZMWNXdHBDM2RNY2JaYlZyb3hoQ1VDWFBqdk9zYWhLcng3YUY3LVZIZ2NYQjhDaVpCcUdadEpFQkI5SDlDRU1NUXdyTVZRMFFMSTQta1c0elYtUDlHZVQ4Wks3UWFjdDEyVVJhRlRaYkdJRWRzV1VCeXVJWElNZ3paSFpEZElUTk54VjBTT1VhZGYtS18wMEx0cDZTaTJwRldhNnlOYzlPdVluRm82RzY1M1FCaVNFRFRjazRBcUtFY3dMMF9XTE5XOWJPQnkyVzBuTmlnV294UQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Peddapalle (SC) election results 2024 live updates: Cong's Vamsi Krishna Gaddam wins",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxONzY0UlFLdkstRWlOTkJIZFRNT0Y3OEpEQ19JY2RjSXNFa2VMY1A5clhnbVJOY0hkN0s2YndPY25hY0FxSkRFcDEtZ3h3czJKQmQ3WnR6TlJlc1Y5ZEViQ3ZlMERvUjBYRXZOUGVBUzhyNFAzRERCU1JkdXFPY0RvbE9PQnhKbzlvTV8yZ1BxdmJ3T2N1ZXpxbEdlbzFGM1NGMTB5S0FhaERhQzJTT1JpZFVUU3JlYmlRd1lCWUphamVvV1RUUmZiRmItOGhqclhQcjVESGJfNTZabTA5NXJZOTJTNm5jRHBPUWc0Zlp5SXFjYzJkTEhNUzVFdG5VNjQ4M0hGRjRlYkYtYzVjeks5Z1FUaWJILUx5R1JENmJvUWp5emRpSU5vZkxZYU9GZFlzTzRHa1ppS1hPU2FBSXhRVUFZZVZqdHdqLTZfNXlXNlVrZmJYblB2TzZFSDNtd9IB4wJBVV95cUxQX0hhRWxoMThjajlTd2JLOVhGbmpLdXY0SXhpNWh2RF83ZklDUUFlbExucF9YbjVaQmNIZ1h5RU8xQ2VxM1ZTV0d5VmNKRFdycTJtTWdhd0thdVJ6UllNMHJ5VmJiUmdIbWhhZVluMHVpWXduajRhWWgyVFp6WDNDR1NCQXh4LU5VVDJWME5USUJqZVFmTl9XUExKSDBDQkFVd2RGcm85V1FiaWRlNlB0ZEh0Wk8tNGhZeU4tYkxPeU5BVThpbkVTLVgtczhvTVJ5aU9SYkNjZ0R4eEVBVktGU0pyX2tJajRxSnNSd2pBNjBaYjUxWEQzOEN6VUowT0JPcXp0UFdkVjF3V1BVbG96VUdtb3RoNUNzRGR5ejRQT2dhLWVMUmptYWxROVVKV09ibGNfeVl3VkRPTENIbzREemZDaFZKU0pzYkVuYkJXQ3daMVNpT0FJNFQ0T3Zkempmc2sw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5711,
+  "notable_record": null,
+  "num_candidates": 42,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "telangana-2",
+  "pc_name": "Peddapalle",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180414.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need for establishment of Mining Training and Research Institute in Mancherial, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to expedite completion of Phase-II work on Mallavaram-Bhopal-Bhilwara-Vijaipur Natural Gas Pipeline Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need for establishment of AIIMS in Peddapalle Parliamentary Constituency in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to strengthen the Right to Education especially for SC and ST students in Peddapalle",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Revision and Enhancement of Pension for Singreni Retired Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need for special financial assistance for smooth and successful conduct of Gadavari Pushkaralu, 2027 in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to establish cold storage and mini on-farm processing units in Peddapalli region in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Revision of Pension for Singareni Collieries Workers from ?1500 to ?10,000",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need to develop an Airport at Basanth Nagar in Peddapalli, Telangana under UDAN Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Justice and Job Opportunities for Displaced Locals in Ramagundam NTPC Expansion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to expedite completion of Peddapalli-Manuguru railway line in Manthani region of Peddapalli Parliamentary Constituency in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 78
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/vamsi-krishna-gaddam"
+  },
+  "qualification": "Graduate",
+  "questions": 15,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Mines": 1,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "SRINIVAS GOMASE",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 27,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 12,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 240976163,
+  "total_liabilities": 1776000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.42
+}

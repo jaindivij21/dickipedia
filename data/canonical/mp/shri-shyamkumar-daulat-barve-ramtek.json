@@ -1,0 +1,575 @@
+{
+  "accountability_score": 32,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 6250000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3450000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 6500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 11500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 27700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 65000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2368621
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3100000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6023831
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2037500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1600000
+      }
+    ],
+    "movable_total": 15194952
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=675",
+      "total_assets": 42894953,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 42894953,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Ward no 6 Shankar Nagar Parshioni Kandri (Kanhan) Nagpur Maharashtra, 441401",
+    "emails": [
+      "shyamkumarbarve5@gmail.com",
+      "shyam.kumarmp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9923709988"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "NILL",
+      "party": "the candidate"
+    },
+    {
+      "detail": "NILL",
+      "party": "spouse"
+    },
+    {
+      "detail": "NILL",
+      "party": "dependent"
+    },
+    {
+      "detail": "NILL",
+      "party": "Hindu undivided family or trust in which the candidate or spouse or dependents have interest"
+    },
+    {
+      "detail": "NILL",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    },
+    {
+      "detail": "NILL",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of record of court or of public register, etc.",
+        "section": "466"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for forgery",
+        "section": "465"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Faujdari Case No.138/2024",
+        "charges_framed": false,
+        "court": "Additional Session Court-7, Nagpur",
+        "fir_no": "Crime No.388/2022, P.S.-Sadar",
+        "other_acts": "ON Bail",
+        "sections": [
+          "420",
+          "465",
+          "466",
+          "467",
+          "468",
+          "471",
+          "120B"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Sub-Divisional Magistrate, Nagpur",
+        "fir_no": "3583/2023, Fojdari Case NO.5/2022, P.S.-Gittikhadan",
+        "other_acts": "Section-145 Crpc, Order Date-29/12/2023",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "12/10/1978",
+  "eci_state": "Maharashtra",
+  "email": "shyamkumarbarve5[at]gmail[dot]com,shyam[dot]kumarmp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1108800,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 915210,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 888160,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 874750,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 805890,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Private Business & Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture & Honorarium (Nagpur District Council Member)"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹14.55 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 145522030,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 14152299
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Sundry Creditor 20,00,000 20 Lacs+",
+        "value": 2000000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 16152299
+  },
+  "margin_votes": 76768,
+  "minister": false,
+  "mp_name": "Shri Shyamkumar Daulat Barve",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 1477970,
+  "mplads_unspent": 145522030,
+  "mplads_utilisation_pct": 1,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 55,
+  "mpsno": 5736,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ramtek’s women & farmers booted out Mahayuti: Barve",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVkZuVW1tcW5xV3dqLUM3TVR4a2E3WGlOMjd0eTA3VUZaZHE4UUZaMzRzd3J4ZGs0dTV6N0d3bUxqbFhYak5uSmJuazlnU0FkdGRkeDdyRHFHSGNqeEJHclJST2tsRy1JUkJldlRTTGtCMkNzek5WX0dNYVl6ZFVEQzN2a1dVVS1QLXJVVkxNaWhrRURIZGtpS19GRV90VWZuTkVXNHE3ZXFzeEV2YVpCU3FYRWhwQmJFZGxZdVR5LVo3aEVldVU1OU51YTZySHlpOUN1SE9xVjBaUWxIaVVGbEFWTHhlb1BVTFpnTEZza1N5T3FfalVZdm5iRk9QZGfSAYQCQVVfeXFMUE1vREdidTR4XzE3aTNobzVTeW5TWFo5MmwyZFJqREpBY1dCcUdFV3lHczdoMjVkdkQ1cTdDN3lWZ1lzMjFNeE5ISzRTOHVZbFBaOHd5M3FWLVhlSmF0d3pTX3ZGdkpmYVZySnAxNnRVaDVoME40U0RiWXlpYUVLaVFWcEl2WnliYnNUOWIwWEJBWjdxS0hXcjBxbHFIWFU4YjNRQXI2RGxaVDk0M2VjWU51R20tZkk2U19udlVmVGU0bzhfVktRQ05RRFN3S0VDaEk3dzh0bncyc2lvR1EyUUkzamx6eFlrRUhFTVNHSWlVa1haMENWeWlYTkxOY1FvZDR6Tzk?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ramtek (SC) election results 2024 live updates: Cong's Shyamkumar (Babalu) Daulat Barve wins",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVVRLSGRjZTUtRlBfa0JrRDVmREJzeFQ0dzV4cVRoZ1FjaWpJYU5tY3JPT1BCOXE0MDU5bFpnQWY5TU84NXl0WEx6ekl5RmZCYTNiX2JEWDA4RC1HckxtbjlVcld5NHdJOGJZcmVjREtzWWRuby1ZdHlNd1c4TTMyVHVSbFJJWng1bU1EZi10WDcwOUJwcFM2TWQxcTBIWXo2TTNNZDdfcGFmeC1hYlpsREt3ZEV1TTA2RndSUVUzMWpja1J0cUZycFcySUZ4RTNGRlpCdFJBY0lsUkNjMV9mM0Y3OGl0bThwSW1JMDZpSXFsR3JqekU4YU5aZm50TVF4TjZsR3ZfSGQ2ZXktWm9hdHVNOHgxQ1hYbFBVeEdKbU5ySkFnNFpWSW9nR3d6NlZNQnFCeFdxZ9IBvAJBVV95cUxQbVYwZUhWVkUzbjFVdUJIMGl2WVRHLXlnSzVlSTFSdkNwV1cwODRvaWVBRzRiZ3Jaa3FBYjBhenJJNVRGd1FSSG5IMUxFMFlCX3JlR2I2QTZqRnpNSDlNQVhHVU5sZUpmSnVFS3ZhaVJiZVRNWkpieHFWcFVuRUNTdmdaVGl5eEY1azNTczdHeDdLTHFUdnhaM2RqOXBrYVkwUmw1OUV4MGpMMXRaUkhEaFFLTWl6dkNJR0x2WEpiU3ZzeUcwQlk0X1VnWXBDakF6Q2FvaW9Va2dOTTA4X0JmVG90Z0NscGZUVC05SEc1OFVMNVNyXzhrb19lLTdSLWc2b1VYM1VnWjMyXzBPM21uTnh1a0wxUkFMd2ZPVC1vbkRsTVRmV3dzYVc0WHhsM21BUUZxQl9YSTk4d3lh?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Ramtek Election Result 2024 LIVE Updates Highlights: Shyamkumar Daulat Barve of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeThOVUFPb1JXUWVaRl9aVnRHb1UzNTB0VTNoQnZfa19ZTEI3TF82VWhvQUpLXzhZLV9EM0R4OEhfVnlfcWx1TVF0LUJxWHNXY2cxT0xKcHdRWlZTWi1YWi1MS3RFZWpta3FOd2hEeThXd3JLX1lWQ1hKMEE2Z0lCaDRtY1JPcHRrLXhxTmhSOEtaZy1ZcHo3UjU3eUwxU292SXNJQ1MweXNRSmdLVmI0ODlYazVfdzdwX0VBS043a05iVXZmNHhScXNsWnE4MExGVjhPc1hORTkwYThJclM5NNIB5gFBVV95cUxORnR6djR0aHZYSUNwSEZOYXY4VEFCcHFtemNwWjlIVlk3WTZ0VVN6TVVobHVFMTlORlRwUTFreUVSLUlEazlKZHhUXzZJVlFZdzJvM2ZiNzJUWVM4dWRYYmJ0VzNLdlVvWGZmMTdQM1RNYl9LS3BTVk5BY2FDWGs4SjNacXNmYWowTnNlMkg1aE1ZY29ObzhIUThWZVRQZGRQMmpOTDRTaDVRN2gxalNmbkI4WURwNXdnRUNUUmp6UDFJNV83X1NORkNYY0RoekpBZ2dhSVdOSGRnTXFQN1JzamxOMmJkdw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 7827,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-9",
+  "pc_name": "Ramtek",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180286.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 94
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Mandatory and Timely Forwarding of MPs� Development Proposals by State Governments to the Centre",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Strong Measures to Prevent Cyber Fraud in Digital Payment Systems.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding compensation for land, rehabilitation and employment for displaced persons in lieu of land acquired by WCL",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to confer Padma Award on Baba Jhumdev, social reformer of Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding merger of Kamptee Cantonment Board, Maharshtra with Municipal Corporation",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the tribal living arounnd Pench National Park",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to curb the pollution in Kanhan river and ensure adequate supply of water from Pench Dam to farmers for irrigation purposes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Release of Pending Central Funds under Jal Jeevan Mission for Incomplete Projects in Ramtek Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Action Against CMPFO Officials to Protect Coal Mine Workers' Future Funds",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Address Harassment of Farmers Due to Land Acquisition and Employment Issues by WCL",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Immediate Action on Fertilizer Shortage and Protection of Farmers' Interests",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 105
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shyamkumar-babalu-daulat-barve"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 3,
+    "Coal": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 2,
+    "Heavy Industries": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 1,
+    "Power": 2,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Skill Development And Entrepreneurship": 2,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Women And Child Development": 4
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAJU DEONATH PARVE",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 7,
+    "legislative": 64,
+    "mplads": 1,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 42894953,
+  "total_liabilities": 16152299,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.94
+}

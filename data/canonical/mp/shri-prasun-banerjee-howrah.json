@@ -1,0 +1,434 @@
+{
+  "accountability_score": 39,
+  "age": 71,
+  "assets_2019": 13216066,
+  "assets_2024": 10360134,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2900000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 5200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 3000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 587549
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Insurance Policy Jan-2016 6,00,000 6 Lacs+ SBI Life Insurance Policy Ja",
+        "value": 1350000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 729584
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 490000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2000000
+      }
+    ],
+    "movable_total": 5160134
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Lok sabha Bye election 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PvvvPr8Rnii57CYpaWmZ",
+      "total_assets": 5068000,
+      "year": 2012
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PvvvPr8Rnii57CYpaWmZ",
+      "total_assets": 10041098,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PvvvPr8Rnii57CYpaWmZ",
+      "total_assets": 13216066,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7195",
+      "total_assets": 10360134,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 104,
+  "assets_latest": 10360134,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Prasun Banerjee is an Indian former professional footballer and politician who is serving as an MP in the Lok Sabha from Howrah. He is an Arjuna Award winner (1979). Younger brother of the Pradip Kumar Banerjee, Prasun had also captained the India national football team in international tournaments.",
+    "title": "Prasun Banerjee",
+    "url": "https://en.wikipedia.org/wiki/Prasun_Banerjee"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "29/2/1 Swami Vivekananda Road Howrah West Bengal, 711101",
+    "emails": [
+      "prasun.banerjee@mpls.sansad.in",
+      "prasuntmcsc@gmail.com"
+    ],
+    "phones": [
+      "9433002044",
+      "9830473557",
+      "9013180559"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "SPL 10/17",
+        "charges_framed": false,
+        "court": "CBI 1st Court Bichar Bhavan Kolkata",
+        "fir_no": "RC0102017A0010 CBI/SEB/Kolkata",
+        "other_acts": "Section 7, 13(2) r/w 13(1)(a) and 13(1)(d) PC Act. 1988",
+        "sections": [
+          "120B"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "06/04/1955",
+  "eci_state": "West Bengal",
+  "email": "prasun[dot]banerjee[at]mpls[dot]sansad[dot]in,prasuntmcsc[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1624464,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1478910,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1143980,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1798080,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1490960,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension and Salary as Member of Parliament from Parliament"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 104%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 104,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹50.7 L (2012) to ₹1.04 Cr (2024).",
+      "headline": "Declared assets grew 104% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5068000,
+        "from_year": 2012,
+        "pct": 104,
+        "to": 10360134,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 38% of MPLADS local-area funds were spent — ₹9.14 Cr unspent.",
+      "headline": "62% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 91382292,
+        "utilisation_pct": 38
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 169442,
+  "minister": false,
+  "mp_name": "Shri Prasun Banerjee",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 55617708,
+  "mplads_unspent": 91382292,
+  "mplads_utilisation_pct": 37.8,
+  "mplads_works_completed": 30,
+  "mplads_works_recommended": 217,
+  "mpsno": 4583,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-09-23T10:41:15.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "AITMC Chairperson Ms. Mamata Banerjee campaigns for the forthcoming Howrah LS by-polls",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHV4VndkX3YwR21MaGp0SGlzRnNyVDNlZkpBVmRhS0JSUlhuNE9hMHNCQVJTTzlFX1hmNThDLWNMMWo1VUUxVGpVQURuU1lfcl9ubDlsdkxmNk1ranMwVlJyamVzZ3BqZFVXT3c1eDIwTElMUUZ5OVhOdXJVMlB6ZWV2SjdQLTM3X0lCcmltVk9sWXVkeEZmcURrb09Qc0Y5RV9jSnBxOERJMFpZdTQwbg?oc=5"
+    },
+    {
+      "date": "2025-03-07T07:31:26.000Z",
+      "flagged": false,
+      "publisher": "vocal.media",
+      "title": "Prasun Banerjee: From Football Captain to Howrah’s Consistent Parliamentary Voice",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3dZb1JBNF9nVHpXWVBmblI2Vkx1SzJMVE9QTkk4Wjl1Nm1ZUFpyY0xEQ29sX1BXNUVXTXoyWXZJWFpRTXZiS0VlanA5Wk5zTTM4cUpOaGE2Y0FnV0UxYmFqZ0NXRlVocUdnUENwSG9vdHNPajhRRFhzWGRpVTFpRTlVVFBjZDcwT0wybTVkUWpyVExDeEl1TENoX1VmRU9UdnIzeFloQVFtSlNk?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Howrah Lok Sabha Election Results 2024: Mamata's brother Prasun Banerjee wins by 169442 votes",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUEh0V2pUWVZOVEtVWEQ1M3dYSk00RTBtaW9PVURHc1ZfQjZfZ3lYb01LNWd0QlpLLVAweGhQMlpNS3VkaVpRMms5aHQwbXdtczdxMzYyUDYyVTZMbG5RUnI5Ykw5YTJBZHdEMVlCTUJCTUl1WWRtM3RLdHFWbzgtWkJLZmJUdU1IaWU5T2RHU3ZUNWREWldBMW5WckkwQldqQktQWmRNZU9hUlVPMXVEWUV3TFFQTVFRX1ROSlRVS0M5aWhoNnNzYWdVdkptYktTTFNJYmJJc1FNa05iWnpjckxuejcxN0wxbzh4SFo1NldDX09rMUHSAfsBQVVfeXFMTk9lSC1rSnFUVnVPSmJONkN5cjJfTkMtc3RlMzFfNkVKeHdTQzM5RWltUUdpdnlFcDVtT0hxUGJjNXVzZlM5TkltUHJsSXZ2akloRkNpTHFCdU14WllSSHQzSVlfU2JVY0pPUG9vWWpCNTlYT0JsWnI0TlFBVEpSUVVzNnVDeTFyYWtIOGJkNk83UVBFVXlTbzBBLXI3dW1Sb3dVVnlZdUpGRU01SlViMGswSzdxbGhqRTlHUFIyblRHamdxRkNMRjV3UHdvSDlmTS1pUjM5S3A3bU5qNnlTQ1RwcFgyNS0ydWFScFFkMGttVnNJZ3BTenFkNm8?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Howrah election results 2024 live updates: BJP's Rathin Chakravarty vs TMC's Prasun Banerjee",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUC1SQzl5OE9mOFZGcTU4WUx5bmU2MzdBY29PeXZQdlY3WmVBM2JHOFNWRmhiMkVDMEFzdHpVTk1iWXBUc0M3QWdNamNxWnVJcFpaRm41dkVVVjdrVWRSejlWRmNYdXhMWl9fZEpRYlViRFpoc25RcTgtUGs2WlBQaVp5XzZEWi1tVTk4aVRac1JfYnVrdUtaS0pudmhuYWEzREs5ZU5RUDBjX1A5RExUU052dzVWMVBSZVl3T2JoLWtCQUxod0hrdlVJVHNKVkh3ZVg0S29jaVBtOHpUeG45LThWUU5xNkxRRUxLTUVBTXkwbGVVY2JhRU40X0ZUWXBJeEJydXh0TnFrTlFiZFFycmdfVXVFbzZTYzBoT3dqOUQ5c25RN1N4cGs2MWx5Vm9EclR6eEdQNzdWOGcwYjBhSk1WTml0bFQtbWgtSTRTWW3SAdYCQVVfeXFMTTdWNFJZV1laSENQdFlpWUJwdUp4SzNheGJMakZpYThrRVlFdXJzNVF6aUFidDExZTNCMTNnU29XSEtfZU5DT05faHA3d0tnR2JGWkJLVWdZb19zdWNfbW12QkJiejZldGxVbC1Yd2FaUC1JbWtTVS1YUlZTNEhWNTV6bG1XOXNOdVcwdUpKMEo5ZzdGZklDaVpfN1hYd3pGWDh1NHlnZHBDTXBvUUdwUjczeWdEVmZNWEItNHF2T2JNd1QyMDRUbWdDc0ZZUkdQUG5fTDlhQU41MjlOUGFlMmhlSnYyTnloUUlqcTlXdDFrelRKcXIxbG9hVl9Bakx3OXJLVDZjbUdaU2ZMOVE1d1phYjRHVHB6Nk5ycHF3R2xRTXk2azRZSWNfRG14US1sd0F6N24zdmVYbkpkTTA2WGVsVFh6MzBlQVVyOVNEcU1SbXE4Wnh3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Howrah Lok Sabha Election Result 2024: Rathin Chakraborty vs Prasun Banerjee, who is winning",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNT3VuQXVzN0xwVUdLclF2TlE4LUs3UGFGVU9hOHpwS2czYTFXOS1nY1N2U1F3TjcyLTlyQy1LUWNXUkJTTDBmbGxWalBNMnFvNnpvUWNxRzBWT1Z6QmU0MS1xYUxpR0NvbXlhYWNtNUdtNlZIbjBJSWxha25OTG1aV0hSemxLdkd4czA3VUhIaHlGX1J1MjE4NVN3WEl6RnhSVDNHb1k1T2U1YnhzWElZM3lpUEUtTFFkcnIzNDdsRm9hcWxzWTB1ckRjZmJuYXpRU2ZkUGpPMEZQa19ZVTF3Ql9aVFdhdk54dGNYM1FsQUpqbGxob2daQnNWWVQwMzZXeWRoM19UMjVfNE1FMmtER3BWelpQd9IBmwJBVV95cUxPaHM3RS1xSC1kQlN0dHd5dHlmakJBRUN4dEV2WC1tN1NwSld2RHhURUZWaWhNN0ExVzYwal9qWmRzZF90VjVsMENjdlllMkNMeFJGbGgyN2tkdmFXR3dFT2hpWnQyTTc1TnNnVU1VVnM3TnFrbHVSb0NNVFlBclcxS3NGa3FjeGZtdDJ5RGpReGRicFNhZEJjWVpsa2JHelIxMGlEbnlSR2pnQjZrOWJiYm5MSzZCa3JWUDQyTFJUby1HVVdQWVJvYXFzRHFZMjcyMWhLYW53QTNycEpWUGVlYmZwYjZZQS1ETlRSZ0tRR0ZuRjlTZ24zejBvNG5zeU9ZQ3B0RFBkWVFRZGd5SzJLSkN3aS1MeFBSaUMw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 10084,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-25",
+  "pc_name": "Howrah",
+  "pending_cases": 1,
+  "phone": "09433002044, 09013180559 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180529.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 73
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/prasun-banerjee"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DR RATHIN CHAKRAVARTY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 34,
+    "criminal_deduction": 1,
+    "legislative": 20,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 10360134,
+  "total_liabilities": 0,
+  "wealth_pct_increase": -22,
+  "winner_vote_share": 49.26
+}

@@ -1,0 +1,564 @@
+{
+  "accountability_score": 52,
+  "age": 43,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3300000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 9200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 20000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 210000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 225377
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Kotak Policy No 74768198 7,83,441 7 Lacs+ Kotak Policy No 03532385 31,37,697 31 ",
+        "value": 3921138
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2135000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 12491515
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Y8WdeKvDMBYbbKW5vcqf",
+      "total_assets": 8864060,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9567",
+      "total_assets": 32491416,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 267,
+  "assets_latest": 32491416,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Manoj Kumar is an Indian politician who is member of 18th Lok Sabha. He is Member of Parliament of Lok Sabha from Sasaram.",
+    "title": "Manoj Kumar (Sasaram politician)",
+    "url": "https://en.wikipedia.org/wiki/Manoj_Kumar_(Sasaram_politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village Sakari Kudra Kaimur Bihar, 821108",
+    "emails": [
+      "spmsmanoj@gmail.com",
+      "manojkumar.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7070590658",
+      "7209989595"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/p/Manoj-Kumar-61558580087844/?_rdr"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure",
+        "section": "508"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate, Sasaram",
+        "fir_no": "Sasaram Sadar P.S. Case No 269/22,",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "341",
+          "323",
+          "307",
+          "353",
+          "427",
+          "508",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "10/01/1983",
+  "eci_state": "Bihar",
+  "email": "spmsmanoj[at]gmail[dot]com,manojkumar[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 931580,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 704432,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 681300,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 598820,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 508400,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farming"
+      },
+      {
+        "person": "Spouse",
+        "source": "Job"
+      },
+      {
+        "person": "Dependent",
+        "source": "NO"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹2.36 Cr between affidavits, while declared income across 5 ITR years totalled ₹34.2 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 23627356,
+        "declared_income": 3424532,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹88.6 L (2019) to ₹3.25 Cr (2024).",
+      "headline": "Declared assets grew 267% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 8864060,
+        "from_year": 2019,
+        "pct": 267,
+        "to": 32491416,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2400000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2400000
+  },
+  "margin_votes": 19157,
+  "minister": false,
+  "mp_name": "Shri Manoj Kumar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 76770834,
+  "mplads_unspent": 70229166,
+  "mplads_utilisation_pct": 52.2,
+  "mplads_works_completed": 79,
+  "mplads_works_recommended": 152,
+  "mpsno": 5578,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-03-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "BJP picks Nitin Nabin and Shivesh Kumar for Rajya Sabha elections in Bihar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnQ2WDB4VmhELTlFSzJLX0ZMRmFOZC15Ny0tcnAxM2hyRktPZHpNdzV1T2g2S25fak5qNnpIZk9tQ1JaZE9BM2ItMTg0NWtDQVVfMUstRXgyRHFwOEd1c2xBQTA4UzY1aWFEbldLa0dDbjRBdXRlY19TQUNMOVZYX0laRXBqSDZyMXE0S2dGeDlMRmxBRkJ0a3FsQVpwU1ZLSF96eDl2anZicWtmR3FnWGw2UXkxeFFSUW92RzN5YVRJdFU?oc=5"
+    },
+    {
+      "date": "2025-10-08T11:14:26.000Z",
+      "flagged": false,
+      "publisher": "Newschecker",
+      "title": "2025 Bihar Polls: Did Crowd Raise ‘Vote Chor, Gaddi Chhod’ Slogans Against Nitish Kumar and Samrat Choudhary?",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0twY3pGd2ZsV2pYbXBEcHdjMWRJYkxqZ3ZUVjRhZmlXeENMVlFVaU5XNWR0YWVTWlBkYjVPaGE3bVVPR3FCQnUzZTlqQzZBU21zdE9CMENKVTQweGtySWF3cFc2R1dkSmJIRUp0emJaUDFxd0lqVjI3eEh0NmlrYy1yNV9XT0d1T0ZTQ2p3cTc0RWdUWjVOdldRTTRRVTZuTy00X3lDOUNhQ1BrQ0N6cFVsS014Z1o2SFhGRE1MRWNaeENWSU1Fa1Q2bURDd2MtbHZuag?oc=5"
+    },
+    {
+      "date": "2025-07-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "IAS Dinesh Kumar Rai's VRS approved; to contest Bihar elections from Kargahar seat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3N1ZWlobWpkQzVoVXAwZ0YxeF9YOXJlblViZ1NLT2ZNLTVYdnRGSm5pdUl3VjhFcjNoMmJPNEFwbEtBVEg5SnV4Zjd0dVprLWJKN1RzU19LRFdIY2pJbzZRdjJoOWFGUGdLZUhOa01vRHJlMDBYTm8taDJOenRnSnI0eEtFb0ZUZGxvaFVGSkdIRVhRcXdiTzZnSTc3SjBua0lzZFk1MDcxbGhkZWMxOHRPZFlpQ2NEb1NYVzM2MWlEeWdfaTRuV0M4eWjSAdoBQVVfeXFMTlMxWDd4RkNjTnRiQUVoakFmM3lVWDVlNkU0OEFvU0I4NGtSXzROUW43S1E2OEVxaGRkSkdSd1Y1YWxZd1VCSmNKcVhpN3pYTzVGT0lxLUpERkwtaUNyLUs0TXJTbndiYUFMeWwxMGtKeFdXbnVtbDEwMkxiZV9BUkxlWVlBOG1BdjQ4NDZ2dnJQaWpFZVJoNlNaMVN3N1RCRG02Z2ZaRTZVMjZYMjNQRUtscVptNzdVMkduRnlKQlhrc0ZtUDFGMTREV3VGbjJoMFA3X1pReHlpcXc?oc=5"
+    },
+    {
+      "date": "2025-06-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "inc.in",
+      "title": "Shri Manoj Kumar Sasaram, MP (Lok Sabha), addressed the media at Indira Bhawan | AICC Hdqrs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeW5ib3NFcU9iR0hWNzhXMVAzZjJGeEhnLXJjRlFGQkdHaU1EOVhveGNpTTRIN2otblhoWWNnNWxvUXF5QmxBNmZHRGE1Rm4wZXVuTWJYaWQtbHZKNl9SSllIeXc0RU9NcV9HaFFXVkJZU25FOHdTVmI5Y3ZnMmtXM204MEt2cTgyUGJKWXFWUm02dDFEaTZrclVnbmctRDJlc1Utbno4d241OGV4?oc=5"
+    },
+    {
+      "date": "2025-01-30T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Bihar Congress Minister Manoj Kumar Beaten By Villagers, Sustains Head Injury",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVNUMzM2VHp5VFZ4N3FYVkRya3llUkkyaFFJZ1E1ZjA5aVJMTEo3MDVDemxvZlJ3MktTVDJrVVp3dGhrb2pSYkR5NTNpUzBoN2kxQVQ5Yk1CNVlOY3lfWENEMUYzM2pGeXNuRERUZ2F4V2hsQmhlTFY3MEY4Mlg3ZHNOeGNDRFpOeUpyQjFYQkRzc2dPRDNXUlh0RlUxSGVrV2Ftd1BGYWl1d1VLUFBLa3EybFF3SG_SAb8BQVVfeXFMUEZ0ZmZyYkhRTG81VFlBZnBBQVdFRXF3S3lULTc5OUhHQTY1cExxYk5vd055U2czaXdSTjhQSWNOTUl6clFRb0VoTFJTWWNuMXRMam1hV3VtS2N4RFpJQXpuNURXOG9xY05oVm9wcHNndjBpRTVNOUJBTTFScFl0ZW5FWmFTbmlIWC1mb0J5SlU0MUxQOVU5WlE5TXFIMm1BNFN5MG1EVzU3N2xaN3JzR1d0Rnp3LVg3cEVkeFg5Mnc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 17219,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "bihar-34",
+  "pc_name": "Sasaram",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180059.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Review of Kaimur Tiger Reserve Proposal to Protect Tribal Rights.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to confer Bharat Ratna on Late Babu Jagjivan Ram and Late Shri Kanshi Ram",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Clarification and Correction in Caste Certification Process After 2023 Census.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to address the menace of microfinance companies giving loan at exorbitant rate of interest in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding non-implementation of Post-Matric Scholarship for SC Students in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Urgent Convening of the State-Level Monitoring Committee for SC/ST Welfare in Bihar to Address Increasing Atrocities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Rehabilitation and Basic Amenities for Families Whose Homes Were Demolished Without Prior Notice",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for increase in wages of cook and helpers under Pradhan Mantri Poshan Yojana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Ensuring Land Distribution to Landless Scheduled Caste Communities in Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt protected me and my family from convicted criminals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to give state status to Mamta workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Request to minister help to establish a best trauma center and AIIMS in Sasaram and provide status of special state to Bihar",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 41
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/manoj-kumar"
+  },
+  "qualification": "Graduate",
+  "questions": 3,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Education": 1,
+    "Railways": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "SHIVESH KUMAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 58,
+    "criminal_deduction": 6,
+    "legislative": 32,
+    "mplads": 97,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 32491416,
+  "total_liabilities": 2400000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.76
+}

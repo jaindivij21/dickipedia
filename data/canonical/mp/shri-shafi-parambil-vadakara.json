@@ -1,0 +1,1369 @@
+{
+  "accountability_score": 7,
+  "age": 43,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2100000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4100000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 35000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 146524
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC No 31xxxxx Sum Assured 11,00,000 11 Lacs+",
+        "value": 1100000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1553000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5834524
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3121",
+      "total_assets": 9934524,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 9934524,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shafi Parambil is an Indian politician belonging to the Indian National Congress and a member of the 18th Lok Sabha representing the constituency of Vatakara. He had previously served as a Member of the Kerala Legislative Assembly representing Palakkad constituency from 2011 to 2024.\nHis AICC appointment is one of the working presidents of Kerala Pradesh congress committee.",
+    "title": "Shafi Parambil",
+    "url": "https://en.wikipedia.org/wiki/Shafi_Parambil"
+  },
+  "charges_framed_count": 44,
+  "committees": null,
+  "contact": {
+    "address": "Parambil House, Ongallur - 2, Kondurkara Palakkad Kerala, 679313",
+    "emails": [
+      "shafiparambilpkd@gmail.com",
+      "shafi.parambil@mpls.sansad.in"
+    ],
+    "phones": [
+      "9400000006",
+      "9847980006"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 8,
+  "criminal_cases": 47,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC 735/10",
+        "charges_framed": true,
+        "court": "JFCM I Thrissur",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 506/2019",
+        "charges_framed": true,
+        "court": "JFCM III Palakkad",
+        "fir_no": null,
+        "other_acts": "Sec. 4, 6 KPWRAP Act",
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 93/2021",
+        "charges_framed": true,
+        "court": "ACJM Thalassery PT- CC",
+        "fir_no": null,
+        "other_acts": "Sec.118(e) Of KP Act, 4(2)(a) r/w 5 of KEDO 2020",
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "148",
+          "269",
+          "283",
+          "149"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 892/21",
+        "charges_framed": true,
+        "court": "JFCM Taliparamba",
+        "fir_no": null,
+        "other_acts": "Sec.4(2)(e) (j) r/w 3(e) Of KEDO Act",
+        "sections": [
+          "143",
+          "145",
+          "283",
+          "149"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "459/2020",
+        "charges_framed": true,
+        "court": "JFCM I Tirur",
+        "fir_no": null,
+        "other_acts": "Sec.3(b) Of KEDO",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 655/2020",
+        "charges_framed": true,
+        "court": "JFCM III, Palakkad",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "336",
+          "337",
+          "338",
+          "34"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 103/2019",
+        "charges_framed": true,
+        "court": "JFCM II, Palakkad",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 1039/23",
+        "charges_framed": true,
+        "court": "JFCM II, Hosdurg",
+        "fir_no": null,
+        "other_acts": "Section 4(2)(e) r/w 3(b) of Kerala Epidemic Diseases Ordinance 2020",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 47,
+    "ipc_summary": [
+      {
+        "count": 5,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+        "section": "333"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing grievous hurt by dangerous weapons or means",
+        "section": "326"
+      },
+      {
+        "count": 1,
+        "description": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft",
+        "section": "382"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 45,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 45,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 43,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 38,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 8,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 6,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 6,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 4,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 3,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Joining unlawful assembly armed with deadly weapon",
+        "section": "144"
+      },
+      {
+        "count": 1,
+        "description": "Causing grievous hurt by act endangering life or personal safety of others",
+        "section": "338"
+      },
+      {
+        "count": 1,
+        "description": "Causing hurt by act endangering life or personal safety of others",
+        "section": "337"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Negligent conduct with respect to fire or combustible matter",
+        "section": "285"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC.1699/2020",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "874/2020, TVPM City Cantonment",
+        "other_acts": "Sec.39, 121 KP ACT KEDO, 4(2) (j) KEDO (5) 2020",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "353"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1761/2020",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "914/2020, TVPM City Cantonment",
+        "other_acts": "Sec.39, 121 KP ACT KEDO, 4(2) (a) , 4(2) (e) KEDO 4(2)(j)",
+        "sections": [
+          "147",
+          "143",
+          "149",
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1637/2020",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "868/2020, TVPM City Cantonment",
+        "other_acts": "Sec.117(E),39, 121 KP ACT KEDO 2020 4(2)(a), 4(2)(e), COVID 19 ADDL. REGULATION 2020, 3(i)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1796/2020",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "1077/2020, TVPM City Cantonment",
+        "other_acts": "Sec.39, 121, JKP Act KEDO 2020, 4(2)(a), 4(2)(e) 4 (2)(j), KEDO 2020(5)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "283"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1403/2023",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "20/2021 ,TVPM City Cantonment",
+        "other_acts": "Sec.117(e) 77B , 39, 121 KP ACT KEDO 2020 4(2)(a), 4(2)(e) 4 (2)(j), KEDO 2020(5)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1582/2016",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "1133/2016, TVPM City Cantonment",
+        "other_acts": "Sec.39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "283"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 444/2020",
+        "charges_framed": true,
+        "court": "JFCM III, TVPM",
+        "fir_no": "2108/19, TVPM City Museum",
+        "other_acts": "Sec.39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "283",
+          "353"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1632/2020",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "01/2021, TVPM City Museum",
+        "other_acts": "Sec.39, 121 KP Act , KEDO 2020,4 (2) (e), KEDO 2020 (5)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "ST 2884/2023",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "808/2020, TVPM City Museum",
+        "other_acts": "KEDO 2020,4(2)(e), KEDO 2020 (5)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 676/2021",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "707/2020, TVPM City Museum",
+        "other_acts": "Sec.31, 121 KP Act , KEDO 2020,4 (2) (e), KEDO 2020 (5)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1648/2020",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "715/2020, TVPM City Museum",
+        "other_acts": "Sec.,39, 121 KP Act 2011, Sec. 4(2)(e), 5 Kerala Epidemic Diseases Ordinance 2020,",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1282/2022",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "1104/2022, TVPM City Cantonment",
+        "other_acts": "Sec. 39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 385/2023",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "214/2023, TVPM City Museum",
+        "other_acts": "Sec. 39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 107/2024",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "32/2024, TVPM City Cantonment",
+        "other_acts": "Sec. 39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 222/2022",
+        "charges_framed": true,
+        "court": "CJM",
+        "fir_no": "132/2022, TVPM City Museum",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 15,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1372/2023, TVPM City Cantonment",
+        "other_acts": "Sec. 77B, 39, 121 KP Act, Sec. 3(2) e Of PDPP Act, Under Investigation",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "332",
+          "333",
+          "353",
+          "326"
+        ],
+        "serial": 16,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 472/2023",
+        "charges_framed": true,
+        "court": "JFCM III,",
+        "fir_no": "1099/2022, TVPM City Museum",
+        "other_acts": "Sec. 117 E, 39, 121 KP Act, Sec.3(2) e Of PDPP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "332"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1374/2023, TVPM City Cantonment",
+        "other_acts": "Sec.117 E, 39, 121 KP Act, Sec.3(2) e Of PDPP Act, Under Investigation",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "353",
+          "332"
+        ],
+        "serial": 18,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 126/2023",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "1181/2022, TVPM City Museum",
+        "other_acts": "Sec.117 E, 39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "332"
+        ],
+        "serial": 19,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1098/2022",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "680/2022, TVPM City Cantonment",
+        "other_acts": "Sec.77B , 39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "283",
+          "353",
+          "332"
+        ],
+        "serial": 20,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1373/2023, TVPM City Cantonment",
+        "other_acts": "Sec.3(2) e Of PD PP Act, Under Investigation",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "323",
+          "353"
+        ],
+        "serial": 21,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 107/2024",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "32/2024,TVPM City Cantonment",
+        "other_acts": "Sec.39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "283"
+        ],
+        "serial": 22,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 73/2013",
+        "charges_framed": true,
+        "court": "JFCM V",
+        "fir_no": "464/2010,TVPM City Museum",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "188",
+          "283",
+          "382"
+        ],
+        "serial": 23,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 492/2023",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "353/2023, TVPM City Museum",
+        "other_acts": "Sec.39, 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "283",
+          "285"
+        ],
+        "serial": 24,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 77/2023 PT",
+        "charges_framed": true,
+        "court": "1- Addl. Chief Judicial Magistrate",
+        "fir_no": "686/2022, Kochi City Central PS",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 25,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 70/2022",
+        "charges_framed": true,
+        "court": "ACJMC EKM(Special Court MP/MLA PT",
+        "fir_no": "940/2020, Kochi City Hill Palace PS",
+        "other_acts": "Section 4(2)(j) 4 (2)(e), KEDO, Next Hg Date 20.03.2024",
+        "sections": [
+          "269",
+          "143",
+          "144",
+          "147",
+          "149"
+        ],
+        "serial": 26,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 516/2023",
+        "charges_framed": true,
+        "court": "JFCM Kalamassery, Transfer to MP/MLA Court EKM) on 12-01-2024",
+        "fir_no": "Cr 420/2023, Kochi City Kalamassery",
+        "other_acts": "Section 117E KP Act",
+        "sections": [
+          "143",
+          "147",
+          "506",
+          "149"
+        ],
+        "serial": 27,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 72/2023",
+        "charges_framed": true,
+        "court": "ADDL.CJM EKM ( MP, MLA Court)",
+        "fir_no": "1164/2020, EKM RL Aluwa",
+        "other_acts": "KEDO",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 28,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 92/2023",
+        "charges_framed": true,
+        "court": "JFCM III Palakkad",
+        "fir_no": "569/2022,Palakkad town south",
+        "other_acts": "Sec.4, 6 KPWRAP Act, Next Purpose: for appearance of the accused Next Hearing Date 25-04-2024",
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 29,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1400/2020",
+        "charges_framed": true,
+        "court": "JFCM III Palakkad",
+        "fir_no": "950/2020 ,Palakkad Town South",
+        "other_acts": "Repeat NBW against all accused Issue 82 and 83 Cr.P.C against all accused. Next Purpose: NBW and 82 83 Steps Next Hearing Date 19-03-2024",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 30,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 613/2022",
+        "charges_framed": true,
+        "court": "JFCM I Palakkad",
+        "fir_no": "445/2022, Palakkad Kasaba",
+        "other_acts": "Next hearing date 16-03-2024",
+        "sections": [
+          "143",
+          "283",
+          "149"
+        ],
+        "serial": 31,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1934/2023",
+        "charges_framed": true,
+        "court": "JFCM I Malappuram",
+        "fir_no": "647/2021, Malappuram",
+        "other_acts": "Sec.4 (2) (e), 5 of KEDO Act",
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 32,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 330/2022",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "320/2022, TVPM City Cantonment",
+        "other_acts": "Sec.117 (E) , 39 R/W 121 KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 33,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 260/2022",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "245/2022, TVPM City Cantonment",
+        "other_acts": "Sec. 39 R/W 121 KP Act and Sec. 4(2)(e), 5 Of KEDO Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 34,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 1307/2021",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "1383/2021, TVPM City Cantonment",
+        "other_acts": "Sec.4 (2) (e), 5 Of KEDO Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 35,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 513/2021",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "20/2021, TVPM City Cantonment",
+        "other_acts": "117E, 77B, 39, R/W 121",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 36,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "ST 2922/2021",
+        "charges_framed": true,
+        "court": "JFMC III, TVPM",
+        "fir_no": "808/2020, TVPM City Museum",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 37,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 78/2023, Changed to 1502528/2023",
+        "charges_framed": true,
+        "court": "ADDL.CJM EKM ( MP, MLA Court)",
+        "fir_no": "420/2023, , Kochi City Kalamassery",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "506(1)",
+          "149"
+        ],
+        "serial": 38,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC 97/23, Changed to 496/23",
+        "charges_framed": true,
+        "court": "JFCM III",
+        "fir_no": "1075/2022, Town South Palakkad",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 39,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "12/02/1983",
+  "eci_state": "Kerala",
+  "email": "shafiparambilpkd[at]gmail[dot]com,shafi[dot]parambil[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 897326,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 855432,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 682800,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 905894,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MLA - Salary and Allowances"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 6% of MPLADS local-area funds were spent — ₹13.76 Cr unspent.",
+      "headline": "94% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 137555347,
+        "utilisation_pct": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "44 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 44,
+        "convicted": 8,
+        "pending": 39
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 326 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for voluntarily causing grievous hurt",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "326"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1500000
+  },
+  "margin_votes": 114506,
+  "minister": false,
+  "mp_name": "Shri Shafi Parambil",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 9444653,
+  "mplads_unspent": 137555347,
+  "mplads_utilisation_pct": 6.4,
+  "mplads_works_completed": 15,
+  "mplads_works_recommended": 218,
+  "mpsno": 5698,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-04-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kerala electorate has voted for ‘change of government’, says Shafi Parambil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcXFkV3dMMUEyMXNtN1ZzalVsSmg1TGNEQUZ3VHJVSld6Umt6NEdjSXMySWJYejBqajJ6TkNzRDQyTDJIYjNGRXMwblZzWDAzbVBTLWJhY2Q4OG9TdWlJcWtXTmY3QWNvQmR4Q3haNlJFV1hyOUI5cG5MTDhCempoYTY0QlZFa3M0UU9hbUZQanFpaURYRVR3QW9MM0lIVV9PSDJuTE5uU3JSMkt6dWRuc1pCNmlSeFBZc0theXJ0SVBoUTIwTF8tdkM1al9PVWxuVXZnelk5cmdHMGPSAeIBQVVfeXFMTVVCMlhEVk85RTBuY2tsd1pOMTNUdzNCeEpKTmk4ZGh4cjdFMW9RX25zd3N5RTg1NnNTM2dwWXBadU1jR1JORTh3UlNrVWplakhhNnI2LUF6a3ZPSDNsM3BUYnlwb2U5RzNlODNyWl9zWGpCcE1QR3FXZmVUR2ZDVml3UmJKLVBPTjBwSjEyRVRFSjFITm1McGNXc0pkSU5wcFBYSTVFd0ZNWVozSUYtUzRXckIyYjQtYkFpNUdOd054Mm9ZZUlzY0NqYkZJOXRqRXN6d3pDZExMajNtVE1maGU1Zw?oc=5"
+    },
+    {
+      "date": "2026-04-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Voting for CPM equals voting for BJP, says UDF leader Shafi Parambil",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZWtLaEswbVhvYmZMX2dGMWFEdWpTNmdNMTVpbnhLMnd1LXpCM3c2cTY1UEl5aDJoXzZoMWlDNHYyQ01LcjhETFpvazllRWthSFFfT0owWmVQNVdhSzNmaXg2NkxHbDFMbUQ2U3JVLTN5OHhlUnY0UnZmQS1WeU5oZTIxZzUxVzVvV0ozM3d5RWQ4OUliZGRCMnlzc2xHOXZZdVVTcFM5SjFnR2hyODRjc2M4djMyLTE3X25RN3VqZXpyazNxSWZ2T0I4dlRfTFRsM09ESVdR0gHjAUFVX3lxTE9IVnRUVGFSekZRWmFxQnI4ZWZwZC1xTzRQSVNCMW5BX2FkcU1ucXljUEhTbWNUeVVhN0ZzREdteU03ODFqY2ZOeWo3QlhIUnZJTExGUUNuemhvUkZkc2gyZWlJQVhfOVNnaGhIdjFLWWxoT2lMRWVJbFlMUUFvaFczeFRnZUVaVktBNEo4Mm92OElzelg0aWh0aVA0d05mSUNvaUUyWFFTemNRbGJzOVVwVGNDWVB0VVJTTjgxeVJPSTBzQnlRZjByaWluS2dQTThjU3ZQTWU0a2xLdWQwSGxWNnpJ?oc=5"
+    },
+    {
+      "date": "2026-02-20T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "On-stage scuffle should have been avoided, Shafi Parambil should not have got provoked in public: Mullapp",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZk5SeWREVERLMFJFUGx4UmdXY0ctcXRicDJKOUVneFpuUGU0WVVnUWtKMUwxUV9TV2Izd1E5c2Z1b3FyalRXMDdMclBSVl9GTDV2ajduZ1J4aVdiUVQ0V0tkdUhYLVpHeDNjQVRTa3RWcC1tVjQ0ZXdyYkdUZXFhaTBxM3VKeEhxZnZ6ZnBnbll1SDdfYVNJYld6dlhxM19PT0YyWnhqOHJRUlRGRWtkSTZ6MzFRUXFYNWVPdk5kRjN3dnBfSjN1UEJFb0VDa3owbjRrak02Zkxrdzk0V0NDY3Q3ZjNCZmNjckppQ3FwUDhsdzAtRDBiQXRnZWpXMndNcTlpUk5YZ0FNTjRM0gGSAkFVX3lxTE5KdTRtcXVlWWJWb1NISlAtczJ0Q2huTExvYndYc3k3QUdKY1dTNkNrMUl4ci04RG9tYnl2ektmT2VuWDh2TlNhXzliakkyQnVQeXJ3OE1zNXdGcnB6RUlvNGNkTTdxazBEcEZnZi1RcEE4ZFVYemxwcUhOZUJhdEtsRlMyODZwZ0ZubXJQNVYtV0FxUTFaSEJkeHBUNmRpNG5yQkpWakJDLVNwNFpURkdKVXBlR19qNnVNTWIxX2Y1Zl9BZFFqY24zQzh0MUZyZ2dqZlgwd292SUM3bWhaSXFfa3RwRXVsTFVYUFZyRkhyVEVhNElyRGtiQ2hPNmtvMmNVUXBVWnd0NmVhUUY0OWJ3enc?oc=5"
+    },
+    {
+      "date": "2026-01-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Kerala court detains Vadakara MP Shafi Parambil in national highway blockade case",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkJaRlcwVllRZC1IMnVKclFpRHg0Q2hBTkhCbW9ac1Q0Wk5ISHNBV1FYWWV0bHUybFVHREhTU1hRSWtRMG1xNXR2ckljNVIwNFg5R01HcHR3V1pMTFRCenhxZjNkWHVGVXdEMjFlR3lWbzRyOXRQWFdoVUNaM3h3b0wzNEVMTHcxbWsyREJLYkRmWHRVUklRVGNYMWo2engxaFpYOEZubkNmaDRtWW40bkpHaTQ1WlpFTG9YYlVDbkNxQTZsNExMaEZZcVJTcGtaaTZ5bDNLam5feWo3blE?oc=5"
+    },
+    {
+      "date": "2026-01-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kerala court detains Congress MP Shafi Parambil, fines him ₹1,000 in NH blockade case",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjJkZXB5WWhMNDJJeXVkVXBSbkRiMGxGZ2g4RWs5QkNSOHhRdTFCSHljLUtCTDFRZnp2M3lHVl9KUDd2SGFwRWVMYTFObnBVSHEzYl85X3Z4bEQxd0xrMGhQYlZLU3NhQ1BaMUpGTThjQzVGOTRGSDJJSFVPclhuNWd2aUh6UGpEVXhSbnZIMTRXcVBKZXQtdG5COEE3cEE2RU5HSzYwdjdhOU5BdXYxVjFnc05QSk1hQTNuTVI0LUtGMGVzSnF5bXYzNVFkMVRHUUdJellubXFiRTYyb2xPSUp30gHoAUFVX3lxTE5OeVhnWmJwWHMyd1lBaTdrMl9BdGhKSC1QaU1seklXMXBnS0xIOWRfLUJ0YUF3WU9YQV9NYjFDLXNSOFZvNlZFQ0taUEN4amU1TVVKUDJCRThVZWVSd0NxSlVMYmpYb2xTSFdEVTE4S2stUTB6LWVONUJfYWptczZsWndVTDluclpJUTZiTlJIM3YyYl96cUNtSURKZUQwZ1V2RFhhVEpXOUNvMVJuXzJXTkVrYlFMU3F5aXJiOVFybEFsUV9OWU5mQW9raU5LMHRkQ3E3UUF2YlBEODJFNHR3dEJVYUdPV08?oc=5"
+    }
+  ],
+  "non_serious_cases": 38,
+  "nota_gt_margin": false,
+  "nota_votes": 2909,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-3",
+  "pc_name": "Vadakara",
+  "pending_cases": 39,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180208.jpg",
+  "photo_source": "prs",
+  "pmbs": 2,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 73
+    },
+    "debate_titles": [
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to provide adequate number of rehabilitation centres alongwith financial assistance to support Autism Spectrum Disorder (ASD) patients and other Divyangjan in country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to create more infrastructure for Autism Spectrum Disorder (ASD) patients in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding appropriate measure to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to carry out the construction work on National Highway No. 66 across Vadakara in Kerala in scientific and technologically sound manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to enhance the supply of non-subsidised Kerosene to Kerala through PDS",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Condemning Attacks on Malayalam Film L2: Empuraan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need for mandatory recruitment of trained psychologists in hospitals to deal with Postpartum Depression (PPD) diagnosis and treatment",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Minimum Wages and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon to govt. declare a special package for vilangad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to provide a special package for Vilangad region in Vadakara Parliamentary Constituency, Kerala affected by landslides",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding completion of a road project in Vadakara Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 128
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shafi-parambil"
+  },
+  "qualification": "Graduate",
+  "questions": 46,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Corporate Affairs": 2,
+    "Culture": 1,
+    "Development Of North Eastern Region": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 4,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 4,
+    "Home Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 3,
+    "Micro, Small And Medium Enterprises": 3,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "K K SHAILAJA TEACHER",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 40,
+    "legislative": 70,
+    "mplads": 12,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 9,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 9934524,
+  "total_liabilities": 1500000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.65
+}

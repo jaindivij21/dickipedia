@@ -1,0 +1,794 @@
+{
+  "accountability_score": 75,
+  "age": 34,
+  "assets_2019": 73129716,
+  "assets_2024": 94039115,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 5000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 208382
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 986808
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 378000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Reliance Life Insurance 80,900 80 Thou+ LIC 1,01,848 1 Lacs+",
+        "value": 182748
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 36823419
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3750506
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4464546
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2100000
+      }
+    ],
+    "movable_total": 48894412
+  },
+  "assets_earliest_year": 2020,
+  "assets_history": [
+    {
+      "label": "Bihar 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HQAyBBeemime57xUAWjz",
+      "total_assets": 30733886,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3633",
+      "total_assets": 53894412,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 75,
+  "assets_latest": 53894412,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rajesh Verma is an Indian politician, businessman, former Deputy Mayor of Bhagalpur Municipal Corporation and member of Lok Janshakti Party. He has been elected as Member of Parliament from Khagaria Lok Sabha constituency Bihar in 18th Lok Sabha election. He joined Lok Janshakti in July 2020.",
+    "title": "Rajesh Verma (Khagaria politician)",
+    "url": "https://en.wikipedia.org/wiki/Rajesh_Verma_(Khagaria_politician)"
+  },
+  "charges_framed_count": 4,
+  "committees": null,
+  "contact": {
+    "address": "C1/15, Pandara Park, New Delhi, 110003",
+    "emails": [
+      "rajeshverma.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9065392649",
+      "7070222208",
+      "1123380302",
+      "1123381066"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 12,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 12,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 8,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for house-trespass",
+        "section": "448"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to quarantine rule",
+        "section": "271"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR No. 4276/2020",
+        "charges_framed": true,
+        "court": "JM First Class Garima Kumari",
+        "fir_no": "667/2020, Kotwali (Jogsar) Police Station",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4228/2020",
+        "charges_framed": false,
+        "court": "JM First Class Sri Rahul Datta",
+        "fir_no": "658/2020, Kotwali Police Station",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4204/2020",
+        "charges_framed": false,
+        "court": "JM First Class Sri Rahul Datta",
+        "fir_no": "649/2020, Kotwali Police Station",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4200/2020",
+        "charges_framed": true,
+        "court": "JM First Class Sri Rahul Datta",
+        "fir_no": "648/2020, Kotwali Tilkamanghi Police Station",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4222/2020",
+        "charges_framed": true,
+        "court": "JM First Class Sri Rahul Datta",
+        "fir_no": "655/2020, Kotwali Tilkamanjhi Police Station",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SPL (ST/SC) Case No. 56/2019",
+        "charges_framed": true,
+        "court": "3rd ADJ Cum Spl Jug SC/ST",
+        "fir_no": "300/2019, Kotwali (Jogsari) Police Station",
+        "other_acts": "Section 3(I)(r)(s) 7 SC/ST Act",
+        "sections": [
+          "427",
+          "448",
+          "353",
+          "504",
+          "506"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4263/2020",
+        "charges_framed": false,
+        "court": "JM First Class Sweta Singh",
+        "fir_no": "664/2020, Kotwali Police Station",
+        "other_acts": null,
+        "sections": [
+          "500"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4233/2020",
+        "charges_framed": false,
+        "court": "JM First Class Rahul Datta",
+        "fir_no": "240/2020, Mojahidpur (Babarganj) Police Station",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171(B)",
+          "171(E)",
+          "120(B)"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4245/2020",
+        "charges_framed": false,
+        "court": "ACJM VIII",
+        "fir_no": "662/2020, Kotwali Police Statino",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4221/2020",
+        "charges_framed": false,
+        "court": "JM First Class Sweta Singh 11",
+        "fir_no": "654/2020, Kotwali Police Station",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 4044/2020",
+        "charges_framed": false,
+        "court": "JM First Class Rahul Datta",
+        "fir_no": "622/2020, Kotwali Police Station",
+        "other_acts": "Section 3 of Bihar Prevention of Defacement of Public Property Act",
+        "sections": [
+          "188",
+          "269",
+          "270",
+          "271"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 3520/2020",
+        "charges_framed": false,
+        "court": "ACJM VII",
+        "fir_no": "130/2020, Tatarpur Police Station",
+        "other_acts": "Section 3 of Epidemic Discease Act and 51(B) NDM Act",
+        "sections": [],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 9,
+  "dob": "15/08/1992",
+  "eci_state": "Bihar",
+  "email": "rajeshverma[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1669440,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5469710,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 638120,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2663230,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 254030,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 845140,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 530560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 490000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1251670,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 796990,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 719300,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 644440,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business , Site Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "4 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 4,
+        "convicted": 0,
+        "pending": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 50% of MPLADS local-area funds were spent — ₹7.38 Cr unspent.",
+      "headline": "50% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 73804423,
+        "utilisation_pct": 50
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5759876
+      },
+      {
+        "category": "Abhay Kumar Verma (Abhinav Father) 6,00,000 6 Lacs+ Ajeet Kumar Tahkur 6,00,000 ",
+        "value": 34985254
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 40745130
+  },
+  "margin_votes": 161131,
+  "minister": false,
+  "mp_name": "Shri Rajesh Verma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 73195577,
+  "mplads_unspent": 73804423,
+  "mplads_utilisation_pct": 49.8,
+  "mplads_works_completed": 67,
+  "mplads_works_recommended": 76,
+  "mpsno": 5605,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-01-28T13:52:05.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rajesh Verma",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3dQRnlON1RNdGNJbnV4RWVoUjZuU3ItWVJCT2xya1E1Y3BRdy1TLWV2emgzSWluVjBUbXJwOTFBR3pneE5NS3c2dDVDcnY3QXp3QUZQVmhOMTZrc0w2SDVHY1lRZmFiWnlFOWREWHBRRFFDQWNtWm9oTm5LY0N0NWxqTQ?oc=5"
+    },
+    {
+      "date": "2025-01-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Video | Meet Our MPs: LJP (R) MP Rajesh Verma Shares Vision For Khagaria",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmFfaF9lWXV4LXpYQ1FQMll3RF9lcFI0aF8wbGZObWpjUDRpcVg4S3VDQ3hQOVd0X2NtcG5WNkt2UEJYdUx5Nkw0amhZcktIbEFCQjA5UXFmSFFIRjZsd1VxeGdoLXZVbUNhaF80bGJhRkF5ajNhU0s2LXVudWVnVG9rbFlSVll5S2toOU8yMDlTVmZSSWhGazVQYw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Khagaria election results 2024 live updates: Lok Janshakti Party (Ram Vilas)'s Rajesh Verma wins",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMmFpN1JVZUtqUHMxQ01LenZwaTYybVNaSlBoeDEzcmdIWG55Q01KZDVjaERzQlpIT1FRcDNBbVBCeG9OcEFtWDFaZ1NEajA2UklWcExPMUc1dl9CY2hPTzRTUl8zUy1nUjlnbEdiX1g0Ni1EMUNVZWxwOUF3bmNQellPZHZqZUJNdkZEdS1PNGJMMklPLVE5OWVZcTJXY2NUMTlfbHdBQ29CRktfWmRVZkpIRlpxYks2clJVU3FGSEtWUUNuMGJyWjRWTTNJS1pTeXhhVG9CYm1hcVBjODFQa0NZQzI4QVIxY0hMc1ljZjUzLVJpYUZQZ0xHUVhRTEl3VE5pWl9zYWtJVGduNFVqZDRDWnVmd9IBmwJBVV95cUxPMGs5SFV6UDZNa2p6TWFYTTlUcjVQS0ozTzFubkhEVjAwcFhhVjdQRzJYdUM3bl9weGt6RDdOZHR5Zktzbi1TSXdzd25sZVNoTTcteXI3dXFweFFURHRndzdiOXhnVHMwdm1LNDVsbVVKdGY0S0Q5RHhBVmVmUFpqbUhSY1Y2SHBSdHExOEl5anc1YjBWbnlqMjJ3dFJ3YnZtLTdJMWhWMVNoX01qWjNXVDdhUVNZc01QOTA0RkM5UHhTcEFoemRCVVVoZnNqb0UtQXVSM3FlQVdteWZDWWoyNHZ5d3A4dUxxUjNfLV9wRlJrRkVrbTQ3YkY4WjUwY3V0R0kzR2loTmpsb2s3elNPVm9NRUo2NktMcTNB?oc=5"
+    },
+    {
+      "date": "2024-05-06T07:40:17.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Rajesh Verma, Lok Janshakti Party(ram Vilas) Party, Khagaria, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMkpEUWtlN0lxMEt3WlJOcEFpZXZaV1JqeVdZMVFsZlM4Sjl1X0NLaGtlMHlnRGZteEhqZFZkUmxQVkR1bkMwbnZxVFV5ZzNWTkxlMUEtTzFYSndIcm5TVDc2RXVaMnJVMFA0MWktUVVxQjlpRVFoazN0WXlGRlY0bkNxZ1J6djY1TTZyUVFTLXlWSTJUWHhWb3gyU3FwZFU3MnlpZllnc3kweFFpcldCWEkzbGUyaV8xb3QyZWYxQmNQYmhoTUNKNkFFQnE1TG12dkhfNQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 12,
+  "nota_gt_margin": false,
+  "nota_votes": 31111,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "LOK JANSHAKTI PARTY(RAM VILAS)",
+  "party_bond_total": null,
+  "party_full": "Lok Janshakti Party(Ram Vilas)",
+  "pc_id": "bihar-25",
+  "pc_name": "Khagaria",
+  "pending_cases": 12,
+  "phone": "011-23380302, 011-23381066",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180068.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Compensation to Farmers Affected by Hailstorm in Khagaria",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to promote flat system for residential purposes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to provide pre-packaged food grains under Pradhan Mantri Garib Kalyan Anna Yojana to the beneficiaries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to sanction a special package for flood control measures in Khagaria Parliamentary Constituency, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Sanction and Construct Ring Dam from Gogri Ashram to Muradpur to Prevent Ganga River Erosion in Khagaria",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to expedite construction of airport in Bhagalpur, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Protection of North Indian Hindi-speaking Workers in Maharashtra from Violence and Discrimination",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to establish a modern multi-purpose stadium under Khelo India Scheme in Khagaria district, Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to ensure easy availability of medicines for treatment of Duchenne Muscular Dystrophy at affordable prices in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to curb drug menace in Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to take steps to prevent spinal muscular atrophy in children in Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. to increase the amount of old age pension to at least 1000 under national social assistance programme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Demand to establish a medical college in Khagaria, Bihar",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 185
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajesh-verma"
+  },
+  "qualification": "Graduate",
+  "questions": 52,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 4,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Defence": 2,
+    "Education": 4,
+    "Electronics And Information Technology": 2,
+    "Environment, Forest And Climate Change": 3,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 3,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 2,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJAY KUMAR",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 83,
+    "criminal_deduction": 8,
+    "legislative": 75,
+    "mplads": 95,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 53894412,
+  "total_liabilities": 40745130,
+  "wealth_pct_increase": 29,
+  "winner_vote_share": 50.73
+}

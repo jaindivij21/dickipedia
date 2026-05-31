@@ -1,0 +1,564 @@
+{
+  "accountability_score": 19,
+  "age": 78,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 0
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 20110000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 20110000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 155000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4436830
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 6111000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4081519
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1214900
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 92000
+      }
+    ],
+    "movable_total": 16591249
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Jharkhand 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bDx4mRL26zbRPrtruBSn",
+      "total_assets": 4692155,
+      "year": 2009
+    },
+    {
+      "label": "Jharkhand Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bDx4mRL26zbRPrtruBSn",
+      "total_assets": 21879954,
+      "year": 2014
+    },
+    {
+      "label": "Jharkhand 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=bDx4mRL26zbRPrtruBSn",
+      "total_assets": 26600771,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9321",
+      "total_assets": 36701249,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 682,
+  "assets_latest": 36701249,
+  "attendance_pct": 15,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Nalin Soren is an Indian politician from Dumka district in Santhal Pargana Division in Jharkhand state and an active member of the Jharkhand Mukti Morcha. He is an MLA since 1990, elected 7 times from Sikaripara (ST). In Lok Sabha election 2024, JMM candidate Nalin Soren won the Dumka Lok Sabha seat. Nalin Soren completed B.Sc. Part I from Sahibganj College, Bhagalpur University, in 1969.",
+    "title": "Nalin Soren",
+    "url": "https://en.wikipedia.org/wiki/Nalin_Soren"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Shivtalla PO & PS-Kathikund Dumka Jharkhand, 814103",
+    "emails": [
+      "sorennalin28@gmail.com",
+      "nalin.soren@mpls.sansad.in"
+    ],
+    "phones": [
+      "9162476598",
+      "9430334410"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "No",
+      "party": "the candidate"
+    },
+    {
+      "detail": "No",
+      "party": "spouse"
+    },
+    {
+      "detail": "No",
+      "party": "dependent"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+        "section": "409"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration",
+        "section": "423"
+      },
+      {
+        "count": 1,
+        "description": "Dishonest or fraudulent removal or concealment of property",
+        "section": "424"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for forgery",
+        "section": "465"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Special Case No. 13/2013",
+        "charges_framed": false,
+        "court": "Sri ARK Sinha Special Judge (Vigilance) Ranchi, Special Judge Anti-Corruption Bureau (ACB) Ranchi",
+        "fir_no": "12/2013, PS Nigrani Vigilance, Ranchi, Jharkhand",
+        "other_acts": "Section 13(2), 13(1)(c)(d) of PC Act",
+        "sections": [
+          "420",
+          "467",
+          "468",
+          "471",
+          "409",
+          "120B"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Special Case No. 15C(B)/2009",
+        "charges_framed": false,
+        "court": "Sri Prakash Jha, Special Judge, Vigilance Ranchi",
+        "fir_no": "Vigilance PS Case No. 11/2009",
+        "other_acts": "Section 11, 12, 13 & 15 of Prevention of Corruption Act 1988",
+        "sections": [
+          "406",
+          "409",
+          "420",
+          "423",
+          "424",
+          "465",
+          "120B"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "28/03/1948",
+  "eci_state": "Jharkhand",
+  "email": "sorennalin28[at]gmail[dot]com,nalin[dot]soren[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 906940,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1021340,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1055660,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1928950,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1783592,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 388340,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 481660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 308120,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 546530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 536582,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farming and Salary from Legislative Assembly"
+      },
+      {
+        "person": "Spouse",
+        "source": "Power Loom and Salary from Zilla Parishad"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹46.9 L (2009) to ₹3.67 Cr (2024).",
+      "headline": "Declared assets grew 682% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4692155,
+        "from_year": 2009,
+        "pct": 682,
+        "to": 36701249,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 15% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 2% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 15,
+        "percentile": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 705299
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 705299
+  },
+  "margin_votes": 22527,
+  "minister": false,
+  "mp_name": "Shri Nalin Soren",
+  "mplads_allocated": 147364097,
+  "mplads_expenditure": 77213281,
+  "mplads_unspent": 70150816,
+  "mplads_utilisation_pct": 52.4,
+  "mplads_works_completed": 36,
+  "mplads_works_recommended": 413,
+  "mpsno": 5826,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dumka (ST) election results 2024 live updates: JMM’s Nalin Soren wins against BJP’s Sita Murmu with a mar",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMDlVNWxJT1FYaG8xWC1WRllDR1puX19TaXlPTnJjQXQ2aVFJb1NacGROdEI4a3FndXhMZGlEVVN1em5uLVhMd2xaWjZIQ1llcjE0eU54N1gxekMyWkh0UVQ4RkNBZEFTS1FLUndRZFJMeUdkc3pLSmRSaG1XbmpmWEV6QnJkTDZWNVdZenNkSHQ4a1UwTHNHdHBBNFRkNzdOSE9CX0tMemtUMkFnN0ozLUJtdVdjMjdBUDRnR3hCVGlTNlpFV0tlZzQ3d1Q4T2EzdjBPVDIyQ0FZMjRoM2NJel9HRFlLaFpHZ3ItR05FbGxfVWtUNDVybV9kejZnbFU0ODhCM3haVFZWRnlVaVNqY0p5d29IZWvSAZwCQVVfeXFMTjVvc2cwT3J2T2R2emh0SXZGeExHbWxQazVZUTBnSGptczVLblpfczJrbVZIM2NRVXo2ZUVWSmR5Um9FQ28xb090YzR4YmF0ZDMwblE5eWF4RWJqXzZTc3ZJZVNoYXZjVzlpanMtaUZTUTZBUEZWdTNSSG1DVjV2ZlFNQWVEeFRMdHkyOTBhNnFKV2labVZQTk5VZXNxMFBMMkViYWpPUzhPbHUta3lBOEhPSWlfakNxVUx2QVVJQVpjOUpQaDlZWnUzd0x0cjFkdWpweFRyQkRmWVdWUkxFTWJ5THE3STNhdkdIcGx2REVSc1RrWFd2dEFtcDRhQ2VMWDI5NkZET2FoZEMzRG0xUm5yV2ZhcUNTOVUwZ0U?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Dumka Lok Sabha Elections 2024 Result LIVE: Who is ahead in the battle of Sita Soren vs Nalin Soran? Shibu Soren's daughter-in-law or party? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0xkbFJBM0o2Ykd0eEFFcndEc3FNbWczQW9LeDk0TGc3bmpvT05PNUwzUGhJZzc0eVJ4VGlaT1pUNnhKeXhYb2xjTURNZTVDRkptS1pIdnFjejRWbExxOGlCaG15SXlXUlQxS2dJTThybEJuaURkbmdJakJrUzZMcG9ob0RlYXRPWmgxQnFqMmVZbE9ja1ZUQTBnLWlwaFJPNC0ybDJkcVdkbXJ4SmU5bW90ajZFaUttU2I3UFY2UmFqSngyUlE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Dumka Election Results 2024: JMM's Nalin Soren wins against BJP's Sita Soren",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUVk0QzBWZVE0SlQxZ2lHS2p6VW5BTi05Qmdjc1ZoNkU2b0RrUVJZeVJoNUFuWW5ZU182V3lRdXp5VDE0NlV4SFZSQUpBQUZRUXZhRU9oMDNZMGhKc0k4T1A3dmNFSmNKVlNDVFRjbUhWOU5WSU1udVd4aGEzNEJ2Z2RHdzB3NWN2WHZWc3BaNnlVTFZPZHduRjZYa0l2T2hTbDI3MzItekRNbVg4RWhZRjE5b3d4cHdwTVQ2eno5VXlZMml4dTVCbUhZeFFPYW96cXpEUktOdEdMQmVVbFUtNHpIeHZTR3dNbFh5b1Z6VC1rcEpIZDhiTm9VSUx3UEUtQ1VmWnZ5VjNqdGZTMkJScG1WR2c3VWpCS2NNOENIdnhnQXNhNVlYODJUd9IBsAJBVV95cUxNVDhRRTRTZF8teEJrVGZiMjJkWkM5YV9SNzc5WDBQbEo0QXBwMVRtQ1ZwMHJvTGJTWllwMzNTTnBkSExMNTJyQ2d2UEpDM2Ria1JMTmpRZjZjbUVjRlFTa1hROHJfLXllS2V3TnpYNUk1ek4zZ2hlZWZXV29lN2lLMm1lWEJFTTgxZlJzUnlNV24zTUJhcWZ4ZmVrWWNJak9KYTZjTjdOY2R5dksxZEV6VXF2YWxEVktncWFDa0hQWW5FY016SXRNTDlfTU1na1BqOGRxVlhzMmoyMjlfdFpCRzNZcndyRG4zemlrUE1mcWdYMG5PM2RuQy1kMFk0Nm5RQ2ctdG5adlpKOW9Bel93ZE9tUEVrMHJkSGR5UjVLd2lZMTNlX2ZmMmcxOHVkVzhC?oc=5"
+    },
+    {
+      "date": "2024-06-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jharkhand: BJP's Sita Soren alleges irregularities in voting process, demands re-poll in Dumka",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTFlLOEZHandWbVpoSFBSVDV2Wk03X3JObnVfLVQtSS1RVTcxbVplY2tQLTNTMG1EMUxZMm00Z2IwM3lYWUFITzVoWDhtVVQ0SmRKdGJVWnhnTklWdTM2M0hSMjV2dkxfWDdxelpMeVFHMm5iSGI3YVVhU3lsMGdVQ0lETnlCNGZGYlNPTUdPWVhpRXpHckdjbDRiOE9HNGt5N2pNU0laR3NWS0sxeV8zazRXelBQaXFIRzEtalJDV0FBYVRBTmdEVFFlR2RiR0ZuOWRIel9uSVhPX1ViVEFoQzN6cGhwaXJncUhSV1hwcU7SAfYBQVVfeXFMT2ZwTHFUZXlZaVhrOFMtbUtVeWlpb203SEptN1RuUFlWRnd3S2Z6ZVRkMV9EcHFNdmxzT2hWQkxZMnJqRzBvSHpkRHBGTjg2SkhvZnlnRi1OYVJuYlhydDM0ZG5JX2lZQmVsTHp5Q1lQM3hSLWd0TjdtMXlUcFBQQVlqQUxHRGNqMXdCOXdMNF8xUDlTZ0JGM2tZdmpINFU5OWREOWFVbk03Ym9LVHp1UGVLdEFhMmlDaXN0aU1vUjBvZkFVUFc1a0VUV3FoVGM4RktteDFDcEhzbE1wYlRRRDI3MWxBM1J2Y05abEd2S3pyUURXQjN3?oc=5"
+    },
+    {
+      "date": "2024-05-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mint",
+      "title": "Dumka Lok Sabha election: JMM stronghold is now facing ‘Soren vs Soren’ battle; voting on June 1",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaVZEOHlxU3ltdUllYnRZcklQZWQ4X29RRExHbmZhbERDTkJTSFRzM25rdnBlWm5fU1lmMXlUU1VqQ0NBc3ZYaGRUVUdFR2JSdWw2MFVqSTlLQVBDMFE4N1ljbkduTV9CX00zbjZKUWJXWWFxTDVCNC1aTWRVem5LSWw3N0Z0TmdfQU5hcE8zLUplb2VrcHh4MGZWRUd4RVNoRWRmekNRWlRBWlNwOW0wRk42b28td1hfTDJuX0MzQXF1d3lJQnp6cTVHQ1owbmNSVVNnMTlyVFBPV3fSAeABQVVfeXFMTmRvOHA4QzJuQ05zVy1jUk9WOGxjOF94Q2djN1lqY0xyTTBrMlFoTENwV215bjdXZDNqOXExVjZtTGthVnFOaGJ2SXljSzBJUWZaaEpPVEtkemdTSGJEUDE4X0RCM0VyTV95LVRNcGc4Y0hrMDFVN3g5TUM0S1dDOTczUHV4c0xYQkp4aEZ0ZnNETDB6UWJJMEFCQXdvZE1nYTdpVTU2WnVxYkFCYnFqZFpsM3FOQWJidWlxVTlhRFg3elJsNzVJNW9kYVUwbXNLY24zT0J4MV9odktpWG9lcU8?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4526,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "JHARKHAND MUKTI MORCHA",
+  "party_bond_total": 135000000,
+  "party_full": "Jharkhand Mukti Morcha",
+  "pc_id": "jharkhand-2",
+  "pc_name": "Dumka",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180159.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 42
+    },
+    "debate_titles": [
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to repair and develop Dumka Kathikund road in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to provide stoppage of various trains at Vidyasagar Railway Station in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding widening of Sahebganj - Dumka National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Demand from govt to please start the rail from palasthali in jamtara to andal as soon as possible",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.8,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 126,
+      "value": 109
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/nalin-soren"
+  },
+  "qualification": "Under Graduate",
+  "questions": 12,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 2,
+    "Communication": 1,
+    "Health And Family Welfare": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Rural Development": 1,
+    "Steel": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "SITA MURMU",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 12,
+    "legislative": 15,
+    "mplads": 69,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 2,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 36701249,
+  "total_liabilities": 705299,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.23
+}

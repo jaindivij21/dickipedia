@@ -1,0 +1,506 @@
+{
+  "accountability_score": 66,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1308000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5920000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7228000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 56980
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 82000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1488980
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=133",
+      "total_assets": 8716980,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 8716980,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Malaiyarasan D is an Indian politician. He is a member of Dravida Munnetra Kazhagam party. He has been elected to Lok Sabha from Kallakurichi Lok Sabha constituency.",
+    "title": "Malaiyarasan D",
+    "url": "https://en.wikipedia.org/wiki/Malaiyarasan_D"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "38, Pettai Street, Thiyagadurugam Kallakurichi, Tamil Nadu, 606206",
+    "emails": [
+      "mlaidmk1975.ma@gmail.com",
+      "malaiyarasan.dmk@mpls.sansad.in"
+    ],
+    "phones": [
+      "9994743454"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/p/D-Malai-Arasan-100009332853185/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/d_malaiyarasan_mp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 3,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honble Criminal & Judicial Court Judge No. 1, Kallakurichi",
+        "fir_no": "CC No. 2518/2020, Kallakurichi Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honble Criminal & Judicial Court Judge No. 1, Kallakurichi",
+        "fir_no": "CC No. 1950/2020, Kallakurichi Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188",
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "STC 265/2020",
+        "charges_framed": true,
+        "court": "Honble Criminal & Judicial Court Judge No. 1, Vilzhupuram",
+        "fir_no": "CC No. 357/2018, Aathur Police Station",
+        "other_acts": "Section 147, 174(a) Railway act",
+        "sections": [],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honble Criminal & Judicial Court Judge No. 1, Kallakurichi",
+        "fir_no": "CC No. 422/2016, Thiyaga Thurugam Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "188"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "30/05/1975",
+  "eci_state": "Tamil Nadu",
+  "email": "mlaidmk1975[dot]ma[at]gmail[dot]com,malaiyarasan[dot]dmk[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 548520,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 490620,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 481530,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 53784,
+  "minister": false,
+  "mp_name": "Shri Malaiyarasan D",
+  "mplads_allocated": 176686299,
+  "mplads_expenditure": 118077625,
+  "mplads_unspent": 58608674,
+  "mplads_utilisation_pct": 66.8,
+  "mplads_works_completed": 187,
+  "mplads_works_recommended": 209,
+  "mpsno": 5817,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kallakurichi election results 2024 live updates: DMK's Malaiyarasan D wins",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOQlBucjhpMzRMb1RIdW9oWEhBVVR3dzE2ck1GVFh4RS05b1MwTC1ZSWk1aElwbkd6VGpTcTByY2RMaWFoSkZfUVJEd2V6amNjNnBQOTRmeUdDYkJvdV9IVUxGWHFmdlNmS2tjRjMzYzFGR1BzajFlMFNmZUw5OFQtM2hQb05ka3VXWW02a2FhRFR3OXNFU3FiM0g1M00tOGE5S1lkLXRZaUhZQ1c2VHJIV0tLVUw0b2RIWlh3Uml3SVRiSkpEZEh4Z0kwT0s2TjBrS05SS3Y0ZHZ5NERsOUJBMDY3WFp2ZW9TaWRTMU83OUVUcTZCRno1THlySG43YkVzVWdpaFJnM1BSTFBDNHNjMXpmYk9uT3pIbmExNWswckt3cDNnNEluR09pdGVEZHQ2U0tzNzR0UEVERVBIb2g3WmRoUld1RjYzWlQ0RdIB0gJBVV95cUxPdWRTRVRSM2F2emQ4c3g0VE80NmZRWFpkTEt3YnRIeFJBdmVmN2FQbXNjekxtOUF3YS1wNEpFeWM1VXRwZUc4aVh0WERMRkpxVTJOZUR0WmRmUWhhNXR6NlJweEZrNWhOTklmZVItWno3N05DVFZsYmNzN3Y5TnJ6dXVqcHNzQW9yLTZIelF1dGt5Z3VwSVRkOUhMZGdNaEYyYUc5SERBZkJGR3RnUnVlU3FOcUF5cUlDcV9JY05LWllVakY4SWlwNE5zc0dIQ1dfVWdteVc4am9JRWVvODJObVV3OGZFZUQ1SmZISmVZV25nUEJPVXpGVHdaejlvTTRjbHZ6OTNtczVrc1hlYjlubkppb3g3S1pxdEdNUUZmUGNWaG1abVc3M2hYbTNpNW00b0RfekJlTWtKU2xyRFItcUt2U2tMSW11MUYzaDA3bFlLdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Kallakurichi Election Result 2024 Live Updates: DMK's Malaiyarasan D Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdS1TQzQyalp3dFl5V0taeWRzdXhFUkxqRllBSlNKUmhwdEx6N0pRLXF4NFJobjRSeHBUa2pYYkxhMVBJTkx4Zm5Scy1JMXNYYlh5Vk5SeUw2UWVJU2swdFdLckNsZFVKYlJnQW9nRFh3RUVRT3c5bXBrY04wWVpHQ0laUG1QVUoyNFFmYi1CYm5vRmdpNGFoaDZsX09LZ3ZtZ3lDNmlpYjdlYjVjN0I2UjdLeFR3SEE5R2hMY21NcUFfVWVkUG1hZlFFOHfSAdoBQVVfeXFMTzI5Sk1rVFBVUnJRcVdhTzk0M0xrSkZyU3NvX1lnWHpldm1RMy02R3Q5NGxyYnFWYl96cXVqR3A0OS1GMHlMMEFMcy03RnowcWw5LWJMb3JwMWlvZFdGY3plSmJrLUJNTW9qVG5SamxjZk9TeVJqRzJyZzRxYUlfMEhKeUxiR2NEaWhlcXNSN1dSYkhrRWFUcm4xMEVTcEJWWGZHdEUyNnBJLWZwc3BINlF4VnVkRjVRMDk0S2VJSUVLNTg4WUxHcGllMVdPTlphdWZtVkZJcVM4LWc?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:42:44.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Malaiyarasan D, Dmk Party, Kallakurichi, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUXFncTZVWmJXWS1ralg2T2Z6d1FXWVc0QWxBX01uUDQxTmNCdkFRSEprWjRNOVdaTF9pZWRiUHFFSjd3UktXQ0pwdU0tbTBRUkVqeV9QYzR0X3JPWnpIMl9XaWZHTFVCRGwyNHZnUTUzMTZHQWt3RlNPTGdRdHVXSVVKWWk2bHlFbGpOV1dGa29WQmxHUFFhUnBkSVAwZGNuV0RwR3VPZzBqNDQyZlUxMXNFTFg2RzhlWmtibndpOGlPT3JPVk9YX3I0Vk9JYzF0UC1jS3NkS3A3NUEtWEpiRzNibw?oc=5"
+    }
+  ],
+  "non_serious_cases": 4,
+  "nota_gt_margin": false,
+  "nota_votes": 8532,
+  "notable_record": null,
+  "num_candidates": 21,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-14",
+  "pc_name": "KALLAKURICHI",
+  "pending_cases": 4,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180376.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need for establishment of Industrial Corridor in Kallakurichi Parliamentary Constituency in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to exempt the teachers appointed prior to the enforcement of the RTE Act, 2009 from mandatory Teacher Eligibility Test (TET) qualification",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to address the grievances of pensioners",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to increase the allowance of Divyangjan from Rs. 300/- to Rs. 5000/-",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to provide stoppage to Pallavan Express (No. 12606) and Vaigai Express (No. 12636) at Ulundurpettai railway station in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to establish a Public Sector undertaking (PSU) in Kallakurichi Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Increase PMAY Housing Assistance for Tribal Communities in Hilly Areas of Kallakurichi Constituency Due to Rising Construction Costs",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to open a Kendriya Vidyalaya in Kallakurichi Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to implement all the railway schemes in the state of Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding problems to be faced by sugarcane farmers due to proposed implementation of Sugarcane (Control) Order-2024",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. to immediately provide NOC so as to protect the livelihood of the people live in the mountains of Servarayan hills, Yercaud - the poor man�s Ooty, Kalvarayan hills, Pachaimalai hills and Arunootru Malai of the areas in Kallakurichi",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 14
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 124
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/malaiyarasan-d"
+  },
+  "qualification": "Post Graduate",
+  "questions": 26,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 3,
+    "Railways": 4,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KUMARAGURU R",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 70,
+    "criminal_deduction": 4,
+    "legislative": 51,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 8716980,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.94
+}

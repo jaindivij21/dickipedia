@@ -1,0 +1,501 @@
+{
+  "accountability_score": 50,
+  "age": 46,
+  "assets_2019": 43351521,
+  "assets_2024": 84207251,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8456683
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 71138736
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 79595419,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 65000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2683471
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1487192
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Sum Assured 22,20,000 22 Lacs+",
+        "value": 4220000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1200000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1226935
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2185910
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 13068515
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ZhnGwQjsozFNKA7RZygE",
+      "total_assets": 43351521,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5327",
+      "total_assets": 84207251,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 94,
+  "assets_latest": 84207251,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr. Amol Ramsing Kolhe is an Indian actor-turned-politician who is the current Member of Parliament in the Lok Sabha from Shirur and member of the Nationalist Congress Party.",
+    "title": "Amol Kolhe",
+    "url": "https://en.wikipedia.org/wiki/Amol_Kolhe"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Jijai Bungalow, Kolhe Mala, Narayangaon, Kolhe Mala Pune Maharashtra, 410504",
+    "emails": [
+      "dramolkolhe80@gmail.com",
+      "amol.kolhe@mpls.sansad.in",
+      "amolkolhe@mpls.sansad.in"
+    ],
+    "phones": [
+      "9594511155",
+      "9594511115",
+      "9326493315"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "18/09/1980",
+  "eci_state": "Maharashtra",
+  "email": "dramolkolhe80[at]gmail[dot]com,amol[dot]kolhe[at]mpls[dot]sansad[dot]in,amolkolhe[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4073430,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4793590,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3259400,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4428030,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3662590,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4588360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1800930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1632810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1336990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1222402,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Self Employed"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.84 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128351453,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 30011014
+      },
+      {
+        "category": "AIM Power Achievers 4,39,592 4 Lacs+ Saavi Consultancy 1,80,000 1 Lacs+ Jagdamba",
+        "value": 13481018
+      },
+      {
+        "category": "Jagdamba Creationa 14,79,017 14 Lacs+",
+        "value": 1479017
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 44971049
+  },
+  "margin_votes": 140951,
+  "minister": false,
+  "mp_name": "Dr. Amol Ramsing Kolhe",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18648547,
+  "mplads_unspent": 128351453,
+  "mplads_utilisation_pct": 12.7,
+  "mplads_works_completed": 8,
+  "mplads_works_recommended": 102,
+  "mpsno": 5185,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Shirur election results 2024 live updates: NCP(SP)'s Amol Ramsing Kolhe wins",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMTUtZGZfQzlSckpac3liVTdQZ1dPdWRGQVZvZFZMU0xsRXcxREpUWHJiVW1GZjhpLVRBak5wS1lDdExMcGRUajRmdkdoU3F4WklNTG9Pcm1qbjF2RFl3dERBZi03c2V2dWVhY1V6M0oybDVKd2ZfOW9jZ3FROVdKYldEWWhiWFlxRUNfQnVOa1c5c0VXbE13MlV2OGRQa1c3bFRkR0lELW9xYkF2bGdBdm5OclBSQl9yUWt3aFVWUGxOZUhvWU0xX08zd1dWMGc1cG1lZ2hIZ25vcU1ncThRRjZGZmxvb20tUV9iYjh6bzlnWVk3dk82QVlEREtVZ2tTTWNPX1hISmV5M0dGS09DX3FnRklDX3RYb3BwZHJCcEMxSVRPVkZXT0RLTlNFZ1ZRcG5ubkQybThlVjVzNlHSAcMCQVVfeXFMTWdDYW1ubVlnVEwxd0JQV3VFMlBKa2Q4Sl9lWm9XaXRFM09RelBaSW9INm9YWUM3ZGdpb1dXVzloZ0FQUEJhSWRVQWRJUW9HOVRHSV9FbmZrSE9NR040eVRYeXlqODJPQjhGSXRleWhaQnhwWDdOdnpDZVljcDZKZFJ6SGk5em5XdlQ0UzE3UWNCZE9OLWRpUDlPN2JOZjYwb0ZwOXJZa0w3azdBRVBLZmRvZDFGOWVVaXpKZ1FSMzJvZlp6aG1TTmtFVUEyTDVWYTlmSTNZbEhTd1UzVkk3U2RDQ08yZ0g0WmhxS2g2TFNRSzRrWmNFdnVRT2FfNGQtcmVhenhmRUhMYTU5RGp0REhEM2hhQm1pZ3pCbG9XUFA5eFVuV0FTaUJ5V1BIZ3ZVRUh6djVrSXVaZmpqUE52RnpyMjA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Shirur Election Result 2024 LIVE Updates Highlights: Dr Amol Ramsing Kolhe of NCPSP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ1loVkp6cWRhNkRWZm9wTEZNLUVfWWpwN1RTZ2JRRjZvMWpaY1k1X1dSVlQwaUFCREs3OUx0UjNtT3pZbkdOYUxTYWVENlBaUDdxcl9fREhrZm56MTdFejl4Tm1OZjIyTk5TdmQtaGVPN3VIRjVEcWVaY2RGejBPblpubmt5eTBZdzcwWm8taFBFdndxN1NVU3lGcWp3NnhMSzJYbml4ZkVNY0dPZndrVi1fV0NoVUJDUExOd1NlSGJuOWxTanNqWElVWnd3V1BFU3JTU1NzQTlOd0FuUGhYbtIB5gFBVV95cUxONkZvcFUwUVVNSU05TXhoZGhlaW9Da2ZKOTAxejVYQ25MdHd4dl9jRGdVOVJXY3VNMm9PRVhHZnJWTDFrZ19EdWJtUXcxLUMxQnpZdHNWcHVoMWxtNmVOTGs0ZHBON3ZtVG9WQmw5WkZsSlp6QjJmTHBBTHdKN3ViQ1ZuWm41VVdkMmlsOHU5dTNnUEJDdHJnNWZGSks2SFM4T0pIRzlQZzBRWnpNeDV0SXBoQV85S0JPSW41b1NZTjcwdDZiWXlQcGtwUEVPamgxeWpqVmN2cmtyZm5DT0lHVV9IcjhzUQ?oc=5"
+    },
+    {
+      "date": "2024-02-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "‘Dharma ka thekedar nahi, pehredar banna chahiye’ — Full text of NCP MP Amol Kolhe’s viral LS speech",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUh3WmN3NlYzajNMeERCZ0NrMEtCU0RiNW1TSy1yanBPWlZ5ZVI2dzhLVTRmVTV6U0phMk1LbUtYbzZ6eTcyeW5KdjloMnNpUk5EeVNXQ21MZWJId2k5M1h5S2RUVWU5a0lqRWN3d3pjX050UTZ2MDRVV0xOZW1QMDk4ZldKQU5Dd3RKMXlqRUd6NDBELXROaTkxTW5MSWdwd2lSQ2k2Y0YwdjlKT0JWOTdZbmxaTDhqN3VvUmJPYnhpTy1n0gHKAUFVX3lxTFBjcFVvSWkzci1OcThZMWJUT2pfNklROC1YQmQ3RE9pazRjdm82a1cxcmcxVWJIWU95X3FsNjd0cE0ycW5OY2Q0dWZBcTlhclNlN2xSTndhYXZfdGR6WHRNR2NhQzgtQnpxbzE0ck1BYVc0UWhYOE1DbXhUb0IwNUxyclUtNHJDbHRIak9YWndZOGJTUFdfTWRpMzB1Z0RRNEJHLWJJc19Fdl9ETk0xcHNfNkszQU44LS16X3I1Sy1vc1htSm1CUHFuYnc?oc=5"
+    },
+    {
+      "date": "2019-05-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "Shirur Election Result 2019: Nationalist Congress Party's Amol Kolhe wins, beats Shiv Sena candidate",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUi1fLWRSMy1EZzdmbUNDZm45MVd6Y3JIZllMMkZvWGtJR2dBRnlMRzdEM0d6TTMtQTlXTWtxQnk4ck1lVmZnNDIzNGQ5VzlkckpwaV8yczdIa3dsZGM1c0twb3BzZjN1cUctdkhTdm9wVWVDdXQwTXp3U1FyelZyNUU3cmRDWUY5MTNlYkdwczR6ODBOSFFRZTJyT0Z4Y1MzX1F6V0N4ekxLRk4tWnBBTTI0cWFvXzBDNk1XdkpkMl9vTF91a3RKaUJwZmpYWFNPdzhFNUNSSEZiQmJNV3pwTjhCWU9JZEJVVEpCMThB0gHzAUFVX3lxTE1uMzJOSHVMa0x6aEdkdVlJYlNLVE9TVjFiT0YwS0hYQllvUEFONmpJNUc0V0NDeW9GRGtmWl81cXNFeXEwb09MNkZqZ29BTGNOQVdfdGNTX2s0RHhhV05jVDB2bENhTlRmRDkyTnpTUzdwUUJIWmx6OHRTaFVMdEpNS2JBN19FNS14MHpmZEw1dldDT0xnNlFaYTJpZzlGZUVRalhMV1J3U1AzR0xHUnBiSl8zOThlalZscHNYSTFRREdvRWJiVmJaeUFvUGpmMVV1RDV5TjM2OXI3OHpyZnhTSTBzbWZWMFpKUTg0bW56XzUwaw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9661,
+  "notable_record": null,
+  "num_candidates": 32,
+  "party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "party_bond_total": null,
+  "party_full": "Nationalist Congress Party – Sharadchandra Pawar",
+  "pc_id": "maharashtra-36",
+  "pc_name": "Shirur",
+  "pending_cases": 0,
+  "phone": "09326493315 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180247.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Acting",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 78
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Request for Protection of Children and Villagers from Increasing Leopard Attacks in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to reinstate the provision of MSP on Haritaki (Hirda) crop and to address various problems being faced by tribals in Khed, Ambegaon and Junnar in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need for comprehensive legislation to control online gaming and gambling",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to review the decision for realignment of Pune-Nashik Semi-High Speed Railway Project in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request for Resumption of Soybean Procurement in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to Extend Soybean Procurement Deadline in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to minister that the operation of chemical and industrial waste management company should be banned in Ranjangaon",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt an inquiry should be set up against the delhi govt. in the incident of 3 student deaths in old rajinder nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding completion of Pune � Nasik Semi High speed Rail Corridor Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 218
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/amol-ramsing-kolhe"
+  },
+  "qualification": "Graduate",
+  "questions": 65,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Atomic Energy": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 5,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 4,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 2,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 3,
+    "Railways": 5,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Women And Child Development": 5,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ADHALRAO SHIVAJI DATTATREY",
+  "runner_up_party": "NATIONALIST CONGRESS PARTY",
+  "score_breakdown": {
+    "base": 48,
+    "criminal_deduction": 0,
+    "legislative": 67,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 84207251,
+  "total_liabilities": 44971049,
+  "wealth_pct_increase": 94,
+  "winner_vote_share": 50.83
+}

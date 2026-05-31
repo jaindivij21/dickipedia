@@ -1,0 +1,459 @@
+{
+  "accountability_score": 37,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 12581300
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 14364500
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 43401550
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 83419850,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 500000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 20217982
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 21374343
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2036547
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 140000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 44268872
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7521",
+      "total_assets": 127688722,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 127688722,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kishori Lal is an Indian politician and the elected candidate for Lok Sabha from Amethi Lok Sabha constituency. He is a member of the Indian National Congress.",
+    "title": "Kishori Lal (UP politician)",
+    "url": "https://en.wikipedia.org/wiki/Kishori_Lal_(UP_politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House No. 3946, Street 11, Shivaji Nagar, Samrala Road, Ludhiana, City Ludhiana, Punjab, 141008",
+    "emails": [
+      "kishorilalsharma@gmail.com",
+      "kishorilal.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9811608001"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "15/12/1960",
+  "eci_state": "Uttar Pradesh",
+  "email": "kishorilalsharma[at]gmail[dot]com,kishorilal[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 6046020,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5785210,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5752840,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5718550,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5698540,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 9011780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4916260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3984610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3930450,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3389040,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 40% of MPLADS local-area funds were spent — ₹10.22 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102192733,
+        "utilisation_pct": 40
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 23574346
+      },
+      {
+        "category": "Smt Manjeet kaur w/o Sh Kalyan Singh (Unsecured loan from friend and relatives) ",
+        "value": 23422002
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Income Tax and TDS as per IT-Portal but is has been already deposit 1,00,790 1 L",
+        "value": 110990
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 47107338
+  },
+  "margin_votes": 167196,
+  "minister": false,
+  "mp_name": "Shri Kishori Lal",
+  "mplads_allocated": 171500000,
+  "mplads_expenditure": 69307267,
+  "mplads_unspent": 102192733,
+  "mplads_utilisation_pct": 40.4,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 52,
+  "mpsno": 5546,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-23T11:50:07.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "Amethi MP Kishori Lal writes to UP CM, demands end to power cuts",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDl3YldYUi1sbWZ1RVhnUTZPSGFCeG5BVFVkaldFVUw0NV9xTmJzejRTeWlSNG9zUHZ5TXBSdDlab3lYQmhkYXkyX0d3WEtPNmZwX09RMlFZWE1GZ01wM3gwRlZzS3BGVnpFUWxHUlFIV0lhUDhhOTgxbW9SekpKcFhlMEFqTUlBRnVZd2FDc3hSdThrWm1zNmRRdGphb0nSAaQBQVVfeXFMTlQ4Z1ZubXBLUDJpX0NGUExwUXktZVRTQzB2N0k5R1p6T1dsYW9od00zUzBWTzZOb1RSZmFtUlZBWHlBR183cmZiOFhOLUdlcGl0d2lYLVVQUXoteEVOR3RGbFJGYncxUTU2ZVhfUkw3bEw2Z0pYZ2stZWNwNnBtb3hBWGNfeVZZOUMzb0VXVm82S185YnRTU0VpNDRnOFNHVXNvUmM?oc=5"
+    },
+    {
+      "date": "2026-01-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Amethi belonged to Gandhi family, will continue to do so: Kishori Lal Sharma",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT2I1Slc5NEJWUmgyeDFzWW55Rlp5aXpOOURrVktzcW15UmxWWjRPNGFrdS10S2Q2amhWcGtmSFlUQ1NxWVQtRjlBby1VNVVSd0dyUXpYN2VVcW44MkxJNGdJMUpfc2lMRFBpdDVPemxHRGgyY0FuSkJlc3lkM0Y2T0ZkS0M5cmpENUdiVGZQQnZZSlBNYjBwOV9ycG4tbHdMSkZ0bmZtaTNHb25Wbmhva0lMU0RwalptVldvQzFGQW5ZOXl0QnJnUzhXZm1wTS1zTUJ5VUFaeUVnbnNkRzRaRDF5NHY4RWtx0gHuAUFVX3lxTE91YTU3c0YyUm9RemJlZUhmRDRZbUE3SUpnWHRHTDJyTVhGakZuSGpjcHB3NzJZaE5lWTQxWEd1ZVBtSEFFVG1QUy1DcUFlblBjZkpuZ0x3VlFPM09jc0RFNzJfWXBqcEtSU2FjVGFjSTlGX1N5U1U1d3ZqMmZGemZsTmI0bTJrRVZsekJ6LVNEdUVsOG9VNGdEOTQxODNpZmpqRkhqN05OMmR5Uy1SUDF6bXlkOWtpLUJlVUdSSVZDQVFMZFZvM1gyaEFialJFRlJlSTJDQUxDcXlzRzQ1MUdwekFhZUp0Wkx1dEJNZ0E?oc=5"
+    },
+    {
+      "date": "2026-01-11T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Forces that killed Gandhi trying to erase his name now: Amethi MP Kishori Lal Sharma on VB-G RAM G Bill",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVi0tSHpFNXJFLTFqdkNOeXFUeGM4X0JEb3BFM3VqbWM2a3BqN1A5SlkyVlVJRkV1M0NvanRVdTQ5a3piT1BaNV9yNWVEQmZTNmhyOWFMYktPTHBGRFlXZEgya3VyRHd1a1czR0dqTkpsMzVqY1JDUkYwX1NRZVFtazFuaV9DUUtrOTFob0gzNkRlU1NJNFF6SU9TVTJfVVRwYk5zcEpwOWVLcjJyTjVNR0VHWlZGRDAwSldWREpxWF92Z1NiaUgtbXl1dDA4SmNfS1d2T1NDX2Q5WURSejlGMUxTOXhtZ9IB6gFBVV95cUxPdUk2YmFPUENKcGNkalFyYm9iZnNpYkxZZ3pWV1dFVU9XNVVxanl2NGZYOXQ2dk9kZDRxM3U5ZEpwZ1pDLUFwWWhHdFE4WjczVDRGNzBrSm9aWEpUQ1NQUkhmemZ3ejFmUkQwWkdSQXp3ZGQ2ck53NDJ4T0xBZXpKQ3A1WEJ4S2ZvS3NMU2ZYaFl4b2c2NVhMaUVtQTVuOE1kaWNkdWcyMVo1UUZjb3hHQVNLSC1JaUwxQUVqeTJIbDh6cWR2ZzRxLUwzSURqSmZFcGtTbURrMVFBUzZQd0Y3VUo4UmQzV3A2RVE?oc=5"
+    },
+    {
+      "date": "2025-05-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Amethi MP Kishori Lal Sharma, a Gandhi family loyalist, reaches Punjab to campaign for Ludhiana West bypo",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcThaMlhGSDBHeTN1OGNpMWRBQUxfSWpkaXo1R0pMXzJPbUd1TTNIRVNSOFZ2X09mZEEzMmh1QWFoQ1Y4SXJOMFduNTNHQU9QRnBieUZPQ01aRUd4aGt6MnQzTTJDbEloaVRiZFpjRHM3eVN5M2RCdDlmMkp0WFFkUE5yUWdkMEtBYzJWR1VDNVJ5UndjTVVxdDcxQWxsOEJMSkRpUThqb3A2MzBZem1MRVhRbnlNZS12Sm5EdXdzUHBVTnhyV3BodngxV3FfbkFRUm9OajlMYnhZMHdWX2h3NWZLMnozai1VajhCbVBEb0FEc3pZQ3NBWkpQZ3JJbHFZemhNbURlR2IwVGZzTUpUeWNWcncyZU1zd09mXzV3WDRkRFE0MWMtUVZmLU1TMGt6bDg1aWx4MnjSAb4CQVVfeXFMTzZvakNXd3dMQXNJeWVvaHZ6US1kZFVYcXJZOFcyUWJUdFR6ODVLbHBKQUxab1UtY0x0ZTk5VHpmTER1Ul8tVGRMTUx0NGc3SE5UaEpGX29FVEp1TW5pQ3dscy0wX3BIN1htS3BnX1BXbk5zV2ptc3c1QU5wRnhXNTBIbXJyWHlEcVd2dWI5OVRuNlNNT2pIWUFVZ1NfRnlLRXVRT3FHV3NqaVlRYndhSm9YMjY2RWlmaXZPUE5tdmdFd18yZWFOaTd0aUhNV2xUSXJ0aUpkZHBfRHFic01laFVZdnI4OVFLSmNycUtxY2RtZjFXOTNucEo4RTFqbDdaemhoS3o3SVk1dGFObm5GSllSbC1yTUxtUF9vS2VsNExFVi1ON3hSM0ZDYVVwZk5aTzNfWWZPcWlhZEZ1RHNn?oc=5"
+    },
+    {
+      "date": "2024-07-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "'Not in our values to use such language against someone': Amethi MP Kishori Lal Sharma backs Rahul Gandhi",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQbFc3QVplSFNCeW1xLTgxRVZRSVpkeHNueDhQUnc2dWJoSV94enZFTWlSd3B3UWlPd0hRYmpqZGRsbzBfaEkwS01SWTNoVlBWYzFHbHlGN2RnYnhVU2JIVlowVU1ZdWVTOEZSQ3h0YjkycGlLOThzZXRxelhXVEJxV3g3V2xsZ0tFQjFzcDZjeUlZaWt1UFM1TWhacGZscjI4Z20xRzhJLV9DeldlZkEydlEtcEtRZ1N1RkNvY01TY2RIVHM2cEVZU08zbTVldGRQNDFKTUJ3NTlYbzF2MnByNGJhNFVDM1M4LXIxMzBhV19ydHFKT2Y4Rjd0MGRWV084YldnNTdUQjNGN2J6S3pOZTZRbVc2Nk5tZnY2Q3N2aDI3dnM5bEg4ZGdsd9IBsAJBVV95cUxQaWllbjdpY2hkZnE0YW1ZejNHd2FSMVNPVXFDaU9YdDZvLVRaTlJKRTBZb3N6czl1WFc5NjM5Tlk5Tm1DaHlhc1BadlVYQTlJdFpLMEIxN1BEbTdYbzZuLUJBbWMwZTJFOUVoNUJxamw0U1E0TWk1VFlSNjNxQ2JoM2Y5NzdsRmxfZFEzUTFBY1pJSkdGYlRtTmd2ODNuYTlYRG5qM1NZNXFFRU44elZTSTJfdDRQX2NCQzNiQzVvNG1XYkx1WjNHc05jMDBqTHh5bEdsVDZsN01Nc0c2LWFmRE1uQWtIZlcwNzZONGc3Z2hiNDZKRE9XTkpTN2tnS2NScUNva253TlFyVzUxZWdUSFB2TzBObDdTbTFkd2w1QVpQbk54SWswRXhZM2tUVVJN?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9383,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "uttar-pradesh-37",
+  "pc_name": "Amethi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180458.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Demand to provide stoppage of Dibrugarh�New Delhi Express at Amethi and Rae Bareli",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need for retention and operational continuity of Army Recruitment office at Amethi, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to start regular flight services from Fursatganj Airport in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "The Health Security se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Extension of Banaras�Pratapgarh Passenger Train (55141) to Raebareli for Improved Connectivity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding need to expedite the construction of Amin Nagar Tendua railway halt station on Lucknow-RaebareliAmethi-Varanasi section",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to ensure the surveillance of communicable diseases in the country in view of the decision to do away with the National Polio Surveillance Network",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Establishment of a Studio at Amethi FM Station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Four-Laning of NH-128 Connecting Raebareli, Amethi, and Sultanpur for Improved Connectivity and Traffic Management",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Statutory Resolution on the proclamation of the President�s Rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Update on the Status of Two Rail Lines in the Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 18
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kishori-lal"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "SMRITI IRANI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 0,
+    "legislative": 26,
+    "mplads": 53,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 127688722,
+  "total_liabilities": 46996348,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.99
+}

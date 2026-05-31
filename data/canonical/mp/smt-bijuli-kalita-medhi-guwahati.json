@@ -1,0 +1,401 @@
+{
+  "accountability_score": 46,
+  "age": 48,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 13000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 430000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1137951
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 481000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 790800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 350000
+      }
+    ],
+    "movable_total": 3189751
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4548",
+      "total_assets": 16189751,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 16189751,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bijuli Kalita Medhi is an Indian politician and member of the Lok Sabha from Guwahati Lok Sabha constituency. She won by a margin of 251,090 votes against Mira Borthakur Goswami in the 2024 Indian general election. She is a member of the Bharatiya Janata Party (BJP).",
+    "title": "Bijuli Kalita Medhi",
+    "url": "https://en.wikipedia.org/wiki/Bijuli_Kalita_Medhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "House no. 15, bamunimaidam Jyoti nagar Guwahati Assam, 781021",
+    "emails": [
+      "bijulikalitamedhi@gmaail.com",
+      "bijulikalita.medhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9854115394",
+      "9854027971",
+      "8920159980"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "21/05/1978",
+  "eci_state": "Assam",
+  "email": "bijulikalitamedhi[at]gmaail[dot]com,bijulikalita[dot]medhi[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 489960,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 477450,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 462090,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 450500,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 44% of MPLADS local-area funds were spent — ₹8.21 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 82130459,
+        "utilisation_pct": 44
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 251090,
+  "minister": false,
+  "mp_name": "Smt. Bijuli Kalita Medhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 64869541,
+  "mplads_unspent": 82130459,
+  "mplads_utilisation_pct": 44.1,
+  "mplads_works_completed": 5,
+  "mplads_works_recommended": 118,
+  "mpsno": 5603,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-07-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Pratidin Time",
+      "title": "Guwahati MP Bijuli Kalita Medhi Raises Alarm Over Deepor Beel in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWhrRjNFSW1jcXplbk5WMUxrd2ZyV3RrUk93ZkZBelc2aExUSkRyRnJTWVR6SHc0RnhYUFZHaHVVejNCbXFwa05iaHg3QjBVLThaTjIwR1ZPTDBtNkxIT0ExYTlSc3lncFpFS213bHVmY2dHTzIzZENGZUhwcG9rUHpiOGNSNjhtMEk3cVRsNnpUTFl1SThZeWNBeXM5YndjREs5SWYwaU9FS1RfLVRmUkZPQTZMZlF0V0MyOXg1RE5EVktQUlBYUjhHUHN0enRzSG5yMGxRb0PSAdgBQVVfeXFMUGVoa0YzRUltY3F6ZW5OVjFMa3dmcld0a1JPd2ZGQXpXNmhMVEpEckZyU1lUekh3NEZ4WFBWR2h1VXozQm1xcGtOYmh4N0IwVS04Wk4yMEdWT0wwbTZMSE9BMWE5UnN5Z3BaRUttd2x1ZmNnR08yM2RDRmVIcHBva1B6YjhjUjY4bTBJN3FUbDZ6VExZdUk4WXljQXlzOWJ3Y0RLOUlmMGlPRUtUXy1UZlJGT0E2TGZRdFdDMjl4NURORFZLUFJQWFI4R1BzdHp0c0hucjBsUW9D?oc=5"
+    },
+    {
+      "date": "2025-06-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Sentinel - of this Land, for its People",
+      "title": "Guwahati: MP Bijuli Kalita Medhi Faces Ire of Flood-Hit Residents in City",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkxsUDBiMFRhMWtobzIyWU1aRVBsLVJEMnlVaElXQmJIdXdsWk9uMWN5eTgyclljWW1jbUNFVUZvN1otZmRyUU5zd09XTUtSRFlRTTFLV3ZCNUxKSlE0VTB1TkMxSFVsZjU5WmRlOVdhXzBJeV8xSHZZMkVYRkd5RW5semNPTmQ4UmJWLUNJTWFYWTZoclRub2dTNmljcDI1NmVlTWIzMUoweERXMVJHX1N6cWdNak5HOFFhb044SXPSAc4BQVVfeXFMUHBiTkdQMTkwX1FjQnJqRTV5Vjd6bzhGOGRXdzVDV0MyZU1uR2dUU2VodWFOQ3dlU2EwWjFSWEp5TmZyWjQwYUk1S0pxTThneXNZNmhLS2ptOUF4a1hhd0VucVFaYlBkcHlVd0ZkeE91Z3hDb2x1UjY1RHFROVU1aTZRTk13WThUQ3ZFaXM3MGdqRFhnZWVaVDFsdG4tWkFwWC04VERtYm9FOGpDS19mX3lBOEwtaXdmU1NTa1c0M3hUWGxQcWhSaUkwMFFiR3c?oc=5"
+    },
+    {
+      "date": "2024-07-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today NE",
+      "title": "Assam: BJP MP Bijuli Kalita Medhi compares Guwahati flood to Delhi, promises changes",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWS14MUVaQ2tlcno1a2hIY25teDNXeFFia09JQ19JSzBwbS1zZzZuOFhOMzFpNGFUaHJtQ1ZvbDVBVjFNdk94NkkzSnJZOU1wOHZIaGRDcWtWelVscTFyMklvRmtEdWk5X3lsRWNnUVVWUVVKYnlxVzd6c1RPdk1FRDRUYXpKdWxDSjVjalpxbEJ3ellhVmxacThFelF6SFM0SnZ0R3JraUNaazBGc3FaZ0ZSemhiZzF6Tms1QWc3bTdoXzZ4S0dhbVRSQVpkT0hsRWV4TU1UUnXSAd4BQVVfeXFMUHB0TE54Ty1zcDl2WXYxNjNLbVNSZjRJNmtxcEJ4aEFwbTlHbEQwODV3Sy1oUS1oaFlUb0pLZlV1NUlpUE1xZ2NxdWFaQlpUVVNESGp4d2U4clh0elNaWm9TU1BDcVFhVVlHVmtfZGVaWmRnMG5iYmozMGQ1OTB4VDZYRVpQRGY2c0hnNVk3cjc5UDZHUkxLZUNpc1JIbTItMGxnNFlHZnpJZFd3V1dXY2V5dTAtWmxhRk1NMzVLMU8wNlMyaUljS0JKRUtCWEYzaDg4c2xNNTI3ay1rbktn?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Gauhati election results 2024 live updates: BJP's Bijuli Kalita Medhi wins",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxORkg4aXBEaUJGUktNbU1SYXhzRHZUS01jQkhtOHZzdDFTb3Z6SF9pTVl6d0ZVZVNoYms2Nkllc1Jqakljc0NuS1dWeEVpTEZjalgzMEF0b3ZRd3VkLTNWRzcwTWNJRGdMN3pqeHo1TzQwajdzdTU0cW0xeThLeHNfXzhqbXM1dGJRNV8xNThqcXhxbHBrNG9uYi1KWmU0aUtrNDc1TkY1c0c5T09MRG4wbzVQLWlDN2hkTWdqa1puRWRobmpsbV9uRDE4VWVhZVdGVlRVdjdEbXdYejItcDR1Njl6X3JfajdIU1Ixem93QXBuN2RYNG1ESUNKZVpyWFBSSnpVMDVwd1laZEJGU0llNlp1SzlBSjQ1ZXpSaWY1LTJ3X2pRenRkSnppY01FNzhIQWFuTWJFVXVuOVXSAcACQVVfeXFMT2NRQUZjUDk0WmVpcExwR0VwdmJsdGQ5b2xwbE5WOXVQSHJRNzdoenMxNUkwMGU0b19qTko3eEg2S2t4U0J5cGxPcjBFZ29QQUtzNllEY0k3ZE9kTWY1VXNLUFJtWDBEcDFadGJpdFd1cE8yV0VMam9yMVR5aW1oYmUzWmduNVRpUWwwMkZZWGdkWjVUZFpYemhWTjgxY29Pci1FZFdsNTAwTm9iaTAwV3J0Ti1yYjhuN3U4MzljeVM3aXpKRFRFTkozLXRjLUpWVGs0MEdEUUJTSjlPYXhpX1MtcndlSVRrTFROWTU1X2I5dGJibUZ2aHVXLWxOaVNvYW15Z0dQanFkcFBvTDdvOWltY19qQWdScE5yVUNXa0JXUjhLZngyNTd6UjVpdU82VUxlZkhOWGQ0TkFNNHJXOFY?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Guwahati Lok Sabha Election Results 2024 Live: BJP's Bijuli Kalita Medhi Leading by 61,611 Votes",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR2l4cGFtR0ltekVPMXk5am9DMkRJam9pVlVFQWFuZFItUzlGTEFJQ1E3WTl3TDE2bEJfNFhnWTV0TW5XckxOVGs1ZkNtbnlxSlRMTy03LTR4bDVrREVmOFIwcm1IWHU0dFNLS1FmZUsyZ1hnYVFwMXU0eDVPLTBfSHF4VEIzQTViam1RZDVOOWgzaFZqbmxmYkJxendxWXZjc3FFUF9sS25GaEdEaGZhSS1kcXRjZFNNQjNIZkVlTVpGdnV1azYyYlczek5jeEJaeWQxb3VwUHc5bE0tLUx6ZkljcmFzLTUwUzZXTjZYYmVSV09Ud0JYWjQySXZTN01RTU9wcE9xVl8xd9IBjwJBVV95cUxOUEZGZzNrdm5GV1U3RTFxbFhqVkpIZ2FYWEJMeXZoOHgxeXdFaUkwMFNXMFRSZ19sZTdkZVV6M1hRb2h6SU5GVjNxY2xUY3hfcnY4ZW42OUF4b0ZuckpMQV9ycnByRXZnY1FqYkNqOHhwdXo2UUNUaDdqLUZZM29aQnI0MTIyV0VCOXRhelZUV2R0TWRlN1gzenhkUUFsMktOeU5ueHIzZlpkdFRCNnpwVmNhckdkN2tqRXlISGRDUkVhd1V6YVc4dTA5bnJldHZ3QTFpSDZDaml3T1ZCM3poWWV1a0U2MkRNemdsUUdHX29vSURiU0lWeGstck5TUlg2YTZXU3U0d0Q1TDFGRHpr?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 20249,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "assam-5",
+  "pc_name": "Guwahati",
+  "pending_cases": 0,
+  "phone": "8920159980",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180030.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Need for a Comprehensive Flood and Drainage Management Plan for Guwahati City",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Urgent Request for Conservation and Protection of Deepor Beel, Assam's Only Ramsar Wetland Site",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to include Kamakhya Temple in Assam in the list of Iconic Tourist Destinations",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding need to take comprehensive measures to address the problems likely to occur due to proposed construction of dam over river Tsangpo by China",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Demand to govt to set up a railway station for both passenger and goods trains at darangiri and provide stoppage of all trains at least for five minutes",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.4,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 63
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bijuli-kalita-medhi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 15,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Cooperation": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MIRA BORTHAKUR GOSWAMI",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 0,
+    "legislative": 40,
+    "mplads": 56,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 16189751,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 55.95
+}

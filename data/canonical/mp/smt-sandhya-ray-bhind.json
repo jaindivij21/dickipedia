@@ -1,0 +1,477 @@
+{
+  "accountability_score": 47,
+  "age": 52,
+  "assets_2019": 51108660,
+  "assets_2024": 96772861,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2100000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 20000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 9000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 45500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 76600000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 700000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5008484
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 20170xxxxx 1,21,056 1 Lacs+ LIC Policy No 20218xxxxx 1,63,475 1 La",
+        "value": 888760
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 7970617
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5330000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 275000
+      }
+    ],
+    "movable_total": 20172861
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=KWuUtCA7ZzDQht5MU6j3",
+      "total_assets": 51108660,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4175",
+      "total_assets": 96772861,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 89,
+  "assets_latest": 96772861,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sandhya Ray is an Indian politician. She was elected to the Lok Sabha, lower house of the Parliament of India from Bhind, Madhya Pradesh since 2019 as member of the Bharatiya Janata Party. She is also a member of Panel of Chairpersons in 18th Lok Sabha.",
+    "title": "Sandhya Ray",
+    "url": "https://en.wikipedia.org/wiki/Sandhya_Ray"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H.No. 208, Ward No. 13 Murena Road Ambah Madhya Pradesh, 000000",
+    "emails": [
+      "sandhya.ray@mpls.sansad.in"
+    ],
+    "phones": [
+      "7538275700",
+      "9425126705",
+      "9013997204",
+      "1123310893"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/sandhyasumanray"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@Rayshandhya"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "04/01/1974",
+  "eci_state": "Madhya Pradesh",
+  "email": "sandhya[dot]ray[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 800000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 80000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 40000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 282260,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1609380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1650550,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1225280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 637010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1182983,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Former MLA Pension & Lok Sabha member honorarium"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture & Business"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹4.57 Cr between affidavits, while declared income across 4 ITR years totalled ₹12.0 L.",
+      "headline": "Declared assets rose 38× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 45664201,
+        "declared_income": 1202260,
+        "itr_years": 4,
+        "ratio": 38
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 17% of MPLADS local-area funds were spent — ₹12.18 Cr unspent.",
+      "headline": "83% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 121781965,
+        "utilisation_pct": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 11400000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 11400000
+  },
+  "margin_votes": 64840,
+  "minister": false,
+  "mp_name": "Smt. Sandhya Ray",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 25218035,
+  "mplads_unspent": 121781965,
+  "mplads_utilisation_pct": 17.2,
+  "mplads_works_completed": 48,
+  "mplads_works_recommended": 133,
+  "mpsno": 5058,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-03-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "BJP MP Sandhya Ray angered over empty seats in Bhind: Asks why MLA was absent; says more BJP workers should...",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNejJJOE1RQ01ObXVaY2h6eWMwVVhFVUEwaTI4WDJLZmxTc1pKdk5CRFRoSGdhckEzQWcyM2pidWJTcnJNSXlucERJV2FuN3E5RnNFdThEam82X3M3U001cU1FT3NWcGxkdC1OREVLbXJZcFJfckN2NkRGMld4SHVnN0VQOXhKVTh3Zmh2VDdVSnBTVVEwZlkzQ1VrcHJxNEtUQW5JeGh2MjB1eV82bTJoaNIBtgFBVV95cUxOZnFWWnZDdjhfTWZyaWlNRVNDUGlzaG1DTUY0R083eUhiMUtSbWZXRXUzTmRlaWI2SnNCajdScHFVa3VmY0Z2RnBVRTRESDhiamI4ZWZZa1pSeWhvdzVNN1FQX0ctcE1remx6X2FzUGhzQy0wYjhQWHo4dmJrbzd0WHlrTHBwOWVOODFpWDE3RGlZZHQ0ZWs1eFd5TVo5Sl80clNSVGFDOUV1bG0zcnFNWG80YzhsUQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhind election results 2024 live updates: BJP's Sandhya Ray wins",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOMmxqQng3THpjNFJIRVNyb3k3bFQ4SWtfNVVmb0tWbkdrbDg3MURWU1JUZV9jVTJ4bFlRQzhqRHlVNVdUZHhlWGRwU09WNDFZZG1XVml3WE90VTRmU2ItNjU5VGktZVZHMi1EcWNta29xMy14eHBTZy1iZ21pcjZQS0Zpa2x3d1V2ZGFGYjBPWHJET3dWcFJYYVZBOXlmeVhsRnVPSnVMVExfVE1Ob3RLaGU3b2NWVjFNT21YdGQzNHlwNHFhY2w3LVpXS0dkQ2VibDNBV3k3anRDVVphQVRnN3FZLV9sTFdkUGltVDM0SWpTZ1RzNmVKdjFHX0NyWVQ2Q05xenduQUQwQ1JhV2dLOFNFZWU2NVRMWVZXZ2pTSmRYa1ZNdFhXSVo0eGp4ZnJaNDZ5QURhdkgxLS1WN0trMVVXZHQ0cElTZEZka1ppY1NTQdIB1wJBVV95cUxNa0puVW9QRTkyUFYwQk5ESGVuRHVmSXZoVndoRXBYWVVBQl82S1hZV1JOREtOcDdJZ3I5LVpqeTJXMHlnMlVpRUttR2JJcEdtaVNmR1ZhVmlYbUdJS3N0XzhPMUxQS09FTzJVTmJ1ckdfT1RJRzFVVnJ0VXF1SzktZjR1VjJGSXJiZ1lXS3F4ZEtscEJTZXFIX1d2ajZzdUppODdaS29SdV9QME5XdkhBRUNiLUVmQTh4YWZJRnh0QmZQT3VvTGlwTW53REozWERHRExQQlBXWmZzOGRzb1FTa1YxT1RQczl0TjJ2YWFSM2xIb0t0WUZrNlE5cDBzaV9KeVhGd0J1X1NkNGZpQktUa3NQUl9CU1BQaC1CMndDelZlaVlFZE91N2NXWGljajJ2Z3hFWm14SlFwYldCblh5SkM2OS1yNmFZMmJFZlUxLWtPUDVvUVZj?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bhind Election Result 2024 LIVE Updates Highlights: Sandhya Ray of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOExENGZxSXdZaUpaMVR0bFBON2o4RHp2NHdNbktFRzRXbWEyQVRGUTlkeTlJd1IwV21NR1JrcUlUbko5MFBHcnpoWk1DSHd4ZnY1anlQYW5JZWpMVG1XMnFUdF83UjB5bFg0QjdQTUJmY0RuMHZvZVF0MHozcW9DeldDTndBeXFGVV9YRm1JOWhpQUNGRzVaNmtOSGpPdGhPRzkwZDktMXhnZmc0TVBBLUxOZHdDcVlmZ3MxZW1EWEFtNkJUdVA0UWxNRmhNVzBlcmdYbDRfc3JLWWtOXzJN0gHkAUFVX3lxTE5oV1hueC1ybUhraTl2Rk9ldDN2ckJ1cUlsYVVvdW5GcDdzZlFfaWFYQlQ1NzRCUExPY0FaNVB0V1EzYnNYNVFFdFQteHVRWUVtbEwzcGRqZlNfVnRRNEJKSkRpdjFLTDl6V0JyanlCLTkxX0VYckU1UWZTUWYxdEFlekZqNmtybFV4UGpodkRRSDlTVzhSUS10S1ZBWk4tYjItY2RUb3ZaaVQ0UVFNajFwN3JrMXJETUJwU3oyZEhzdkt0YkhtLU03eEJRU2J3elpjcnRTYVhHaHBSalNnWktWbEVMbQ?oc=5"
+    },
+    {
+      "date": "2024-05-06T05:32:38.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Sandhya Ray, Bjp Party, Bhind, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRlRvZXpqR3VjOHRURUxlX3gxSTJ6LVdQeHhlTHNTVEIyb3RwOGlZUnV2NTdhdHNEZHB5dzV6LXFnY2ktN3pZcTNtYmt3dk83TnFsNkRNWUhpXzg2ZmlFQ3dpYktJNU9nTUtRYm4tVkZPYUU4Q0FlNzAyZUFDTkZRTHppZWwtQ2tnaVg5OGdzNERnT21PN25USUJpU196OUVnTm5zLTJkcUdKSkVMOW9Na1FlS0d2bE5OWWxmbzFnSGxKMTk2c2VJWmxCMzU2YlFodEdXU1JkeXVKVjg?oc=5"
+    },
+    {
+      "date": "2024-03-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP Is Confident In Sandhya Ray From Bhind-Datia Lok Sabha Constituency",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVByTkZXcXJTS2xxeGxmYjlRdWVCR2dDUF9RTld6MGFUN3NPM3RIcjc1bGR6SUZJUlVxdHF1THhhUGxNUDNyWVdodGdRMkd5VVZuZi1OYk02bUEwcmR1bXd5M0RiUS1kVHY4MXRJZ2djN1NnQ1ZaWm5nbDNYTkNzNlhHTEphVW5qYVJ4b3d1dVJZX01samtLOEFKTnBCQTNYVUZLTmRWWEVHV1k?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6534,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-2",
+  "pc_name": "BHIND",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23310893,09013997204, 09425126705 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180236.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Text not available 68",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Establishment of National and Digital Libraries in Bhind and Datia Districts for Student Welfare",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Introduction of a Direct Special Train Connecting Bhind with Delhi and Bhopal via Etawah",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon to govt. that just as a master plan is made for the municipalities, in the same way a master plan should be made for our panchayats in rural areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding setting up of a National Digital Library in Bhind and Datia Districts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 11
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 53
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sandhya-ray"
+  },
+  "qualification": "Post Graduate",
+  "questions": 22,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 3,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Panchayati Raj": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "PHOOL SINGH BARAIYA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 45,
+    "criminal_deduction": 0,
+    "legislative": 46,
+    "mplads": 44,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 96772861,
+  "total_liabilities": 11400000,
+  "wealth_pct_increase": 89,
+  "winner_vote_share": 51.2
+}

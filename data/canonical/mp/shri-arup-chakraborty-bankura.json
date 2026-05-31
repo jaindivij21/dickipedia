@@ -1,0 +1,424 @@
+{
+  "accountability_score": 26,
+  "age": 71,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8549096
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 82011749
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 90560845,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 900000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 41529068
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 4999750
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 5538000
+      },
+      {
+        "category": "LIC POL No 46874xxxxx 5,00,000 5 Lacs+ LIC POL No 449481xxxxx 4,50,000 4 Lacs+ L",
+        "value": 3900000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4000000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2275000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 18209047
+      }
+    ],
+    "movable_total": 81350865
+  },
+  "assets_earliest_year": 2021,
+  "assets_history": [
+    {
+      "label": "West Bengal 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=gPSMTYmQywBuaemMy5ux",
+      "total_assets": 88251416,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7977",
+      "total_assets": 171911710,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 95,
+  "assets_latest": 171911710,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Arup Chakraborty is an Indian politician from West Bengal. A member of Trinamool Congress, he had served as member of West Bengal Legislative Assembly from Taldangra constituency in Bankura from 2021 to 2024. In 2024 General Elections, He was elected as Member of Parliament, Lok Sabha for Bankura Constituency, by defeating BJP's ex - union minister of state Subhas Sarkar.",
+    "title": "Arup Chakraborty (politician)",
+    "url": "https://en.wikipedia.org/wiki/Arup_Chakraborty_(politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill - Mithila P.O. - Keshiakole Bankura West Bengal, 722155",
+    "emails": [
+      "arupchakraborty1963@gmail.com",
+      "arupchakraborty.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9434008755",
+      "9732022019"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "05/08/1955",
+  "eci_state": "West Bengal",
+  "email": "arupchakraborty1963[at]gmail[dot]com,arupchakraborty[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4742850,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4059640,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5182490,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5572870,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4727270,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1496810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1248180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1537250,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2959680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1839340,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary As MLA , Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 95%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 95,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 37% of MPLADS local-area funds were spent — ₹9.34 Cr unspent.",
+      "headline": "64% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 93404250,
+        "utilisation_pct": 37
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2685037
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Loan 4,66,00,000 4 Crore+",
+        "value": 63000000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 65685037
+  },
+  "margin_votes": 32778,
+  "minister": false,
+  "mp_name": "Shri Arup Chakraborty",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 53595750,
+  "mplads_unspent": 93404250,
+  "mplads_utilisation_pct": 36.5,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 70,
+  "mpsno": 5778,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "West Bengal Chief Minister Mamata Banerjee with TMC leader Arup Chakraborty during an election rally in Bankura.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTd3MWFnVUt0dTZibFY4M0Y4QXdBMnNoOFRmN0RzMnQ1MmZWTS16Sk1oa3ZrTVBSYkZ5SmZMaVVRb01uSnhmU1FMZTVLWkZaaHp6U1MzUlQzbUUzMXdEclpqUlBReHRaeWdQZDBtbDZvOUVzY3U1UklGWnV1TWRxdjZ1SjlkRklOLUZCblJHTFd3Y2Noa2RrRzcwWHlMMTNZQVFvWEZNejlpcnhnVXRaeElUcU5oUHBGakEyODJqSTVuaTDSAcoBQVVfeXFMTTl6bDYweTVYbWtBaERkQ0xab0JJWGU0UFgwYnh3aTFXMENTUUpmSXpKb09XdXFEdDBnVVNzNFBnRTg3TElwMDhPM2Fzc1dIV0hxRUJTeXVYSkJ2dU5DSWtQTnotVzRVY1doS3hTa3BPRDFFa1VOVkotWWo5ZTRVUnBkNm1VSFZWVG5vQUlWM2lWRlVCZEtSYXV4TUNRTGp0Y005NWRISmRfN3JPZGc3S0dsZFRiYkhFUERjTU1pdzR5ODRyWTdlcHFLQQ?oc=5"
+    },
+    {
+      "date": "2024-10-20T11:00:02.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Arup Chakraborty , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1ZhVDVwRDNCN0EwbVRYcS1DOEZ6QkRrLUdaMFlVaDRxd1htVnBIU2dDTDI5YmF4U21zQkFTcmktX0J6ZXNvWW5MbE9LVTJ5Y01pbDc1cUlYSFhnVTlxWkd5Nk1BZm00Y3dsV1h6VzB5d0VlSE5VQ2Z3MlBjR3lVWHZOdE5WQ3Z1?oc=5"
+    },
+    {
+      "date": "2024-08-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "If patients die and public anger falls on you, we won't protect you: TMC MP Arup Chakraborty to doctors",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVExlQl9FbFNsQll3dUQtb0tWYVlPZkdtcGxaVG9UcWVCMTJ0UDQ0VXh1SWU2Z1ZCQ0JyQXBEZkF0d2VtY3VLSWVlWW5sVFdwVkozTm5vVWd4LVBIOEpGX2tRWUhwOHg3emVPckwxVlNWbFZQc3VNT3JQMThuYW1XUF9haFdNYzI2a3Boa29sT0pWWC1hSkpfNzZaSlFuRFRCM0s0UTVUWWNPVmh0c2kzajBRQmgyV2U0NTY5aEhhWUVWeUxvRXdDRk42Y21Ld0kwWkVKNFY1UU5kT1Q1TERZMjlmSGhhVDgyZHhVdkZGRllfeV9EWnfSAfsBQVVfeXFMTWlQSEs3SU53cnlIOWdXZ0pSSGMwNGsxRFdiS1hrYm94R24zSWZoVVNwdldWRDNncjFKLTRieFVoS2VhLUlPTGFmc1RPZFJNZHpiaE9NNWhVOFpnMGhTQldnaWt6UXhEMVpNV0piSzNHZENLSWNJYWR4dEJTWHVuQlhCZU1mQ3VDWjN2d1JrN0taOFFPZWxmbXYzX0Z1ZEswRXc5RUxMVWNrVU5NRXdJTXBFM0EwQk5VaEtnLThVS044NDJUNGFuRWJBNEhLR0VMRENwSWh4OWlZc0M5ZzVTYVctNnRYakliV1R6OHNOU2FUZFVHY3VVZzBlRzA?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bankura election results 2024 live updates: TMC's Arup Chakraborty wins",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOHpkVHp6QU5lc05ZRl9uZHlsSkFpM3B0SGRneVNnb1VaeGVnVWZiSS1mb190LW43RFNYTjVXMEpfSkNZZGdsSzRfdjcwclQzOURidEVZcl9RZlB1Mzl0em1HTlBJZWt1VE44QlVPZzZXQ1B3cUVLUTNsN1o1ZU54OGtkNXR1STJ4UXZhS1JCUlVWS3RaQTZWN3phcUlnRVRwLWtkUWVnNW5KaGk1SkQyTTFpSEZjN2hsN25hbUJRbkZGcG1zcnJEVTV3QzM4MXRHVXczbHdsQlpjWERrUWFCdVVnWkxxbXpmUjYwMFRyaFhMMkxXc0t2Uy1KWG9qRnJ0OHZxWW5tQWlCY1RJVW1pLTllbGVnXzhrNE1hX3BLVmtRc0JsTXpyM0l0WU11MFU3LVlSeEU5b05FdHJNeEZlWVItV1NhNERX0gHOAkFVX3lxTE02R09WaHN5MG9PbGxYdGdzNU5NSEgxVDZxVGctd3l6YXJIRnU5VFNLVGplUndsa2pNT2ZoV3MtbGhaV003YWdTbnpHZDFIRmxpbnJ3SlhXZXZtY2FCUkM5U1hSYS1wY0J3aHBrZ3RPMmJmbndkblZMS1lTcnpYRnlvaGtBY1ZvSjU4RDJYQzhMLUN5WDNSYVVqaUd6VmFiZmF0NXNGcVhpSWk1djNxYlZucHd1THJ6S3hFVk9xZXVKUHNRQ1dScGstYkw2aEdYQ09temNkTDVnM3ZoOWNLbkpHb0NBV0lLM1RSQmlobDVwaWljT0RwV2xKZ1YxWm94ZVcyaUo0ajU1clBHWEo4eUFWaFlPX0RpMm9SNEl2VFhJc1FBbmR3R3A1TkZQMEF4TC1CZU10U2FkNnlpTG01SWNfZVhsQVRNMklaZWJSOFE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bankura Election Result 2024 Live Updates: TMC's Arup Chakraborty Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDlLTUdMTHAyamk3dU9SZ20yb1EyMXl0UnIxNl9TZlFXY3ZUTEotcE1MTHJmdVFveWFrSU1tZFltWGZiUXl6SEg1QlBfRFJMMldYdERKUHB3YklyUE55UUFsNUlLZ2tjc3VzOTNuQ01TZVZLOFBZNzBDVjlIeDZEWl90dkxHdUFIeTV2c3JlSUNuWkVwUzkzM2g5bWhveGlRS2xybWNGdjdEZzF2bm81S1FsTWdjTmJFZkxXMUN0dHRTeHdFOFJZ0gHUAUFVX3lxTE03WW1IbzJMSWNKTWV4SVRuV0RBLWZ4R0tScHpwZ1ZISERQbmpyNnd1WmJPN2pta2lFV0lmTkpzWGl2dWU0QW5SMHJoYmdLYjhBdlkwX1lqczAyR1pxRWtNUHBCblhBejNjZDhlR3BJVkpGYWVRZkhFNlV6QjJYemtPdU0yZ0V2OW04LWhBNEpMZWtHYUF2S0FqZmg2Y1p6Y09uRXJsTXJ2b3pmdjY1enZFVS1EUXFiSDJ2a1pvWTRZX0x1bmpRNnliWDB6VGplUERGakNo?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 26209,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-36",
+  "pc_name": "Bankura",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180506.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 47
+    },
+    "debate_titles": [
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need to formulate a long term action plan along with financial assistance for desilting and modernization of Mukutmanipur dam in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 24
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/arup-chakraborty"
+  },
+  "qualification": "Post Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DR. SUBHAS SARKAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 26,
+    "criminal_deduction": 0,
+    "legislative": 14,
+    "mplads": 45,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 171911710,
+  "total_liabilities": 65685037,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.33
+}

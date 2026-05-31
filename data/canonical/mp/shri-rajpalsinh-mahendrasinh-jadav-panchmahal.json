@@ -1,0 +1,381 @@
+{
+  "accountability_score": 26,
+  "age": 44,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 9800000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3250000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 13050000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 700000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1113548
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy 0*(Value Not Given) LIC Policy 1,13,952 1 Lacs+",
+        "value": 113952
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2895000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4174000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8996500
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3430",
+      "total_assets": 22046500,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 22046500,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rajpalsinh Mahendrasinh Jadav is an Indian politician from Kalol, Gujarat. He was elected as a Member of Parliament from Panchmahal Lok Sabha constituency. He belongs to Bharatiya Janata Party.",
+    "title": "Rajpalsinh Jadav",
+    "url": "https://en.wikipedia.org/wiki/Rajpalsinh_Jadav"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Karoli Kalol Panchmahals Gujarat, 389341",
+    "emails": [
+      "jadavraj057@gmail.com",
+      "rajpal.sinh@mpls.sansad.in"
+    ],
+    "phones": [
+      "9978177161",
+      "9727406600"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/RajpalsinhJadav.Official/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/rajpalsinhjadav.bjp/?locale=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "09/07/1982",
+  "eci_state": "Gujarat",
+  "email": "jadavraj057[at]gmail[dot]com,rajpal[dot]sinh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.85 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128474330,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 439992
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 439992
+  },
+  "margin_votes": 509342,
+  "minister": false,
+  "mp_name": "Shri Rajpalsinh Mahendrasinh Jadav",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18525670,
+  "mplads_unspent": 128474330,
+  "mplads_utilisation_pct": 12.6,
+  "mplads_works_completed": 39,
+  "mplads_works_recommended": 458,
+  "mpsno": 5571,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Panchmahal election results 2024 live updates: BJP's Rajpalsinh Mahendrasinh Jadav wins against Congress'",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNcHI3SUtrQXBERmFub1ZDV3Q0Q3I5emM3bVczMnE0czFJNUpDbGlYdWJEMTdmdkZySXNrb2thYmdfak94NTFBcG1TSENQbHE1OWxQcl9GWnJxOUFxLXU2WlhKS093cmlQYkExNFBzU3JwdVN2S3N5MGYwbWVacHhpOVVFMHpGWFExV1pEWmRqcnJocDNXTHpURGc5MUQzUDFITGR0bTNoU25pTWFONXA2VE03eHNkUDRteTV3N1NDZ05BMFJXUVp5S210OE9aMFdCeDd2QjBaQmxvYzFmLVZNbWpHMGM0NUdkekgtWF9nR1ZSVUxaRDQxcUR0ZFJvU3dpdWctWm5ndEJfdkVFeDNzd09SZks0MlNEVF9rWDU1ZWhGWWo3QUZmLUF4RWtpbXVnNVRRT3JOZ0REZHRzdXNyZ09EaDU1cHkzZHZMRzdPanJmTlpRSFpWa9IB3gJBVV95cUxQaWxkR29RZGtaME0yQ0ZaMDIyWktNLUVTemJNVzhFbHF4VWZ1NlZGZ09oOVJNTW1qWXhINFNPNGJFN1ItTnAzbE94eDA0TUNrNURTa210M1NMQ1VfYjI5OXEySlp5ak5QSE03LWdabm1FYkFzNDMzSU05N1B1R1YxTTNsN1lkQnlUMHBmUzJkbGw4bEJNSTdNdUFyNmR1VUx6Sk9NYzk3MzBER2Zqckh3VGNZSW5rVE5ZZkJMUEJ4UTFxN2R2cTd3OC1feTJQaTVBeURaakJWdC02M1NLNmlTMmVQUlE2aEFNM1FIeU9xOEN5cS1NTzRZWS15WURYbzF3d1Bld1BOcFREOV9xdmtEenBRSUliMjVaWUtNajR6QWEyYjJUeDZyUjhDa2FZaGhXcFNnQVk0dTZrQ1lTWDNGN2c4aEZqVnlhekpXeUdpNF9HeDV6T3d6QmQyTFgtUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Panchmahal Election Result 2024 Live Updates: BJP's Rajpalsinh Mahendrasinh Jadav Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbndfTHR0Z2RobWFPODhoMzZZYl9hakcteTJxSXZpcXIyLXUtS3p5VlF1RlhaY0VwdndqVGV6ZnVGczF3VjJ0QnJZWHhMYkxyamJnUnVwbjZCcUZ6OXY0T2RkMDlXRVVCYS1qbnJ2d3F2bFNiX0RQYjkyQmxSMEh3Y0FKMjJzRFhia1VFNzY1WGFCS1pIVXVPOE82REM4X1dqdHQ4Xzl2MmJfRXhKXzNmSUVHakZqUEF2bFBIQ09JN096WU1QOEHSAdMBQVVfeXFMTjczLVNnWG9idUFZZzZMUHBlMzlfdm9mamxBQlNUREZPNmtDcS1qeEpKYmNaSXpwV2lHNDFwNFNadExkczVDeUxKSGF3Z1lYT0cxZjhRb0owRm5mUGlROVBDZEt1VEV2Z0o0eUU5NGswUlBVOFZpdVlnTkNEclhGRENZNXd2ZS1TN3JFLXRib1Zxcm4xRmVsN2lBaUx6LTZ1a1J1OHNLbW5tUFUyREo3Nm4zTXdYOVNjcThXZmVSajV5Q2NOYk1QTy14a0Z4MldNdGpxcw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Panchmahal Election Result 2024 LIVE Updates Highlights: Rajpalsinh Mahendrasinh Jadav of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPREJGSTFrX25CdTlmLU5yN1lRMldDWGJ3Tlc2Q28ydVdHUDAtTUtkcDJJWldtUjJXZUxSR2hvV2NJQkgxREx1RFlnTm82OFBHWTNHb05wT1Z3ajVXcWh3YzU5bGhZM3RZWkMtY1puR3c0S2hFYU80MkVYclhVUEFNSFBTYjlZMmNTTURpNzJKejJnWUJxTldGTHRYdjN0TXB5WmZWUEhvNEVhbU1ybVN5TFRjemRHRVVJaXFYbkZNcC1UM1plTlpXaFpKdXdPRmxqbzlNN3BuLW43c0VGS1hCQU5EbjRxQdIB6wFBVV95cUxOWXVVT1FaMUR5aEp4YmVhRVpkSW1SVWQxV0ZnX3NQdzlRYTduNHYxUms0Q0V6WHhGTnpsemlwcVBPZU9ZUnQ2V1czb0tTS2tUcnFBazB4RW1mVjZOSG1tbmNVRTdwdzB0OFlQWC1admU1MEFJZlU1dnpBNUJGMjVIdUNrdVUtWVVoZ0dXa091bFhaTWxDU2FwS3BIRFR5V0lURXc2Z0ZpcUxHMDVKT0ZVVTJRU2JIaVNlY3JBbXpnTVo1VUF3Tll4MXFKbms5VXNkR0NBcGtPX0lCQXJtNGR0X1o2QXAzR0ROZWlz?oc=5"
+    },
+    {
+      "date": "2024-03-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Rajpalsinh Mahendrasinh Jadav: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3RaZHN0dGU1dDNPbkF6Vm5xbU5MYUQ2cUd2Y0FzVGEtWl8wX0g4WWJ5TmRuWDNNYUtreUItVFhPd3p2ZWRfQmRXYXdldXVGTDBJclJtZmw2YzZaNkRoOXVCd1BmNUZXOHJpQTJlcTdlV1JuckFCbjNlRWdMbmd5NDdhOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 20103,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-18",
+  "pc_name": "Panchmahal",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180130.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request to Upgrade CHES Vejalpur into a National Institute of Tribal Horticulture",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to run passenger trains on Panchmahal-Patnagar and GandhinagarAhmedabad-Nadiad-Godhra-Dahod routes in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Development of Lunawada Railway Station and Connectivity Expansion via Godhra Junction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to remove a toll booth on NH-18 (Ahmedabad�Indore) in Panchmahal Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding development of Lunavada Railway station in Panchamahal Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 9
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 23
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajpalsinh-mahendrasinh-jadav"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "GULABSINH SOMSINH CHAUHAN",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 26,
+    "criminal_deduction": 0,
+    "legislative": 30,
+    "mplads": 21,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 22046500,
+  "total_liabilities": 439992,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 70.22
+}

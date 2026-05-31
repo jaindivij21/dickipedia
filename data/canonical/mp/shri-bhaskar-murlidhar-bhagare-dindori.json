@@ -1,0 +1,596 @@
+{
+  "accountability_score": 52,
+  "age": 55,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1451000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2049550
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 5957745
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9458295,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 450000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3886282
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 457020
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC MH353185CS 1,00,000 1 Lacs+ LIC 961789881 5,00,000 5 Lacs+",
+        "value": 1000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 640000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1325000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8169082
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7089",
+      "total_assets": 17450827,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 17450827,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bhaskar Murlidhar Bhagare is an Indian politician, social worker and Member of Parliament, Lok Sabha from Dindori Lok Sabha constituency as a member of Nationalist Congress Party – Sharadchandra Pawar party. In 2024 Indian General Elections, he defeated Bharati Pravin Pawar of Bharatiya Janta Party by a margin of 1,13,199 votes.",
+    "title": "Bhaskar Bhagare",
+    "url": "https://en.wikipedia.org/wiki/Bhaskar_Bhagare"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "NDCC Colony Chinchkhed Road Pimpalgaon baswant Niphad Distt Nashik Nashik Maharashtra, 422209",
+    "emails": [
+      "bhaskarbhagare11.bb@gmail.com",
+      "bhaskar.bhagare@mpls.sansad.in"
+    ],
+    "phones": [
+      "7057240411",
+      "9422936311"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "01/01/1971",
+  "eci_state": "Maharashtra",
+  "email": "bhaskarbhagare11[dot]bb[at]gmail[dot]com,bhaskar[dot]bhagare[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1231400,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1100130,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1024100,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 917615,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 691665,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 635125,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 567533,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 520922,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 482484,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 469456,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Job"
+      },
+      {
+        "person": "Spouse",
+        "source": "Job"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.38 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123834749,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2444480
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2444480
+  },
+  "margin_votes": 113199,
+  "minister": false,
+  "mp_name": "Shri Bhaskar Murlidhar Bhagare",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 23165251,
+  "mplads_unspent": 123834749,
+  "mplads_utilisation_pct": 15.8,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 106,
+  "mpsno": 5741,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-09-08T07:48:06.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Bhaskar Murlidhar Bhagare",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUJjelZaMWNkLUtwOGFnei1sMktvRlBLQ3duM0xDa0x6MEk1dFlxMkFqaWZhcTl4TUdhYVUzc01rZlNzN1I5a1Fsd0FzaFBlNlFvMjVTaG5tSkJ4eWM2dlNEa3BSMlUyRkJBaF9YdTA1S2ZlUS0taEdocFVMS0MyVWYxZnMxSlBYLVRhcTkxRGE0TUNw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Dindori (ST) election results 2024 live updates: NCP (SP)'s Bhaskar Murlidhar Bhagare wins",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1ZJOGZseGNfRW5iUkY1QUhETGRuUy1NWGJPVF9abGJNcHNFc3ZDMk9BRXk1eWxjbHh3N1hjQzlLcFc3UGhyd3RIZ2JPM2dRV2NfcU9TTy1iZTE2YUt3TFd5Y2NwLVo1Z1kzdTUzMS1yb3FuX0pPbUswTjBqNHpSdXBjT0lhMm9IWE9tNkprRFg5UGlBcHItWTVpQUczcEhBQ3JjbkJyYVNiaERPUTd1QmE1dzJIV1pNTTk1c0xyNUExUWpjNzFPcUFMNXV1NTgzT1gwOTBCVmMxNWZxU3o2SXFWNHRXeWM2anZJNXFVb3lFNGZ2Z2tncGFfWGJUSGhEMVZjUG9B0gGLAkFVX3lxTE9RRmFFajF5aXBuczg1WktOcHVNZGFlX1Z2cmRRRUhXODdqSzZSczY3Q1VvV2RfaWI0Snp0TW9DZTlPTm9vT0w4Q1RfWlFiUVg0eTdJY0pNVG9mbElFb0tZU3BSZ0Rxc0YyR3dLR3dJVlE0TDlsOFprcS1oejM1LXoyVVhtSWdWOVBYS1hpdGczUlZkaUlRN1Nfa09oWjNVQkh1MFdEaHFJVERnWGhkZDRWdi1EUmxiYzEyOFZnUEJqcndKd2NLTnR3Ni1HZl9LbXRNcWNxRDM5OGlIdzB5Qkx2ZG0zRGNYdVd3MmN1bTdyeXZPU1BQdzdjT1k0MWcydm1RSTkxdTRJajBCZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Dindori Election Result 2024 LIVE Updates Highlights: Bhaskar Murlidhar Bhagare of NCPSP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWdVQmU0cHMxSHJBLTk1a05Ydnd4VTh0aGJ4UnViVjluSGw1eEZ6SXcwaUNqbWEwT1RVQUtEWGVwOE9fcnJmREkyRXowaWcyUWp3ZWY4U1hLVUF6U2x6UDVpOF90SWFlRzJpTHloLWVJelpjcUlrYnRhaF9mYm9Va1ZHVjI3aTh1eW16Y285N2liVkl0eFhrSERnb052Z0tlRUhUTmZDUzFLSDZ3RXBDelBoRF9KczM5LXNRbHI0X1lESU84ZUdSMHh2cXlhanE1bGI1R2pGTks3b0ZaQXhFRzhn0gHnAUFVX3lxTE41S25lWmJabWZNdjZKNUg1UVNNOE1WVTgzSENpanpNWkx4aC1razZlN2lXNDkwRTVES1daT0U2MWd6OHAxR1pHT0lsQm53Zzc0ZHQweTZFN1Jhejk2bUZCZUhoNUdBVURudGp0c1UxNHh6R3czNUFSQmYwRWVmb3FQYm9fQksyTk1qcHNxcFo5a2F6OUg1c3RDdjZMMkxab0lRcXIzSzJNb3BCOXQtU3JqMGxZUTc1ZHhVVnJHZzRrYmdEVi1GMGJvemh2QlhxbmcxcE11dGlfcEdTRkhhQ25udWFYeUpDTQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8246,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "party_bond_total": null,
+  "party_full": "Nationalist Congress Party – Sharadchandra Pawar",
+  "pc_id": "maharashtra-20",
+  "pc_name": "Dindori",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180254.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to fix MSP for Onion",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to bring ordinance to exempt senior teachers from TET exam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Full Implementation and Release of EPS-95 Pension Dues to Retired Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to reduce the long shifts of doctors",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Intervention to Protect Teachers from Mandatory TET and Ensure Fair Recruitment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Measures to Control Leopard Movements and Ensure Public Safety in Nanded, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Special Relief Package for Grape Growers and Guaranteed Pricing for Onion Farmers in Nashik District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to continue the subsity to grape farmers in Sangali",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for onion-based food processing industry in Dindori",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for Farm Loan Waiver to Prevent Farmer Suicides in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Release of Pending Central Funds under Jal Jeevan Mission for Incomplete Projects in Ramtek Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Strict Action Against Rice Mills Involved in MSP Procurement and Quality Fraud",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Investigation into Misuse of Subsidized Urea and Its Impact on Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Enhanced Pension and Medical Benefits for EPS 95 Pensioners as per Koshyari Committee Recommendations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Streamlining and Extending Cotton Procurement by CCI",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Release of Pending Central Share for Maharashtra Tribal Development Corporation (FY 2018�19)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Merge Sub-District and District Hospitals for Better Healthcare in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Action on Mismanagement and Exploitative Practices of Torrent Power Company in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Urge upon to govt to take immediate action to protect and prepare for Simhastha Kumbh Mela 2027 in Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to the Government to Prevent Privatization of IDBI Bank and Maintain Its Current Status",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request for Urgent Construction of a Dedicated Truck Terminal in Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt investigated the reason of crop loss of farmers and provide Compensation to them and Remove 20% Export Duty on onion export immediately",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to reduce the Export Duty for onions from 20% to zero",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding increasing human-leopard conflict in Dindori Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. the export duty on onions should be removed immediately and NAFED should start procuring onions from the market committees and farmers directly",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 39
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 206
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhaskar-murlidhar-bhagare"
+  },
+  "qualification": "Post Graduate",
+  "questions": 65,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Atomic Energy": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 5,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 4,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 3,
+    "Railways": 5,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 5,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "ST",
+  "runner_up_name": "DR. BHARATI PRAVIN PAWAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 0,
+    "legislative": 71,
+    "mplads": 23,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 17450827,
+  "total_liabilities": 2444380,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.53
+}

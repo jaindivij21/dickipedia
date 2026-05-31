@@ -1,0 +1,2308 @@
+{
+  "accountability_score": 53,
+  "age": 45,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": 15000000
+      }
+    ],
+    "immovable_total": 15000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 22000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 641110
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 49253
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2100000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2985400
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5797763
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=VpgeuJpbh8N5eZi4ocXr",
+      "total_assets": 13395011,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2275",
+      "total_assets": 20797763,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 55,
+  "assets_latest": 20797763,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 35,
+  "committees": null,
+  "contact": {
+    "address": "Ananickal House, Paingottoor, P.O. Kulappuram, Ernakulam Kerala, 686671",
+    "emails": [
+      "deankuriakosemp@gmail.com",
+      "dean.kuriakose@mpls.sansad.in",
+      "mplsidukki@gmail.com"
+    ],
+    "phones": [
+      "4862267578",
+      "9447877369"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/DeankuriakoseINC"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/DeanKuriakose"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 18,
+  "criminal_cases": 88,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "ST-35/2019",
+        "charges_framed": true,
+        "court": "Gramma Nyayalaya Pulamanthole",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-561/2019",
+        "charges_framed": true,
+        "court": "JFCM-I, Perinthalmanna",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-349/2019",
+        "charges_framed": true,
+        "court": "JFCM, Vadakkanchery",
+        "fir_no": null,
+        "other_acts": "Section 6 of Kerala Public Ways (Restriction of Assemblies and Procession Act) 2011",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-174/2022",
+        "charges_framed": true,
+        "court": "JFCM-II, Kannur",
+        "fir_no": null,
+        "other_acts": "Section 3(i), 4 of PDPP Act",
+        "sections": [],
+        "serial": 4,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-237/2022",
+        "charges_framed": true,
+        "court": "JFCM-I, Harippad",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "341"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-363/2022",
+        "charges_framed": true,
+        "court": "JFCM-I, Harippad",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-282/2019",
+        "charges_framed": true,
+        "court": "JFCM, Adialy",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-462/2019",
+        "charges_framed": true,
+        "court": "JFCM Adimaly",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-97/2019",
+        "charges_framed": true,
+        "court": "JFCM Idukki",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-906/2018",
+        "charges_framed": true,
+        "court": "JFCM-II Ernakulam",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "ST-125/2019",
+        "charges_framed": true,
+        "court": "JFCM Pattambi",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "ST-1194/2022",
+        "charges_framed": true,
+        "court": "JFCM, Alathoor",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "ST No.245/2019",
+        "charges_framed": true,
+        "court": "JFCM Mannarkkad",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 13,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-328/2020",
+        "charges_framed": true,
+        "court": "ACJM (MP/MLA) Court, Ernakulam",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 14,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "JFCM-I, Ernakulam",
+        "fir_no": null,
+        "other_acts": "Section 6 of KPWRA & P Act 2011 and Section 4 r/w 3 of KPDPP & PC Ordinance 2019.",
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "283",
+          "149"
+        ],
+        "serial": 15,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-997/2019",
+        "charges_framed": true,
+        "court": "JFCM Ottappalam",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 16,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-172/2023",
+        "charges_framed": true,
+        "court": "JFCM, Idukki",
+        "fir_no": null,
+        "other_acts": "Section 118(e) of KP Act, Section 5,4(2)(a) of Kerala Epidemic Diseases Ordinance, 2020, Section 51(b) of Disaster Management Act 2005",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "269",
+          "270",
+          "271",
+          "188"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC-14/2021",
+        "charges_framed": true,
+        "court": "ACJM (MP/MLA) Court, Ernakulam",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 18,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 88,
+    "ipc_summary": [
+      {
+        "count": 10,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 4,
+        "description": "Mischief by fire or explosive substance with intent to destroy house, etc.",
+        "section": "436"
+      },
+      {
+        "count": 3,
+        "description": "Mischief by destroying or moving, etc., a land- mark fixed by public authority Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees",
+        "section": "435"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Attempt to commit culpable homicide",
+        "section": "308"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt by dangerous weapons or means",
+        "section": "324"
+      },
+      {
+        "count": 1,
+        "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+        "section": "452"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing grievous hurt",
+        "section": "325"
+      },
+      {
+        "count": 82,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 82,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 80,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 60,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 24,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 16,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 10,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 9,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 8,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 6,
+        "description": "Joining unlawful assembly armed with deadly weapon",
+        "section": "144"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 4,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 3,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 3,
+        "description": "Trespassing on burial places, etc.",
+        "section": "297"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 2,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 2,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 2,
+        "description": "Rioting",
+        "section": "146"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for house-trespass",
+        "section": "448"
+      },
+      {
+        "count": 1,
+        "description": "Abetting commission of offence by the public or by more than ten persons",
+        "section": "117"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+        "section": "109"
+      },
+      {
+        "count": 1,
+        "description": "Unlawful assembly",
+        "section": "141"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to quarantine rule",
+        "section": "271"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.357/2019, Ernakulam Central Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "283",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.241/2019, Kadavanthra Police Station",
+        "other_acts": "Section 117(e) of KP Act.",
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "283",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.352/2019, Aluva East Police Station",
+        "other_acts": "Section 77(i)(b), 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.134/2019, Varappuzha Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "283",
+          "149"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.225/2019, Nedumbassery Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "188",
+          "283",
+          "149"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.426/2019, Perumbavoor Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.427/2019, Perumbavoor Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.428/2019, Perumbavoor Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.202/2019, Piravom Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "149"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.203/2019, Piravom Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "447",
+          "506(i)",
+          "188",
+          "149"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.449/2019, Muvattupuzha Police Station",
+        "other_acts": "Section 4 (i), 6 of KPWRA & P Act 2011",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "506(i)",
+          "149"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.247/2019, Thodupuzha Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.229/2019, Thrissur Town Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "153",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No. 134/2006, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 3(1) of PDPP Act.",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "188",
+          "283",
+          "308",
+          "332",
+          "447"
+        ],
+        "serial": 14,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.765/2017",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.776/2016, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 15,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "ST No.239/2019",
+        "charges_framed": true,
+        "court": "JFCM (I) Manarkkad",
+        "fir_no": "Crime No.125/2019, Palakkad District, Manarkkad Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 16,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.1501/2016",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.1249/2016, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 17,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.768/2017",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.689/2017, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39, r/w 121, 77(B) of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "283",
+          "353",
+          "332"
+        ],
+        "serial": 18,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.827/2018",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.702/2018, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 19,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.1488/2018",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.1159/2018, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 20,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.1582/2016",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.1133/2016, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 21,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "ST No.3208/2017",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.934/2017, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 22,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "ST No.1577/2017",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.455/2017, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 23,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (1) Court Alappuzha",
+        "fir_no": "Crime No.265/2019, Alappuzha District, Alappuzha South Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 24,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (2) Court kanjirappally",
+        "fir_no": "Crime No.191/2019, Kottayam District, Manimala Police Station",
+        "other_acts": null,
+        "sections": [
+          "141",
+          "143",
+          "146",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 25,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (1) Court Peerumedu",
+        "fir_no": "Crime No.73/2018, Idukki District, Vandiperiyar Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 26,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (1) Court Peerumedu",
+        "fir_no": "Crime No.74/2018, Idukki District, Vandiperiyar Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "148",
+          "283",
+          "324",
+          "353",
+          "332",
+          "188",
+          "149"
+        ],
+        "serial": 27,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (1) Court Peerumedu",
+        "fir_no": "Crime No.71/2019, Idukki District, Kumily Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "188",
+          "149"
+        ],
+        "serial": 28,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.178/2016",
+        "charges_framed": true,
+        "court": "Additional Chief Judicial Magistrate (E.O) Court Ernakulam",
+        "fir_no": "Crime No. 76/2016, Ernakulam District, Ernakulam Town South Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "283",
+          "188",
+          "332",
+          "149"
+        ],
+        "serial": 29,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "JFMC (IX) Ernakulam",
+        "fir_no": "Crime No.1511/2017, Ernakulam District, Palarivattom Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 30,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No. 103/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "447",
+          "435",
+          "149"
+        ],
+        "serial": 31,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.98/2019, Kuttampuzha Police Station",
+        "other_acts": "Section 6 of KPWRA & P Act 2011",
+        "sections": [
+          "143",
+          "188",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 32,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM (I) Manarkkad",
+        "fir_no": "Crime No.34/2019, Palakkad District, Nattukal Police Station",
+        "other_acts": "Section 4 r/w 6 of KPRAP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "283",
+          "353",
+          "109",
+          "149"
+        ],
+        "serial": 33,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM (I) Palakkad",
+        "fir_no": "Crime No.56/2019, Palakkad District, Walayar Police Station",
+        "other_acts": "Section 3(2)(e) of PDPP Act",
+        "sections": [],
+        "serial": 34,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM (I) Palakkad",
+        "fir_no": "Crime No.57/2019, Palakkad District, Walayar Police Station",
+        "other_acts": "Section 3(2)(e) of PDPP Act",
+        "sections": [],
+        "serial": 35,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.501/2021",
+        "charges_framed": false,
+        "court": "JFCM Nedumkandam",
+        "fir_no": "Crime No.177/2021, Santhanpara Police Station",
+        "other_acts": "Section 118 (e) of KP Act and Section 5 r/w 4(2)(a) of Kerala Epidemic Diseases Ordinance",
+        "sections": [
+          "143",
+          "149",
+          "269",
+          "270",
+          "283",
+          "188"
+        ],
+        "serial": 36,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFCM (I) Palakkad",
+        "fir_no": "Crime No.58/2019, Palakkad District, Walayar Police Station",
+        "other_acts": "Section 4 r/w 6 of KPRAP Act",
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "149"
+        ],
+        "serial": 37,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.94/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "447",
+          "436",
+          "149"
+        ],
+        "serial": 38,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.95/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "427",
+          "149"
+        ],
+        "serial": 39,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.96/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "427",
+          "149"
+        ],
+        "serial": 40,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.89/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "436",
+          "506",
+          "149"
+        ],
+        "serial": 41,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.90/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "447",
+          "427",
+          "149"
+        ],
+        "serial": 42,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.91/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "427",
+          "149"
+        ],
+        "serial": 43,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.92/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 3(1) of KPDPP Act.",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "447",
+          "427",
+          "149"
+        ],
+        "serial": 44,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.98/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "427",
+          "452",
+          "436",
+          "149"
+        ],
+        "serial": 45,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.99/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "427",
+          "436",
+          "149"
+        ],
+        "serial": 46,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.100/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "447",
+          "427",
+          "435",
+          "149"
+        ],
+        "serial": 47,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.101/2019, Kasargode District, Bekal Police Station",
+        "other_acts": "Section 4 of KPDPP and PCO 2019",
+        "sections": [
+          "143",
+          "147",
+          "447",
+          "435",
+          "149"
+        ],
+        "serial": 48,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.432/2019, Perumbavoor Police Station",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "323",
+          "325",
+          "294b",
+          "506(i)"
+        ],
+        "serial": 49,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.45/2019, Muttom Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "294b",
+          "506(i)",
+          "149"
+        ],
+        "serial": 50,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Nyaya Panchayat Kanjikuzhy",
+        "fir_no": "Crime No.189/2019, Alappuzha District, Arthunkal Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 51,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (2) Court kanjirappally",
+        "fir_no": "Crime No.195/2019, Kottayam District, Manimala Police Station",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "294b",
+          "506(1)"
+        ],
+        "serial": 52,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.81/2019, Erumapetty Police Station",
+        "other_acts": "Section 6 of KPWRA & P Act 2011 and Section 4 r/w 3 of KPDPP & PC Ordinance 2019",
+        "sections": [
+          "143",
+          "147",
+          "427",
+          "283",
+          "149"
+        ],
+        "serial": 53,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.118/2019, Nedupuzha Police Station",
+        "other_acts": "Section 6 of KPWRA & P Act 2011",
+        "sections": [
+          "143",
+          "147",
+          "153",
+          "283",
+          "149"
+        ],
+        "serial": 54,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.1152/2018",
+        "charges_framed": true,
+        "court": "JFMC (3) Court Thiruvananthapuram",
+        "fir_no": "Crime No.274/2018, Thiruvananthapuram Cantonment Police Station",
+        "other_acts": "Section 3(2)(c) of PDPP Act and Section 39 r/w 121 of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "149",
+          "283",
+          "353",
+          "332",
+          "117"
+        ],
+        "serial": 55,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JFMC (I) Ottapalam",
+        "fir_no": "Crime No.547/2018, Palakkad District,Shoranur Police Station",
+        "other_acts": "Section 120(b) of KP Act",
+        "sections": [
+          "143",
+          "147",
+          "332",
+          "353",
+          "188",
+          "149"
+        ],
+        "serial": 56,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.183/2017",
+        "charges_framed": true,
+        "court": "ACJM Court Thiruvananthapuram",
+        "fir_no": "Crime No.2315/2016, Thiruvananthapuram Medical College Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "188"
+        ],
+        "serial": 57,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.529/2019",
+        "charges_framed": true,
+        "court": "JFMC (2) Court Kottarakara",
+        "fir_no": "Crime No.190/2019, Thiruvananthapuram Puthoor Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 58,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "JFMC (2) Court Sasthamkotta",
+        "fir_no": "Crime No.298/2019, Kollam Rural Sooranadu Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 59,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "JFMC (2) Court Sasthamkotta",
+        "fir_no": "Crime No.301/2019, Kollam Rural Sooranadu Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "506(ii)",
+          "353",
+          "332",
+          "149"
+        ],
+        "serial": 60,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.1041/2021",
+        "charges_framed": false,
+        "court": "ACJM (MP, MLA) Court Ernakulam",
+        "fir_no": "Crime No.425/2021, Harbour Police Station",
+        "other_acts": "Section 4(2)(e) r/w 5 of Kerala Epidemic Diseases Ordinance, 2020",
+        "sections": [
+          "269"
+        ],
+        "serial": 61,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.48/2022",
+        "charges_framed": false,
+        "court": "ACJM (MP, MLA) Court Ernakulam",
+        "fir_no": "Crime No.2001/2021, Kothamangalam Police Station",
+        "other_acts": "Section 118(e) of KP Act, Section 4 (2)(a), 4(2)(e) r/w 5 of Kerala Epidemic Diseases Ordinance, 2020",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 62,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.649/2019",
+        "charges_framed": false,
+        "court": "ACJM (MP, MLA) Court Ernakulam",
+        "fir_no": "Crime No.103/2019, Aluva West Police Station",
+        "other_acts": "Section 6 of Kerala Public Waste Restriction of Assemblies and Procession Act",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283",
+          "188"
+        ],
+        "serial": 63,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.343/2019",
+        "charges_framed": false,
+        "court": "JFCM Hosdurg",
+        "fir_no": "Crime No.1/2019, Melparamb Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "283",
+          "341",
+          "323",
+          "149"
+        ],
+        "serial": 64,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.363/2024, Kothamangalam Police Station",
+        "other_acts": "Case is Under Investigation",
+        "sections": [
+          "143",
+          "147",
+          "297",
+          "353",
+          "332",
+          "149"
+        ],
+        "serial": 65,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No. 365/2024, Kothamangalam Police Station",
+        "other_acts": "Case is Under Investigation",
+        "sections": [
+          "143",
+          "147",
+          "297",
+          "353",
+          "332",
+          "149"
+        ],
+        "serial": 66,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.84/2020",
+        "charges_framed": false,
+        "court": "JFCM Iringalakuda",
+        "fir_no": "Crime No.178/2019, Iringalakuda Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "148",
+          "323",
+          "506",
+          "294b",
+          "427",
+          "448",
+          "149"
+        ],
+        "serial": 67,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.196/2022",
+        "charges_framed": true,
+        "court": "JFCM IV, Thiruvananthapuram",
+        "fir_no": "Crime No.822/2018, Thiruvananthapuram Museum Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "144",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 68,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.2966/2020",
+        "charges_framed": false,
+        "court": "JFCM Idukki",
+        "fir_no": "Crime No.1064/2020, Idukki Police Station",
+        "other_acts": "Section 2 r/w 3 of Kerala Epidemic Diseases Act, Section 118(e) of KP Act, Section 4 & 5 of Kerala Epidemic Diseases Ordinance, 2020, Section 51(b) of Disaster Management Act 2005",
+        "sections": [
+          "143",
+          "145",
+          "146",
+          "147",
+          "149",
+          "269",
+          "270",
+          "188"
+        ],
+        "serial": 69,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Crime No.366/2024, Kothamangalam Police Station",
+        "other_acts": "Case is Under Investigation",
+        "sections": [
+          "143",
+          "147",
+          "297",
+          "353",
+          "332",
+          "149"
+        ],
+        "serial": 70,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 17,
+  "dob": "27/06/1981",
+  "eci_state": "Kerala",
+  "email": "deankuriakosemp[at]gmail[dot]com,dean[dot]kuriakose[at]mpls[dot]sansad[dot]in,mplsidukki[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1211640,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1170000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 870000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 922680,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 595295,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 619061,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 345647,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 453604,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 404262,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Advocate"
+      },
+      {
+        "person": "Spouse",
+        "source": "Ayurvedic Doctor"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "35 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 35,
+        "convicted": 18,
+        "pending": 70
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 35% of MPLADS local-area funds were spent — ₹9.61 Cr unspent.",
+      "headline": "65% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 96068828,
+        "utilisation_pct": 35
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3619970
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3619970
+  },
+  "margin_votes": 133727,
+  "minister": false,
+  "mp_name": "Adv Dean Kuriakose",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 50931172,
+  "mplads_unspent": 96068828,
+  "mplads_utilisation_pct": 34.6,
+  "mplads_works_completed": 88,
+  "mplads_works_recommended": 153,
+  "mpsno": 5126,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-16T09:40:09.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "Rift widens in Idukki Congress as DCC president calls Dean Kuriakose MP 'immature'",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcFljTlhsdjZXbmFSOHlSWk5NU3gydlZXRGJ2aXVOYmozNW9tUVNYVEUxT0F6WHI2bzA4VzR2eTRXeVpyV0lzQ1JoSlB3T2NJdUZiQmItTVllelVzV0dZc2NoWlA3NXZTM0wtTmh1ejl3U2ZUOWRFRnZyZVRfY0NqcUNuUHNuV0JieDBXZndtcHgzTUlLeERnUVVHanRzc2cyQm8xWmVjUnpSckxFSVFGYWRKUlNOaXo3Y0ZCb1hONUkzbUhmdmpVV2ZoclQyaERLdzFtNUxTZmM3YjDSAdsBQVVfeXFMUHBZY05YbHY2V25hUjh5UlpOTVN4MnZWV0Ridml1TmJqMzVvbVFTWFRFMU9BelhyNm8wOFc0dnk0V3lacldJc0NSaEpQd09jSXVGYkJiLU1ZZXpVc1dHWXNjaFpQNzV2UzNMLU5odXo5d1NmVDlkRUZ2cmVUX2NDanFDblBzbldCYngwV2Z3bXB4M01JS3hEZ1FVR2p0c3NnMkJvMVplY1J6UnJMRUlRRmFkSlJTTml6N2NGQm9YTjVJM21IZnZqVVdmaHJUMmhES3cxbTVMU2ZjN2Iw?oc=5"
+    },
+    {
+      "date": "2026-05-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Idukki DCC president launches scathing attack against MP Dean Kuriakose",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXV0amV0WGpJakZMVkQ4bURFaWxKdFJzMF9jTm9FUFQ0UElEclllMmxVQkdNOG8yNEVWTVBIZk9oMEpiN3ZtdVdmMlhpNmhnemdsTHRuMWE5THc3dndjdnB3S21zVzZ4ZXNxakdUWUtld2hUTXBwTXh6bjhOcWlKWmRJLUVWRmN2SFhkaUc5R1lwUGVlYUJiTjJFQ1BQMWxpVnlZM0pVVVkxODNJNXJnSHR0YjdqTlVZSjI3dlhFVkkxRzVsMXpqQmtBVWJwT1BSZWdPZUxBTVprZS140gHiAUFVX3lxTE1OUjl1LUY2alBuNnVTRUF6SlRYTzFWTGNkSnlZZC1JZ0ZiQy0tTzVHZjhhZUZVdnlzbExrcFVpWndZWFZMM3A5V1lIN3lYSzlsMzByUllIT29UalZxbjNMY2JYcnhTZEFTTUNwRU1aS1Q3TTNYSlVsUkdTUG84RjRGMlY3U3VBd1FWQllpVHFieXphdnlnSkt2ekQyQ3dxSnRNMFUxMDhRR1RVajhfZ1I2S2lVdzU3bk1pTU15eDAzSXpaM3hJVXBJWWR5cFlTNVNMUXRWTGZoMjlFZU9YTVJjU3c?oc=5"
+    },
+    {
+      "date": "2026-05-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rift widens in Idukki Congress as DCC chief targets Dean Kuriakose",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGx6T2VZeXdjX2Ftd0tYUjlOeDk3Y2FHd1ZpNGF4eUNwaF8tNzd5SzNqOHR2Nnp1dzZDaDlKamo1ZHB3OVdzZkM4U2lsYzczRF9ZM19zeVdQeENMd3NBRGRQT2NER1d3dmZuaGFON19kXzRiNHVvYjlPdmthNFBlLTQ2VTR4WC1XNjNESTQ4aGV4ZDFkOVMtUWpLUlJVeDRkc0NoSTJhSFEzUUdOYkxhXzVMLV9TeTAzQUNmTGlVZ1FrRTZCandVTmdnaW_SAdMBQVVfeXFMTko4NFJQa0twY19TZ1VhalZhbmttaVVpMnZLSl9Db0hJa2VkS0xQT2F2czBEcVNiZGtDTjg5N2FuN2VaVmEwT0FRS3VVX2ZiTDBSZWktb1pwU2JEa3FVRGRWak1aVmtMemZKejNsakdLQkEwd0JNYnVLZmQ3RmROUFF2T3E1QkdRam1oY25SOTFFcVNNaWlkTjBQaEtuYnVvVU9ZQ2p5SGVzelh6MkJpdXpocV96RzdqVGJ6N1ZpbDFsbEZGV1BWcjNGZTQtVmJVcFc1UQ?oc=5"
+    },
+    {
+      "date": "2026-01-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "Arrest warrant against Idukki MP Dean Kuriakose for assault on police officers",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZVEyeW52V3laSmVSLTFNQzZjSkoyal93dWNzcXE2bzBUOGJySklUVmJyU24wYnRVZWV6Rlh2cWd0WGlYS2MzektOWUZPSnhmZUx1c3lJem5tYlVPcWxaNjJDbmRaNUs2V01Sa2xET0ItVm9mbWpySFJMV3ZEYWk2MXdsb05JU1ZubFJUNzNnaFByTV9QYkJwQkZoOEdIbEt1bWVqeV9heUwwbnBQMXNOam9NZ0F2UDZUWnlqLTdUSkhHY1JXLXJ5NdIBzgFBVV95cUxOTHNJaTNJd1RJUTZjeURMUDJXS0RxR2pKNWxPMlJEYThjV1hPNEdBaWVabXpBRWZvLUU1akplOEI1d0hFUWFwZk9fSHlBZ0xXLWdwVXNBN0wyaDQ1cUhyQUo3cXFQWVViWDgwcS02SjZacUllWWRqUEtyNjVHQm53elBsSzlrX0xzSlI4WnplTGJjWWs4UEtjN3U5QWFyalhNRXNWc2FmSnN1VWJ2Zy1EN2JoY0wxZG1jU21ydXRPUzVjTVlwSndMM2RSbjZ1QQ?oc=5"
+    },
+    {
+      "date": "2025-07-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kerala Kaumudi",
+      "title": "‘Let a case be registered, will face legally’; M M Mani firm on his remarks against Dean Kuriakose",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOVQ0cUl1Q1ZYa2xkY2w3WERxcHJCTjQ2R0xWZzdob2pObnlCUEx6VS1sQ1ljUDJJbExzdFM0OWtaSURQWU13TjR2aVJGQl90RnBqV1h0MVpjYnJTWXlmM2wyck4yaFpuNm5tMndLam5fWUtEOGl4YW1SQVNIaEdLTng3UlNHbFZNTEo0aHJfcW1rbThmblU0SlVRVkZLZlREZ2o5enRzQkZVbDE2R2w2d1FsbnVTYjY0cFJuVG9WZHZwdU9kSERpZFUxdTRFeHZFMnJnVGpuZzZ6cC13MVI4RE9vTWtRYmM2Z1RWaHZ3azd6LXlGY29YSXNsOXh0MXMyU2h0enNQa9IBjAJBVV95cUxONHRwMENGRU5XbG11M3VHYk1jTm1MR3k1OVJnU09rR3BVYTZMV3dSS3V6ZVJBVzZQc3JYYmFlaUpXZWp1MTlISWNBYjZVTkQ0MUhVRkFLNEc1VnE3bGM5RGdmN2QybGhSTVVkM2cyT1pYam1iVThsaTdYT2Raem1FMDdyc0NWS0dablpqd181N1R1U2hrb2dSa29oLXE0aF81dkFGSER0NGh6ZjRaTl9YMzBpVDVzeFlxcnF2bHN3bUhRX2ZuM0dzOXluY1NoYjdBWGY4c3o5NGMzLUlmblUzbDNYbEd3QXdJbVcxNkVCZVpfUGsxVXF2aFhOWVB3Ml94ajhCU3ZXRHdBd3p5?oc=5"
+    }
+  ],
+  "non_serious_cases": 68,
+  "nota_gt_margin": false,
+  "nota_votes": 9519,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-13",
+  "pc_name": "Idukki",
+  "pending_cases": 70,
+  "phone": "09447877369 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180196.jpg",
+  "photo_source": "prs",
+  "pmbs": 3,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 80
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need for investigation into alleged religious intolerance shown against Christian minority in different parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding problems being faced by farmers in Idukki Parliamentary Constituency and other parts of Kerala due to shortage of subsidized Urea and Potash",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Immediate Central Action Needed to Address Brain-Eating Amoeba Outbreak in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to make services of ASHA workers permanent across the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding need to expedite completion of various National Highway development projects in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to review decision to do away with the �Registered Post� system in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need for reopening of Nehru Yuva Kendra at Thodupuzha in Idukki Parliamentary Constituency, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to take comprehensive measures to address stray dog attacks and rabies deaths in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of National Highway development in Idukki",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to waive loans for the flood and landslide victims of Wayanad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Immediate Disbursement of Pending NREGA Wages and Revision of Labour Budget for Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to address the problems faced by the Department of Posts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Reopen Aluva-Munnar Road and Stop False Cases Against Peaceful Protesters in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to establish a Human-Wildlife Conflict Mitigation and Resource Utilization Framework",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Discussion on Judicial Accountability and Transparency Following Alleged Incident Involving Delhi High Court Judge",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Urgent Need to Amend Wildlife Protection Act, 1972 to Address Rising Human-Animal Conflict in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to increase salaries for doctors and allied staff of AYUSH",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request for Final Notification on Ecologically Sensitive Area (ESA) with Specific Reference to Exemptions in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Need to include �Anchunadu Vellalar� community of Kerala in the Central list of other Backward Classes (OBC)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Need to expedite approval to establish a Kendriya Vidyalaya at Thodupuzha in Idukki district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need for amendment of Wildlife Act alongwith comprehensive measures to protect the life and property of farmers from menace of wild animals",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Issue related to the wayanad disaster",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding construction of a new Dam to replace the Mullaperiyar Dam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Urge upon to govt to make further amendment in the forest (conservation) act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding need to grant financial assistance to farmers suffering from cop loss in Idukki",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 46
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 146
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dean-kuriakose"
+  },
+  "qualification": "Post Graduate",
+  "questions": 52,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Commerce And Industry": 2,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Defence": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 3,
+    "External Affairs": 1,
+    "Finance": 3,
+    "Health And Family Welfare": 5,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 2,
+    "Law And Justice": 1,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 1,
+    "Prime Minister": 1,
+    "Railways": 5,
+    "Road Transport And Highways": 4,
+    "Rural Development": 3,
+    "Tourism": 2,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ADV. JOICE GEORGE",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 91,
+    "criminal_deduction": 40,
+    "legislative": 100,
+    "mplads": 76,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 20,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 20797763,
+  "total_liabilities": 3619970,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.43
+}

@@ -1,0 +1,424 @@
+{
+  "accountability_score": 25,
+  "age": 71,
+  "assets_2019": 1310691,
+  "assets_2024": 11257405,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 45000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7960951
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1350797
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1767657
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 133000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11257405
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "West Bengal 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=pQMnHEHdWRT8JvezbpMV",
+      "total_assets": 224419,
+      "year": 2011
+    },
+    {
+      "label": "West Bengal 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=pQMnHEHdWRT8JvezbpMV",
+      "total_assets": 241792,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=pQMnHEHdWRT8JvezbpMV",
+      "total_assets": 1310691,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5192",
+      "total_assets": 11257405,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 4916,
+  "assets_latest": 11257405,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Asit Kumar Mal is an Indian politician. He was elected to the Lok Sabha, lower house of the Parliament of India from Bolpur, West Bengal in the 2019 Indian general election as a member of the Trinamool Congress.",
+    "title": "Asit Kumar Mal",
+    "url": "https://en.wikipedia.org/wiki/Asit_Kumar_Mal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Rampurhat Birbhum Birbhum West Bengal, 731224",
+    "emails": [
+      "kamalbiswas086@gmail.com",
+      "asit.mal@mpls.sansad.in"
+    ],
+    "phones": [
+      "3461255155",
+      "9434326655",
+      "8159877977",
+      "7076150450"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "11/07/1955",
+  "eci_state": "West Bengal",
+  "email": "kamalbiswas086[at]gmail[dot]com,asit[dot]mal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1479864,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1308285,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 974105,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1247620,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 326480,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP-Salary, MLA-Pension, MIS-Interest"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹2.2 L (2011) to ₹1.13 Cr (2024).",
+      "headline": "Declared assets grew 4,916% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 224419,
+        "from_year": 2011,
+        "pct": 4916,
+        "to": 11257405,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 4,916%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 4916,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 464417
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 464417
+  },
+  "margin_votes": 327253,
+  "minister": false,
+  "mp_name": "Shri Asit Kumar Mal",
+  "mplads_allocated": 275694457,
+  "mplads_expenditure": 162370947,
+  "mplads_unspent": 113323510,
+  "mplads_utilisation_pct": 58.9,
+  "mplads_works_completed": 74,
+  "mplads_works_recommended": 194,
+  "mpsno": 5040,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-09-18T02:35:12.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Asit Mal speaks on the issues plaguing the proper functioning of Visva Bharati University",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFR2amxkUUc0bXB4LWxLRDRmaWdEWXhvbUJoT0lrdnI4REx0dHcyVFJMSlgyOGpFdjJacnMwaGZoR0lPcF90RUxTYnc1S1NqeU5mOGk0bGRFd04ta3RqX3JKLUNXMVJvMDNiNS1FUGRWS0xNQ0FVNUQxd3BUQWlvQ3N1TERhaFdqUFZYTzd1cVZqeXlZbEhDMDZIdVBReFhqUFdFems5ZVJCZWtpRTJXOEhNT0lKUQ?oc=5"
+    },
+    {
+      "date": "2025-06-15T05:43:12.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Asit Kumar Mal , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVhfSmdlZlQ0OG9NRDROd0JPTlFDbkhxWkZoOHZRbW8zNFh0eE1tU1hLdHdEMjIzem9QbjhjV3RPUHluRS11TVNrdUdxZWluc05BWkpOU1d3Y1dRanJsYnBQUkJqYUNjalYtNG9WY2RsVjVGSzA5bGNaUE4tY0xNT1h4WDVydw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bolpur (SC) election results 2024 live updates: TMC's Asit Kumar Mal wins",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQd3czRTdhZ0t0c2FmRUpvaWtCR1BlT2xaWmh3dEh6WndkNkFaSlZqTWxoWU9Zb3lvWnRQdkNZT0ljTjJuem1FcGhIbVlOU1BEbHlIdGc0cE1rMGxzRi1FZzBQM1VoMTVnbktNdjZScHBoSVdsSEZuYVNhZ2RuVXd3bkt3Q3dhUU90bFNLNU45clNfQUlSOTB3dVFHTDlSbDA2dUZLdkZhajZkeElWbC1qY1R0YlRtcFBhSHZWTDNkRWFsSENPRVNNNWtvY0pTcHhLenJRblFsdUltZnoxN1g3Z2tMOVctZDNfVmpjTXM5MFhRano4aHNGVXVMVjZOejRNcUtoZF8zdENlNExjZkkxdGxSMjBDTE00Vk1vYXU1WmhpcER0eHNjWU1vRmV3S2VVd1JQYVBVak9NU2h5YnVWTzJCTHHSAcoCQVVfeXFMT0ZxemljYS1CMU9fX2ZwOXR2OEd6cTQ3bGlaR2N6elFDRmNJeC03dkxRVGZzMnlpRHd6T2VKM0FoeWNBZm11T0RCbkRmU0VIYWV0WkZWT2N4bG1QQ1JUV1VmajByTUN3TlZkUHR6dF8tWUh6NG54NlpwWG9oTVhLdVd5MzNjcjZsdk52QVZweERMTmhTUEJIa1FMejdsaVc5VzloZzBOTGZBTnVRbzFBSW5ZNGRnU0RmSW1MSWRwWEkwZkZPX0hPRHNuT1NWY19oV1E4aXdOeHNGNkM0Z0k3VU05Ykd6SGJLMDhzUjh4ckFlZ3JENDlmeXMycFlTb0NaU1V3QkxpLUtnUDVEanNoQk9HVEx1THYxbzl3SC1jU2FqWlQxb0RPS0lrUEREeng3YlRzM3dFWEtIN2VWd3RlUjN2VHpvR1NGNnp3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bolpur Election Result 2024 Live Updates: TMC'S Asit Kumar Mal Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXpFNEU0Z0Q3VGNWTTNqVThHY1ZkeW92cTJzMWlITTN1dWZUUE52eFg4cmlYSXVlWkc3VVBHTnNteHduS1p1dlNMUmdUZlM5bkMwS0Q0NzBVVVVJanJld0o2a0J6cVFVMi1Ib2Q5WG1nanB5Q1U1UmNjdl9TMXVIUkhRdlZtZ0xmQU9lNU1BV0I3cEo0LUVod3hKeVpPbzRpOXEzdjF4ck1Fd1A4VjgyZFRsRjBBYU1NSU90VWEtZW1tX2VMOFHSAdMBQVVfeXFMTzhQbkc0M0VUUmVPS2ljMjZBUjNkRDl2ajlubTJrTGx6T0Y2cHBKVnBWUlMwcE02RWh6ckxMaldmMGJJMzN5UHdRMHJxSEFCb1dhVXQtdk1oWGhuVXpQYnJ4ZHFHZ0tLU3NtUWRpQ3l5Q210TGRIdk14Qy1kaG41S1NySWNkYUdaVHpYZUw5dVBTZzAycjJwUWJlVERnZFVXSEU0N1o1MzZKVXhQZkdxWDBhZXV6U3JGWk8wd2Q1aTV3WGdoZzUwSk5LU0QyVGliLWRWaw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bolpur Election Result 2024 LIVE Updates Highlights: Asit Kumar Mal of TMC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTHExeE82eHlqbUszdmJfaC1GTFo0dk9OQlhPRzdXTGNmN0pCcjY0Tm9ZZkZIb2t4QnN5RnZIWVlxOVZBNXZjTVN1Q2NfbUFTcG1WREQxMDk0OFVOTTg2OGhrXzh4TG9MemlodEVFbnBrMXlBMUJoc2RYcmV5VjQ3UmVmRVZnanlnSThZV09Ba3lUQ1FOa3RCSVhGWHRmWDBqRTNraDBUdU5fNW5LVHM1TWxiOXJaRUZYbnZQY2ZzRVZ4bko4a0hqT0l3by0wYTFtN0ZET3k2aVhsR2dWNDl2StIB5gFBVV95cUxPb1kxX2NIZ1hZWUZzVndNTElpMjdDUFVPRjlqNDFvVkUtbjVXRmI2TkU1cE56Sk4yTU9EZkctOF9nMVB0RVhqYmtVdEFldHBmd1UwSjN1VHM3MmhZbUg3OXJidE9WeHNtY09wdzVXV28yMF9FNXlhZVlmRDgwYkRoQW03TG5fYkhMNGlaNnRROFJycXEyZVFiRU9adVlXTTFmUXZuMW1ObllpUUN5Uk1Rd2wxeEpaanI2X2d1bWpPM2I3cmZnZmdDNU1EalliMGxXQnlRa2JpOVJMVWVDRERfWDZvNzRMUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 21722,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-41",
+  "pc_name": "Bolpur",
+  "pending_cases": 0,
+  "phone": "9434326655, 8159877977, 7076150450.",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180507.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "11.12.2025",
+        "title": "Request for Introduction of a New Train from Rampurhat to Sealdah via Ahmadpur-Labpur-Katwa",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Resume 100 Days� Work in West Bengal as Directed by the Supreme Court",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Resumption of Barddhaman-Malda Passenger Train for Daily Commuters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Release of Funds for Awas Yojana and 100-Day Job Scheme Beneficiaries in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Action Needed to Control Rising Prices of Essential Commodities and Medicines",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding prices of life-saving medicines",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt to please control the price hike of medicines and daily commodities",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/asit-kumar-mal"
+  },
+  "qualification": "Others",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "PIYA SAHA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 0,
+    "legislative": 29,
+    "mplads": 90,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 11257405,
+  "total_liabilities": 464417,
+  "wealth_pct_increase": 759,
+  "winner_vote_share": 55.98
+}

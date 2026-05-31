@@ -1,0 +1,538 @@
+{
+  "accountability_score": 65,
+  "age": 32,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1057000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 6557000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 40000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 40858
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 237000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 317858
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=289",
+      "total_assets": 6874858,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 6874858,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Iqra Choudhary or Iqra Hasan is an Indian politician. She is the member of Lok Sabha from Kairana Lok Sabha constituency since 4 June 2024. She is a member of the Samajwadi Party.",
+    "title": "Iqra Choudhary",
+    "url": "https://en.wikipedia.org/wiki/Iqra_Choudhary"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "C/o Nahid Hasan Sailer Bhura Chungi Kairana Uttar Pradesh, 247774",
+    "emails": [
+      "choudharyiqra1@gmail.com",
+      "choudhary.iqra1@mpls.sansad.in"
+    ],
+    "phones": [
+      "9690633025"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 12,
+  "dob": "26/08/1994",
+  "eci_state": "Uttar Pradesh",
+  "email": "choudharyiqra1[at]gmail[dot]com,choudhary[dot]iqra1[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.54 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105425567,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 884157
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 884157
+  },
+  "margin_votes": 69116,
+  "minister": false,
+  "mp_name": "Ms Iqra Choudhary",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41574433,
+  "mplads_unspent": 105425567,
+  "mplads_utilisation_pct": 28.3,
+  "mplads_works_completed": 23,
+  "mplads_works_recommended": 65,
+  "mpsno": 5795,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Outlook India",
+      "title": "Quiet Politics, Ground Gains: Iqra Choudhary’s Incremental Model In UP's Kairana",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaml4SjhyX094OFUyN1JoOWY3X1FBWG9vMDlncV8yYXliellBZUNMQUVzMU9QaVJCYW5DbGVRXzlzdXhza0t0eTMtM1VoZV9tQzZ3SjhjdHBLemM0d3Bwd2N4YWVNenozd3VVQ1VremFnbTU1X1VkUjZLdFJMQ1BYVEozVnRJYjFIMmxSSFVMZnVqWjRoQjN1SjdUdHZaOS1vbzlRcWNXMS1DdzhVMTd2LVBBak_SAcIBQVVfeXFMTmdxbGJ1MmN5MWhFQlRnamdyb2JnU25wTzJzenBvb1A1Y2luVHFwUFB6OXN0dVk3VjV2WHVYRnp2MnVEWjFMNGhmSmE1VzNKNUVqaUthOU1QQ0NoSDQ3QzA5MHpEMFVDMTZjWkdnbFZLYWJjTnN3dElwWGhNUXdvcnVoOTQxZUJXa2NUMmpBU2Jha3owd2Nqd3BxWEQzeEV6R0EwVFFVTDlnQUZ6WHA3dXZjZU1lYlNIU3lwVEE4Q19IckE?oc=5"
+    },
+    {
+      "date": "2025-12-18T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "lokmattimes.com",
+      "title": "Lokmat Parliamentary Awards 2025: Iqra Choudhary Receives Best Debutant Woman Parliamentarian of the Year Award",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM1VvQ09RR2dDb3RqVVQyWm9lVjRDSjF6SHhGdXRqQjVsSG5UOEdTd3p0U2JvNU4tckN0OXpvRUNTR2g1ZHdxVW54UmE4YkhuSlhhSkI4WjlQZFBnZjhWR0p4VzFCOFk3RWxFUnVPTjJIUTBYMGI1T3diek1mNHotM1lTbTJzY1Q2WE1oTWhPUW9MbFVIRzNiSzQ2d2c3cXFiWTdpZVdFcXNEMHJadGNtcDBZcEdNS1d6R3g4T3N1ZWxwVTlrU3M5M2dGRUdaOEpJRGFhQTliUDdxY1c5cXlrMC1relNmSFcx?oc=5"
+    },
+    {
+      "date": "2025-03-31T05:25:23.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Iqra Choudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVFNcG9xLUlBUml4c012dGtzRERlbFpVQ3JNRnlhd1JSRDEwQlhnUVEwYUFrdnVrWF9NVzZBRnZ2aXBoelNMN0xNejFvSkpyRE5Nc0tNMWR3VUZzR2FTQXRIZHMyQWNSakNCQmlwQl9tSTM0SEhoc0lHUmx1RnJoTmlENS0?oc=5"
+    },
+    {
+      "date": "2024-08-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Iqra Choudhary: Mughal history being distorted to advance a certain kind of narrative",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRnlqVHl6OWtNTGVLXy1xSVBmMEFrM2xGMWlUUEFObXByU2hqNzFjdHNPSF9IMHdOSmRveTFvOGNGRWdDUmFwTVo2cjB4RnNlbGxDNVYtZDB2MXRzVHlSbWozVVY1MEV6enFMdTlPdlBsMDBqQUtRWnNaWHdSYmxpWVhiSE95ZmFHVHlDSVIwbk03NE55SmluaGxsM1lGTXZETkJSUGhSOXRzYjlfRllNOWpfWHBJaWJtNlVISnVmcWR2VzFQNWVnakVkVXFWZEd4cGRFdFFxQlpzZEhWZXVMT1hFWGRTWUZQY0ZuR29DNXg0dmvSAfgBQVVfeXFMT0MtRTd0MWlBMG5oOVR5MkpJRVhhem4zMWs2ZUlHTHlLVlZUSFNQWlBRUEZQQ2p1ZVYxei1ZYVNCTkNiZmpENXN2d2RBbDl6QUVxaE5jdVcxektSWEJMYUFILXIzSDhoaXV6cW9lU241NkFjYURqMVZ3VkdON25jNWloNlEteVRGaXQ2TUdtbHhjc1JYUC1wZG9xQm9vWWhyZzlnRkFfQ3k4aEFkTkFhdXFBdWplVmc0ek8wTVEtRnpEaGZ3cG9tTjEzM2gxQTdodFltSkpINEhSUVJCR29OOGR3QVVfQVhMcFp3SzVTcmllVDBIS2NwMVc?oc=5"
+    },
+    {
+      "date": "2024-07-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Iqra Choudhary's Lok Sabha Debut Speech Seeks Direct Trains For Vaishno Devi Pilgrims",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEZFRW05eDhRZC01bk16c3M2dWVIYjBWdUxNUjFhLUtNX2tDWlZQSDZkZ21DdnIxU3dqanNEVENuMjV2Tmo1Q3FSQ2ZRVHZfMXlDNXJIUmVaSXNTZ3NqZ2tqalZjTzFMb1pjVjBDZHpjNi1MbmxlSFNvZnl5eHdRMTEzUGs0SXcxTlRxWlI3Z2FNSlZOZ3NyUTlHRmtqQmxXaHNOUTQwQVRjZjFLWjExZUdtOHF5ZWc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3249,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-2",
+  "pc_name": "Kairana",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180449.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Formation of a National Commission and Welfare Measures for Denotified and Nomadic Communities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Concern Regarding High Cost of School Books and Uniforms and Vendor Monopoly in Private Schools",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to connect National Highways passing through Kairana Parliamentary constituency, Uttar Pradesh with Meerut -Karnal and Panchkula - Ambala - Dehradun roads",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to construct a Railway over bridge instead of Railway under bridge at level crossing No. 109 in DelhiSaharanpur railway line",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to set up a bench of Allahabad High Court in Western Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding request for intervention Regarding policy gaps and improper implementation of the Revamped Distribution Centre Scheme (RDSS)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding railway related issues of Kairana parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to set up departments for different medical science disciplines in Shaikh-Ul-Hind Maulana Mahmood Hasan Medical College in Saharanpur, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need for overbridge/underbridge and to remove accident-prone dark spots at the junction of Panipat-Khatima NH and Delhi-Yamnotri road near Balwa village in Shamli district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding delay in implementation of projects under Jal Jeevan Mission in Kairana Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for the development and safety measures at Yamuna River ghats in Kairana parliamentary constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding various issues relating to Railway Services in Kairana Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding problems being faced by the construction workers in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Immediate Action on Farmers' Issues and Fair Compensation in Saharanpur District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Regarding need to establish bank branches in rural and remote areas of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding various railway related issues of Kairana Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to review inclusion of Muzaffarnagar and Shamli districts in National Capital Region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to ensure strict implementation of Forest Rights Act, 2006 in all the states",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to ensure adequate supply of DAP and Urea to farmers particularly in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. to please fully implemented the LARR Act 2013, in the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to set up a Trauma Centre in Shamli district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding need to control incidents of mob lynching",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to minister to take cognizance of these mentioned railway demands of kairana parliamentary constituency and settle them as soon as possible",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 37
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 123
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/iqra-choudhary"
+  },
+  "qualification": "Post Graduate",
+  "questions": 32,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Minority Affairs": 2,
+    "Railways": 5,
+    "Road Transport And Highways": 5,
+    "Skill Development And Entrepreneurship": 1,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PRADEEP KUMAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 65,
+    "criminal_deduction": 0,
+    "legislative": 70,
+    "mplads": 57,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 6874858,
+  "total_liabilities": 884157,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.9
+}

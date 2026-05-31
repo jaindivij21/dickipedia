@@ -1,0 +1,447 @@
+{
+  "accountability_score": 3,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 0
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7844100
+      },
+      {
+        "category": "Others",
+        "value": 2547280
+      }
+    ],
+    "immovable_total": 12888340,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 127337
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6476373
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 908029
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC policy No 66594xxxxx 0*(Value Not Given) LIC policy No 61741xxxxx-66 0*(Valu",
+        "value": 0
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 10500000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1347500
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3019630
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 22378869
+  },
+  "assets_earliest_year": 2008,
+  "assets_history": [
+    {
+      "label": "Karnataka 2008",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Px66j7gA3gxJcoAjGj",
+      "total_assets": 3697200,
+      "year": 2008
+    },
+    {
+      "label": "Karnataka 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Px66j7gA3gxJcoAjGj",
+      "total_assets": 11676918,
+      "year": 2013
+    },
+    {
+      "label": "Karnataka 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Px66j7gA3gxJcoAjGj",
+      "total_assets": 15964501,
+      "year": 2018
+    },
+    {
+      "label": "Karnataka 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Px66j7gA3gxJcoAjGj",
+      "total_assets": 28805985,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3386",
+      "total_assets": 35267209,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 854,
+  "assets_latest": 35267209,
+  "attendance_pct": 50,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Eregar Tukaram is an Indian politician from Karnataka. He is an MP of Bellary Lok Sabha constituency and a four time MLA from Sandur Assembly constituency in Ballari District. He was the Minister of Medical Education and Bellary District in-charge minister in the second H D Kumaraswamy ministry.",
+    "title": "E. Tukaram",
+    "url": "https://en.wikipedia.org/wiki/E._Tukaram"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Sri Amrutha Nilaya 14th Ward, Ashok Colony, Sandur Bellary Karnataka, 583119",
+    "emails": [
+      "mpbellarypro2346@gmail.com",
+      "e.tukarammp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9448496106",
+      "9448496105"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "Amrithi enterprises sandur",
+      "party": "Partnership Firms in which the candidate or spouse or dependents are partners"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "01/07/1967",
+  "eci_state": "Karnataka",
+  "email": "mpbellarypro2346[at]gmail[dot]com,e[dot]tukarammp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 480750,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 360000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 196070,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 619880,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 121110,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 407180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 250,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MLA Salary"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹37.0 L (2008) to ₹3.53 Cr (2024).",
+      "headline": "Declared assets grew 854% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 3697200,
+        "from_year": 2008,
+        "pct": 854,
+        "to": 35267209,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.16 Cr between affidavits, while declared income across 4 ITR years totalled ₹16.6 L.",
+      "headline": "Declared assets rose 19× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 31570009,
+        "declared_income": 1656700,
+        "itr_years": 4,
+        "ratio": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 6% of MPLADS local-area funds were spent — ₹13.75 Cr unspent.",
+      "headline": "94% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 137526563,
+        "utilisation_pct": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "From friends and relatives loan 30,00,000 30 Lacs+",
+        "value": 12325000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 12325000
+  },
+  "margin_votes": 98992,
+  "minister": false,
+  "mp_name": "Shri E Tukaram",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 9473437,
+  "mplads_unspent": 137526563,
+  "mplads_utilisation_pct": 6.4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 91,
+  "mpsno": 5823,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Hospet.online",
+      "title": "National highways in Ballari and Vijayanagar to be developed: MP E. Tukaram",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemNRUWM4eXdUMURqWFQ0MXAxM2xFYWxaWFJQLTBmRXREWHN5MjljeWhmZDlUcmNTc0JQaTE5X01zaXF1LW82NDRtVWVwRGNGRngxeG5FXzY4Uk95S082bnI3S3pnYnhwRzBCT3loY0lubEo0Znk4RXpkaTBYRDZWdE4yaXhhWE12MHhlblBsTGoxbzFUTnVfTHNkelA?oc=5"
+    },
+    {
+      "date": "2025-06-11T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "The Hindu",
+      "title": "ED searches premises linked to Ballari Congress MP Tukaram, three MLAs in connection with Valmiki corporation ‘scam’",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZUdLLVlmR3lOSEZiU2k4cU1ONXcwQTBWRVlicVhlX0puSlpwUkFnRWF0Ni1aV3UtZHRHRHRwX3phSzhzLTRwZnowbUtlVW1ZZXR6ZUdkUTZlbVprc2JMWTZUZGd4ZnVlcGFzZlVMQi1PM1FiSHE2cjJhWHNJRmFlRmJIU19JM3VJeWFpMWZCc0VDZjhnQXhMSV90YzFpYmJnejhwWEsxRWF0aGQyZzBWZ0dvemZiVDdqQ0VKNXZOaHVxY0h6X0F3UVQ3bHp3Z0k0RkpOQ0Fnc1gxSlVoU0hIX2tIbHJ5aTRVNUxhWVJ0VENRT05LdkY5UEs0dGl5OWpDWkJ2dktEX0hTMDFM0gGTAkFVX3lxTE1CRHZuQVNzXzVUTDdKcFJiT05LVVNnc1VoSHlsR1VMWm1BaU1sd3NtVEhZWjhxQl9EZkl4cXVZVXlWaGhYUGt4dHdwamtNdVJ1YzRyQjBwajhNWlk4MzRyX0F2ZXgzVkMxUnZxLVpJcHZCNjZ5cWsweWZ4bnpCeXl6OXowUXpkdUpvVmdPNVpmNzhva2pHd0hOdUVwQlQ3X0w4MVJaUUlrN2JaSWJjNHROQ25rZm9CUEdtQ2dyWVAxMUVrNVBkdHRjcFNUb2VhaDlKN05SRUF1bVlSY21QVGtBbE01VkktOS1PUk1NQ1ZkSmZqRGw4X2FWTkQ4WnJlZUZyYXRGNS11Q3hzQjFUN3FJMGow?oc=5"
+    },
+    {
+      "date": "2025-06-11T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "The Indian Express",
+      "title": "Enforcement Directorate raids residences of Congress MP E Tukaram, 3 MLAs over Karnataka ST corporation ‘scam’",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSE1WRzNiclZHTF80VVpOX3FmaE55U0xfLXNHb0hpc0pUcnlSTXN2UlI0YlFzMFZ6UW85UXczUXpfOFhfWVpsdjJZV3kwQlM0WHM2bFI5ak9Ra1RqUlVDejA3RnYwa2ZKUmF6VDdYd05Md3hBRHZHdk10aU9HNTBvWlZxcFpRNmNmMzBWckFyMGVqdjJsVjV2WWJROVJhRjNzWjJIZ2QzT0JucWc4U1FhRWVvOXRZTktsbC15Qm1JMkFLbFlVTVdiV1ZRQ1BMY3BLVUZpZlBSc04yWTUyZnJiaVR3b0Q0cnI0TUgtUlJ2RdIB9gFBVV95cUxOeUFXbVJfTGdnNVp2bkRDSHZUbllwVDNvVEFvNTNkSWpsZXhNTmtTNVFCWVU2S1lyUy02dnJHbkxNejlSeVlZcVQ1ZXpPNVZnRHlaNmxTUTM3dXVRU1N4Mk9GMXBPS1BaZUNDdERHM01IQW9yaXE3ZWRZcmRScTYwQ21Db0ZTdXFiWHhDYmp2Q0MyYUtoS2Zuc2JaOVZKS0F4Nkp6ZDEtNTNibF94R2JuaHFJenREeFpsWXI4bG9ycDhtMVZ0UUdiRl9sTlptaHJFZDltWlgzTXNkWkEzVXFrbVB6Zmg3TWVnWGdJNkpnMHZVa19OdkE?oc=5"
+    },
+    {
+      "date": "2024-11-25T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "INTERVIEW| My priority is for basic amenities, says Annapoorna Tukaram",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmFGa04xd1JaQnRDcnphTThCVGsxdkdZN3JMNGNmZmN2eE9VWkk2M0VURnpPbHQ2bnFuSXJtaGZ6YXRLY1NKMzZEVmwtR2Y3ZVYxQzFxX2p1TkIzOFVMNEhHQ3lFTnJuUFBrY3djaE83N3ZOc1JDYmNDTEVMSExuRnZyUmhYcHdPZU1POWNiRGFzWmpLWXhTSFZwTHpMMHVYVXF2XzZxclhLYklSS3RXUTdOWlJsb0FpMWNNRzQ2RzRzQ2dtQThzcXB30gHXAUFVX3lxTE5uaFFlTllld0dYa0FWd0NSakJ0WFdGbWpObm84aC13eWRsbnV2ZEd5MkY3am9vSXM1TlhZVG4tcWVxWi0wQ0Y1Rm9kYkJxY2dhOXd0amdBbzdvRU5WVW9taXpIUEVHT2hVbG1uOFFmMUZsd3M2dTlNYXZPYjQ1SllUSHB2N2poLVJYVWxjSUM4LWI5WVFhYjIxRjlyQ3dYTUN2ZHJVTVRvUVVmREdtMUlqVlN5aDVleE9NaUd5VW5VVE5LYV8xYzE2YWJOdTNWZ0hGblp1d1A0?oc=5"
+    },
+    {
+      "date": "2024-10-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "BJP moves EC, seeks Ballari MP Tukaram’s disqualification",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjhIeklPcEI4emgyS2x3WDBhVGhhZmNvQ2F3OTZHMVVNMElfWkVONHBDSkEtTWVhYk5VS0U2Qkd1YnNMMUptclUzQzB5TG5XWTgtN1dDS2oxQjEtdHl2RG9SdEF1R3RLeFF3N3ZpX01Dekt6SktMdFhFelRRSVhCMUZ2OEp2QUN2alFCYkNlNDd4anM1N1ZXbmppMkoybTQ5NXFGVmt3dEE5eWNzRno1Qk5FTkxhYmN10gHGAUFVX3lxTE9vd1B0R0Jma0RQRUN4TW9fUXA4VWNZNkM2Slk4SzNnYkpBdXVNanhRVVZUQ0pVSnZBVjBrTV9lbW9DTW5ENGJ0U0Itb2JYb1JIOW1zNWU4YXo1aWMwQVZfVkpVM3dZeWtIcU1KU1p3dFRIU3pjczhzY2ptLXBkUEtUMXRGcndDdkFHVlBvSzRnMmhrcVo3UzlIRmN2N2JaNFYxRy1LMGV6NWdnZ0hSOG11Y19welNBVlVsdHRKd0FMSVJwQzI2Zw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7889,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-9",
+  "pc_name": "Bellary",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180169.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 56
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Immediate Release of Pending MGNREGS Dues to States, Including ?374.80 Crore to Karnataka",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 41
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/e-tukaram"
+  },
+  "qualification": "Post Graduate",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Civil Aviation": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "B. SREERAMULU",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 11,
+    "criminal_deduction": 0,
+    "legislative": 13,
+    "mplads": 8,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 8
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 35267209,
+  "total_liabilities": 12325000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.58
+}

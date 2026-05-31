@@ -1,0 +1,718 @@
+{
+  "accountability_score": 61,
+  "age": 43,
+  "assets_2019": 532275977,
+  "assets_2024": 642730752,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 117792000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7887500
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 4562500
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 130242000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 228000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6796464
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 31260000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy no: 714009747. Sum assured Rs.15,00,000. 14,47,800 14 Lacs+ EXIDE Lif",
+        "value": 10169772
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 8008360
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 19410552
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 436615524
+      }
+    ],
+    "movable_total": 512488752
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5iQiDLVBkuwmMrxxwaaV",
+      "total_assets": 532275977,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=940",
+      "total_assets": 642730752,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 21,
+  "assets_latest": 642730752,
+  "attendance_pct": 80,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "26 Natesan Street, T. Nagar, Chennai Tamil Nadu, 600017",
+    "emails": [
+      "office@vijayvasanth.com",
+      "vijayvasanth.39@mpls.sansad.in"
+    ],
+    "phones": [
+      "9840033352"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 8,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 8,
+    "ipc_summary": [
+      {
+        "count": 8,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 6,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 6,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 6,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      },
+      {
+        "count": 4,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "99/2023 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "290",
+          "341"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "785/2021 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": "Section 3-ED ACT 1897",
+        "sections": [
+          "143",
+          "269",
+          "270",
+          "283",
+          "290",
+          "341"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "74/2021 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": "Section 3-ED ACT 1897, 71(XI), 73 TNCP ACT",
+        "sections": [
+          "143",
+          "269",
+          "270",
+          "283",
+          "290",
+          "341"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1053/2020 KOTTAR POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": "Section 71(XI), 73 TNCP ACT, Section 3 ED Act 1897",
+        "sections": [
+          "143",
+          "269",
+          "270",
+          "283",
+          "290",
+          "341"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "507/2021 MARTHANDAM POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": "Section 3-ED ACT 1897",
+        "sections": [
+          "143",
+          "269",
+          "270"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "445/2021 VADASERI POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": "Section 3-ED ACT 1897",
+        "sections": [
+          "143",
+          "269",
+          "270",
+          "283",
+          "341"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "380/2021 NESAMONY NAGAR POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": "Section 3- ED ACT 1897",
+        "sections": [
+          "143",
+          "269",
+          "270"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "186/2024 THUCKALAY POLICE STATION, KANNIYAKUMARI DISTRICT",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "341",
+          "290"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 10,
+  "dob": "20/05/1983",
+  "eci_state": "Tamil Nadu",
+  "email": "office[at]vijayvasanth[dot]com,vijayvasanth[dot]39[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4221380,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3821120,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2770400,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2336220,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2116340,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 332770,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business Income and Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹11.05 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.53 Cr.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 110454775,
+        "declared_income": 15265460,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹12.46 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 124567413,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "ADD2KART RETAIL 2,54,35,173 2 Crore+",
+        "value": 25435173
+      },
+      {
+        "category": "TDS payable 25% 51,50,947 51 Lacs+ TDS Payable by ADD2KART 30,239 30 Thou+",
+        "value": 5181186
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 4881859
+      }
+    ],
+    "total": 35498218
+  },
+  "margin_votes": 179907,
+  "minister": false,
+  "mp_name": "Shri Vijayakumar Alias Vijay Vasanth",
+  "mplads_allocated": 171500000,
+  "mplads_expenditure": 46932587,
+  "mplads_unspent": 124567413,
+  "mplads_utilisation_pct": 27.4,
+  "mplads_works_completed": 24,
+  "mplads_works_recommended": 103,
+  "mpsno": 5533,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-01-18T21:46:47.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Vijayakumar Alias Vijay Vasanth",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjVWcllDQklvdGhZTnZEQkVzNlFnd25lX2RVZm15ZmtqZ3FpMmZsMlhQOFZSc2YxSFpSNjNILWFYbElZLTVOcktwazBLYVYyZjNHTEhmMVQ4TUhRcXBlZEZmWGV6bWk1LUdXbUpUQjkwTjFFRlctU21PRUx6Nk5veVhwQkVwcEo0emItWmZ5MERYMXNaSFg2VnlHTQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kanniyakumari election results 2024 live updates: Congress's Vijay Vasanth wins",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObmtPNXVFei1weUpRbWlLVEw1cmZTZHdONk9pWmZkTG8zNzE1ZmcyVzVBM09XVFhIVFpNWWJmSFlCTUxDYU1ScXpYekEzR00zN1ZvRkRqZjNINFVrelpsSTQ0bVdmVXB5R1NNQTYwM01oLWRSYUV5TDd0N3Z4alhjLXd3Z3pGalhTQkVkb0tCbWpIZE5SYjZZdnhLX2plZ2ZiMHZ4cW1PWGxvNnFjRzQ4N1gzM1JsU3JoMkJVRW45bEh6VVduU095S21pWkZVVkppU2RheFU4YnY1b25FbThUeHFvZWhtX19Hc2ZfZUJxOHdIbExCSkI1QzJ1RnMxQWFGWk9GT2h2a1hrc1pKMGZXc29wcGc2Zk5oLXM5S0ttcEZZRTZtYmVfdFp3c2c2Z09yZ25DaFBzM2ItM0JlSjRhMjlsdEVpUEhTNy03N0RuN2dubDg1MlVZSGcyRVNHcU5tdU01ejZnVUN2ajBTS2fSAfMCQVVfeXFMT2lkTWNKYmwtenJtblo5eVhweWZBT3BkanFSdkJzT0lReTNXTWZ3aE5qV0RFc3REcmFQaV9DY1RGeDMwWjhhRVlCZFI0WnJhQlBFT3N5OGpjUUlDenVvVmQ3R2ZwZWFYOTMxeVV5VDBQUm1WOC1rQmRxaThDTnlsUzRpNGNKUEpTdEdLR3RRQ3FYTEVPTXdOak9jajdxcnQ0bjI3NnBGSnlzbkdXRXBQSnZlTDZrcHZ2ckF0MkdEUWFYeUZQaVhDNmNXdktZNjd3M1daYXpDaFFxRDFwZ0xmdEg0MGJ2T1dzaDYyTkJxRFdnSWJZcGlpcUZKOEdTNlp5d2pjWmZSSGJkQ0tWNU0tUHMycmNNMGNfR0xKRjdKMnVWRTA1WmR5dFYxZnVaZzhUUlplaWVkeWJKbTdKSWw1bzRVcm02QzVGUHJlbVhxbndoZzRvaG5oQmJDUENwWmktaDIyem80ckpkX05jSExkNXZiaUE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Kanniyakumari Election Result 2024 LIVE Updates Highlights: Vijayakumar alias Vijay Vasanth of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkRQOF9jcG9xYzBmUUt5a19EajFZVXNyNkpyVnRMQ3ExNEpZM2FaaTlEdExKWGd2RHNZbkZFNmtjVlRJb0h6dGptcWI4UzhSWkVKOGdVRU90bHJzcGFoalB3Y2pBLUFqZTJiYzBHeTdObmVnQk1nakRzM2w1RnM0YXdPVXMtMjROM1p0QmZoam0wS2Y2TldzVzBaUkVMQXpsb25UY2ozQnJ5UXFhalJUOWhoQWp0MXBMZHo1WmtyVTE5c03SAcgBQVVfeXFMT1FPU1o5a3pOeDByWDlyRGZCc1JuRHN5Ri1vOHBDTU55eWdEX0I5S0RON3pyZnhLampneUhWSVhYdUhNQnJ4TFNrNTlnY1ZfNndyWl9WUi1maDA2Z3ZpdDJTdkFjQTd3eXRna1RBRXlKTHJjVlljS3NRckJDRVBJYjhWT05tTkpxZHdNV1VNWGx2anRZa0F5MDdRTldXajh1T1NtSG14S3Bfc2pROFV0X1R4a0htWEhkSXh6V1dOU2F6ZFFNQVQxMlM?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:21:45.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Vijayakumar Alias Vijay Vasanth, Inc Party, Kanniyakumari, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSm5ybjlubWVnNFEzQk04eUhTR2FjSkttV254RWpMSEVzMkIwbmhOZDFBZ05ROUp6Yi13eU9qaXRmbFNocGs2Tkprdlpyb1IyMW13Rl9jUTZUbHk5QkF1QUZOVnREbHlPaVhINjItbml3SG1YU0g1UU5SNFJPbnZFanQ0SEhTVTNfanRiaTN4MERfRVk3MEVTYjR2NmtSMktuV21fd09SRERkVnlZclZZSlJqZW5Zcms2bDdRU1pEQS1tM0NySTRPWlpmLUtKOUhRajlQa2JqQTI2Zkk4YkxhTW9Gd3dHSjlJcDV1OG95OGZ6VUVWV0pkY1owbw?oc=5"
+    },
+    {
+      "date": "2021-05-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Congress' Vijay Vasanth wins Kanniyakumari byelection",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTNJNGdrdlVER01RbDVLWXZKRlZVLUQtY1N6YndWOUdCN3VxRVhQMXlHT1FSbkF1dldOeC1PZ2ljRVBkRzVFMzlNMVJfODR0TmlQbWVhNVpYcjFFOHFkWXlCbFRQU0lkRjFWVDNkc24tY0E1SzdIZU01bS0tcW5XQzd0MHRaQWQ0c2RqV2g2SXgtNGpFMWhBempzWEN3MHBGYWZVQUFKMWItTU1vZHV2eDRScURMdllJRTdUTUtGQThDcDlFdGtZ0gHUAUFVX3lxTE4yZHZTVVp0NWZ3Q0xVc0cwLXZ1MnJ3TWwxOVM3c3dEaUdOSkxQcFM0bmdkZzBhcDMxa2hPalZrLTNmejNhRDI2alhhdS1GZU1nTW9VM1hGZXlJU2Y2Q0ZsV2ZmV2NhNzlhdHN4QmdjTlRzajB2VVRpemF3Vl9Fd1BHYXk3WGVqaEp0VnltTDNDMDJscTU5VEdKS2VvX3hHcVpUM0k0SDFBMlV0TVBTREtuTHhxOU9kbkVTMXVBTmI1UzFUSTNoUTZtQWZzVTFETXJ4ZVRo?oc=5"
+    }
+  ],
+  "non_serious_cases": 8,
+  "nota_gt_margin": false,
+  "nota_votes": 3756,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "tamil-nadu-39",
+  "pc_name": "KANNIYAKUMARI",
+  "pending_cases": 8,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180397.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Comprehensive Rescue, Relief, and Repatriation Plan for Kanyakumari Fishermen",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand to Ensure Uninterrupted Supply of Fuel and LPG",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to provide railway connectivity, infrastructure and passenger amenities in Kanniyakumari district of Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Formation of a High-Level Expert Committee to Address Safety, Conservation, and Livelihood Challenges of Fishing Communities in Kanyakumari District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.08.2025",
+        "title": "Regarding need to expedite approval for establishment of Airport in Kanniyakumari district, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Urgent Appeal for Immediate Coastal Protection Measures and Rehabilitation in Kanyakumari Due to Sea Erosion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to withdraw the mandatory Face Recognition System applied to Anganwadi Workers for Take Home Rations and to address the problems being faced by them",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to expedite completion of track doubling project between Thiruvannanthapuram in Kerala and Nagercoil in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need for a special scheme to address the problems being faced by fishermen in Kanyakumari, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Reconsideration of RBI�s Gold Loan Rule and Relief Measures for Vulnerable Borrowers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need for construction of ROBs and RUBs at several locations/railway stations in Kanniyakumari Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need for allocation of funds for overall development of Kanyakumari district, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to govt. for the establishment of a Greenfield Airport at Kanyakumari",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding investment in Rubber Research Station at Kanniyakumari",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Urge upon the govt to take immediate action to increase the quota for recommendations of the MPs to at least 150 per year in PMNRF allocation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding construction of a Statue of Perum Thalaivar K. Kamaraj in the sea off the coast of Kanniyakumari",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding operation of new trains and development of Railway infrastructure",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 29
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 172
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/vijayakumar-alias-vijay-vasanth"
+  },
+  "qualification": "",
+  "questions": 55,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 3,
+    "Finance": 5,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 3,
+    "Science And Technology": 2,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RADHAKRISHNAN P",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 67,
+    "criminal_deduction": 8,
+    "legislative": 79,
+    "mplads": 48,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 642730752,
+  "total_liabilities": 30616359,
+  "wealth_pct_increase": 21,
+  "winner_vote_share": 53.08
+}

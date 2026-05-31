@@ -1,0 +1,398 @@
+{
+  "accountability_score": 19,
+  "age": 56,
+  "assets_2019": 56770463,
+  "assets_2024": 122663406,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 15000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 5000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 32000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 470000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2061475
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6684000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9107500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 68000
+      }
+    ],
+    "movable_total": 18390975
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7179",
+      "total_assets": 50237175,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 50237175,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ajendra Singh Lodhi is an Indian politician. He is a member of Samajwadi Party.",
+    "title": "Ajendra Singh Lodhi",
+    "url": "https://en.wikipedia.org/wiki/Ajendra_Singh_Lodhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Kankuwa Post Kankuwa Panwadi Mahoba Uttar Pradesh, 210429",
+    "emails": [
+      "ajinder6363@gmail.com",
+      "ajendra.lodhi@mpls.sansad.in"
+    ],
+    "phones": [
+      "7607602279",
+      "9794956363"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "09/08/1970",
+  "eci_state": "Uttar Pradesh",
+  "email": "ajinder6363[at]gmail[dot]com,ajendra[dot]lodhi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 632990,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 493410,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 498410,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 492050,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 396110,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.22 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102202614,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 13,453 votes; the seat was won by 2,629.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 2629,
+        "nota": 13453
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7485000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7485000
+  },
+  "margin_votes": 2629,
+  "minister": false,
+  "mp_name": "Shri Ajendra Singh Lodhi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44797386,
+  "mplads_unspent": 102202614,
+  "mplads_utilisation_pct": 30.5,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 121,
+  "mpsno": 5784,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-15T01:51:23.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Never seen such a bastard and anti-national Prime Minister: Ajendra Singh Lodhi, MP, Samajwadi Party",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZHc1cXp0ZE81ZlRhVkdkbml1WmVkM1J1enFMWnVTVmxWeEVYc25ZN0NzVHdfUzNFT2xJT2l6UnBrX3F3OUpkVk1NalhsWVJZYzhhYnFwS3paaFkwYVNmMHZIa0h6alZFcWxZcnYzbnFkOXgyUzR4NjVqVkM4djNQY01fTVA0dzJ3S2tjeUM4SG5EcHBqTWptTU4xUXQzekpabm9ESC10c3JXdzdNazVGSVpWX1dHMGRiYl9EcHhXVGFSMjBSQ3JjTnhGNEpRY3VDNzNfaGtRbUVfM204YWhEckxwWWpLWGFma2lHSXg0Umw0VmVWd0I5RVZnOVNJMHpiY09ENTJESUJobTFQUzd0S1B4S1Z4SkxYeEFIQzJSbw?oc=5"
+    },
+    {
+      "date": "2026-05-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Statesman",
+      "title": "Samajwadi Party MP Ajendra Lodhi booked over derogatory comments on PM Modi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ05fYU1yNkh3THo0QkhuQ3dzUGR3OXVWOE9WNDcwSXlaaURjZGpxSXB0RWJ3V3d0UFZ1U2hSSnh2cWkxOEhMTjg4WG52ZGJWQllOY2VtMExBdFlQUmgwXzU5ZlpJWFhpenZmeGJadF9wN251cVdsbzlPT0pzMUktUlRoamFVUGdHd0h5UTg1ZEJWVk84V1h2c09INWVzR3hUNHQ0ZFNYVmpTNldJS2xuNUZzSDhHMWQtWWFNb0NVWk5MR1E30gHKAUFVX3lxTE4tM1lBdFZ3UXpJWUNIbUZwXzBuNE5CcVdfekthRzFHbTI5aVk0aEcxeXQwLUZwa3lqSzJWRF9XOXBvR0tQaW81b0FVdTZIcUdwZTJGaVUxZms2YktzODdCbTFIRmowdWdXc3FUVFZOLWxINmRaTm9jUmo3TUg4YzN4SVYzR1BoTmF0NTBvLVJkQ25RTVp0RHpRWW1RYWpXYnVqYWUxU2g2RllBcWxJREtUWVJRSzI2NWl1UDhTSllUV0lDMC1yNzdiVFE?oc=5"
+    },
+    {
+      "date": "2026-05-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "SP MP Ajendra Singh Lodhi booked over ‘anti-national’ remark on Modi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFSNXhfNmRUcGZrYXpydVBjUFBjYnJVOWhNa0tzZ1Z5QUc0Qm9YcV80M2lhWlhYdF9ETlpfUTJBZDRpcWhILWVSQTBySl9taHlfenMtS0dhV2hxaVlDMXJSUHRFZHd6UVpCQW1oS0R6TE94N1NiVDF3aGNvdjZsTlNQc2VZTDEyeTQwZUdmV0F3U2ZyWXNDOTJqbHhkbk9rX1VJ0gGoAUFVX3lxTE5id2JicGxjN0Q0QTFtaFJpWjcyMjlYQy15ME1OUENkT1pxMTloXzlzOGYyb3FfSHhCdDhRemphQ09CSndxZ1JOQnFCM1NzSkpMQmF6TGNoQzg1a2R6eGRBYlNRdGN6MTNUX0RpVU5WT1NfV2Q3blpTa1VxU3Axb3RPRXVqV1c4bm1JTVoxaEdPc2pSaFNDNUVmQThWRHJVbU1yZ3ZDZnEwcA?oc=5"
+    },
+    {
+      "date": "2026-05-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Devdiscourse",
+      "title": "MP Ajendra Singh Lodhi Faces Backlash Over 'Anti-National' Remarks on PM Modi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWF3WmVUazZucTJRMW9pNDlkVXNhbzNYeWZ0Vkl6Y0NTbWtwTzBLTFJKMFMzcEFjY2x0Q01tdVBDU0x3UEhKR0RnWDN0dk1VQldZN082NjNSU0VxSmNLLU05eWF4Wi05QjF1SV9fdkpQMlpaLW5ZWUY1NU83bzZWaU0wdGlmZVFSVi1pZmhTNGZ2b2Q2aWdzSXBhOVNLUVZ3dmZJTzI0aEdVVi1ZUGd3SkswZXRJUWVGRExjdzdTUVR5bG5uMWNXOdIBzgFBVV95cUxQalI3S3JIWU1wY21EckRfM1VfbHZpdGVnYnNpTC1Dbnc1MndmLWZPbXp5TnozQ1pZVk9TanZPeGhhWU9BYldIeUl2OVVMOUJQZWlpTmM4RkZHV0x2RU1haGN5UG5ub2xqcC1jcEc5Sk5ISkMtbDNuMGVhQVAzSkZUMlp1T1pCdldOTVlOd0R5WVhCTE9HVVVfZndQOExad1puRVZFQU1jbThTa2tXVHFfb1JUX3ZTa3Y0OWlVM3h1Q0RVTHZOMGMycEs2b0t4UQ?oc=5"
+    },
+    {
+      "date": "2026-05-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Case Filed Against Samajwadi Party MP Ajendra Singh Lodhi Over Alleged Remarks Against PM Modi",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU0VRVm9pSmFtV0N0RlRibU8zVjFuaHlhUzdEM3NjZGNaeGxrSE0zZmhiNUNWTmMtdUVHQXlNMThqZVpjaFRnbm53NEV3UzBUeWpybExMbGVOa1hodEtzTEgweV9GcTFKN1hNbHROQmNDd2lZVXBaM3hQRFlDUHJsZjBqZ3c0M05wZXh6dmxrN0VpYXM4SkJVMzRjUFU1Slk3amFvdFF6TXZCVEk5dUVuOHdpQ09hMWpTTE83VVFtMklRODlWX3l0Y2pKamJNY2ZzWGVHd3NOaFR3djBUVFJyOEhpOEJ1XzJhcXhCTzB2Umxzd281NXlheWl2SjM0ZC1wYkpzZTR4QVhMYVNfVzhLMF9ZUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 13453,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-47",
+  "pc_name": "Hamirpur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180419.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 61
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need to establish a Central University in Hamirpur Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Provide Relief to Farmers of Bundelkhand from Irregularities in Fertilizer Distribution and MSP Procurement",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 11
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ajendra-singh-lodhi"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "KUNWAR PUSHPENDRA SINGH CHANDEL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 24,
+    "criminal_deduction": 0,
+    "legislative": 15,
+    "mplads": 37,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 50237175,
+  "total_liabilities": 7485000,
+  "wealth_pct_increase": 116,
+  "winner_vote_share": 44
+}

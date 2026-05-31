@@ -1,0 +1,404 @@
+{
+  "accountability_score": 38,
+  "age": 76,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 200000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1700000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 44000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1270000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1515700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 89000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 268470689
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 108762881
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Investing In Insurence Company 45,00,000 45 Lacs+",
+        "value": 18832488
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 110450000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 34703631
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11740735
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 553049424
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Lok sabha Bye election 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=7PuQcD9JVZdz3Nu76fJ",
+      "total_assets": 1529006846,
+      "year": 2012
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=7PuQcD9JVZdz3Nu76fJ",
+      "total_assets": 1662109875,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=7PuQcD9JVZdz3Nu76fJ",
+      "total_assets": 1846640100,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=283",
+      "total_assets": 2068739424,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 35,
+  "assets_latest": 2068739424,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mala Rajya Laxmi Shah is a political and social worker, Member of Parliament elected from the Tehri Garhwal constituency in the Indian state of Uttarakhand being a Bhartiya Janata Party Leader and titular queen of erstwhile Tehri Garhwal kingdom which merged to India.",
+    "title": "Mala Rajya Laxmi Shah",
+    "url": "https://en.wikipedia.org/wiki/Mala_Rajya_Laxmi_Shah"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Raj Mahal P O Narendra Nagar Tehri Garhwal Uttarakhand, 249175",
+    "emails": [
+      "mala.laxmi@mpls.sansad.in",
+      "malarajyalaxmishah@gmail.com"
+    ],
+    "phones": [
+      "1352747700",
+      "1352749880",
+      "9811670271",
+      "1123782818",
+      "1123782815"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "23/08/1950",
+  "eci_state": "Uttarakhand",
+  "email": "mala[dot]laxmi[at]mpls[dot]sansad[dot]in,malarajyalaxmishah[at]gmail[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2384648,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 69262085,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 824537,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "M.P Salary and Income Of Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Interest and Income Of Rent"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹53.97 Cr between affidavits, while declared income across 1 ITR years totalled ₹23.8 L.",
+      "headline": "Declared assets rose 226× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 539732578,
+        "declared_income": 2384648,
+        "itr_years": 1,
+        "ratio": 226
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 29% of MPLADS local-area funds were spent — ₹10.46 Cr unspent.",
+      "headline": "71% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 104645141,
+        "utilisation_pct": 29
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 179000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 179000000
+  },
+  "margin_votes": 272493,
+  "minister": false,
+  "mp_name": "Smt. Mala Rajya Laxmi Shah",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 42354859,
+  "mplads_unspent": 104645141,
+  "mplads_utilisation_pct": 28.8,
+  "mplads_works_completed": 28,
+  "mplads_works_recommended": 225,
+  "mpsno": 4582,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-02-13T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "news24online.com",
+      "title": "Who is Manujendra Shah? Tehri Garhwal royal in spotlight over Rs 1000 crore Delhi house, his wife is…, business is…",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPaUNOZEFYZnRGeE9nRTdHTEVOTXFzU2tkRmp1WVNRdWNFd1l2c3NsUnhQeVU5N054TXhnRUlWc3FJa3B1cy1jRmdsT0FUSVh4YmlOem5qYWxaVEN1eUNGc1Rpel9sUVU0RTBKU0cxUXhWa05SSlhtZ2JsWjh0M0F4N3g2ZVVVZENMZHYxcXRjVEpoLUUtZzVaX3U0aWNRZzg0LUFDMG1FVzZkYWxnOFBld3NSbW5FNGlRMFJQY2NYeGEtQTFfV1ZpbzZwaHFwRXpCYkM3eUl6ekZzVVlpNXN0S0psVW9GZllvSmpLb3dzZ2pmUldZam9GUVBMUzVYaEoyUHFPNnRLX0xIa25vd3ZPMm1JX3FTRWkzS0FYTEpncmNyN1pkSlV3dEg1VzY2azc3X1A3MkZ30gG6AkFVX3lxTE1Ld2xlU3o2bk9UQzhncXJxUm5meWlhNVFrVVB5T21qV1d5ZTRGcVROZ0g4RHAzVXBuOEdSeWFEWnY1TlNwMmVIT0ItclVUMG84b2RkS1h5UnlsSFRoTVZYanVVRTdQLXNBdXVEenEyX3loWklTN1Y5SmtBblNSOTdEVzAtTl84Uk1md0ZQTXU4eVpCTnpnOUZld21RZ3g5WUdyejJiSlMxbHpESnlzcHF3dkh0OEw5aFhjSUNtOUZfREY2dHI0NjBiT1ZYcG1fOVh6UXdEQnhnNlRNTXpiZVBfckJ6Y0pMMXNBZkJNNFY1alVaMC14eVhjcndHaUFEWDc3TXJfMUx4Ri1JT19MaTdNRFp5TnRFN3lXX2dycnhOSnNnenBDN1JrbmtMbjh4V2ZPRVowWjFyX3F3?oc=5"
+    },
+    {
+      "date": "2025-12-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "MP Mala Rajya Laxmi Shah raises demand for widening Kaulagarh–Bajawala Road in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWQyMjlQNGE2RExNV0pOLUprbGJJZlF0b3VSRzlyTDlnMndnMlp0RzlZbFZMaDVEVEhqZHltd1NBYXFkRURJOFJIX0l0eXUteURsU1ZFbzg1Z1JnajhzdVpiYk9PVzRmakctQTJvLW45bEtYWGM1WDN3WTdOQTI3MDBKLXRoczUyY1VhdnltenFZSHhpMmJOM0kxSWF3UEF2dHBoa2dkQk51X3oxOEZVbFpB?oc=5"
+    },
+    {
+      "date": "2025-07-26T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "Garhwal Post",
+      "title": "U’khand MPs meet Amit Shah, call for stern action against LUCC fraud accused",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGlCbHNzNkxzOUFqUEgwTHFtdnNvMVY5eU1rTlFJTWluVE43a2ViZmgxRnhTemdqeHg5UzhJdHAtalpCZnpsVjNXdmZMSnlUbW1aX3NQMVZaaUZhS1JqdjhRYzdVOTBBdkJwU0kwZlpQeFJDZURUcnNLYkloT2dOMDRERUFxczBtMjRvM3VSZzQtNm1kNTlnTE0yNkJSRlk?oc=5"
+    },
+    {
+      "date": "2025-03-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "MP Mala Rajya Laxmi Shah reviews development schemes of Dehradun District",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON01iT0VFSFZsZG1sVE5weXktVGhINXJDNklIc1BPb19qNU1VTjhMWXcwNEh5YW1XaU9jSVRrNlc1Sk1POUlBOERlTVJpMVliWXhzNjNSOVZRLUNwWVdSRWhUdEJybmdlLWtQbmstU1N3VHNRYTNFNjBSVFNaQmtBV092VTVJd19rdWdtcEdkYzVkZGNscHdZMUVJU3AxZw?oc=5"
+    },
+    {
+      "date": "2024-06-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Garhwal Post",
+      "title": "Mala Rajya Laxmi creates record as she wins Tehri LS seat four times running",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelJhbGJkLTJDcGh4Z1lwU3JxcmNlbjJJOXRwUllsdXV2Mm9wWjIxSF9VZDlvV3JhdmdIV3o5ZHZ2dmNXSW5rTmNPWlRUQ25VYzRPRFZ0Q21VdnBGZG1sSmNVenltUDZyeGlHamQyOFNWVmczd2dBaDk2T3VPREhKU2VLRVBId0ctZldfblRETXRoS2ZyT2VLMVpWOFVvR1ktUUE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7458,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttarakhand-1",
+  "pc_name": "Tehri Garhwal",
+  "pending_cases": 0,
+  "phone": "Tels: (011) 23782818, 23782816, 09811670271 (M),Fax: (011) 23782815",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180500.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to accord permission for proposed widening of Kolagarh-Bajawala road crossing through FRI (Forest-Research Institute) campus in Dehradun",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need for enhanced compensation and relief for cloudburst victims in Uttarkashi district, Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to provide 200 unit free electricity to people displaced due to Tehri dam project in Tehri Garhwal and Uttarkashi districts in Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding request for sanctioning of Railway lines between Dehradun and Kalsi",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 9,
+      "value": 4
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 79,
+      "value": 115
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mala-rajya-laxmi-shah"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "JOT SINGH GUNSOLA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 32,
+    "criminal_deduction": 0,
+    "legislative": 25,
+    "mplads": 43,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "extreme",
+  "total_assets": 2068739424,
+  "total_liabilities": 179000000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.66
+}

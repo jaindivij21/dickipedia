@@ -1,0 +1,508 @@
+{
+  "accountability_score": 11,
+  "age": 41,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 85000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 510229
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 595229
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=VuQBHANhKRyfqd5y4aQh",
+      "total_assets": 2250540,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7961",
+      "total_assets": 595229,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": -74,
+  "assets_latest": 595229,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jyotirmay Singh Mahato is an Indian politician. He was elected to the Lok Sabha, lower house of the Parliament of India from Purulia, West Bengal in 2019 & 2024 as a member of the Bharatiya Janata Party. His village name is Patradih in Purulia District. He is also serving as one of the State General Secretary of West Bengal unit of BJP from June 2020.",
+    "title": "Jyotirmay Singh Mahato",
+    "url": "https://en.wikipedia.org/wiki/Jyotirmay_Singh_Mahato"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill. Patradih P.O. Pusti, Distt. Purulia Purulia West Bengal, 723212",
+    "emails": [
+      "jyotirmaysingh111@gmail.com",
+      "jyotirmay.singh@mpls.sansad.in"
+    ],
+    "phones": [
+      "9933787883",
+      "1123062545"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.bacebook.com/@jyotirmaysingh.bjp"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@jyotirmayBJP"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 2,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR Case No. 286/20",
+        "charges_framed": false,
+        "court": "ACJM Court, Medinipore West",
+        "fir_no": "142/20, Dantan PS",
+        "other_acts": "Section 51(b) DM Act",
+        "sections": [
+          "143",
+          "188",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No. 1423/18",
+        "charges_framed": false,
+        "court": "JM at Bidhnagar",
+        "fir_no": "147/18, Purulia (T) PS",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "323",
+          "506",
+          "34"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR Case No. 470/16",
+        "charges_framed": false,
+        "court": "JM at Bidhannagar",
+        "fir_no": "33/16, Jalda PS",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "323",
+          "332",
+          "353",
+          "186",
+          "506",
+          "34"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "02/05/1985",
+  "eci_state": "West Bengal",
+  "email": "jyotirmaysingh111[at]gmail[dot]com,jyotirmay[dot]singh[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 712800,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 633720,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 534480,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary and Allowance"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 17,929 votes; the seat was won by 17,079.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 17079,
+        "nota": 17929
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 17079,
+  "minister": false,
+  "mp_name": "Shri Jyotirmay Singh Mahato",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 65,
+  "mpsno": 5053,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-04-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "LawChakra",
+      "title": "BJP MP Jyotirmoy Singh Mahato to CJI: “Smt. Mamata Banerjee’s Pattern of Undermining Judicial Authority Is Now Unmistakable”",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByWDN6dFdkcVFmemNzc0hNNzRzUjJ5dXpRUFJ0cEk2bXJJRmg0d1NtQWctNTlUTnIyNnlSSDBmcWVEbEFlT3dJdXlKemtGeWJFbkM4bWszZnpmS3A4SUlPQ1EzOVpfSnIwcEpwWGZzWnRmRW1oRjNrZzEyVHU?oc=5"
+    },
+    {
+      "date": "2024-09-22T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "ANI News",
+      "title": "Bengal MP Jyotirmay Singh Mahato writes to Centre to investigate 'Mamata onion scam'",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFpKWV9qaDJsb2F3V1dqX0VZNVdwSWR0SE5mU2xaa2R1ZGtVQ3RIeGtJdThJOG1tcUxvQ21FU1lTNDFhMVRRdmNGN1BkNFNDd1I5T0lqVkZKQUprcG44bW4zT2NrUmVSM2lCblBLV19hMjVaSEh6N2UxLWpwR3RRd3NnWnRjQzNxNl8wWWVmc2FhVnZDbWp5eGFIX1NuZHRBeWZkb2ZNUEViQzRmeGJYbWR0U0JBYkEtdXFLWDZNWnRDc3dTaXl6NlJEVWliOHNrUmpkU1Y5UHgydw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Purulia election results 2024 live updates: BJP's Jyotirmay Singh Mahato wins",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPdWNxUlYxMEJmNGl2T0ZzUkdtRGVjSG41LWl2Yi1zMFhyOGF2Ukd5WU5Mak1ZNDNXYzUzVHJlQVpYeHljZGd1UUtJNDlTQUpGdl9vRTBhemY2cDFrTHJsZ0haZnpWSTNrRC0xNE9xODc0bWF0eTQtNURBVFlCYTI0TFRsVW5SZ1hsV2ZnUzN3Z0NrQ3QzWEJ0c0FUSUJTbm8xS2NvSTA5N2tUQmpVLTc2ZnJ2NzNqbkloS1ctcEViajB1NGRJdy1EQUE4aTQ5ZEhrN3dpakdDaHc3c3g4bmN6cFBrcEVUSnhLWGJucUFjZkd4czBRbnRrdHVRbXpfNzJ0bVNKb0czUWtIMDlMM3ltcFBQcXd6Nmlnc29ILWIzQmhHQnRCc2ZTM21mbmZlM0xnaVJDZmhRaFdZVUVjS09FNVI1SmxOUTdieV9lR2ppN1JYNWRrWFBUVXFR0gHfAkFVX3lxTE5EbzltWWxUbHNvUkJxUEpMWmRlbEhHZjhVdTFXN182bUs0U0t1eF9fOWR5X241VTQwdFYxVG9obnhVOGNaRzR2bi11RUtwS0lqMVVydkJtWHcwc0l2VlMxUU1BdVcxblpWU2VTWkFzTlZBSlVrMng1Nm53QnBYNkFEUlpybVJVRFpXV2dVNzdJLUQzbjV1UjhPa3Ric2RtZWUwdUU1a3FPXzBaUXlXRXRKQk1wV3hvSGEwSG5mbnZNUmkxdk14QkdSczhLOThsSTlSSGVfTGFZMHljR0xHZXUzNUhCQ1UtTmtBU3I0SjFaeGQ2NTJrVl9HRlRBaFZVZGZOZmJRbVd0Y2VWUjNaM2l3aEJFTGpMUmNfU2ZBNGR0dldIOTlXa0dId0taVDRSY2prRGVlY2VJSDJSM2pVOXM1ejJzRWw1MFNWN3JTSlJhNDdFYUNCbU43RXVxVkYxVQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bidyut Mahato’s record 3rd time from JSR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamVVVFF6V240bThhdTFpSE5WbHBjclFBWW45dHl3OWQxaDlKTUo5eDd6TE9UVldka3pSekJ6SExCaTZNbGJGNDlnelB5S0xvV2JMcUpvYVBENi1jRW9MdlYyNVhTWm5mc292Q3JuYWZYZDNRcTRoQzNmcE5TZkd4TTJ2ZFJiUlcyaVB3R2ZrTjBfWjdwa1REQmJyUEpiVUFrUmdMTzFPSWtBbUJybnRLUUtMeG9yU19tdHM2V1JlQ1FwRkM1aW8weHNRTEJ2OTNQ0gHWAUFVX3lxTE52RTdMSWFiSFpLVUpYVGE5OHF4eVN1dU1ZVU9mRjF0TmxHZDdKUnhJMWpUSXhiQTZXWnQ2NWFFZjNIS1djMHJEdmd2clBSVTZvMjJhT056VUppbFpFd0dSQ0hRM3NJNkNTWG4tWU1KVWNPN0RLemNpZzVPOFlTSWE3YnVodU5XODVlTDZGejV1Wl93aWd5VXVsaXBaQVlxVWQ4NHpQdThMS09RS0dOeC1yY1ZrZ1pYNGI1RkJ1aTZpLUZWZDdQWmdoRHczcFBjRmpSVm5XZHc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Purulia Election Result 2024 Live Updates: BJP's Jyotirmay Singh Mahato Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZlJocEF6WXRNYlNobzBVYTVvUWQ0d3hnQmUwb2NPbEp3RE1xbEp0SjVaUW96aUlxRDYwZmF6SFA2aDFDWUFPdERWeDhyMkJCUXBib1ZpTlZQWWVFRTI2Zk5KRllIRzVJWHFOcXBGVnNJMlYzTE5DOEJTVVFiRE1nd3YtMVRQdVY4cWRfdW52dWV0UC1lcFdCeG56SlRSUmxLTnJxOE92MHhoNmM4YXlMSW5YS0g0c3c0NGkzdGxweXpEckRMTXNv0gHUAUFVX3lxTFBtcnEwMnU1VzdxVXFCYXpmRTBDYjJpSzdXMEF3WU9fR2JIdVJ6b01mUjBtTkNwR0JKek9rNHBqb3Q3Z0JEV0ZkTEhObklicXFjU2ZweWFrSkFucXJndUlmeGF5eDJ3UGQ2aEZ6dEwtcGtxVTZReTJJOEx0VnBpTWxRUFdWT19ZaWQwSmhYbmFFVjJTWURjdVl3ZWFwNHVIMzVyOUdWRkF4LWFWWjQ2d2NuM19oNDVKZ3NMMTdWNnEyMkczVnJfeGpORklFTml4Nlp6SjFN?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": true,
+  "nota_votes": 17929,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "west-bengal-35",
+  "pc_name": "Purulia",
+  "pending_cases": 3,
+  "phone": "Tel : (011) 23062545",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180516.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 70
+    },
+    "debate_titles": [
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to expedite construction of New Purulia-Manbazar Jhargram Railway line Project",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 32
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jyotirmay-singh-mahato"
+  },
+  "qualification": "Graduate",
+  "questions": 13,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Commerce And Industry": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SHANTIRAM MAHATO",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 17,
+    "criminal_deduction": 3,
+    "legislative": 29,
+    "mplads": 0,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 595229,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 40.34
+}

@@ -1,0 +1,531 @@
+{
+  "accountability_score": 66,
+  "age": 57,
+  "assets_2019": 405294714,
+  "assets_2024": 610614066,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 63120000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5469581
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 149399000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 69826176
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 287814757,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 293500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 779928
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 39772278
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 249893156
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2661734
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 29398713
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 322799309
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=WioujMi4Ztr3wUzokGx",
+      "total_assets": 405294714,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1081",
+      "total_assets": 610614066,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 51,
+  "assets_latest": 610614066,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kalanidhi Veeraswamy is an Indian politician. He was elected to the Lok Sabha, the lower house of the Parliament of India from Chennai North, Tamil Nadu in the 2019 Indian general election as member of the Dravida Munnetra Kazhagam. He is the son of Arcot N. Veeraswami, a former minister for electricity and health in the Indian state of Tamil Nadu. He is a medical doctor by profession.",
+    "title": "Kalanidhi Veeraswamy",
+    "url": "https://en.wikipedia.org/wiki/Kalanidhi_Veeraswamy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "A-3 6th Street, Anna Nagar East Chennai Tamil Nadu, 600102",
+    "emails": [
+      "kalanidhiv@yahoo.co.in",
+      "drkalanidhi.v@mpls.sansad.in"
+    ],
+    "phones": [
+      "4426216628",
+      "9884259482",
+      "9841035690",
+      "1123013344"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/DrKalanidhiV/about/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/DrKalanidhiV"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 7,
+  "dob": "25/04/1969",
+  "eci_state": "Tamil Nadu",
+  "email": "kalanidhiv[at]yahoo[dot]co[dot]in,drkalanidhi[dot]v[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 22360730,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 15054700,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 10439010,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4239200,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 900460,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 972360,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 816680,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1236150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 671550,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1349270,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Medical Professional Fees, Rent, Shares Income, MP Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Medical Professional Fees, Rent, Shares Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 41% of MPLADS local-area funds were spent — ₹10.19 Cr unspent.",
+      "headline": "59% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101906732,
+        "utilisation_pct": 41
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9863752
+      },
+      {
+        "category": "Baskaran R.V 20,00,000 20 Lacs+ Bhimaraja S.A 50,00,000 50 Lacs+ Jay Kumar.L 5,0",
+        "value": 347842685
+      },
+      {
+        "category": "Lease Advance Bewell Hospital 1,00,00,000 1 Crore+ Rental Advance Franch Express",
+        "value": 15580604
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Issued by IT Department Rectification pending before Assistant Commissioner A Y ",
+        "value": 5127431
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 378414472
+  },
+  "margin_votes": 339222,
+  "minister": false,
+  "mp_name": "Dr. Kalanidhi Veeraswamy",
+  "mplads_allocated": 171500000,
+  "mplads_expenditure": 69593268,
+  "mplads_unspent": 101906732,
+  "mplads_utilisation_pct": 40.6,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 74,
+  "mpsno": 4959,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-11T22:45:33.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr.Kalanidhi Veeraswamy , DMK candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkFHWHczR2VtZWpVZFlpRXNiN05JWkUzYURwNkFJUUhveEhaRFVBYTI5aEgyNUpqMXZoc2VXUFNNMmlPQ2J3V2pVWUZNT0IzcUhoYVNSTmw1UDBleEVpODZNR1RKTENLYlJib3J6N1oyT1BRd1NGejZGaS1WQVpwOEJReXhXeWFleTc3QkkzUEJaUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Chennai North Election Result 2024 LIVE Updates Highlights: Dr Kalanidhi Veeraswamy of DMK Wins",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPamRDSzhUZXNyeDRBTE1VNlhERTBqbGVxU0dld1FvRG9ueTlPY19MRVVZOHdDTDVBNEVMci1femR3MUhmWm1wTlZGSlFMajVuck5YMmFFSnRyZUptUmJQMlBjcTRtLTZMbDE5N2dhTGZUQUJ4NVBLQnpNWXZwUUVCeVdUMkl2RGwtSXFXWnlMekJTRll6d2pnUUdHNlZzZU5OZ2p2SXE2ZkJqTFpaUEQwTFZJeXZsZ0NlWnRJVnNqVHUyRHFuVkNmNDdSUVRSZExndlRJNnhzUjZhQ3N3ZUdJY3NBVkVyN0pPNFHSAe8BQVVfeXFMT0c1NWN3dkVDWEJ2bEtOMDBzZm9zd0FIMEZYaXV2eFZCZ29DR3B3UmVkRzVGRGpSX0FQMjZ5NnE0MkFuNTlqSU5ySFVhUXFrOXdjS3dVYkF6NEZaNFFSajNNdzZYbHZmaTN4WXlmYjVGOGxKQkxqWndIYkhqZ19WZVA0TFJGYXNQWHd5Z0x2MHR1NHJWcE5BXzBxNXdFZ3M4eEZLbUxWNE9xRW1zeTB4RDY2dW1zXzY0cjcxbi1PMzNrdXBkeGhvc2hKWGRaVzhnc3FlSGIydXgzNDVSY2dDY1lqOGltbVQtRmN3eTZyWHc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Asianet Newsable",
+      "title": "Chennai North Election Results 2024 LIVE: DMK's Kalanidhi Veeraswamy aims to register second consecutive win",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQ3NmV216Q2duTTc5ODNESjA0RHNXSmJtYWJVdThOczRuQVRtSEhzRHBsVndXbk1SMEljMDBWQUVhcjFZVzNoR1V6M1VRMzI5TThGRGNPZ1JrckNQUXFEX3FSZUQzUkxFRXNLci0yTG5sVVRMTHZLYktESW1KSDVBbE1tV3hieURLQWVrOFhnd252ZFR3S1JCMXlOd3RsVl9mTUJ6ajRUVDhnRjRkaXJ6a29oM25wdHp5cEljYUphUGI2VmpCMzl4cDR3ZHJQV0hINWxXeUtxbV9MQmRpN1B0NzJhUmxLaktKSDg2QW1FTHZEdmpXOFVIMkJaZFJiMFZJalFxN1czU3ZMSEVJa3NqTDlKZ9IBmAJBVV95cUxNTTRHeTQzUV8zc1AzSWdCQmVrdVoxMlpBRUtyUHdLekt2eFJZdTBZbUJ0a09KQ0dEUkgyRk1QMkxRaXB6N0x4TVFPOHE1aE13UUY4SV9qY0FUYVRmd0cxVGw2eGlGYzBObzRUc1RnbXNEZmNIY0Y1TzFLN1BNVThYTW9vV3ZDLWZEclJIOVJUTE5DRlhfd0tLLU01bTRYRmRJbl9LcjIzRkNBLWdFWF9lZndRMHM3WGgwWS1veWltSUI0MEpHQVJGNTBMUV9ITkxLSTZFNDBQSmdwQmw0ME1hQWVxYmRXdDNuaFBZdzBrMmttMUlTWFo4Ml9Fay1BcGJMbERwYXZqd2F4R3ZDMlpaOThjT0ZEUVNt?oc=5"
+    },
+    {
+      "date": "2024-05-31T17:49:02.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kalanidhi Veeraswamy",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNTNUaDlqMU1rajFRbWw5VW96UVhvYjVjLTVsOWhOa3hNZHZ4SHNHSU5GVTc3b1dPaDV0eF9EZlpLal9TNmZXR21jN0N3WVNuMHIxLWVPTnU0cERQaFhfZTF0eEtlRk9TSDRvTDNGbnNSMl8zODA0YlNEd3g2WHhPWlBFNGlPNVlqRE9WbU5WZjFKdzRfWk05YmlJTEJ2OVBWRGxmY2IwMlJ2b0Rfa2d1d3VqRERyZ2Y0eUtKSnRMWm9nc1B2YzhhRmRR?oc=5"
+    },
+    {
+      "date": "2024-05-29T01:54:46.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Dr Kalanidhi Veeraswamy",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzdYTEFSeVlyWWdaRHhFNTc5Tl9meU1kQ2xmd055dFJaanNMODVDTHVuMjBXampRZ0hEU3EyakF4LV9OcGpyM2ZLZ21GQldfdlR0SkpEVlBrbDV2bGJjY1ZkbmVsRG42dXo2OU4wWVdWSkVXQTdkWGpKX1NackxqQzdwdHNZYlRZZTZDWlhJQk1CWnlFV0IxZG1paWlORTFUV0txbktSYlBkWFVuVUZvY01n?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13208,
+  "notable_record": null,
+  "num_candidates": 35,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-2",
+  "pc_name": "CHENNAI NORTH",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23013344",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180396.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Doctor",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need for expansion of runway and augmentation of other infrastructure at Salem Airport in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for KV in Chennai North",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Release of Pending Funds for MGNREGA, Education, and Disaster Relief in Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Conducting Census Before Parliamentary Seat Delimitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to set up a Post Office Passport Seva Kendra in Periyar Nagar areas of North Chennai Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to make the HBL Integrated Vaccine Complex (IVC) Bio Lab at Chengalpet in Tamil Nadu fully functional",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to allocate 3 lakh crore for healthcare an establish an indian medical service like several all-india services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding RRB officials have introduced a clause whereby the reservation policy is being affected",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 131
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/veeraswamy-kalanidhi"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 43,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 2,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 2,
+    "Labour And Employment": 4,
+    "Micro, Small And Medium Enterprises": 1,
+    "Ports, Shipping And Waterways": 3,
+    "Railways": 5,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Statistics And Programme Implementation": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "R. MANOHAR",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 64,
+    "criminal_deduction": 0,
+    "legislative": 70,
+    "mplads": 55,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 610614066,
+  "total_liabilities": 383364472,
+  "wealth_pct_increase": 51,
+  "winner_vote_share": 55.11
+}

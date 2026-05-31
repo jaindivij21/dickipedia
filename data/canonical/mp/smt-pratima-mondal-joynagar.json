@@ -1,0 +1,632 @@
+{
+  "accountability_score": 63,
+  "age": 60,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 19000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 63459
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 22704655
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 11794837
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 2920900
+      },
+      {
+        "category": "SBI Life Smart Wealth Builder LP Policy No 1K005090208 10,00,000 10 Lacs+ SBI Li",
+        "value": 11000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1486200
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 49970051
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=wGTzPiVhBaEWoxGMvmBh",
+      "total_assets": 10614252,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=wGTzPiVhBaEWoxGMvmBh",
+      "total_assets": 27471675,
+      "year": 2019
+    }
+  ],
+  "assets_history_pct": 159,
+  "assets_latest": 27471675,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Pratima Mondal is an Indian politician who has been a Member of Parliament for Jaynagar since 2014. Before she joined politics she was a WBCS officer. Her father Gobinda Chandra Naskar was also a former MP from Bangaon. She belongs to the Trinamool Congress.",
+    "title": "Pratima Mondal",
+    "url": "https://en.wikipedia.org/wiki/Pratima_Mondal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": null,
+    "emails": [],
+    "phones": [],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "16/02/1966",
+  "eci_state": "West Bengal",
+  "email": "pratima[dot]mondal[at]mpls[dot]sansad[dot]in,pratimamondal66[at]yahoo[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2161483,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2192807,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1824740,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2048442,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2017040,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2372644,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2123484,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1693368,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1746779,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1434912,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension From Government Of West Bengal , Salary And Allowance As A Member Of Parliament"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pension"
+      },
+      {
+        "person": "Dependent",
+        "source": "N.A"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹1.06 Cr (2014) to ₹2.75 Cr (2019).",
+      "headline": "Declared assets grew 159% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 10614252,
+        "from_year": 2014,
+        "pct": 159,
+        "to": 27471675,
+        "to_year": 2019
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 470219,
+  "minister": false,
+  "mp_name": "Smt. Pratima Mondal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 73504878,
+  "mplads_unspent": 73495122,
+  "mplads_utilisation_pct": 50,
+  "mplads_works_completed": 61,
+  "mplads_works_recommended": 223,
+  "mpsno": 4871,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-11T19:34:44.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Pratima Mondal’s Zero Hour mention on the need for a road in her constituency to be repaired by the Railways",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWDQxOUZuNW93dENuVmxpN245NmtYalg5WW9NUGd6dzFSYkoyVTFjXzFEUUw0VjNHWlJqZ2ZTa2VyYmRrUEJuU2RsYml2dkd0S1padmZPZGlmTmVUVnBZOHkwakVGZk1Gb2I4N1FnM0U2VTZkbnVOYk5aWjd1Y3hCTTdaeEZ0eG5Vb054SzVuMWRHM1FUUXFMbEstb1JmZE9fNzRxTGJWSTU2Q2x0ZjI3NkJmOWtrR1B4UTFmT2Y5SlJ2V2JydkwxdXFTNjVGZw?oc=5"
+    },
+    {
+      "date": "2026-03-30T07:36:39.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Pratima Mondal’s Zero Hour mention on the demand for connecting the climate-vulnerable area of Kultali to the railway system and building a new railway line from Jaynagar to Maipith via Jamtala",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcWoxZ1BYYUlhZ3dOTGRGUXJDbHZyUjFKYk5fRlZWa1FXWUlCekRmSHBHNkFuM2NKdTFqZnJlY3BmXzhEYnpBNXVEd3h5QlRhRks5UnJyRl81MXlKMk9nVk03Z0VPX0tERXQybEhOa3U0OTVvT0JaVEM2YlFlZkZqcVd5eHI4bEpUSHlmWTg0NGM1RlNjelZsMVVGQnczVFFKaFFWcW5PU21wVS15enVGaU9ySnFGam9aQ29pajRNM2QyRzJpWHcxS0hNazc0dFpXakJSczdCeDBrai10bUhEVmFlOEhLdnI0b1ZldXp1Q2szcS1FeGE3aFhibnhRbnRpZ0pTT3cydjZtc0hRVlBuZk9meVhWY1J1bGl1RmR2ZWtZcWlGSFZmSFlJanJ0QmNLRFVNMm1NZWtXSk10eXc?oc=5"
+    },
+    {
+      "date": "2025-03-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "AITC",
+      "title": "Lok Sabha MP Pratima Mondal’s Zero Hour mention on the demand for a railway line from the town of Jaynagar to Maipith via Jamtala in her constituency of Jaynagar",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVUpZMkhldUMzTS0wT2EwUFJOSkZZZGxOUnVncEkteWU2WEJNQmFPQlhqQmFjclZmVzJiWlh4aVJKLVNfQnNNU0pWMHJfdTJoUDZHZHM4eVdld0IwZzVpbnBSTUNsVWdvc3FySy1ST2xwSlFFdUdQclVkS0xGb19Hb1oxRzI5bFpZbi1wOUtzME1peVp1Nk9tNjVHRk05T1RSOEs2N2tvajVzeTNIR0xVbmJqcjhieFNtNHYwYnhFbm13c05NZ294UllORXFFMHR5NWk1RVBKdmF5a3k1Y2d5VFJsUzhKWTJ3S2xrZzRjTGtqX3d2SmFwVXUzWm1UdE9XQTNXREQ3eHFhakthdlRFXzBOeXk?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Joynagar (SC) election results 2024 live updates: TMC's Pratima Mondal wins",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNHR2WTZGNldOeWJpbWVQc2hDcXY2Yy1SMDVRTXpNZkNwVjlOckZDYmxKaFdTaE9Sbjk5R1Vyb2ttX0V4R3hqekM2MmhZV3B4NVZEZFY4NUtKN1g4V2ltYjZIdlNLY1pjMUZtdWdBci1tQ0Jra01nNnFSZEJhZXRmVFRJQkxVRTJNU2M3Tjc0SW9kMzBGZmRvT29CazJGLXVIQVdHUmV2aXVCeHMxbmRxU2RSSjdJNzlNbGhBZHJFQXB3MVBydUJJd0ZhLWhLNTFteGt6OXJ3VHU1MHBwbkpVdGJEekZmVUNJZ1Zsb0V4T0VyX0hJaXZGWHFTbklHRjJZdF9vcjJ6TGpqNkFscW56dUVNWWFtQllPOHoyckxabEl5blFzVE5jemhVc01oWE5CSUNF0gG4AkFVX3lxTE9ONkdJWnFDYTluRDRuQjlLWDdTMnptQVRuQ0hNN09aX3lUNHdsNVhaay1pMlhNRkJIMkdiRk82NjZoZGpzTlp2ZzdDblZMZXRfYUtXSkpKMXU4b2dHVGx4Q1N0SDgxRkdxSTNMRHBuOXY4VG1RQnZ0V011V2ZSdXdUZWljaHA0Wm5DTVNMcU9jZzhCVXFycFBUU0dFeF83bWw0VEptYUFYQm1BN194WFF4d2FFN2xkQ0M5T2dBQmhTdkUwU3dBRTlPT1prUEZ5Z3RCUDdMekljQUMxaXNOV3BwWlhYUnA3dXpOTzBRRjkwYnctQ3N0dmp5WmtXdE1ic0hocVhDU2ZWMVhVbEU0TDBSeU1YdVRXQ1dqMk43cDluS1ZBYzlQUW42bGd4Q2NFMVItbWV2Y0tmTA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Joynagar Election Result 2024 Live Updates: TMC'S Pratima Mondal Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVJzMHFmY0tQU3FHNnJkVUNGeklJQngwdEV6WWlYU1JVUHZFRG1NYXhZN01FZjR1OU9TTmtxRGY2Sll6ZjZ0SlFObXZnMGhZOE1rQi1wU1RLYjJvRzB3YldlWjRsYXhGdUNnMDhLWFpZYUhtd2lxLTcxZTRZa1p6aFBfTF9mM25mRTdSaDdUTFJrZ0k4U3lHbUpxSzF5ZWZsYVljR2lrMThKMzZxN0tJck5qWFNFQ2M2Q0lic3Bpc2RnYUJUM1UtRdIB1gFBVV95cUxPUDNXSWl4UUFhMDhNTjluNDNOWHp4V3RPaWVXRkhmams2dG1BZFNOaU5SLXNObXlSeGI5bm9jdzNySnA1SmtSY21tSnFDZzZPVEFMTGxnTlI2aEprYkJNeXp5VVFUZkhJQjUzT3BkbHdRN0VNaFpRZ2JQa3NUM1h3ZDNDQnh0dU11UE1YT1hJcFBFWUlXV3hkUkhEQ2I1V01QWHJaT3VOcFpCbTRDa1pNT3ZnVXhjWUI4NjhncV96LUluaXJ6SkhhQ1otTXpYSGdLcl8wRkRB?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9788,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-19",
+  "pc_name": "Joynagar",
+  "pending_cases": 0,
+  "phone": "09883505957 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180530.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Other",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Construction of Railway Line from Jaynagar to Maipith via Jamtala in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to suspend the Holistic Development of Great Nicobar Island Project in view of grave environmental and social concerns",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Opposed the introduction of The Foreign Contribution (Regulation) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to address the problems being faced by ASHA workers in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Demand for Mandatory Compliance with Compulsory Jute Packaging Laws",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need for comprehensive measures to preserve and safeguard the Aravalli mountain ranges from environmental degradation",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to comply with Provisions of compulsory Jute packaging laws and to restore the procurement under Jute packaging material Act in West Bengal and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Provision of Morning and Evening Train Halts at Makla Halt Station on Sealdah�Canning Railway Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding Need to ensure disbursal of allocated funds to West Bengal under Jal Jeevan Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Restoration of Full Funding and Timely Release under Jal Jeevan Mission for West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need to release pending funds under MGNREGS to West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the facilities at AIIMS, Kalyani (WB)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2025",
+        "title": "Regarding need to re-introduce the MP quota facility for admission of students in Kendriya Vidyalaya",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to renovate and preserve the house occasionally visited by Rabindranath Tagore located at Ramgarh in Nainital district, Uttrakhand as a heritage place",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding alleged error in publication of map of India by NITI Aayog showing Bihar as West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Implementation of Five-Day Banking Week and Addressing Exploitation of Bank Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Justice and Compensation for Sabir Mallik's Family",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need for implementation of 5-day work week in Banks of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for New Railway Line from Joynagar to Moipith via Jamtala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to provide free treatment to cancer patients in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need for financial assistance for construction and maintenance of embankments along Sundarban delta in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to provide two more train halts at Matla Railway Station in the morning and two more train halts at the evening",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "The Readjustment of Representation of Scheduled Tribes in Assembly Constituencies of the State of Goa Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to allocate funds for reconstruction of road from Dakhsin Barasat Railway Station PWD road to Dhrubchand Halder College in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding regulation of Air fares",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand to govt. start the fertilizer corporation of india in haldia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding grant of funds under MGNREGA",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding stoppage of trains at Malta halt station on Sealdah Canning Station",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 43
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 85
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/pratima-mondal"
+  },
+  "qualification": "Post Graduate",
+  "questions": 23,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Defence": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Steel": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "ASHOK KANDARY",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 59,
+    "criminal_deduction": 0,
+    "legislative": 47,
+    "mplads": 78,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "notable",
+  "total_assets": null,
+  "total_liabilities": null,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 60.32
+}

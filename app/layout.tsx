@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import { Gelasio, Ubuntu_Mono } from 'next/font/google';
 import Link from 'next/link';
 import { Stamp, ArrowUpRight } from 'lucide-react';
+import { MANIFEST } from '@/lib/data';
+import { LastUpdated } from '@/components/ui/LastUpdated';
 import './globals.css';
 
 const gelasio = Gelasio({
@@ -66,6 +68,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             · ADR/MyNeta · MPLADS-eSAKSHI · ECI/SBI electoral-bond disclosure. Criminal data shown
             as self-declared in sworn affidavits (pending &ne; convicted). Open data under ODbL-1.0;
             code MIT.
+          </p>
+          <p className='mt-3'>
+            <LastUpdated date={MANIFEST.generated_at} label='Data current as of' />
           </p>
         </footer>
       </body>

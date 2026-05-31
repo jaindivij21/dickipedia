@@ -1,0 +1,504 @@
+{
+  "accountability_score": 0,
+  "age": 47,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 38778290
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 56488000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4500000
+      },
+      {
+        "category": "Others",
+        "value": 35268108
+      }
+    ],
+    "immovable_total": 135034399,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 200000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4523314
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 48597790
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 48313254
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 51106678
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2653642
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 155395180
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Municipal Corporation for Delhi 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V5MyZDRucWMMnEU8ARTm",
+      "total_assets": 3417000,
+      "year": 2012
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V5MyZDRucWMMnEU8ARTm",
+      "total_assets": 84922164,
+      "year": 2019
+    },
+    {
+      "label": "Delhi 2020",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V5MyZDRucWMMnEU8ARTm",
+      "total_assets": 4466910,
+      "year": 2020
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3400",
+      "total_assets": 290429579,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 8400,
+  "assets_latest": 290429579,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "K. Rajashekar Basavaraj Hitnal is an Indian politician and the elected candidate for Lok Sabha from Koppal Lok Sabha constituency. He is a member of the Indian National Congress.",
+    "title": "K. Rajashekar Basavaraj Hitnal",
+    "url": "https://en.wikipedia.org/wiki/K._Rajashekar_Basavaraj_Hitnal"
+  },
+  "charges_framed_count": 2,
+  "committees": null,
+  "contact": {
+    "address": "2/170, 2nd Ward Hitnal, Koppal, Karnataka, 583234",
+    "emails": [
+      "rajuk.hitnal@gmail.com",
+      "rajuk.hitnal@mpls.sansad.in"
+    ],
+    "phones": [
+      "9448633096"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for bribery",
+        "section": "171E"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "PCR 424/2022CC3891/2022, .Spl C.4/2024)",
+        "charges_framed": true,
+        "court": "(Prl JMFC Koppal, know it is committed to Prl District & Session Judge Koppal",
+        "fir_no": null,
+        "other_acts": "Under Sec.4(1) (1- A) 22 R/W CRPC and Rule 3(1) 42(1)Mines and minerals development and Regulation Act of MMRD and Sec.21(1) and 21(2) and 44(1), 44(2) and 44(3) of MMRD Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "PCR 425/2022CC 3305/2022",
+        "charges_framed": true,
+        "court": null,
+        "fir_no": null,
+        "other_acts": "Under Sec.4(1) (1- A) 22 R/W CRPC and Rule 3(1) 42(1)Mines and minerals development and Regulation Act of MMRD and Sec.21(1) and 21(2) and 44(1), 44(2) and 44(3) of MMRD Act",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "77/2024, Karatagi police station,Karatagi Taluk,Koppal District",
+        "other_acts": null,
+        "sections": [
+          "171E"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "01/06/1979",
+  "eci_state": "Karnataka",
+  "email": "rajuk[dot]hitnal[at]gmail[dot]com,rajuk[dot]hitnal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 9175268,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 6738209,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5832984,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3821965,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3260784,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1444363,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1192074,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1337312,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 499513,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 480051,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business,Agriculture,interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "From ₹34.2 L (2012) to ₹29.04 Cr (2024).",
+      "headline": "Declared assets grew 8,400% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 3417000,
+        "from_year": 2012,
+        "pct": 8400,
+        "to": 290429579,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹28.70 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.88 Cr.",
+      "headline": "Declared assets rose 10× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 287012579,
+        "declared_income": 28829210,
+        "itr_years": 5,
+        "ratio": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 8,400%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 8400,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "2 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 2,
+        "convicted": 0,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 40% of MPLADS local-area funds were spent — ₹8.78 Cr unspent.",
+      "headline": "60% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 87820250,
+        "utilisation_pct": 40
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 81889681
+      },
+      {
+        "category": "In Respect of Business 4,17,86,830.19 4 Crore+",
+        "value": 44363037
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 126252719
+  },
+  "margin_votes": 46357,
+  "minister": false,
+  "mp_name": "Shri K Rajashekar Basavaraj Hitnal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 59179750,
+  "mplads_unspent": 87820250,
+  "mplads_utilisation_pct": 40.3,
+  "mplads_works_completed": 41,
+  "mplads_works_recommended": 180,
+  "mpsno": 5719,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Koppal Election Result 2024 Live Updates: Congress' K. Rajashekar Basavaraj Hitnal Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlpIRHVuSVo1VlhLQVRPbk9BeGhPQnNLUmdLVVNZTXFhZTBkQkRXeGMtc2lvMEhWSnJwWF81X2hMb3FJeF90RklmYkkwblpKR0sxN2hhNWpwUlQtcW5nbU9rclJuZGZiV2hiN2FhY2VQSnI3UXE1cDJfeWRMdEpqcVNMS01hQTZxRXAyUTVXcTBITjRxNk1HbmEwOGVkbGljYTh2akdNN3RCTV9tMnhkM2pyRFNaWHYycTVIV2N2VVNDeVnSAdABQVVfeXFMUHg5TUdSOExwUEJPckNvWVpYWFBCTmNEVUFWVENLT2FJbnB4NnRtSlBDd1ZGMWZIVnZDQ25rSTRBbENZSTlKc3RnY0RuMEZKOGNub3pFTEJwLUo5aFZ0cjkzNmZRVFFBNzU4dTdLeGlkLThadHJYU0tNWXJfcXFRT29VQ01ZeE9xVUo4eUwzcHJHdDZtTl9PUXBTSW5JR0liTEJSTWlYaUZMTENfMGNHTENodFU4TVZkZGVnc25YMVNvbmRrY0ZycFFLNVFWZE1iXw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Koppal election results 2024 live updates: Cong's K Rajashekar Basavaraj Hitnal wins against BJP's Basava",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU2FETzRsektzSm1pYlQ1cUhUREIwZDJpNm90S3VZS3B1cVU3Qk5wZ3ZmR1liUjdHUkdtTTVienI0b0FGUjc5MzEtc1QxRENGX0k5VnN3MzNfNnZseWR3SWppLXNlb09tVVlTTXhoWi1zVml5SzdBNU5kNUJReTFXMUNDOUZVMVJLZWtoeHBiNWdIZlZmS3R1aDNZLTlzZDVlZjZZa2xiZzc5Qi1yQjBvaFV2RDFBYXdFTFJ3elJlNTdROVRyWk9nWmYycHNYOUFfV0RoVDhJQVVhU0pmNG1UZzB2UVM3TTdoWWVEVkxCTmdWdEc3VFgwQ0tUVHpBV2NRaG9ZaXhSSjhTZG5NY1FWS1RpU2g3UlpkeTdkeUxQcktnZ1FUWDVRbEhnekx2bXBJc2hjQUdobHJRc2ZsY2NRNUVIbDN3UDjSAcwCQVVfeXFMT05zMHZYSFVHaklTNktwV2R0V0hzUm1WUGU5MWJWTDY2ZS10QmR4OExTbUxRaGpyWDNvVXZYWDh3R2c3Z2JtWEdseEJMVXcySUx2NXMtcUpYTGVqZDRCMnVZVmRwbWI4VG44dTRFWWh0cGlJMkJOY1ZCNW5CdDVvWmxPemhsQzkySHpQamIwVGJGdUdtSDFsOURHV2ctVTZMMXhsb0U1NTd1bVJRdmxKMGJnazdKWEt1NHVHTkxLRjMxNFBwRDJHZ1h1bjktX0dXZlRvR0RjbjF3Z1Z1VzVaeG9xTGVOVE5aMVlrRTRYblBrZzhLLV9BMFpxbFhUQmY2ZFpYdDN4ZnNMUkVSVHpwRzB4TGszMi1kOU9zekJHU21vUmdsV0stZTdLcjBfYVNhRElSWjlrMHRRcHFmME5yTGVORTl1VGJCYzQyUk4?oc=5"
+    },
+    {
+      "date": "2024-06-03T03:47:26.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "K. Rajashekar Basavaraj Hitnal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVdFZXhHamR0aC1Ud0tDOG0wVGFoTDFrLVhsOU1FYkVCOExqU1VFLUJobHI5aEZ6aWV0RE9yRXJ2MEhfSG93NGU1ek5ITDhmeVVicWlGVFphemI1MFJ4Rml5eG5sd2lGWnZ6dHc2YUlTLTZBY0Q5X2F2ZU9IQ2lKemxqWnE5YXpRZWtsTjlQd3Z5ZXhoTkJQdG1n?oc=5"
+    },
+    {
+      "date": "2024-05-31T21:25:31.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "K. Rajashekar Basavaraj Hitnal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcHB0MW4yVFE3WmhtbjgwT0ZHbWV6RHFzMThRTFp2Ty1QcVkzLTZqMzNPRlB3TnJsVC11TUdxalhFLU1jSDRhd2dQWlU1ZWk3Q285V3Y3dmFSU2N2S2Fyam5jMXFZQ1BOUnB3R2xlc2RVOS1VSG1xcnY3aUFhY1ZlMHpGcjlVT0xsSkMtQTNPLTdQODdvYmtmWjZyNk9kZ2REMkM2NXlJWXFaOU5KZGNXVU5JeWhtU0FfdmdBSVE5M0JHREszU2pVcTM0QQ?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:10:12.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of K. Rajashekar Basavaraj Hitnal, Inc Party, Koppal, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSkpPd0h6bk13YkV4X1lTSEYtWEVwTmxaNjk4c1Q4SU5HM015bXYweGVBSXl6Nk5qVUlPT3JLbUJKSllEVXZPdS1hbFo5NXg5c0tRRnFnTWY2Zl9Zb3hocDlfenRrOWhjVnYzWnBxTmxjM0FlVXZYSW9PcE1menZSYmRwcUxmUXJ5QmNLVGhrYXc3WUprQTJrcEVrYTZCaF9xOVh1TVVHbkxUN0ZPamYyR1hDX056X0NuLUpiLXM3cFU0d1dEQjBTN3JVRlkzaFZmWl9SVXo0eGJSX0w2b2tXTzZBcUhtVk04b1FQb1NB?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 3519,
+  "notable_record": null,
+  "num_candidates": 19,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-8",
+  "pc_name": "Koppal",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180175.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 65
+    },
+    "debate_titles": [
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 1
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-rajashekar-basavaraj-hitnal"
+  },
+  "qualification": "",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DR . BASAVARAJ. K. SHARANAPPA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 38,
+    "criminal_deduction": 8,
+    "legislative": 22,
+    "mplads": 63,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 290429579,
+  "total_liabilities": 126252712,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.93
+}

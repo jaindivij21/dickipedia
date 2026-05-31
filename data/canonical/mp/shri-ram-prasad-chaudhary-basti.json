@@ -1,0 +1,612 @@
+{
+  "accountability_score": 40,
+  "age": 73,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 26400000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 42500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 82900000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 550000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 9669216
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3930000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2693320
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 410000
+      }
+    ],
+    "movable_total": 17252536
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V3d8btvoszpbceDnLUaC",
+      "total_assets": 24117549,
+      "year": 2012
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V3d8btvoszpbceDnLUaC",
+      "total_assets": 30654089,
+      "year": 2014
+    },
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V3d8btvoszpbceDnLUaC",
+      "total_assets": 59136344,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=V3d8btvoszpbceDnLUaC",
+      "total_assets": 66059943,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8150",
+      "total_assets": 98152477,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 307,
+  "assets_latest": 98152477,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ram Prasad Chaudhary is an Indian politician and a member of the 9th Lok Sabha, 12th, 13th, 14th, 15th and 16th Legislative Assembly of Uttar Pradesh. He represents the Kaptanganj constituency of Uttar Pradesh and is a member of the Samajwadi Party. He earlier also served as Minister of State in Mayawati cabinet (1997), Minister of Textile and silk industry in Kalyan Singh government (1997) and Minister of Food and Civil Supplies in Mayawati cabinet (2007–2012). In June 2024, Chaudhary defeated Harish Dwivedi of Bharatiya Janata Party and was elected to Indian Parliament, Lok Sabha from Basti Lok Sabha constituency of Uttar Pradesh.",
+    "title": "Ram Prasad Chaudhary",
+    "url": "https://en.wikipedia.org/wiki/Ram_Prasad_Chaudhary"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Gram Jigina Post Ekdangi Sant Kabir Nagar Uttar Pradesh, 272175",
+    "emails": [
+      "ramprasadchaudhary2111@gmail.com",
+      "chaudhary.ramprasad@mpls.sansad.in"
+    ],
+    "phones": [
+      "9565631111"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/RAMPRASADBST"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/i/flow/login?redirect_after_login=%2Frpcoffice"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ramprasadbst/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 1,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "Faujdari Case No.453/18, FIR No.308/17",
+        "charges_framed": true,
+        "court": "ACJM II Basti",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "1337/16",
+        "charges_framed": true,
+        "court": "CJM Court Basti / M.P. M.L.A. Special Court Basti",
+        "fir_no": "46/2014, P.S. Kaptanganj, Basti",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "353",
+          "188",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "6615/23",
+        "charges_framed": true,
+        "court": "CJM Court Basti / M.P. M.L.A. Special Court Basti",
+        "fir_no": "601/2020, P.S. Kotwali Basti",
+        "other_acts": "Sec. 51(B) Disaster Management Act 2005",
+        "sections": [
+          "143"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "6057/2021",
+        "charges_framed": false,
+        "court": "CJM Court Basti",
+        "fir_no": "592/2020, P.S. Kotwali Basti",
+        "other_acts": "Sec. 51(B) Disaster Management Act 2005",
+        "sections": [
+          "143"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "15/11/1953",
+  "eci_state": "Uttar Pradesh",
+  "email": "ramprasadchaudhary2111[at]gmail[dot]com,chaudhary[dot]ramprasad[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 618740,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 378400,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 254500,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 311260,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 826302,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 402330,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 390720,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 460410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 490300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 550478,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farming & Dairy Farm"
+      },
+      {
+        "person": "Spouse",
+        "source": "Dairy Farm"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹7.40 Cr between affidavits, while declared income across 5 ITR years totalled ₹23.9 L.",
+      "headline": "Declared assets rose 31× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 74034928,
+        "declared_income": 2389202,
+        "itr_years": 5,
+        "ratio": 31
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.41 Cr (2012) to ₹9.82 Cr (2024).",
+      "headline": "Declared assets grew 307% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 24117549,
+        "from_year": 2012,
+        "pct": 307,
+        "to": 98152477,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 1,
+        "pending": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3745441
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3745441
+  },
+  "margin_votes": 100994,
+  "minister": false,
+  "mp_name": "Shri Ram Prasad Chaudhary",
+  "mplads_allocated": 204176957,
+  "mplads_expenditure": 135700412,
+  "mplads_unspent": 68476545,
+  "mplads_utilisation_pct": 66.5,
+  "mplads_works_completed": 37,
+  "mplads_works_recommended": 174,
+  "mpsno": 3261,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-07-19T03:41:19.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Ram Prasad Chaudhary , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTZQNGhuWWRENThmQTJrbFd3ckxiM1VnOVQ5T3NHZzBNTGhZUjlwZXR3aGRHbW9oUmZqamtiNHp2S1Zna3M1OEdvM3Z1amZxek0tMTY4aWZpT2pLbHJ4V2VhNTVvaHcyUVM3TTNqWWUtWGx1YThEM2gzQmxPbXRRa21LRjhwQjJtWEVyNERn?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chaudhary breaks Kishore’s lucky streak in Mohanlalganj",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYUJpTXMyeXJxZFoyOHhxYWktT0Fvb2tGV0ZkdkhqWF9CWV9JT1YzUmJfRkgwU2JGY2VpWnB0cGpNaTJHXzduQnM5MU9jZko5U1MyYkI3SmtWWnQxU01nS21OdWtxMGx1Q1ctb0I3dklWeWpuVC1MVm5XY1Frelc3czVfY2dlRFRoN0RYUG5GMVNZNjhqRTVLci1TaU5uWlRBUXcwdTFqZEJDc0FBdURuclJ2dUc1ZnVFdmplSlNSakdSUmxqMDBsTtIBzgFBVV95cUxQaUxPMk10NUl5MWFzRTN0QjVadUxqbE1HYzVVc28tTkQyT093UW1TTE9rSWJERHJqeVNmTVBZOGZERi14OHhMWkF0RzRJLTlCSVhsRU9qOTlYYXkzeVlRcnlwSVA3dzJITU56V2VrZnM2ekkxNDJTTzlKT3c2RzIwZnVoQndlYlZlVlgzX3FEVnM3ZWZoZVpfTXB4cFZxREFTNWRrVmY0aVdUWkgwblhOY0IxdlZTSjk1Q1hZSTUwQ0dxMjZIS2FCUWlVdmVtdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Basti election results 2024 live updates: SP's Ram Prasad Chaudhary wins with one lakh vote margin",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQaUtzNzJqLTI1Zkt4U1oyR3NPS21jd1JHdjFBWUZDNmZ6WHZrWkIxT2dwVk1hcnhwblVYOVE3MUlSVzAxTGgyd3YtS2VjUW1DZHRKYWJkU29uVS04UkpSam1PWXNXdWIxOHZEYnJxSWptWnBHSjhzYk1VUUhJODBHQzV2RVQ4TU9hVWhPdUUwa1k4OHhvOXBFQW5fYnpPSFBiQmZBaFJlYnVBTWJDZHdFX0dUWGE2Qnhwdm8yUkNPNjB0dktudEZYOGY5NllYMHRaVkVQLUQ2MW1UdGY3Qkp6dTJqTlFtQUVnX25PX2E3VXZHNW5xbHhmUVppdWU3dnBJMG92RkN2M085R3UzMjhkWEZWX2UyTE01RmVncy1ERC1qSF9KbldKQ08zMWxKYS0yZHVvOFppNWpsSzN1SG11RU5sS2FSQdIBywJBVV95cUxOZjdOcWRnanMzTWFOYmFPVF9KeDNaNi14TXF5ekNid2JZQkV6VDZ0YXdJYnNMWnVXYlU1X1loNEFCYUR5ZVN5cXJ0c244ZnB6QlpsUzQ5YW8zeDMxWE9aRENJMzQ5dktyLXhoWWFTejR2YjlkSnE2cGR2OXd6XzVVR2tzbE11LVpvMUQzWVFfbDlwZ09lMkE1VTgtRWFZTDhIRUtsT1FVcWhKdEJSR0ZhbHJsOTdQbTNkNWc4bS00d3UwbVMxQkt6RzdKV193ckZER21NakpxQ1o3N1VjaEdKLW9OdGlDQnpYbVBiV3Bfam1pUkRfWnYzZk9lalVFNHp5XzJLcFJUcDR1dVB0QkpQR082SDRieWJMT0dsSEpnVTV3Q1JLbUVtdWs5enhRSFA2a0pEZXNZV1loZ2czczVwQ19zREtJeEVDWHc4?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Basti Election Result 2024 LIVE Updates Highlights: Ram Prasad Chaudhary of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWgzaVR6RWkzbVEwSXViM2tlaVc4bWRRWDNia3M0dFFwSHBxMUxtbkVOeWU1Ty0xM2hJZXNIYTM4WmV6SHdDSEVmR0Y4RmRPWVk1UjZHcWV5VVpZekZUSTk3R3Jxb0p5UzRQOWRQR2NJa0RENWFiRmZpZUU1R0l0QlpPV1FXOExEdjMyTXVwdmItbFAxOXJpOHVfeWRFTno2X00tSjZLZVNfakFHaDY0dktyUWEzSlBaRk5CLWF2dHQya1A5YUtjMXlGS3V4dU1qUEtCeUpBaTc2c0RVOTZN0gHkAUFVX3lxTFBMaU5uSGlQNEVtNkFseVhVQVI5LWRaZ1dwNUpTTmp4ZDQydFp2WkdpcFpfMXZ2NkJJMmQ1QnByRjY3eENKVWF0VmdaSFpPWGNaSGt4ZGJYN3VfVHpqWFZTRTBWUGtBZnBHaG9CQ0N4dHdhVWVhLVJnaGhSSlZWMk5GMjRnTGtlbTNBSEhPNDl1Rl94aHhETVE5Zk1JYVZCdnliakxrNEVKT0xnMzd2UTFlSDUxU3k1TnpzS093VFB4ajlqUXRWOTdvSmNob0kyMkJITkV4X2pmMkRrVEthUzBDdzJmMQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Ram Prasad Chaudhary Wins Basti With A Margin Of 1,00,994 Votes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjZNaE1rSDR2OEc1a1BteEhCcWdkd19fcmw1a0tNRGJNZFVpWGItS3pmcmxYZjFkVlFiVExJc3lmNVVQRW82R0VjOEhqT0Zqa09OeER1ZTZPUFpWbFZINXJJUHZKV21VUFJtUm5sN2c0dTVYU0lTOHU0V0xzN2JWLUZFMXNuT2gtVFNVcS0zeFRzYTNrYmFpVVl2eFNYYUROZGNDM3B4NVpVM3FvZjFoQWFxOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 7761,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-61",
+  "pc_name": "Basti",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180479.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Regularisation of Contract Employees in Government Departments.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to frame an effective policy to strengthen cyber security system in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Clearance of Long-Pending Material Payments to Contractors and Gram Panchayat Works.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to strengthen healthcare facilities in Basti Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Replace Bamboo-Based Electricity Poles and Extend PM Crop Insurance Scheme to Revenue Villages in Eastern Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Raised the issue of Saryu Project and provide compensation to the farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt to ensure the adequate supply of MP DAP in the Basti district of Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to construct bridge in Basti Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 10
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 7
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ram-prasad-chaudhary"
+  },
+  "qualification": "Diploma Course",
+  "questions": 7,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 1,
+    "Road Transport And Highways": 1,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "HARISH CHANDRA ALIAS HARISH DWIVEDI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 15,
+    "legislative": 37,
+    "mplads": 79,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 98152477,
+  "total_liabilities": 3745441,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.67
+}

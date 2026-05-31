@@ -1,0 +1,531 @@
+{
+  "accountability_score": 16,
+  "age": 41,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8714850
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 640000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 8750000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 11000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 29104850,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 173000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 12439956
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 196265073
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 2113500
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 68764785
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 95000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4579448
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 284430762
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5302",
+      "total_assets": 311535620,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 311535620,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Tangella Uday Srinivas is an Indian politician and the elected candidate for Lok Sabha from Kakinada Lok Sabha constituency.since 2024 He is a member of the Jana Sena Party.",
+    "title": "Tangella Uday Srinivas",
+    "url": "https://en.wikipedia.org/wiki/Tangella_Uday_Srinivas"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "68-10-37/10, Nancy Street Kakinada Kakinada Andhra Pradesh, 533003",
+    "emails": [
+      "tangellaudaykakinadamp@gmail.com",
+      "uday.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "8686862616",
+      "9568966666"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "0163/2023, Gomti Nagar Police Station Lucknow Uttar Pradesh",
+        "other_acts": null,
+        "sections": [
+          "406"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "13/05/1985",
+  "eci_state": "Andhra Pradesh",
+  "email": "tangellaudaykakinadamp[at]gmail[dot]com,uday[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4014600,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 67741840,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5681940,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1282850,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 759980,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2401640,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 5117610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2776990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1656100,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1172500,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business Income and Salaried"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income & Salaried and Rental Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 8% of MPLADS local-area funds were spent — ₹18.40 Cr unspent.",
+      "headline": "92% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 184001541,
+        "utilisation_pct": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Veeerababu T 18,50,000 18 Lacs+ Nitesh Agarwal 20,00,000 20 Lacs+ D Pawan 1,00,0",
+        "value": 36210120
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 36210120
+  },
+  "margin_votes": 229491,
+  "minister": false,
+  "mp_name": "Shri Tangella Uday Srinivas",
+  "mplads_allocated": 199417887,
+  "mplads_expenditure": 15416346,
+  "mplads_unspent": 184001541,
+  "mplads_utilisation_pct": 7.7,
+  "mplads_works_completed": 3,
+  "mplads_works_recommended": 19,
+  "mpsno": 5676,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-10-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "MP Uday Srinivas Assures Aid to Complete Girls’ Hostel in Kakinada’s RMC",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSU9HS1VadWxJWWRyWW5pM1FGVjdEME5BTzJ6eGlmcjJkWG1iaV96aEhnWGtUVlVqM2gwUjJEeUlsY000SEJIOUhUM1hqRFdHb1VZUEVENGszZ1N1UThkNkFvaHVkeXdwWlpEZmdENTI5bHRlTzlTcjFPanBVOW1VcVNOMlRaZW1hbkhfeDdIVXUwa3lLM3dDTEpXY0VGeDU5Vk1waFVzaDJmOUI4SXJwT2hzVE0yNXhDVnRsdDljM2V4NTJUU1QtMDM3enZXVDZNOUF4bXBjSWnSAd4BQVVfeXFMUEI3N2FEbmJ2MjY0d004bm1lemlFbWEyRmhrV3hMZlI1MzBPcmd6NnlYSzFhWmxqclJ2SDlhVTk1aUhwSzVOT1BuQ295aGhCd1NRdlRXakpGeVhYa25zTllJb1dyQ0g3X1dvZW5zRUVqaGo1NWNBbWxTM1ZGczV6N1BKTnNJLWZvVVpGNWtZaUFGVm12SzdVdWdaU19FV2FWZDJzWDV3RTV5NHJKZ28yQzd1NmduWEtXeWg1Qmx5eDd4NllCVUo0SVlGaHpKYllxUnN2ZXhNTjhTeFVoUFNB?oc=5"
+    },
+    {
+      "date": "2025-10-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "MP Tangella Uday Srinivas inspects RMC hostel buildings in Kakinada",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnFZOS03dzdOWjJ1S211aWJvNHBFX2hOVDJsSHJzaHVqbnJRanVzLVRtc0RCeWtaRDZmbGNZX1ZLTTVOTmtpY3gzU1U2bllSOTBnTDJONUM0dTRnb3M3eHREdG1KX1Y1ckZXbnVPSmdKWTdidUdrUWNTV19kVktCNU1oWThROWJTb1lLaFdVNEE3S1k1WG9FRktmNmFpdTl1TGVXS3ZWbGd4NnFkd01YNDhtdjM0dDZIUDltSy12VWJlMlBwWWpQVThyN3lQek9QUG1tNDVHRU7SAd8BQVVfeXFMTXNHMFlpeGVoUVdHcHA2aXpGUjlmdmV3NVVBMldQNHVtNldXd21uMDFLTG95T3doWDRvcndtZWhLaWxrTHhqODMtMk5rUXJjU2E1MU5SY191OHZrcHNncGJSTEVZbTl0dGRvd21ncUx5SVgzcEt4NWdsaFlFOUJ4ZS1EeUJ6QUhZY3VwakdocUg3ekhzbl9GazZLSUl0eTNUV1kwbVhzSXA0cmlyMlFiVENCNndNTV81VHZwcnhJeDFVVzNjVGl0eGZzNmxqRHNlRm8xeVhXQmJ4LUltYzgzVQ?oc=5"
+    },
+    {
+      "date": "2025-10-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Jana Sena Party MP Tangella Uday Srinivas seeks Centre’s support to establish ITDA for 59 tribal villages in Kakinada district",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZVl6dzRjOV9Xa1VVZF9vMmRYR0g3UVY0bWxmUC00WkxFeWZHLVUxTkFXLUpWTUdRV2ZWSnE4S3pkR3NSaDVMR0dJdnE2eC1aOWpSMnYxcF90cWlRbTh4ZEdnUm5mMElwaklGUS1ubVpJNXB2bzJIc0NrcWZlV1N3RjVVSlA1dGpIOGpWWmR1eU45TFd6eWlrV1ozQ2RZUWRBb3RraHgxdjk1M2lTMTFRdDJzU0l3UGtKVHFZbnY0Wkx6YW5yVE1neEUycG1lYVZKWnZUck9GbFlWUzl3MEhOY0JNUV9CMlFhazdhZE1zRXhPM2U5czBFaGJMMmtGcEVNRk5RaVF6TWpiS2g1aUcwVkt2TTRuTS1SeVotTzVDTDhwdDlIbmfSAawCQVVfeXFMUE1qZkduTTFwOXhoMGxjaFFSdkFlLU1ZaVdpa3ZwT2tZcUpGQjQ2QkZyNzR6ZWhLcWVGYTlySHNrQTI1RjdvUjVXYnJ6ZXcxUU03dGxYSk83c3BySm1vOEZkT25iSzZ6SXVyVnVtMUtMSFRnUzVkRFBpNGwyNUdEdFJrRWVlTnRqdXV0UlRfNFlYbFN6WC1NcmhZd0lJNDJLcTJnTENQaGJ2UFRpSXpCNE9EY0hUQzJVaHNvRzZYby13eVd1aFVkaXdseFR3SDk1alctR2tRSmhJSlRiRmExVW9tdVJHeVpfdzVjcEhhX1FxSURTSVpDNW9NdG1uQld6MkJ5Yk1EcXl6azBrWENlSTI3V214NjJxdTM3U2V5c09Yc1RpYThBUHFjWnFI?oc=5"
+    },
+    {
+      "date": "2025-03-05T20:03:30.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Tangella Uday Srinivas (Tea Time Uday)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDhnRng3YzV2U2FvYU83YUVQXzlNdG84THRHNUxnYnhCSkNRYzAwSEFKSVh0b0pwNlQxODZxNFJVT2hnZG1aVmI2REtIdUE5d3J4WmFWODJSeXMyV0tnWFRqYTVXeURMY1dSeS1VUE9MZGVOeVFUcU5ENnNvcEJvZVJLTElVYUdnaTlEbC03cXdBd2c5VDd2TmJ4Snd3cW1PVm44?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kakinada election results 2024 live updates: Jana Sena's Tangella Uday Srinivas defeats YSRCP's Chalamala",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ3VUT1hpTWV4RHVPcHloQ19ISGc4Y3Q5QVQxYlQtNEVsZDFHX2NtVlZQSi1LbnlsbTQxSmg4eTAwTU43TThkYW41Vklhd0w3QUFtT05ZZ2h4YjloM1RxaVo1My1mcExIY2VKWkVxamwyS2lXVlNZUWN2VFRJX2NSWmxXT05HcjAtcDR1Rm1jOENubnUyM05zbjZTb1F3NlUxNjk4Z0tLYjVuc09JVm93ekdLWERxVmxWclF6VEVRNkNYdjFjdVltOFZCSXRfeUxSSnhaUTdQLUE5WDU0ZkNldnpWR1dieUQwTkE3cXJfZENYM3liR01PNXFBZjZKUTZRQnVEczVJcV9QWThhVzFkONIBlgJBVV95cUxPQTdTTmt5enFzWkVleXdBZG91MXBHZGY1S3hqWXZXVDM2QmtCT21PcVNvLXJtWHpSQ0dXeW9vUm11T0k0UGpuUHpBVDZOS0lmbzg0ZVc1bTVOOWRCdVUxNzJkWEtpR0NUUG9tMjZYN010dGdSMDZOa0lfY05UU3RlVlN3RFZyemlMbUJSYlMtcnZnOW00bEpvNjgzaXRGNjlQZkk1emw2UnBqNjQ0N2JkTzlScVZua0NUTmE1WlRDenhCS2ZGYkJxcWRQZFUxNkxfbjdEbWsxcDRDNy1HaTF5ZHVrYjJwcEtXRC1pZGV0b0VRRFBYb2tWT195aU5zRkVNVzNtV1R0MmtEeE1NaWsyMDdCeFgwUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 17220,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "JANASENA PARTY",
+  "party_bond_total": 210000000,
+  "party_full": "Janasena Party",
+  "pc_id": "andhra-pradesh-6",
+  "pc_name": "Kakinada",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180025.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Need for a National Framework to Regulate EdTech Platforms and Ensure Fair Refund Policies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to take steps to address the problems being faced by teaching and non-teaching staff of Navodaya Vidyalaya in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to release pending funds for construction of Rangaraya Medical College in Kakinada, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to strengthen furniture manufactoring and export ecosystem",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for National Guidelines to Enable Affordable Residential Housing Near IT SEZs",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to expedite approval of Kakinada Coastal Erosion Mitigation Project in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Inclusion of Government General Hospital, Kakinada under PMSSY Requested",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to include Government General Hospital, Kakinada under Pradhan Mantri Swasthya Suraksha Yojana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 26
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 96
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/tangella-uday-srinivas"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "CHALAMALASETTY SUNIL",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 22,
+    "criminal_deduction": 6,
+    "legislative": 24,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 311535620,
+  "total_liabilities": 36210120,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.87
+}

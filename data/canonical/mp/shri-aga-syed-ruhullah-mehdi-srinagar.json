@@ -1,0 +1,457 @@
+{
+  "accountability_score": 34,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 5000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 25000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 30000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 4000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 553248
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Health Insurance policy No 1968xxxxx 0*(Value Not Given)",
+        "value": 0
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 0
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1510000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5793000
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Jammu & Kashmir Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=EG3BzCRSpAmoSVHJcMSx",
+      "total_assets": 33083820,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6318",
+      "total_assets": 35793000,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 8,
+  "assets_latest": 35793000,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Aga Syed Ruhullah Mehdi is an Indian politician from Jammu and Kashmir who is currently serving as the member of parliament representing the Srinagar Lok Sabha constituency. Ruhullah Mehdi also serves as Member of the Committee on Personnel, Public, Grievances, Law and Justice. He is the member of Jammu & Kashmir National Conference (JKNC). Aga Syed Ruhullah Mehdi is known for his opposition to the abrogation of Article 370 and his advocacy for inclusive, non-sectarian politics in Jammu and Kashmir. He served as an MLA from Budgam three times and held ministerial positions in the Jammu and Kashmir government, including portfolios such as Science and Technology and Animal Husbandry. He belongs to the Shia Muslim religion.",
+    "title": "Aga Syed Ruhullah Mehdi",
+    "url": "https://en.wikipedia.org/wiki/Aga_Syed_Ruhullah_Mehdi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Darul Mustafa Shariatabad Budgam Srinagar Jammu and Kashmir, 191111",
+    "emails": [
+      "ruhullah.mehdi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9419002717"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ruhullahmehdii/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/RuhullahMehdi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 7,
+  "dob": "19/09/1976",
+  "eci_state": "Jammu and Kashmir",
+  "email": "ruhullah[dot]mehdi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 594500,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension as Ex MLA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 11% of MPLADS local-area funds were spent — ₹13.12 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 131239215,
+        "utilisation_pct": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 438000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 438000
+  },
+  "margin_votes": 188416,
+  "minister": false,
+  "mp_name": "Shri Aga Syed Ruhullah Mehdi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 15760785,
+  "mplads_unspent": 131239215,
+  "mplads_utilisation_pct": 10.7,
+  "mplads_works_completed": 19,
+  "mplads_works_recommended": 163,
+  "mpsno": 5761,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-23T13:26:23.000Z",
+      "flagged": false,
+      "publisher": "Kashmir Life",
+      "title": "“If Ladakh Could Fight and Win, Why Couldn’t Kashmir?”: MP Ruhullah Mehdi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHpMamVLb195TG9FQjAyRld3eEhNV2hWN21yRGZfOU5tRmdhYm1YU3dhYXJXUHZHdTJGa1kxbGRQbl9wUUVYRUY1NHV2b01BQTQtVnd0QnEyNnMxTlJuWVdQMDBfamp4UnlCNFdpek9XOFJBcXNEbTJET2lybm5lNUdUdXhjbzQ1MUdNakdNeXpjMzFkam9EYlpLc05KaDNj?oc=5"
+    },
+    {
+      "date": "2026-05-21T16:46:22.000Z",
+      "flagged": false,
+      "publisher": "Kashmir News Observer",
+      "title": "Elected govt disappointing J&K people one way or another: MP Aga Ruhullah",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUG5zZ3FrMDhRUmtwMWp5di1KRFQwcjVmM1pybDhHWFRrX3FOSDIyTjllbm9YLU0wbk5fSDFVQ0VKVTdiUU1mZlkwZ085a21qb1FOalduQno3OURCUVJkaGRwOEpyTXZ6QzdveWNVcy1Pemdwb3R2cTVWVUFuUWMyak9oSGZIcUdwbEJUMl85eU5pRWU5MzhRbVhra2U3OVljVUdGN1NZX05PbjJkTDk4SE9TSXREVjdyZDJmdjBXX2s4aTY3Z2VDOWxOUkx2dw?oc=5"
+    },
+    {
+      "date": "2026-05-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kashmir Life",
+      "title": "Ruhullah Mehdi Calls for Closure of Liquor Shops Across Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTRndElCMzllOFZWNzQwNGlIbjIzZGRUd3R6dFdJVjI4M2NQejlWVHBsSU9RZDJxelVtanBlcnNVa2ViTmw3WjV0RXVjQm5Kbzg2akFhNlYwa0Rqdlh3V3RxdHNoUlk0dHhHOW9hY0xqMVMwQW94VkNlSjJvZkFZMXo4RVRtdS1WOXBta0RycjZ2VGhVMElqNWp4VQ?oc=5"
+    },
+    {
+      "date": "2026-05-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kashmir Life",
+      "title": "MP Ruhullah Mehdi Accuses CM Omar of Targeting Kashmiri People",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFM4cERQbFluV1R4RkItTkdaVTZJcEZTVjI3S0I2UC15UHRPelo0NEtYcHhaZDFLTUEzNU1uS2E2LWt4T0UwWlRxUEpwYTFLVUV1NXluS1hYZlpKSDZoNm5reGE2MkxlQzctVVd1ZnZXSjA5dGFyVmlmQno0ZlJ0M0RENkpGUjRKVlRVLVU2U0FVTWpDZ0kyQ3VB?oc=5"
+    },
+    {
+      "date": "2026-05-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Kashmir Horizon",
+      "title": "MP Aga Ruhullah Mehdi visits Sumerbugh, Shalina in Budgam",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVERyeFllV1pWZGZWNVRESEE5NTJsaEVsbDllcVhGTFVzN3l2S1JCVnJqX2Nfd0VvakgtQjhEc3VLOHlYNnFRbXljaVdzc3FET3kzbWFObVJQLTlhQ0hicnZvb2loM1BGc1VDTmQtbFk2dEplcjUtcndHOGFEaUlpT0d2cG1rWWNvUW1sY0RMMGJybzR6NnVxbGFrR3lFT3c?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5998,
+  "notable_record": null,
+  "num_candidates": 24,
+  "party": "JAMMU & KASHMIR NATIONAL CONFERENCE",
+  "party_bond_total": 5000000,
+  "party_full": "Jammu & Kashmir National Conference",
+  "pc_id": "jammu-and-kashmir-2",
+  "pc_name": "SRINAGAR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180147.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Compensation and Rehabilitation of Families Affected by the Nowgam Police Station Blast",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Demand for Inquiry into Illegal Demolition of a Journalist�s House Without Due Process",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Raising an Important Issue Regarding Unjust Punishments under the Verification Regime",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for One-Time Age Relaxation for JKPSI Aspirants",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Issue related to the ban on small-scale mining of gravel and soil",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding easing movement of locals and tourists on Jammu � Srinagar Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 13,
+      "value": 13
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/aga-syed-ruhullah-mehdi"
+  },
+  "qualification": "Graduate",
+  "questions": 7,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Defence": 2,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Road Transport And Highways": 1,
+    "Social Justice And Empowerment": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "WAHEED UR REHMAN PARA",
+  "runner_up_party": "JAMMU & KASHMIR PEOPLES DEMOCRATIC PARTY",
+  "score_breakdown": {
+    "base": 34,
+    "criminal_deduction": 0,
+    "legislative": 44,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 35793000,
+  "total_liabilities": 438000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.85
+}

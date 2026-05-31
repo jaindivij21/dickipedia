@@ -1,0 +1,483 @@
+{
+  "accountability_score": 54,
+  "age": 39,
+  "assets_2019": 13794320,
+  "assets_2024": 23264563,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 895279
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10746341
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 57922xxxxx 15,00,000 15 Lacs+ LIC Policy No 49496xxxxx 6,00,000 6 ",
+        "value": 6100000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5222942
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 300000
+      }
+    ],
+    "movable_total": 23264563
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=697tWUENVNQkusUaj3C7",
+      "total_assets": 15199272,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=697tWUENVNQkusUaj3C7",
+      "total_assets": 13794320,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9008",
+      "total_assets": 23264563,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 53,
+  "assets_latest": 23264563,
+  "attendance_pct": 35,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Abhishek Banerjee is an Indian politician who had been a Member of Parliament for Diamond Harbour, West Bengal, since 2014 and President of Trinamool Youth Congress since 2011.",
+    "title": "Abhishek Banerjee (politician)",
+    "url": "https://en.wikipedia.org/wiki/Abhishek_Banerjee_(politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "30 B Harish Chatterjee Street Kolkata West Bengal, 700026",
+    "emails": [
+      "abhishekbanerjee.mp@gmail.com",
+      "abhishek.banerjee@mpls.sansad.in"
+    ],
+    "phones": [
+      "3324542010",
+      "9830510000",
+      "9434145333",
+      "9013869509",
+      "1123794737",
+      "1123794738"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/@Abhishek Banerjee Official"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@abhishekaitc"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "PRC (SP) 16/2022",
+        "charges_framed": false,
+        "court": "Judicial Magistrate First Class, Khowai, Tripura",
+        "fir_no": "77, Dated 10-01-2021, Khowai Police Station",
+        "other_acts": null,
+        "sections": [
+          "186",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "SC PPM/2/2024",
+        "charges_framed": false,
+        "court": "District and Sessions Court, Bhopal",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "07/11/1987",
+  "eci_state": "West Bengal",
+  "email": "abhishekbanerjee[dot]mp[at]gmail[dot]com,abhishek[dot]banerjee[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 8258360,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 9050643,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 15129170,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6732370,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 7152200,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6065999,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7905170,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5903440,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 11434690,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Honorarium, Salary, Income from Interest"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Attended 35% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 4% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 35,
+        "percentile": 4
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 48% of MPLADS local-area funds were spent — ₹7.66 Cr unspent.",
+      "headline": "52% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 76632612,
+        "utilisation_pct": 48
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Others Advance Recived 36,00,000 36 Lacs+",
+        "value": 3600000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3600000
+  },
+  "margin_votes": 710930,
+  "minister": false,
+  "mp_name": "Shri Abhishek Banerjee",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 70367388,
+  "mplads_unspent": 76632612,
+  "mplads_utilisation_pct": 47.9,
+  "mplads_works_completed": 182,
+  "mplads_works_recommended": 320,
+  "mpsno": 4843,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-31T10:15:56.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "No place for violence in democracy: Jharkhand CM on attack on TMC MP Abhishek Banerjee",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVhzcWswQ2JIcEF2LUJxX2JPMVdCc0JyTkE5T3hEVlpZbEhCQjNjcGxBUnFlVGU5T1lhZ3RSN0ZwdjdPaFVLUWRWWHY0TDJGNkRJamtHd0NkbGl4czBPc0I1OWRST0JMZ241UmdHbUx6eUxTTjB1TGN3Nm1mTVB2eUVQalo0NGJMVFFIRXMyWGVEZk1Zal9GVkZCWDNsMENjS0otaGc3WV9TSEk2RWNmWHluZk9NNllGcFlzUzk5Zk1Qa1hwNWIyMU1OZ1diTnZHcVVTbXNjMA?oc=5"
+    },
+    {
+      "date": "2026-05-31T10:12:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "BJP planned and sponsored attack on Abhishek Banerjee in West Bengal's Sonarpur, claims TMC",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYmpUWld5R18xYVhDanFuWnFVNmRiS1JKWS01RDZuZW1CVjQ1NnpFVEdwZ3JseGs3MUVvajFDRlhmRWFqUC1vY3QtMUMwLU1FWXU5cUszeE83cWtGMDdqdGZKRXpVbWlmS0VWSjZJYkV1Q180dGpDNzQ0V0dSOTJ4N3NEcExHMHFkSlUyTVc3TGJhOWlOcFZPNUdHbkV5LWp2ZE5GWDZCQWFCdjFha293RWx0ZWtmZmt3LWFTOGpfdW96a0o3cGNVOXZ6SVVCaklQVHdVN25feEQxcTRQSDBObnJ6WENqT1ZwLWV2Wk1kUDlXOENsMFHSAfYBQVVfeXFMTmJqVFpXeUdfMWFYQ2pxblpxVTZkYktSSlktNUQ2bmVtQlY0NTZ6RVRHcGdybHhrNzFFb2oxQ0ZYZkVhalAtb2N0LTFDMC1NRVl1OXFLM3hPN3FrRjA3anRmSkV6VW1pZktFVko2SWJFdUNfNHRqQzc0NFdHUjkyeDdzRHBMRzBxZEpVMk1XN0xiYTlpTnBWTzVHR25FeS1qdmRORlg2QkFhQnYxYWtvd0VsdGVrZmZrdy1hUzhqX3VvemtKN3BjVTl2eklVQmpJUFR3VTduX3hEMXE0UEgwTm5yelhDak9WcC1ldlpNZFA5VzhDbDBR?oc=5"
+    },
+    {
+      "date": "2026-05-31T08:32:44.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "BJP alleges Mamata Banerjee pressured private hospital to admit nephew Abhishek",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWVlYk9WUTNSSEN3RFB2WEV1bXZIUHpaZGoyQ1FHSm9zSndUNFZqUjQ5Q1Y1SWNMUnlYSEtEME9VdXQ3amNkdUxRSjNHRUd6V2RqSzB5Mm1oOUFIeDFMMjhLOW1PZS1NRXZZTnpGaHNpQkdjQ0JmMG1YWmdlNE9tR1R2dkhYWWpYUVVIdkY1SHdRc3haZjVfYTJDWUJkQVVJc0Q2bGtadExZWGJTR0Q3RjFlOFNQa2I1QncxaEYwTmhHR0dTUjJSTFlQXzI3LWc?oc=5"
+    },
+    {
+      "date": "2026-05-31T08:09:41.000Z",
+      "flagged": false,
+      "publisher": "Outlook India",
+      "title": "Abhishek Banerjee Attack: Four Arrested in Sonarpur Mob Assault Case",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXY0NzR6cGRlSTAydjI0VkFIVmJGTmVjWk4tTFlIOTFSZVNXZWVMRXlrczJYTlRfQTVYU1pjWktTUkMyZVV5X0d5NlJ1Um55TFFRVTJpZVBaa0FIZGQyWVh0MThHZllEUDhpa1pFNExfYm9BazdlejZwR2xibWgwTmFNQnhyd2pZLUNOdUlST3RJMlZGaUxScVdobGU1dm5LRVRSRjNUOXPSAbYBQVVfeXFMUDM0T2ItQUl4MnBpY0Q2Z2l2d0ZZamwzYnRsQXctWVhLTC14UHN5dU1OTlJrZ1M5X3BYVlpjaVBpRzFYa1VxM1czYV9VWUg1VG1lb2ItQXRodzJubVd5Tlg2aXRqRy1uT3piSktvWVA0VE1keUhCX2d4Sk02TzM1MWI5OThMSjBnVjA1OTBqUmMzbmQ3eTkxcUFIMzlJcnF1RGZtUS16OE55Wlp5UnRSYWdBNVZhWmc?oc=5"
+    },
+    {
+      "date": "2026-05-31T07:09:44.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "BJP alleges Mamata pressured private hospital to admit Abhishek Banerjee",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVm5URmhhVzVGUWg0cm56dVBnOG5IU3lBUW90Z1B1bEdEQTQza0NVRXZfRktobC0wZzgtSGVlbEVLWEV1VC1Zb3p4eTR3SGY3ZzEwOFM3TEd2SC1SLUIxcFVJai1uamRDOWNWWldsbzFvMHFtTURDdW81T1lqcTk1c2NKYm1ERGJBcHhVUE5sMWg4a3NsZ24xMVBtMEdoRERhdHBFRjdIcEVKQmlReWtxVmMwd0VrQk1Ma3pXYTBxY2hvTHpfVjJCTlJZYUlXeF82bHRRdzV2QXRZVUxSRFNLN0xB0gHiAUFVX3lxTE9WblRGaGFXNUZRaDRybnp1UGc4bkhTeUFRb3RnUHVsR0RBNDNrQ1VFdl9GS2hsLTBnOC1IZWVsRUtYRXVULVlvenh5NHdIZjdnMTA4UzdMR3ZILVItQjFwVUlqLW5qZEM5Y1ZaV2xvMW8wcW1NREN1bzVPWWpxOTVzY0pibUREYkFweFVQTmwxaDhrc2xnbjExUG0wR2hERGF0cEVGN0hwRUpCaVF5a3FWYzB3RWtCTUxreldhMHFjaG9Mel9WMkJOUllhSVd4XzZsdFF3NXZBdFlVTFJEU0s3TEE?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 10188,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-21",
+  "pc_name": "Diamond harbour",
+  "pending_cases": 2,
+  "phone": "Tel : (011) 23794737, 09013869509 (M),Fax : (011) 23794738",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180503.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 27
+    },
+    "debate_titles": [
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 56
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/abhishek-banerjee"
+  },
+  "qualification": "Post Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 2,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Petroleum And Natural Gas": 2,
+    "Railways": 3,
+    "Rural Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ABHIJIT DAS (BOBBY)",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 2,
+    "legislative": 25,
+    "mplads": 92,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "notable",
+  "total_assets": 23264563,
+  "total_liabilities": 3600000,
+  "wealth_pct_increase": 69,
+  "winner_vote_share": 68.48
+}

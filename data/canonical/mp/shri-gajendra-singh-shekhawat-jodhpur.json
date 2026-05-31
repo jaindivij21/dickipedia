@@ -1,0 +1,499 @@
+{
+  "accountability_score": 39,
+  "age": 59,
+  "assets_2019": 138029511,
+  "assets_2024": 193027658,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 21500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 36000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 49500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 107000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 912943
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4651052
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 9981323
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 113800
+      },
+      {
+        "category": "LIC 25,50,000 25 Lacs+",
+        "value": 3750000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 41362493
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 381046
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 24700000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 250000
+      }
+    ],
+    "movable_total": 86102657
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=cAwJs3qmumBgbgY2zXt",
+      "total_assets": 143491494,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=cAwJs3qmumBgbgY2zXt",
+      "total_assets": 138029511,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1843",
+      "total_assets": 193027658,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 35,
+  "assets_latest": 193027658,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gajendra Singh Shekhawat is an Indian politician who is serving as the 13th Minister of Culture and 11th Minister of Tourism since 2024. He is a member of parliament from the Bharatiya Janata Party (BJP) representing Jodhpur in the Lok Sabha.",
+    "title": "Gajendra Singh Shekhawat",
+    "url": "https://en.wikipedia.org/wiki/Gajendra_Singh_Shekhawat"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "34-A Ajit Colony Jodhpur Rajasthan, 342006",
+    "emails": [
+      "g.shekhawat@mpls.sansad.in",
+      "mpgssjodhpur@gmail.com"
+    ],
+    "phones": [
+      "2912512772",
+      "9672000555",
+      "7230095999",
+      "9587050402",
+      "1123017125",
+      "9911218278",
+      "1123710804"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "03/10/1967",
+  "eci_state": "Rajasthan",
+  "email": "g[dot]shekhawat[at]mpls[dot]sansad[dot]in,mpgssjodhpur[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1110370,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1304540,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 772720,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1107550,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1097330,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1537650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 989580,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1073200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1276560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1153210,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 242300,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 430340,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 797840,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 584160,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 472940,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Minister Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife, Rent Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹4.95 Cr between affidavits, while declared income across 5 ITR years totalled ₹53.9 L.",
+      "headline": "Declared assets rose 9× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 49536164,
+        "declared_income": 5392510,
+        "itr_years": 5,
+        "ratio": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.65 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 146508173,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Arjun Singh 37,766 37 Thou+ Dinesh Dakliya 3,04,737 3 Lacs+ Gautamchand 84,921 8",
+        "value": 19862350
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Disputed Appeal in Income Tax Department Jodhpur 29,71,790 29 Lacs+",
+        "value": 6261550
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 26123900
+  },
+  "margin_votes": 115677,
+  "minister": true,
+  "mp_name": "Shri Gajendra Singh Shekhawat",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 491827,
+  "mplads_unspent": 146508173,
+  "mplads_utilisation_pct": 0.3,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 4,
+  "mpsno": 4670,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-18T11:16:13.000Z",
+      "flagged": false,
+      "publisher": "Business News Week",
+      "title": "12 Ft Tall Bronze Statue of Former Vice President of India Shri Bhairon Singh Shekhawat Ji has Unveiled on 14th May at Ratanada Chauraha, Jodhpur, Rajasthan",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORlpHVGc3cWVqZ1k4VFpHU2ljTkVkNmxqc3BzSUM4cnVMYWZ6U1R3b0NHbnJpMS01NmZBV0tIVzFrYXVuV2s5Mk1WTERoVThveG1pNjZqNml4WklzQjJGMjZFLWRzWFJsb18tdUM1dGJCejZjOU42dFlEMGNyUjFFTVhiYWUyV1ctcjJzMjdJSmJRQUJKcjluSmpkbHRqWHhPLUs1NzE2c2lKaVl6VDdEdDR2eEF2UXpOUmltdnZobHd3OGs5czM4eDQ4N0JSTlNkcTlUUHluMDZIT05jMEQxQ094NTFMZy1kMjdnaFJVNTQ3MWhpNjhHQkZod3IwUTlUcVhtNFhQVkhSSVhYanlNSk5UaUFsXzA?oc=5"
+    },
+    {
+      "date": "2026-05-09T12:28:56.000Z",
+      "flagged": false,
+      "publisher": "lokmattimes.com",
+      "title": "Jodhpur to get Bhairon Singh Shekhawat's life-size statue on May 14",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWhGUDR5T0RZLTMyMkV5SUd0bk1rSEpweTZRN3RyNWp0ZWdobW1YdXZwbzh0MFdoUnIzTHVxWVctYjZkck15cEhHSzdQQWMyWFlfdEZ0OUkySW9icGx2Y1Y4eEdEb2ZPNV9SUWhoWkMxYjdPbWR3WEhrcXFnMzRWcXRDZG1QQ2kwUmdQTUhjYjVDWEMxYUx3WnlCOFhhQktodVRXZ2d4bw?oc=5"
+    },
+    {
+      "date": "2026-05-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehawk.in",
+      "title": "Jodhpur to get Bhairon Singh Shekhawat's life-size statue on May 14",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFpXTURyaGp3SW5rTkZFbHBVTURTYnNzeC1KUUNMSGNWX1ZsZV83dGxTTzFmdXJYc09qdGpPOW5veEpyRkRLV0FRbHAyanZOb3dpZ2diR0ZOMk5COUdCcDUzUnlyTkpwLWpFZVVHSERrVEZybDMwNTgwOF9pa0hLU0FCWUVCRmdXcFNtTW1HbkQxWlNiY3BlWXZPNWNTaWFkSVE?oc=5"
+    },
+    {
+      "date": "2026-05-09T02:45:10.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Jodhpur to get Bhairon Singh Shekhawat’s life-size statue on May 14",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenpBM2NJQkNjZDhabzFtdEMzZ0xiYjJnS2xrQ2tkZVJQc3lPeEtxdEhaSDZ4dXFjaHBrSDVpYjM1ZGlrekFDOEtXYkJCX0xCbURVVWxuQVlwZnJhRVJpSmY5LTJBUE8xdmdISW5sNllmRGdsSlR2UW4wU0VrcXdpR01pMk1oZElTeW51anB5aUhOdGRZODBYYzdXT0VSZW1mSmk5eWFzZHnSAagBQVVfeXFMUHp6QTNjSUJDY2Q4Wm8xbXRDM2dMYmIyZ0tsa0NrZGVSUHN5T3hLcXRIWkg2eHVxY2hwa0g1aWIzNWRpa3pBQzhLV2JCQl9MQm1EVVVsbkFZcGZyYUVSaUpmOS0yQVBPMXZnSElubDZZZkRnbEpUdlFuMFNFa3F3aUdNaTJNaGRJU3ludWpweWlITnRkWTgwWGM3V09FUmVtZkppOXlhc2R5?oc=5"
+    },
+    {
+      "date": "2026-03-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Union minister Shekhawat’s ‘threat’ video sparks row; Congress slams ‘arrogance of power’",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQWwzeC1YZzhtLTNPSzE1bm5fRV9KSnU2NG1wcDJzSld5X0J0YUFMMzh4YVpEOXR3cVFfMzhHaU11elNrVE4yR3EtWDZ3NV9mUEJQTW5xSjlOYURzcklIWDY0M2ZuLUpFZHdfVWhrckktakROLU5DVG5RanVWa3NGYThHUXA5cDE2NkpnUHFLdVpZNGJQbk5TTXpnVUdUeWFzaDlIdVUzSDhHa3MwSnQ0ejA1NnpkS1dvNi1YNnBLMGl1ZkZiWjgwdGFiZ2o3V0NHMWd4NGlQcDkxS1ZmNHfSAesBQVVfeXFMTVhDM1V0NlU3V3NnQlJoQWhRc1RGWFdQWHVuX18waUZ2Um5FUG9vTmNjTS1pWnd1Zkp2WEMxVkxsWlFRMkZCbWlPS3IzbnZSOUtKSDhza0pRbVo0VDJRbXUtYjdmbEpuNDUzeHRVaXJWTk4xa20wSzU0ZFFFemZLOHFoZ3NvVWd5TEhkNnJPQ2JtQ1JfcWptdzBRODVPbkNNcjBOTUxmMkJ3ZzVkcUVfZHpCeTB1emlzZjc1WlN6clhUVDRUODMyaGhuMjhQZG9WNi1WZllraDZBY2loSEFfQU0ybG0xQ1llNEpINA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10591,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Gajendra Singh Shekhawat",
+            "url": "https://en.wikipedia.org/wiki/Gajendra_Singh_Shekhawat"
+          }
+        ],
+        "title": "Union Minister of Culture and Tourism"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Gajendra Singh Shekhawat",
+            "url": "https://en.wikipedia.org/wiki/Gajendra_Singh_Shekhawat"
+          }
+        ],
+        "title": "Union Minister of Jal Shakti (2019-2024)"
+      },
+      {
+        "response": "positive",
+        "sources": [
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Jal Jeevan Mission",
+            "url": "https://en.wikipedia.org/wiki/Jal_Jeevan_Mission"
+          },
+          {
+            "date": null,
+            "publisher": "Jal Jeevan Mission (Government of India)",
+            "title": "Man Tasked with providing drinking water for every household",
+            "url": "https://jaljeevanmission.gov.in/media/man-tasked-providing-drinking-water-every-household"
+          }
+        ],
+        "title": "Jal Jeevan Mission (Har Ghar Jal)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2014",
+            "publisher": "Wikipedia",
+            "title": "Gajendra Singh Shekhawat",
+            "url": "https://en.wikipedia.org/wiki/Gajendra_Singh_Shekhawat"
+          }
+        ],
+        "title": "Member of Parliament, Jodhpur"
+      }
+    ],
+    "office": "Union Minister, Culture & Tourism"
+  },
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "rajasthan-16",
+  "pc_name": "JODHPUR",
+  "pending_cases": 0,
+  "phone": "Tels: (011) 23017125 (R), 23017121, 23017126 (O), 09911218278 (M),Fax: (011) 23710804 (O)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180342.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gajendra-singh-shekhawat"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "KARAN SINGH UCHIYARDA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 193027658,
+  "total_liabilities": 19862350,
+  "wealth_pct_increase": 40,
+  "winner_vote_share": 52.76
+}

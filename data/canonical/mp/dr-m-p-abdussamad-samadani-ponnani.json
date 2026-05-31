@@ -1,0 +1,557 @@
+{
+  "accountability_score": 50,
+  "age": 67,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1072000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2800000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 18872000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 100000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1217841
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 600000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1187500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3105344
+  },
+  "assets_earliest_year": 2011,
+  "assets_history": [
+    {
+      "label": "Kerala 2011",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=NjHYoBLEj2HqRK62kHEE",
+      "total_assets": 10636689,
+      "year": 2011
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=NjHYoBLEj2HqRK62kHEE",
+      "total_assets": 19370167,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2310",
+      "total_assets": 21977344,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 107,
+  "assets_latest": 21977344,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "M.P. Abdussamad Samadani is an Indian politician, orator, writer and scholar. He knows Malayalam, English, Urdu, Hindi, Arabic, Persian and Sanskrit languages. Samadani was awarded Doctor of Philosophy degree from JNU.",
+    "title": "M. P. Abdussamad Samadani",
+    "url": "https://en.wikipedia.org/wiki/M._P._Abdussamad_Samadani"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Empee House P O Kottakkal Kottakal Kerala, 676503",
+    "emails": [
+      "samadani@mpls.sansad.in",
+      "mail@samadani.in",
+      "mpsamadani@mail.com",
+      "mpsamadani@gmail.com"
+    ],
+    "phones": [
+      "8547157777",
+      "9496134313"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/mpsamadani/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/mpsamadani/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC No 1041/2021",
+        "charges_framed": true,
+        "court": "ACJM(MP/MLA) Ernakulam",
+        "fir_no": "CR No 425/2021, Harbour Police Station",
+        "other_acts": "Section 4(2)(e) 5 of KED Ordinance 2021",
+        "sections": [
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 9,
+  "dob": "01/01/1959",
+  "eci_state": "Kerala",
+  "email": "samadani[at]mpls[dot]sansad[dot]in\r\nmail[at]samadani[dot]in,mpsamadani[at]mail[dot]com,samadani[at]mpls[dot]sansad[dot]in,mpsamadani[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1050000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 905770,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 700320,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 660800,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 660800,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 832980,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "1. Service Pension. 2. Salary"
+      },
+      {
+        "person": "Dependent",
+        "source": "Employment at Abroad"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹16.70 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 167017325,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹1.06 Cr (2011) to ₹2.20 Cr (2024).",
+      "headline": "Declared assets grew 107% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 10636689,
+        "from_year": 2011,
+        "pct": 107,
+        "to": 21977344,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 235760,
+  "minister": false,
+  "mp_name": "Dr. M P Abdussamad Samadani",
+  "mplads_allocated": 170434031,
+  "mplads_expenditure": 3416706,
+  "mplads_unspent": 167017325,
+  "mplads_utilisation_pct": 2,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 250,
+  "mpsno": 5532,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ponnani election results 2024 live updates: IUML's M. P. Abdussamad Samadani wins",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNbElrQ0RhTHJRVnJjanBhZWgxYVZVX0dVNWVpRGk4U21ZcjJibnRnb1dTTWJrbnhqT0RXVlpwTjhyb0szNTVpWGx6WWo1VS1lUzNsd0RTWDhCZzJSU0VsNFZxOHFON0V5S3BPMnVLdkx1SVNvR2FQZlYyZUNfcUlpaEFObllYRm5vRTIwOThvUEJBeHpnYzF4dWhtWDdNTmpzYnZqNU5LREZpMlpvQWhQdFNLQkdsamI2OGhBVDBDZHltSndaWUhhemNramRuRXZVbXE1NGd6Nk9QWlhXaDBRR0JBODZsZFprOFJOcExZZXM0Q1BuWFFpTUJMenNuNVI5Tk9faXdQLS1vQ3AtTV9HV2JTSlRjalBHUVFrT1lOdDk1N0p5bGV3MVIwQVBKVXA0b0HSAbcCQVVfeXFMT0taZmhhY25rMXFtSUNtc1FIZDY1RlZmZzFkMWVWV3dKZFF6MEZ1SDVvWndlcFlLR2FvZDJFLTBLOXM5VUFWdGRDLUxSNlpUdW04UV9WYXdQbHg1c3FPRC1mc21TdUlFZWkwa3QyTHA1aUxiVi1MbVVsQU5nMFoxWW5zUzhSQVFLYTNrd0ZEZlYtMkZBU2drc3ZKRDNoc2N0NG5GUURTdmtYalV6RU85QUxmYWNuQzljaTktOHFxdTJ0dXY1a0RhdDhGSUMwOThDVlE4bTVfM0NubGtkUG5KTDYwOHVSZmRHMlBYTHl5Q3gxM2pCVlFibDcwaDBySHBtQzBkRXVYNF93SFBqVGVzWG9kcDFkTjFhRUFva0JBblJUVGpfMktRQVo0ZGNSS1BzbW4xSHJtNHM?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Ponnani Election Result 2024 Live Updates: IUML' M.P Abdussamad Samadani Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRE9BYmUwZnNHaDh4WGhLdUVFYlBmd2pvTFRndVZOVnJNWk5WTURPbmxacU55aVoyT0VGbUI3QXdYX0tvdUx5alVoeHdPS0lPdzd1MXIwckJrR0poNFFlU19oTzJBbTJmTk11SXpPWnF3NEhVNzhyYWs5TVY5azFLYzIzSktSLXF6TFpRUE9NVVpEZ3FaMkk2Y1M1dzB4T3RDZGdLVUxCS3VKUTllTjRtQTBEUU1mdDBUMXJoaktKWUTSAc4BQVVfeXFMT0FGZTEyR0VqVE5FZTJjeXNCX09Oa3FnQ25PM1o0NnFUNlVwYkdHeUo0dS1ub2lYRlltUW80YVJfSTdtODJLVk5tQjZvQm1sRFBsb2VBMmFtdkV4ZW9UNG5CM3pFb2pDTDFkSGpoTmNzYVByd0pwdVR2ekVyZHRKX3pRLUFiZ1JSZVRLZDRGdHZPeXhBaXpPZE5CZ25BMDgzQ1BIVnlfU0EzbjRoUVA2bnRTT0VVLU5NdkVpLUhfOUxQM3cxWG9vVlBuNHlkZ0E?oc=5"
+    },
+    {
+      "date": "2024-05-31T16:43:21.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "M. P. Abdussamad Samadani",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3JJSUtuM1pudlo2cGp0LXFkM05LY3B4OEREbkxLaEpmR0lSczhVN01jTkxCZnh5UFpMbWhnV3JsYXh4akNDSng1bHp6NU1GeDl0OFdRUmdrN04wSWlacENEU3dnd0ZzaEhnamw1dGVGSERMdWhPc0RZMWlLNmc4SnhZRkR5M1pYbE12X3J6WVlJUUoxSVVXaGRsd21GZldLTkFXTmV4LUlsMVhGMXFqcFItX3VMUWJ0TTB0cFZWbE0?oc=5"
+    },
+    {
+      "date": "2024-05-28T18:41:34.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Dr M P Abdussamad Samadani",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3NBMFFkOEFsR3ZCTjlEVjU3R0kwZ3ZtVHRBSHVKLUI0czFHTzRqODNqNkJwQW1peUpHWFg3d3ZDVDBtTFVxdUdwVU5XYmVaenlxaEMxQXhVNU9KVDIxTHpocS02UXNHM0J2SGU5UDE0STZpTkxJNzFZTUtsbU5JazlsTks5amRiOGUtVGFqNWpQTlFMaGxyS2hhVmV5UmR5anZ2V3BmMWdRd1RfaFhlaQ?oc=5"
+    },
+    {
+      "date": "2024-05-04T08:53:30.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Dr. M.P Abdussamad Samadani",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWRsOFU4b0tpS2R4QUx0MGs3YVVFOG8wZUtMQm1vWGVkWVV5SnJQTTdncG1CR3l2NG9WRmVMdmNYZ29JaHRnVm1CelprdHhURTVxcnJDaHhIRFFoT0JBejRkcFZCR2VmY3J3aElLSE1DcVlzQ1U3NUdiUENVZ19lNUNlN2tYbkFSVDRJM0lzRFVzSzdLclE?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 6561,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "INDIAN UNION MUSLIM LEAGUE",
+  "party_bond_total": null,
+  "party_full": "Indian Union Muslim League",
+  "pc_id": "kerala-7",
+  "pc_name": "Ponnani",
+  "pending_cases": 1,
+  "phone": "09496134313",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180204.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Educationist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 82
+    },
+    "debate_titles": [
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need for diplomatic intervention to restore peace in West Asia, safe repatriation of stranded Indian nationals and uninterrupted household LPG supply in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to restore the deleted chapter on Mughal empire and Tipu Sultan in NCERT textbooks",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding safety and security of minorities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding situation arising out of eviction drive in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need for comprehensive scientific and research oriented studies to find the reasons leading to deaths of younger people in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to expedite completion of construction work alongwith provision of essential amenities on National Highway No. 66 in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding difficulties faced by expatriates travelling from Kerala to the GCC Countries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Matters related to coastal erosion along the Arabian sea coast in Kerala",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 117
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/m-p-abdussamad-samadani"
+  },
+  "qualification": "Doctorate",
+  "questions": 47,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 3,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Earth Sciences": 1,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 3,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 3,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 2,
+    "Minority Affairs": 3,
+    "Ports, Shipping And Waterways": 2,
+    "Power": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Rural Development": 1,
+    "Statistics And Programme Implementation": 2,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "K.S HAMZA",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 1,
+    "legislative": 78,
+    "mplads": 4,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 21977344,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.81
+}

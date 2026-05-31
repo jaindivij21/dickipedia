@@ -1,0 +1,548 @@
+{
+  "accountability_score": 57,
+  "age": 66,
+  "assets_2019": 40198295,
+  "assets_2024": 65483248,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 11450000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7250000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 21000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 55200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 903026
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1285977
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 2492926
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1740317
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3850000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 11000
+      }
+    ],
+    "movable_total": 10283248
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3txCcz8qPqQYMWUZWSnS",
+      "total_assets": 28569974,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=3txCcz8qPqQYMWUZWSnS",
+      "total_assets": 40198295,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3553",
+      "total_assets": 65483248,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 129,
+  "assets_latest": 65483248,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rodmal Nagar is a member of the Bharatiya Janata Party and has won the 2014 and 2019 Indian general elections from the Rajgarh constituency. His net worth is approximately ₹3.61 crores.",
+    "title": "Rodmal Nagar",
+    "url": "https://en.wikipedia.org/wiki/Rodmal_Nagar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "A.B. Road, Pachore, Rajgarh Madhya Pradesh, 465661",
+    "emails": [
+      "rodmal.nagar@mpls.sansad.in",
+      "rodmalnagar@gmail.com"
+    ],
+    "phones": [
+      "7371226068",
+      "9013869239",
+      "9425021506",
+      "7371221054",
+      "1123314198",
+      "9399632737"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "15/12/1960",
+  "eci_state": "Madhya Pradesh",
+  "email": "rodmal[dot]nagar[at]mpls[dot]sansad[dot]in,rodmalnagar[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1401289,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1307128,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1063701,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1510219,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1866328,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 690363,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 486790,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 571810,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 469125,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 308210,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Honorarium and allowances given by the government"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business and Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹3.69 Cr between affidavits, while declared income across 5 ITR years totalled ₹71.5 L.",
+      "headline": "Declared assets rose 5× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 36913274,
+        "declared_income": 7148665,
+        "itr_years": 5,
+        "ratio": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.86 Cr (2014) to ₹6.55 Cr (2024).",
+      "headline": "Declared assets grew 129% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 28569974,
+        "from_year": 2014,
+        "pct": 129,
+        "to": 65483248,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 10453669
+      },
+      {
+        "category": "Messars Balaji Stone Crusher Raipuriya 12,00,000 12 Lacs+ Others 5,50,000 5 Lacs",
+        "value": 2486724
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 12940395
+  },
+  "margin_votes": 146089,
+  "minister": false,
+  "mp_name": "Shri Rodmal Nagar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 87607905,
+  "mplads_unspent": 59392095,
+  "mplads_utilisation_pct": 59.6,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 272,
+  "mpsno": 4702,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-27T16:13:56.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rodmal Nagar , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGx1Y0ptN1FxalFUUmY3aFJwR205cTV4enRiTVNPWTlZZ3lza2RXOFBpVW1WNl9pOWd5RnFnUHRCelhoemF2OUo1dk9rM2JBM3ZobGdJWHlqSTdreU1NX3o3RmxfVWNQSEtwRnN1MEE3UERtOGFSNDk5dXJlNjYwNWJGZw?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Rajgarh election results 2024 live updates: BJP's Rodmal Nagar wins",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQbGRzMHBLWC1IaGszTFNCRXkxaHNBdG5vaWJWWVRad2ttWUUySjJYX3NKbHlWWEhvUm5KSkh4VGtmbmNfNmRuVXVULUh1Z3ExdjF2MWl1T2plVW9neHg2R3R0bEZKZ2czNjBQRmNnY05mdTE2SkZtNXJPRWZxeTd0SkN3NGNfSmQ5Y0JNZWtGQ0FSY2w5WnlUMm5VTml3SUxIaU5BVGpTZ2R4NEJTZkFCY0dRUDJTMEsxdU5ISnMxWGQwRTJlTEdrRFJJSEVrTWhkeTdPeEtybTFKbXVrWm9hUmlCVktXaE1UTjMxZzR2UEZWV25ab192RnFldDNzSXQwb0Uta1RHWHJZWVlXR19wLU1iZWJrNXBQVkk3VDEyNHJXVGFrSW9Rc0xVVTFNM0ZUc2V3VTRWcUZCY25GVkFOaV80dVJpaGRrOVVIcWx30gHTAkFVX3lxTE1xUEkxQzQ1Q1QxQ21rNDJXcTBfN0ZRNHcxY3IxQ2swekR3NmwteERTVmZmLVllVWs2QUNlazhBSXZLcEtBTUtLb082MWhIend5VVk0SnF4MjhCU2xzWmw1Q2ItN09YU1pfaWV6UUVDMGNpa1JxSzduZnBCTWlzaXdxc0E4cGpMVnpwYUttMUpoN0dxVWZlU3dNRmZsbHFjWXpFTkN4Y242QU9NaURlb2hXcWMtRDFDbDBWeWJwTVp5OXRZRkQ4VDM4UWpoNXZpbWk0cnJMdE5CWER6ZlpfTlRzUW1lWklpU2xHZnp1X2I0cFpfOXdmYkFXSHFIUExYY3JKYWZpZVB2UzFnUnhkQjhGNERWWVA4M0NvNnFvSVBNNVNSdEZ3Qi1KdVlBcUlhTVJBTHoxeThGMmUxM2xtNTAzUW5PRDI1MWdrTk9LRlRlSEI4TQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "BJP Nominee Rodmal Nagar Defeats Congress Heavyweight Digvijaya Singh In Rajgarh",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWV1cEZTMHAxRmtJdGNEcjJBSjNmWUVTbzlwY2lXU0NQOVFTRDRyeTBRLUtQckZCQ0J5VWVYMklQNVJxZFVPT3lHdmxMM2Y3WWl4YTh4Q2k0ZUxMejJ5SFA5d0R5SVhlcEFDZUQ0WXgyU1JUS3JOWWJoVFR0cWI2aWRhdlFIVzNjRkpnZ244bUQtdFpaMGF3bWExLVUyWktvUHpVQ0F3M3hHMmhGV3B3dU10WjVTd0d0MlFrMNIBxAFBVV95cUxPSHlYbk1ycDN2YlhXMGZ6NVZnc2d4NzNmclNKTVp2cDltTV9SVzVtNFF0b2cwUjJ4SnM2SnpsRmJlLXB3WnJzUnZsUjRMUmtVc0RCSFpaX3lEeHpYdmVKVmdrTXoyNEg4WG5aRXNTT1lKU3RHNW1PWGF6Zk40ODROYnlSMjYybWs3Y0FoZzJ6Y3kxYlNUN1N3a2dWVmFZc0VYcXR6RW9lc2N1b2tPb3VXX1QzN3ltMklESlY2VENHWEg4NlJx?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Rajgarh Lok Sabha Seat Result 2024: Rodmal Nagar Defeats Digvijaya Singh",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTzBCVXNFMGZ5UnFYZGFiTkdpSS01dlZweGxXWGkxZjFGRG9KdmRaZ21UZVBDSGk3b1A4MXVFOFplc1JXOUlHaEg3WWQ3TzhKbWRlNnB5ZWg1dUVBaUU0dlM5b2xVbXMtWWpWdVFaY1FMWTRod3E5QXhBSnlCZEZVdU5Kc25JOXNCQ29ONTY0T0tGaFVEdFFYMTlIN3p6MWV0dzRaRnhULTZiLV9uZkNWU2ROdXZnaUZPRnQzZTB1OFpFZHAwV2puYXdKaW1OUU0weHFqeDdWT29qOUVpb0pIVnJpNlhubGFUbkU4SWIwaGJRbl9XMEczSjdkU1F0UElBeEHSAYcCQVVfeXFMTVZDbWkwNWVON01KRjFZam1heUgtLTdCbGZzcWEyVnhraUFaeV9jdUJidlhpUHJ4OHYwUWNMVTdUZnZIS2xCMHF0SVdYWkJrQk96ZUhLWXVCY013Qm9EREptTFdSOXRibXVzUHJsYmdNNmpDR0RidFJneW0yRjVYakhQLWdCZEtCekJUbnB6N2o5c0JZZ1dZOUZiMzZDMWQwcjNMZGlxeEhraE9UWFozbG4xczY5YVNEbHQyMUdjYjVRakZyOWlQTkEySk9VTEFxemhnZTlnRHpkVHhKekpYMkQ4YWFxNW90aXlvaFBrelFVRUJwMmMxMjM0WjRlRkt1VWNtX3Z0REU?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Rajgarh Lok Sabha Elections 2024 Result LIVE: Contest is in Diggi Raja vs Rodmal Nagar! Will Congress win or will the lotus bloom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXRobzU0cGFGZWJpc1o3Mi1qa2ZJR2ctcDFjekt1Ti1vQXFrbDVjdXZTX0JISVE0NTFxLXFiQUlEd1ZldjhmaHNfX2JuMDZYY0JvT0c2eUNERTRMbEMyR2xSWTdNNDhSbE0yTGlYR1hGdGxZZExNNVg2RWIyOTdNZHJaSzNYWG1iOXM4ZmFPNlI2MGg4eHp6SHQ3VDhpTmhWTWE0czFKRUVQWGppLUZLTVR2Uk40ams1Tld2eXZxR0VBMjRMOHh1Yw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7260,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-20",
+  "pc_name": "RAJGARH",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23314198, (P.S) 9399632737",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180235.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to sanction the proposed Jhalawar Ujjain new railway line project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to sanction Jhalawar-Ujjain new railway line Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding doubling of Indore-Maksi-Ruthiyai-GunaShivpuri-Gwalior railway line",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need for doubling of the Indore-Gawalior Rail route in Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Government Support for Circle Rate Revision and Land Compensation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Comprehensive Development of the Devarahi Mata Temple Complex to Preserve Cultural Heritage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for a National Zero-Tolerance Policy and Protection Mission Against Cattle Trafficking and Cow Slaughter",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Regulation of Ultra-Processed Foods to Protect Public Health",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to sanction construction of Ujjain-Jhalawar railway line",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to set up Water Sports Complex and Boat Club at Mohanpura dam site in Rajgarh Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding doubling of Indore-Gwalior Railway Line",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to set up a Mega Food Park in Rajgarh Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding need to establish a Logistics Park in Rajgarh Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding Jhalawar-Ujjain railway line",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to develop a centralized system for conversion and utilization of agriculture waste to garner optimum results in agriculture and animal husbandry sectors",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to construct a new railway line between Ramganjmandi and Ujjain via Jhalawar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.11.2024",
+        "title": "Regarding need to set up crop processing industries in Rajgarh Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding establishment of processing industries in Rajgarh Parliamentary Constituency based on crops produced in the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt establish sanskrit teaching centers in the IIT, Ayurveda institutes, modern colleges and universities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request to doubling the rail line of Maksi- Ruthiyai- Guna - Gwalior",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding setting up of food processing industries in Rajgarh Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 41
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rodmal-nagar"
+  },
+  "qualification": "Graduate",
+  "questions": 9,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Heavy Industries": 2,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 1,
+    "Planning": 1,
+    "Textiles": 1,
+    "Tourism": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DIGVIJAYA SINGH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 0,
+    "legislative": 45,
+    "mplads": 65,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 65483248,
+  "total_liabilities": 12940395,
+  "wealth_pct_increase": 63,
+  "winner_vote_share": 53.1
+}

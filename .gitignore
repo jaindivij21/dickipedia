@@ -1,10 +1,12 @@
 node_modules/
 data/cache/
 data/raw/
+data/canonical/mps.json
 .env
 .env.local
 .DS_Store
 .next/
 .open-next/
+out/
 *.log
 *.tsbuildinfo

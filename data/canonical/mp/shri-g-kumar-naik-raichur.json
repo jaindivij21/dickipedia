@@ -1,0 +1,459 @@
+{
+  "accountability_score": 30,
+  "age": 63,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 16975000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 112359000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 26400000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 135391000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 291125000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 125013
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 32369533
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 833568
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3079256
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 258533
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6337600
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 43003504
+  },
+  "assets_earliest_year": null,
+  "assets_history": [],
+  "assets_history_pct": null,
+  "assets_latest": null,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "G. Kumar Naik is an Indian politician and former Indian Administrative Service (IAS) officer who currently serves as a Member of Parliament in the 18th Lok Sabha from the Raichur constituency in Karnataka. He is a member of the Indian National Congress.",
+    "title": "G Kumar Naik",
+    "url": "https://en.wikipedia.org/wiki/G_Kumar_Naik"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No. 62, 16th Cross, 14th B Main Road HSR Layout, Sector 4, Bangalore Bangalore Karnataka, 560102",
+    "emails": [
+      "kumarnaikg@gmail.com",
+      "kumar.raichur@mpls.sansad.in"
+    ],
+    "phones": [
+      "9844077940",
+      "9845717587"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "12/09/1963",
+  "eci_state": "Karnataka",
+  "email": "kumarnaikg[at]gmail[dot]com,kumar[dot]raichur[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4245821,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4260283,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7172824,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3774479,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3842169,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4160246,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4281045,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4046316,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3333860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3829920,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension, Salary, Rental Income & Interest Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Rental Income, Income From Consultancy & Interst Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.51 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125092085,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 22402455
+      },
+      {
+        "category": "Nil",
+        "value": 28000000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 50402455
+  },
+  "margin_votes": 79781,
+  "minister": false,
+  "mp_name": "Shri G Kumar Naik",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 21907915,
+  "mplads_unspent": 125092085,
+  "mplads_utilisation_pct": 14.9,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 107,
+  "mpsno": 5737,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Centre’s move on women’s quota, delimitation aimed at political gains, says MP G. Kumar Naik",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOem90dzhNNzJLX3lZZkxiM0JMVTk4X2haS3JHem40RDVMRGRVZnB3MHRKTmlGaUVVNmdnNXMxZGJwdU43Zy1rYVRObWtrN25GckN1dkNKUUJrNW80SUx5R0IwMGFUVU9oYU9TQVdNaHIwdklDUlI2RFUzQzktT2x3Ujl0SnZhSjQ4YnZJSm5XU1Atb0toT1NoVDhYVDZfSXlRVW50OFc4U3daZEUzZlZxT3A3R3g1SkdaTHF6V1NuOXprcmx4cTZ6aFBhUnN3czBmbzlMbzFjaC1ER01hYVY2RkE5Q1MzLTNDR2ViRtIB8wFBVV95cUxQSktlaURTcXJSZmZvOWZxTmVKM1BvVDFhRnczT3BxVHNKT3pUMUJTUUl2NHlsZ2NnWGYtQTlUWTVSSVFOV0FLOFZMZ2RWSnJBU3lsb3hIYTVHR0tzemFfeHAtZ1ktWlJZcG01eExhVzh4cmtrY1FpakxxT3NFcTh0Q0xfN3kzeHhqM1ZHbDhxdzZhRkZ1bE5ZSkVvYlpIMmZKdVpMenl5SkxiR3FxRWFoVF92NXBiTUhsdWpiSm1FYWVZOW82dmI0MHQ0czl6Q3pndUZZZkxrZnRIczhUT29Kb213UUdMcm5sTlFvZUtRUS15b1E?oc=5"
+    },
+    {
+      "date": "2026-04-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "APAAR implementation must remain voluntary, inclusive: Kumar Naik",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmxzdzNQYzRLRFVkcHBIRnBybnRjamk2YnMtSEZuVTZxTXN6bDBPN05UTlhtUGlGa2Q2aS1EODZKeEQ2YUYtRW9sQVNRWEd1SHpBVGZlcHRYSHVxODd3clZBOGdoY3phUVVkQ3FGckFLRDdpX0M4VmxCbU5mTHBIMlU2aDBHWWplTlhYdk13aGtib3lrSGctMXprWmlwX05JOUhiR05USDk3R2JyZFVOaTktMDRzUGQxNVJvdmtiUzl0c2w2d2Utak1vX0TSAdMBQVVfeXFMUEFXb0xGV0w0ZWtvbU9OcFVPaGczX3loTUd4OHRuOTBvVENIRVU5S0ZTRjFzY0NKdXlUZFo4SXQ2ZEo4bFRJZnEyZ2NuRElaSDc0RVFJUm9PeGxNSXdhRENlY2lyLURRZ2hCLV9jVHludGFYNU5ESmNTdjBtdFFLYzBIaGN3ZFdjb1RSSmpmdnY2T0R1bXkxZ3RidE03Rk1fbi1Kdml4aUxCVEF0Uml0d2hSWnN3LXBwb0lkNHI1N0s2UktiMkw2RHplSkdDZ1puMzhyZw?oc=5"
+    },
+    {
+      "date": "2026-03-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Rising crude oil import dependence a matter of concern: Kumar Naik",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcjE2em5nLUUybmhBdXBSV3lzZno2M1d6QlJSZC02cGZhdDB5WHRBaHdYUkFaWWs3SnpiZ1c1MlBNSjMwM3A3UVFTbVVQajcxVVBUVy1MazVJSVlpWHItbl9lRmRTU0JuZ1JtZGpRcE1OcGs0UElCRzkzNkxVa1lxMmlfamk5dzFCQWdQS1V4ZGl4WnVUcHFHRVpYRUJHalc2VS1waGMyOTItYmpOUE9FZHJpaDNwc3UwV045clJVelZDenFZT052Sm5LVThjbGvSAdYBQVVfeXFMTmVWWTYtSUxEazBRU1RLZDd6SXFkNkpRdVNVRUZubjEwa19STjZSNVU1UmlEQ0VHQ2ZKTzFaUlh5NUFlT2lqUDBwS3FYYkFBRWlXS0FZc1dGNVp0Rm9YemtST2hJc2RXajBJWm8yMGRTdXM5d3dCRWk0TVF6MlpxZXdTSlVaUnlCWHZ0c3FhWWo2NXFMQktGRUlqenZSbThHSnFhSDZkU0MyLTZTd0duV2pNZ2tVMXRGeTc5ZnJmcnlYclY2a1YxRldLSzlfZk9qNnpmYWVfQQ?oc=5"
+    },
+    {
+      "date": "2026-03-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Karnataka short-changed in railway allocations, says Congress MP Kumar Naik",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNTVmQVEwSHVUdi11TVY2YlB0RXlzRnlaTGhBQkk4YUlndWpmWFVLd1F5NEgzUEZWR2VQWUdkakZfZ0JMeTBQbXVNbG1VeWxQMTlCOVRUMHVqVFJtYUxvcDZETEZHQmJTQlFIdDBodGV0MDA5OUo5VHFWN3lPajlhb2dLMHZSeHZRZkVCYWZCdzJwRlZWQTB4QVNEeHhVZlVJekYzTzVyWXlxRmVid05ZaWx1YXFMQkt6NmZrT2xDWVRWamRsV1VxVGcySlUzaDhSOW42NXNMSndrMU5RNXRyb2Y2T1JibF8t0gHuAUFVX3lxTE1PWXlZSW9EODhELTFUNGh0cFFJVmpMa3hNNzBqRHRDMlpHSnJoTG1BWDVKbU8yd0sybTY0U1JjZzJOUlhJd0R4TXNoS2x2cHVXLWk5VHpTMzZFdS1zVlBOX21iMkNQOHpFbWpMX0w5MHB0ZE4tYzRZU2Q3dFJVTzc0a2Q1bHlnVGM5Y01iclhRY3g5V0hib2d6UnZzOC02OTBjMGlXc1h3U0JtSWVZcUo5MTlIVUxvRHhGZDMtNUlPa3QzaG1vVnNnR2R1cV9VZUtsNUJ3N05IQzJKb253al9ydmZ2NkZhMXBveTBsUVE?oc=5"
+    },
+    {
+      "date": "2026-02-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "G. Kumar Naik chairs DISHA meeting in Raichur",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVhNWVZQWnpzaHVITS1qVlNHRWFqcHlvc0FZNUtBVXVaS3F4bjB5OVFPQXpfV01ld2hGNjBDM3N6c3V1OWtvSDJ2dWliNE5oMElXUTFOZTVBLWxlN29ETDZZOGhqOHVUZlR3VFl6UjBWVDk5M2UxbnhCZDNUQU1BWlNoekk3NEZ0Uks0N3FoNmU4RzR2U1I0LU4tOWFzdGVYRHpNYXowMkJLbHltSURhaV93WdIBugFBVV95cUxPU0lPWmV2aVFzSi1BWjczcEQtSmdXUmxVWS1LaXNXV2liaTFQb1dGSkNKOWR4WGpoMGRhU1FHVFRneW01VnBRQmx2Y0ZLSnBMMW1GSEkwX29aenc1TFlLbng4SXphcTNBNzVlYnlsQmUwb0tYVkQ1Y0lPeEFEOV9JcTM3RExNMW4yWjZrMVV0UjRpdTBrWHZuWjhnYzdYclZVTkJhbWk5N2c3c2g2bGFfTzFtWFBsOHJGLXc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9850,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-6",
+  "pc_name": "Raichur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180170.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Ex-Civil Servant",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to relax the criteria for establishment of Eklavya Model Residential Schools (EMRS) and sanction setting up of more number of EMRS in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for inclusion of the Karnataka SC and ST Act, 2022, in the Ninth Schedule of the Constitution.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding need to include the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022 in the 9th Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need for increasing allocation and spending on agricultural research and development",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Policy Measures to Support Maize, Paddy, and Sugarcane Farmers in Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need for rail connectivity between KalyanKarnataka and Northern States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to facilitate States to participate and contribute in the process of development of National Quantum Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need for establishment of AIIMS in Raichur district, Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 14
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 77
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/g-kumar-naik"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 2,
+    "Finance": 1,
+    "Information And Broadcasting": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Planning": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "RAJA AMARESHWARA NAIK.",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 30,
+    "criminal_deduction": 0,
+    "legislative": 35,
+    "mplads": 22,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": null,
+  "total_liabilities": null,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.63
+}

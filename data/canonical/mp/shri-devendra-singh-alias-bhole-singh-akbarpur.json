@@ -1,0 +1,734 @@
+{
+  "accountability_score": 14,
+  "age": 72,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5060000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 23097000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 40157000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 430086
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2180492
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 600000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1158000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2500000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 802945
+      }
+    ],
+    "movable_total": 7671524
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=U5Sg6F9NsH5bdptLNBs9",
+      "total_assets": 20353636,
+      "year": 2012
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=U5Sg6F9NsH5bdptLNBs9",
+      "total_assets": 28546617,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5083",
+      "total_assets": 47828524,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 135,
+  "assets_latest": 47828524,
+  "attendance_pct": 50,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "117-P/17 Kaka Dev Kanpur Uttar Pradesh, 208025",
+    "emails": [
+      "devendra.singh19@mpls.sansad.in",
+      "devendrasinghbhole2014@gmail.com"
+    ],
+    "phones": [
+      "5122500021",
+      "9415042384",
+      "9013869447"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 13,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 13,
+    "ipc_summary": [
+      {
+        "count": 6,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Attempt to murder",
+        "section": "307"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal breach of trust",
+        "section": "406"
+      },
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt in committing robbery",
+        "section": "394"
+      },
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 6,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 2,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.375/2014, P.S. Kalyanpur, Kanpur Nagar, U.P, Date-10/04/2024",
+        "other_acts": "Section-126(2) R.P. Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.07/2006, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/04/2024",
+        "other_acts": null,
+        "sections": [
+          "406",
+          "394",
+          "506",
+          "120B"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "178/2006",
+        "charges_framed": false,
+        "court": "ACJM-I, Kanpur Dehat",
+        "fir_no": "CC.No.3/2006, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/04/2024",
+        "other_acts": null,
+        "sections": [
+          "504",
+          "506"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1976/2005",
+        "charges_framed": false,
+        "court": "ACJ-I (J.D) Kanpur Dehat",
+        "fir_no": "CC.No.300/2005, P.S.-Rura, Kanpur Dehat, U.P., Date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "323",
+          "504"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "178/2006",
+        "charges_framed": false,
+        "court": "ACJM-I, Kanpur Dehat",
+        "fir_no": "CC.No.298/2005, P.S. Rura, Kanpur Dehat, U.P. , Date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "3178/2006",
+        "charges_framed": false,
+        "court": "ACJM-I, Kanpur Dehat",
+        "fir_no": "CC.No.158/2005, P.S.Derapur, Kanpur Dehat, U.P., Date-10/04/2024",
+        "other_acts": null,
+        "sections": [
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.8A/2002, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "307"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.221/1996, P.S.Mangalpur, Kanpur Dehat, U.P.,, Date-10/4/2024",
+        "other_acts": "Section-30A Arms Act",
+        "sections": [],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.261/1994, P.S. Mangalpur, Kanpur Dehat, U.P., Date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "307",
+          "336"
+        ],
+        "serial": 9,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.11/1994, P.S.-Rasulabad, Kanpur Dehat, U.P., Date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "353",
+          "153A"
+        ],
+        "serial": 10,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.298/1993, P.S.Mangalpur, Kanpur Dehat, U.P., , Date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "323",
+          "504",
+          "506",
+          "427"
+        ],
+        "serial": 11,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.65A/1991, P.S.-Mangalpur, Kanpur Dehat, U.P., date-10/4/2024",
+        "other_acts": null,
+        "sections": [
+          "323",
+          "504",
+          "506"
+        ],
+        "serial": 12,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "CC.No.264/1990, P.S.-Mangalpur, Kanpur Dehat, U.P., Date-10/4/2024",
+        "other_acts": "NSA Act",
+        "sections": [],
+        "serial": 13,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 3,
+  "dob": "02/04/1954",
+  "eci_state": "Uttar Pradesh",
+  "email": "devendra[dot]singh19[at]mpls[dot]sansad[dot]in,devendrasinghbhole2014[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 950000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 920000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 670000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1000000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1284520,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 477730,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 486860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 248000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 290520,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 252000,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Rent, Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "Sections 307 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for attempt to murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "307"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹2.75 Cr between affidavits, while declared income across 5 ITR years totalled ₹48.2 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 27474888,
+        "declared_income": 4824520,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.04 Cr (2012) to ₹4.78 Cr (2024).",
+      "headline": "Declared assets grew 135% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 20353636,
+        "from_year": 2012,
+        "pct": 135,
+        "to": 47828524,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.19 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101929791,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9902495
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 9902495
+  },
+  "margin_votes": 44345,
+  "minister": false,
+  "mp_name": "Shri Devendra Singh Alias Bhole Singh",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 45070209,
+  "mplads_unspent": 101929791,
+  "mplads_utilisation_pct": 30.7,
+  "mplads_works_completed": 62,
+  "mplads_works_recommended": 136,
+  "mpsno": 4664,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Akbarpur election results 2024: BJP's Devendra Singh wins with over 5 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQelpadkpSeEZtakZodjAzNXplVVN0Sk15NHpqRFliT24tYWJ6T0ExSWE5Y0VldUc4T0xYMmlCYzI3d3lUYXppaVh1amREeURaRHdaZEY1OFNfR0l6emZXQlNqS1pOU1FtOXluUFprb01ZUE5pNVZwUzhEOGZfcmVJSWVydHM2RDEweUlqRGJ5UFJQYk1TcjFrT3ZxUGt2djU4eG5qR2FmYWxLM2FXcEZnX2FnRkNlUF9teXJ5NEo1RDdvN1hLaFZKc285ajVaYmg4ZEFmcEE1dEJHa0k5NFJIYzBURUFHTjlZVUNUNE1IN23SAfYBQVVfeXFMTXRuQ1JqQ2E2SnN2UjFfRkg3M2FVU3l5LV9nOGFMZHkyazNzUUs3d3Nza0xFNi05a3poenRfa1dsQzlrdk1ia3BtLXIyaUYyODh5OGpOeGhNcFgwLXEwUE9xTDE0dE9xSXdRbk1IVE5TTjZmVmRMTTlGcGpJeDRjYzZCOGFiaUg1S3B3SG5rR1h2SldQQkVETDJaSEdZQk5FYUZLTERUWkNsOTZTR2JiaFFzMlRuWDNBejJwTzljcVV2eGNJOG90SHV0RGpYREYzbzMzUy11T3g5RWRqX2hFNGViQ1pVN3ZOX1RlNFpNR09PME9URUx3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Akbarpur Election Result 2024 LIVE Updates Highlights: Devendra Singh alias Bhole Singh of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc29zd3RXTlRFeTBSTHZlVjB0dnNKcE5KSENrTTdHcEV4OERPRXludXVkSUtOekNOVElZeHFaMmdxZGc1aTQ2LXhheTRsWE1hT0pYVE1uTVN1Q3dpY2pkdE1GUV9lRG40RjNvVnItaFVISk5nQURES1lLX21IR3huWWpqYVZYM2Y3SmI1TzlnbUNMSTlxLURwV3F1cVVjVVE3YnZXVDZkZzlMdHRYXzhjYS14c2ZRaDZGdl9zV01WRUtyWDVzc0Q1SENlS1N6eHd3Q1h5OG1TbloySV9EUG5DdVRPVdIB6AFBVV95cUxQZ1BsTjBXRk9xdkppZVVNb3VKVGdUYlVDcEUtTTVpTE5mekZIOHhvQjBhci1PaFhpQjFtUm9zclVzNzVDeFoyQWF3RjAxRm5JRHFCYk5TRDRoejFPenlEUThwbXlZTUpSWjNTNVZaU2g3T1pDQWZZZ043ZnN0YUtkbmFLckxLRkFfcHJsQVYtUHNyaUVUeE9jMXk0S3ZYU2pOM3IyYjBUQ1YxSUxxTnB3VUIwY2VhMmZrdkZReHUxS0lsZV9IaTFHMmctVjhyYmhZQU9JQWt5WkNZNHZWWlpibWlOWVJjcG1a?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:56:58.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Devendra Singh Alias Bhole Singh, Bjp Party, Akbarpur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOallKcmU2bTdaZGsxVkxBZkltZVNSalRSVDlLYUlFRXkyY05WMEtlZjN4cFVMX3dwWE80OUR6eVRKRWlkY1dGekl4ekVLaXpmM3FOZUFXNDFvN29qMXk3MXdjZkJHZTFjb2FLUWMwV21jRTV4ek1PVUhnRk1qV2tYN1VaTVNKc2tjcXNHUnlMUHlpWVMxRlpoQXQ0LUdxaDJBeDJJQktjNkxqZ0FmSHZBa2lORTBKZjNpZERUdnVTQXJaYWNVa0VZbGRuWngyOUZnbk5lQ3U2R3AxRWtackd3WmtrM0JxdF9KQkJvc0h2aFRZUWs1cmt0OVRB?oc=5"
+    }
+  ],
+  "non_serious_cases": 9,
+  "nota_gt_margin": false,
+  "nota_votes": 7649,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-44",
+  "pc_name": "Akbarpur",
+  "pending_cases": 13,
+  "phone": "09013869447 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180440.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding need to increase flight services at Kanpur Airport and upgrade existing infrastructure",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 10
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/devendra-singh-alias-bhole-singh"
+  },
+  "qualification": "Matric",
+  "questions": 10,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Cooperation": 1,
+    "Health And Family Welfare": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAJARAM PAL",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 32,
+    "legislative": 26,
+    "mplads": 67,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 4,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 47828524,
+  "total_liabilities": 9902495,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.6
+}

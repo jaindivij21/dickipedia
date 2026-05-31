@@ -1,0 +1,785 @@
+{
+  "accountability_score": 61,
+  "age": 64,
+  "assets_2019": 91793460,
+  "assets_2024": 148658298,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 26654670
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 44829273
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 45000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 116483943,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 744323
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6054581
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2000000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 308342870 8,55,205 8 Lacs+",
+        "value": 2335695
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3000000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2748750
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 15291000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 32174355
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=frbGv7UgBRKWb4xeoghN",
+      "total_assets": 91793460,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=100",
+      "total_assets": 148658298,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 62,
+  "assets_latest": 148658298,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Thamizhachi Thangapandian, also known as Sumathy, is an Indian Tamil poet, lyricist, orator, politician and writer. She was elected to the Lok Sabha, lower house of the Parliament of India, from Chennai South constituency in the 2019 Indian general election as a member of the Dravida Munnetra Kazhagam. She worked as a lecturer in English at Queen Mary's College, Chennai before entering politics.",
+    "title": "Thamizhachi Thangapandian",
+    "url": "https://en.wikipedia.org/wiki/Thamizhachi_Thangapandian"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Plot No. 8, , - 1st Main Road, Raja Nagar, Neelankarai Chennai Tamil Nadu, 600115",
+    "emails": [
+      "contact@ithamizhachi.com",
+      "i.thamizhachi@mpls.sansad.in"
+    ],
+    "phones": [
+      "4424491858",
+      "4442850206",
+      "9790729870"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/ThamizhachiTh"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@ThamizhachiTh"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/__thamizhachi__/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 26,
+  "dob": "25/04/1962",
+  "eci_state": "Tamil Nadu",
+  "email": "contact[at]ithamizhachi[dot]com,i[dot]thamizhachi[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2410698,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2316045,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2026032,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2229525,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2764287,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1068309,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 901147,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 755888,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 934763,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1345849,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 501343,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 494247,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 606488,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 232338,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 312112,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MP Salary, Agriculture an Writer"
+      },
+      {
+        "person": "Spouse",
+        "source": "Govt Pension"
+      },
+      {
+        "person": "Dependent",
+        "source": "Doctor"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.32 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123243945,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9068136
+      },
+      {
+        "category": "Thiru. Santhirasekar 15,00,000 15 Lacs+ Sanmuga Foundation 11,31,745 11 Lacs+",
+        "value": 8131745
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 17199881
+  },
+  "margin_votes": 225945,
+  "minister": false,
+  "mp_name": "Dr. T Sumathy Alias Thamizhachi Thangapandian",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 23756055,
+  "mplads_unspent": 123243945,
+  "mplads_utilisation_pct": 16.2,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 28,
+  "mpsno": 4961,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Adyar Times",
+      "title": "Thamizhachi Thangapandian wins from Chennai South constituency for a second consecutive term",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFlWTXFQQWZzSjRGNHQ3X2dWMnM5VWI5bHBtUFlIa0dkcGlGc0c4RXJsT3YtMDZlTXZMWlZpWnhLSHR6d1Znb0V5YkttNlZSWHcybjNsZFk1T0pLZlVZRWMtV1dZQkRsb25BcDRaUHd0dUNwbW4yOUtxbk9UNkMxazl6emZqNWg0Z19SZVE1V2liUGt5bXlhMnRYWDhJa0doekF2QW80NWU1OGF4S0pzLVJ6UFdxUQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Chennai South election result: DMK's Thamizhachi Thangapandian secures victory",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGtvR3lNMzZrVnRNaUsxNDFlVlFhRFRyUV9PSnFEQmRGanllNW5sRDA2ZHVWdHJjSkU1Mzd3Y0syS0NTSmwxWlFMUjdGbDY5US1ndzZ6ei1jSGdRODh3bVR5cXFJNnBCaFpuLU9uaC1MU25uU0dyR3BfellKai14UFRTaWQ1QjJZTVlwSzd2SW1BMGtmazJOMXNSc1JxSDV3cThTZzhtLW1jRDQzQThvWVMtZk9nSGZaTDhEZ3dFLU5xRm1IUVVlZjBHbXhha0JYeUdLcm5JRXg1eXNzN0HSAeMBQVVfeXFMTThvdmhmZXpwZFFzbTI3RkNEOERUOElBRTZwWTBPYXBTRnhWUUxNcmxPX00zUzZhOEFTemVOUW1PanA3b1NsaVJJMzM2OWF4ZWM0R1JzNXFqcHVSZFBUREVILS1YbE9BQWRBVGdrT2lDb2tKSzF0WFZydkVxcEtMOTB1Zm1rTEhvWWwyalcyMXhVQWE3WWpNRU53cV9ZWkpZYVlJT0xQRGlVcUV3cGFVVE9qbnFJSU9BVVhONnFTejA3d1l2T3lHN3ZfWlZ1Sk9KOWd4aXpIU0ZkbjJIbnB3bFQtQms?oc=5"
+    },
+    {
+      "date": "2024-04-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Citizen Matters",
+      "title": "Will push for education reforms including ban on coaching institute ads: Thamizhachi Thangapandian",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMkw5Y1RvVnJIZkJTcVJPTV9ETDg2TmtSWFB2QklwRzNPRzFDNk9NX3RNbWlneGxRNkZCUnZOcXlTd0M5OHNWVTh0VWlmeU10bWhUdzlWRUFySVFsVkdXb3hFdGU5d0RLZVhHODJHLVhubVRwYkRCNkMybmFYRWktZTFvbWRCOHJlLTNGNTdOZk1DUkFLOGc3cmhjak9rOGliUkhQQnhuZlViOWJLWThhM2luQmxuTVYwMC0tcDd5YTEyalZXU3RVVUhEVm9fZ0JDY0h0ZzVDTQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 15653,
+  "notable_record": null,
+  "num_candidates": 41,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-3",
+  "pc_name": "CHENNAI SOUTH",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180390.jpg",
+  "photo_source": "prs",
+  "pmbs": 2,
+  "press_accountability": null,
+  "profession": "Professor (Retd.)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need for pro-active measures to ensure safety, security and timely evacuation of Indian Nationals in West Asian countries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Opposed the introduction of The Corporate Laws (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to expedite completion of the Chennai Port - Maduravoyal Expressway project in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to impress upon the Sri Lankan Government to release the Tamil fishermen arrested by Sri Lankan Navy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Opposed the introduction of The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand to bring a legislation to protect the houses and livelihood of people of Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for Bharat Ratna for M. Karunanidhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to enhance States� share of Central taxes to 50% during the period of 16 Finance Commission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for the relaxation of moisture content in paddy for public procurement",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to expedite publication of Keezhadi Excavations Report",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Granting Shaheed Status and Bharat Ratna to Bhagat Singh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Need for Adequate Funding and Reform in the Ex-Servicemen Contributory Health Scheme (ECHS)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of Approach Roads, Over-Bridge, and Underpass Along NH-209 to Support Farmers and Prevent Accidents in Pollachi Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Immediate Release of Pending Funds for MGNREGA, Education, and Disaster Relief in Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Additional Funds for Synthetic Athletic Track and Youth Hostel Maintenance in Annai Sathya Sports Stadium, Thanjavur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Regarding need to declare heat waves, a natural disaster",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Timely Release of Pending MGREGA Funds for Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Appeal for Immediate Release of Pending MNREGA Wages and Restoration of Labour Budget for Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Urge upon the union govt. to bring a law to tackle the problem of infected dog menace",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Halt Auction of Petroleum Blocks in the Gulf of Mannar to Protect Biodiversity and Livelihoods",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to expedite redevelopment works at 15 Railway Stations in Chennai division in Tamil Nadu under Amrit Bharat Station Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for New Railway Line Between Dindigul and Sabarimala to Ease Pilgrim Travel and Reduce Congestion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Address Misleading Statements on PM SHRI Scheme and Protect Federal Rights in Education",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to take comprehensive measures to address the losses on account of transmission and distribution of electricity in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to Withdraw UGC's Proposed Draft Regulations for 2025 and Uphold Federal Structure in Education",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Text not available",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request to Stop Offshore Sand Mining to Protect Fishermen and Coastal Ecosystem",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Appeal to Resolve Fishermen Detention and Attacks by Sri Lankan Navy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to make Integrated Vaccine Complex (IVC) in Chengalpattu,Tamil Nadu operational",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding the destrution caused due to Cyclone Fengal in Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for a railway line in Perambalur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Electricity issues in Barmer, Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Urgent appeal to govt address farmer's protests and fulfill promised commitments",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt. kindly look into the matter related to the prevention of cruelty to animals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to allocate 3 lakh crore for healthcare an establish an indian medical service like several all-india services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Issue related to the tamil nadu fishermen",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Urge upon to govt to inform what steps have been taken by the govt. of india to maintain political stability in sount asia in last few years",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt provide a compensation of 10 lakh to the families affected by the wild animals in the valparai tea estates area",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to form a committee consisting of the representatives of the fishermem to protect the tamil nadu fishermen",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Issue related to the old-age pension schemes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt to please revisit the judgment on the tamil nadu arunthathiyars act or have some safety measures to protect the reservations without any delay",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Urge upon to minister to allocate funds and develop hogenakkal into a tourist center with international standars",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Urge upon to govt immediately sanction sholiganallur zone and nochikuppam a one-stop centre and also allot funds to expedite the process",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding need to augment health services at ESIC Medical College and PGIMSR, K.K. Nagar, Chennai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Urge upon to govt to scrap NEET and allow the state govt. to develop an admission process based on the higher secondary scores",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt remove restrictions imposed by the USA since 2019, citing the need for Turtle Excluder Devices (TEDs) to protect sea turtles",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding the empty ground surrounding the Vellore Fort should be allowed for organising exhibitions and entertainment-related functions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 65
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 5
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 149
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/t-sumathy"
+  },
+  "qualification": "Doctorate",
+  "questions": 45,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Coal": 1,
+    "Communication": 1,
+    "Cooperation": 1,
+    "Culture": 2,
+    "Development Of North Eastern Region": 1,
+    "Earth Sciences": 1,
+    "Education": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 2,
+    "Labour And Employment": 2,
+    "Law And Justice": 3,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 2,
+    "Petroleum And Natural Gas": 2,
+    "Planning": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Steel": 1,
+    "Tourism": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR.TAMILISAI SOUNDARARAJAN",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 59,
+    "criminal_deduction": 0,
+    "legislative": 83,
+    "mplads": 22,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 148658298,
+  "total_liabilities": 17199881,
+  "wealth_pct_increase": 62,
+  "winner_vote_share": 47
+}

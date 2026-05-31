@@ -1,0 +1,510 @@
+{
+  "accountability_score": 61,
+  "age": 41,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 10630000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10630000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 85000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 245753
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 414403
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 5000000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2695430
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 8060500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 16501091
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=dH27KFVrxPRXUk9vQW",
+      "total_assets": 15379409,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=dH27KFVrxPRXUk9vQW",
+      "total_assets": 12572577,
+      "year": 2019
+    },
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=dH27KFVrxPRXUk9vQW",
+      "total_assets": 27207759,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7187",
+      "total_assets": 27131091,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 76,
+  "assets_latest": 27131091,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Tanuj Punia is an Indian politician and serving as the Member of Parliament from Barabanki. He is a member of Indian National Congress. He completed his BTech in chemical engineering from IIT Roorkee.",
+    "title": "Tanuj Punia",
+    "url": "https://en.wikipedia.org/wiki/Tanuj_Punia"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "OBRI-1 Nawabganj Barabanki Uttar Pradesh, 225001",
+    "emails": [
+      "tanujpunia67@gmail.com",
+      "tanujpunia.67@mpls.sansad.in"
+    ],
+    "phones": [
+      "9718280055",
+      "8824439449"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "6012/2021",
+        "charges_framed": false,
+        "court": "C.J.M. Barabanki",
+        "fir_no": "Thana Kotwali Nagar Barabanki, CC No-410/2019",
+        "other_acts": "Sec.127(A) (2) Representation of the People Act",
+        "sections": [
+          "171H"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "16/01/1985",
+  "eci_state": "Uttar Pradesh",
+  "email": "tanujpunia67[at]gmail[dot]com,tanujpunia[dot]67[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 290300,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 292320,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 340754,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 328351,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 297281,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 406215,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 495946,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 507757,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 373717,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 569777,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Tution"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹1.18 Cr between affidavits, while declared income across 5 ITR years totalled ₹15.5 L.",
+      "headline": "Declared assets rose 8× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 11751682,
+        "declared_income": 1549006,
+        "itr_years": 5,
+        "ratio": 8
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 44% of MPLADS local-area funds were spent — ₹8.25 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 82536758,
+        "utilisation_pct": 44
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 243280
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 243280
+  },
+  "margin_votes": 215704,
+  "minister": false,
+  "mp_name": "Shri Tanuj Punia",
+  "mplads_allocated": 148198170,
+  "mplads_expenditure": 65661412,
+  "mplads_unspent": 82536758,
+  "mplads_utilisation_pct": 44.3,
+  "mplads_works_completed": 8,
+  "mplads_works_recommended": 30,
+  "mpsno": 5728,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-21T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Live Law",
+      "title": "Supreme Court Seeks ECI Response On Congress MP Tanuj Punia's Plea Against SIR In Uttar Pradesh",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDZMb002eTFudXlEYXNuVjNpNUhBMmZBWGdITmp0MmMyQURjTEZZR1JXenMxaUhiVmpsMDljWE94U1BkcDIxS2lwTGFzd1ZNakRZWXVZZ0hvTDlkZGJzMTZVVy11RDlrMXRtWE40UWE1OFlqU3JIbDhFdExyendXdTlEZnhpQmlkYVBlOTRncXVOcVhhSHlUNVY0RlRfa3dyLVRDaWY3dVVhWXM2QmNCMjRGU3ZOemNOTDNhd1hpZnJnY3JFM2fSAcsBQVVfeXFMUEw3WmNleFdsSzlwcHV1bHI4Z0Q3YmJ4YUh5STUxWDZLZUZlcXh1QVk2RjFBSXo3ZGgxMlFzQi1UOXBCY3NoU1pXalExd3kzaGFRVy1PS0Zlb1R4ZjZIY1Nldy1sOEVCeVNBNmMtS0dlQzdSMzMyeUNDT2pROUs1SHpaOW0tenFLc3hZU3RaYVp5UXlSRVRlU092d2dkcjdlVkRjVk9wNWFwelEyT21Hc05oRFoybTBlS05sa0Z1NW5PczhhajJ2NmQtLU0?oc=5"
+    },
+    {
+      "date": "2025-10-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "MillenniumPost",
+      "title": "Nitish, Chirag, Manjhi bank on Dalit votes but mum on attack on CJI, claims Cong MP Tanuj Punia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR3VzU3RQN3JUaWI4LXJDMlgtbHBJZVVyTmZGWXNjQkw5M2s1SXVBejhBbUxVRmRSRF9ISXNIZkxFWXE2Z1lQSWdNWElfOElxcFJWRUZfRWhuWXBTNUtvemcyNEZzMTQtYWZ0cWtWT1J2aEJLa01YWVlHRU01Q3lGS05NM1dKOGFYZ18taGFnYXVuajdjZmJraUtXV0lLa3NpbFNEQzhnVWctZWxza2JKMnBVVWozbHNvVGV4OTZaRThJQWVyMFlYalpDMTZxN21sb0HSAdcBQVVfeXFMTkhqanBOa3BSS2FQVnlGWTF3LUJUcFdkSkk1X1pMZXNHVXBzak1SZjNPUFc3OGVkMzM1dkhyYktzaVRXTGtXSEpybEJnc2pQMXp1NExCLVRjdnJTNGtna1FXeERpeHhhZW9LUHlmY1ptanhtbVBraEJIM0JUNkJodFhVcThTSWsyd1FYSnBNbkJPazR3aUZhNmJjN1BJMG5mcVBHdTVpVzM5c1JSR1dZREZJQUhzY0lzTV9XTDh0TG9XbExyWDVSMlFvUk83QXVxeWRiTmhrLVk?oc=5"
+    },
+    {
+      "date": "2025-08-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "LawChakra",
+      "title": "BREAKING: Supreme Court To Hear MP Tanuj Punia’s Plea Against UP SIR On 25 May",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kc3NJVUd6MDlMUURVcHRYMDdveF9wRXhZVkJfbEpXS01sNE5fd0VyalpPUGJuRHlqRHh1aXBkZzlaU2JrQTh6b1RlV3lHaFFuNkM0QVVybWZvamhpSWVoQUtnN25IdThUQkVxdXVfLVBvTDA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Barabanki election results 2024 live updates: Congress's Tanuj Punia wins with over 2 lakh vote margin",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQWTFEQm9IalpES2pSOUZhSE5EM2szMzVYc2xJdjMwRzBrMDhhUHhnX1lCU1l2RHdNN19nVWZqNFRPQ1RKcG9IaWh1UFgzNnVVbVVOaXU5Z3dLTHBaMXk1LVEzWE5PRUdBNjE0a212RWt0ak5Well4NnFWdnE5UTJ3SHBpaTExb3dISEpKU1R0aDl4RkFncEFZaFlUZGNOUmRfR3FQU0pQRThhUlF6N3dEdHN4VEJyeGZweS1fWUdoazBoTnBQTC1DS2ZMWlJ3UjJjX3M1Qmw4M3M5bTU1U0NWRDhILVluNkNZbFZud3c2dVNjWFRKRE0xNnZ6X21rcF9HMnRpa1FzMWxMOHBHN3lSMzNFRlVibXg4enBYZXVTeWw5SVpjSjUtLXVxVHptdEF6Q1ZCMWRvcDBCS1JPTmpXODhHeGtBLURibnE00gHQAkFVX3lxTE9Ja3B5dTc2Q3lvZ0szcElXZ3ZlY0FtMHJjMFdEbmRwR3N6S1hCNGxwNnJMSFc3OHNHMGtMV0kzQk5lcWlPTk1Ua0hBQVloN3Z6bUxRMEh4YzlIMTdGQlp5amNNYWR2WmhpeVdnR2JjVDdIX211Zzd0Z09zZ1JDVkp6QlJ5aHZ0ZzVlcGF6TkxZRUtfV3U3MVo4T3RQcnBpV0hjVU5qREJwSS1ZYmVFazZhVTJ2enQzLU0wQnB1Vmh1RGFpd2Y5TTR0QnNVNGdzRmlaM1ZOUHNKbXVIME1IaTA0OUV1STlSOHhuaWMyZG02VU95TDVGSll6WWctWUJ0YjF5d3dHem80WGNva1YxUkxrRXNhd2t6R1ZDMlV6TWZqUktmYUpYeEkzc0Z2TmprRlp3SHM1UnFJUmJHS2IyVXRYZFB0di1CUkM0bTdpS3d5MQ?oc=5"
+    },
+    {
+      "date": "2024-05-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Barabanki LS polls: BJP's Rajrani Rawat to take on Congress' Tanuj Punia following Upendra Singh Rawat's exit",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWnJSbDJCWjZzS3JlMUpCb0ZFUk82MXQ2SGFhNl9LNVRPXzd2a0ZBa3NRcURXM1hnaXVhRWVObEdNclJ1QmZoYXVScU43YmtZN0ZPZDFRT1pUbTd6d1U3UU5uMzhzWlJtblF2NFBPVTJvZVF1d3pqLTdZYzJDUHpyX2d5dUhxc2JCd21MSDlfM2h3MTRuRDBjYmw1ZFp0SWNsdHJzeFM3ekV3allmNy16NG8wTFU2Wlk1MTZlNzZQSUZrbGVHdWt6dkc0WGhDNWdmWmYyYTg4WGNEOVJIamtOT2tGbWVDUDJzaGpVaTlXQnpFc2lTb1ZyVQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 8221,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "uttar-pradesh-53",
+  "pc_name": "Barabanki",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180492.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Appeal to bring watermelon and muskmelon farmers under insurance coverage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Inclusion of the Lalganj�Barabanki 110 km Stretch in the Bada�Bahraich National Highway Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to set up an All India Judicial Service",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Addressing Technical Issues and Expediting Ayushman Bharat Card Issuance",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt to use different HSN code for natural mentha oil",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding request for stoppage of train (No.15054 and 15053) at Barabanki Railway Station",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 9
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 130
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/tanuj-punia"
+  },
+  "qualification": "Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 3,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Finance": 3,
+    "Food Processing Industries": 1,
+    "Labour And Employment": 2,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Personnel, Public Grievances And Pensions": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAJRANI RAWAT",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 67,
+    "criminal_deduction": 6,
+    "legislative": 64,
+    "mplads": 71,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 27131091,
+  "total_liabilities": 243280,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 55.78
+}

@@ -1,0 +1,658 @@
+{
+  "accountability_score": 24,
+  "age": 38,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8884000
+      },
+      {
+        "category": "Others",
+        "value": 155000
+      }
+    ],
+    "immovable_total": 12539000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 120000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4692675
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "HDFC Bank Ltd Policy No 2289xxxxx 2,00,000 2 Lacs+",
+        "value": 200000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 440000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 975800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 6428476
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=wBhsipN5RWoq6kuRyg2",
+      "total_assets": 4450379,
+      "year": 2017
+    },
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=wBhsipN5RWoq6kuRyg2",
+      "total_assets": 9806217,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4084",
+      "total_assets": 18967476,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 326,
+  "assets_latest": 18967476,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Zia ur Rahman Barq is an Indian politician and Member of the 18th Uttar Pradesh Assembly since 10 March 2022 to 4 June 2024 from Kundarki constituency and Member of Parliament since 7 June 2024 from Sambhal as Samajwadi Party candidate.",
+    "title": "Zia ur Rahman Barq",
+    "url": "https://en.wikipedia.org/wiki/Zia_ur_Rahman_Barq"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Barq Manzil Deepa Sarai, Sambhal Sambhal Uttar Pradesh, 244302",
+    "emails": [
+      "zia.sbl.33@gmail.com",
+      "ziaurrehman.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7017451751",
+      "7391900000"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ziaurrahmanbarq/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/barq_zia?lang=hi"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ziaurrehmanbarqmla/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 3,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 6,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 4,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "1241/24",
+        "charges_framed": false,
+        "court": "Civil Judge (C.D) Chandausi",
+        "fir_no": "114/23, PS Hayat Nagar",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171H"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "276/24",
+        "charges_framed": false,
+        "court": "JM Sambhal",
+        "fir_no": "22/22, PS Sambhal",
+        "other_acts": "Section 126 Public Welfare Act",
+        "sections": [
+          "188",
+          "269",
+          "270"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "30512/23",
+        "charges_framed": false,
+        "court": "MP MLA Court MBD",
+        "fir_no": "27/22, PS Kundarki",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "269",
+          "270",
+          "171H",
+          "351B"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "12364/23",
+        "charges_framed": false,
+        "court": "MP MLA Court MBD",
+        "fir_no": "46/22, PS Mainather",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "269",
+          "351B"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "45522/22",
+        "charges_framed": false,
+        "court": "MP MLA Court MBD",
+        "fir_no": "32/22, PS Mainather",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "269",
+          "351B"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "27/22, PS Hajrat Nagar Garhi",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "171H"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 9,
+  "dob": "03/07/1988",
+  "eci_state": "Uttar Pradesh",
+  "email": "zia[dot]sbl[dot]33[at]gmail[dot]com,ziaurrehman[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 496230,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 488790,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 487470,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 490000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 318960,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 481180,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "MLA Salary and Property Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Tuition"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹44.5 L (2017) to ₹1.90 Cr (2024).",
+      "headline": "Declared assets grew 326% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4450379,
+        "from_year": 2017,
+        "pct": 326,
+        "to": 18967476,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹1.45 Cr between affidavits, while declared income across 5 ITR years totalled ₹22.8 L.",
+      "headline": "Declared assets rose 6× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 14517097,
+        "declared_income": 2281450,
+        "itr_years": 5,
+        "ratio": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.64 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 106408114,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 121494,
+  "minister": false,
+  "mp_name": "Shri Zia Ur Rehman",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 40591886,
+  "mplads_unspent": 106408114,
+  "mplads_utilisation_pct": 27.6,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 324,
+  "mpsno": 5822,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-04-23T09:51:40.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Sambhal violence: Police raids SP MP Zia ur Rehman Barq's locality, guns recovered from Mahbar and Tajwar's house, smack recovered from Mulla Asif's house",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPMjR4ZTNNWG11Y3pIbFBRVmRBcVJaWWVqWUdHdzV4bS1NMHZ4TmtJZmF0SEhoTXg4Vlpra0tHc1k0NEdfNG85clJaR2JZQ0JDcDlBbHJLUjNUeDdWNVljVDgtSlZaYVpqQXNhNFVyczhhODN0RmNzMjNza3d0ejZsU3JGWUdQRDhMTkZWU2lTN1VXVnBMODI5U1JYb0VfYmdtaDVSc0k1VXppLXN2ek11Z3lqZDVMVEE2b2gzRVQyS0NoVjlnYXBDSk1jbTF2WGZCVUtfV1pkLU55QmQ0UXkxeXhGTmVqRlVkbVp0bXBsOU8wTjdaZThad056Zmlmbko4bWtpaGtCYWlhNG9kbUZ6amUxYmhUVG1qTmhaUnVLZ2JId0ZTam9lNVdQaVNZTDd2QklvcVI4cHFVSjZicVR2bTJldERtMzJtUUNUNTRldi1WekxCY3lLa3o4NA?oc=5"
+    },
+    {
+      "date": "2025-10-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "theobserverpost.com",
+      "title": "Allahabad High Court Stays Demolition of 80 Houses in Sambhal’s Hatim Sarai, Including MP Zia-ur-Rehman Barq’s Home",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM1dtRUtPWllqZDMyYTl0eE0yc2toeGt2bkh6aXQyVUlQdFRpQnZuOVJMc2RzRi1FcUt0U3h0aFU1TGJNSEY5MWc4VW9CN3pzdEp4Vmg5ZVpaUzY3cmttZWRETldCMjZBQmFHbXlFRVFCRm5PZzFwaVZLTEttdWFrN3ZWQU5kTVFKM3NTWGhTdlhuakRzT0NRNWJoemhrY09wQ3hQVG44VFFqU2RuR0wtOC1vR1FxeXpHNURXOUI3VWJfSmZQaGpoN2M5d2FXMU4yYXJuLWc1YWc?oc=5"
+    },
+    {
+      "date": "2025-10-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Pramod Krishnam slams Sambal MP Zia Ur Rehman Barq: Calls Samajwadi Party leader a ‘family member of terror...",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZGZZaTN4cXNVelVnSmRodGFaR0lCUURrTUoyNnZMdDdqZ09qbDZab0FIN2NfVGIxbk01YkxjMk5iQndWMFF0S0dzTWJWQnFCajRiZl80Y25BTTVhei1HUkczVDdvTDFpNmI4dnVsdHJLLUx3RUZNMmZsdFZhY1Y2UHc5NlFkcTFNWWpYMEtVLU1oUE1PQkxEaGV2aWE3UWdDbVFlMDlyM1d5NWxfMzQ2YjdlNmowbkhmOEh5VFVLMktNcTlPZ1hkMzlWRDFMYkQ4V3FRY0cyYWFQUVdIa3I2YldFV2VDNVl2NTlIdkxsc0ZuZ29mVk9Vejg1UlpMYXhiUXU2RXV5UExQVWtNOGJIQ290ONIBmAJBVV95cUxQUzJCUzF5ak42TXNUWnVOSkdhWEM2NHBha2RqcWNqVGJFOVJrVFJwbnZkTng5UWxzS1h3SFkxNElGbEVnaC1RQ2xpSzdtdjhuWkhucGtwOTdXc0RuN3dtYzd2UVd1VndNYWFYNU9TaEN6VEpsMDlmQ2hsdnNybXN2ZWZYSHN3Qm9WZzIxQWx2VDhYbHMwNVE3d3JXd1pjMjlwTnVxTm5HVzBzUzU0cV9HWDlRUUJnY2oxejJaeDNQVzIxZ1NBYnkxZ2h0cTNKQV9MaXE4cTlkNDJLMVlQNmx5XzJfLWZISXl5WTV0UWJfRWk5STZ2X2p6cTVZMEk1ZmY3YXJIcGhBUGRHemFyM3l4SFp2c2xRNWtj?oc=5"
+    },
+    {
+      "date": "2025-10-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindustan Gazette",
+      "title": "From FIR to VIP Welcome: MP Zia-ur-Rehman Slams Yogi Government Over Taliban Minister’s India Visit",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWU9sOXphQTJ2TUlPVjVxS0dhekdEVmhqVWFtZFdkbnBUVFo5ZThwLWpMLUVpTDc0YllraGtKLTBFeEVCdUt4TkE1a3dHemxHemZjNGs1aTZwNWdRQUJ5NEhhQzdJZ2lYTGR0ODZ5b3BBUkg0MTY0UExzWFN4Z2IwNC1Na2lQdkJsQTF5RmJEaUJFem5VMFRvbUg2dk50NnNIdjAzblBEaw?oc=5"
+    },
+    {
+      "date": "2025-08-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sambhal violence case: Allahabad HC grants interim relief to SP MP Zia Ur Rehman Barq; seeks state reply",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOFRobmtxTzRFbWhnaUtRWDlXSWdKbHVmblJrR01WS2tJWEh4ckVpVlFMMjdTbUV2VS1NU1dHZDZoOFRBeDQxY0hNSzRtMFQ1bjFZUDVOTk0tZVVQc3E5Skx4UlJRUTVURUdqOUU1cUpRMWJfbzZ4WGlxZ2xuQlA5ZmtDR1dxZE43NmRocE50SlNVdW5ycl9KajAyelNfdVZ6YlNQN2k1bUtnbF8yRVQ1MzdCeEhrS2dXTjAyNlJ3QV9SSGhNeDZGUFNkOFRPeVpEWng5X1duendseUpJYW51R1o2SFRucUx1c3lYY3doWFNSclU1NEhlVnJ4U1ZJa1NVVE5nQWtCd3NKVFRueE5ObGEtLWVzMUtJbXRrRlVWUdIBpAJBVV95cUxOczhKZmlpMmNvYWo4M3EzX0t0X2tzZFpPNjk1d3JjUk9uOGFYcGszcXZ4T0tONUR2UFFqWWRzN1g2d1dyNERjNnZ6WFNSQUpFZmJTWW5fOG1ORDg4b1E4b1VVb3owWWdGUlVoNG41N1pLVEdBbnNXWTd5azhEaHZWU21lTjhJdW8tSU5Bcldxdmd0UTI0RFlNWkJxQzdJS1Q3alJMSE9lSTlsei1CNEphM1pmc0hFcDdtZFpOaHBadzk3alg3N3ZIdUZsQU5NMm1sdFhkRWVETmdZRlFkbTgtVlpZbVI5ZlVYQS0xTGV6ZVVxU3VuaVRMdUFzUERjVmxJOVdiRzYyS0FVMnYtTlFONGlGRXNFVHRIb0NIanRoa3NPN3l5?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 7217,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-8",
+  "pc_name": "Sambhal",
+  "pending_cases": 6,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180496.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Opening of Kendriya Vidyalaya in Sambhal District and Navodaya Vidyalaya in Kundarki Assembly Area",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to establish a Sports stadium of International standard in Sambhal, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to provide direct rail service between Sambhal and Delhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to reopen the schools closed down in Sambhal district of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Improve Implementation and Expand Coverage of Ayushman Bharat Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to provide Aadhaar card and Passport facilities in Sambhal district of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishment of a Kendriya Vidyalaya in Sambhal to Ensure Quality Education for Children",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Guarantee of MSP and Loan Waiver for Farmers to Prevent Further Agitations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to establish a Kendriya Vidyalaya in Sambhal Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt to connect the railway line from sambhal to gajraula",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Regarding establishment of an AIIMS in Sambhal or Moradabad",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Issue related to the muharram procession",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 101
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/zia-ur-rehman"
+  },
+  "qualification": "Post Graduate",
+  "questions": 16,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Defence": 1,
+    "Electronics And Information Technology": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 2,
+    "Law And Justice": 2,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Statistics And Programme Implementation": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PARMESHWAR LAL SAINI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 21,
+    "legislative": 55,
+    "mplads": 33,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 3,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 18967476,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.8
+}

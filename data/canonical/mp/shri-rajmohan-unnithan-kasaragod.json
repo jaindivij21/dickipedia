@@ -1,0 +1,681 @@
+{
+  "accountability_score": 33,
+  "age": 73,
+  "assets_2019": 21570257,
+  "assets_2024": 32432135,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 550000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 16130000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 31680000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 30000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5227716
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1596000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 78671xxxxx Annual Premium Rs.28801 1,15,204 1 Lacs+ LIC Policy No ",
+        "value": 1841131
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2688088
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4399200
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15782135
+  },
+  "assets_earliest_year": 2016,
+  "assets_history": [
+    {
+      "label": "Kerala 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=uNhBt8VSnqYnzKphQS",
+      "total_assets": 17993838,
+      "year": 2016
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=uNhBt8VSnqYnzKphQS",
+      "total_assets": 21570257,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2287",
+      "total_assets": 32432135,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 80,
+  "assets_latest": 32432135,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rajmohan Unnithan is an Indian politician turned film actor who is a member in the Lok Sabha representing Kasaragod constituency and a member of the Indian National Congress.",
+    "title": "Rajmohan Unnithan",
+    "url": "https://en.wikipedia.org/wiki/Rajmohan_Unnithan"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Kampiyil House, Mudra-2 Mudavanmugal, Poojappura P.O Thiruvananthapuram Kerala, 695012",
+    "emails": [
+      "rajmohan.unnithan@mpls.sansad.in",
+      "rajmohanunnithanmp@gmail.com"
+    ],
+    "phones": [
+      "4672951800",
+      "9447590800",
+      "9013997183",
+      "1123310817"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 2,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC 134/2023",
+        "charges_framed": true,
+        "court": "Judicial First Class Magistrate Court, Ambalapuzha",
+        "fir_no": null,
+        "other_acts": "Section 4(2)(a), 4(2)(e), 4(2) (f), Section 5 of Kerala Epidemic Diseases Ordinance",
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "149",
+          "188",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "convicted"
+      },
+      {
+        "case_no": "CC 187/2019",
+        "charges_framed": true,
+        "court": "Judicial First Class Magistrate Court-III, Kollam",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "143",
+          "147",
+          "188",
+          "283",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "convicted"
+      }
+    ],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Sexual harassment (unwelcome physical contact,advances,demand,request for sexual favours, showing pornography, sexually coloured remark)",
+        "section": "354A"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 3,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 3,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 2,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal trespass",
+        "section": "447"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC.No.974/2023",
+        "charges_framed": false,
+        "court": "JFCM-1, Kottayam",
+        "fir_no": "1642/2023, Kottayam East Police Station, Kottayam",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "145",
+          "147",
+          "447",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.104/2021",
+        "charges_framed": true,
+        "court": "Addl. Chief Judicial Magistrate for MPs and MLAs Ernakulam",
+        "fir_no": "425/2021, Harbour Police Station, Ernakulam",
+        "other_acts": "Section 4(2)(e) & 5 of Kerala Epidemic Diseases Ordinance 2020",
+        "sections": [
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.873/2019",
+        "charges_framed": false,
+        "court": "Judicial First Class Magistrate Court-III, Palakkad",
+        "fir_no": "1026/2018, Town South Police Station, Palakkad",
+        "other_acts": null,
+        "sections": [
+          "354A(1)(IV)(2)"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC.No.2227/2017",
+        "charges_framed": false,
+        "court": "Judicial First Class Magistrate Court-I, Cherthala",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "500"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 8,
+  "dob": "10/06/1953",
+  "eci_state": "Kerala",
+  "email": "rajmohan[dot]unnithan[at]mpls[dot]sansad[dot]in\r\nrajmohanunnithanmp[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 990000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1031070,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 716250,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 840000,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 693070,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 604790,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 640700,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 775720,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1684103,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Member of Parliament"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pensioner"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹13.62 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 136208701,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 2,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 678829
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 678829
+  },
+  "margin_votes": 100649,
+  "minister": false,
+  "mp_name": "Shri Rajmohan Unnithan",
+  "mplads_allocated": 156754633,
+  "mplads_expenditure": 20545932,
+  "mplads_unspent": 136208701,
+  "mplads_utilisation_pct": 13.1,
+  "mplads_works_completed": 50,
+  "mplads_works_recommended": 168,
+  "mpsno": 5127,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-29T03:18:53.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "'Kasaragod ജില്ലയില്‍ UDFന് ഇഷ്ടമുള്ള ഒരാളെ മന്ത്രിയാക്കണം' | Rajmohan Unnithan | Congress",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEx3OHZxaXFuQTFaQ2I1azFObktvQUZuWkV6YXF0dGtOZk9sbVhtdDB2X2lvTmZnTjBTWG10RGo1RS1XVmtXWnhrRnN4S3llUVF6VUpWUmlBaGxpUGhIbUNEVE1naEowXzlWdVZ0eUNsYXpxRUhyWTNURHFVR2lsNU1xU0lmck9XTHFzaGRYc1k3VDVpalNFZGdXODZ3YWJ0?oc=5"
+    },
+    {
+      "date": "2026-05-19T18:29:07.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Rajmohan Unnithan to undergo vocal cord surgery; Kasaragod constituency programmes cancelled",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnVlV1ZhLUJtcWVBbE51aDVKdlFpX3JZNWVTcVFUeHJ0eGJEbTBpOWdDNDJLUnlIRXlMLUs0M0QycVYtOE44dmxycFRJWEhTcWVTdDB6d2I3a085dlFjS1B5dmdzNnJTTml6ckl3TnR0ZUN2Y1JBeGtKb2Zsd3Nzd19GUHE4NFRiS2hUMk4wUE5LTkNTZGRLZEUyaThtUHRTd1Fja0IwTDAzeXY3TnhZbzFnQ085RzNIaWJGMDdiMWRCaE9LcGpoeU9yQi1YRUYwREFjaDhMWmx4MEV0SlNmTzln?oc=5"
+    },
+    {
+      "date": "2026-05-19T16:10:14.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "Rajmohan Unnithan to undergo vocal cord surgery; Kasaragod constituency programmes cancelled",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUdvb05QY3V1ODA3dUE2cEFWSVoxUGdLMldFUmJ2d0ZJVGJGb3BiSUU1XzdGWHAxSURGVzUxMkV5N1MyaVRzcDByYkpPWXlva1dTUXRrb1VIdlZPWW9yZmg0ZjJkOENFN1VEaVpDc2dmMDU3QVBCTjl3Y1d6a1dyUG12MDI5SFpaV1cwUHc2VjZiallVbmVkTjFPODhGaWVHcGNGR9IBpAFBVV95cUxPTUdvb05QY3V1ODA3dUE2cEFWSVoxUGdLMldFUmJ2d0ZJVGJGb3BiSUU1XzdGWHAxSURGVzUxMkV5N1MyaVRzcDByYkpPWXlva1dTUXRrb1VIdlZPWW9yZmg0ZjJkOENFN1VEaVpDc2dmMDU3QVBCTjl3Y1d6a1dyUG12MDI5SFpaV1cwUHc2VjZiallVbmVkTjFPODhGaWVHcGNGRw?oc=5"
+    },
+    {
+      "date": "2026-05-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "Kasaragod deserves a minister, voters may see denial as an insult: MP Unnithan",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakRLamJ2WFpwUXBKOWQxZFBVbEhNaDJwMWtrVEVMR2xuZGJsVnpjOWx0RFFXSlZFZzFRdkw2NEFBZ0lGc2V6TVV0VDhETGhfVVpzQUhEYTNIUVQwSVJOZEJXUzdlMVl2VU9kNWRFTVJRMERnbWdQWmhNM192YTVXZ2dmbjgzQdIBhgFBVV95cUxNakRLamJ2WFpwUXBKOWQxZFBVbEhNaDJwMWtrVEVMR2xuZGJsVnpjOWx0RFFXSlZFZzFRdkw2NEFBZ0lGc2V6TVV0VDhETGhfVVpzQUhEYTNIUVQwSVJOZEJXUzdlMVl2VU9kNWRFTVJRMERnbWdQWmhNM192YTVXZ2dmbjgzQQ?oc=5"
+    },
+    {
+      "date": "2026-05-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Onmanorama",
+      "title": "KC Venugopal cannot be sidelined; leaders silent fearing social media attacks, says Unnithan",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVk5wTlc2Uk5RS3h3VlpTeFNKQzlvU1ZPYXJLSmljNDZ2VDBwTkkyU1NLczhMMmNaa3pUMl9JdVVNVDA0MXpWdS1iVE9FeFJPUElZVnR6OTZIdEhTc3VCT1dWc0tYdEQ5RWFSbm9kQW03RFdpcmxuRzJScUxwWGN2aTdJTW1BbDh3QzQwSC01WldKUkNvaHhVdXEyRkNfRVRyY2l3TS1ncmRUUGU0SUJ6aFJJU21tVlN0T1BtSDZYWHUwaWIxSDIteUQyZTlqUXY2cjRxbUJaSVlYb1V2U3fSAd4BQVVfeXFMT1ZOcE5XNlJOUUt4d1ZaU3hTSkM5b1NWT2FyS0ppYzQ2dlQwcE5JMlNTS3M4TDJjWmt6VDJfSXVVTVQwNDF6VnUtYlRPRXhST1BJWVZ0ejk2SHRIU3N1Qk9XVnNLWHREOUVhUm5vZEFtN0RXaXJsbkcyUnFMcFhjdmk3SU1tQWw4d0M0MEgtNVpXSlJDb2h4VXVxMkZDX0VUcmNpd00tZ3JkVFBlNElCemhSSVNtbVZTdE9QbUg2WFh1MGliMUgyLXlEMmU5alF2NnI0cW1CWklZWG9VdlN3?oc=5"
+    }
+  ],
+  "non_serious_cases": 5,
+  "nota_gt_margin": false,
+  "nota_votes": 7112,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-1",
+  "pc_name": "Kasaragod",
+  "pending_cases": 4,
+  "phone": "Tel: (011)23310817",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180207.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 78
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Regarding need to expedite approval to the proposed mini Fishing Harbour project at Kanhangad in Kasaragod district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need to release revised pension and arrears to EPF pensioners as per the judgment of Supreme Court",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Urgent Appeal for Central Assistance to Prevent Sea Erosion in Kasaragod, Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to allocate additional 5Kg of rice to non-National Food Security Act card holder households of Kerala during Onam festival",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Immediate Action to Rescue Seven Indian Seafarers Kidnapped by Pirates, Including a Constituent from Kasaragod",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Introduction of a Universal Cancer Insurance Scheme to Ensure Equitable Access to Comprehensive Cancer Care",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Expedited Approval and Implementation of Coastal Development Projects in Kasaragod",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need for long term and comprehensive measures to address the problems being faced by people due to erosion along the coast of Kasargod, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Increased Honorarium, Timely Payments, and Pension Benefits for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to accord approval to various development projects pertaining to development of fishing harbours along coastal belt in Kasargod Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Urgent Measures to Address Growing Man-Animal Conflict in Kasaragod, Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding decline in Hajj Pilgrims choosing Khozhikode embarkation point amid soaring costs",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to make �Saha Jeevanam Sneha Graman� centre for Endosulfan victims in Kasaragod, Kerala fully operational as rehabilitation Centre",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to provide financial assistance for rehabilitation works in landslide affected areas of Wayanad, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Regarding need to set up an institute like AIIMS at Kasaragod in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Urge upon to govt. to intervene in the matter related to the wages of the MGNREGS in kasaragod",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding distribution of wage arrears under MGNREGA in Kasaragod Parliamentary constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 23
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 111
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajmohan-unnithan"
+  },
+  "qualification": "Graduate",
+  "questions": 35,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Civil Aviation": 2,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 1,
+    "Defence": 1,
+    "Education": 3,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 3,
+    "Finance": 3,
+    "Health And Family Welfare": 1,
+    "Information And Broadcasting": 1,
+    "Law And Justice": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 2,
+    "Rural Development": 2,
+    "Tribal Affairs": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "M.V BALAKRISHNAN MASTER",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 23,
+    "legislative": 66,
+    "mplads": 35,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 32432135,
+  "total_liabilities": 678829,
+  "wealth_pct_increase": 50,
+  "winner_vote_share": 44.1
+}

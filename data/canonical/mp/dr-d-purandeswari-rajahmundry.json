@@ -1,0 +1,629 @@
+{
+  "accountability_score": 39,
+  "age": 70,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 37384000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 320000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 139631504
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 497015504,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 113100
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 18808980
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 320687
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 81583575
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 17299300
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2000000
+      }
+    ],
+    "movable_total": 128025642
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=aYcD2HcdH46J34tSFdwj",
+      "total_assets": 84841544,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=aYcD2HcdH46J34tSFdwj",
+      "total_assets": 324038450,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5122",
+      "total_assets": 625041146,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 637,
+  "assets_latest": 625041146,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Daggubati Purandeswari is an Indian politician from the state of Andhra Pradesh. She served as president of Bharatiya Janata Party (BJP), Andhra Pradesh. She is currently serving as a Member of Parliament of Lok Sabha representing the Rajahmundry Lok Sabha constituency.",
+    "title": "Daggubati Purandeswari",
+    "url": "https://en.wikipedia.org/wiki/Daggubati_Purandeswari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "D/No.85-37-5, Besides S.V. Function Hall J.N. Road, Rajahmundry, East Godavari district Rajahmundry Andhra Pradesh, 532001",
+    "emails": [
+      "purandeswari@gmail.com",
+      "purandeswari.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "4023394959",
+      "8594242434",
+      "9910795666",
+      "1123035738",
+      "1121410273"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to quarantine rule",
+        "section": "271"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for public nuisance in cases not otherwise provided for",
+        "section": "290"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "I Addl JFC Magistrate Nellore",
+        "fir_no": "Crime No. 266/21 of Kavali Rural Police Station Nellore District",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "143",
+          "269",
+          "271",
+          "188",
+          "290",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "22/04/1956",
+  "eci_state": "Andhra Pradesh",
+  "email": "purandeswari[at]gmail[dot]com,purandeswari[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 280200,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 360440,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 380000,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6665710,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 846860,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1709540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1386580,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1085270,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1036530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 879600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2007-2008",
+        "income": 136500,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business/Agriculture"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹54.02 Cr between affidavits, while declared income across 5 ITR years totalled ₹85.3 L.",
+      "headline": "Declared assets rose 63× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 540199602,
+        "declared_income": 8533210,
+        "itr_years": 5,
+        "ratio": 63
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹8.48 Cr (2014) to ₹62.50 Cr (2024).",
+      "headline": "Declared assets grew 637% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 84841544,
+        "from_year": 2014,
+        "pct": 637,
+        "to": 625041146,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹13.96 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 139588506,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Bandi Venkateswara Rao 6,50,000 6 Lacs+ Aquqtica Frozen Foods 60,000 60 Thou+ MV",
+        "value": 69860440
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 69860440
+  },
+  "margin_votes": 239139,
+  "minister": false,
+  "mp_name": "Dr. D. Purandeswari",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 7411494,
+  "mplads_unspent": 139588506,
+  "mplads_utilisation_pct": 5,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 29,
+  "mpsno": 4022,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "MP D. Purandeswari calls for alternative road access for East Godavari farmers from upcoming railway boundary wall",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUFJoNWE2VTU3Uk5ZRUZlVHNBYjB4SjdxR2FqZnVtRHAxTW9IejZZM25XS1B2b1kxbzFYR2E0UmpEMklJMHpxaE40eWZMRWNzdnhFT3ZDV201QkwySm5Qc2k1bDJMRndvSTZzb1N2cFdWM2NEb2JzUVJacEI2d3d6eWRGRHlIRER4RGp5OVM4cGwyNzdTUUdvVFMzVkFIc2VCWlJvSnl2cEJmSEJ3eXd0eU93cUVXaTZxQkZHdjRUMnRvQ0NuMl9uRXVJOFhVX0xseFRnVENVeHRUWWItZUJOaUh3UGxBbzNXbFU1SXYwamlCQ0Mydjc0a0xaUHJObExIMlBweTRwWEJQbmJhdElpdUJDOWtKUdIBnAJBVV95cUxOdG5NZVZfVlJvemYxOUM0VXZxTTAxdU12NjFtbG45WnlLYmt3cllodm5iNkdVblFYakFFQzVXX213T3FUMU1GbC1IczJmclBZbW1CcFZlclpyaWxMNmREZ3lWSTBPUDdHd1pDTk01WFc0YWRoc2ZVLUUwU1BuZWVUTDlobGJZQ21qcmQtSUZDS2dxRjJvSkc0Q2ZIN1Y1bWI0MXdYTFdsUVQ1QjYzd092VXl0ZUIyaVV6VXJFb3JwZ0J1dXNxSWRpX1Q0WGNpb1NrOU1PZ0dfekwzZGFMNWdBZFdCcUNzdlBETVNkMFdvR0dJc2hWb0ExcUZjemthNjJFY2RJREhDc3J0V1BNd3dJRVFDSDZkcTRRdm5XSA?oc=5"
+    },
+    {
+      "date": "2025-11-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "8 Crore Pilgrims Will Attend 2027 Godavari Pushkaralu, Says Purandeswari",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLXpyNzE2WUc3eVRubnUwTXRFZnNzTFY1VTU3dXZqQWxETm80MnFDSFctaGFHeEhZY2NOTVJXY2dYNUs2WVV0X2lmclhVQ2lNa2FmY1g5SFZlVXBTU0xPQUlEeGZnakp0YlRSWjZQbzZ0RG9mbTJKZUNkNlhTc1JqRnVJUkZfMS1oTFNRUG45U3lsYUFNcXhsTHZfcHBoWElXNzlCSGNJV2xKMDBlaXRsSE0yaXN6emJsWFg0UktUNC1VXzlmSXIwSHZ1a2p4bEotRWtNaWhnUEg0QdIB3wFBVV95cUxQUmZ3c3dpZ3BHOEVyYTlwbWw2OFdIdk5VRkhRc0tJWWg0eU15aXVGYW1EOWkwSUlIeHZobkZxVHJvdFJoVHJpVlhrcFdCdlVRWmhUM1htT3BhY29BY252RFRuOThNQVZ5djZFWl8wMnF0R0JiRXZoMkZNN0VtNHpnQkhuakVrU1NvS0JjOGNPQWFleWI5RldNZkZUXzU0dHRUWkY3YmllVkZ5V1VTY3AyRVE3anQyb0IxSC1lVUhwNEY5aV9MYUNucXhLNEQtdk9CMUFmaGFkR0N3RHI0SzBF?oc=5"
+    },
+    {
+      "date": "2025-04-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "MP Purandeswari promises ₹35 lakh to renovate Veeresalingam’s house",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXVKeS1SLVJxZm95MFJoV0Nna19TZm1wNVRSUWZ4ZmtUejNZdU9CWGQtQ0NFeXp0WENYeFNybHExY0hCZ3BsZ050QXlzcjYyNHlSMmN4M0p0VEJHdEt3VW5oamZ5MmgyZnVraWhzNFNkdjZTcmtkOUpFNXJpSUptWW1UNm1vUkVtdDVQcGc5SmJzQjNZRnUzN1ZaTHh6Ujh6Ukxzem9JOHo2c1c5eFdrczNQdVI0RnRpRXJ2SElpdGZyTDN2SzFMaFU5VGE2cWVhZTVaMFJ30gHcAUFVX3lxTFBtNGhhVkN3Q0NuMTVkbkxRa2JXOUt6ekFHeHBKcFNYV0N6MmFZOFVOOG5fcXg2UXk5QVVIaUxHMGhTMW9LNDhSOWJSdzV6LTBUVlJBa2t6N2o1dUxuUmdTQkVrWHdmMmItSlc0ckNEcFlCTFdXbklKeFR0T0dNcExmVUhoQUdiRGh1YlZGWkNuTzlXMnk0Y0F5cllTQXBLOFJYdXZTUm93SHRXNjdpS3FsSzFCVEhUMWV1NmxNbmtrLTRmMTNxcVFpc2NIYTd3VEV6cGxXQzYtRG11WkM?oc=5"
+    },
+    {
+      "date": "2025-02-25T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Jagan attended assembly session only to avoid disqualification, says BJP State President D. Purandeswari",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRHM5emxwMGdmWmZIc0NXbWdsNjBZdTNrOGx1WnAwSFJKVk9kUU9ReWpnVWtnRmlLb21zT3RDbkR1TENEcEQ3RWpDNVBuVU9ud1V6M2wySDh6Vjdyc0FJX3NmdUFrZzdHTlcyazJKS3YyMEV1MUJVMXQ5YUFVMTY4dDVmd3RLdXR1a2twbDVYRWhsbW1hRHluNmZuamQxTGZwczlUclRheWpsSk9kX192V1NDbUpMZEI0Z1Y3cUxzVFR6QnAzTU9oQjVYUGI5MGU3NjVfc0VWUWxvS0xUNUFJWVdhMmd6eTIwTEU0bHVsSy1hXzBOblpieWJLTUhIUEZFS0M3cXQxONIBjgJBVV95cUxNclZTVkx2TUlGVlBPdDNRQ0JmV21NYUpGdHRqZkdvWHBiUVU5eXBNSjhkTWV5TlFKcGFTU1BsajFxU0V1bS1yZFJOeS1udmR5eGE0SG1STENVa3U1bGZWXzZnRlhoOHE1QVQ0TjlVUlBuUGxWU3BfZkMzeTl1TkZBSVpnbi1TUXJjLW51bXNvQ0VPczI4dkR6cmZrOTZqcmNBb2F4eFd2eUFsMDk0QTVRbTZpVWFhSW1USW1LYnZNR0dVcmJqUy1naW5nY3hBSXcyREtQWDFPM0JJbmpLYWFJTG9DdWFVTk5hdWJtT3VNeXhTYWNqNHhvSnlQakR2T3drUWs3a2lnUC1ndmlqWGc?oc=5"
+    },
+    {
+      "date": "2024-10-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Centre strongly committed to development of AP: Purandeswari",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU9RTndTWkVhazN0ZzcwVFB5dF9XMVh0Tl90c2ZTdEFud0VrMU9MVjlSQTRvOVJQbHBFOW9jV3Z5cEcweHozMi1RR1AxMExRUERkY0JRaVBBbkN3TXVSMEV6QU0xRmU3TjExTUNkejFyVzRxR3dqNzJFSm1Fdm1fOFMxTENLRGFqR3RuT250Y0J3WkNHM21UUTVadEhwb1BsMnhoTmtzTndIN0pEbEdn0gG0AUFVX3lxTE51ZHlMSkRWaUQ1eGh2SlVoN2ktaGU3bVJKYWdvNF9HOTZObFJ5SjhPb0xaaDZJY2RNVWNLT0xUa2xGMHJONFRCelBmeEJmc05qR0Q4aEFkb2FsSjNOUHFra0hhRmoxc1RsZ3FqblR3RXNXWTB1THQxSEJHSnFGaXowVU9SNlJOMnhjR0FTNkwzN2VvRjBfZl8yT1ZVZjU0czA3ZFh3TFoxeG8ycUNuX2xCVklDTg?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 24435,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "andhra-pradesh-8",
+  "pc_name": "Rajahmundry",
+  "pending_cases": 1,
+  "phone": "011-23035738, 011-21410273",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180010.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to provide all-round asistance for upgradation and modernization of Palm-Oil Processing Mills in Andhra Pradesh under National Mission on Edible Oils � Oil Palm(NMEO-OP)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to introduce regular district level skill development programs for capacity building and community engagement in health and nutrition services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to sanction a special package to address severe air pollution in Rajahmundry, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to include OPD services and posthospitalisation medication in Ayushman Bharat-PMJAY Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to collaborate with premier Agricultural and Scientific institutions for empowerment of farmers with region specific agricultural knowledge",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need for introduction of graded front of pack nutrition label and �health tax� on sugary beverages and ultra-processed junk foods",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to establish multitemperature air cargo facilities in all the airports of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need for restoration and holistic development of Kuchipudi village, the birthplace of Kuchipudi dance, in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to establish a Regional office of Coconut Development Board in East Godavari, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to modernize the Yerracalva Reservoir Project in Eluru district, Andhra Pradesh with strong embankments and increasing reservoir capacity",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to develop Rajahmundry in Andhra Pradesh under HRIDAY Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to acknowledge Rajahmundry in Andhra Pradesh as a heritage city and include the same under HRIDAY Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding stoppage of trains at Kovvur Railway Station",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 167
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/daggubati-purandheshwari"
+  },
+  "qualification": "Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 2,
+    "Coal": 1,
+    "Commerce And Industry": 3,
+    "Communication": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Culture": 2,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Heavy Industries": 1,
+    "Jal Shakti": 1,
+    "Mines": 1,
+    "Prime Minister": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 2,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. GUDURI SRINIVAS",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 1,
+    "legislative": 64,
+    "mplads": 6,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 625041146,
+  "total_liabilities": 69860440,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.82
+}

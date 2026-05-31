@@ -1,0 +1,604 @@
+{
+  "accountability_score": 30,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 915000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3980000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10400000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 230000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 151859
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 59805xxxxx 41,445 41 Thou+ Policy No 58775xxxxx 41,445 41 Thou+",
+        "value": 1172890
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 520000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2085000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 7574886
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RAaDeZWUxUzbzJ8Pgyz",
+      "total_assets": 5756318,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RAaDeZWUxUzbzJ8Pgyz",
+      "total_assets": 5405384,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9616",
+      "total_assets": 17974886,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 212,
+  "assets_latest": 17974886,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dr Bibhu Prasad Tarai is an Indian politician and leader of Bharatiya Janata Party. He was a member of the Indian Parliament from Odisha in the 15th Loksabha. He represented Jagatsinghpur.",
+    "title": "Bibhu Prasad Tarai",
+    "url": "https://en.wikipedia.org/wiki/Bibhu_Prasad_Tarai"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vill-Mangarajpur, PO - Mangarajpur, PS- Kujang, Jagatsinghpur , Odisha, 754141 PO - Mangarajpur Jagatsinghpur Odisha, 754141",
+    "emails": [
+      "bptarai1@gmail.com",
+      "bibhuprasad.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9437318470",
+      "7978194318",
+      "1123351101",
+      "9013180319"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 2,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 2,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+        "section": "145"
+      },
+      {
+        "count": 1,
+        "description": "Public servant unlawfully buying or bidding for property",
+        "section": "169"
+      },
+      {
+        "count": 1,
+        "description": "Wearing grab or carrying token used by public servant with fraudulent intent",
+        "section": "171"
+      },
+      {
+        "count": 1,
+        "description": "Obscene acts and songs",
+        "section": "294"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR 253/21",
+        "charges_framed": false,
+        "court": "J.M.F.C, Tirtol",
+        "fir_no": "PS Case No. 261/21, Tirtol PS",
+        "other_acts": "Section 51 Disaster Management Act 2005, Epidemic Diseases (Amendment) Ordinance 2020",
+        "sections": [
+          "143",
+          "145",
+          "149",
+          "188",
+          "269",
+          "270",
+          "283"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR 916/21",
+        "charges_framed": false,
+        "court": "J.M.F.C, Kujanga",
+        "fir_no": "PS Case No. 314/21, Kujanga PS",
+        "other_acts": "Section 51 Disaster Management Act",
+        "sections": [
+          "143",
+          "149",
+          "169",
+          "171",
+          "283",
+          "294",
+          "506"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR 754/21",
+        "charges_framed": false,
+        "court": "S.D.J.M., Jagatsinghpur",
+        "fir_no": "PS Case No. 325/21, Jagatsinghpur PS",
+        "other_acts": "Section 51(b), 56 Disaster Management Act",
+        "sections": [
+          "188",
+          "269",
+          "270",
+          "34"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "17/06/1964",
+  "eci_state": "Odisha",
+  "email": "bibhutarai[at]rediffmail,bptarai1[at]gmail[dot]com,bibhuprasad[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 304590,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 447400,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹1.22 Cr between affidavits, while declared income across 1 ITR years totalled ₹3.0 L.",
+      "headline": "Declared assets rose 40× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 12218568,
+        "declared_income": 304590,
+        "itr_years": 1,
+        "ratio": 40
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹14.06 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 140574354,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹57.6 L (2014) to ₹1.80 Cr (2024).",
+      "headline": "Declared assets grew 212% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 5756318,
+        "from_year": 2014,
+        "pct": 212,
+        "to": 17974886,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 950000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 950000
+  },
+  "margin_votes": 40696,
+  "minister": false,
+  "mp_name": "Shri Bibhu Prasad Tarai",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 6425646,
+  "mplads_unspent": 140574354,
+  "mplads_utilisation_pct": 4.4,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 239,
+  "mpsno": 4423,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-11-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "MP Bibhu Prasad Tarai Escapes Unhurt As Car Hits His Vehicle Near Hajipur",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3FXWXVtbWdpVTJxd2xjX0pyWGt0dURBb0ZyVVd3OFcydENMWXFzWDdqaVJKV08tNGw1LVZNV3pSSHRCbzVuSzM3Y3RBQTBpQ3VqVG5rVFI5WVBOZmxYZFV0ZDZDMnRYRml2bWd5MGc5blN6ODBUd0NGQXVHYmh4dlp0QzlpaDYtSGtFYW5BdmoyZzdUazRGV1Fsc1J3NVBOSEdZY1c3UW0wdkVaYW4wSlFBXzkzUkRY?oc=5"
+    },
+    {
+      "date": "2025-11-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kalinga TV",
+      "title": "Jagatsingpur MP Bibhu Prasad Tarai’s car meet with accident, escapes unhurt",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2t4UUVmZ21jNjZLWjYwYTVtS1FpS3dJSjY3X3BTWVA2T1FJcG5idGVNVTR6NUhTUFBiVHc0SkF2NF96dHZEanotSTZWcUwwMTFLNHpHbUxvcC1nVmdGVUpnbnI2MDVFRWpuM2pSTGxtZ2YxWVhKc0pJZDhtdllaUEtjNXhmcGFyakt6OEpNRUVHVGFKWEliTTl1b1NpbVNJYUZVYlNR?oc=5"
+    },
+    {
+      "date": "2025-11-29T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Sambad English",
+      "title": "Odisha MP Bibhu Prasad Tarai narrowly escapes major road accident",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWV2VXRjSHY3SmtJa1Y2ZFdHNE0xOUlqUy1EVUtsR1VrN0E4Tmlzb24xazNfVjZhenhDT3FsQjltTE9KXzM4N0t4TUh6eU5Uc1pEd214Q3R6V1hwSzdUZmNBSTVERndSTFNocjd4T3Mtenc5NWVJalBfdTloWFlQLU02OGpCeXZScU9Sd2xPX05UcUZmb3RMVlFrRUgtS3FOallDZzNWalFVaGlBNTlMZWF30gG3AUFVX3lxTFBmTVdIU0gyUzBkVGNJektYRi1YN1BKNVFFT0VEMkZaaVN0aHhLdVFCZ2dYbWJ2aGZhS1lMQ3JwYnhCQ3NvNjFHYlp6ZTN1dnlnTlBIZHFOZVVmdmZrSGUzd3dPaEoxdl9LX2o4Y1pwb2NvLUdybTBZc1ZzXzM0UlZUQkt1SVpxbjNuSjJJNEp5ZlcyWkN5YlJ1dFhoZEI0OVZLRzMyTzZqclowOVdUdmZPd2ZoV3BOTQ?oc=5"
+    },
+    {
+      "date": "2025-11-29T07:35:19.000Z",
+      "flagged": false,
+      "publisher": "pragativadi.com",
+      "title": "Bibhu Prasad Tarai’s Car Hit by Speeding Vehicle in Jagatsinghpur, MP Unhurt",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTQ3OF80ZzJ0V1dmaHQwVUI5N0xad1lfT0MwdTkweERfLVN1c09vU3pTSnJEVV9jYy1XZDNBLTZlV3JBU2ZYMDBlN3gxWWpQRDBwRDF3MmNrcmdnZG5fMmlRTVpOaklqdXN3SkhKNGNGWWdDdllhdkJTS2pPQ0FQRGsyd2xfM0JXZ0xzVkxaaDVKcE1yUy1jT0U0NXFvUHNi?oc=5"
+    },
+    {
+      "date": "2024-10-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MP Tarai’s daughter among 683 who cleared OCS exam",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUWQ1WDdTdms4TjlzcmJjWkNjemFLUmhEc25laEw3dmtSNUxjeTA5Z0xLWHBUNmE4ODBFeEVPTlVFLTc1SWMyd2Jlc25MTHNCRFpGNkk0VXNPeEgwblBiZWtueWhMeWNqSkJqOW9XdUx5SmE2TFZ4R1BGWGl6aHkwVXFsb2ZFWjRiMExfVy1TZjNjUko4MlYxamN1RE16SThKQ29lWU9NbFluX3RYVjMtWk14d18wNlhqRHJxQzNGUFZORkp1TXBiZ0VCMVJYLWVlcl94R2JFY094NVZiMjZWSE5oYmk0bGZRQmtNaG9GMWVzdW960gH6AUFVX3lxTFBNdGswRkRwbmNwa2dNd1pzX2JBZXc2Qy1UczJNTlVLbVJwU1BDcjJkSDVZS1JGbk1lLV9RUmFEMzBRRUx5U1NjbHA0bHI3Z2F0bTZRMmgwYy1IRkdkZkNoRHAxTHhYMHBQY25nYXZXMWFBa2RPMlhMT01uMnkxX3lNZE96aHlFd0k4NDJtWnlQYU1vVTNPYmFxXy1nZzQ2R09UdmNIcFg4YW9IYnJleWFMb0lyYU1fakZXZHg4ekZQTDNKcHpqa1ZlUE94ZzRla2c5eFh1NHlGTmktR1o3a1ZDUVNtMW0wcWpyeUNxNFBuU0F6YjJsVWRVdGc?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 4882,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-16",
+  "pc_name": "Jagatsinghpur",
+  "pending_cases": 3,
+  "phone": "Tels.(011)- 23351101,  09013180319 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180305.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Issue Related to Alleged Protocol Breach During the Visit of the President of India to West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Urgent Appeal for Rescue and Repatriation of an Indian Worker Stranded in Sudan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to take comprehensive measures to empower the young mass of Jagatsinghpur district in Odisha as skilled micro entrepreneurs",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to ensure healthcare services to all the employees including contractual workers of Paradip Port Authority through Paradip Port Authority Hospital",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to expedite implementation of projects approved under Pradhan Mantri Matsya Sampada Yojna (PMMSY) in various parts of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to re-open the Fishery Survey of India base office at Paradip, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Inclusion of Puri and Konark in Top 50 Tourist Destinations for Enhanced Development and Global Promotion",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to establish airport in Paradip in Jagatsinghpur Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to rehabilitate the slum dwellers in Paradip Port area in Jagatsinghpur Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding alternate route for proposed expansion of Chandikhole � Paradip Section of NH 53 in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need for construction of sea-wall along the East coast stretch from Ganjam to Balasore in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding establishment of a medical college in Jagatsinghpur district of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 176
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bibhu-prasad-tarai"
+  },
+  "qualification": "Post Graduate",
+  "questions": 22,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Corporate Affairs": 1,
+    "Culture": 1,
+    "Development Of North Eastern Region": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Panchayati Raj": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Road Transport And Highways": 2,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "DR. RAJASHREE MALLICK",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 31,
+    "criminal_deduction": 3,
+    "legislative": 48,
+    "mplads": 6,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 17974886,
+  "total_liabilities": 950000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.8
+}

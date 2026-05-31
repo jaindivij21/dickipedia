@@ -1,0 +1,609 @@
+{
+  "accountability_score": 45,
+  "age": 51,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 23337435
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8804000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 2100000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": 2500000
+      }
+    ],
+    "immovable_total": 36741435,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 405060
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 6144062
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1370004
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 39279
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1211000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 28477404
+      }
+    ],
+    "movable_total": 37646809
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xgAHn243bzYLjcbMfdHJ",
+      "total_assets": 19108216,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8159",
+      "total_assets": 73638343,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 285,
+  "assets_latest": 73638343,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ram Shiromani Verma is an Indian politician and member of the Lok Sabha, lower house of the Parliament of India from Shravasti constituency, Uttar Pradesh. He was elected in the 2024 Indian general election and 2019 Indian general election as member of the Samajwadi Party and Bahujan Samaj Party respectively.",
+    "title": "Ram Shiromani Verma",
+    "url": "https://en.wikipedia.org/wiki/Ram_Shiromani_Verma"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Lakhaichanpur P.O. Chamurkha, Akbarpur Ambedkarnagar Uttar Pradesh, 224151",
+    "emails": [
+      "ram.shiromani@mpls.sansad.in"
+    ],
+    "phones": [
+      "9838127700",
+      "9013997461",
+      "1123232477"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 15,
+  "dob": "05/08/1975",
+  "eci_state": "Uttar Pradesh",
+  "email": "ram[dot]shiromani[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2637810,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2455200,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2460120,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2307720,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2465260,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3891990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3329740,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2801780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2316920,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2173948,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business and Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business and House Wife"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹14.99 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 149880972,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹1.91 Cr (2019) to ₹7.36 Cr (2024).",
+      "headline": "Declared assets grew 285% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 19108216,
+        "from_year": 2019,
+        "pct": 285,
+        "to": 73638343,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 100000
+  },
+  "margin_votes": 76673,
+  "minister": false,
+  "mp_name": "Shri Ram Shiromani Verma",
+  "mplads_allocated": 151746878,
+  "mplads_expenditure": 1865906,
+  "mplads_unspent": 149880972,
+  "mplads_utilisation_pct": 1.2,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 1455,
+  "mpsno": 5164,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-01-15T06:46:21.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Ram Shiromani Verma , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2hFV3FidGEzdjFZU25SWWtiQnU5MFp5TEtUTXhESDFrdDl0SzBERko4Q1pPVF9zOHVmeHNrSGViTW1fNE9xRzJINW5qRS0tVENmWmhSeGZTVFkxd2ZPZy0tUFJsUk95SkxRN1hCY1pyNThpR3NfTms0aWhwd0ZoV1czTXF5cjRuUWhGLQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Shrawasti election results 2024: SP's Ram Shiromani Verma wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdmoxTklaNzdtUjAzWlhaY3JmUGl1MTdSU1lFdlA1cklzckRCMnVoeFgyWUJ0RTh6RFZsQUhCYVVhUFZuQTRaVEtVZDBlelpscmVwS0taWXRoaGtvSmZFUHNhSFBINGJrQ3poa0xQVEUwNnl4LTdKTHRiYnBXeS05WXdJNnZJaFdhTl9ORTdmV0xwT0dQYWdBaW5FQXdKRC1tRVZ0cXNMbXVhTjhGUWg0RlFuRmozb3pnTHlfUXJsak95NFYwQkVnUTlJVWlvWXU4MTRWUjdDMm5oTEZWeldVbTlhSGTSAeoBQVVfeXFMTlVFTW5TLThZUjFHa3RTcHYtbEw0ZkptWk0zOWl1YVZXb3RyWnhHX1lWU014eWRNcFRjMmplaHpIbXVPRlFhSEdvZVV4OEp5bGZ3YzBKaThFdVd6bVdzTnRaZEQ5V1RjaFhRQTJnYjVkR1FRblBsUFdXdGREVkVMREwtM0JGa3dnWnd5c1RGUjdhalpVQjlGdmYyUHFzbVZRaTg5aTZ4VC1fR1NxMzRWeU5uYXFZTG1udzJhWkRtYUNEMklwbXRWTVZTWURfQ0RkbFhZSXNfaHpUcFJhYVg1RVM0MW54REFlU2R3?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Shrawasti Election Result 2024 LIVE Updates Highlights: Ram Shiromani Verma of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUDJJbGVrSWpsMFlaMGpwMHJuNGZEVXRIRTRJYXEwcnJlSXl0YTdpSHJIdi1sZEROYUoweHN4NENUR2Vlbl9NZjI0VE42U3Z3MENsTmVzQ3Z3c0NJSGNpc29jeUlDblpLUXZJV0M2RmdZYlpPNWgwdEM2Zmt6b0NIazJkRTIxUXUtU3U2OG02bFVUbl8yeFVaMXNyRGlVT0VIdkVCTjIzcTZWMFZHeWwtLXNGdU5XR21BekF5RGR3aDdvd3U5ZHVQVzdrMzkwN0xIaUVYNGdNZy13S21mYVdPUjRaUWbSAeoBQVVfeXFMUDFSTUNYSnJaSnFmSEMwNHNXVU5oWTNzVVJiQkFUN1NpX2t2WUJEV19WdUdwbU1FUHZXdWFnazVOZ0JzWU1kdkRXNjVfQzdMY0tDN3U4dW1mc1ppM0tiRDdSelRkRklqR2hWQ1B2S1Y1NkloM1AyQkJlSHNFUE11OE0zU1JEOWpINElEMmlONzR0S2dpc0lscDlJUkRoNlhOV2JYYUZjb1FzYjRPajY1STBmZllJaDdmc3VaeWtuRldmeTVHSnM5aUFITU9QaGlfZmhPTUt3ZDhpcFhXbUNRbnlQbEcxeFRXYkpn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "lokmattimes.com",
+      "title": "Shrawasti Election Results 2024: BJP Candidate Saket Misra Loses to SP's Ram Shiromani Verma",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcHRmMDhlOElBXzlJRUZsVTlRbWhQOWRhWmZCdkY1T3pGbUh3cnBTdElQMFBSRmJqcHBtSG5ZNVpSWHpnQy1KcGFqTFRLVmlpZzZoalc0YU5EUmR0emFfbGxiX3QxbFRDQkY1NVhvUGpidEM5dDAtOTRDcS1tRktzQVBrSURHbHVCUXNhSVE0Y0xzNXc1Mm5EMEVLeWVyRmZralVhdFN3dHI3bkZoSDA2X1FyTTNiMF9MOFBqaTNNTlg1UTdGRWNkWDIxSlc1dw?oc=5"
+    },
+    {
+      "date": "2024-05-31T18:48:32.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ram Shiromani Verma",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWC16eUU3LUtodDQtWlhQQldscndPQklSREtyVEdNMjh1aDdndlBuMVJULXRVWkxkdjhFQ2VSQjY5UzViZkVyNkNFY2dSLWcxQWM1MWV6emRlUVBjRW8wTUhYQ09lSlVVZDN6aGFsWXpKYm1pVjdHVlFDYzl4VEJzSDJ3YjJhTGhrd3dqNDNyQXpsalRwR3JyMWE2ejZPMExOVU8yMWlXMU8xVTQ1Ul84LVZHTlFEZExTS3dhaEdkX3lHWFlOS3FN?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9872,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-58",
+  "pc_name": "Shrawasti",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23232477, 09013997461, 09838127700 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180480.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Link Voter ID with Aadhaar to Prevent Fake Voting",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Regarding Difficulties Faced by Marginalised Communities in Obtaining Caste Certificates in Uttar Pradesh.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to increase and operate Paddy Procurement Centers in Uttar Pradesh throughout the year and made available Urea, Potash and DAP in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Relief and Service Continuity for Teachers Affected by Supreme Court Ruling on Mandatory TET",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding formation of �National Anti Fake Drug Task Force� to combat counterfeit drugs nationwide",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding implementation of Rotational Transfer Policy dated 23.06.2021 and Central Vigilance Commission guidelines for sensitive posts in Central Ground Water Board under Ministry of Jal Shakti",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Compensation and Safety Measures for Villages Affected by Wildlife Attacks in Shravasti and Bahraich Border Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to school merger policy in UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to ensure adequate supply of DAP and Urea to farmers in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of Permanent Bridges in Flood-Prone Areas of Balrampur and Shravasti Districts, Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Effective Measures to Control Stray Cattle and Protect Farmers' Crops in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Restoration of Old Pension Scheme (OPS) to Ensure Social and Economic Security of Government Employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Demand for Establishment of Medical College in Shravasti District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to increase the remuneration of MNREGA workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Requst for the construction of a Bridge at Katra Mathura Ghat to Connect Shravasti and Balrampur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to provide adequate DAP to farmers in Shrawasti Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding setting up industries in Sravasti and Balram Districts to check exodus of local residents",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt provide at least 20 lakh as compensation to families which have suffered loss of life and property due to flood",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding need to increase the procurement price of sugarcane and ensure payment of arrears to sugarcane farmers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 37
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 76
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ram-shiromani-verma"
+  },
+  "qualification": "Graduate",
+  "questions": 29,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Education": 3,
+    "Health And Family Welfare": 4,
+    "Home Affairs": 1,
+    "Jal Shakti": 4,
+    "Labour And Employment": 2,
+    "Planning": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SAKET MISRA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 44,
+    "criminal_deduction": 0,
+    "legislative": 72,
+    "mplads": 1,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 73638343,
+  "total_liabilities": 100000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.83
+}

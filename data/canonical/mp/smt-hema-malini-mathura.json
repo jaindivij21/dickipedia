@@ -1,0 +1,463 @@
+{
+  "accountability_score": 34,
+  "age": 78,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 114584173
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2382240250
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 2496824423,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 5671881
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 45292548
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 71307703
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 114767808
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6966583
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 44687507
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 3849774
+      }
+    ],
+    "movable_total": 292543804
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=4uPxMh2sGdZXmRgXpNH2",
+      "total_assets": 1782015620,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=4uPxMh2sGdZXmRgXpNH2",
+      "total_assets": 2508270292,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2797",
+      "total_assets": 2789368227,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 57,
+  "assets_latest": 2789368227,
+  "attendance_pct": 40,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "‘ADVITIYA’, Plot No. 17 Jaihind Society, 12th. Road, J.V.P.D. Scheme, Juhu Mumbai Maharashtra, 400049",
+    "emails": [
+      "h.malini@mpls.sansad.in",
+      "hema3pol@gmail.com"
+    ],
+    "phones": [
+      "2226710040",
+      "9870335335",
+      "9820670809"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "16/10/1948",
+  "eci_state": "Uttar Pradesh",
+  "email": "h[dot]malini[at]mpls[dot]sansad[dot]in,hema3pol[at]gmail[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 12725100,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 18597930,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 6411280,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 9656000,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 11644890,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 21101740,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 22856330,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 8875150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 15170990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 11748400,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business, Rent, Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business, Pension and Interest"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹101 Cr between affidavits, while declared income across 5 ITR years totalled ₹5.90 Cr.",
+      "headline": "Declared assets rose 17× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 1007352607,
+        "declared_income": 59035200,
+        "itr_years": 5,
+        "ratio": 17
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.41 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 114050916,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 40% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 5% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 40,
+        "percentile": 5
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "1,42,21,695 1 Crore+",
+        "value": 79189097
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 79189097
+  },
+  "margin_votes": 293407,
+  "minister": false,
+  "mp_name": "Smt. Hema Malini",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 32949084,
+  "mplads_unspent": 114050916,
+  "mplads_utilisation_pct": 22.4,
+  "mplads_works_completed": 22,
+  "mplads_works_recommended": 76,
+  "mpsno": 4619,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-21T18:22:30.000Z",
+      "flagged": false,
+      "publisher": "First India",
+      "title": "MP and Actress Hema Malini Watches “Krishnavataram Part 1 – The Heart” in Mathura, Praises the Film’s Grandeur and Spiritual Essence",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQzhrTFY4Q1JfSHF5X01BQkh6c0xJQWswazhNb2JRcVJkLVFqbGhpZzZLdUFGNnRaM0I3aVRKVlNrZUhPSl9WODV4SFJfU0RYNFo2NmxDZmZudTdYaElBVHFoN1p1UWN0S0FqY1dOLVMwcDg1LVY3NUwzRFpXNGxXUFVZNjdqNWtCTHlSeHQ2UjQ4VjlOS1Y2X3F1NFpnU294b1V3R21qVlA0RHBKQ2lrY1p5RnRWdlZaT3JlaTdtRFdOZjY4MzJVYW81VWpTWC1YRzkxcWstdjFONkxUN2lGWWhTWTdySFowYkxaTzBBTnQ0Snh6bkhsMVBValVCWjQ4UGVIRkZobmk?oc=5"
+    },
+    {
+      "date": "2026-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "Hema Malini praises Krishnavataram after attending special screening in Mathura",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPby1MaVdNMXRsRWI2Y2k0Q3VmQzZWa0FoNm1PU1BnRHJNdl9NS2pLemJ2aXdVM3hhdUZSTjFBN2p5NjliU3lnNzZDMGxERXpQbFFjNnZUVXB5dXhaNVI5Uy1teHdmR200V2g4ZlBLY0YxTzE2ZzlMU2ZWQ2piSjNsblVOM3RXRUh3b2c3YlFFb0FzYVhINU9kRGdNUWxCcGpGVHhRNnNlV1JobTVJYzY2ZnpLZFFYd2FGamgwVXY4Zy1uZXJf0gHKAUFVX3lxTE1NdXgwZW5YS1RWTTRKSVh0SzJhbExfdDZGX1RHem02ekp4NWpYbTc5eTB5NTE2cXd3OEVWX2NIRHZadDNmTUIwTW5yWEdzd1pET0RSb2xHSVNjb3RxcEx2ajdMMmlTcHlEQkN5c1J2YXB1eExEcklSV2x4SjllWUZCWTI5V19yVE1ELS04NEJyV3I2VnBzMi1TLW9nY20wUFFYbEFVUGVXcE1GWjdreUxNMjBJaGRULXpwUFk5bmRUdmtib0JabF9NTlE?oc=5"
+    },
+    {
+      "date": "2026-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The CSR Journal",
+      "title": "Hema Malini Attends Special Screening of Krishnavataram in Mathura",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjRmOVloN1RPQmRzellmM21SV0ZxNzBGeHZUVFNqWm9aZ0RwM0JJNl82N1pFcTBVeXhXeTFGRnRCcVlBQ1NNUmJWUEpobml5a0FkQWo3djlIZm5oZjdwUl9rem5sLTU5VFlCYTBRdDhGMExHc1ZhSGt4THFELXdiX09XYUpyQWxqQnk2ZU1MOA?oc=5"
+    },
+    {
+      "date": "2026-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Hema Malini Gushes Over Siddharth Gupta's Krishnavataram, Lauds Team During Screening In Mathura",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYW5WX195ZHcwN21pMmxHX3oxRXNhZUdMMER2RFVFRVlOV0NGTFZrRkxFbENfazBFZ3Fsd1g0aGk5NUJVVG5XdTBzTEx4MDhjWVIxNWEzMXNiYjBhMG16Z0o5RzdLUkFYdUd0SHhvRF9DYUNiZVBlRnVwTjhfS1dOYTVSSEJDNEVXMUZrbmNIU1p2UEdtYzFRYWNONGtBZ2tyLTZEdWZXaXZ1RlJKZDlPUHQ4U0ZvSVNFTHY2NTY5VGhWX1A2Rm9GN0tYMDctWTk3dXRQcjRTdlNKNkJScnVvemlB0gHnAUFVX3lxTE9uamdpQ0pmenRqRDlLSE5RRXRsZEk1R0FpajdvNms5ZVJZNXRLb1BhY3VSajI3WVBvM01XZVN4TnN3ZXp0VnZacUJTRExpTmtVelAzZGswNnZyR1hCZkJIdklQSkNfYjE2VmZQVDl1RkpMQmJOTkg1MnIzYkxUS2d6MVcxcG9EOXNpbVVqVGRGYW9FakhEUkViTktlM29mUVVoSllJZldWWXpDd1Q1c0l2SV8yLW9OTUVqV0EyNi1yRThodmlEY1VNNkM0R3JueHVoOEw1SjZrcGw3Um9kZ21MeUdHRDF5Zw?oc=5"
+    },
+    {
+      "date": "2026-05-19T18:35:07.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "BJP MP Hema Malini Takes E-Auto Ride in Mathura, Promotes Green Mobility",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVpoc2dYUkhLUUxRUWFJTkd4YUNJeDgzUHEtaGhkWTVLcmVKUUVsc3ZKanc1MFNfd0NDeFZiMHRCLUN4NHM5eW8wSkJwcmhxRUNMMGJCeHJGRTJMVXJXTE1pRFBqNXJJU0JjdDEwQXc1TnJvRTFnNHhES3RGOWFCajMzX3A4TmRiaHlJZnhWMFZvbDdndldiY1dIV2R6Sm5zNUptVklERlhJYm8?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4563,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-17",
+  "pc_name": "Mathura",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 2372199 09870335335 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180447.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Artist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 39
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding alleged cancellation of cultural programmes and political interference in art and culture in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Special Package to Develop Mathura as an International Religious and Cultural Tourist Destination",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Addressing the Misuse of AI and Deepfake Technology Targeting the Film Industry",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to take immediate action to stop the atrocities and violence being perpetrated against the Hindus in Bangladesh and Chinmoy Das Ji and all other innocent individuals currently imprisoned be released from jail without any conditions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt. to installed the solar panels on top of the pillars in the fields",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 25
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/hema-malini"
+  },
+  "qualification": "Matric",
+  "questions": 8,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Commerce And Industry": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Housing And Urban Affairs": 2,
+    "Minority Affairs": 1,
+    "Rural Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MUKESH DHANGAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 30,
+    "criminal_deduction": 0,
+    "legislative": 20,
+    "mplads": 46,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 2789368227,
+  "total_liabilities": 79189097,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.3
+}

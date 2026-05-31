@@ -1,0 +1,492 @@
+{
+  "accountability_score": 34,
+  "age": 35,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 16754500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 36070740
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 344581242
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9792400
+      },
+      {
+        "category": "Others",
+        "value": 2300000
+      }
+    ],
+    "immovable_total": 409498882,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 519000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 651531
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 12000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 5364832
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2368800
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 8175000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 120000
+      }
+    ],
+    "movable_total": 17211163
+  },
+  "assets_earliest_year": 2023,
+  "assets_history": [
+    {
+      "label": "Karnataka 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=XaWpcgB3zcwzhtoBHDjh",
+      "total_assets": 370937282,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1890",
+      "total_assets": 426710045,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 15,
+  "assets_latest": 426710045,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shreyas M. Patel is an Indian politician and the elected candidate for Lok Sabha from Hassan Lok Sabha constituency in the 2024 general elections. He is a member of the Indian National Congress and secured 672,988 (49.67%) votes defeating Prajwal Revanna of Janata Dal (Secular) with a margin of 42,649 votes.",
+    "title": "Shreyas M. Patel",
+    "url": "https://en.wikipedia.org/wiki/Shreyas_M._Patel"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "12 River Bank Road War 11 Hole Narsipur Hassan Karnataka, 573211",
+    "emails": [
+      "shrsptl48@gmail.com",
+      "shreyaspatel.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9008469613"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "F.C. No. 2/2014-15, Assistant Forest Conservator Officer, Subramnya Sub- Division Dakshina Kannada",
+        "other_acts": "Section 24(D), (E), 104(A) of Karnataka Forest Act",
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "15/04/1991",
+  "eci_state": "Karnataka",
+  "email": "shrsptl48[at]gmail[dot]com,shreyaspatel[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 551020,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 16113198,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1075945,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1021010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 798800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 723800,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business & Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Entrepreneur"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.28 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102843836,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 8880873
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 8880873
+  },
+  "margin_votes": 42649,
+  "minister": false,
+  "mp_name": "Shri Shreyas M Patel",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44156164,
+  "mplads_unspent": 102843836,
+  "mplads_utilisation_pct": 30,
+  "mplads_works_completed": 5,
+  "mplads_works_recommended": 192,
+  "mpsno": 5751,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "HDK has failed to resolve human-animal conflict in Hassan: MP Shreyas Patel",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0JIVVNPaEdCZ0tqb3FHdFZBazRwZFFZSWZ5allYcU5QVUtpM3E5TzRXRXNVWURtZUVCdkpNeEpQU2JoS2pCMWp4VUxiNHVISVRqeVZNZWdDNGljcWNFLU9jTjNtVDR4WktpQ1pKYzZrVEI5c3RReVU0UHV1amFiR3BHdzVjZHEzbG9wY2VUTEN5Z3dsYmNlZmhIX3VzeGRtWDdER3BiTlJtUG1yRU9vUEl0QnRJdVlmaDd4UGtzT1pCWkJuOFloYjY5dVhJUXU5bjFUZEpsTHFyUlpX0gHjAUFVX3lxTE95Um9HNU1kTkJCcVk0dk9ibTBVY2U3U3hJT1lqMVA5X2NrS093VDlIeHhqYzktUTF1S2hSeHlFMGswMzRnam9xU3paZjkzRVVsRG03NWltUEdKelNvVUZleWJUclRUc2h6U1BrbTV4bC1za0hIT3dJMDF4bHZhMzJvUFh4UlM5aWZJWWF1MGZqTUxNZFgtcnN2NTMycXQ1VmswamlEV29wWHZrVkZFMGxEVDdtNjl3MG9PVWRrR3FEWGN6NVdKQ0tyUXNRNGdaWkpLVWtEUC0wNmFMd2w2VTJvSmRr?oc=5"
+    },
+    {
+      "date": "2025-08-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Karnataka: Hassan MP Shreyas Patel interacts with Forest Dept. officials over human-elephant conflict in Belur",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcllPcEdWbXkzMkowbHlUd1VWRGg2UUllbFN3NXBucF9hV1dwVXpUY0l6dWRuamZxR09PWTZvb2NLdkxiQzFsblhIRk9QSnJ6NkY0dUZrMFVwVERFenNSNnlQWkJoVVhfR1BFSFlZY1RwZkJ6OGw2dDZJd09PZkFFZS1iZDhWTXNqUGxHRWRqSVFRUUFqR1JWZVZwM055c2VvVlg5bU5veEJaM2dQdXZqbUt0YkJYZ3ZOd0lzNXFJNUFnWTBRd2dyMjI2cEFmLWxzYmtKc0hIMHRYNVZuN0k0MlJReDRjcUhtekQtd0xtYzJ1b3hpNWU4M3FGRmNCOUlySVFKcjdGTlHSAY8CQVVfeXFMTkNORHVZWTBnTFJqV0ZRVW94UUFjcVlHV2tlN2xFZTJ5SEl0d21kV2lPWmlFYzcyMmR5UkRwSlZ4amllTmU3d00xdjhMbXRGbG4xdWhCcXRVZ3o1S3ZQdTVvRUFKTTZsbDYyVW9yVEhxWWtqTXltWE9EZHNfZ2d6SjkzQ2poZlBRbG9rTGNsRDlLUGE3SG5wOGQtODRmclZQa29QS3NxUzIxUWJ5Tk1xZHBkMGxxcXhVZ09McTZ1c20xN0t4UEdBWUtCMC02ZGNYR2JwZUpWekpPazNBMVZfMFR2SnV4SEswTllTdld3WUdHLXVSb2k3dWFQQVVpemNrU21oend4Y2dBN2RGU0hFWQ?oc=5"
+    },
+    {
+      "date": "2025-07-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sudden deaths in Hassan: MP Shreyas Patel meets Union Minister for health; appeals for a proper study",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVzlKZHlkcm5PYXdLNUlrUmhiTm5ORDB5N3VCNS15TXg1ZENFaGxUQ1BmOXBkRFlXdUxLUzZMNkRyRU4yWFdRZGRsNk83MDdmdHl2R0JDMjdIS05TS0dKN1hXdWpMSWhlSkhIZDVGTEg5Wlo1QzU1ZGdyQTIzSjEteFpVYlZSbHVXaUd5TDFiZ1FVNW5KRGhpdzU2TFR4cTc1UVJtMWFoMXdkcGxrWldDNzlaR2RuZ3hpMjVxTmtZTU5qZFpDOWNiY0s4V2NPTFVkemowS3JIWG5Hc0x5a1gwMDZlYTlBSU1kd19KRkVxeXBIajRSUnRPNDQtYnnSAYMCQVVfeXFMUGh6RVlhR2hpanZTbnpkSFpGM3NUWVVZSHlBNGN4REVhTGk2dXlzRUNZazU2N05BeDZBMEpDNmkybU1pSDNXNHF3dW1WQ0lwc0M1YmswcGVLaDB3V0plb1BMUXlqRG5VNVdxT2tmR2xXMHk4U1hVc0lKcnlqRk0wdTNwbUgyTTBRYzRVckxyUHY1c3lOVGUtWTFUajV0TGJ1M3B4SWxoTjFuWGY1SmRTdDJzUm96bm5oYzROMmtnanpDWG1VMHJBdmxvOHI2dHFZRTNvVlRzazBoNTEzS1JaLTBkXzNzN3QyQkZ5UTVhTWpoQzBRUXZMSzVWMkFma3hjWFFSaw?oc=5"
+    },
+    {
+      "date": "2025-06-15T05:45:27.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Shreyas. M. Patel , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDhoTFpDRkxpN2tEanpFMVJEZkVrNHZmWHVrMmxkS1M4OTd0NUNIWS1aVE8tM1Q4bER1dFRwRlU5cVA5QVFnSy1PV0FsRGxjTTNGWlFrNERoeHJhcHhVUHlpWjJCbmQxbG9NbFp4bndnck9xN2VuWnBOOFJRaEJKLUxKaXpjTU0?oc=5"
+    },
+    {
+      "date": "2025-06-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Shreyas Patel counters Revanna’s allegations of increase in crimes in Hassan dist.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYVhMaDhrQmlHdzlTbUFtTHlJUy1UREdpZXZtUGF1TVBSNkw5THZfQk1wSzlkSmg3T3U4eXdDSFV3eUU5MGJYWEdrUmNoWUU0bVVKaGstOVpzWXlMQ2RKaXdjb2FKWGR0T0RLNl9NeXhOcGM1Y2tDU1l0QU8yeFdQNW1vWmRvekJRekZKcllGaHhhQUp5cVotNGJ3U2NfbUZBVHlwc1h4WkNUSnJsMC1fV2tBeldjZTlabkRDeFMwT1VnQm1QRjd3Wlk5Vkpfenhndl9CTlN6YWZmQl9yLVlCUjBIa9IB6gFBVV95cUxNTW4yZldCWnBUdEVXSE5JU05iaUQtUEJ5M2hTLUhMVEZVaWhoMFBRSzdqdVQzWnpoV2c2SGJwYUFrbnlQT3RfblRaSk9qTEpYRzdiRWJaSjhPM3pPb2tZU0xjaDB6a05XdTVRU1NaRnFvMGt2RXFCZENaSm8ycG01bDd5T1dtSV9iWUo5cWUzSlZTYlUyQVpfc2ZXT0FaRlVsZ280SlltZXFwcnV1Q1hSWjZmZnhlSzVaRTBLWGl6ckRVMlZiWFFvMjFYUXlUVjg4TVFNdmh6dENjSGUyeEVhWGRiek1qRTBwRkE?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 8541,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-16",
+  "pc_name": "Hassan",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180187.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Immediate Crop Compensation and Implementation of a Comprehensive Plant Protection Scheme for Farmers in Hassan Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for MSP or Price Stabilization Mechanism for Tobacco Farmers and Investigation into Market Practices",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need to enhance honorarium of Anganwadi Workers and Anganwadi Helpers engaged in Mission Saksham Angandwadi and Poshan in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Fair Pricing, Price Deficiency Support, and Policy Intervention for Maize and Sugarcane Farmers in Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to expedite the approval of revised cost estimate of Hsssan section of NH- 373 project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to extend CPCRI demonstration programme in Arsikere and Holenarsipura",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Renovation Request for Belur Chennakeshava Temple and Shankargouda Gomateshwara Temple",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Urgent Request for Completion of NH-69 Stretch from Banavara to Huliyar in Arsikere Taluk",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Creation of Elephant Corridor and Dedicated Compensation Fund to Mitigate Human-Animal Conflict in Hassan District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Expressed concern on the elephant menace in Hassan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding mudslides and landslides due to heavy rains wreaked havoc on NH-75 in Hassan district, Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 15
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shreyas-m-patel"
+  },
+  "qualification": "Graduate",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 2,
+    "Railways": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PRAJWAL REVANNA",
+  "runner_up_party": "JANATA DAL (SECULAR)",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 1,
+    "legislative": 34,
+    "mplads": 38,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 426710045,
+  "total_liabilities": 8880873,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.67
+}

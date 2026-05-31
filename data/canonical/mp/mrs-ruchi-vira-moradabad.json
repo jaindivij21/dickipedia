@@ -1,0 +1,519 @@
+{
+  "accountability_score": 48,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 150000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 95000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 249200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 200000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 11991587
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 200000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1578254
+      },
+      {
+        "category": "LIC Insurance 254820137 6,10,649 6 Lacs+ LIC 2087743878 7,42,830 7 Lacs+",
+        "value": 1353479
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4490000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 10020000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1555000
+      }
+    ],
+    "movable_total": 31388320
+  },
+  "assets_earliest_year": 2012,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2012",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iwyYUeU3DdD8o45jpc3J",
+      "total_assets": 38609689,
+      "year": 2012
+    },
+    {
+      "label": "UP Bye Election 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iwyYUeU3DdD8o45jpc3J",
+      "total_assets": 135013244,
+      "year": 2013
+    },
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iwyYUeU3DdD8o45jpc3J",
+      "total_assets": 145052196,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iwyYUeU3DdD8o45jpc3J",
+      "total_assets": 241164456,
+      "year": 2019
+    },
+    {
+      "label": "Uttar Pradesh 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=iwyYUeU3DdD8o45jpc3J",
+      "total_assets": 258610168,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=877",
+      "total_assets": 280588320,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 627,
+  "assets_latest": 280588320,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ruchi Vira is an Indian politician and current Member of Parliament of Lok Sabha from Moradabad. She is former member of the 16th Legislative Assembly of Uttar Pradesh of India. She represented the Bijnor constituency of Uttar Pradesh and is a member of the Samajwadi Party.",
+    "title": "Ruchi Veera",
+    "url": "https://en.wikipedia.org/wiki/Ruchi_Veera"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "134 VPO DHARAM NAGRI,BIJNOR BIJNOR Uttar Pradesh, 246701",
+    "emails": [
+      "ruchi.vira02@gmail.com",
+      "ruchi.vira@mpls.sansad.in"
+    ],
+    "phones": [
+      "8191000000",
+      "9953429645"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "02/09/1961",
+  "eci_state": "Uttar Pradesh",
+  "email": "ruchi[dot]vira02[at]gmail[dot]com,ruchi[dot]vira[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2245968,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4277528,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹24.20 Cr between affidavits, while declared income across 1 ITR years totalled ₹22.5 L.",
+      "headline": "Declared assets rose 108× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 241978631,
+        "declared_income": 2245968,
+        "itr_years": 1,
+        "ratio": 108
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹3.86 Cr (2012) to ₹28.06 Cr (2024).",
+      "headline": "Declared assets grew 627% across 6 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 38609689,
+        "from_year": 2012,
+        "pct": 627,
+        "to": 280588320,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.30 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 103024206,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 105762,
+  "minister": false,
+  "mp_name": "Mrs Ruchi Vira",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 43975794,
+  "mplads_unspent": 103024206,
+  "mplads_utilisation_pct": 29.9,
+  "mplads_works_completed": 165,
+  "mplads_works_recommended": 273,
+  "mpsno": 5706,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-01-21T12:05:56.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Ruchi Vira , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41c1NKXzRnN2VoazN0Ym1qdmpQR0puc1d6WjVuSW1YdjVBRnhoX3FCdEZIVnlMdzhXdU1vVl9PMmc1RnhMSDlwQ2RVY3ZtTEMzZkxxN2d3OHVaTUtad251T2RPUE9MT0t4T1JpOVl6TmQ4b0VVY3JMYmFBZExNWk0?oc=5"
+    },
+    {
+      "date": "2024-06-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "\"Will raise issues of infrastructure, medical facilities in Moradabad\": Samajwadi Party MP Ruchi Vira",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2RIZXNlaDVHczFtSjJPUHJuYndIZzkzUDdMY0RhZUFUamJ3SHpBRFhmUTlxVE15blp0WUlsWmI3bW5Kd3dsVFFPTXQ0d0g2LXVid3J4dVNqeWRzcy0wTkRVV0lfMG5QSnJ2aTlJTXdXWk5nR1l3em1FTnl4V3NNSWY2amxSRVJoNGlKVFgwQmtnZ0wtTEpOd2lsbEg4ZVZyUjM1cGJkb05Cd0s3ZlhDcmZmTTJxRHA5enB6YlhQT2ZoOUFMYndTUi1R?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Moradabad election results 2024: SP's Ruchi Vira wins",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVGlrQU1MNEI5eUQtRWF0UXZrbjM2N2g2cjFpWHZiT29XY1RGMktWR3VaOVZfbURQQ2hjQXdNZHpCZmlxRlV6LTdOX3NGYnVoeWc4X29ONEQ4Z0pZSXQydkluV1Q4bDF0VjU5YlhlbEhZSjB2NzRwNUwxYkY5WWZBX1JtakxnTHJzSnQwWDZjeUZWcDVSWk53aTVzRVBwNEpzYWdWUmtXS1hudk5odW1aUW1VTHhhOXo2SnhQTWtib2dXdGZNOHZ2Wkl6X0Y1OTZkYUJ6VER1X2s3RWkydHQ1cFhfZlJPWXBwT1ViRTdTYndWLUlGckVaNUF0WnBleUhUZnQ2Uk8zVnBfdDU1dWtQZEpwUDdZY0Y0ald0cXdRc2pvQWdlUTdFcGlORThPVUotRldqU0dlaWkzX1BKdHNDU3NwaFPSAcoCQVVfeXFMT3psT1AxbUxQY013MkRpM3lGU0YyZ09RTUhneFZSdUY4SUhOMTg3emdPOHBOa0d3ZlFtZTFoX2FfOVNfTVVrLWU1d1FYSTg4TF9hb2tGUXBuRk9HWG9ZeWVrQjZkVXhkNlZhcGhuR3NPUkw4TFF6ZGRMTUx1TUw0VTdjVGRZR2F5ajR5amNfWHFWUmJBeUM2OTBmZU11RHk5d1p0cXVqeDdES3BqdTNrVVY2dWNDd3JRandpMk8zeUdFU1FlUkN6SnQ2cWZyeG5yLVVnRlVBVFZodVJlUk8wQWFFSFRBTU1tenFNc3BRR1lYWmgwYXRkSnF3ZVAzdE9fbm9ENXI0dUJFVzI5eUgtZ3N3X1ZiOHVEdDBkbmt1NmVMZElfVG1RVnpROXpSNDlhSWhLUWtvaVcxZWdaaVc2SWpQb3ZfSW1pTlFn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Moradabad Election Result 2024 Live Updates: Samajwadi Party's Ruchi Vira Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHprY3JZWkVGUTRuSEZwdlhMZElLdERIWEpTOThhTnVjckRTODViSE5hVERaVThlMVI5UkNOLWs5aEFsTXMtMmlSYTltcTVwNU5yQnVGbWtSWDNMclFKNVRLUGhoRXpHb01ZYTgxRzNQWnRlczNranlCVGUwRWRRQ0RFekp4Z2hFeFpuNWxDa3h4Z3lsZ2tNck5SZlZwaTlVU1EtZFkyQk02VE5rRWhtbURuZnV6Mll4UjMxWlpHY0VoaHBpZVV6YVl3MWrSAdoBQVVfeXFMT1Y2ZTBBd05uWmk4LW1Ubzh0cGkySkhFWnowMS1VZmhJYUNkenV5TlFnVXJNN2FuTk5vWjlvMkUxSUg1MWxXSjZ4empGZ1RDYVNrTk1xSjV4QnhIYUdXODRhNHpXU0NzclRUWjVaRDlkZGtoeFE1Q290aEhaR2pXUkYydXc4MGl6eDd5RmdDS3Y1R2NvU0JNb3k2VERveC0wMTJqOXdrZ2U5QUw3YUxSa1BrUXdyeW5kTW5zbC1CZ09nZHFwVHNDa1Q1UHYtYk41YnlCenBrbXBOeGc?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:44:44.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Ruchi Vira, Sp Party, Moradabad, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa05yNmtqSlpWZl9LVTI5eF9CYTh6NUZEY2thOWw0UmFYdmVIaEZuaWpHcEVsRXFqeU1hSGE5Q0RCRmNOUENSbkVYa1JFR0pTTkNrTTNXeUxnbk5nZ1RFSldud0hCeGhGbUhrMk1tSHZOYmFoTEVBakc2cnhHeW8tMEptZktjbXFlZGpHaWR4MnlGTklFMzNnN2d1UDgxLTJ3bGw5Rzh4bEc1M1JsbFJrYVFKQ1RMVTc2MTNJQ1E3NEpzOUk0amtyc1FsamhueUw2dXBEZ2pKUlNhZWw5TUE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5824,
+  "notable_record": null,
+  "num_candidates": 12,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-6",
+  "pc_name": "Moradabad",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180485.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker, working for the Girl Child Education",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Immediate Measures to Control Leopard Attacks and Protect Farmers in Bijnor District.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need to take necessary steps to increase enrolment and uplift standard of education among girls in Moradabad district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Construction of Embankment and Bridge over Ramganga River in Thakurdwara Tehsil of Moradabad District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding construction of a pucca bridge at the silt of 'Ganga Snan Mela' on Ram Ganga river in Moradabad district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Regarding fatal accidents caused by high tension power lines passing through residential areas in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to construct embankment along the Ramganga river in Uttar Pradesh to prevent annual flood in the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Establishment of High Court Bench in Western Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Establishment of an AYUSH Hospital in Moradabad District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for a railway service between Muradabad to Mumbai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Urge upon to minister construct an (ROB) at railway crossing 432-B of Moradabad-Haridwar via Dhampur line & railway crossing 433-B of Kanth-Amroha railway line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt no advance action should be taken for resettlement without discriminating between big and small and without mutual consent",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 20
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 78
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ruchi-vira"
+  },
+  "qualification": "Post Graduate",
+  "questions": 17,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KUNWAR SARVESH KUMAR",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 53,
+    "criminal_deduction": 0,
+    "legislative": 42,
+    "mplads": 71,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 5
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 280588320,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.67
+}

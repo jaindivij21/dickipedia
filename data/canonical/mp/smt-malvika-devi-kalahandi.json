@@ -1,0 +1,664 @@
+{
+  "accountability_score": 63,
+  "age": 46,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 192199500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3600000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 207200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 402999500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4135050
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 313500
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1600000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7700000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15901550
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5174",
+      "total_assets": 418901050,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 418901050,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Malvika Devi or Malvika Keshari Deo, popularly known as Rani Saa is an Indian politician from New Delhi in India. She is the wife of Arka Keshari Deo, a former Member of Parliament, Lok Sabha. She has been elected as a BJP member from Kalahandi Lok Sabha constituency in 2024 Indian general election in Odisha.",
+    "title": "Malvika Devi",
+    "url": "https://en.wikipedia.org/wiki/Malvika_Devi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Keshari Nahar Palace, Bhawanipatna Bhawanipatna, Odisha, 766001",
+    "emails": [
+      "malvikafateh@gmail.com",
+      "malvikadevi.1@mpls.sansad.in"
+    ],
+    "phones": [
+      "9013869313",
+      "8895888883"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 15,
+  "dob": "10/06/1980",
+  "eci_state": "Odisha",
+  "email": "malvikafateh[at]gmail[dot]com,malvikadevi[dot]1[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 525610,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 598140,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 853340,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1057501,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 530020,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1243981,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1033066,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3515758,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1224910,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1465266,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, Pension & Business income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 27% of MPLADS local-area funds were spent — ₹10.78 Cr unspent.",
+      "headline": "73% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 107819002,
+        "utilisation_pct": 27
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 133813,
+  "minister": false,
+  "mp_name": "Smt. Malvika Devi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 39180998,
+  "mplads_unspent": 107819002,
+  "mplads_utilisation_pct": 26.7,
+  "mplads_works_completed": 93,
+  "mplads_works_recommended": 320,
+  "mpsno": 5624,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-20T08:11:08.000Z",
+      "flagged": false,
+      "publisher": "pragativadi.com",
+      "title": "BJP MP Malvika Devi Urges Union Mines Minister to Review Clearances for Controversial Sijimali Bauxite Project Amid Tribal Protests in Odisha",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaExOdDFCU3NtUXRQOWRXQzFWRTlVZ0toRlhFUHZ4THFET3pFUVJpa1oyMUZlb29HNVNzeUhEcXhVcnhOcGJoQnR6SmYzSklmaFpicXU2b2VvWWlIX2tyS1NxSUREWDVLS1V6YUkwUkNjMWM4aGlidXZwdm90QjVJTnhVSXZyeDlxUW1CazNwRWlSSVkyVHdNbE5wQUpjZXlHcldIMUl4YnA0aGdEc3I5UkVqMzVPakhxVjJpQUc3bmNNN01LYTVLakRzWEhZTkZSekJ5bkZXR19OSk1EVTVObzh5YnltYnlSODJTd2JySkFvb1h2Y3Zsb0xR?oc=5"
+    },
+    {
+      "date": "2026-04-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Insight",
+      "title": "MP Malvika Devi Raises Concerns Over Sijimali Unrest, Urges Centre’s Intervention",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWh3TmQtR1V3dHByZ08yM0Y0NUpibm16bTJ3V3IzV3JWNExadHJPd092U3d2eDctdDBMZ2RRbzVzY3Ayd1VBZUlKYjlwZ2R1U1RSWXVXNzhteEhkZ1hhTmVXVjYybFJNR0ZCVVZjRHlTeTJ4TnJ2LThBb1MzWnl1WndjZjlTTm9wWFZpR01lRkxiVUZpY0l1RkxDc1paRGdKaVdEZjF3blU?oc=5"
+    },
+    {
+      "date": "2025-07-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"We hope it goes well\": BJP MP Malvika Devi ahead of Monsoon session of Parliament",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS05UemM2WVdvNHRhS0thNVBjTkxSbGdwX0F1cDdqc1gtazZEUFJuaGhvUmY3RTJHSDZhTWd5Rk04dlhPM0JHMnNsajVsWW5PRGM0SmJJRE9Fc2E3SHRCZ0ljVDJKMW5FaXh1a21JZFlJRWxPUTNGaTM0SXBVcHdOQ0ZTV1E1UFZyekxXVXQzNlZweWZoYUsycDFZNHJsbm9pR2FyYzVPbm9zdlM5WmotQWhES1ZHdGVfUExUMmlxZEtrVC16U280MlFHMC15VVdBZEtyc0dSSTQzWWM?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "\"Committed to serving people\" says first woman MP from Kalahandi Lok Sabha Malvika Devi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazBYcVZlNTZNQXJtblVZemZqTHVTbHQxZ1BidVBGM0hiTmVSYWRwbWpydTJYd2xTdXZBU09wUy1WVWljOFRNbWlPdURteWI2VEVNcnlFTjJQcVpaaUk3VXdlaTdqeGtZbzhTLU4tYXRYV0xaZkZpQ3dCSDBnOEZpMENydmJtcndxZzYtZWNJT0ZrbzN2YmVOLUp6LUFRWl9SS2FIQnMtUFN0VXBVT1pNcGs4aUswZVE5VVE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Kalahandi Election Result 2024 Live Updates: BJP's Malvika Devi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakxzN2tONGN0d1VETjM3S1l3WnZvVTNQc1Rqb2lMV0hkMkhERjkwVUNOckpyNDlZZlpCT0t5aHgtZTJ5cDdXeFk1Sm90cng0UWEyTlFaNFFXMlg4T1lkQVlrbHlrU2J0bXdTSDRpWmp6c2E0M01QNWd1dnRyZTduQUdDc1NTTFROazhSM2RRdWNjVEZ1U0VlNEl2RFJfT1ZRb0xYb1l0YzF0TkVNY0tKTDFGdG1NZHNEX1VHdDBmWF96SzjSAdABQVVfeXFMT25Fek40dlN6UFZuaXc4U3V6ZURDSmtudW1RcURSY3pXeExpcDI5NUxQVXk1aFB6dDNYSlg0LThOY012UU5vVkxUUzRfTHk0MHZFT2RwTWtIOXlhRHBHdW5PSFhPSlRkWVlMUGR4M2FRWnllTzg5S2c0aGFpV3E0NHlydUIyVTU5Wk9hVkhjUWNIQ3d0bmpOSjhEaE9JMWRFbGxXaVZxLXZsY3hLZFVGM2JNM2ZhQzdlc2hIWmJLdk5OUU9qTlBUM3AtSEtJRGJSaQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 19715,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-11",
+  "pc_name": "Kalahandi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180309.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Request for National Heritage Status for Ahilyabai Holkar Associated Shiv Temple near Paharganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to set up a modern technology driven cold storage in Kalahandi Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Early Notification of Sunabeda Tiger Reserve in Nuapada District of Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Demand to Increase Customs Duty on Raw Cotton to Protect Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need for construction of new Turkel bridge over river Tel and expedite the tender process for Bhawanipatna-Khariar four laning road project in Kalahandi, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need for establishment of Mega Food Park in Kalahandi district, Odisha under Pradhan Mantri Kisan Sampada Yojana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need for construction of a bypass road at Junagarh town in Kalahandi district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need for construction of barrage or check dam on Udanti river in Sinapali block of Khariar in Kalahandi Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need for a Railway over-bridge at Bhawanipatana - Kantabanji LJ-19 in Kalahandi Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to provide special grants for upgradation of Lal Bahadur Stadium at Bhawanipatna and allocate under Khelo India scheme for construction of Manikeswari University Stadium in Kalahandi district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding appropriate measure to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need for establishment of a Disaster Management Centre in Kalahandi, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Ensuring Local Employment and Regulatory Compliance by Industries in Aspirational Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to revise the threshold criteria for coverage of a village under Digital Bharat Nidhi (DBN) project to ensure 4G connectivity in rural areas",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need for legislation to provide employment to more number of local people in industrial establishments",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Sanctioning a Government Medical College in Nuapada District, Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding need for a by-pass road for Kesinga in Kalahandi district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to establish a Tribal University in Kalahandi Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Start Classes 11th and 12th in Kendriya Vidyalayas of Khariar and Nuapada, Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need to create ecological parks in all the districts including Kalahandi and Naupada districts of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Revival of Sick Industries in Kalahandi to Boost Employment and Economic Development",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Strict Regulation and Censorship on Social Media, Broadcast, and OTT Platforms",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Development of Basic Infrastructure and Facilities in Pilgrimage Sites of Palghar, Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to introduce train services from Kesinga to Bhubaneswar in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need for a bypass road for Junagarh NAC in Kalahandi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request for Relief for EMRS Teachers in NESTS Exams",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need for financial assistance for construction of a new barrage under Udayanti River Project at Sinpali block of Nuapada district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to declare Sunabeda in Kalahandi district of Odisha, a Tiger reserve forest",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding extension of Railway line from Junagarh to Dharamgarh in Kalahandi district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding setting up of a Paika regiment in the State of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Demand for National River Linking Project for Kalahandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding setting up of a Paika Regiment in Indian Army",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 52
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 81
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/malvika-devi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 2,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 2,
+    "Law And Justice": 1,
+    "Mines": 2,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 3,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "LAMBODAR NIAL",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 63,
+    "criminal_deduction": 0,
+    "legislative": 71,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 418901050,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 40.79
+}

@@ -1,0 +1,665 @@
+{
+  "accountability_score": 36,
+  "age": 34,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7694500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 532470
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 1600000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 37967568
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 47794538,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1696208
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 8186413
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 398787
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 0
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 8694396
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1545000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1915000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2500
+      }
+    ],
+    "movable_total": 22465804
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6007",
+      "total_assets": 70170431,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 70170431,
+  "attendance_pct": 95,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "At Asali, Post. Talai Taluka Akrani, Dist. Nandurbar Nandurbar Maharashtra, 425414",
+    "emails": [
+      "padavi.gowaal333@gmail.com",
+      "padavi.gowaal@mpls.sansad.in"
+    ],
+    "phones": [
+      "9322594140",
+      "9389677777"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/GowaalKPadavi/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 12,
+  "dob": "22/08/1992",
+  "eci_state": "Maharashtra",
+  "email": "padavi[dot]gowaal333[at]gmail[dot]com,padavi[dot]gowaal[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 495680,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 495440,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 490040,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 657720,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 3900220,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3347430,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2920730,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1708260,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2015836,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 512850,
+        "person": "dependent2"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1252330,
+        "person": "dependent2"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2912620,
+        "person": "dependent2"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1286980,
+        "person": "dependent2"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 997387,
+        "person": "dependent2"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 450160,
+        "person": "dependent3"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Lawyer"
+      },
+      {
+        "person": "Dependent",
+        "source": "Dependent 1-K C Padavi :Assembly Member And Agriculture, Dependent 2-Hemlata K Padavi : Business And Housewife, Dependent 3-Dr Adima K Padavi Medical Student"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.78 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147816309,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6385097
+      },
+      {
+        "category": "Nil",
+        "value": 1432517
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7817614
+  },
+  "margin_votes": 159120,
+  "minister": false,
+  "mp_name": "Adv Gowaal Kagada Padavi",
+  "mplads_allocated": 147816309,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147816309,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 279,
+  "mpsno": 5760,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-06-10T09:57:49.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Adv Gowaal Kagada Padavi , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHJlci1fZk54OTJCcWQ4dmxDOHNzYzBlUDE3TjFnVWFCdHNpdU1PdFBGeTFMSDZNYUkyeEZhWmZDMi1TWHphcU5wWHp2WE5BQkE4Ry02TnRJZk1ETDlKenlMUjVSZXdOcnZleVJyY2pSMWlmY3pEN1NmOFprNm5qQXRqeUVZUnlPMTB4bUtwUFlBSGM?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Nandurbar (ST) election results 2024 live updates: Cong's Adv Gowaal Kagada Padavi wins",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNM3RGN1UyU0d6aDJiTVBqb0pQYWM5YlRPQzJUU21KVjNfaWJEeG9YU2paV0lrVTlJWE1pWjFGREwtNURWZm91dTdSUjhuSXd0ZmtlMEhMdVk3aE92cEhaY0pWZ3VvOXBFU21RSE94SmRwQm5WSU04Q2g1RnhMZENUb1R3TGl4TGJrX3pVcDhEYlBjbXFXV3hKM00zdThyRGFxM0NNd1g2RkMzYW9Rc0k3N1FuSGp3UE5Pa1VIaVJuZFdZakRYeWg5UW1iYkJ6dUtRWW96aURnTFRDSjJWTm5uTlM0OE1iRHlLdi1UZU51V0dNSHRWc2JhZWxfN0VaSkxwM1lqSGtqekhSYjFxZ2pNUjBBMHozTlJ1TEVZMzl3RWJld2h0ZHE5NENmYUhuVF9RbXo1X0ZPaHRGSHRvaFVBRl930gHHAkFVX3lxTFBUdElXbTFqRFlIS1NOQlRtWF8tV0Mzdi13YXhlbm1Bb2hGQTdYNEFVcEl0UFNpOWxMM1I5a3lENW5WLTBWSEIyVEVaOEpWT0p5VVd3RzljNkx0OGY5R253Mll2c2pRbzE5YVFMa0FqNS1qdjZMSjlzMVVLQm82ejVINFlPRGdEeDh4c1U4dDRvZWhuN1h1REdCalZoRUwyRzVRTENpd0hLQThiVjZtOGlLRWgwcjI4c0lCcWdralRWeTZieE9MWFgxQUViTEdtcHdTbTZSNFdRaWhYbG9wYldMdmkteVR6VHlQWDdUT2NvWGMwbWh3RDJ6SHZ4QVlRc3RLU1JfVHhhb1ViU2hVWmJkTXZWcGRkNE9SS29ETHEyR0t3OU1NeWZ1eTU1U01FRlBheFAxM2xIMHBQMlppVDR2ZkJmZ3FDWQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Nandurbar Election Result 2024 Live Updates: Congress's Gowaal Kagada Padavi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2dxLXEzTEdDVUZVVW9OT1NNQlpsUWZBN3ByaUxveXZaWjlvMHNPSzBlTGZ0WDhvZFdZNW1EWWYwQnA5YUxWSmo0ZnRWMmhTZ3Bia1hHdVZtQUFVYlREamhhRTJWTGJhd05IdEQtTTdMZEc4Mlh3Vlg5MTdPaUdkTWVVc3hzU0ZkNldCQ2tNWnMxWkp0SEltWWdudWdKcDVjcGprSFE1aHBiRW5jQ2hjcjN2ajZzc2k2NXdmSk5LQjFybEhKRlFKZWNn0gHXAUFVX3lxTE5rSUdOS3U3MWxsc2ZnMk5EN1gwZkQyYS01OVBWZWR6MzEzb2ljZ2pzSklHWWNnYk13YWtkTDRRUWFDUXpLZndOTk1kRUtsRnQwaFNqNmd0NWctMUh2RzFtNGhWRFhZeW1uenpxbjdKTl9BcXh0cW1oRjB6eHJIa3FoUmVmSURicWtDTGZOTnFXQkhpZEF0WTRVbTdocXlwN1JraDNDcXZhdWlKZTgxZGlSNVlLZzQ0dlJad184aDlWN1h5M1NGU0w1cmRRbXNYYy1IOWYybXJr?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Nandurbar Election Result 2024 LIVE Updates Highlights: Adv Gowaal Kagada Padavi of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRkNySjdnSWlJeXhXQ01NWmRUYlBTXy1EUHJ5MXlCbzEzeDFGbzBGT3N5LVhES2didnlGTG13UTktY2t1SjlRR1loblhQeWwycGVyZl9yYWt3R2N3N3RRelM0V3kyemNLdml0a0dRWGRNZjJucTlLeWdYcDdBVzg0ZURuRjRpcE1ZcHowZ3oyZjhjR3pNSmJDckNFcXBScjM2RWpDSVRpZU5jSnRJR0pHMW5BZW5iR2o4cnhHSUZLZEhHZWdaajVoeXlkTFIwbHcwXzhyTFhDZGNwM3FucnVCZmFXZ3bSAeoBQVVfeXFMTWVGZThxOVhsMlZ2aGFlQkMwcVVFU2U2RkhiamFiTkp1RGhMRUllV0xzV2dxcDJScjdubW5QYk5sUXhTTjFJcTdqa2ZKMWo4R0I1UktwcUZZUnJIS2cyNVZDcnA5N0w3bmZDM1ltSllqdTFzX24zN29mb0VtNW9QS2w5S0RLMFNFeXY0ZGswaERHVWxLTDlyNHFfT0daN3BHOEU3cEhJaHAxX0lySEVLcnRzcmZvSk9QLWJMaGcxS1ZUQWlKNGItZjRFdUtIdDdDYkhkTldqVTJCVmpHRmdfOE51WkhycElnZUJn?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 14123,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "maharashtra-1",
+  "pc_name": "Nandurbar",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180245.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Enhancement of MPs� Local Area Development Fund to ?30 Crore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Regulation of Mining and Construction Activities in Aravalli Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Establishment of a Papaya Processing Park in Nandurbar to Ensure Fair Prices for Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Opposed the introduction of The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Opposed the introduction of The Foreign Contribution (Regulation) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need to issue clarification/advisory/amendment to ensure uniform interpretation of the provision of Scheduled Castes and Scheduled Tribes Order (Amendment) Act, 1956 and 1976",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to revisit the implementation of rehabilitation and resettlement policies for Scheduled Tribes displaced due to major multipurpose and irrigation projects in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding status of proposed delimitation exercise in 2026 and possible operationalization of women, SC and ST reservation of seats in it",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need for a special comprehensive legal framework for Nagar Panchayats and Nagar Parishads in PESA areas especially in States like Maharashtra to protect the rights of tribal people",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to create geo-tagged national dashboard under Jal Jeevan Mission",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to review Forest Rights Act regulation and ensure proper implementation of Community Forest Rights in Nandurbar Parliamentary Constituency in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Comprehensive PMGSY Road Development Package and Infrastructure Upgradation in Nandurbar Lok Sabha Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to recognize tribals as a separate religious category in government records",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Development of Cotton Hub and Industry in North Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need to take comprehensive steps for irrigation in Nandurbar Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Implementation of Water Allocation Agreement for Nandurbar District and New Water Conservation Projects in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Address Increasing Racial Discrimination Against Indian Citizens Abroad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Inclusion of Ladakh and Scheduled Areas in the Sixth Schedule for Protection of Culture and Traditions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Action Against Chinese AI Technology DeepSeek for Denying Arunachal Pradesh as Part of India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Increase Minimum Pension under EPS-95 Scheme and Provide Free Healthcare Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Reinstating Senior Citizens' Fare Discount on Trains for Medical, Family, and Other Travel Purposes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Establishing a Central University for Marathi Language Development and Research",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to the government restore pension for old artists",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Protest against construction of toilet in Statue of Unity, demand for its removal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding need to provide package for development of Nandurbar District in Maharashtra and other Aspirational Districts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to introduce train services between Nandurbar and Pune",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt to declared 9th August as a national holiday",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding need to provide electricity in villages in Nandurbar Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt protect the identity of the tribals",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 50
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 132
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/adv-gowaal-kagada-padavi"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 17,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Coal": 1,
+    "Communication": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Jal Shakti": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Steel": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "DR HEENA VIJAYKUMAR GAVIT",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 0,
+    "legislative": 60,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 70170431,
+  "total_liabilities": 7817614,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.53
+}

@@ -1,4 +1,5 @@
-// Indian-format rupee compaction + score helpers.
+import scoreBandsJson from '@/data/config/score-bands.json';
+
 export function rupeeCr(n: number | null | undefined): string {
   if (n == null) return '—';
   if (n >= 1e7) return `₹${(n / 1e7).toFixed(n >= 1e9 ? 0 : 2)} Cr`;
@@ -19,17 +20,30 @@ export function ordinal(n: number): string {
   return `${n}${suffix}`;
 }
 
-/** band a 0-100 score into a semantic token */
-export function scoreBand(v: number | null | undefined): {
-  token: 'danger' | 'warning' | 'success';
+export type ScoreToken = 'danger' | 'warning' | 'success';
+interface ScoreBand {
+  max: number;
+  token: ScoreToken;
   label: string;
-} {
-  if (v == null) return { token: 'warning', label: 'Not enough data' };
-  if (v < 30) return { token: 'danger', label: 'Poor' };
-  if (v < 55) return { token: 'warning', label: 'Mediocre' };
-  if (v < 75) return { token: 'success', label: 'Decent' };
-  return { token: 'success', label: 'Strong' };
+}
+const BANDS = scoreBandsJson.bands as ScoreBand[];
+const NULL_BAND = scoreBandsJson.null_band as { token: ScoreToken; label: string };
+
+export function scoreBand(v: number | null | undefined): { token: ScoreToken; label: string } {
+  if (v == null) return NULL_BAND;
+  return BANDS.find((b) => v < b.max) ?? BANDS[BANDS.length - 1];
 }
 
-export const colorVar = (token: 'danger' | 'warning' | 'success' | 'primary') =>
-  `var(--color-${token})`;
+export const colorVar = (token: ScoreToken | 'primary') => `var(--color-${token})`;
+
+export const fmtDate = (iso: string | null | undefined): string => {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString('en-IN', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
+    timeZone: 'UTC',
+  });
+};

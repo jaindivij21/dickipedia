@@ -1,0 +1,449 @@
+{
+  "accountability_score": 54,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 18848300
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1670000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 3658000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 25335000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 49511300,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 326700
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5324782
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 6671678
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "State Bank of India Life Policy 53,69,513 53 Lacs+",
+        "value": 5369513
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 8719932
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3580800
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 29993405
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3459",
+      "total_assets": 79504705,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 79504705,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mansukh Laxmanbhai Mandaviya is an Indian politician who is serving as the 17th Minister of Labour and Employment and 19th Minister of Youth Affairs and Sports since 2024. He is also a Member of Parliament, Lok Sabha from Porbandar, Gujarat.",
+    "title": "Mansukh Mandaviya",
+    "url": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "1 Tughlaq Road, New Delhi NCT of Delhi, 110011",
+    "emails": [
+      "mansukh.mandaviya@mpls.sansad.in"
+    ],
+    "phones": [
+      "9426211670",
+      "9013181970"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "01/06/1972",
+  "eci_state": "Gujarat",
+  "email": "mansukh[dot]mandaviya[at]mpls[dot]sansad[dot]in,mansukh[dot]mandaviya[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1807665,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1913675,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1111019,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2095308,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 774960,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2982394,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2801023,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2669557,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1872975,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1020000,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, Business, Interest Received From Bank And Member of Parliament Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, Business, Interest Received From Bank"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.51 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125107251,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 383360,
+  "minister": true,
+  "mp_name": "Dr. Mansukh Mandaviya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 21892749,
+  "mplads_unspent": 125107251,
+  "mplads_utilisation_pct": 14.9,
+  "mplads_works_completed": 54,
+  "mplads_works_recommended": 169,
+  "mpsno": 5555,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "Gujarat: Mansukh Mandaviya Mourns Deaths Of Four Youths In Porbandar Accident",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHM0MGdWWUdIWkdDenVuNUhuZVZwSjRwenR3QjNaR0drRHFCWVpSZkJKRjFmM1ZySzRYaFA3TWtaQk1hVmgtZmYySlp5LU5CUll1M0czSVZYZkJSbENZMGdDdEtITVprek9lemxCSnUzeG5CNkNuNkRXTWdZb2lzaTFvRV9DMF96YXI3Q2NBVHdWUWxGY1ZfSHJPbHpzbXdqbV9udEdaNk14ZmEwdDhxYQ?oc=5"
+    },
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "Union Minister Mansukh Mandaviya flages off two-special trains in Gujarat",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1l4dEtucFk5MDQyb0dKVFhad1BEc0hWQmdOWEpESkJKamRTREY5ZFI3S25YRS04ekcyQWk3dDhtVEdBRXRNNkgwVnpyeTNCanFVYW5ibXVZNVBjSmlKcmgzWUdnNkFWYXNEc3IxN19acWlneVZscEdHenI2VDJ6eHNrWDRmRHNGemZXek5jNy1TQVU?oc=5"
+    },
+    {
+      "date": "2025-11-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Rajkot: Mansukh Mandaviya Inaugurates Local Trains to Porbandar #Gallery",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGFPYXZ0ME9qVVdFd1RQbm9ybU45TGJoQWhPZnBWN0h1YUx1RXYxMjBjS3VDbFdBbmVxcXY0a002SmhlbkY1OEVVSVBmRU43cHlMY1o2M2VTTmRsQWdraXVJUkd5TXVJb1A4YXpoT1Z3d0ozdUROWW4yaDZYLXpGQ1hLM0VnaHdKZEJoTktXbkxwUkExdHhjOXkyRDVIMFQ4U2pKT25wd0h1Y1pMX1HSAa4BQVVfeXFMTnRhT2F2dDBPalVXRXdUUG5vcm1OOUxiaEFoT2ZwVjdIdWFMdUV2MTIwY0t1Q2xXQW5lcXF2NGtNNkpoZW5GNThFVUlQZkVON3B5TGNaNjNlU05kbEFna2l1SVJHeU11SW9QOGF6aE9Wd3dKM3VETlluMmg2WC16RkNYSzNFZ2h3SmRCaE5LV25McFJBMXR4Yzl5MkQ1SDBUOFNqSk9ucHdIdWNaTF9R?oc=5"
+    },
+    {
+      "date": "2025-04-30T07:12:32.000Z",
+      "flagged": false,
+      "publisher": "Newsonair",
+      "title": "Union Minister Mansukh Mandaviya Joins “Sundays on Cycle” in Porbandar to Promote Fitness & Sustainability",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWJTV0NvcS1JWnU0VlFrY3d5TU84RHdaR3htWXhoc21HR3Bnelp1Tk9JQzdFSHFNV05Jcmtnd0I0cWxKVFpHT0VwRmxJOGhFcExRckhUVUhrLXNzSnJJU3hyeUxDZ0NhazlhbWpmWW5JdUN5MkVKOHhUbXo4akV6dGpLSFphakNGc3ZZZWJUeXVuTDhtaUdqajFGLTdsX2JWdEpMMVhKTGdLcEhucDB4dXhQYmZiaG16elRLRGZaY2ZmcWRUQm56UzVXWkU?oc=5"
+    },
+    {
+      "date": "2025-01-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "PIB",
+      "title": "Union Minister Dr. Mansukh Mandaviya leads 'Fit India Sundays on Cycle' in Porbandar; Olympian Lovlina Borgohain, Wrestler Sangram Singh pledge their support",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYVNnSXVyWDlaTWVZNDZUS0V2d2hKZXBxQ3JiUXhyR0RqR01Cc3kwUU1meEtIQVk1bXpvbU5GYVVrcjhsRWRIY1BIQW5nVGQ3b2JQcjVPOTB1Z2gyeHdQd25WTERnTGMy?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13563,
+  "notable_record": {
+    "entries": [
+      {
+        "response": "positive",
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Mansukh Mandaviya",
+            "url": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya"
+          },
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "COVID-19 vaccination in India",
+            "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_India"
+          }
+        ],
+        "title": "COVID-19 vaccination drive"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Mansukh Mandaviya",
+            "url": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya"
+          }
+        ],
+        "title": "Minister of Ports, Shipping and Waterways"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2021",
+            "publisher": "Wikipedia",
+            "title": "Mansukh Mandaviya",
+            "url": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya"
+          }
+        ],
+        "title": "Minister of Chemicals and Fertilizers"
+      },
+      {
+        "response": "positive",
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Mansukh Mandaviya",
+            "url": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya"
+          }
+        ],
+        "title": "eShram portal for unorganised workers"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2024",
+            "publisher": "Wikipedia",
+            "title": "Mansukh Mandaviya",
+            "url": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya"
+          }
+        ],
+        "title": "Union Minister of Youth Affairs and Sports"
+      }
+    ],
+    "office": "Union Minister of Labour & Employment; Youth Affairs & Sports"
+  },
+  "num_candidates": 12,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-11",
+  "pc_name": "Porbandar",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180122.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mansukh-mandaviya"
+  },
+  "qualification": "Doctorate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "LALIT VASOYA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 39,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 79504705,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 68.15
+}

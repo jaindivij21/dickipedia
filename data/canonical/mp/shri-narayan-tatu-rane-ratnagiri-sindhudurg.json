@@ -1,0 +1,633 @@
+{
+  "accountability_score": 0,
+  "age": 74,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 95957314
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 89178905
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 51541246
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 307119031
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 543796496,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 207000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 137384515
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 15029998
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Life Insurance Policies 23,67,020 23 Lacs+",
+        "value": 24306762
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 124225532
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 42209793
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 134337117
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 67344141
+      }
+    ],
+    "movable_total": 545044858
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=jvcwhGJfBDfiqBTLiJA",
+      "total_assets": 69403149,
+      "year": 2004
+    },
+    {
+      "label": "Maharashtra 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=jvcwhGJfBDfiqBTLiJA",
+      "total_assets": 143193226,
+      "year": 2009
+    },
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=jvcwhGJfBDfiqBTLiJA",
+      "total_assets": 727704231,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=4619",
+      "total_assets": 1088739226,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1469,
+  "assets_latest": 1088739226,
+  "attendance_pct": 50,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Narayan Tatu Rane is an Indian politician and Member of Parliament, Lok Sabha from Ratnagiri-Sindhudurg. He was a Chief Minister of Maharashtra. He formerly served as Minister of Micro, Small and Medium Enterprises in the Second Modi ministry. He has previously held Cabinet Ministry positions for Industry, Port, Employment and Self-employment; Revenue; and Industry in the Government of Maharashtra.",
+    "title": "Narayan Rane",
+    "url": "https://en.wikipedia.org/wiki/Narayan_Rane"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Adhish Bangalow Juhu Tara Road opp- Manikaji cooper school, Santacruz(West) Sindhudurg Maharashtra, 400049",
+    "emails": [
+      "narayan.rane@mpls.sansad.in"
+    ],
+    "phones": [
+      "9821310452",
+      "9871532611"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/MeNarayanRane/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/menarayanrane?lang=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 7,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 7,
+    "ipc_summary": [
+      {
+        "count": 7,
+        "description": "Statements creating or promoting enmity, hatred or ill-will between classes",
+        "section": "505(2"
+      },
+      {
+        "count": 5,
+        "description": "Imputations, assertions prejudicial to national integration",
+        "section": "153B(1"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 2,
+        "description": "Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed",
+        "section": "153"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Cr. Case No. 2/2022",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate, Raigad Alibag",
+        "fir_no": "Cr. No. 209/2021, Mahad City Police station",
+        "other_acts": null,
+        "sections": [
+          "153A(1-b)",
+          "504",
+          "505(2)",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "Cr. C No. 1348/2023",
+        "charges_framed": false,
+        "court": "First Class Magistrate No. 3, Dhule",
+        "fir_no": "Cr. No. 0437/2021, Dhule City Police Station",
+        "other_acts": null,
+        "sections": [
+          "153B(1)(c)",
+          "500",
+          "505(2)"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "246/2021, Naupada Police Station",
+        "other_acts": null,
+        "sections": [
+          "153B(1)(c)",
+          "500",
+          "505(2)"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "Cr No. 0384/2021, Chatushringi Pune Police Station",
+        "other_acts": null,
+        "sections": [
+          "153B(1)(c)",
+          "153",
+          "505(2)"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "0279/2021, Jalgaon City Police Station",
+        "other_acts": null,
+        "sections": [
+          "500",
+          "505(2)",
+          "153",
+          "B(1)(C)",
+          "506"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "0617/2021, Kotwali Ahmednagar Police Station",
+        "other_acts": null,
+        "sections": [
+          "500",
+          "505(2)",
+          "153B(1)(C)"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "I 30/2021, Cyber Nashik Police Station",
+        "other_acts": null,
+        "sections": [
+          "500",
+          "505(2)",
+          "153B(1)(C)"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "10/04/1952",
+  "eci_state": "Maharashtra",
+  "email": "narayan[dot]rane[at]mpls[dot]sansad[dot]in,narayan[dot]rane[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 4953207,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3384435,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 3649026,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5275409,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4945835,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 8773883,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 8368860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7758769,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 10892208,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 10485588,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1507380,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1373121,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1419726,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2038910,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2846949,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business, Capital Gains, Other Source and Honororium"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business, Capital, gains and Income from Others Sources"
+      }
+    ]
+  },
+  "inference_count": 5,
+  "inferences": [
+    {
+      "detail": "From ₹6.94 Cr (2004) to ₹109 Cr (2024).",
+      "headline": "Declared assets grew 1,469% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 69403149,
+        "from_year": 2004,
+        "pct": 1469,
+        "to": 1088739226,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹102 Cr between affidavits, while declared income across 5 ITR years totalled ₹2.22 Cr.",
+      "headline": "Declared assets rose 46× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 1019336077,
+        "declared_income": 22207912,
+        "itr_years": 5,
+        "ratio": 46
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 10% of MPLADS local-area funds were spent — ₹13.29 Cr unspent.",
+      "headline": "90% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 132885469,
+        "utilisation_pct": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 14
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 41
+      },
+      {
+        "category": "Advance from others 2,16,02,000 2 Crore+ Advance from family Members/Relatives 5",
+        "value": 291243254
+      },
+      {
+        "category": "Nil",
+        "value": 2467611
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 86834375
+      }
+    ],
+    "total": 380545281
+  },
+  "margin_votes": 47858,
+  "minister": false,
+  "mp_name": "Shri Narayan Tatu Rane",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 14114531,
+  "mplads_unspent": 132885469,
+  "mplads_utilisation_pct": 9.6,
+  "mplads_works_completed": 11,
+  "mplads_works_recommended": 91,
+  "mpsno": 5704,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ratnagiri - Sindhudurg election results 2024 live updates: BJP's Narayan Tatu Rane wins",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOMndqdGVMajZNYmNHczVxRlllS0JVSkxZSFdmbmViVGFtelJ0S3kxM3JqVTRBdUUyTlhweWplSVNqLWF2d05nd2VDbWpya0tsSjdqem8ycWJTQWJmN0wzLVBvR1VHbVpBRGJtb05CVXpob2M3SGtJTU5Yd0lsTnlvd2tNWDNaZlZOQ1Jkald1M1R6V3BmRUdUM2hwYzZuMFJfeGs1WkxYVGU2Z015SDJLNXlHb3B4Mk9KeWJLRmdBTFAyWThfbWJuaXdFOTVuQzAzQUptU2NLRjA4R2JsQUFLY3BfUG1raHJCUW9GRFFHMjcxTVFlZVNpWWh4Sm0ycFJXVm93dnhaaTI3ckFyaml5X1lETG9yR0NZRHh4V0hvU3RFOVFtelNHTkUwVjViNXo2dU54eDZBNmlrcXc2REFvZHRZLTc5OWU3Tl9UZWZ3ZmlSZ9IB1wJBVV95cUxNcU5BLVBzVnliVDZ0YTQ0UzVZN2twczNkalRCZ3lVb2JBNG11YjVkOVF4QV8zeXFGVGZqdnE3YUVFeUxrWWt0RlgtcWdhNHFJaHdJZHdUZmZqMW1mdDVKdnNGMmxDWk9IdmtkRFlXTk9mVDdqY0taN2I4TnZUZ2tZNFBYcFVQMFhudm5YYmRRMGtZM2pMeDN1bF9odm9fODNBWkUtTXM5V2xoU2NSTFF4bGMtRllDY05GX3I1eFd1SGZ5WjdWQWRNNU1NZ3JVa0NYTjlCODNYZVZSUEV1TUhzZzM5MmU4eWhaR1A1X1pydURwLUh3RnlvNnVlTFBNaXFrbWdFR3R1TVpxaEdoSTRHNFhiV3U4ZzVkLXZBT2t5cDJWN0lhZmFiMlUycmd2ckZwMnI4QWVxNHhoTXQyQmdlNEFNekhuYlFidkI1NlRvQVVYb3A2ZjdR?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Narayan Rane Election Result 2024 LIVE Updates Highlights: Narayan Tatu Rane of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkloM20yYzNuUHNiLVJsYWxOWkdLb2ZsZC1QOVZnUG5PR1ByWGZkbWhTVzM4SGdyWmcyYmhNQzFRaDRSMjJDeFdXUlprOGJWLS0yLXNxNUVRYm44RjJzdTBYT2tGSjRXT0hJWE45R3NsdFVsNHI3TnFjLWViQWdCaGtDSHVuS3ZNaWZ1ckVlcDVSdnE4SjllTEh3Rk1kSFJaRndySWU1cVFjRHhXS0kxcWJVZWQ5eDE3M0NPS9IBwgFBVV95cUxNbmJPMzFhOFJHaFlpRVA4b25aaHhsU3ZvbFpXb3pUSkZxYWNxdUdHLXJ1RGpDbmRHRUpFcHNGdjN0YXUwS096bzJiMExoLWhYNVppem9vSVNJOWt1UHpDendscUx0Vmt5YlhNbjY1WmJLaklIcDRkLVVBZzZHcW1JUUxyVnNjMXBKdDF5SGd5MnhOdWVxQkN6V3BzZkNVR1FkTjBGOHBTLURBZ2U1V0phMGZBc1FlanI0ZG9FNFVmNzJJZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Ratnagiri-Sindhudurg Election Result 2024 LIVE Updates Highlights: Narayan Tatu Rane of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU1dWd3dQa1JkRmRXR21saEZyREFFTDZVelZHLXJqN0Frek9hQmV5alZTbE1acVRmSkNpVWJQOGpCTDdEakhCODhCYTUxUzVuaVBtdXcybkZwX1l2VlJ4VWtuaC1OY3BRQTA1bjV6Y2RZaWM5Z3FFVS1GSFc5enkwX2tpNVZnUmN3V3lobHZFSEoxZVctMWpPT0tQYklSRTRwTElZZVZoVC0yZW9BYTFIdEN6WnVYRFFvUmRDbkVabS0ySGIxV2t1UWRfMjdNeWxxYVRqVW1CZUxqaXpldnU0TkNBSkx0bkhtcHlZcWFEM3lhRGvSAfgBQVVfeXFMTXlGTW82aHlZN0RfaGJfb3FMMWNub1BuWlhReGJMQVp3MnBveFRySVQ4R1VoSVJfRDlaQWhPRUc2YkVJMS1iS1VqdnZRRGZ6SURabldPNENDOVVKX2YyNGwtNmpQczI4bEJOSXJWbGVvYUpGSmhnWnlyZS11Zjc1WTdkVVQ2MXdtX3UzTFBacW5NVENGR1RfUDJ4NE5HNFA2eV9WRU51LUM5eC1lM0FMXzhuVzJQWXlwaXlRczNGVGFvLWcyOUd0Qkh4QWlmR0tqY3RVY2ZzaGtCZmxRUG9Vb1Y5OEpZN0RTM05xcnE5YUdmbXlia1FvQWE?oc=5"
+    },
+    {
+      "date": "2024-05-06T08:13:31.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Narayan Tatu Rane, Bjp Party, Ratnagiri - Sindhudurg, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeEx5WDlJY2pwTlVGNWxqWFF5Z1oxR2FsUTBUdlVIaThsVXBMVnljd1ZLRllRbktiSzBxUkl5SmtXcWVzNFNMbFVzZ3NvRWVFV0xzeWVuUTVDNUoxLXpMQklzZ0JvVzViUGJUUWtYS3dXSWZTVVp5UHVtS1NDczVFcThqRVhUbUM4ZXFxdElmaFFxTzVCM3pFcFNYWkZjV0k3OGZUUDVnRXpiVTNJMjFXWmJsTmowbnhNX0FZNExXX0JIOTNJeE1mY3hPUElleFV5YlFYR0k3THhna1JzLUZKbS1NdUp4OUdqT2ZpUWVIdjlCckE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11643,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "maharashtra-46",
+  "pc_name": "Ratnagiri- Sindhudurg",
+  "pending_cases": 7,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180270.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 53
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 87
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/narayan-tatu-rane"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 14,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Communication": 2,
+    "Culture": 1,
+    "Finance": 1,
+    "Jal Shakti": 3,
+    "Law And Justice": 1,
+    "New And Renewable Energy": 1,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "VINAYAK BHAURAO RAUT",
+  "runner_up_party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "score_breakdown": {
+    "base": 22,
+    "criminal_deduction": 40,
+    "legislative": 23,
+    "mplads": 19,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 15
+  },
+  "serious_cases": 7,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 1088739226,
+  "total_liabilities": 293710906,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.07
+}

@@ -1,0 +1,512 @@
+{
+  "accountability_score": 56,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2206334
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1898000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 9968000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6280000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 20352334,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1199000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1730024
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2661585
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 221646
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 8670857
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1434582
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4692320
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 20610014
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3774",
+      "total_assets": 39863356,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 39863356,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Haribhai Patel is an Indian politician from Unjha, Gujarat. He was elected as a Member of Parliament from Mahesana Lok Sabha constituency. He belongs to Bharatiya Janata Party.",
+    "title": "Haribhai Patel",
+    "url": "https://en.wikipedia.org/wiki/Haribhai_Patel"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "16, Shrinagar society Near Sukhapara, Mahesana Mahesana Mahesena Gujarat, 384002",
+    "emails": [
+      "haripatel_sunak@yahoo.in",
+      "hari.patelmp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9824068123"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "01/06/1961",
+  "eci_state": "Gujarat",
+  "email": "haripatel_sunak[at]yahoo[dot]in,hari[dot]patelmp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 471270,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 445190,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 570620,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 645950,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1003300,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 464030,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 541230,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 542670,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 634990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 532740,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 266350,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 294300,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 169377,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 176880,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 240531,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension And Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business and Agriculture Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 23% of MPLADS local-area funds were spent — ₹11.26 Cr unspent.",
+      "headline": "77% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 112580535,
+        "utilisation_pct": 23
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1266000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 119112
+      }
+    ],
+    "total": 1385112
+  },
+  "margin_votes": 328046,
+  "minister": false,
+  "mp_name": "Shri Haribhai Patel",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 34419465,
+  "mplads_unspent": 112580535,
+  "mplads_utilisation_pct": 23.4,
+  "mplads_works_completed": 142,
+  "mplads_works_recommended": 497,
+  "mpsno": 5560,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-08-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Mehsana MP Haribhai Patel suggests to shift FCI depot outside city, reasons traffic and road accidents",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzNxaDFaZU1kRXpnN09kZE1idTdFNnJBY1dEZEo0UGpwRFhQZG5DMzhlWV9seDRrdWlMYWo3N1VicmZpSnhxYzFyNXdiemxQZXNfR3VJcm5Wejh4Q1puS0hSWDVEU0Y4aV9MazZkS0t4dEVCZ054blgxX3VHUlE2NTlrV003R1l4eF8zWkgyX0pNTl9JWXd0U21oUy1qeGdtd2gwSkU4XzdGZzVQQXBIbEt4Q2V3T1VOV3RkMXlCdFY2UdIByAFBVV95cUxPcV9tOXhnQXJOMVhPUFdXMno0Vl9RSGJlTzV0V2l4b0NxR2FlTGNXUUszZ3h4THR3UkNieGNLTGFGcmR3RUxPNTU2Wk5yaTVEcEdIWFJsVTJYVl9xUEQ1SUZzYjlaRFpqbUNPTHlWSG5TWFFnOTZhbUVFYzM4eTlZMEhXM3dVc1l0ZTZXN1lSMy1hcXB6d1NyV1VmWElrSnNjTm5lbUNlM1RvbGxYdmYzY0ZzQjVpTXp3TlM3cXJVYWlYd29rT0luQQ?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mahesana election results 2024 live updates: BJP's Haribhai Patel wins",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNN0UzTHhxQTRBSjZ5ZkxYSnhwRHhPbUJZSVUwSGFMbmVPdDk0djJQTWd0U2hZN2x2TmZCWXZJYm5kR3EwaWFkS2pvYkF2OGdQUUNoSEVESTNWQWhuSTZtS0FtUVR4SXMyMTk3Q1BQRUs4RG16aDN5MVRFV05QSWFJSUJYMFMzWHhOMlQwbGdaUjFjR3Myd1A2eTNvNXFzU1M3czRtYVBHWjU2NHhzZGNIamV1cTd2TG9MZlVVTk9qRFNXSEpTVHBlRzRIUWZWRVR2MmpQMWVVUi1JbElmcEt1bEZsTmcyeWkyMzlERk9MNHNQS3VrcDVubXFtdGY4LS1GdHoxMmdENmpoWVpfUWw3aXR5SGJOYnRsMGs1R25MUkROX0J6a3JmRNIBrgJBVV95cUxOc1JETGFfdjZack1pdFRlbzdlSlFJY2s2cnJrUk03a2ZWelVTVzV1X2g2VzVZbWlOZVhBRUNkZ201UGtyLTRmME55TFFGaFMxNno0ZWphRFpTSl9wNjZ6dEkyRkZseEdWRkJNdFJlSFZhTzVuLTE4emVpX0s5akhkZjZXN2c1YU9jQXZHcDVJcWRXNzJabW1la2V4RHJEaEhKTF9yRE9QTHh3cXJxQUxSd1hiQ1RPV2pPWXFrbFlkLVk3VFZCNmwwQ08zcWhLX3VpMFBNVTNHWjI5bE93WHpJUTh4Rnlzb2hOM3c5T1JOOGJ1MWg1UjNNaXd5THc3cUhlU1BPaGtzY1Fmd09LLVZ6aS1TdGlTa0p6UXVuYjI2RFRmcGpJYkQ2TkhnS212dw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Mahesana Election Result 2024 LIVE Updates Highlights: Haribhai Patel of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFk2d25MVFd4SkVTbUdHa3BCTEZnV21FendkekUwbVJIUkhuMzV5SnkzVzlhcWxOaS1xNUU3ZUpONjBVbEtSR2FFTzRzYUhaYWNPSk1FSlBsQ3Y2SlNxZlZTdkFnUGlnU0tQSjAtaHRDZUVXVmlwc2ZGQXNyNzhFN3Foa2ZpMWxLcFZRNkZxQWM2VkkybmtLWGF6LVR0YTQ0eTRvMHR5MjFxNzJuLTVycENCcTlWd1BPOVdKaVdVdXBLRzF5OUtNN0NXRVBDN2FyVHdKZ1hpc1I3SkduM2VVbWlhY9IB6AFBVV95cUxNbGJPcDFxdFR1bkpjSjZxQlh6N2N3NXIzMzl3TDdWNEtvWXprZ1lEdU9RVHZCOElIRUR0cHEzYmFNYXpOeVRPX2plUk9QNDBlOGFEV1k1RFl1Q29sR3RLUm5BekpTNGp6ZmczYnlSOF91R3JOdllGZWlGLUxoTTZacXBycHJzbkNLMFJaR0JmWGdKQnItNjJrX0JNNWxndHlQSHdKaDhpT3M2X1ZZUS0xcGZfODA2eDh5My0zMWtHMDdERWpMTllWckdDcmF1V0hGSXA1NWhzWXlrSE41Sk1Xbm1rV2NrNmp2?oc=5"
+    },
+    {
+      "date": "2024-05-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Gujarat: Haribhai Patel Hopes To Keep Mehsana Lok Sabha Seat For BJP",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUxEQ01KajJPVFZDY2RMWC16MkVEZnRrOVZleWswaTFqU05tWkhWb2ZjbHpXbVlnUEEzWEpiWmhLMFZqYWlhbC1jRTRTQk5UTkNEbGh5RXJudTZKOGtKeFdkNGJJREdDNERJNG5qeTA2WUoyRHlQb2NaREdWLV9DVHNTSE8wM0NtQUtyVDgzU3V3a05ObDJ3WXA4b2VDeWlBQjNidGxn?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:09:50.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Haribhai Patel, Bjp Party, Mahesana, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQXh4MThIVEc2TnFEWVVzeHhVYmh5ejRuTEFuQWNvSnBtSzgzeTZGT285X2NfMkFnWXYxVlZheTkzckR4QmtOaklMNnVuY1FrMmpiaGRZM2ZyVlZEYmh6c1F1LWtjblJWM25xcnZLbENhckwyNDk5WWtPdnRtUGI3WmlPUlp0bDFObEZXNk1mMjMteEMxcDZRaWxrdUVjUkdqbHduQkdVWFJXdGV6T2ZmNGFlUmstaEJZeXIyWFZtUFN6U2pxOUs0RnpnZGNvRHJRTWMxWlQ5dG5Idw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11626,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-4",
+  "pc_name": "Mahesana",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180117.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Principal (Retd.)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request for Setting up an AI Innovation Hub in Mehsana to Promote Technology Education",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for setting up of Visa Facilitation Centre in Mehsana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to set up a regional office of Spice Board of India in Unjha in Mahesana Parliamentary Constituency of Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to establish a Kendriya Vidyalaya at BSF campus in Mahesana Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to construct a railway overbridge at level crossing No. 19 near Jotana Railway Station in Mahesana Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of a Spice Park in Unjha, Mahesana for Farmers' Welfare and Income Growth",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need to establish a �Rashtriya Arandi Board�",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding development of logistics for transportation of agriculture produce through railway containers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Appreciation for Initiatives to Enhance Agricultural Logistics through Railway Infrastructure in Mehsana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to start a scheme for free treatment of children with type � 1 diabetes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request for free treatment of diabetes 1 in the entire country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding shifting of FCI Depot from Mehsana city to the outskirts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to minister to construct an ROB at mehsana railway station",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 130
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/haribhai-patel"
+  },
+  "qualification": "Diploma Course",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Atomic Energy": 1,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Communication": 3,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 6,
+    "Heavy Industries": 1,
+    "Jal Shakti": 2,
+    "Mines": 1,
+    "New And Renewable Energy": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Science And Technology": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAMJI THAKOR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 56,
+    "criminal_deduction": 0,
+    "legislative": 63,
+    "mplads": 47,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 39863356,
+  "total_liabilities": 1266000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 63.74
+}

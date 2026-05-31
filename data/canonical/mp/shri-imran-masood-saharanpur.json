@@ -1,0 +1,676 @@
+{
+  "accountability_score": 24,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 31550000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4950000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 3300000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6815000
+      },
+      {
+        "category": "Others",
+        "value": 100000
+      }
+    ],
+    "immovable_total": 46715000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 370000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 112000
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 203002
+      },
+      {
+        "category": "LIC 1,92,794 1 Lacs+",
+        "value": 442344
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 65000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 7595000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8787346
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=298",
+      "total_assets": 55502166,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 55502166,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Imran Masood is an Indian politician. He is currently serving Member of Parliament, Lok Sabha from Saharanpur. He has served as the Chairman of Saharanpur's Municipal Council and MLA from Muzzafarabad in Saharanpur District in the Uttar Pradesh legislative assembly.",
+    "title": "Imran Masood",
+    "url": "https://en.wikipedia.org/wiki/Imran_Masood"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Ambala Road, Qutab Sher, Saharanpur Saharanpur Uttar Pradesh, 247001",
+    "emails": [
+      "imranmasood20024@gmail.com",
+      "imran.masood@mpls.sansad.in"
+    ],
+    "phones": [
+      "6397055008"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 1,
+  "criminal_cases": 8,
+  "criminal_detail": {
+    "convicted": [
+      {
+        "case_no": "CC No.178/2019, Case No.733/2022",
+        "charges_framed": true,
+        "court": "Honorable Court Civil Judge C.D./A.C.J.M. Kairana/ M.P., M.L.A Court Shamli",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "171G"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "convicted"
+      }
+    ],
+    "count": 8,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 1,
+        "description": "Forgery of valuable security, will, etc.",
+        "section": "467"
+      },
+      {
+        "count": 1,
+        "description": "Forgery for purpose of cheating",
+        "section": "468"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for undue influence or personation at an election",
+        "section": "171F"
+      },
+      {
+        "count": 1,
+        "description": "False statement in connection with an election",
+        "section": "171G"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Using as genuine a forged document or electronic record",
+        "section": "471"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Session Case No.34/2019",
+        "charges_framed": false,
+        "court": "Court 1st Additional Session Judge/MP, MLA Court Saharanpur",
+        "fir_no": "203/2014 Thana Devband Dist. Saharanpur UP",
+        "other_acts": "Sec.125 RP Act, Sec.3(1)(1) SC/ST Act",
+        "sections": [
+          "153A",
+          "395A",
+          "504",
+          "506"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "3684/2023",
+        "charges_framed": false,
+        "court": "ACJM II/Special MP, MLA Court Saharanpur",
+        "fir_no": "Crime No.353/2014, Thana Qutubsher Dist. Saharanpur UP",
+        "other_acts": "Sec.6 UP SC Act",
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "3683/2023",
+        "charges_framed": false,
+        "court": "ACJM II/Special MP, MLA Court Saharanpur",
+        "fir_no": "C.C.No.155/2010, Thana Sarsava, Dist.Saharanpur UP",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "283",
+          "341"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Special Judge (Prevention Corruption) CBI Court NO.2 Ghaziabad",
+        "fir_no": "Crime No.532/2007 Kotwali Nagar Thana ACJM/Special MP, MLA Court Saharanpur",
+        "other_acts": null,
+        "sections": [
+          "420",
+          "467",
+          "468",
+          "471"
+        ],
+        "serial": 4,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Special Judge (Prevention Corruption) CBI Court NO.2 Ghaziabad",
+        "fir_no": "Complaint No. Special Case no.04/2023 Thana ED Lucknow",
+        "other_acts": "Sec.3/4/45 P.M.L.A. Act, Cognizance YEAR 2015",
+        "sections": [],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1712/2023",
+        "charges_framed": true,
+        "court": "ACJM II/Special MP, MLA Court Saharanpur",
+        "fir_no": "C.C.No.98/2019, Thana Titro, Dist.Saharanpur UP",
+        "other_acts": "Charges framed year 2015",
+        "sections": [
+          "171F",
+          "171H"
+        ],
+        "serial": 6,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "1713/2023",
+        "charges_framed": true,
+        "court": "ACJM/Special MP, MLA Court Saharanpur",
+        "fir_no": "C.C. no.12/2022, Thana Qutubsher Dist. Saharanpur U.P.",
+        "other_acts": "Sec.3/4 Epidemic diseases Act, Charges framed year 2021",
+        "sections": [
+          "188",
+          "171H",
+          "269",
+          "270"
+        ],
+        "serial": 7,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "02/04/1970",
+  "eci_state": "Uttar Pradesh",
+  "email": "imranmasood20024[at]gmail[dot]com,imran[dot]masood[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 295270,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "AGRICULTURE"
+      },
+      {
+        "person": "Spouse",
+        "source": "NILL"
+      },
+      {
+        "person": "Dependent",
+        "source": "NILL"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 1,
+        "pending": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Sections 420, 467 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating, forgery of valuable security",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420, 467"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.36 Cr unspent.",
+      "headline": "71% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 103605563,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 64542,
+  "minister": false,
+  "mp_name": "Shri Imran Masood",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 43394437,
+  "mplads_unspent": 103605563,
+  "mplads_utilisation_pct": 29.5,
+  "mplads_works_completed": 43,
+  "mplads_works_recommended": 105,
+  "mpsno": 5589,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-26T01:47:09.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Saharanpur: Imran Masood ने Congress छोड़ने के सवाल पर दिया बड़ा बयान, PM Modi पर कसा तंज",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ21LMHNMald0MzlNZ0ZoUXpzaDhvdzg2ck0xdlZORWZxYnByUGpQRmREZC1oSkhVR0ctXzIwM0Uwel9paGZ2LTBKQm5qbjc1R2htMDV3MTNQcGozRWNzVjlzLXhRYklROG10ZmNyRmJZU1BDa2lPaUpqWXpyYXBDbF9NYWNKN05IMHRtTFNGOGs1T1pPSWp2VHRUVUZaSVFha01yZnQxVWpEQ21mSFpUY2NEZF9uVVkyWHYwVWZia3lOTVdITTdUZXYxM1YtazMxUlF6bk42ZU9ZVEVNZWtN?oc=5"
+    },
+    {
+      "date": "2026-04-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "MP turns traffic cop: Imran Masood clears block in UP's Saharanpur, video is viral",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU9EeHJVODQtUHZVR2tKY0xvYlMyZHV6d0F6SWN3dHk3WFd5WmhKSVhWOGJTQjFXbi00cWRlbWdIbFh3eWhKNkJIc2x1YUNTT3RiZ1pLb0RscVBKbDRBWTQ3aFNqUFRIc0pRVXBMcGRHOWYyc0JaeVE5Y1gxZjF4WkpXd3ZRNTNMZmdkUmpsMHhXOXQ0RlFpREZnUlZUWlBNMkRfQ3k2ZEZBd1VkRkFSeUxhZkdMYXpWa21feTdwUk9jNjTSAcgBQVVfeXFMUDlRZ2ZoYWR6WlBmQlVhOE9KY2t3cVZKUFFQNGZQVFNXeHUxTHlGZGJCVTF3TmpGelZrUFdqemZVLVBtSDJRZU42c0doTVMtYUxEVkZGOUJTZ01OVHNFY3VIVlltSzQ2SzBRbDlGajlnLXp3ZmlTdlpfSGJzeXRvcEhsdThwTFd2U2VMZXg1ZGUwSUxOandnc25peG9Dai1paVRLZ3RZWE1kVEd5QkZSMmkyS2t3cVBVRW1YUEtQZ2dtTFhTRUVnM1c?oc=5"
+    },
+    {
+      "date": "2026-03-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"This war will be endgame of America's supremacy\": Congress MP Imran Masood on West Asia conflict",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaWJ3X21tcEhOQWhnU3I3bk1qejktSEFkMF96ZUhKMm9pVUM5ZXRJcjYzZ05FMmxWSVZDRk5mdzE4WkxnVVdkUk95Xy1XT2NlTXM3QTdLRW84Y1ZfZmxidlRrY05HSTZEeHpJeXpwc1lfZ1RRdzZHei1MalloWUFJQjFIbVl2WGpCaktfeC1zTmpOZFp1b2t4X1BRRmczZHQwT3E1cHVqNGVnNTUyYmNWOGxDSEFyWTdMdml2UGp5SlJfTXlGY3lGX21WanlsbmZMeF81MkN2WHVINm5CWXJPbzQtUkxCNkNtbUF2VU93?oc=5"
+    },
+    {
+      "date": "2026-03-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "‘How is Atiq shown linked to ISI in Dhurandhar’: Former UP MP angry, Imran Masood calls it a rubbish film",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVHIyUUJEUUgyMXZUY05Rb0ZabHlFTEV4d1FpVXNMajZZWGxDREJFcl9jNW1RdHlkYTkwNTBMNmU5djQtT0hsZVZRc1hKNzdPdmg5US1qWjRjSnpJanNkdWpSMzZLTUdhVDdpbllDX0lXUlo1ejJTRUwtUzN4cFp4WUtLLXY0bERMRVlLOXhjSGFOWVk1Z1g1akVBbm1DM3BVUWdHUDFpLVRfUEh0YVJ6ZS1wSnF4a2JSTVVFZUJoSEYxMEx2VHfSAcsBQVVfeXFMUHl6aUpWT2hXYTlETGYteDRhM0FueHdDTlZaRFVQSFFCVVVJM0ZuUm16MXVfYmxuX2RUbG1OTEptXzhiMlVjM1RQWGVPZ25XTTd0cjJaWnRiQ1p1VjlCUC1DU3pqNlJVZ1E5YU1vakZzV2RvaFowb2ZzM0Z1VDhrYk1hY0RtMmxteUdfandYVDY5YmhRMTkzR0tyZE1QS21zY18zdWdoOG9uWjgyN1M2ZTZkVi00SHUwVWtMa3FWeXpaRXFXeVBwdTl4R2c?oc=5"
+    },
+    {
+      "date": "2026-03-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Rename Saharanpur Railway Station after Maa Shakambhari Devi: Congress MP Imran Masood",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNzVPeFpCblN4YU54RmtmMHRfU1FYT2Q4dmMzMEUzdDlRTk0xVFJBOGhEbjNDRlJYNV9pOC1pX1RLZENSZnY2Vk9ta3pyeklSUjFITHdNQ3hOd2lQa0ZVQlVnaC02ek5hQzhYTGN0NnU0T3c1cGJxb2JTT0VyTWltNF9iVkFQR09lSTF3NW5vLXlxN2hvTG5ZcVd0OUMzSFZJMFpvUHA4MURCQlhERzFGREdMVGFKWWtmR2tWalprWWNmdy0wZTVWdHdvdUtjeEZTQXE5TzMxWXRqd0MwdHVNeDQyZU1zUF9XVmNIZy1uMkxVLW1s0gH6AUFVX3lxTFBlTEQ1bDBManhxVFR1aXFObU5WQ3h4QlNoS1ZobkpyM0dZWUhhWmZvdFFULTFxZGo0Q3JzVTFNYXhMekUyS2NLazVmT0ZHLXJjak9hRl85bzY0Z0xKQnl6ZV85WlJMemZqOWl3bmw2dWIzd0xvdWhSdWVJRl8tUmJ6b2QzTUxRSklfeGlKWXRlc3k4VDN2bFgxWURjcVpsMUxGWThmSDJPZHhDUGtkYTNOQ0stU09nSVVqc0VkR1VLODh2STJhdDFVR2NYRDNITU1qSVdMRjVfTzQ2Tm5vRWVhSm1TcGpSYkJzaUpVdXA1Z040VTRDZjFSelE?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 4566,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "uttar-pradesh-1",
+  "pc_name": "Saharanpur",
+  "pending_cases": 7,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180448.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Establishment of a High Court Bench in Western Uttar Pradesh for Affordable and Accessible Justice",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to implement provision of labour laws in respect of Sanitary workers working in trains and provide them all Social Security Benefits",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Extension of Deadline for Registration of Waqf Properties on the UMEED Portal Due to Technical Issues",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to amend the RTE Act to eliminate the requirement of Education Eligibility Test",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Include Specialized Medical Facilities in Saharanpur Under Existing Health Schemes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to set up a Super Specialty Department in Shaikh-Ul-Hind Maulana Mahmood Hasan Medical College in Saharanpur, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Urge upon to govt lord sakumbhari devi temple in saharanpur should be selected as a religious tourist destination and its overall development should be done",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 109
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/imran-masood"
+  },
+  "qualification": "",
+  "questions": 34,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Defence": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Law And Justice": 2,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAGHAV LAKHANPAL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 63,
+    "criminal_deduction": 39,
+    "legislative": 63,
+    "mplads": 62,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 5,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 55502166,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.57
+}

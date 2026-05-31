@@ -1,0 +1,426 @@
+{
+  "accountability_score": 21,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 9000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 3000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 16198070
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3532500
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 31730570,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 31000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 200000
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 300000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 500000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 1031000
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7512",
+      "total_assets": 32761570,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 32761570,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Mohmad Haneefa Jan is an Indian politician from Kargil serving as a member of the Lok Sabha representing the only constituency of the union territory of Ladakh.",
+    "title": "Mohmad Haneefa",
+    "url": "https://en.wikipedia.org/wiki/Mohmad_Haneefa"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Near Hotel D Zojila Beamathang, Baroo, Kargil, Ladakh, 194105",
+    "emails": [
+      "m.haneefjan@gmail.com",
+      "m.haneefajan@mpls.sansad.in"
+    ],
+    "phones": [
+      "9419176277"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "02/01/1969",
+  "eci_state": "Ladakh",
+  "email": "m[dot]haneefjan[at]gmail[dot]com,m[dot]haneefajan[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farming ,Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹15.72 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 157179150,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 150000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 150000
+  },
+  "margin_votes": 27862,
+  "minister": false,
+  "mp_name": "Shri Mohmad Haneefa",
+  "mplads_allocated": 161114542,
+  "mplads_expenditure": 3935392,
+  "mplads_unspent": 157179150,
+  "mplads_utilisation_pct": 2.4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 14,
+  "mpsno": 5808,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Voice of Ladakh",
+      "title": "Holy Relics of Tathāgata Buddha Welcomed in Ladakh: MP Mohmad Haneefa Jan Condemns Deliberate Exclusion by Administration",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZEZJU2FvdVBXd29PSDBQWEtCWU11cy1GQ3lVUVY2cVlUdFFaWW1KWG5CczR2MzlPSjk3ZEFxa1ZPUDQyYWQybmVBM084elpINkNjcnhGNVJQTzFOeTBiMUhZdXhEdUpSWUNTT25fS3FFeW44VkZ1MEFSOFNTbnROdVZNRHA1SjY3UTUydzh1c09hZzlxSDFURV9nT2RwQ3BJZmpvVXhHZnRxQ0NOZjBRRFVlR0ZIdkU1RFdLZS1ybE1RRXJLeDNOOVN2c2F3S1JzSzltbzR6Ymt0eXZTcVZEUUVNMWt3RWxDemc?oc=5"
+    },
+    {
+      "date": "2026-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Ladakh MP Mohmad Haneefa Flags Lack Of Assembly, Says Women May Miss Out On Reservation Benefits",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3htWGtkenhFekU4bnptbFQ4LTlZNjdGeTZmRzZWZ2VJdS1XNU1WSmduWU94RHNwOFJWMFpSbFhGdjFoSTBGWlA4em9WX1BlRnZydmVRUURQOXBsS0dRakpVcXladXBPM3hFQks5VThpSDJDbDVNWWRKMmo1X0Q0bURHc1kwNFB3OTZCdkFrT0FMRjdDTjdfNk5zVWpjUEpCSDRJeDBKS1BJa2s1SFJ0Z1doaVMxT3JRN29KSExRaXpuSlFBc1VkY0NFckl5aWFDSzllX01LaWFPVEVqMFpj0gHkAUFVX3lxTE9DOHJScTlwaWxIZXQ0dGF5MVZiRXJPdVk4TmVPaWswOUdzczI4WVQ3OTNWTldVUmZsNFo4blhYb2JmMmlqaFZGZUV6cmRJS3BCM0hEazJxZ3NfdHpkZzV6WDR5TTBhTUJvMkF0YTlOREZ5Q204ajFFZFBnUXFwTEV0d2FKaWpZRDBOT0tKOVpkc1RDeWJaSk5OYTBHLWx1ZnJoTC1Xcy1HVGpiZjVGWXg1ZnhGS0M4UXBxVG0zd3ZrRTlGVnNfczdGdTdpOTFQS2JleUhSX0diVzZETDRidVNaTG1jZw?oc=5"
+    },
+    {
+      "date": "2025-11-07T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Administration of Union Territory of Ladakh",
+      "title": "MP Ladakh Mohmad Haneefa Jan Tours Poyen Constituency; Assures to Address Public Demands on Priority.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR18tVnpxRmItLVpTV0ppVWlOT0dqa180VFFPT2lfaG5pUUtQdmpiLVpaaEQ3UTdLZkRWSVhPVEprbXpNSHFrRl9BU1pJeVJuOEJfNFk4YWlEeXV6STZsbnZVd2ctZDVCQVNkQUNoamU0WXNnZHd2cVVuZHdYc0R6b0NEV0dpSHVMOHBSVjRHamhESmxyYndmaUtmY291TUI0TGRRdWY0eGxxaEItTGRFbExQT1pFbE56T01EUm9VZw?oc=5"
+    },
+    {
+      "date": "2025-11-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Administration of Union Territory of Ladakh",
+      "title": "MP Ladakh Mohmad Haneefa Jan Tours Pashkum Constituency; Assures Early Redressal of Public Grievances.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXZnaXBaUkg3U0R5LTJIcEhBMDhLdVV5RTVPOWlMOE5qbXcwblBlQmxkMDl4anFDbERSZmpIOFRiWm5qaTZBTkY1N1BfTG95WnJXVFl4dzJFcWp2OV9URk00R05BTkJGTlZQN3hjY2JTQW43R1RGdFJ4NWFGQXpzWVd1WnJjdmM3TmVlYUpSLThrZF8xRFZnR3licE1MeWFjMmNMUUJWWURTbllZMlBrdTB5U1FHZV9vdi1RWl9Nc0c?oc=5"
+    },
+    {
+      "date": "2025-11-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Administration of Union Territory of Ladakh",
+      "title": "MP Ladakh Mohmad Haneefa Jan Tours Barsoo Constituency; Becomes First MP Ladakh to Visit Last Village Itchoo.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmNFS3pJbUhQN05lZkxfX3FURGVCbzBVa0NmblFhd242clVTLXVYTUxoa1dsaDZiMEs1MlZZVU1yVFkyZzhtS2ZNRXlPMVdUZm1yLU9PeGQzekRyOFBjN1BMcnlhRWRPcjJPcmZlaFQ5b2VkNERiRnJ1UU1SX01pamJ0TDF2MVhVRS1aaUlEV1E1MGlFRk5URkRMcGVNTVJpaU9HeFdrNjV1MkxBMFd4SW9PX1Y4Rk0zQVFYckFvSElpelRDdFNVeXJB?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 912,
+  "notable_record": null,
+  "num_candidates": 3,
+  "party": "IND",
+  "party_bond_total": null,
+  "party_full": "Independent",
+  "pc_id": "ladakh-1",
+  "pc_name": "Ladakh",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180213.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 87,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Safe Evacuation of Indian Students and Pilgrims from Iran",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "Regarding need for a special and alternative mechanism to conduct CBSE Board exam in Ladakh to address winter and terrain related difficulties faced by students in the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to accord approval to the drinking water supply projects for Leh and Ladakh submitted by Ladakh Administration under Amrut 2.0",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to appoint a dedicated DDO in Akashvani Kargil in Kargil district, Ladakh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to set up a Permanent Passport Seva Kendra in Kargil district of Ladakh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Withdrawal of Cases and Leniency for Youth Involved in the Ladakh Incident",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need for safe execution of Zojila Tunnel Project connecting Jammu & Kashmir and Ladakh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt give status of full-fledged statehood to Ladakh",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17,
+      "value": 17
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 65,
+      "value": 65
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/mohmad-haneefa"
+  },
+  "qualification": "Under Matric",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Earth Sciences": 1,
+    "Education": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "TSERING NAMGYAL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 21,
+    "criminal_deduction": 0,
+    "legislative": 32,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 32761570,
+  "total_liabilities": 150000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.15
+}

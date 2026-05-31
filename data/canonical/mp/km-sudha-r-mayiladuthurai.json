@@ -1,0 +1,650 @@
+{
+  "accountability_score": 31,
+  "age": 49,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 49000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1113830
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2700000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3862830
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1575",
+      "total_assets": 3862830,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 3862830,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No 71/B G.N.T Road, Gummidipundi Taluk, East Gummidipundi, Tiruvallur Dist., 601201",
+    "emails": [
+      "sudha@iyc.in",
+      "sudha.mayiladuthurai@mpls.sansad.in",
+      "mpsudha.mayiladuthurai@gmail.com"
+    ],
+    "phones": [
+      "9444141925",
+      "9094788771"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/R.Sudha@AdvtSudha"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 10,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 10,
+    "ipc_summary": [
+      {
+        "count": 10,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 5,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 3,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 2,
+        "description": "Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse",
+        "section": "151"
+      },
+      {
+        "count": 2,
+        "description": "Negligent conduct with respect to fire or combustible matter",
+        "section": "285"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Unlawful assembly",
+        "section": "141"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC No 794/2022",
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "557/2021, Date 04.10.2021, Central Madras, Anna Salai Chennai, District",
+        "other_acts": "Section 41 TNCP Act",
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "2713/2020, Date 21.12.2020, Town North (Dindigal), Dindigal District",
+        "other_acts": "Referred on 06.01.2021",
+        "sections": [
+          "143",
+          "341",
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "185/2019, Date 18.09.2019, Tiruppattur Town Police Station(Tiruppattur)",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "388/2022, Date 16.06.2022, Guindy Police Station Adayar Distt.",
+        "other_acts": "Section 40(1) TN City Police Act",
+        "sections": [
+          "143",
+          "151",
+          "341",
+          "353"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "219/23, Guindy Police Station",
+        "other_acts": "Section 41(6) CP Act",
+        "sections": [
+          "143",
+          "151",
+          "285"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "140/23, Chintadripet Police Station",
+        "other_acts": "Section 41(6) CP Act",
+        "sections": [
+          "143",
+          "149"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "593/21, Nungambakkam Police Station",
+        "other_acts": "Section 41 CP Act",
+        "sections": [
+          "143",
+          "269"
+        ],
+        "serial": 7,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1056/2020, Anna Salai Police Station",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "188",
+          "269",
+          "285"
+        ],
+        "serial": 8,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "10/2024, Anna Salai Police Station",
+        "other_acts": "Section 41(6) TNCP Act",
+        "sections": [
+          "143",
+          "141"
+        ],
+        "serial": 9,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1730/2020 North Brach PS",
+        "other_acts": "Section 41(IV) TNCP Act",
+        "sections": [
+          "143",
+          "188",
+          "269"
+        ],
+        "serial": 10,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "27/07/1977",
+  "eci_state": "Tamil Nadu",
+  "email": "sudha[at]iyc[dot]in,sudha[dot]mayiladuthurai[at]mpls[dot]sansad[dot]in,sudha[at]iyc[dot]in, mpsudha[dot]mayiladuthurai[at]gmail[dot]com",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2016-2017",
+        "income": 388080,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Advocate/Legal Practice"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 16% of MPLADS local-area funds were spent — ₹12.38 Cr unspent.",
+      "headline": "84% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 123833995,
+        "utilisation_pct": 16
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 271183,
+  "minister": false,
+  "mp_name": "Km. Sudha R",
+  "mplads_allocated": 147332315,
+  "mplads_expenditure": 23498320,
+  "mplads_unspent": 123833995,
+  "mplads_utilisation_pct": 15.9,
+  "mplads_works_completed": 7,
+  "mplads_works_recommended": 150,
+  "mpsno": 5650,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-23T20:01:45.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sudha R , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YMFgzS191MDAyb2pwRUVyc1RIZlVCRjdqZ1VGYS01cHQ3WVBuazJTU0ZtVElsOG9kWGZFSTdyR1pTWk53NXY1cnBmUWpHcGdtVHBrWG5ZbjIwb3MwdUJyU1NRanh1WlBoVnhyU2dOc3JheUxWbXNMV21jQ28?oc=5"
+    },
+    {
+      "date": "2025-08-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "\"Highly Traumatised\": Congress MP Sudha R's Gold Chain Snatched In Delhi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXhGZUJYVnJld2QtbTMwbnhObjB6MlBQQnM0QjM5Y19DVlZfRHk5RzJNMFpiWVFfbTI4Yy16M0ZSaHJCX0xQcU1OampJWC1xUWl1VFNYR2hEajJ4V3RLTFktdlJZQXBQeWdmSzkzTk8tTzdQRVdScG9CTXlyZjljR19WOVVzTTNnX1d1TU9kbHh5SkF2Q3RJRVdhUjhjS3NXTDhNQXo5V2dzdVNPbHBFQkpseVdxc0dG0gHAAUFVX3lxTE5IYWdxZ1NKUzY5amV4NTY5elNmTG9pdDFGR1VObzlLeTNpSFZZZjAtdWdkV09seXRwWlJrRTZ2bW9YcXUwYS13OW5iMEF4NTRJWDJhcXhaY2JlOHFfSXVHVC16NGJydVlNRkktVkp5eEg2LWd6OTJqNlNLZHRBVU52dGs3V201TGNKY0FmOHozVm1yREZmd3NNNWRhWFI3Z2tEM1BMeTNCUnNuaGJnTkR4MmRuVWJfOUdzUXNKalZqWg?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mayiladuthurai election results 2024 live updates: Congress' Sudha R wins",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWkJGVXFwWENtQ1hnanA1WlZLNzQxRVFidDNiN1RwUzZKNTY3emZmOHN0WkZCdkw0NkhveTlVcDJMWUZQY25qazVWVkRBRzdvQW85cmRnUE5NUkxFaTEwTjhGX0lobkdrVmxBdzNQYUpHUWg3ZWZ5a3BadGh0TEd2QVREeEhMYjVIV3V6azFMQnN5eG1sVkRlcERLcDc0aVNGR3Vrck1PdzBVVTZUQWE0bFl0WnpKMEZieFVrNTdKQUVhUXhyWEtDakt3Z0lGU19XeXJoOXhKREhHaWlocXF0ZHNHNjZWb2RfcUh6VXdScXNCTU8tWVVTLUpqYWZIOElnTFl2OUtXaXowRGxJaUt0dnVQQnljZnlkaXJBM2hDclA5XzRhZEZUN1dWYzBTWFZQV0HSAbcCQVVfeXFMUG9YeHFuMzRrVzU1Q3VYcnZlcUI5eEhtREFqREJDMXdQckNTRE5NTnYxUkoyMVNmSXBEUFRNV1RJLXpIUlQwTnFaQ0x6cS05Tl9wbVM5UVVsalBwYUc1clJkNzRnUlZQOWVjWTdSZkZZTkRPZjY2dUFtVmxKNXRuU1N1NEhhWktIc2pKYlRDMnNjTlBoZENwS3VfbGNWQmdpZjdOSXZVQTZqNGtjUnk3WDRiRlZDZ1RyUHgxSW9IZWhtT1IxQlFHV0hxLXRYc2k3MU9Mc091STJQWUNEeUNzZ3lkZkNkLXA5QUxvVVlpWUFsUXV2MGZmbDRMcE1pZGNtcWFHUHhkLWg2cnlRcXB3eEpTMHJsZVloSDY3eUlremtUREpoUXBDX0o5LUlsWHUyTmdTUEZyRjg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Mayiladuthurai Election Result 2024 Live Updates: Congress' Sudha R. Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFA1MF9yVTBGUDE5V0J3bnpNNkJVSi1EOTdyMDdxUklZcFZSRTFDcm5ncS0xQzZxcUFVZk5mTVptaExuTVpMaTdCdTZ3Y3VRZ0dBM19FejhYY3p6dVBfUjd5MTdsM0w0NEF4N1dBZkZGVzBJQl9hb0FmZGh4N2g5d2trMzlyaXJPaER4SEdSdlAzVm9RNU5EQ05MX1VoWFRUYUx4OTkxVndlVm9rZkFVOGJHTTFYWmxqY2NIRENVMHNHRF9vZE12bXQxNFNuY2PSAdwBQVVfeXFMTUdnZThadUpHY2hadE1ibzdFLVBSTENUV2tVWF9CRWpyZl9IVE1McE55bzg2WC1wMUhDMnZkbVRQX2JTVDY1Vy1ZZGQxNnBhbjU2aEVQMEtJUGpKeW8xZ2paV3plVjQ4SUh3d2ZjTjZrdDY5a2lBX0g0cjdTVF9rOTZSMFVYYXR1ZHVHYUcwNXB6bUVsTmVOR1JCLTBnamdhcEZhV0dqY2hScTBNX19aTkgwQW5OeTF2UTR0WVVwbnJ0X09ZSnJ2aGg3akllVHJDVDhPN19nSkFqM2NzUg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Mayiladuthurai Election Result 2024 LIVE Updates Highlights: Sudha R of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXhNN1Rob2pPdW9xRlVtRUpWelNDLURkZi1HendvNVJSY1BfN0VUU2VmV09OM2RQaU5GYWlXWGlQRlJqUi1XNmxqTjFSSVJDaTNSNEgyeUJQLWJYZHRKbVBRaHVqYmZiMndyUjFKcHBScG9XLWpPVHFnUWxsY19fNnFmWmloTUM4dG95M2J1dThoY0FOcmtkWm85aEtsQmJiY2c1ZjYtZERtU2VaSG5EQXl1MDhfRVZHLU1SajJJR2Nqc1U20gHKAUFVX3lxTFBzaVE0S3hUN1BaNU1YVWdSaGRjcElRVW5neHRXZmlnNjAyY2hlZGJpU0Y2LUlfN1FLUWxaQ0dSTFpENjg0dHM4UWFSZTlwZDNUbXNVeEV4VmZTRW1JaFlKM3RTVl9nQ0tGdWY5ZmN6U2VaQWplcEVzbkR4dHBUUGplaWlHb3lhUkYzc1FMN3puQXBReDFXNG0yeElFdU5iYUdIazg2em44VGRWQVRWUFZZWXN0MGIxd3NDektSdHVvb3hZbFNkcWtfOGc?oc=5"
+    }
+  ],
+  "non_serious_cases": 10,
+  "nota_gt_margin": false,
+  "nota_votes": 8695,
+  "notable_record": null,
+  "num_candidates": 17,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "tamil-nadu-28",
+  "pc_name": "MAYILADUTHURAI",
+  "pending_cases": 10,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180389.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Lawyer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Revision of Cash Carrying Limits under the Election Code of Conduct during Elections",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need for establishment of Central Agricultural University, Indian Veterinary Research Institute and Central Institute of Fisheries Education in Mayiladuthurai district, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need for construction of protective structure to control sea erosion along coastal areas of Mayiladuthurai in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Immediate Release of National Disaster Relief Fund (NDRF) for Cyclone Damage in Mayiladuthurai, Tamil Nadu",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to fix the daily prices of Gold and Silver in transparent manner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for a special project for the offshore excavation along the coast of Poompuhar and Sembanarkoli",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Conducting NEET-PG Examination in a Single Shift to Ensure Fairness and Uniformity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Government Accountability and Clarification on Burnt Currency Incident at Delhi High Court Judge�s Residence and Related Actions by Agencies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding the empty ground surrounding the Vellore Fort should be allowed for organising exhibitions and entertainment-related functions",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 88
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sudha-r"
+  },
+  "qualification": "Graduate",
+  "questions": 27,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 3,
+    "Communication": 1,
+    "Culture": 2,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "New And Renewable Energy": 2,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "BABU P",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 8,
+    "legislative": 51,
+    "mplads": 22,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 3862830,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.67
+}

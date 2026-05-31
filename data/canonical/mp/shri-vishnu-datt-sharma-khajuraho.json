@@ -1,0 +1,513 @@
+{
+  "accountability_score": 39,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 7651400
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 14964500
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 8200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 30815900,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 289460
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2130476
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 150000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Smart Privilege-Midcap Fund Poicy Policy No:2B321134906 12,00,000 12 La",
+        "value": 1550000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 1901459
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6428266
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5997295
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 18446958
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ZAJhg2ZtugrsEaTFx9",
+      "total_assets": 10589334,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2455",
+      "total_assets": 49262858,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 365,
+  "assets_latest": 49262858,
+  "attendance_pct": 55,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "B-16, Chaar Imli, Bhopal Madhya Pradesh, 462001",
+    "emails": [
+      "vdsharma7088@gmail.com",
+      "vishnudatt.sharma@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425151485",
+      "9013997210",
+      "1123092366",
+      "1123092367"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/VDSharmaBJPMP"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/VDSharmaBJP"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "SCPPM/01/24",
+        "charges_framed": false,
+        "court": "Special Judge (MP/MLA Court),Jabalpur",
+        "fir_no": null,
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "01/10/1970",
+  "eci_state": "Madhya Pradesh",
+  "email": "vdsharma7088[at]gmail[dot]com,vishnudatt[dot]sharma[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1056520,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1124250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1008870,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1049020,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 1139090,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 736210,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 755330,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 456410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 423630,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary of being Member of Parliament, Agriculture and Buisness"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary of Assistant Professor"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹1.06 Cr (2019) to ₹4.93 Cr (2024).",
+      "headline": "Declared assets grew 365% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 10589334,
+        "from_year": 2019,
+        "pct": 365,
+        "to": 49262858,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.87 Cr between affidavits, while declared income across 4 ITR years totalled ₹42.4 L.",
+      "headline": "Declared assets rose 9× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 38673524,
+        "declared_income": 4238660,
+        "itr_years": 4,
+        "ratio": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹14.01 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 140110053,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 13888272
+      },
+      {
+        "category": "1.Vaishnav Mata Filling Station 2,00,000 2 Lacs+ 2.Mamta Rajoriya 5,00,000 5 Lac",
+        "value": 4550000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 18438272
+  },
+  "margin_votes": 541229,
+  "minister": false,
+  "mp_name": "Shri Vishnu Datt Sharma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 6889947,
+  "mplads_unspent": 140110053,
+  "mplads_utilisation_pct": 4.7,
+  "mplads_works_completed": 3,
+  "mplads_works_recommended": 10,
+  "mpsno": 5066,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Khajuraho Election Result 2024 LIVE Updates Highlights: Vishnu Datt Sharma (V D Sharma) of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY1p4dkFaUTZJSF9Sa2VTc0NqVjR4NVN5bzY5Tl8zSDk3ZjQ2R09JTC1zUVhWZ25lR25Ob3RZV2NhNjhVWnhEbHktMVFhUVBuUWZrNk9NeDV6bVVGNy1pTWFpMm1uSzJOSk9femc4V2lmN3JBSlpMMlRfRlhiRzhHVV9DZ25aUHEyQkNRaWw3blpSTGZBc0RtZ2VmUEM1bU50SUpGOFdlU1RqcjUtTkpOYnBXN1loR2haOEdXamstUE9kWVJDVUlveUhhZVlJYVNaRzRWWVQ2cjU4WktfNzB4VVdLMHnSAeoBQVVfeXFMTkZieklRS2xnZDVUa1cwdWFLenF0UG9lY3dEN01jWldfaDF0MUNfcUxCa0JsRjNsOWt5ZENfbDJpN3FfMHc0M3RHVVQwODA5NlJkdVBZakgtRklxOGNqaEwxZ0h3MUFOMnBISmdtT0ctMlhzMkQ5bWwwS0ZTWTVMamlSSWRCQWtUZG5DaTdKNU1pbG5uSU00Zzg4ZjNULUtwQkhOdmdNWkZ0eUY3TUdyTHRPeTJHQUZXY0VUUlR4WU1KQXFpdmpMaElqTXRHTTQwRTBlQ1V0RWs4MWc1NEl4OFJQS0FjSDhPUjlB?oc=5"
+    },
+    {
+      "date": "2024-04-25T09:53:05.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Vishnu Datt Sharma (v.d.sharma), Bjp Party, Khajuraho, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVEdTU3BWX1lXaE9uUzMyUGFuTFR6TFhvN1RjWldUMmZJZ3NQeS0yMUp2ZHJqNmRCaklqZmNuXzJSWDl4dVVoWFZtWmlRQ1lBQm85aVVxVGFFZXNONUhlWkFyd2lPMUptaWJialVnbEkzeU15cGJwRFVhU2pTMnJGNHdXU1kzZXlJR3BscWIyRFBQQm9oMzZPR2ZBcGNSdllYWVJfbEJKQlhOaUhRN2pqWC1hNF81dE1ac3JacXNZU2J0U0pLQVYwSzQ2WWlIcTJsczRBblRjQnR1RngzZzZ0WkZhODFpSVgxc2h4cjBfeXR3anYxRURQOQ?oc=5"
+    },
+    {
+      "date": "2024-03-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Vishnu Datt Sharma: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56U3RBQ2daSUo2eGJpbmhGaUNSeG9HS1FZakpwaUNrUGtvN19TbUw2ODFtYWhoNnRJSXltblVMcTNsdlRWOXQwRFNjUF9USnVLbHhPbVBRY0dpUHg4TDlLWm9FMGR3TFhxaHN5ZzhoUDh3TFh3?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 16157,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-8",
+  "pc_name": "KHAJURAHO",
+  "pending_cases": 1,
+  "phone": "Tels : (011) 23092366 (O),    09013997210 (M),Fax : (011) 23092367",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180243.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 78
+    },
+    "debate_titles": [
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding approval for establishment of Stone/Granite based modern cluster or processing hubs in KhajurahoPanna-Katni region under MSME and CFC schemes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Improvement of Air Connectivity for Khajuraho with Mumbai, Kolkata, and Bengaluru",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding encroachment and construction activities in the surrounding areas of Khajuraho, a world heritage site in Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 132
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/vishnu-datt-sharma"
+  },
+  "qualification": "Post Graduate",
+  "questions": 42,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 2,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 2,
+    "Panchayati Raj": 1,
+    "Personnel, Public Grievances And Pensions": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 3,
+    "Power": 3,
+    "Prime Minister": 1,
+    "Road Transport And Highways": 2,
+    "Rural Development": 3,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KAMLESH KUMAR",
+  "runner_up_party": "BAHUJAN SAMAJ PARTY",
+  "score_breakdown": {
+    "base": 40,
+    "criminal_deduction": 1,
+    "legislative": 50,
+    "mplads": 25,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 49262858,
+  "total_liabilities": 18438272,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 67.75
+}

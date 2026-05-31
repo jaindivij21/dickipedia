@@ -1,0 +1,424 @@
+{
+  "accountability_score": 66,
+  "age": 53,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 70000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 12050000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 118500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 200550000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 100000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 12322168
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 69625220
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 251520
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 550000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 15526500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 98375408
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Uttar Pradesh 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=S3WaMFyqhpLaZPdAQLFu",
+      "total_assets": 92147256,
+      "year": 2017
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=S3WaMFyqhpLaZPdAQLFu",
+      "total_assets": 121801005,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=899",
+      "total_assets": 298925408,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 224,
+  "assets_latest": 298925408,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jitin Prasada is an Indian politician from Uttar Pradesh. He was appointed cabinet minister by the government of Uttar Pradesh on 26 September 2021. Earlier, he has been the former minister of state for Human Resource Department, Government of India. He was representing Dhaurahra of district Lakhimpur Kheri, Uttar Pradesh in 15th Lok Sabha, where he won by 184,509 votes. On 9 June 2021 Jitin Prasad quit the Indian National Congress and joined the Bharatiya Janata Party in the presence of BJP leader Piyush Goyal.",
+    "title": "Jitin Prasada",
+    "url": "https://en.wikipedia.org/wiki/Jitin_Prasada"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Lal Kothi, Prasad Bhawan Compound Khirni Bagh Shahjahanpur Uttar Pradesh, 242001",
+    "emails": [
+      "prasada.jitin@mpls.sansad.in",
+      "jitinprasada@rediffmail.com"
+    ],
+    "phones": [
+      "5842223237",
+      "9415062341",
+      "9499100625"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "29/11/1973",
+  "eci_state": "Uttar Pradesh",
+  "email": "prasada[dot]jitin[at]mpls[dot]sansad[dot]in,jitinprasada[at]rediffmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 3112761,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3721124,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3722615,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2864568,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2597594,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 2111188,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1885032,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1977607,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1931578,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1953897,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Income from Salary,Rent,Buisness and Profession,Capital Gain,Saving Bank Others"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income from Salary,Buisness and Profession,Capital Gain,Saving Bank, others"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹20.68 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.60 Cr.",
+      "headline": "Declared assets rose 13× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 206778152,
+        "declared_income": 16018662,
+        "itr_years": 5,
+        "ratio": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 18% of MPLADS local-area funds were spent — ₹12.01 Cr unspent.",
+      "headline": "82% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 120103595,
+        "utilisation_pct": 18
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹9.21 Cr (2017) to ₹29.89 Cr (2024).",
+      "headline": "Declared assets grew 224% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 92147256,
+        "from_year": 2017,
+        "pct": 224,
+        "to": 298925408,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 164935,
+  "minister": true,
+  "mp_name": "Shri Jitin Prasada",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 26896405,
+  "mplads_unspent": 120103595,
+  "mplads_utilisation_pct": 18.3,
+  "mplads_works_completed": 22,
+  "mplads_works_recommended": 44,
+  "mpsno": 4065,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TheWire.in",
+      "title": "From Pilibhit’s Flutes to Global Trade: Union Minister Shri Jitin Prasada ji Highlights India’s Packaging Vision at IIP Diamond Jubilee Celebrations",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUmVIS1A0N2d0bml2NFBKRmoyMk5DOVh2Z05uRjB6MWNYWkNkZXJPdFRKVnZwRVdIaGd4bDY1bTlvNER3Rm93cjJVQlNIaFdnbU1lQVJ3UFpGQTFLR1BVaG4wM0J3dmltRVVUeXhTTExLSE44bjNqV2Ywd25tcGxQVFRHVjFUWnFuWnRDNGtDM1lHcWxod21ocjB4NGQ3R1laeDJKdG1CakxNVUc1Vy1fOEswV0NjZklDUHNpN1hTdEdUZDI0ZVZMdVlKMGRoLWg1SFU1d1hHYk5PbXNSRXFBZ2FfYXZqbzRHdENReXRiMWlMNXRFWnZqb0hTU2E1dGwtVnc1NHB0eW5LaWcwQmN5WE9B0gGXAkFVX3lxTE54eWRBMVJOd3NPUFdOTEFuV2xlaXNBQUNVelJYVmFoWS11RHNEQTlDampEWV9mQ2E0c280Vmc5Y2F5ZFlhSjRZOG1lazhPV2wtM3NDMlpoMmdITGc5al9rY1BYYUFNMnRhM2hiNl9xZ011MHFKT013NDBLNWMtUVA4cGdPaFBnM1NhcEFucTFDQzVLcmZWZmY5VXpSTEl4SHRSTHNaWUFkdHFNR29zQzV0RXRxUzhjWEV5Y0l2dkVXN2RmMnVudWpOWl9iNDFvNkVFeTduRFRCYld0YXdBYmNsdm5FaXV3dWlfcnRyemZSZ1ZsVkJJVFlhNmJNc0pvRnJrcW5pWkVrc2JaZkk4eS1QSUx3bDFLTQ?oc=5"
+    },
+    {
+      "date": "2026-04-30T06:17:57.000Z",
+      "flagged": false,
+      "publisher": "The Impressive Times",
+      "title": "Jitin Prasada Leads Major Basmati Push as APEDA Secures Pilibhit Hub for Organic Farming and AI Crop Mapping",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlpDVkhENFhtLU5xOFl0d193aWNOUm41Z2poTDQ0WWVWakpINkZPQnBHZFZxak5PRGswRnh5dkxoNUFVd0xHU0hBMWFZTFdjNlQ5UlVVTy10WVFJeW9Wb1hmNlZNV1Ywb0xtenRuSklQVDhGYm5wam1FZXZMOWx5WTgtajV5dV9XOEZvb012ak5HcjY1TVlMa1VKYmV3VEU?oc=5"
+    },
+    {
+      "date": "2025-12-23T05:36:59.000Z",
+      "flagged": false,
+      "publisher": "DD News",
+      "title": "Emerging technologies driving new jobs, says MoS Jitin Prasada at Technology and Skill Development Conference",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2RaOFllOTFJa08tS2NBWDdNWWl1N1liaTJJcUpiVzMtZDVVbjZlWE50TGxCUk41RTFyeDdyNXdibEhVQUZXMXA1Q1laZEhucjBOYmxTM3pUTDRnaTdfdmdHdjZ0bzBBcFJzeURrTUpTdFp2NXVfbFpOX195TXQ3TVVKZjh6VEhzRjBfaDR4enZKNndOaDFIbFhnMTdGQTlWQkFFak9rdTVoazdtd3BaWEM1NldjNW9jZjBrQy1kNGxIekh6M3FyaEdMMEM0dFU?oc=5"
+    },
+    {
+      "date": "2025-12-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "PIB",
+      "title": "Modern Technologies are playing a crucial role in generating employment: Union Minister of State Shri Jitin Prasada",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DT1JLLTJieVhjbEJ4eG1uSUYxRGd5Uk5STGxuZzdVVUFZczUxcm85X0xqLWE4WmhESTNVNU1Ra3dZdF9jRFhhUnMwMTFfSTZVbzk3bEZjSG9UOVU2SThEZmhJdFNfYjUxcm9kR1l5b2otaElBQTRJNXhn?oc=5"
+    },
+    {
+      "date": "2025-11-28T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Sarkaritel.com",
+      "title": "Ashwini Vaishnaw and Jitin Prasada Flag Off Extension of Gorakhpur–Pilibhit Express to Izzatnagar (Bareilly)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2lUSDdBUDZHZERIdU1HLXBZbzZ1dXBzRHY4UnpOZ2drUEo1SjlYbDRwUTdGN2pBRUY5Q25JVVk0ZUE5dlhKa2RycU1SVUZYWHZzMDhfZG9IeW1xQ196MHhmYlQxT2pZbXNnR0xUMFVmTGpyemx3TTlZR1RXM0ZOY2gxREZFbnNWeXNySXNHZHh1STVUTmlsUDh5UFFvLXAzTXF0T1ZrY2tNZ21NV2NCNWFpVmVkSnpJeG1EMTFFam9CZzdOMF80UHRkQWJ2aGc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6741,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-26",
+  "pc_name": "Pilibhit",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180453.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jitin-prasada"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "BHAGWAT SARAN GANGWAR",
+  "runner_up_party": "SP",
+  "score_breakdown": {
+    "base": 62,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 55,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 298925408,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.3
+}

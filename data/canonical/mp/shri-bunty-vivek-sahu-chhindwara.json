@@ -1,0 +1,568 @@
+{
+  "accountability_score": 4,
+  "age": 47,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 253500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 45000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 315500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1700000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 767108
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 4599000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 872117
+      },
+      {
+        "category": "1.356408670 61,396 61 Thou+ 2.356408669 53,353 53 Thou+ 3.356408668 46,280 46 Th",
+        "value": 2950039
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 30520668
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6032798
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4488400
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 210900
+      }
+    ],
+    "movable_total": 52231210
+  },
+  "assets_earliest_year": 2016,
+  "assets_history": [
+    {
+      "label": "Assam 2016",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=fzJCyNuEnGtXayk3N5pK",
+      "total_assets": 4144648,
+      "year": 2016
+    },
+    {
+      "label": "Madhya Pradesh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=fzJCyNuEnGtXayk3N5pK",
+      "total_assets": 258040810,
+      "year": 2018
+    },
+    {
+      "label": "Assam 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=fzJCyNuEnGtXayk3N5pK",
+      "total_assets": 24258017,
+      "year": 2021
+    },
+    {
+      "label": "Madhya Pradesh 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=fzJCyNuEnGtXayk3N5pK",
+      "total_assets": 367797880,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=587",
+      "total_assets": 367731210,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 8772,
+  "assets_latest": 367731210,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Vivek ‘Bunty’ Sahu is an Indian politician from Chindwara, Madhya Pradesh. He was elected as a Member of Parliament from Chhindwara Lok Sabha constituency. He belongs to Bharatiya Janata Party.\nIn 2024 Lok Sabha election Sahu won with the margin of 113618 votes.",
+    "title": "Vivek Kumar Sahu",
+    "url": "https://en.wikipedia.org/wiki/Vivek_Kumar_Sahu"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Pooja Shree Jewellers Parasia Road Chhindwara Madhya Pradesh, 480001",
+    "emails": [
+      "sahuvivek866@gmail.com",
+      "bunty.viveksahu@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425146664"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/Viveksahubjpmp/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/kumarviveksahu"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "1395/2019",
+        "charges_framed": true,
+        "court": "Judicial Magistrate First Class Chindwara",
+        "fir_no": "317/2019 P/S City Kotwali Chindwara",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "341",
+          "188",
+          "186"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "29/04/1979",
+  "eci_state": "Madhya Pradesh",
+  "email": "sahuvivek866[at]gmail[dot]com,bunty[dot]viveksahu[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1614277,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1623926,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1201104,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 488420,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1746479,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1494122,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1515421,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1770867,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 481874,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 291634,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 228085,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 263905,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 229700,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 167500,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 122811,
+        "person": "huf"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 476185,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 484608,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 485000,
+        "person": "dependent1"
+      }
+    ],
+    "sources": []
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹41.4 L (2016) to ₹36.77 Cr (2024).",
+      "headline": "Declared assets grew 8,772% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4144648,
+        "from_year": 2016,
+        "pct": 8772,
+        "to": 367731210,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹36.36 Cr between affidavits, while declared income across 5 ITR years totalled ₹66.7 L.",
+      "headline": "Declared assets rose 54× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 363586562,
+        "declared_income": 6674206,
+        "itr_years": 5,
+        "ratio": 54
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 32% of MPLADS local-area funds were spent — ₹9.99 Cr unspent.",
+      "headline": "68% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 99860890,
+        "utilisation_pct": 32
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 12241255
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 12241255
+  },
+  "margin_votes": 113618,
+  "minister": false,
+  "mp_name": "Shri Bunty Vivek Sahu",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 47139110,
+  "mplads_unspent": 99860890,
+  "mplads_utilisation_pct": 32.1,
+  "mplads_works_completed": 73,
+  "mplads_works_recommended": 472,
+  "mpsno": 5666,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Chhindwara election results 2024 live updates: BJP's Bunty Vivek Sahu wins",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZ1hreVBNTi1EdzdQMU1TVDVwYUZrN1haTWQ5cFBxb3E5MlpleVRNYkdlVDJMR09QZjFaOXExSDdRaUx6M0lyNGVvcEFDY2dZcERvcFdXN1pGcUlzbEtOaDJlckIxaXZpYjhad0ppMlpkcHhISnpidFpKYTROVTR0MmRUUEdtcE1FTE5yUlc4aVMzSXd0WTZrVmlYMU9pVVNLRXdLUTJsaXdScmdUMkhidDhYbE9YQ2xRMHB4LWtoYzFuTGswNHZfV2dweElyYW1mMEhLQ3dYNERWRzQ4NFhuX2N2cElMMFF0cXFMbE5zN25TbVRnZmNzWjllenV5SU5ZVUwyb0tSVzJtNzdQNHZGcHNTWWZvMXBUbHVfaElpaVhaZHJ0MXYxWDBWWGp1ZFlpdkhIajJDdi12THpicTN0TC1IZVdHaUlIbmhVN3A3akpUQ2pR0gHaAkFVX3lxTE5EMUNwUVlPaFY1VXpicFpMTTFhdHMycDllM1FySzgyT2VpSUNuaDhwanBFWC16S2F3bHFIeUVkck85UUU3Wms4WkJuOC1pVXV1ZnpMWkVwRmhNbEl6QjlCTG4yWXRoeFdFdUREakVMdzNzdmxPeWpOaGpiOTZzZVNVY3M0amJqOVRpODZ2N25WZVYxcUh5WE05dEMzbGRqZGppRkJoVWg4QS1ieHROX1FmYUZ6UzhLMVU1U0dxdkcyYU9ia08yY090SzJjYjJiT1JPdFgyckkwc0g2SVVxcDktOG5COXlSd1F0ZXRJLXpuc3hZUnZFOXpQT25MS19RQWRBMDltQWFMVzhfYW5GcnVsc1ZmZTduUkhpMUlYWDU5LVlwenVuV1c5SzlqaGxVcmNiWERpWFRuRXVZZmpabG9JdHNIekJ6aDNRS1JfMkRMQVhudjl4c0dXZEE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "Chhindwara slips from Nakul Nath’s hands, as BJP’s Vivek Bunty Sahu secures huge win",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnV5Uy0weklYTmtSRnBkaks3cDVuRERhclAxV3pncndsNGJWSFNrLWhvUV9mV0hvRVhyejFWdDdpZjhfb1BIZTNfai1VYXFDVzVyS0lfYUtLNWJXOHhmY095eVFTR0UzMmVDNlpQUWpWNmI1cTJIM0RiUkd4akE1bW5CbVRLWWZ1QkNOdVZFU2ppa0V5WF84N21QSTJWS2hlY0VjdFVKUDlDai1mYUhyTWw2N0tPUWfSAb4BQVVfeXFMTnFpUzA5VGxqN0hJLXpVblRKRjJEWWYzWWNUaXRPYXMxRU9HM3JOeDMwSjVPTjdDUWMtbWZoQ3Z6UjlFcElhalJ6MENURUpLOUkyb1ZaeVhvdi02d1BwWnhhbndLZWtSb19CbFdITE0tUy1GeER5WTVNekJwcmJvVUQteVc0LWdDSEVPZUQtcDF3NFJaeUI5cU1LRUxpS0hFeHhfWUlQUVpmamFEOEhreXpIZ245Y1d5b2lHaHZqdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Moneycontrol.com",
+      "title": "Chhindwara election results: BJP's Bunty Vivek Sahu defeats INC's Nakul Nath",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlVwdU50NmM2Y2Q3R0xMbzZVcjhKaEhuMWp6dlV6dkhLb2sweVJ5cDZ0dE0tUW10OXZVRUlOcV9rX1NncUxDbXcxUC1lSjBpM2Z0Mzd4LXZTMUEwZTJhR0dOT2tOa2pNaXdBNDBNR2RFRmg2YmZpQ0RSakI3cTFHeG1rYzFGRjA5SERCd2Q4dFJFU0lJbEF3OTVneDF6RWE1c1dxaW5FQngxYXBIdC1Nc2lBRlJIRHpJNG1EQ0tSWTlHcXAyTmItWE5oQzNQSjllVnJPaklZVWJ4eDY1MHN3M1BTWnliTGZiLUJUeU41eS1jQdIB9wFBVV95cUxNNXZxQzY4cmNzRC1CRGU0djQ5ejhQMmR3cVNDQkxVQWI0Mkh4WVpfdTFsWkh5UlJiM0NiRFg1MXBKRk5rdEo1SjNxY3lLa0ZDaHBEOTFfSk5oOHk3dmN4M2Z3VmU3dlhtNnAyenR2d3BKSXJIQk16S2RvRHhIcEYxLWtXWFAtUWc1YzFtdDFRZEtvYWtGX2xwQXNYWklQRmhVclVwX3FtdS1LWmhWU1RxaGJydF9EMVFBQXdDOFVDSnphaG85RzhhSVV4Nnk3RUhiNlk3N0o0aTFTN2ctNk9YRUFzMFVHOTNQeHRUUENLUXJPdmhMM1Nn?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Chhindwara Election Result 2024 LIVE Updates Highlights: Bunty Vivek Sahu of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVDV1SGQ1N0dIN0x4MTFTU1p4LVVRek8tZFhlWFBXb2MtSXZGbUxQVldXdmlPVUpDY0dzdVQ5RnQ0T1FHMThmNy1fZlZ2M21QZU5FOURiTm1kR29VdDFPU0dGQ1hPMWhVNEtnQlBCeHRHYTRPNWhmOGkxRllVdXpQeTRFd1l5MVViRXIwLUtZbm9wNGdzajRqajdSYXdKb1ZKSWVYQUE0Tk1MZFBVRmpudmZVSlZmSXQwSXBNd2V3bjJUWW4xNTJodHNzMTBKUzlqbGNrR0VKZUVWa1p4VVduN3NWXzRGUdIB6wFBVV95cUxNcHpyVFFGTUpxMkZoOUVHNkNYeTZIVUgyU25PT1djNFBXYUpPem8yTnJ1ZWt6dlVJVktMNHdiREFLSGhJQ3M2WUUtXzZDWjVmdFhVODhfMEFrZ3hyUEdGaFNwWWdSYUhoaWVNSW55THJFVnl2WE1JWjQyVUZISEhPNTg0LWZQN2wybmNLRVhHNjEzTkp0cW1Kel9rRTg0NGVab1hkMkptaUU4NEdlQ0pxMzVmaG9FblVodzIyVzctd0dzOHZRRENYc19FM3NBNFBlNHVyYmdXQnVrRnczX05OS1hySFZ2LUZwRmhr?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Chhindwara Lok Sabha Elections 2024 Result LIVE: Battle of Nakulnath vs Vivek Sahu? Will the last fort of Congress survive or will the lotus blossom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0pEbHd5bUJ5SVFUbEYyWDZKbUE4TzViVmp0X2U0Q2tSdkgzUWxoTXhmZV9DSGVDeXpCN2RjN25HOXRlaFY5N0hONmtob3c3UVp6YzlCb1JtN3BjRUpxS29lWjN5bkYtakIxNExSVFgxbjF5OG9OUnNaNkdOT2RjMlVGa0NoNnNweGhuZVVMaGwwZXJicHE5TWRiY0hNeXFUT09YSWo0M3RhcDZyNi1RX2VkUnQ4UlhubXlYcktDLXFsZ1BsQUp5bXN4Y2M?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 9903,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-16",
+  "pc_name": "CHHINDWARA",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180221.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Automobile Dealer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 76
+    },
+    "debate_titles": [
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need to check empanelment eligible of private hospitals under Ayushman Bharat Scheme and lift Inter-State Restriction under Ayushman Bharat Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Strengthening Drug Safety Regulations Following Tragic Child Deaths from Contaminated Cough Syrup",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to restart operation of Dadadham Express (train no 22111/12) between Bhusaval and Nagpur via Khandwa",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to establish a Regional Office of Indian Council of Agricultural Research in Chhindwara Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Establish Homeopathy and Ayurvedic Medical Colleges in Chhindwara to Utilize Indigenous Knowledge and Resources",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding establishment of Multi-Product Special Economic Zone in Chhindwara Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 73
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bunty-vivek-sahu"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 5,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Jal Shakti": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NAKUL KAMALNATH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 1,
+    "legislative": 26,
+    "mplads": 49,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 367731210,
+  "total_liabilities": 12241255,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.41
+}

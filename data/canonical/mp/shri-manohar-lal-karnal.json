@@ -1,0 +1,461 @@
+{
+  "accountability_score": 35,
+  "age": 72,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 50050
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 21392863
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": null
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 21442913
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Haryana Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=M6kFQtFfV6hrJDLkykxb",
+      "total_assets": 6129952,
+      "year": 2014
+    },
+    {
+      "label": "Haryana 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=M6kFQtFfV6hrJDLkykxb",
+      "total_assets": 12700985,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8552",
+      "total_assets": 25442914,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 315,
+  "assets_latest": 25442914,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Manohar Lal Khattar is an Indian politician who is serving as the 19th Minister of Power and 4th Minister of Housing and Urban Affairs since 2024. A prominent leader of the Bharatiya Janata Party, he has served as the 10th Chief Minister of Haryana from 26 October 2014 until his resignation on 12 March 2024 and also served as leader of the house in legislative assembly.",
+    "title": "Manohar Lal Khattar",
+    "url": "https://en.wikipedia.org/wiki/Manohar_Lal_Khattar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H. No.- 719, Prem Nagar, Karnal Karnal Haryana, 132001",
+    "emails": [
+      "cmharyana14@gmail.com",
+      "manohar.lalmp2024@mpls.sansad.in"
+    ],
+    "phones": [
+      "9041399899",
+      "9056002595"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "05/05/1954",
+  "eci_state": "Haryana",
+  "email": "cmharyana14[at]gmail[dot]com,manohar[dot]lalmp2024[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3490820,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3367490,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2884610,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2511810,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2895972,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Pension, Interest"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹61.3 L (2014) to ₹2.54 Cr (2024).",
+      "headline": "Declared assets grew 315% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 6129952,
+        "from_year": 2014,
+        "pct": 315,
+        "to": 25442914,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹14.34 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 143434036,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 232577,
+  "minister": true,
+  "mp_name": "Shri Manohar Lal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 3565964,
+  "mplads_unspent": 143434036,
+  "mplads_utilisation_pct": 2.4,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 19,
+  "mpsno": 5792,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T08:57:09.000Z",
+      "flagged": false,
+      "publisher": "The News Mill",
+      "title": "Union Minister Manohar Lal Khattar visits Karnal villages to address development and voter list concerns",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWEZXbkxnMlhFMHYtTUx3T2pYcUpZeDdaVHVyRUNxT0hSOWJBbnJZdGZYQXBqNDZZUVhSUEZEV09yb19VaWhYMUJMM2F5UVRybWF4R0hUU25uNzUzdE5ZTTU0Szhxb0FlM05QT2JPT3AtSTZvNnpnM0tnNUhhQV9SX1RvTHZDSjlhdWFVam0xNmJIVk9Qcy0tVVZDbUU2cVkwME01bVhOcUc1eEotREp1WU1XcnBEeldHZVR0ZnptbjRzYmNqSGdtTGJqeS11c2gtMklB?oc=5"
+    },
+    {
+      "date": "2026-05-28T01:09:48.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Karnal में बड़ा सियासी धमाका! केंद्रीय मंत्री Manohar Lal Khattar की सीक्रेट मीटिंग से हड़कंप!",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3JIV015MFBZOGhYNE0yRFg5R1hyMDUzVlE0cGtLd2RvdGhlUnJ6T0hWRDBmRUlvaGpYYlVYeWFBZTVqSWlWT3hxUkJYVERQQmIwNEFVNjBuVjRNYU0zcll6Rzk0TkFJVHdrbWhoazNxVWdoSENBalI4VXIyY3NaeHRuZ1RyNjRiLWVza0JlMTNZMnRWaU5malNaaTZhSGZqNzR5eUxkSUpRcTNUaUYwUC1jTTRaQjNRQ0YxVDZyQlpubm1va1M5cldzSEVPdw?oc=5"
+    },
+    {
+      "date": "2026-05-24T07:57:47.000Z",
+      "flagged": false,
+      "publisher": "Devdiscourse",
+      "title": "\"Staying amidst people is true identity of public representative\": Union Minister Manohar Lal in Karnal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUVXZnFBWWhsM3YyYW0wSEMwdXFBalhxSVRqVlJpZzVabTJrWUkwel9jRVNwOF9lNVBzemtLeldKSUE0Qlp3ZkFaVEdGaTRCckVVMDNELU43V21OQ09LRGszbm1fSWFJNnRYd3pCX0p5SUJGV2RkLXBpbGJ0dDFlNE9wQVRjNzBUa24zbTBxMjdaelpkcjZXUXphTnNYbFE0Ump5UTNfdWFsUWNseXc2aXg0OVgzaHpuX1p0VnEwSE9mbVItOTRtVU44SklYOV9Oc0lHbUpQa1JSZklhU3J3aEJldVF1OS1ob0HSAe8BQVVfeXFMUG1LcFV6Slk5UU10ZmRLQWJkNThDYmpSTVoyblN1NUxvS3Zpdm84cnltYTk3dTV4QjZYTEpvOF9fTkNUeHFORC13OFBrZjJpZVZZREtzckhnMEZGR2dHTHp5VzdRWEVnNE56R1UzS3hvcHZmY1doWW8xNnA4WHBMRFN5dWE1NUZaVThNRkwwcHNnRHhVOE5ZNWVHck8yelM4UTV6Ty1hblZNS25GRmNzT3lFMVlTVmpQT0RSQWlkVGg1RzNGZ2xqVVV1VldBVVNWckFTSGdobVdBRHNVcUJuXzNkOW9OM1RWdGRSUTZVcWM?oc=5"
+    },
+    {
+      "date": "2026-05-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Karnal: BJP marks Manohar Lal Khattar's birthday with havan, camp",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGhQdV90ZTFUVVBZQ19WbjdkNHRfdnlQWGVhN0FfQUhKYUpaQXAtT1pDY3cyMGVNdnM5OE9vR2U2UEhZbHdrZ2pfdFcxUTIxQzVVOWtJVlBNTE1qLVN0ZWx5TG5mZThhdmtpMWVxN1B2TDNVaU5sT2RhNWFTYlFWaTBBOUx0N1NWUWhCUlpVRFdpNENrbWVlUGl3Nng5a28?oc=5"
+    },
+    {
+      "date": "2026-02-23T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Manohar Lal Khattar reviews progress of works at horticulture varsity in Karnal",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFBrYUo4S1FVZXpZVEYwNGdNZURIejdyZXRoOUlPcU5HbmlpLVBnRF85U0ZxWjZrRFU0YmpNT05HVnBYdTJ0Q0E4VFIta2hyNmFvVFp6ek1zQWpBN2l3Z3dQbzlYRzlQSWY3QmxiQjBUcnhXZWJsX24yZUpkdDdhMnh1dUttRHVlNWdfOXd5OEROeW9aODZISDdmRDBRU01zN0NZTVJXRUlTQ1hkYzVSaElfWm1NRXVXVUtVVjdEVdIBwwFBVV95cUxNcjV6cEEzVE5QUV9PekplYVZtU1F0QUVsX1UwVUh6Y1ZVTGlIVmhtQTRoalc1S2pOWHdhSnRHd2J6UmYyRVdyUHJTcm0yYVBicmxXOUdoa0dQR04xTnc3dk5mREFjSHpkalRvV3Frb3B2cXkxMXhmZ2xuNnJiVVdNcDd4OERlUkRTUU9SR0VKOV9TS1pyeE5mY1dwejhESzVqRm5xTm44bHJSLTF3Qk5ST3A2M21fX1NpNzR4aVc4b3NrYUE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3955,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Manohar Lal Khattar",
+            "url": "https://en.wikipedia.org/wiki/Manohar_Lal_Khattar"
+          }
+        ],
+        "title": "Chief Minister of Haryana (2014-2024)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Ministry of Power (India)",
+            "url": "https://en.wikipedia.org/wiki/Ministry_of_Power_(India)"
+          },
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Manohar Lal Khattar",
+            "url": "https://en.wikipedia.org/wiki/Manohar_Lal_Khattar"
+          }
+        ],
+        "title": "Union Minister of Power (2024-)"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Manohar Lal Khattar",
+            "url": "https://en.wikipedia.org/wiki/Manohar_Lal_Khattar"
+          }
+        ],
+        "title": "Union Minister of Housing & Urban Affairs (2024-)"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Manohar Lal Khattar",
+            "url": "https://en.wikipedia.org/wiki/Manohar_Lal_Khattar"
+          },
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Beti Bachao Beti Padhao",
+            "url": "https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao"
+          }
+        ],
+        "title": "Beti Bachao, Beti Padhao in Haryana"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2026",
+            "publisher": "Wikipedia",
+            "title": "Manohar Lal Khattar",
+            "url": "https://en.wikipedia.org/wiki/Manohar_Lal_Khattar"
+          },
+          {
+            "date": "2019",
+            "publisher": "ThePrint",
+            "title": "With its own organised crime control law in place, Haryana now hopes to rein in gangsters",
+            "url": "https://theprint.in/india/governance/with-its-own-organised-crime-control-law-in-place-haryana-now-hopes-to-rein-in-gangsters/276554/"
+          }
+        ],
+        "title": "Haryana Control of Organised Crime Act"
+      }
+    ],
+    "office": "Union Minister of Power; Housing & Urban Affairs"
+  },
+  "num_candidates": 19,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "haryana-5",
+  "pc_name": "KARNAL",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180137.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Agriculturist & Politics",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/manohar-lal-khattar"
+  },
+  "qualification": "Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DIVYANSHU BUDHIRAJA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 25442914,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.93
+}

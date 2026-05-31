@@ -1,0 +1,567 @@
+{
+  "accountability_score": 17,
+  "age": 52,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12240000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 6000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 12500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 30740000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 250000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 33000
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 920000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 525000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 180000
+      }
+    ],
+    "movable_total": 2988000
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8387",
+      "total_assets": 33728000,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 33728000,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Laxmikant Nishad also known as Pappu Nishad is an Indian politician from the Samajwadi Party. He was the Minister of State for Fertilizers and Logistics with independent charge in Akhilesh Yadav's Uttar Pradesh Government and a member of the Uttar Pradesh Legislative Assembly from 2012 to 2017.",
+    "title": "Laxmikant Nishad",
+    "url": "https://en.wikipedia.org/wiki/Laxmikant_Nishad"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "46, Belhar Kalan Mehdawal Sant Kabir Nagar Uttar Pradesh, 272270",
+    "emails": [
+      "laxmikantpapunishad@gmail.com",
+      "laxmikantnishad.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9838548279",
+      "8765955011"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Cheating and dishonestly inducing delivery of property",
+        "section": "420"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 2,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for cheating by personation",
+        "section": "419"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "25849/2022",
+        "charges_framed": false,
+        "court": "C.J.C.D.",
+        "fir_no": "PS. Belhar Kala",
+        "other_acts": "Section 3 Epidemic Act, Section 51 Disaster Management Act",
+        "sections": [
+          "188",
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "4855/2023",
+        "charges_framed": false,
+        "court": "C.J.C.D.",
+        "fir_no": "PS. Badhira",
+        "other_acts": "Section 3 Epidemic Act, Section 51 Disaster Management Act",
+        "sections": [
+          "188",
+          "269"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "1000/2013",
+        "charges_framed": false,
+        "court": "CJM",
+        "fir_no": "PS. Badhira",
+        "other_acts": null,
+        "sections": [
+          "419",
+          "420",
+          "120B"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "15/10/1974",
+  "eci_state": "Uttar Pradesh",
+  "email": "laxmikantpapunishad[at]gmail[dot]com,laxmikantnishad[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 406570,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 405150,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 479920,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 473890,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 522099,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 434180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 379660,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Fisheries, Pension, Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife"
+      },
+      {
+        "person": "Dependent",
+        "source": "No"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 3% of MPLADS local-area funds were spent — ₹14.24 Cr unspent.",
+      "headline": "97% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 142402400,
+        "utilisation_pct": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Sections 420 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for cheating",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "420"
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2330000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3500000
+  },
+  "margin_votes": 92170,
+  "minister": false,
+  "mp_name": "Shri Laxmikant Pappu Nishad",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 4597600,
+  "mplads_unspent": 142402400,
+  "mplads_utilisation_pct": 3.1,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 592,
+  "mpsno": 5813,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-16T02:21:44.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Laxmikant Pappu Nishad , SP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFJfT29QRXRwcERpSXpqdzN4aUlReDRrc1J0b2Z4bWlmVkpYRVF1eVJCRGtLUzlUMkpQcmdmbGNOZWYxejFBVjRRVEZYcHJ4MnVsTlM4eVlGSnhxVzBZSnozT2JLNWRnbDEzckxXMDlDazFEeF81R0lVa3BwN05oN2I5OFNoMTR3QWd6OExaU0U?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Sant Kabir Nagar: SP's Laxmikant Pappu Nishad Wrested The Seat From BJP NISHAD Ally",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOUR2ZkZwek5pWVlhTTZqSHJsMENjUTJtZjlGN0hZUm9hdlNIVWRYQ24wN3NvVjBXd01mZTZlUmZoNXBlb0tmTk92blRxMUotMmg2bHVhbWh4bXgyektuXzdfQUF4bHdRMjN5U2VRT3hmTy1LRFdMZnp3RnZTTGFwcUdBdldoQzI3RmtsT2hwT3dlN1lIdEVibmNGMFlMYlN6cVljLUhuTzBmLWdla3AycjFvbThpcUh0ZkJQeTcxOWsxX2NxN1p6MEFvcw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sant Kabir Nagar election results 2024: SP's Laxmikant Pappu Nishad wins",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOd3FHQXZFSnRUZklWSlVvektLdDJHclhhNjY0bEs0Zklwb3lZUjZGMV81WmVjSmhfbTF1VXJvcmhrSDRFa1lfb090OG5FZ2dCblllemJ5TzlTZm5jQks2Sm9ldVM2QW1JUmJxUkFjU0dmTE5iQmJjLWd5UEJ1dkZpVlh6VUlSNWhzZmp0UUN2XzRmMXJJTFhza2plSGViSGNmWVBJMlAyZ2pZbnZNYWNrOEIxV1JIT0oyU284RkdVd2x3OGRFbThGT2VQS2NYMG5QN2llbG1uNjViTmVmdnhqNHpiVjczdlVnSmU2T1huYTJRQlVhRG9lNjF1RXgxRl9QS1hMOVlidEJpcWVwMkloZWs5b3hjTWRybU9wdUFKeDZNaHNxa3gwRkRCc3F1eDduMFRlclNXVVpJYXhGSEdwd0c1dms3RFM0MGtMVU9wYjRFTHZNLW12QTVuVkZFNEhHUnc1VjdiVk5CSHBJ0gHyAkFVX3lxTE9ObXFoV3RjajBNLWVyd3NnSWNSUUVFNDVwS2JTbUVnSHY0ZGMyaGg5d2lBd2NGWV9tb0RCMWFfUTFLeHgwZXl3QkNBM1Jla0gySFpfWGxFaHQ1cTA4c1FaOUZfNy1NTUMtbVB3TmRYaXR4Z3BLVlFBb3JxTE9DMGhCZDg0a1dmTk16SWNlbjhXb1M3aEdOb2wzNjRaaUNkX19Wc2N2VDdqRVlQV25MZjF3RlJBNDhqTmxnN01PTklnVTBFWkpmcXlqa253aU1hVENlN0JIX2ZZTG5UZmUwbVZoeUhaV25jZTFqeFpJUzRrb2JWRnNVekctQzhQamRad05vdHBlUG56aDB5bnJIdXptSkVFdmhpck1PSTRoVU1iX1Q4QVNiZ1FvaWVzai03Sm5BTjVkekVjYnlLbDJ2UFk2QWJlNTA2Y0tfM01xVURfUWlNRS1tcE5YRVBCYnd6VzlhRnZQTGg2WXlya18wTzBFNUE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Sant Kabir Nagar Election Result 2024 Live: Samajwadi Party's Laxmikant Pappu Nishad Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTFxYk9GVHE1Wm5qSHg3Y2k1UXgwMVhMSWxtSlh0SmZRUFExS2J0VnVhdVlGUTV5TXVHT1lENUdvUXdsMWhfMERQRTdqLXhIcjlGWlJUdzQxWVBHVzJrSWptVTRNTmszZGRBV2lHdEctR25OSEpXNV9xaWtpeUp1bFVtT3lDeFpaR0JoYmFGYkRhUkMwbm92NTI0M3lCc0t2OHdmZjJQWmsyS2Q1RHZOd25TWFQyYTdZV2VBYnZEMl82c2Fnc3F1bmxiRmRTRXlTLS1ETzB30gHjAUFVX3lxTE9SaWdGRTNiUzBWTW93RDlVd3lZeVZ4SnhkTnIxMXdXcGxuZ2JfdXFlX1JjTm5PU0Zyc3lDWVZJYjFpQVlQRnFCOVc0dnQ5LTZ1cm10Zmk4N29mLU92MXh4UEtrd2pMWDU2SjRuemlxal9TWkp5WF9BTXdYVDNoaXRkMDBfY2Nyd3o0blFLSjVSMFUxdlA2TFpKYktydTRYbUM0RExzUWdUbWhhUTcxcWtKdjdLYWlCWEh4elY2Nmk1V1B2b0xwOTJweWROU0JSVXpWUUpoYkZEeXU2U2gwRXJFVFhr?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Sant Kabir Nagar Election Result 2024 LIVE Updates Highlights: Laxmikant Pappu Nishad of SP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONnBtOUNBZlZUSFV2SGYydHNwa2VuSXluRjVncWtOU3hVYldEU05lemhsUnhFWV9mb1Y0VTYtdG5XVG1NUGdrclFPZTQtNjFDeEx5TUhCelRxUjhHam5FZmhabC1ta3JncGVHNlhTb1lReDFUc2ExTXZOZXJKSW9Rb0lqbnY3czVjVjRHa2RteUluY0FBaHVseDZHSTFNVThxNzdzeGItVS1hMWVLRzZTLXQtdV9ISElGaFc0X0ZkUjgzYzlLWjZuQWNKZG5JcFBmbElFRVpDWTRTalU2VzlLWHJLNS10dTdfMWVWcHJR0gHzAUFVX3lxTFBtaExOVng4WG14cC1nbTdtSlJHSWR2dFE2WlNiN1FZQTVDbEl3Y3hjQW1zQ1hCRTI5M09jMU9BdWt0OE5ScGRoNmJRMHlUX2dIOGJNenVYU1ZHQmh5STJZT2ROa1N1LVVVcUFrNXZ2Ri1hNlhUQ1BXWVMxV0F0QzY5dFRvVkEzZkFuN1ZVWlZ3VnAyZ2dZNl9uaGk2V21kaW9KUEpJclFMNXI5cXlnaERvWlVWSVFIMTdkd1hTUE9qdXlmRVNORzV3TXhZN19Oc0JUVUU3RlAxek8zMXJuWEVreHNOcS1JSF9ETHYyVUFjOS03UQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 9227,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-62",
+  "pc_name": "Sant Kabir Nagar",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180461.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agricultural and Animal husbandry",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Granting Scheduled Caste Status to 17 Backward Castes in Uttar Pradesh.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to establish a medical college in Sant Kabir Nagar Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Demand for Scheduled Caste status for Nishad community",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Demand for Adequate Pension and Inclusion of Roadways Corporation Employees under Pension Scheme in Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request for Drainage Measures Along the Under-Construction Railway Line Between Khalilabad and Bahraich to Prevent Waterlogging",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Restoration of Power Subsidy and Support to Weaving Industry in Sant Kabir District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Appeal for Improved Power Supply and Infrastructure in Rural Areas of Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Urgent Repair of Rural Roads and Safety Measures on Bridges in Sant Kabir Nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding rehabilitation of people displaced due to floods in Sant Kabir Nagar Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Installation of Lights and Safety Measures on the Bridge and Repair of Roads in Rural Areas of Allahpur and Khajuri Constituencies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Demand for Inclusion of Nishad, Rajbhar, and Prajapati Communities in Scheduled Caste Category",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding need to establish a medicl college in Sant Kabir Nagar Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Issue related to the failing to provide DAP fertilizer, urea, and seeds across Uttar Pradesh and the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister to run more trains to stop at khalilabad bast etc. in gorakhpur region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 22
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 30
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/laxmikant-pappu-nishad"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Social Justice And Empowerment": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PRAVIN KUMAR NISHAD",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 25,
+    "criminal_deduction": 8,
+    "legislative": 40,
+    "mplads": 4,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 33728000,
+  "total_liabilities": 3500000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45.7
+}

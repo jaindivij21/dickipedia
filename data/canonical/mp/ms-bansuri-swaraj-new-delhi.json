@@ -1,0 +1,448 @@
+{
+  "accountability_score": 28,
+  "age": 42,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 9934375
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 70300111
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 80234486,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 99444
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 44866943
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 300000000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 10002015
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 14774738
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1468902
+      }
+    ],
+    "movable_total": 371212042
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7901",
+      "total_assets": 192946528,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 192946528,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bansuri Swaraj is an Indian lawyer and politician. She is a member of Lok Sabha from New Delhi. Bansuri Swaraj is the daughter of former Union Minister Sushma Swaraj and former Governor of Mizoram Swaraj Kaushal.",
+    "title": "Bansuri Swaraj",
+    "url": "https://en.wikipedia.org/wiki/Bansuri_Swaraj"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H-4 Dhawandeep Building, 6 Jantar Mantar Road Delhi NCT of Delhi, 110001",
+    "emails": [
+      "bansuriswaraj@gmail.com",
+      "bansuri.swaraj@mpls.sansad.in"
+    ],
+    "phones": [
+      "9818022044"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/swarajbansuri/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/bansuriswarajofficial/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "03/01/1984",
+  "eci_state": "NCT OF Delhi",
+  "email": "bansuriswaraj[at]gmail[dot]com,bansuri[dot]swaraj[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 6828830,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6794410,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 9139570,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5185550,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4713670,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional Fees and Bank Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 12% of MPLADS local-area funds were spent — ₹13.51 Cr unspent.",
+      "headline": "88% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 135148272,
+        "utilisation_pct": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 78370,
+  "minister": false,
+  "mp_name": "Ms. Bansuri Swaraj",
+  "mplads_allocated": 154306950,
+  "mplads_expenditure": 19158678,
+  "mplads_unspent": 135148272,
+  "mplads_utilisation_pct": 12.4,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 111,
+  "mpsno": 5588,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-26T18:10:07.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "Delhi court orders AAP, Saurabh Bharadwaj to remove 'defamatory' posts against Bansuri Swaraj",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcW8wNkVMR2MyUXdOam9GRjIzdE5zZjhGNDRCYmJPRjZVZDcyWHpTSWhXSFUyVWpfS1RibXVYM2VlSktfQjNzTDFlREZCWkFqUWVEMHRkck01THFxYUtQbEJvbTFSNVp3d2Rqb3dJOUtoWHFRVnVkVW0yQkxPd3l5dWJQNVV1aDNMbTB0LVBqOGNwdFNsOU8xeWpUT2VqWFRNMnJWWXJRcFJraVYtYnowb3oxdTZTQUhpNUNUZi13clVYbVNEZ2tycXh5NmwzcWxBWnU1WHI5R0RmWnZiSGR0SFFVanFnUQ?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"BJP-NDA mandate a tsunami of faith in PM Modi's guarantees\", says BJP MP Bansuri Swaraj",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTdfaTd3eUh1ZDBvc2ZtNHVHelN2cW9uZURVRGYyTTVheE9ONXRncWF3VEhkVFI1STVyamZ0MmxvcUk5MUpHNkR4U05paGdrNzVGVmlJMGVtUFk5R2QxWnplN1NzSGJLUm1QUXZ1SWdGN3RoQ0FMWWU5dzl6WlJYNWFQSzdPUnpFcW5qWlpsYUpJTjZnNi13ZldtLXRqTGd3NWtqcmZXLXNhTmdXVTM1dUNCNTR0NHlPZ1ZPQmtqd1FELW56X1RkcmI2d2ROZkVGSlR4SVpVRjQtNG1r?oc=5"
+    },
+    {
+      "date": "2026-04-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "‘Reputation can’t be sacrificed’: Delhi court orders AAP to remove ‘defamatory’ video of BJP MP Bansuri Swaraj",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3NjcTlUckxCQkdRNjF5QXE2bE1yS0tHYmRLM2pNTGc0OHlPYXEyeTA5SEJqZGFBVVZhbWJYUTBZcFBqblVibzFKeUI5b2k4MXpoaEVvajViR1hGQVdFT3U3cXJxdEg2UEN6R0k4YThxd1ZLa2RKazBUamMyTFVJS2dsMEY3bFgzYW9RcHRnLU5EUkFTa0tpYVMxUnNSeFhoVGhPWmJUSV8wa2oxN1HSAbQBQVVfeXFMTkx2VXNpUzRISGM3OXZWMDdBWFhvTWhjenJQMUJWelByaDJlRUI2QUpNLXR4SlotZnlzblBMZXdManhNYUNyNl93bzhaSGN5ZzJRWmV1cG9oRU42NXpLbVlpbnF2V054UFltdUhuaXJ5SHkwZHBtSGxRMnJrYnF6U3RNV2VucjlTUzRZUnpXakt3cXNSVzYzMkdJUmYxQ280V21nYjRtUXdMZkVpUzNvalc1b1Rj?oc=5"
+    },
+    {
+      "date": "2026-04-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Daily Pioneer",
+      "title": "Bansuri Swaraj Alleges ‘Double Standards’ by Kejriwal Over Lodhi Estate Bungalow",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUp6SlFXQVo5TTlZQzhteXJMN1I5RThxcGNYYUY3QXVISC11VG5iSVFpR3VTWnlURHVZM1NrZHhZZ3h4MlhWMlZaMzRtNkRoc3VidTQ5ZlBob2w3eC1DbV9tZ1p3UXFVTmdNVzlyWUE1ZGxic0FGMU5oS2pGdE1YdDZUeWtOS2lhUzFqVXZlUTFxUQ?oc=5"
+    },
+    {
+      "date": "2026-04-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "BJP leaders join 'Ek Ped Maa Ke Naam' drive, Bansuri Swaraj praises PM Modi's 'Mann Ki Baat'",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFZaZnMtYnFpdlpXNEF0ampvcHJGUXZURll2SnBkWmx1Nm5VQjd2NDBsWHNNMDQwYXJFZTJVTERqTnk1bVdtUklSeWpxMVBhVUxNS1pXRTdSNWx1LXZ4UnNSc2xDUXR0ZlRrZGEtLUJudVhpV09xVmpzRmFNRVNuTWNtTkRxV2hEcmEyOERSd2laQ0VmV29yMDloWHJJem1YZXBTREdkcjZjcXF3ZU1UZDlIQWJLMDVUVGx6YWFrdlMwZERXa0h5ZnFmdmp1YXBJSDJuZFZ3Mk5jUU9hVlBYcDZMTTI?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4813,
+  "notable_record": null,
+  "num_candidates": 17,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "nct-of-delhi-4",
+  "pc_name": "New Delhi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180097.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Lawyer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 94
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Ensuring Safety of Judicial Officers During SIR Exercise in West Bengal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Request for National Heritage Status for Ahilyabai Holkar Associated Shiv Temple near Paharganj",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for a National Geriatric Care Roadmap to Support India�s Growing Senior Citizen Population",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Central Financial Assistance and Monitoring to Address Noise Pollution in Karol Bagh, Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. high leve committee should be constituted to investigated the inaction of delhi govt. in drain and sewerage system",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt an inquiry should be set up against the delhi govt. in the incident of 3 student deaths in old rajinder nagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 149,
+      "value": 29
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bansuri-swaraj"
+  },
+  "qualification": "Post Graduate",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Education": 1,
+    "Housing And Urban Affairs": 1,
+    "Social Justice And Empowerment": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SOMNATH BHARTI",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 28,
+    "criminal_deduction": 0,
+    "legislative": 34,
+    "mplads": 18,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 192946528,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.48
+}

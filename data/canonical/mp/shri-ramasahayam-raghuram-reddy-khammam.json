@@ -1,0 +1,508 @@
+{
+  "accountability_score": 29,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 46214000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 153078438
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 66700000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 271992438,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 727481
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 50373929
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 170767207
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Insurance Policy no: 45669419 75,000 75 Thou+",
+        "value": 75000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 64761369
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2827000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1486817
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 19759296
+      }
+    ],
+    "movable_total": 310778099
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5716",
+      "total_assets": 582770537,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 582770537,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ramasahayam Raghuram Reddy is an Indian politician and the elected candidate for Lok Sabha from Khammam Lok Sabha constituency. He is a member of the Indian National Congress.",
+    "title": "Ramasahayam Raghuram Reddy",
+    "url": "https://en.wikipedia.org/wiki/Ramasahayam_Raghuram_Reddy"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "8-2-326/4/R/3A, Road No.3 Banjara Hills, Hyderabad Telangana, 500034",
+    "emails": [
+      "raghureddy61@gmail.com",
+      "ramasahayam.reddy@mpls.sansad.in"
+    ],
+    "phones": [
+      "9866332082",
+      "9848032082"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Bribery",
+        "section": "171B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for bribery",
+        "section": "171E"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "II Additional JFCM- Cum-13th Additional Metropolitan Magistrate Court at Rajendra Nagar, Hyderabad",
+        "fir_no": "389/2023, PS Moinabad",
+        "other_acts": "Section 123(1) of RP Act",
+        "sections": [
+          "188",
+          "171B",
+          "171E"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "19/02/1961",
+  "eci_state": "Telangana",
+  "email": "raghureddy61[at]gmail[dot]com,ramasahayam[dot]reddy[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 22095603,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 13489796,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 10752004,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 14110345,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 11972820,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 379060,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 372180,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 399400,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 931861,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1281907,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rents, Business Income & other Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 9% of MPLADS local-area funds were spent — ₹13.44 Cr unspent.",
+      "headline": "92% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 134435462,
+        "utilisation_pct": 9
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Ramalaya associates 1,49,93,233 1 Crore+ Caliber Enterprise 7,91,706 7 Lacs+ Kak",
+        "value": 95482677
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 95482677
+  },
+  "margin_votes": 467847,
+  "minister": false,
+  "mp_name": "Shri Ramasahayam Raghuram Reddy",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 12564538,
+  "mplads_unspent": 134435462,
+  "mplads_utilisation_pct": 8.5,
+  "mplads_works_completed": 3,
+  "mplads_works_recommended": 274,
+  "mpsno": 5716,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Raghuram Reddy scouts locations for cricket stadium",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODdaTHZmcGFRc1dWdmxxamlnbXhDT19rS2ZBdjV4YUs5Z2lVcFBid0JVS0VFZ3ZjMHRYaFQ5aWJXZ0ViZjhIMkRLQ2Jtams0VmJlSnNjTGhFclhDSWpjbXhYWlBpNGpvNzNNTlI2SmpRbjF1RVMyUTNvckFLU2hUemhfc3BWQzFJSFlnWW5YWHlJck12WVpYd2xPN3RmTXfSAaQBQVVfeXFMTmJqNlRWMmRZaUxrRVZvR0NfZWJORFdLY1hWRk95OWNKM3lHTi04REl3MV9RcUpvTUx5X3JDcUtBdkxieW5LcV9DWWxIZzBOR0ZJdXFxWE5yUW5QNXowYjVvbjd3REF2UXdXRkpPZnJmaVlHQnNobi1UZEFLMFcyZm1xQWN1ZEY2MGNBTkh1QUZZOG5kN1Bqa1MtNjQ1UVVDeVFZaFM?oc=5"
+    },
+    {
+      "date": "2026-04-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Raghuram Reddy seeks realignment of key rly lines",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQUgyanpNeDNkQng2VTk4MzRXVUtTelh4UFJvSk1SanFjSU9QUXdIc0p5M0g3MVcxeklxdU01QzVYajE3NDF3dDVZZ0xnM2xjcWV6VEx5LVVDMnJhb0podmJVVF9LbE15R1RHTWJWLUZHX01UYWlMLWd6YjRVWE53TkdvTWJYTWZRTW4wVVROOWN6U2hRSmFOd0NnX0RTdWZLSUVZWE9RTDM3QdIBrwFBVV95cUxQbmlFeDZJaXhWdXgzcDN0ZlZpTEtHazRha25Pbl9vXzBULVZ3WFVvOEVJQkRFU3pzbWc5UXZsVTRKRmlkQ2V4N2dEcUlpbUsxd2R5VmZhbXhsMmpMTU5WLVVHT0pXOUl1N3F0Qk1RajZrSTh5YlBJQy1aMXR6MHB4bzg1b3RHYTJMd1NCSTBRc3hCTkltN0k3WXNPdzBoa2RxNWYtNTl4UW5wN0M2bjRv?oc=5"
+    },
+    {
+      "date": "2026-03-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Khammam MP Raghuram Reddy nominated as member of India-Switzerland Parliamentary Friendship Group",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONm1mNnQtSVB5UWFZOEgyNmtoSEF0NEZudVpKbl9VbGhRbHpoSWo1VHktR0FidmxyZnI3cmFUaGVtbmlWeU13QnFvNGhNd3dEamU1dDMzcDI0WHowY0hSaVNDdkFSNUZWajYwZks2cU9ENWpJaTNPeVdlYjA4ZEtYNlFoeHdyODBxbXZHenR0V2wta1dGTHE4TDBKS2RVeEM4d2ZvaDR1SU1UUFFOZVIxaDBCcHgyUVVoNTB3WGRmdS1tWGxER05wZlJ5eUJQY0xrWDFTczBBMjBOSTMtWXNucUZiRmpNN3RGRi1JZGlXd2otV0VRSHVvb1BR0gGAAkFVX3lxTE5HSE5rNGRzNTlEMVhIcDE3YWczZ0dGUzdYOEFRT0wtck5qYjQ0YVpwbk1BbEE4TlROWUR4VjBFck1jZnZyOUtFWnlsZEJpYV8wbnhfU19kalZ1bjZ2blJTdFNBX1RHcU50UHN3TzYwVHJMX05qMWgxbUR0dzJIX29ERUVfQ3dNQi1oSFhRMjI5cFNNakJ6UVloU3lqTXZ2cmwtZHVoQmhQMklRRzVZaDYxYWQzczFPbkZCcG5SQ1NKLWl5MjVkNVprSXg4bWQwLU5yNllKcWMwQzRKTkRVWDZXYVVsbGVoTWZaV3J5blJHOVhqWHZFRzJBVWlGTjJWUlc?oc=5"
+    },
+    {
+      "date": "2026-02-21T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "State government strengthening sports ecosystem: Khammam MP Raghuram Reddy",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ2ZPWGVWWS1BYy05clFTSmh0Q2pDMmhlaXY3QlNXdk5JSkd4R2dqX3hhcHVzc2xDbHVlM1Q0TG5wX1FKQjdCdDQ5dXJudjB1eUhqaE1USmFOTkxPZEk5RzZsb3pLRHl1YWluaDJ3WndwUG1ZUmxHTWFhakFvVzVHUkpRT1p0T0xjN0hNX21fMF9CQWtVMzB2ZEJzZ21Fa25OWS15VjFqN1ZjSncxcEVwbWJYM1ZESFN3QmItRWFCYWVPMF9FbHdzYTBDeURZcExxOUpmYlpkbEw4QdIB4AFBVV95cUxQcUdVZWFVYXNJaV9meVZIMF9uQnRUa1B5SHRsbk1vbGthM3J0MUVKelRyR1ViM1FJRVVTZmNnWGFBR0VUdmtNejBKUHVRM3RScWpvcDRUcC05dlpKa2FCdkQ3Z25aTjNiRm40cldlQ3NQTnNkWVdlUkc3SWJZWVNUYVVyaUFkZEpLQW1rVTlxM3Z0U0tFZmd1ZzYzejVCSlJwa205UENWMERBeXZmQ2ZEZEVtSF84cmlPa3Uzdnh4U2p6M294YnJLWjRkWk01b2FzMlNPRnNSekVFWGlONlp1dA?oc=5"
+    },
+    {
+      "date": "2025-10-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Raghuram Reddy urges youth to seize job opportunities",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEV4UnV6RDRsc1dCeW41cjRpS244N3RoNjdQZ0VOTVJScmswS2JpUkVDSnppMmRhZGQwcm5YVmJqMGUtOGd1cUdIdUwtSnJnc0RLaFlKVDEtVHpuMHRUdzF4aExMWW1qRVMxb2lNRGlJYy11Ykdsajh3WjdiQUxoWUh6SVByZVFPMnRLZ1VtaEN5VXoyVVhaYVVjNGlFN2plaGfSAacBQVVfeXFMT2NmcmMteThXTEV3UVdJZkVDdGpCcVJzYmUyeVJ1ZDNjeWRtNU1SZ2dNb2hoYUhNLU9BVFZidDV4TVFFUVlFYlBmVFpFN3VTbnJRNE9WZGtMQjJqMDNHSG5kdU1lR2d6R1lzbGh6b2lGWFFsWDZxWjExSW43TTRNdHYxVkZvSkVvTnFfQm9NV1g1LV9NRjJuVVBxR0E5M3hyMVBGbkpOcnM?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6782,
+  "notable_record": null,
+  "num_candidates": 35,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "telangana-17",
+  "pc_name": "Khammam",
+  "pending_cases": 1,
+  "phone": "9866332082",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180411.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 75
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to take comprehensive measures to protect and conserve Nelakondapalli Buddha Stupa in Khammam district, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need for technical and financial assistance for revival and modernization of Kothagudem Thermal Power Station in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding amendment of Section 35(3) of Bharatiya Nagarik Suraksha Sanhita",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to impose prohibition on Paraquat, a highly toxic herbicide used for weed management in crops in Telangana and other parts of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to establish a National Design Centre (NDC) in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding problems being faced by Chilli growers in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to establish a Regional Centre for Oil Palm Research in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to make a comprehensive policy to address death and injuries caused due to snakebite",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to constitute an Apex Committee to address the problems posed to Telangana by Polavaram Multi-Purpose Irrigation Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need for financial assistance to Accelerated Irrigation Benefits Programme in Telangana under Pradhan Mantri Krishi Sinchayee Yojna",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding release of special assistance funds to Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding development of new airports in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 121
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ramasahayam-raghuram-reddy"
+  },
+  "qualification": "Post Graduate",
+  "questions": 33,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 2,
+    "Coal": 1,
+    "Commerce And Industry": 3,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Earth Sciences": 2,
+    "Education": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 6,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Mines": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 2,
+    "Power": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "NAMA NAGESWARA RAO",
+  "runner_up_party": "BHARAT RASHTRA SAMITHI",
+  "score_breakdown": {
+    "base": 35,
+    "criminal_deduction": 6,
+    "legislative": 52,
+    "mplads": 11,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 582770537,
+  "total_liabilities": 95482677,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 61.29
+}

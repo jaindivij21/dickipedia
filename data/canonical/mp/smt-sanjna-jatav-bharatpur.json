@@ -1,0 +1,441 @@
+{
+  "accountability_score": 50,
+  "age": 28,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 700000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 95193
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 2,50,000 2 Lacs+",
+        "value": 975000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 110000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 430000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2310193
+  },
+  "assets_earliest_year": 2023,
+  "assets_history": [
+    {
+      "label": "Rajasthan 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Nw3mZL59kxQLVdr8Z6nZ",
+      "total_assets": 2376816,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=371",
+      "total_assets": 2310193,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": -3,
+  "assets_latest": 2310193,
+  "attendance_pct": 100,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Samuchi, Alwar, Rajasthan, 321606",
+    "emails": [
+      "sanjnaofficial88@gmail.com",
+      "sanjna.official88@mpls.sansad.in"
+    ],
+    "phones": [
+      "9461007178",
+      "9376702771"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/IncSanjanajatav/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/incsanjanajatav"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/incsanjanajatav/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "01/05/1998",
+  "eci_state": "Rajasthan",
+  "email": "sanjnaofficial88[at]gmail[dot]com,sanjna[dot]official88[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Spouse",
+        "source": "Income from Govt Job"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 34% of MPLADS local-area funds were spent — ₹9.70 Cr unspent.",
+      "headline": "66% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 97008032,
+        "utilisation_pct": 34
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 715340
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 715340
+  },
+  "margin_votes": 51983,
+  "minister": false,
+  "mp_name": "Smt. Sanjna Jatav",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 49991968,
+  "mplads_unspent": 97008032,
+  "mplads_utilisation_pct": 34,
+  "mplads_works_completed": 41,
+  "mplads_works_recommended": 209,
+  "mpsno": 5690,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-07-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Lallantop",
+      "title": "26 साल की कांग्रेस सांसद Sanjna Jatav ने Rahul Gandhi के बारे में क्या बताया? | The Lallantop",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZnZ6bTlLRFB6NkxMS0F4Mk9acl84ZDM2R3Vyd2tkZk1BZ1RnQ0ZPMGd5SGt1SnE2ZXUtTTRLdmdEMEx5UlZxVl9yU28tRHBpZ1l4MnpZenZWTXRodlp3RGVnYlh5SVFLODZuM1VVcjAwa2ZvWFd3dFlkQklTUWZrXzBTUUZuRUFtLVZncUViQmNtWnBjWXNBLUh5OXJYUE1VUGRBYktfZElyRDh3aTJiX2hqVEl2MHRxeXZGY1p1UjZwdjB2eFU1UmVn0gHPAUFVX3lxTE81aFZjRFNndUY2NHJnMHdXTmJRSTNTRnJoUktoN2wzSFhSNFFGV3lPS0NfRS1nOFNBSVhPeU91ODhPSVJURm5JSG94UUZyaks1WDFkMnVvemlZZEp1MU1zMjZIOUltUlJlb0p3M2RBa25fak9HMThBZ1JhNUREUHVPNzh6Tkd0TlN5eFJnY1JqSVMyODVOaHFNWjNDZDZPMG9tdDNOVFJZaF8xWnktSXktdWhQb0psbkZFck9SaTZLSmFnejJ3bkpZLVd6NVJjNA?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "In Rajasthan, Congress’s 26-year-old Dalit face Sanjna Jatav scripts a comeback: Assembly poll loss to MP",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYU5vLVhtbnJhYW5lTmg5cU9iMkMxNXY1UDBPaW1lOVZKeTdrNjRrVDlRTWYxdHFtSl9BZFZqaGN3bG03dy1aUDVJbmtPd2piQnFlX1JtbGF2OWpfTmlvODI2bXNqTWNyeUplLVJvbDYzNV9HLVgwU2hsNWFMRDgxN2cteWlvdFNiTTEtUEVKSmRNc1JNNmtfVmpKNEt0aExkQ0h3R1lRSm1VTDZiS2FmNU9MdGxZY2xXMmJpWUFYM0lVNWhDX2QtbNIBzwFBVV95cUxNbUY2Z19GM2k5NVpIS3pENWNoekZxN3R5TDVMbWE5dDFoUU5fV3Q5amhtbmNYWnY3OUJrSzRHU1FtWktydUgxTHg3Zk5hSnM2eV9KLURWZ3hRMENWTmhFZlJtQlBpZVhROWw2V0Z4bkJabUNGZjhRckVFcU9wSDZVSHYydWtNTTJ0VVIyWGNHRDJzX0wxWF8wUkR0SnFlQWVNWWdnUlVUSjgtcDVkNjgyVnpMTTd5eHpFdmN2Z1UxMGpnc2ltS29LUHZUaGdtZ2M?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "How Sanjna Jatav, Dalit Leader and Congress' Rising Star, Became An MP At 26",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONTlJRzV2QkRhRzZLazN3b08wcmZ3TFlPLVR5Z0RFbVJxcVMzSUFqdEI3Q1JXY3lmaXdBTjI2QW0yZjFJRldZVFEyQXNqVXRLVlFFWVpyR3hFcG15U0lHbnZTcEc0WTd3T2V1N1NuUG1YUmkyVjJZMmRSTTNzUUZ5Y1NOQUE0bENaWkpCeS02ZUFaeFFrUHpIamQtXzBtMGJVSG5GeGMySnVGalhUTnVIMTJnT2hDc2RNNVVyaDVxb3o?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bharatpur (SC) election results 2024 live updates: Congress's Sanjna Jatav wins",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObTVMb1pTYllwMU9fWjA4TllrZy1rTTdETVZTY0JIcXhXZlR2MWFqamIyM01UWDQ3X09HUU1kU2w1LTZRNXBjeV9fdEgxYzhvSjZ0dExHRDhKTnBiN0FWR3BSOUltcEUtOGdtZ1pYZXp6MWlGdThqVzcwTFpCSE9CaXpBaFFsdzRpaDFPUEQ2X3J4UkZqX0pxd0JOMFlIQzlILUFZU0ExSVBDZ1JmSExwMDYtUldGekI1TlZMS3ZQU1B4Uk5jN0xVbXp6a1NmbTBFaGdFYzFwcHNSTDYzZUVQcElqNGc0OUhBQTJSUUhwQmRMTFZfUGx3WWtjSmg5Y1JRaklmbmdQcGtmcENyODU4djV1QWJ3OHQxUjNEZXhGdldjUWkyVG5sRUtidGYwdmFCNnpIcXdudHY0QkdLdmdjbXJB0gHHAkFVX3lxTE5hQnRKU2NxSmxKZ3A2QkNVNkthcktucENtaWNhdkRkS29zbUxpek9NUjg3UEgxc3JrNGdrRW9ZWTNNbDZGMGktRXROa2QxTzg4WUJiQjhkNzRUeW5CanU5dFdMaUhpVEdIX3Q5RTY5RnQzUG1MOEJKd0FOYlV1Z1EtRWNWUjBJSHFCRnVzMHB6YktmVmtKc2Rlb1BlRjRKTlQ3WFVvZ1lYMDZGV3lzSUx6MGVXaDkyVV9CTTBzb3NGVFFnamNMYlBldUl0bDBiZDFfMC0tazhjNmFUdEdxTThBdzAxNEh4WE1BVUZjTU8xN0paRGh6QUJ3ZG9qRjZYV0Fmay1FOGtGalQ1bTJCOEFLUTRHeGpTRm9NbUdEcGJwN1luSnl5X3d3Q05EOTROR0dkc0NGWHVaMTVqYjI4QmNSLUh6WmxqSQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bharatpur Election Result 2024 Live Updates: Congress' Sanjna Jatav has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1hPMU54LTI5NFc0ZXBwWWEtSTdIMWxJbnRoUnRRQllibG1qdXcxc094V1Frdlc4QlhoTWRjQkFZZkFra1hBTkkxTHlKVE1tUC1MVzl5dG5sMDB4ZFpkcDVWX0Z2ejk5bTkzOGludThhYUZQd0lSb1ZCald2SFREMElEMWhIZWkyX3BpT3FlZGVRWDhyemRDdXIzaC1taUZXeGxGcTJZZm1vZlYtZllTWjRQcWFqS3VzR3VDQTdsYXBwdUNLeHlN0gHUAUFVX3lxTE82X2VzVDVITmFmOTFXQWd2YXVET0VuY3VvUkdadENPNDF1VmtIVnRwdmRDYTBRRF9mTHEwczg4b0lKc0d4cnByelhWS2ZpcVBnUzd6YldpelFDMS1abldsWllQbFZ6bjNaNTBJYXQ4WlduRlp3d2k1VDFHd2R6b1kzSmZydmplNWRwbkdyQnJ3TDNiZTNfc1E4TUFOb0NYTHdCcXRDaWkyczRTTVpmQnpvbTdLU2V5Q1FXZzdadHc0OG1Mc09sZmZFa2FyRTM5S2tjTXJL?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5443,
+  "notable_record": null,
+  "num_candidates": 6,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "rajasthan-9",
+  "pc_name": "BHARATPUR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180356.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 100
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Enhancement of MPs� Local Area Development Fund to ?30 Crore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to renovate and beautify the historical Lohagarh Fort in Baharatpur, Rajasthan and elevate it as a international tourist destination",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Railway Connectivity between Kosi, Kama, Deeg and Bharatpur in the Braj�Mewat Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to set up horticulture-based Food Processing Unit in Weir Assembly Segment in Bharatpur Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to provide stoppage of various trains at Kherli and Bharatpur railway stations, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding railway related issues of Bharatpur Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of water storage in Bharatpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "Regarding need for procurement of mustard seed in time-bound manner in Bharatpur Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Development of Basic Infrastructure in Bharatpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Issue related to an order made by the supreme court related to the reservation of SC & ST on 01-Aug-2024",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt to please include the jats of bharatpur and dholpur in the OBC list",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding request for setting up of an AIIMS like institution and Institute of Higher Education in Bharatpur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt to solve the water crisis in rajasthan",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 18
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 116
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sanjna-jatav"
+  },
+  "qualification": "Graduate",
+  "questions": 16,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 2,
+    "Railways": 4,
+    "Road Transport And Highways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "RAMSWAROOP KOLI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 0,
+    "legislative": 47,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 2310193,
+  "total_liabilities": 715340,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.18
+}

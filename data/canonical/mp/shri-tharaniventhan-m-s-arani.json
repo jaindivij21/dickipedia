@@ -1,0 +1,395 @@
+{
+  "accountability_score": 65,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4724513
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4100000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9824513,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 140000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 642464
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 0
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5355000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1200000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 7337464
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=703",
+      "total_assets": 17161977,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 17161977,
+  "attendance_pct": 75,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "M. S.Tharanivendhan is an Indian politician. He is a member of Dravida Munnetra Kazhagam party. He has been elected to Lok Sabha from Arani Lok Sabha constituency.",
+    "title": "M. S. Tharanivendhan",
+    "url": "https://en.wikipedia.org/wiki/M._S._Tharanivendhan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No.3 Vanniyar Street, Eramalur Village, Nallur Post, Vandavasi TK Tiruvannamalai District Tiruvannamala Tamil Nadu, 604406",
+    "emails": [
+      "mstdmktvmalai@gmail.com",
+      "tharaniventhan.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9842592218",
+      "9655997666"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/m.stharaniventhan"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/m.stharaniventhan"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/m.stharaniventhan"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "15/06/1965",
+  "eci_state": "Tamil Nadu",
+  "email": "mstdmktvmalai[at]gmail[dot]com,tharaniventhan[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 542830,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 460340,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 310450,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 262140,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3563277
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3563277
+  },
+  "margin_votes": 208766,
+  "minister": false,
+  "mp_name": "Shri Tharaniventhan M S",
+  "mplads_allocated": 168337124,
+  "mplads_expenditure": 102912010,
+  "mplads_unspent": 65425114,
+  "mplads_utilisation_pct": 61.1,
+  "mplads_works_completed": 159,
+  "mplads_works_recommended": 223,
+  "mpsno": 5819,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Arani Election Result 2024 Live Updates: DMK's Tharaniventhan M S Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGVqNU15QXFjNWh3SkpTaGo5MTByRDNaaTM1ZV8yMklNX3o1YVZnSHBwV1JJRk9hVjlTN2ZUT045UWNBVS0xRllGU2RaSkw5VVdqc1pwdnB0R21yd2hjbzBYbzJZbmw3cmVXZzBNRVJRMGNmT1VXZGVXZkVDZVJQRmZ6cFU4bF9PcThhZkhpMXZlV0FHUWlzbVp5Z0J6N3RmU1d1V2Zrb1Fxb3ZuTTVnVk4xT09aMVU5NkcxNkZZcmZHRUnSAdABQVVfeXFMTnZSMWlMd1pCTVlSeXEwR1V3TlBHN3U5Q2hEYktTMUxSNmZIcUtRTVdaNGxGVXZOREhPWUxmRkx0UVl2TzNJbVJFTkoyYzdfU1hHR0tIUlBLUmM0cklnb1RuZGkxU0ZtVFBuSzg4enN4eXpUMHlhbC1aUnQ1cEVWM3lMaWRqbGU0dFc5UzlXOUNVTkNIR3FkbTlmSGYxLUdCaGpUOUZJVkIyQ0RHWnNlZWg5dEM1d3EtVUZNcFFLNFh0WUpJOFZKZTlZSkRIYU9PMg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Arani Election Result 2024 LIVE Updates Highlights: Tharaniventhan M S of DMK Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFBFTnNrXy10Rmo3NUpvdUc4c2F2MHNLbXBFNFVpWTdHOEZyUWJHVWVidk9BNE9nVXdEcHpfb2NHS0VsOV9xbE02UVFmODN1aDZhWnVmdl85T3hXQzFzMGNFOFN3cjlUeGVxMWtpaF9FbDVjV3o2UTJNUXlZWkJfcHZkdHZZeGVrYUEwTFlvd1I5RmRxOGVwTVRPUTRweHlYS1k2bk1ZQ0xnb1BPXzNoN0x3NS1aYkp1MUJvN3BidlNSalpyV2lHR2RvaXJUS3lzYjNrTHZNZmx3VkI1SFZj0gHkAUFVX3lxTE54YldVQmtYTUxCRzlWUUVGU1dCVWhxck1fdGo0OGVqX09uSC00Zko3eVJSWGNWeDdldFdxX180T29vYk9mb1BKUFBCZGFuTGpNS2JUSl9YZG5mUWY4UmE4UGdVTmhXMTJoekY0V1dtUkhyTkI4eGc1YWUxMDVVZ0VnZzU5aHR2NndzRVhSZjFnTGpqaEt6ckJKTF9iLTFBUTVGa0RyY0ppdmRieXhranNRSW5QMzdVbDhaREwtc2FlM0RXTWJOTVJ0WDhWeGt0RWQ5VUt5QTBjUmJ0OGlPSjN4aFFrNg?oc=5"
+    },
+    {
+      "date": "2024-05-31T19:53:52.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Tharaniventhan M S",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU09SXy1EbFUyMjB1RXdQelVVMmFoM3lDMFZJSjNQZXVyeUdvdC1yeE9sV3JtX0VXWjJDLXdOYkdwNWhvNF9KZWVxM3M0TXlUZVIzOU05SGlOTUZkUUI2VGQtNDJtMkhjbGhTYnFaZTZNVVRYQ0lqbUlxZmdtQ1B1YWxqQ0x3c3hmYVBiSFFFYkVHVlowSDZ1WHZyTHpNcHRRMmR5RHV2Y21VUHNyUlZYLU44TnRRaVZabUIw?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:20:39.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Tharaniventhan M S, Dmk Party, Arani, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaXRKQ0oxSGdlMU9SQ0IyRmh4b1NNRUVybmpfdEtkcDJfQTM1Q2FORng5eE1BSkxyMTRHc3pZSmJWaHdrbVZRbmxCUjc2ZnlsQmNrUmtfVW43em5jRUdJMmFSVDE3amtmZ1NqaGtFR3I4NGpvZ0NUbTN2RFlTa3JJbnRfSjJHRm9pRk5kTGtTaVRYYWQ4QkVjWENkWkJlaW93UXdSREpEb1lGUmppOEJLZXQwVDZYd3dIdFpBZFQyM0dvb0pNRXppU3QwejFLYmNqRmdocGQxdTYyczNFMml3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9188,
+  "notable_record": null,
+  "num_candidates": 29,
+  "party": "DMK",
+  "party_bond_total": null,
+  "party_full": "Dravida Munnetra Kazhagam",
+  "pc_id": "tamil-nadu-12",
+  "pc_name": "ARANI",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180394.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 68
+    },
+    "debate_titles": [
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to include Arani Parliamentary Constituency in Tamil Nadu under PM Gati Shakti National Master Plan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding need to set up a handicraft park at Vandavasi in Arani Parliamentary Constituency, Tamil Nadu to promote Korai Products",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Exempt GST on 25 kg Rice Bags and Raw Materials for Silk Production in Arani",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to provide rope car facility in Raja Desingh Fort in Gingee, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to expedite construction of Railway line project between Tindivanam and Nagari in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to govt start the Dindivanam-Nagari railway route and provide stoppages of bamini express and several other trains at polur and arani and provide a rope car facility at gingee fort",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 110
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/tharaniventhan-m-s"
+  },
+  "qualification": "Others",
+  "questions": 23,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 2,
+    "Civil Aviation": 2,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 3,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "GAJENDRAN, G.V.",
+  "runner_up_party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
+  "score_breakdown": {
+    "base": 65,
+    "criminal_deduction": 0,
+    "legislative": 42,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": null,
+  "total_assets": 17161977,
+  "total_liabilities": 3563277,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.86
+}

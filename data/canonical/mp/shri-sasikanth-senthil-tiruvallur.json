@@ -1,0 +1,477 @@
+{
+  "accountability_score": 54,
+  "age": 47,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8200000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 7000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 15200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 20000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2018237
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2369000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 450000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 450000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1600000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 6907297
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1464",
+      "total_assets": 22107297,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 22107297,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sasikanth Senthil is an Indian politician and former Indian Administrative Service (IAS) officer who serves as a Member of Parliament representing the Tiruvallur Lok Sabha constituency. Senthil served in various administrative positions in the Government of Karnataka from 2009 to 2019, after which he resigned and subsequently joined the Congress party in 2020.",
+    "title": "Sasikanth Senthil",
+    "url": "https://en.wikipedia.org/wiki/Sasikanth_Senthil"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "C-81, 14th Street Periyarnagar Chennai Tamil Nadu, 600082",
+    "emails": [
+      "s.kanth79@gmail.com",
+      "s.kanth79@mpls.sansad.in"
+    ],
+    "phones": [
+      "9361234505",
+      "9108088777"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/s_kanth"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/s.kanth79"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "28/03/1979",
+  "eci_state": "Tamil Nadu",
+  "email": "s[dot]kanth79[at]gmail[dot]com,s[dot]kanth79[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 684440,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 304800,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 203320,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 569520,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1147820,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 2985780,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2582760,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2418280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2221860,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2151440,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Employed - Trainee /Education"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salaride Employee-Daimler Trucks"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 37% of MPLADS local-area funds were spent — ₹10.82 Cr unspent.",
+      "headline": "63% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108244520,
+        "utilisation_pct": 37
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 572155,
+  "minister": false,
+  "mp_name": "Shri Sasikanth Senthil",
+  "mplads_allocated": 171500000,
+  "mplads_expenditure": 63255480,
+  "mplads_unspent": 108244520,
+  "mplads_utilisation_pct": 36.9,
+  "mplads_works_completed": 70,
+  "mplads_works_recommended": 187,
+  "mpsno": 5681,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-09-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sasikanth Senthil says he is not after the post of Tamil Nadu Congress president",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYTFPSjhsVVYwc3VqMkQzVGhKTjlJcUVCRXVfZW9nVmFKbkozbThLdV9JT282X1h3SE43ZWUzdnhXUXdTYTRXdlVsdDJIOHQ5LVlfbU5jLVBBNnB1bTAzcDQ5NW5oWE5NUUtIbTl5b2JRSTZPbE1rUHkzRUtxUWNFUkdTdkFuaW9jX2tOZVQ4U0JjZUNTckc3dmRjaTdzSGVCcGJmcU9oa0t4YnFGYU4ta1hoLWdkaVJIRUV1c3lUakZ4ZVBFektFcS1hRWtySjc1YjM0Y2VfczNzVEVjcjBmTmRCLUJNX3FhUnR5cHRvQmJfZ9IB-AFBVV95cUxQbnJKUkhPZzZrTVVPY0pmNWVWX1Q3Mjl2VFptLUdDRWdaWHVSNnlTQWNIckprVDFaTWFvc3BlSTJWVXpyMUJCUTNUVFQ2aGo2bS1kV2lvZWxWLS1fQWFGRWFERDdlc09MdGUtSlNfRFBSUW1pdU1QTzUxVkM4YXpZNTdiZXJfb0U3dl9uZ2hLLTB3a2k4SFhPR1A0aWNFdGp0c01HZEdUT1JYZFZ5VElVZkY3eFozSHVMZGZpbEFaZlNPX3NaRjUwdUI0d2Z1cGRYQkhsVjFpUlF3ZGR0aElhdVN5bFN5VjlBeDQyVGhjdG84RTg1cFB6Zg?oc=5"
+    },
+    {
+      "date": "2025-09-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Congress MP Sasikanth Senthil withdraws hunger strike temporarily",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTR4aGJSaHRDdGUwX1l0RFBMUUltU2dQWTJEamNVcFZLWlpHWHBCYmtnQ1Yydkx6RktzNFRkdlBJYWdCenVkS0xVTDZuTDNXLURVS2VJWlpMRmxzTXRlMnZEWXA2WEhGNGUwUVA2czJ1NlZCWDMyelR1cmpZbkc2UE5VUm5FbTl3YUtXdHlPQ21jaUVCXzlna2RVWTl5MHhLY18xMHZPYWxFbkdXMElmMUgtSERiLWZxb1U5QVJHWGzSAccBQVVfeXFMT2VJajZzZzZoTmVlY1N0bTNySzczR0QyRkMzMHk4ZmNJaUJ1eHUxVmd0bFk3R1RfQS1BS21neHhrOFBFcUl5T0FYdmtFMXNGV1E0dWszNTJ3N1hybnlZMWYxblI1Um43VmxheWx5a0Zva0dGaExaUzhKS3pOanNMTmhaUTdKdGYyWU9CejI2UVlnR09CQ29zRnBnRldBLUxCSXoxejU5UkI0Z2FvN1hicWExMDQyX0VxSXM0RkFXdFNKOGQxcXFlTQ?oc=5"
+    },
+    {
+      "date": "2025-09-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Congress MP Sasikanth Senthil continues hunger strike from hospital",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzN2OUlPRFh5M1daRDMzREhkNkdOQVBnMEpaV0RaYkhTc2pGeVlwdF80ZUdLNGFwaTdWbVE1MVB3akdlbFI1TEl6Mnc5eWx2VXU4ckJHYndxX1FjcHRZM1M0WENuei1YdjlDZVZ4OUw1YnRSSFdRdUYwNGNpa0RSdGJ3WXNxdmhDRFN6LUxHY1RCUDNRQkhmRXFBM1hudUhJN21mUklpc0tFajRlWTJzd2Fhbnh1SjdaaVBJelJMNVU5VGJid01sdTdR0gHXAUFVX3lxTE9FOFhYTkNNU2tPVzNTaEVKNE5CZ1VFUmR0OEhTRHk1ZnN1WXdxS3pBTlEyeElqMXpqREJjdng1NjJuLUx4MkpQY3kxcXV3VDc5SkpDcHgtbEYyZkxOSzhSZHFNS2VNYXpES3Q1ak5SQWVIbDFDbjQ5a0U1ZjNvVGFrX0hzMzE5ZE5ya2ZUcEJ1ZnBLWFlIWGxDSm01OGluRkYyZktnYmhWbTUteExEUDhOYTZ5LVlCVlFFVzVrQWhTQU1UM1JOSlI3VDA0LWtqZi1sTnBxcWs0?oc=5"
+    },
+    {
+      "date": "2025-09-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Tamil Nadu: Durai Vaiko extends support to Congress MP Sasikanth Senthil's hunger strike over education funds",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWk5BbkhFV3plUVhMY2Y1OUUxRVNxMzN2MThyS1B6d1VoaUdHbUdoT1hyQXFEUm45MTVlQlltVmdVWGgzX2V2eGhieERnWXZ1bmtqQ0RTbVRrX0o0dDFHVWpkT1dPbVlaVU9jT2JLRU5JV0NNRDNObUxKSU9oQ1NmSl82STRsSndfVTlIOFFEMUg1V0xNcjMyRFhsbVNPdlQxTGo1ZFo4Q2lUa3dFbkZERkZvZ3E2aHFSTTFla0R4RzdQMTlib1A1bXFkQ3J2MXAxcktfVndDLTVWV0VxaUpQT1Z1WGo0cmg5WGRrSkt0VXBvajdMdm9mMFJOd25SRlRO?oc=5"
+    },
+    {
+      "date": "2025-09-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "Tamil Nadu MP Sasikanth Senthil hospitalised, vows to continue hunger strike",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRThfOUpwTWUxcnFKQWVRQkNmemxMZDBCeGxxS2NuQ3VsVzY0ZVdWNFJBOXNmYUpiT1kyc2NRMGRqVTA1MHdpLTVNbVZ1cHRxc3NsWG51Ym13b0tuWElyWm84Wk8zLXZzdUNJQUZHbGd0VURzNHVHSG5qbktlLUN1cnU1clU3eDF4Y3BKcm9jZEZjTFQ4NWhCNmZNTWVVZVdhamFPUlc2TkRxSHZDUzAzUnJYTzVxcTjSAcQBQVVfeXFMT3prOTgxX3Z5LVppd2N3bWpCYzRZaks0ZHB4WjdGeVV1bjJYaE84U2V0T1dBNGs5YjB3MHQzYU1FMnZuck94OHNmVUxvbXFOUGl5a2J3eDNzUmxMSlZtZU5vVkd3NHluXzhHQ1kybWFvZFZOX1JkbmtDb1JQemZXdTF3YjUxcW1YS084bF82YWpvLTJ2cWIta25HTjhpclpMUmktNDYtSXk0UDQ2T0JGUEZlS1k0NjNHeWd4dkhRaUxldjA5Vw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 18978,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "tamil-nadu-1",
+  "pc_name": "TIRUVALLUR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180387.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "IAS Officer (Retd.)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 87
+    },
+    "debate_titles": [
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to ensure timely reimbursement of claims made under Ayushman Bharat Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to impress upon Sri Lankan Government for internationally monitored investigation into the reported recent discovery of mass graves in Chemmani in Jaffna region of Sri Lanka",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "The Health Security se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Demand for Stoppage of Express and Super-Fast Trains at Tiruvallur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to take comprehensive measures to make Pulicat lake in Andhra Pradesh and Tamil Nadu a sustainable ecotourism hub",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.07.2025",
+        "title": "Regarding need to upgrade railway infrastructure in Tamil Nadu and other parts of country to ensure safety of railway passengers and property",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Review and Stop Excessive Digital Mandates in Welfare Schemes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to implement National Food Security Act effectively in the Country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 24.5,
+      "value": 14
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 95
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sasikanth-senthil"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Commerce And Industry": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Railways": 2,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3
+  },
+  "reservation": "SC",
+  "runner_up_name": "Balaganapathy, V. Pon",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 0,
+    "legislative": 44,
+    "mplads": 69,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 22107297,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 56.21
+}

@@ -1,0 +1,503 @@
+{
+  "accountability_score": 31,
+  "age": 63,
+  "assets_2019": 17622476,
+  "assets_2024": 22328968,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 14780000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 19280000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 85000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1021167
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 347800
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1210000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 385000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 3048968
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vn6ZxDe9Uy24aFFxFWc",
+      "total_assets": 17622476,
+      "year": 2019
+    },
+    {
+      "label": "West Bengal 2021",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=vn6ZxDe9Uy24aFFxFWc",
+      "total_assets": 15250717,
+      "year": 2021
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5202",
+      "total_assets": 22328968,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 27,
+  "assets_latest": 22328968,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jagannath Sarkar is an Indian politician from West Bengal. He is a two time Member of Lok Sabha for Ranaghat Lok Sabha constituency. He won in the 2019 Indian general election in West Bengal and retained the seat in 2024 representing the Bharatiya Janata Party. In between, he won the Santipur Assembly seat in 2021 election but resigned his assembly seat and retained the MP seat.",
+    "title": "Jagannath Sarkar (BJP politician)",
+    "url": "https://en.wikipedia.org/wiki/Jagannath_Sarkar_(BJP_politician)"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Vill Arpara P O Barajiakur P.S. Santipur, Distt. Nadia West Bengal, 741404",
+    "emails": [
+      "jagannathsarkar111@gmail.com",
+      "jagannath.sarkar@mpls.sansad.in"
+    ],
+    "phones": [
+      "9153668879",
+      "8810676796",
+      "6291472134"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/jagannath sarkar"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/jagannath office"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for murder",
+        "section": "302"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "183/2020",
+        "charges_framed": false,
+        "court": "Additional Chief Judicial Magistrate Nabadwip",
+        "fir_no": "Nabadwip Police Station",
+        "other_acts": null,
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "133/2019",
+        "charges_framed": false,
+        "court": "Additional Chief Judicial Magistrate Nabadwip",
+        "fir_no": "Nabadwip Police Station",
+        "other_acts": null,
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "56/2019 Dated 10-02-2019",
+        "charges_framed": true,
+        "court": "Additional District Judge Ranaghat",
+        "fir_no": "Hanskhali Police Station",
+        "other_acts": "Sec.25/27 Arms Act",
+        "sections": [
+          "302",
+          "34",
+          "120B"
+        ],
+        "serial": 3,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "429/2012",
+        "charges_framed": false,
+        "court": "Additional Chief Judicial Magistrate Ranaghat",
+        "fir_no": "Santipur Police Station",
+        "other_acts": null,
+        "sections": [],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "02/01/1963",
+  "eci_state": "West Bengal",
+  "email": "jagannathsarkar111[at]gmail[dot]com,jagannath[dot]sarkar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 37000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 622870,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 723620,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 527340,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 471890,
+        "person": "spouse"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 401430,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 374790,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary enjoyed from Member of Parliament"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Sections 302 appear in the self-declared affidavit. Pending ≠ convicted; reproduced as recorded.",
+      "headline": "Declared case(s) cite IPC sections for murder",
+      "key": "serious_sections",
+      "numbers": {
+        "sections": "302"
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.54 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 115431000,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 186899,
+  "minister": false,
+  "mp_name": "Shri Jagannath Sarkar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 31569000,
+  "mplads_unspent": 115431000,
+  "mplads_utilisation_pct": 21.5,
+  "mplads_works_completed": 54,
+  "mplads_works_recommended": 194,
+  "mpsno": 5055,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-28T02:26:11.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Ranaghat से Jagannath Sarkar का बयान: TMC बंगाल से साफ हो सकती है #shorts #ytshorts #youtubeshorts",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPejh4UGw4dGJQQlk2eFZENUFrRnZac1N1ajZwWDZHQWhMVV93YWdDdUVmZTgtcGc1WG5jMlBvTk5Tdl9IOGtLS3k3ZHhkeGhRNC1qbHNUX0MtYWZVcGE3ZUhscGZiT0JrZm5tZnNabkdtV09iYzRNNTh4YmJjMjFPM1RfZDQ4djVSUk0tQS1aeUhOTmNZT0tNdkxBd2lSZXl1MlI4UjZyZllCRVdIRGpqTnVMNzV0X0UwdDhYck9XUVJWbDZ3djgtVGdwOUZ2QWI0a0t5dU8wY3QxM1pTUHM2dmNaY2FJV1dCMHNxdXBlczlYMUpERk9peg?oc=5"
+    },
+    {
+      "date": "2025-11-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Future of Hindustan to be decided by citizens, not outsiders,\" says BJP's Jagnnath Sarkar on second phase of SIR",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQazNSN3JIbkktZ28zMXptXzJHdTktOHl5SFVFcURtaFpXMTRLSUdVZDZjQTdDUTdiOUlzVFdQa0JwenhBN3RhRVVERUlfQmtFTmptOE1CMG8ycnc0TFZKa0VRVFZoX3hmbTFyMUctZHdQTWk2ME9Td2VZUE9LNTkxWV82ck5ZSndPOENBMFZraW9hZXNzZnhNZUR2dEtfZGEtUGxNbllra0NsUFAtWTdLNHpaOGVjTlBpNTBQa01LTHVJZXA3RnZFSzRDRmxZTFBqYlJtNkRCbGtaYnEwVzRVbm11MVRtU2gzazgteWp5UktFLWZxeVpaclBFRE0?oc=5"
+    },
+    {
+      "date": "2025-11-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Hypocrisy at new depths\": Abhishek Banerjee slams BJP MP Jagannath Sarkar's call to remove India-Bangladesh border",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYTEtLXZGdndpUFhTZm9HYlFqT3Frald4RkItTHpLeUJUaFNyQXpwMV8yamlJOEhqVnBRUG5XUjd3TVZ2eFVyV2hzc1djbkg1VmhRQmVqZENLcDNGU1NZQkRpd1kySHZ2ZjliRG5peXk1THBwbzNHVl9EdS1QTFJGVFJJOFdiMWtScFJxaFFlUkEtTko0OFRZWnE2cVFxS045cGZsXzFkMW1nVDAyNDFCVFdOZDBYOS1oNmJ5VkZ6TlZtdHFBb1ltS3k0ZUw4UkhIcDR6UTNha1RtSVZUbnR5eWhaaE5XaUFtdldEX1ZoUjlRQnNlYXlZTWRSQnZiNzlU?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ranaghat (SC) election results 2024 live updates: BJP's Jagannath Sarkar wins",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTXgxdVV3QTdJVUFHUmdndEV5MjZvZndVNUt4bk8zSWlyb1lpMWRtdkF4SWhvclR0Z1hRdlZvZ2k1OERQOWNoRTQ1R002clFUYllGX2p2NWZkS1hvR2FGNmdMMkp1dkQtZGIxOXVQSm5qclB3ek9sZHRZS2V4RmFpVjFiT0Y2bDVlZ1I2amZPQk9QNnUzU2tDak95Rmd2UTBrdWhSSmRsZU1OSDFDZjl3dU44eVByZGlqMmFGU2d1cmRfWi11TkxENnhjU2NzTUFhMHJHSXBEM0lJdzNEVHRIOW1HVTJrSG11c0RNWmZXUVVXT1lva21SMU1NbUVkUGxB0gGGAkFVX3lxTE9zcVNOS2o5VGNEeV8yYVBROFlYaFp6aUFweEd6M1RlOTJmSlJLM0xzRXVfdm9Qd2VBUFI4anVSeGRxQ0dMT3Q0T1VmenVOOHpnTU1McjhfVmV1U2s5Z05ubHlObl96VnNYTzhER2tWWlFkVnRmQnFoRFRrQXA5NmkxbTIwTzNyTjF3RUFHOGxYT2ZFZGhBQlVWMHh5TXJlV0ZXcHB0dXozR0NxeEl5Uy1RNzcyLXJMWm9rSWFOZHJ6N0FoQm9FaXZuNVJDcVN4bm9BbHRXbWdvQTNYWng2MnlybGp6Y29Fd3RwazBtNzBWSFkxLVd2MW9VbHRLQ2R3Y0NUVzlONWc?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Ranaghat Election Result 2024 Live Updates: BJP'S Jagannath Sarkar Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWEzUTlhQUVkRmZFUnllaUttMzRUZkxXcGlKc1pYMjFraDd3a3pJM082aUttWWlBVFN1cWFhcW52RWE1WlFvRlpWbTduTGJvY0lidkN4WW5lOGo4TlNpNVlhb1U5UVFxemNVckt1QVVaX21tMF9UclROUFZac1RpdXgyLUlhemhqcUdQZnBBc01CY1NEcHhUN1A1M0FURjZTVXZ4bS1zQ1NJMU9SWG9HVWM2UWE2V0VnV21rMVJXdGU0aVpERk5nbdIB1gFBVV95cUxPRy0wY01JZzRTcG9tQl9tY25rcXYzeEx2bUNnS2IzallKNHVtbnhYSkh2ZGRXZHkySWctV0w0YVNMVEpqUExISmt3b25TbFFvejhCWEo4MEM0R1diRE82WWEteE5ncTFuS3NsNVlVcUEwN3hpSzVKRHBZVmdsXzZwYnU3bXZpbHVhTTg4eXZXSVRMdG9pTnlzS3psTmxTR1BXQ0FxLXU4bzRHOVJLTTZtb1pwak9tSTlCaTkzT1hGczNYeWpLbk1YQ2lDcVFnM2JjYTVWUVhR?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 9893,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "west-bengal-13",
+  "pc_name": "Ranaghat",
+  "pending_cases": 4,
+  "phone": "Tel :9153668879 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180513.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Teacher",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 82
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding the issue of bengali hindu struggle for Justice and survival",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 93
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jagannath-sarkar"
+  },
+  "qualification": "Graduate",
+  "questions": 13,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Education": 2,
+    "Health And Family Welfare": 3,
+    "Information And Broadcasting": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Science And Technology": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "MUKUT MANI ADHIKARI",
+  "runner_up_party": "AITC",
+  "score_breakdown": {
+    "base": 38,
+    "criminal_deduction": 9,
+    "legislative": 34,
+    "mplads": 44,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "extreme",
+  "total_assets": 22328968,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 27,
+  "winner_vote_share": 50.78
+}

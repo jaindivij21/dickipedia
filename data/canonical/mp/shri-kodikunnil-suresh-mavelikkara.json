@@ -1,0 +1,787 @@
+{
+  "accountability_score": 58,
+  "age": 64,
+  "assets_2019": 12965129,
+  "assets_2024": 15312324,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 7500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 0
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 9500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 16000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1762324
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 78210xxxxx 1,00,000 1 Lacs+ Max Life Policy No 85469xxxxx 24,000 2",
+        "value": 709000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2575000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 750000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5812324
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=UdiFWFsfXQaY6E4gn27m",
+      "total_assets": 12965129,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3127",
+      "total_assets": 15312324,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 18,
+  "assets_latest": 15312324,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kodikunnil Suresh is an Indian politician and Congress Working Committee Member. He is the working-president of the Kerala Pradesh Congress Committee (KPCC). He filed his nomination for Loksabha Speaker post as the candidate of Indian National Developmental Inclusive Alliance and contested the 2024 Lok Sabha Speaker Election. He is the chief Whip of Congress Parliamentary Party in Loksabha. He was a former Union Minister of State for Labour and Employment. He is a member of the Eighteenth Lok Sabha representing Mavelikara in Kerala. He has been elected as a member of Lok Sabha eight times. He has also served as the Secretary of the All India Congress Committee (AICC).",
+    "title": "Kodikunnil Suresh",
+    "url": "https://en.wikipedia.org/wiki/Kodikunnil_Suresh"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "School View, Kizhakekara P.O. Kottarakara Kollam Kerala, 691506",
+    "emails": [
+      "kodikunnil.suresh@mpls.sansad.in",
+      "kodikunnilsuresh@yahoo.com",
+      "kodikunnilsuresh@yahoo.co.in"
+    ],
+    "phones": [
+      "4742454000",
+      "9447145400",
+      "9013180580",
+      "1123359009",
+      "1123753787"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/kodikunnilMP/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/kodikunnilmp?lang=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 5,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 5,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 4,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 3,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Unlawful assembly",
+        "section": "141"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "1650/23 , Trivandrum Mucium Police Station",
+        "other_acts": null,
+        "sections": [],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No.539/2023",
+        "charges_framed": false,
+        "court": "JFMC Ramankeri(Alappuzha )",
+        "fir_no": "307/2023, Pulimkunnu",
+        "other_acts": null,
+        "sections": [
+          "141",
+          "143",
+          "147",
+          "148",
+          "149",
+          "353",
+          "332"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No.297/22",
+        "charges_framed": false,
+        "court": "JFMC 3 Thiruvananthapuram",
+        "fir_no": "253/2022 , Trivandrum Contonment",
+        "other_acts": "Section 4(2)(e), 4(2)FR/W5",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No.07/2023",
+        "charges_framed": false,
+        "court": "ACJM Special Court ,Ernakulam",
+        "fir_no": "1690/21 , Maradu",
+        "other_acts": "Section 4(2)(e)(j)",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "283"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No.136/2021",
+        "charges_framed": false,
+        "court": "JFMC 1st Kottarakkara",
+        "fir_no": "2401/2020, Kottarakkara",
+        "other_acts": "Section 118(e) KP Act, Section 5 of KEDO",
+        "sections": [
+          "143",
+          "149",
+          "188"
+        ],
+        "serial": 5,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 932/2011",
+        "charges_framed": false,
+        "court": "JFCM 1st Kottarakkara",
+        "fir_no": "223/2007, Kottarakkara",
+        "other_acts": "Section 38/52 of KP Act.",
+        "sections": [
+          "143",
+          "147",
+          "149",
+          "188",
+          "283"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 14,
+  "dob": "04/06/1962",
+  "eci_state": "Kerala",
+  "email": "kodikunnil[dot]suresh[at]mpls[dot]sansad[dot]in,kodikunnilsuresh[at]yahoo[dot]com,kodikunnilsuresh[at]yahoo[dot]co[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 960700,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 939510,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 766410,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 859800,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 938754,
+        "person": "self"
+      },
+      {
+        "fy": "2016-2017",
+        "income": 459962,
+        "person": "spouse"
+      }
+    ],
+    "sources": []
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹14.02 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 140230590,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 880956
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 880986
+  },
+  "margin_votes": 10868,
+  "minister": false,
+  "mp_name": "Shri Kodikunnil Suresh",
+  "mplads_allocated": 172429519,
+  "mplads_expenditure": 32198929,
+  "mplads_unspent": 140230590,
+  "mplads_utilisation_pct": 18.7,
+  "mplads_works_completed": 26,
+  "mplads_works_recommended": 162,
+  "mpsno": 477,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-07-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Kerala Kaumudi",
+      "title": "With his eighth win, Kodikunnil Suresh emerges as leader with most wins in LS poll history",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZzktNTNWZkdqWVR0SzVtS1lwc3B2YW9vMzNMd1h3cmpZVEVZS0NDQ0ZfeG11T29MOFN0bDBfT2pIYkpTT3k2bS0wQUlDUmIwU1BnVnVzMnRNN0JTWlRMdFhMdDFUeF9lb2d0YzZJZDfSAXZBVV95cUxOTmVlaElMWWJOZE82eHhETk5kMGstNUt3U2JhMFZSU2pDcjlJb3g5b2h5YmEzdWlMVk93Wm9GNFhvWm9ia1J4UUNIVnNLRG05bkJiWURqcW1JZ3pzRjhJakViT0piUXdrLVJlS3VSeXJ4MC1LWkhR?oc=5"
+    },
+    {
+      "date": "2024-07-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "Congress appoints Gaurav Gogoi as Deputy Leader, Kodikunnil Suresh as Chief Whip in Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNekFKQ1lldDZLbEJqLW01WDBrZlJqQ2FUZjJkWHJDTWRYb3JQcENSS3N0ZUlObjhpV2FhdHBEcElYdk1tYjJydGpLOTh2RzB0Z2pKSDJTYUoweU1JdDN0UlZtMzZoTW1qUEhqZHlMRS1pQmthOGpLV3k0ZmdaZFZsaU1QeUlELUxlOWFHNDBKbXI4akFRd3VESzNDdERjdm81bUs1RGI1QWozdzhvcTNfVTFLOGxSNVBVaUVnODVMVERHb01KRUFXVNIB1gFBVV95cUxOZTh3S01OaXFQSnlKNHNrYlAwWTNEWUhYTmVtUEtGQlU4RzBxMHQ5VHZEMnVFV2tnWTVrdHBBS3N2OXJaRHRfMkRIM0ZZOTRUV3pRdUhwZ2Y1SG5VWjEycS13anQyX0Y3ZkJlUUJfOFM4Ym10SzExRVNMSzFoVUV5Rkp1S05tNm81TmF6RVBydm02RWtUSExoQ1hGOXpfcmtmNURlRTdnSW0zcEZkeHBJd0JkSzliOXY1eDFaLXJlVTdFa3k1TW43ZWx4N0RwNzBRSWtGOFB3?oc=5"
+    },
+    {
+      "date": "2024-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Lok Sabha Speaker contest: Kodikunnil Suresh once saw his election declared void before SC restored it",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQTB0YzhxdEI3MmJRSVdYaXFnR2I0bVZRQmE1NVFQLTJGN1F1RF9VTnVmODFSS1RUQTBYbzRxTjU5U3p1RHVyS01HOEI0WDhCSGpjaEFUU3EzNnl6WTRMZ3ZRZkxWMTdFWFhqbzdLSVNINWJsR1lSVUxvNDJDNmtOcy1PNVp0UzZXeGdtNTRzNzJla2xmd0RSdzJubnBBV3A4QlJLOE1BNERwa1MxWjJnZTlremwyLV9xb3ZlTnI2cjFsQWxrVU1VaVpnUnhfenhtX3g4WGFRNkVPQUNHaDRJVFRCbVVJc3d0eU9MOEZCTXoyUdIB-AFBVV95cUxOeTR5cGw4eHVDaTVZNDhZdlVoWnhGY18zUGMzMUU3SXdlQTNBWXBieUNFNzdxYmFyZjZvcC04UHBLNUdwRjBmSWY3azNzNzFFb1pCcnNNUFpyeWtQMTFVS0tsdUNqLTFrLUhkZjJKZ1ZmLTZXZ3dHNlYyRmdRbW5LVi0wSW5hNm9iUUdYWGhNeXQzaDQtZWY1dUJVRUgzdENpejlPWEVGLV92YW53eGFpWkdMbERnbkRrZloxNE51aDhYa0VIb1l1RVFRQXdrNkFyRTY5bkFHLWIxY1llNVdWZDlHZFdsa3ZiQXJ0eHljUUdyUFNyaFhuYQ?oc=5"
+    },
+    {
+      "date": "2024-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Cong Veteran, Eight-term MP, K Suresh Is Longest-Serving Parliamentarian In 18th Lok Sabha",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPektBVVktdTlKRkNDWW5OSXRxY1JlUWc4X0wzOG00Y3dmclhIa2lFTVhjMXBRWGxSV2VCVEE2M2plMnJ0ZGFiczVDVFo5V0tkMXd3ZjNFTmhKbjBkR05ZSEM2NTBxclppZU9sa29KVi1oazZlVm84eUhOUXMtcXA0bWd4ZjlUa015bkFtdU5MUFdfTW5QS2dWR2s3N2l0bDlOX2hyY0hCeUstdFV4a2RjZjh3bmJ3U0ZLTEtzeENjZHFNc2o1YTlXRms2Q0VlMHNTZmxjUTN30gHbAUFVX3lxTE1nc2FuU1dkYU10d2xUWnMxc09XSXhGNXZTWnZiV2h5UzRDWVh6NlZKemFidlJobkZjZjdhSjZuRG9tWmxaaXRWN2NfdXBJdUQxakhNWDVfSUE0LUI3TENRR1VYa0h1d1R6WkFTVDI3NlRvOUZkdHoySGNvY2VkSXlKRHlEMGVOaFJCTVN4c3k2S1A0ekpiRngxV1RWSjhWc0pWUHVnQ2xfUzB1OHpGR1BXRXFJVGFqWUhWWkROZ2RVRFRyXzlDcEZyOS1fdWFKUEN1WFBfLU83ZTlBYw?oc=5"
+    },
+    {
+      "date": "2024-06-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Kodikunnil Suresh To Be Pro-Tem Speak In Lok Sabha As Opposition Eyes Dy Speaker Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzlmQkJyZ1lObU56VGlZS01ZNXowa2JxbmtOR1I2WWRPT2lxVmFhSnFudkFCeWtQbjE3SXhqYW1IcndaVnVGSWZld1hlQkZNMW5PWDE1NjBEX1V4OFhoNTFBSlVsWlJudmRGMzBEcjZxQWtfUkVwTjRWQ2JlOTZONEdEZ05HUGY1Ulhpc25Hc2NTV0sxVHROd3QweGV3cUpZaUI1OFQ0SXhucmlZX2FBTGtTZXZESlV5ZVdCSVlzR3ZnTjJXM0F6Sg?oc=5"
+    }
+  ],
+  "non_serious_cases": 5,
+  "nota_gt_margin": false,
+  "nota_votes": 9883,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "kerala-16",
+  "pc_name": "Mavelikkara",
+  "pending_cases": 6,
+  "phone": "Tels. : (011)  23359009, 23710705,  09013180580 (M),Fax : (011) 23753787",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180211.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political and Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to constitute a Statutory Kuttanad Development Authority to safeguard Kuttanad, the wetland agricultural heritage system in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.02.2026",
+        "title": "Regarding need to enhance the salary coverage ceiling of ESIC to Rs. 25,000 and bring the state controlled ESIC dispensaries under direct ESIC management",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need for establishment of �Mappila Kala Kendram � Arabic and Urdu Literature Center of Excellence� at Charummoodu in Alappuzha district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding the ongiong crisis in EPF system",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding the shortage of Urea and potash especially in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to accord special heritage status to Kottarakkara in Kerala, the birthplace of Kathakali dance and establish a National Kathakali Cultural Centre and Museum therein",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to establish AYUSH Medical College in the Employees State Insurance Corporation (ESIC) Hospital at Ezhukone, Kollam, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to include Sasthamkotta Lake in Kollam district, Kerala under the national plan for conservation of Aquatic Ecosystems and other rejuvenation schemes of Government",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to waive loans for the flood and landslide victims of Wayanad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need for a comprehensive plan to develop Raja Ravi Varma College of Fine Arts in Kerala as Centre of Excellence",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Action Against Attack on Catholic Pilgrims in Jabalpur, Madhya Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Government Action to Protect Freedom of Expression and Democratic Values Amid Rising Censorship and Intimidation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding need to declare Kuttanad and Upper Kuttanad in Kerala as a Special Agricultural Zone (SAZ)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Demand for Independent Inquiry into Kodakara Money Laundering Case and Alleged Hawala Network",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need for a Special Central Scheme to ensure restoration and conservation of river Pamba in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Urgent Appeal for SC Representation in Kerala Cabinet & Restoration of Scholarships for SC/ST Students",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Request for Immediate Action to Resolve Procurement Crisis for Paddy Farmers in Kuttanad and Upper Kuttanad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Withdraw GST on Parallel Colleges in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Regarding need to establish ECHS polyclinics and CSD Canteens in Mavelikkara Parliamentary Constituency, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need for construction of permanent buildings for functioning of dispensaries in Mavelikkara Parliamentary Constituency, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Declaring Man-Animal Conflict in Kerala as a State-Specific Natural Disaster and Sanctioning Funds for Mitigation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Direct Payment System to Protect Farmers from Loan-Based Exploitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Minimum Wages and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt for Restoration of Scholarship Funds and Welfare Allocations for Minority and Marginalized Communities in Kerala\"",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Appeal to Withdraw Offshore Sand Mining Order to Protect Fishermen and Coastal Environment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to establish PM Vishwkarma Skill Centre in Mannar, Kerala to revive the traditional brass industry of the region",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need for upgradation and modernization of Changanassery Market in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to set up branches of Nationalised Banks and install sufficient ATMs in rural areas of Mavelikkara Parliamentary Constituency, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the enhancement of the minimum pension under EPFO",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to sanction additional special trains for Kerala for the festive season",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Expressed concern on increase in road accidents and fatalities in Kerala, particularly on the NH-66, 966 and 544",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding upgradation of National Homoeopathy Research Institute in Mental Health (NHRIMH) at Kurichy, Kerala as AIIMS, Homoeopathy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "need to convert existing Ayu veda Hospital at Ezhukone, Kerala to a full-fledged Ayurveda Medical College",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. at least Rs.1,000 crore should be given as revival package to the cashew industries in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding need for expansion of ESIC hospital at Ezhukone in Kollam district of Kerala with Ayurveda in-patient and OPD facilities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding ban on sale of Ducks",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt look into the matter related to the EPF pensioners",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Demand to govt to provide compensation for the victim's family which lost a young life to the nipah outbreak",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 50
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 136
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kodikunnil"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 44,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 4,
+    "Communication": 1,
+    "Defence": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 2,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 2,
+    "Minority Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 9,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Tourism": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "ADV ARUN KUMAR C A",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 11,
+    "legislative": 80,
+    "mplads": 33,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 8,
+  "top_inference_severity": "flag",
+  "total_assets": 15312324,
+  "total_liabilities": 880986,
+  "wealth_pct_increase": 18,
+  "winner_vote_share": 41.29
+}

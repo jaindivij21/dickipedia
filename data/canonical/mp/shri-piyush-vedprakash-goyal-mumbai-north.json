@@ -1,0 +1,454 @@
+{
+  "accountability_score": 44,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 210858000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 210858000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 253817
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 117633420
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 375266703
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Endowment Policy No 892688743 5,91,012 5 Lacs+ Aviva Life Insurance Co Ltd A",
+        "value": 7666052
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 311463379
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 8304410
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 78068666
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 898656447
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7093",
+      "total_assets": 1109514447,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 1109514447,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Piyush Vedprakash Goyal is an Indian politician who is serving as the 13th Minister of Commerce and Industry since 2019, also being the longest serving minister for the same. He also served as Minister of Textiles and Minister of Consumer Affairs, Food and Public Distribution. He was elevated to the Cabinet Minister position on 3 September 2017. Formerly a Member of Parliament for Rajya Sabha from the state of Maharashtra, he is also the former Leader of the House in Rajya Sabha. Goyal was elected as member of 18th Lok Sabha representing Mumbai North Lok Sabha constituency. He is married to Seema Goyal and has two children, Dhruv Goyal and Radhika Goyal. Goyal is the 2018 Carnot Prize Recipient for distinguished contributions to energy policy.",
+    "title": "Piyush Goyal",
+    "url": "https://en.wikipedia.org/wiki/Piyush_Goyal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Villa ORB, 9th Floor, Opp. Palm Beach School, Darabsha Lane, Off Nepean Sea Road, Mumbai, Maharashtra, 400036",
+    "emails": [
+      "piyush.goyal@gov.in"
+    ],
+    "phones": [
+      "9821082544",
+      "9063609293",
+      "1123794517"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "13/06/1964",
+  "eci_state": "Maharashtra",
+  "email": "piyush[dot]goyal[at]gov[dot]in,piyush[dot]goyal[at]gov[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 8761820,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 13342100,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5822570,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3508990,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 3111330,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 7096530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6250340,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 6726940,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5148370,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5212200,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary As Member Of Parliament And Income From Investments"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income From Rent On House Property And Income From Investments"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 15% of MPLADS local-area funds were spent — ₹12.55 Cr unspent.",
+      "headline": "85% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 125529752,
+        "utilisation_pct": 15
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 142265061
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 142265061
+  },
+  "margin_votes": 357608,
+  "minister": true,
+  "mp_name": "Shri Piyush Vedprakash Goyal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 21470248,
+  "mplads_unspent": 125529752,
+  "mplads_utilisation_pct": 14.6,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 49,
+  "mpsno": 5551,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-09-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "AffairsCloud.com",
+      "title": "Union Minister Piyush Goyal Launches Six Initiatives and Rs.100 Commemorative Coin for Make in India 10th Anniversary",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPenlkZUxmeGg0Y3FoRE8tdi10MUtJbV9EYzBzU3pOWURCWXZzdXZzaWVqRnpTaXFvYmVsTXhhdG9ZVU41U0tDcmZ3SE1GOWJpbGsySXN5T0NaMUJGdVJtN2ViSXo3WHhIbWhuYWFVRWlEejhCWl8wTWJkYWFMMDlVV3BPa1dZNzhyQVBILVNjZXVDMHNubHlnbGtoeFViX0FjQTgwazBKWXllSThEb05SUjdVYzNjRFVzTGNyYmNhUU5IU1JxMHNzRHJEcnJpbG9DMXdMLTBIUl9TUjQ?oc=5"
+    },
+    {
+      "date": "2025-06-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "AffairsCloud.com",
+      "title": "Overview of Union Minister Piyush Goyal’s Visit to Switzerland and Sweden",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1p1T1ZqdTBfc3Nzemh0ZWI1Wkc2VjNoYzczZy1EOWJISWZ5RVBtNkQwOW1aQ1dORENXZnBZUFJQcHA3Nk41aW1GQ19zUnZRejlXUW5aQkszTnJyMENwQkF3R0tfaFI0UzllenpxM3NDb1lWM3d0R3NreEE4LW80anhuLVdycUhFcy1DV1JLRVJuVFRBbElsRlJaeFU0UGc?oc=5"
+    },
+    {
+      "date": "2024-06-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Firstpost",
+      "title": "Modi 3.0: Piyush Goyal, Nitin Gadkari among big names from Maharashtra in new Union Cabinet",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFc0clZtR3hoeWowbXIzekozSlFoR01TMWhkMnFMRV95czZxdHI3MnVxTEJjd2FKRFhrQ0lzRVhvMUpoRFY2N2JneTFUVEk5RjllbE1SZWJrQjJ4b0JDZExHMWNvQ0pJMUFheEJPRTJWLUE1SXBON2FGQmZsWk4xMkRSa3hETHdiVnRVR0VlYVdFbk8wTTRNT0NvS2NMbS1MckxhMGNaMk9YZGdlQVVFZGZ1UE1KV001TXRwV1pkYW4ySUJmdnYzb1N2VUJnSFFr0gHWAUFVX3lxTE1EdHNBMVVsMTRaYktGaVktS1FiR2xIaWFwSEwtUTlhV1U4RzBsYW9KMlVvRWo5c0hfZXFNT2tscUxlSzlDT1BmRVhaaUw5VVFEb3BuM0hmSFpjMXRwS29iTGdVbElJdU9vcms2UTdzLW9VNEZIejBiYjZTakI4YThhNHdpOS1JRXJ1djh4S01EN0NVX2NHTHlJYU9vdFF5SGJIdWYxVnFBc0Q2bi1GY015WnJIWTBaaDNtTm0taDlKVEhaWUM4QWxWemxDV2FaUjdDSFhTT3c?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Business Standard",
+      "title": "Piyush Goyal returns as Union minister in new avatar as 1st time LS member",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2NtY1pSQ0RjT01fWHFmWGJyRUplSE5rNEVPZXdmSDRnY1V4dEc2bm5zemQ0aTFzNEFHWlNRTmVHMUFoaVlKWlpfV29OMk03ZHBWaXVzQnhMOWtabnFVSE9QYnNoQ0pTV211WW1XOFlZbDRyT3dDdElRYXhMbE1sVU0tRkdJNndlVTJ4b1hfNEZiMS16ME9kVnZxSDk3X095NGFEU2tHMjNNVmFBazdYd0RnYlZKZEliX2xyYmlNYVlfUktCRlZfNVVSa2JQRG4wRzFLZWxB0gHbAUFVX3lxTE9KbnBzZlBUN1FOU1phZzZ6RFRJS2FvNFpOSE5yNGxtNWxiOFJpdFdPM0JiRjVodnlrUnhoZC1XNVdyalhRZDctTVZQVlU1WDRUU0xuZThhc2FGTEpLSVhnaTFLWWxqTllzdEQtdkw0VEdIaVJfR0lKZDBPanVXWUpuQlp3YzBEdjVxRHhMMUpLNVd1SFBFckEzM1VMQ2ZaNTB6TzhrV2RMYnVsVFRCcjJpT3dRX25YSVUtQTBwVXFKaTEtc2xwV3ZuV2d5a1Fubm5hVEtqUkFsYndTdw?oc=5"
+    },
+    {
+      "date": "2024-06-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Modi Cabinet 3.0: Repeat Ministers Include Shah, Rajnath, Jaishankar, Sitharaman, Gadkari, Goyal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX09QMkswWEpyRklQN2NhWTVoVmlqRF96djVhZ3pJYlZqei1hSFR3Y1hscGFFMk53d1VHLThoemhLTlZsREh3NUcwZXFKdldOWkVzQXJubUUtNUtPSTVjOUEyYVhmQXVEN2xEaFR6VG93S3JtWG1zVWNYQU1oU2Z0SHVFbDBxc1FMVFBnbTIxYm9KY25fR05ZMXUxSWQ5dXNlbVVQMTBlVmxXNGNtRWVuOXFIc0IwUXhhd1EyRXI1cGTSAcYBQVVfeXFMT1dMM1pJOEFXZnZfaVVJTGtMVlVFa0VSVG9LXzd5eUdmX0wtZlZPMHp4VkhhUkxITGFZX0swUGdNVFhLMHpyYXBmWDVzU2hQRnMxRlJiVGpTZWd2bFVZWHE5aVVwMmJxWHJFMWxfOHJKRk5qUGZOZVBEZ1RXRHowd0hYaEpMc3pGT3VMTjFObGVRVE9XcUYtRHNlQ0x2THZzSHdvRUVDdGUyM2JHNU93clUtM2tLX2dpN3JEa3VUcDgzN3B2VVJn?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13346,
+  "notable_record": {
+    "entries": [
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": null,
+            "publisher": "Wikipedia",
+            "title": "Piyush Goyal",
+            "url": "https://en.wikipedia.org/wiki/Piyush_Goyal"
+          }
+        ],
+        "title": "Union Minister of Commerce and Industry"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": null,
+            "publisher": "Wikipedia",
+            "title": "Piyush Goyal",
+            "url": "https://en.wikipedia.org/wiki/Piyush_Goyal"
+          }
+        ],
+        "title": "Minister of Railways (2017-2021)"
+      },
+      {
+        "response": "positive",
+        "sources": [
+          {
+            "date": "2019",
+            "publisher": "Wikipedia",
+            "title": "Vande Bharat Express",
+            "url": "https://en.wikipedia.org/wiki/Vande_Bharat_Express"
+          },
+          {
+            "date": null,
+            "publisher": "Wikipedia",
+            "title": "Piyush Goyal",
+            "url": "https://en.wikipedia.org/wiki/Piyush_Goyal"
+          }
+        ],
+        "title": "Vande Bharat Express launch"
+      },
+      {
+        "response": null,
+        "sources": [
+          {
+            "date": "2015",
+            "publisher": "Wikipedia",
+            "title": "Ujwal DISCOM Assurance Yojana",
+            "url": "https://en.wikipedia.org/wiki/Ujwal_DISCOM_Assurance_Yojana"
+          }
+        ],
+        "title": "Ujwal DISCOM Assurance Yojana (UDAY)"
+      },
+      {
+        "response": "divided",
+        "sources": [
+          {
+            "date": "2025",
+            "publisher": "Wikipedia",
+            "title": "India-United Kingdom Free Trade Agreement",
+            "url": "https://en.wikipedia.org/wiki/India%E2%80%93United_Kingdom_Free_Trade_Agreement"
+          }
+        ],
+        "title": "India-UK Free Trade Agreement"
+      }
+    ],
+    "office": "Union Minister of Commerce and Industry"
+  },
+  "num_candidates": 19,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "maharashtra-26",
+  "pc_name": "Mumbai North",
+  "pending_cases": 0,
+  "phone": "Tels : (011) 23794517, 23015045,\n 23015054, 23792260",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180276.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Chartered Accountant",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/piyush-goyal"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "BHUSHAN PATIL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 44,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 18,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 1109514447,
+  "total_liabilities": 142265061,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 65.68
+}

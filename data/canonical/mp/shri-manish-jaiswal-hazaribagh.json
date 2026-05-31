@@ -1,0 +1,713 @@
+{
+  "accountability_score": 40,
+  "age": 61,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 172752465
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 30636000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 86433208
+      },
+      {
+        "category": "Others",
+        "value": 1012003
+      }
+    ],
+    "immovable_total": 290833676,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 579340
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5010493
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 8196074
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC of India Policy No 51474xxxxx 89,45,300 89 Lacs+ LIC of India Policy No 5173",
+        "value": 32219084
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 12156318
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3137734
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 8001359
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2201582
+      }
+    ],
+    "movable_total": 72166256
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Jharkhand Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=MKpEEompdPdFuSD5EkRF",
+      "total_assets": 182632685,
+      "year": 2014
+    },
+    {
+      "label": "Jharkhand 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=MKpEEompdPdFuSD5EkRF",
+      "total_assets": 270455104,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7144",
+      "total_assets": 362999932,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 99,
+  "assets_latest": 362999932,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Manish Jaiswal is an Indian politician from Jharkhand. He was elected candidate for Lok Sabha from Hazaribagh Lok Sabha constituency in Hazaribagh district. He is a member of the Bharatiya Janata Party.",
+    "title": "Manish Jaiswal",
+    "url": "https://en.wikipedia.org/wiki/Manish_Jaiswal"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Bisheswar Dayal Jaiswal Path, Opposite Alankar, Jewellers, Ward No. 28 Thana Sadar Hazaribag Jharkhand, 825301",
+    "emails": [
+      "manishjhzb.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "6204555897",
+      "9431140323",
+      "1123358211",
+      "9499100154"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/manishjaiswalbjp"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/Manishjhzb"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/manishjaiswalbjp"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing grievous hurt",
+        "section": "325"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for theft",
+        "section": "379"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for voluntarily causing hurt",
+        "section": "323"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Causing hurt by act endangering life or personal safety of others",
+        "section": "337"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "380/2021, GR No. 305/2023",
+        "charges_framed": false,
+        "court": "SDJM Hazaribagh, Miss Arpita Narayan (MP/MLA) Court",
+        "fir_no": "0380 Dt. 09.10.2021, Sadar Police Station, Main Road Hazaribagh, Jharkhand 825301",
+        "other_acts": "Section 51 Disaster Management Act 2005, Section 3 of Jharkhand State Epidemic (Covid-19) Act 2020",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "JM Miss SS Minz 1st Class Hazaribagh",
+        "fir_no": "131/21 Dt. 31.08.2021, PS Katkamdag, Sub Divison Sadar, Dist Hazaribagh 825302",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "149",
+          "323",
+          "341",
+          "325",
+          "337",
+          "379"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "08/03/1965",
+  "eci_state": "Jharkhand",
+  "email": "manishjhzb[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2844450,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1357610,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1286730,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2718670,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5023327,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2179990,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1577160,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2058280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1797950,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1885387,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 640197,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 486524,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 421500,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 432789,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 443801,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary Remuneration, Share of profits & Other Sources"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business & Other Sources"
+      },
+      {
+        "person": "Dependent",
+        "source": "HUF- Rent and Other Sources"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹18.04 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.32 Cr.",
+      "headline": "Declared assets rose 14× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 180367247,
+        "declared_income": 13230787,
+        "itr_years": 5,
+        "ratio": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 0% of MPLADS local-area funds were spent — ₹14.70 Cr unspent.",
+      "headline": "100% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 147000000,
+        "utilisation_pct": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 22484214
+      },
+      {
+        "category": "Glamour Sales Pvt Ltd 38,20,395 38 Lacs+ Lakshmi Griha Pvt LTd 21,42,939 21 Lacs",
+        "value": 31763409
+      },
+      {
+        "category": "Durga Chowk Maintenance 16,836 16 Thou+ Bharat Sanchar Nigam Ltd 470 4 Hund+ Bha",
+        "value": 4648652
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 35966796
+      }
+    ],
+    "total": 94863071
+  },
+  "margin_votes": 276686,
+  "minister": false,
+  "mp_name": "Shri Manish Jaiswal",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 0,
+  "mplads_unspent": 147000000,
+  "mplads_utilisation_pct": 0,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 195,
+  "mpsno": 5673,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Hazaribagh election results 2024 live updates: BJP's Manish Jaiswal wins against CONG’s Jai Prakash Bhai",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQd0RCZFNpbUxhTXV2MjlxZ1FLcHBIa19DVnlvLWRyMnhuclZlUms0ZDh3LU96ZkJ4X3dKTnhkZjU2dGpIZVNUamhHeHNxUEJnb2M1WGRvbkxZRHptWlNqX3ZWWnU2VUJ5Q3paQ3dwa25iLVhqbV9xMWt1X1pfU09nZm5oNlZjbVNqUF95WTU1RXZ2Wlh6ZjhveFkxNkdhQ2RDZG96QlQ5QWltLUZaT0ktTGVZbGt0SE1USnp6RkhMV2c5RnloUm14RGt6Nm9lQVBvTFpyTE4wbDVwTmRfdi1zSmpwZDZLNHNfTHBXNUJpbHN2a3FLa1hZQ0pMWVpnT084R1dLNWowa3FZaVEyUUwwUXprNnNKaXdocW1tN1ZqWWZBdnhTRkcxdHhBY2VTVEd2aUHSAbcCQVVfeXFMTlRsNTFlYk9XTEpGUFFCSWNjYnVmTTYwdGRFYTZUZTRxRlVybnJ3YkU1ZzFOU1lucXA4NkJQQ1pkbmR5R0M4NFZpMWhQUTBsT3RMUE1WSVdHeXE2R2RCMXo3ZEsxNVQxTmE1Mkgyb2lKWTY2Zi1xellHemlkczBXdlV1aWhPVmxKQzhFWlVOX2NhZ1lBZ3o5N1IxeG50aVA4LTZSM25kZVBSd29Uc3BKNFlZaE1UaWZZVDM1YXdkekU1SkFMeVZLWER3cUtXeXNERmdmc0lrRFJRcW85Uk5ZNUROOTd4UVk4VDh4X0JMYzFjNW9KWE9vcUU5WWlYdkVRVVMtSFF6bUhJNjlYS09rWVpnTkM1ZFFibk42R3o3RXJYSGE5RzFvQ1lPQU10aWxOZWpwVFZ2Tjg?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Hazaribagh Lok Sabha Seat Result 2024: BJP's Manish Jaiswal Wins By 2.7 Lakh Votes",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb1EybjZlSTZkaHY3NEhKc1Q0dnV2RDIzZnMyMU5XZXFWelgxb0plM3R1R05ocnY1aGptTExPZEhYbzFUXzdTU2l5WjlvdUFxM1VrOTVXazVzUWk0dVNXU1J3clVZbzU2Z2xHSV9nTmxfMzJqdWNOUGxveVo3Y3k3NnhOcG1ldHB0amh0XzJwMXJQZ2hWaS1CNVRDaXlKWkxXWWdLUHJzMGZ0Rl8wbGpVYlBTNTFacHRDZHNTclZmTUdiVHRwbmIxeG5vZDBRS3Z6Sk52TTRqendNTzBidWJSM3ZsSlZadFN1dGNBTjF0MGxQMEtXeDdXeHFmRzl1LXcwUU1mekJ3UHjSAY4CQVVfeXFMTzhXRXN6N0tnbHRPMTN5MXpoMkZaeDVySFdUREVfUGVmby1RQ2dpZGxhWVg0VDg4RW9HT24xay1oUTluOFMyOU5CZk9hNWZGaUh0QkJfbHd0bzE1amZnOWdXVkx5SVVGVHNFa3JIUHJCWjM2dW5jdTZaWlhIRDRiUUpjOGdmTHNUTGV1UmZ5SlF2XzBrcEE2TFR3NDdPX01remlXQjRaNjY3MjhLbmtvXzl6ZHE3TFV3LXhRbjJ1UXdIMU5HdzBncGVpc1hNTmFPb250aF9nYkdkWW1sbi1nVk9Xa1djVXR2RnQ0Y0o3alFLaVR0cmpnc0o3dW56VGtrbmc4YmN0N2hBNzVXZFlR?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Hazaribagh Election Result 2024 Live Updates: BJP's Manish Jaiswal Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQVlBQTBGVWdwR2tZSXlLSU94Wm1zR3hLb1Bpc1d0TWt5UGRrbEdFa0JvR1ZiWEdoeUc5S1FxQmkzV3lmeV9YbWhGaFNPRW9SQVRGR283ZTF6OE0yV0xoaWJDczVoTGZnYmxCT2JtSGUyV1VFbU1sVHB0cnA3U3M4VS15TkZUTzFRZlN6MXdPQzJ4RUQ3YW1IdktGNVoyQm93bW8wWWNKT0V3WUxCdkNxWTJhazJkZ014VEhRM2NYQWFBRW8xSEZKYdIB1gFBVV95cUxOdXFVOURjQmY3WXZEMk8zVXdoZ0E2aHU4MlhBSTUzME1RU01WeThkWmt2Q1RxbXhWbjlpSzlZb19RR3BNaUc5bW01bjRmTzYyS25DWDNJSzVCVEcydWF2U1YtRGFSYUxXU1ZVVHNEUEVkMUJPNjVTb1ZiQ1k5YnVzUEVSSEhWTUVXYkZYN29zd1BJUzFDOU14dk5ZQUwyajdQb0Q4bXc4WW1WaWtpOE9zSHdKbmlJX09ZbHNfcXE4SlY5aW1OSmZYeVNEVnZocldSN1hCejJ3?oc=5"
+    },
+    {
+      "date": "2024-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Hazaribagh Lok Sabha Election: BJP replaces Jayant Sinha with Manish Jaiswal, Congress fields JP Bhai Patel",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaDNRNm9adDREbzRNVDg0SmI5ZU5OMkpNT01NNFVyYjRtdXRZZXRLQlRwM1JzWVpsZFdsblNNeEVWSkEyWEF3Nk1hYXU4Y2p4bUsydkdlU2VsaWxIN3VPRjd5cjVpa3d2c0FyMkdGZGp3d3FRcFRXX3VTNGFORUtfQk8weW92X3VDUk5mTFZQajE1cW9LVTRJcWlZT3ZKMjZ1cnAyWEJtaWVMUGJTbEZpcmRxOEdWTkxEaXdyNk1QOFUyNlBtZHNWRHZibUNzXzNGT3hJdG1YS0M3SGF5SWt3RHNiWjA4OG4tSmxKNWt3b3lZQTdGdW5tazlxekJWc3RPNnfSAYcCQVVfeXFMTmptTnVQUkY3T0xWSjVha05IOUFGY0VYcjN4Zno4S29rejlOOGpTdXZWTUpFT0h0MU45VGwxcGthYmFGOHZiU0ZqMFNPQzd6YUprbkx5RGpuZmpzbEVxZ2lDa0xEWGRWUjFuRzBLcV82NjdOUjNmU0lycjlSR3hCUHNIU2ExeWI5RXQ3enpHZEZ3YU5LUTFCbW1RZGhaUkhNcHFqQlRZNTZXWGZFVHpzdjJkNVV5T1ZHeThBRjlLS1p4SEVkQXdvY2pOUGRYV0hqTXZMblFhaWxUWTZXVzU0MWo1MXpfcS00UGV0N1NSblYxSlhfUmNDRUxYOEtXMUZxNVRyMGlSSTg?oc=5"
+    },
+    {
+      "date": "2024-05-17T15:07:57.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Manish Jaiswal, Bjp Party, Hazaribagh, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQl9SczYyMHB0dlRFbHdXUFFmQ2cyYVJWQUg3SGpONXFhS0JFc255aFJZRkJkdS1BUVFRdUQ1S3NRSHVwOTd3VlFITk5ZV2VVaXk3em13OW9PWXgtM2owbWdVY29VbzkyNUhHeFA1R1lNWldNVnBJSWVRUDNQQVBCb01uQmxZQXExNnJYOXlEYXBxVjc4aHBjQklCeUVUeEpFNEg3a3Rwd2NoMGdpV2Y5SXZwb3BOZWpUZXBiODItRUlMemt6bVRLMnJsOGZmTWlmaWFPVDlIbVhtUGE4UVI4?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 7200,
+  "notable_record": null,
+  "num_candidates": 17,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "jharkhand-14",
+  "pc_name": "Hazaribagh",
+  "pending_cases": 2,
+  "phone": "011-23358211, 9499100154",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180158.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "Regarding demand for better compensation for victims of human�elephant conflict",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "13.03.2026",
+        "title": "Regarding need to address elephant menace in rural areas of Jharkhand and provide financial relief to the families affected thereof",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need to provide stoppage of trains at railway stations in Hazaribagh and Ramgarh districts in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Prevent Acquisition of Fertile Agricultural Land in Hazaribagh and Raigarh Districts and Ensure Fair Compensation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding need to establish Khadi and Village Industries Commission � Skill Development Centre in Hazaribagh Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding need to develop Maa Chhinnamasta Temple complex in Hazaribagh Parliamentary Constituency as a religious tourism corridor",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to restrict use of pesticides and promote bio-farming",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to conserve and connect Buddhist sites of archaeological importance in Chauparan block of Hazaribagh district, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to return Sahara India's money to people as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Fair Compensation and Employment Protection in NTPC and CCL Coal Mining Projects in Hazaribagh Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding need for initiative to equip iron and steel based Micro, Small and Medium Enterprises (MSMEs) with clean and sustainable manufacturing technologies",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request for Deployment of Central Forces in Jharkhand to Prevent Violence During Hindu Festivals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding development of Hazaribagh Wildlife Sanctuary, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request for Rehabilitation of Displaced Villagers and Completion of Konar Dam Irrigation Project in Jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Increased Compensation and Fair Employment Policy for Displaced Families in Hazaribagh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt take action to stop the atrocities on hindu that are taking place in jharkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Regarding increasing incidents of coal-theft in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to provide adequate compensation and employment to persons displaced due to acquisition of their land for coal mining in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to establish AIIMS in Hazaribagh, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to make adequate safety measures to prevent road accidents occurring due to black spots on roads in Hazaribagh Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Urge that the law governing interstate trade should remain intact, and if production is low, the prices should be regulated uniformly across the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to construct Airport in Hazaribagh, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding alleged Bangladeshi infiltration in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister start the trains for mumbai, delhi, chennai, bangalore from hazaribagh station",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.8,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 126,
+      "value": 211
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/manish-jaiswal"
+  },
+  "qualification": "Graduate",
+  "questions": 63,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 6,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Education": 3,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 6,
+    "Home Affairs": 2,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 4,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 3,
+    "Planning": 1,
+    "Railways": 5,
+    "Road Transport And Highways": 4,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 3,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "JAI PRAKASH BHAI PATEL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 7,
+    "legislative": 78,
+    "mplads": 0,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 362999932,
+  "total_liabilities": 58896276,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 51.76
+}

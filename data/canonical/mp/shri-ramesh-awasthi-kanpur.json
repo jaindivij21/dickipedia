@@ -1,0 +1,478 @@
+{
+  "accountability_score": 52,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 12031493
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 29760000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 41791493,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 380210
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2782768
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 114819
+      },
+      {
+        "category": "Lic-261603522 66,000 66 Thou+ Lic-262695486 98,000 98 Thou+",
+        "value": 164000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2014800
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1536372
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 4152145
+      }
+    ],
+    "movable_total": 11145115
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5080",
+      "total_assets": 52936608,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 52936608,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Ramesh Awasthi is an Indian politician and the Elected candidate for Lok Sabha from Kanpur Lok Sabha constituency. He is a member of the Bharatiya Janata Party.. He organises the biggest mango festival in Inida. The NMC India Mango Festival which is an annual celebration dedicated to the king of fruits Mango.",
+    "title": "Ramesh Awasthi",
+    "url": "https://en.wikipedia.org/wiki/Ramesh_Awasthi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "FLAT NO. 704, 7/157 VRINDAVAN APARTMENT SWAROOP NAGAR KANPUR Uttar Pradesh, 208002",
+    "emails": [
+      "rameshawasthi1967@gmail.com",
+      "ramesh.awasthi@mpls.sansad.in"
+    ],
+    "phones": [
+      "9984904888",
+      "9411878888"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/share/1Cq2oWRw4n/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/irameshawasthi?t=H89W_zncWQUG-dsUCqFpXw&s=09"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/irameshawasthi?igsh=YmF5anh3YjJ0cjRl"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 6,
+  "dob": "01/12/1967",
+  "eci_state": "Uttar Pradesh",
+  "email": "rameshawasthi1967[at]gmail[dot]com,ramesh[dot]awasthi[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3245330,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 3136100,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 2965850,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2054550,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2664480,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rent & Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 35% of MPLADS local-area funds were spent — ₹9.59 Cr unspent.",
+      "headline": "65% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 95916827,
+        "utilisation_pct": 35
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 6148728
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 6148728
+  },
+  "margin_votes": 20968,
+  "minister": false,
+  "mp_name": "Shri Ramesh Awasthi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 51083173,
+  "mplads_unspent": 95916827,
+  "mplads_utilisation_pct": 34.8,
+  "mplads_works_completed": 47,
+  "mplads_works_recommended": 93,
+  "mpsno": 5608,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Republic World",
+      "title": "MP Ramesh Awasthi Receives Grand Welcome in Kanpur After Bengal Victory; Played Key Role in Bardhaman Region Success",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY2s4NmtObE96cGFISXFYSEtXVS1aZWtiVmpURWxoemZvVGkxM0lDa3EwR1hmXzhwTzR2dllkSGhJd1VCSWRWX245OVo0aG5ONUY4QlM3OXcwYk9oaUNlMUFNMUZURkhCMFhWR2J3QnE0RmJvSVFrZkVjY2dReTlWczR4WUNVeE9oRm9DU0pDWHVwQU5WUzNFazFWNmE5d0I0SFk5eUpEVHhjaWRIM2pOQlg3UFJrbzQ3VGQ2QTB2WGRxTWhMLUlnSFpYdW9TMnplUTAzUl9aVFUtZ0JOM1hIMTh6R3FUZnlxYmRZTDd30gHzAUFVX3lxTE1VRWFxNHYzVGlsc3hYR01wODVOeXVOX2wwUDd1RmpueUxFN3V2X1h3QlB6VzRscHlzYzFjWVJYRDJuUDZ1RzFkaENPU0VGak43bFlBNmljNUVfLUUzQURRb3RJdTJYZnNPa2dhQXFFdjhNX3p2VGVrUzZVa0R5bHpXZWwwNVVwNDVOOHNpbUIxMTlfTndfeFp6QnhHcWJLZ1YtaUFkZ0ExazRwZ0lNbUwzWWd5UUhpeklQNVN6SklYSk5BUDAyc3NRN0I2dGtNVVNIbDZCcWJRbUR4Y3p1TGtWVVZFcWxkXzNjaG9tSUdqVHNoWQ?oc=5"
+    },
+    {
+      "date": "2026-05-06T14:09:43.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Kanpur BJP leaders ditch ‘neta look’ in Bengal campaign: Suresh Awasthi says winning people’s trust helped ...",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNck9zcExfS0RldVNtcEFDQ1FNa0E2TmxxZEM3RmUyOEVjazdPT2s5LWRpbkp1aDV1dFg0U2pqZ1BIbWNlZ3owTTNNQjB4RmFadnhsY1JQdnhKOGpZaWxWVE1SYmJqcjd4aDFOLVFhOTdkMEhDNHNIdlptajZxN19kb2g4ZDRWeHdBSHZWNl9ZRjhSQnFCNTFWUFJEdnVSQ2h6WGlNdWlNREJiWEdDZWJpSHdMOGw0ZV9JaG50OTRvb2xsMUXSAcgBQVVfeXFMTVVtcFpaNkFwYTI2SmpYcndIMWU1U2FaUG1GVThDN0VoSnJXQ2pzc1VzX09pQzByN19yWXRrZnp0WFhCRnh2RTRWRWl0VG1yTDE4LWdFVDlVTHBhWUxfck04SEU5MUhVekRYb2RuY0lIbFl5VzJNVmpFN1BlWm55eF80YW55dmZTcW5wWmlNQlpCTXFYRUxSWjd3aDV6Y1c1ZklzMm5pWlktRklCYTY4cVlGeW9nQWg4bUpnZFFsNTFNU0ZPUVYtWm4?oc=5"
+    },
+    {
+      "date": "2026-01-09T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "First India",
+      "title": "From Family Ceremony to Social Message: Ramesh Awasthi’s Kanpur Event Draws Thousands",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWY4N1dWNmRSdjNGbFZSWV96Z2VJWU0tMzZGa1VYY19XSTZHcWZ2TU9RenpJeGhETC1KOFVEYWRyWlFEQmpTZEV6eDAtbTVpazhEb1lyYVdxTTdBY2dUSnFjNnJ6amFweVd3cWFZNGliSnpqMmtSSXFRc2tBR0YtTDV6N2ZNMy1pVnJUdG9TNUkyRDVRV1dYUlB4dnp3OWp0WFBaUFhIbGFWRTUzQnFGVHAwMy1NXzJl?oc=5"
+    },
+    {
+      "date": "2025-08-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "DNA India",
+      "title": "'Taste of Atmanirbhar Bharat': CM Yogi praises Kanpur MP Ramesh Awasthi's festival; UP's mango leadership in focus",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONDJJM0RVZU5aVHFSelNUTjZjVnBaNGphLWFJb3luaGpBd2NZS19IZTBwd3pDME1tYnJXeWxYMzNTYmRqUjNkRkkyaEpXLWVfaFZ1eTFXSUlDTlJRZ3pNRExJbVllaFU4Znppc2FqenYyZEFCOF84T0xZTTREWDNyaFNjR01oRE9aYXRwdkQyRE1zbk1jWXpFY3V5RWx1cExfT3I4NDJEeGx3QmVuWElValpzMjhHSEwtYnZFSzZUbXhPNGItUXRKMWppYjY3NkRiTnRqZy10WFlBRjBQanp5cmpNS0pOZGE3Y0FfNUJn0gHzAUFVX3lxTFBtM1A3TFp3aFMzNWV3aHlKQWgydTVta0FKai1jTG16YklYR1NINklMNW9tR1RDVDZ2Ul9XYU5BM080TlI4M09xMkpMVkNJbGVzUVIwSVNXQzdPUDR4SlRJQndkRDBqOHRRbTYyZFo0RURjZl90X0lfY1BGWEl5S2Vpd0RrRUJYLWRSRGRUY2NGX3hHREpiQXZvZkJNQ3BLMzZPZTJDZ2RMOGZGS2M1ckxYMjlzMUdmZ0hJamM3cEZucW0xYTlJcEljX0ZVRWRNOWlpQnREZjhBYkhaY2JKNTBCZUhZQ1VSM2NiWDJIam5XRDhJdw?oc=5"
+    },
+    {
+      "date": "2025-08-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "news24online.com",
+      "title": "PM Modi Congratulates Kanpur MP Ramesh Awasthi For Bharat Mango Festival; Calls It A Model For Farmer Innovation And Recognition",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYXpPNWxTUlRyYURLWGNTSzlseVlucDVTRDliVm13ZTFrOXZiLXRvZ0NkT3BoMl9JbXBXSVpsbXhhWlZEY1ZSLWNtU2NhMXhOc3BmQWR1Q2hNdUpVUHZGSFhQSDB4M2N6QUszOV9HOTR1TDhvR2RSSFVCeFJtbWQtYWVicnUyRzZDQmJON1cyVUlKOW9MY3lPNjNtc1NyUkN0WXZZbjFmdGc5OEp1WVFWMHJPazlhSUZuS2lPLTJ5WTBaQXBobjRvZHFROVp4WnRBb0dQaTJJMGxfcGpLZ3dwNHFPbi1hTm5VZ3d5WnRCVUZfUU91bEQxaHRB0gH-AUFVX3lxTE1IQ3pGN0RycnBiRnZOMy0takpOVHJoVVQ0T3pkeGNxbGNlVThsZEhERzhNMzZaaFA1TmRxR0E5SDd1UWgwaEpqVXVzX1Z0TExtVUJnbkFMQ0VFTHpiaFhmbUhoUVpUU0FUUk9qdWpBbEwyaHBoejJhODVJN20weGZ0dkVxNDBmZjlqY0tYTFlXVF9zUjVJS3N1eFlwTHFKUENxOE1YZWdwWW8wdjA0MFo5VTlEZk56d2xEdF9vY0ItQ2FJVWxkRF9MdTVsSlBUdkIxRU10MFNhVWYwcjJWcnBhZzVHRUN2bXVydjI1eWY4WmkzUmRZNk1aOGhRSl9B?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4117,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-43",
+  "pc_name": "Kanpur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180483.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Journalism",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Development of Martyrdom Site of Ganesh Shankar Vidyarthi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to establish a new PM SHRI Kendriya Vidyalaya in southern part of Kanpur City in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding construction of ESIC hospital in Pandu Nagar, Kanpur, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Construction of Ganga River Front from Atal Ghat to Siddhnath Ghat in Kanpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding need to improve flight connectivity to Kanpur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Revival of Closed Mills and Employment Generation in Kanpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Renovation and Capacity Enhancement of Green Park Stadium, Kanpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to restart Lal Imli Mill of Kanpur, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to restart Tool Room and Technology Centre in Fazalganj, Kanpur",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to make operational two shifts of Air Traffic Control system in Kanpur airport",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt. make arrangements for youth to get the right to vote through ballot paper, online voting or other suitable means at other places outside the home district as like the central employees are provided",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 80
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/ramesh-awasthi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "ALOK MISRA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 52,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 75,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 52936608,
+  "total_liabilities": 6148728,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.93
+}

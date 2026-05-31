@@ -1,0 +1,716 @@
+{
+  "accountability_score": 67,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 302000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 30840000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 8000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 106950000
+      },
+      {
+        "category": "Others",
+        "value": 12311873
+      }
+    ],
+    "immovable_total": 460101873,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 290000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 19166719
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3655925
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 24,90,000 24 Lacs+",
+        "value": 6980000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1640000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2353750
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 34086394
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=hM9Yezj4eQyZSjFPsH3u",
+      "total_assets": 165537359,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9348",
+      "total_assets": 494188267,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 199,
+  "assets_latest": 494188267,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rajeev Kumar Rai is an Indian politician, educationist, and philanthropist currently serving as a Member of Parliament (MP) in the 18th Lok Sabha. He represents the Ghosi Lok Sabha constituency and is a senior leader of the Samajwadi Party.",
+    "title": "Rajeev Kumar Rai",
+    "url": "https://en.wikipedia.org/wiki/Rajeev_Kumar_Rai"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "49 Rai Mansion, D Road, Ideal Home Society Rajarajeshwari Nagar South Bangalore Karnataka, 560098",
+    "emails": [
+      "rajeevrai6@yahoo.com",
+      "rajeevrai.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9900016547",
+      "9844017728"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/RajeevRaiofficial/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/rajeevrai?lang=en"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/imrajeevrai/?hl=en"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "Land Sale Rs. 59200000/-",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Statements conducing to public mischief",
+        "section": "505"
+      },
+      {
+        "count": 1,
+        "description": "Intentional insult with intent to provoke breach of the peace",
+        "section": "504"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "1256/2023",
+        "charges_framed": false,
+        "court": "CJM, Mau",
+        "fir_no": "Crime No. 0056/2021, PS. Sarailakhansi, Dist. Mau",
+        "other_acts": null,
+        "sections": [
+          "504",
+          "505"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "06/09/1969",
+  "eci_state": "Uttar Pradesh",
+  "email": "rajeevrai6[at]yahoo[dot]com,rajeevrai[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3626740,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1613919,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1386520,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1723410,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2292960,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2815980,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1104540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 670800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 248400,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 514457,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Rent, Professional Fees, Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Rent, Professional Fees"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹32.87 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.06 Cr.",
+      "headline": "Declared assets rose 31× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 328650908,
+        "declared_income": 10643549,
+        "itr_years": 5,
+        "ratio": 31
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹16.55 Cr (2014) to ₹49.42 Cr (2024).",
+      "headline": "Declared assets grew 199% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 165537359,
+        "from_year": 2014,
+        "pct": 199,
+        "to": 494188267,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹9.86 Cr unspent.",
+      "headline": "67% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 98606729,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Land Sale 5,92,00,000 5 Crore+",
+        "value": 59200000
+      },
+      {
+        "category": "NAIF Medical Centre Share 20,44,800 20 Lacs+ Brite Medical 13,63,245 13 Lacs+",
+        "value": 3408045
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "1,80,679 1 Lacs+",
+        "value": 344074
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 49270668
+      }
+    ],
+    "total": 112222787
+  },
+  "margin_votes": 162943,
+  "minister": false,
+  "mp_name": "Shri Rajeev Rai",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 48393271,
+  "mplads_unspent": 98606729,
+  "mplads_utilisation_pct": 32.9,
+  "mplads_works_completed": 84,
+  "mplads_works_recommended": 245,
+  "mpsno": 5769,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-27T10:50:11.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "SP MP Rajeev Rai tears into Bengaluru police over ‘irresponsible, worse traffic management'—here's what happened",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQRFd5ZURjdzF6M0NPU3UwYkJqdzJjMk5wQjNEa2s3SmNyYkl3Y2dDUkk0RjNYU1dYTXVCWHBRb1RDRXd4blNqN0Vmak1ySy1NLXROZ0RYUS1WOEYtY0tXU0dfT1VJQmpkaTRxaHloZEhQanI2b1VBVUY3ZXZIeU1FZ3N0Rmg3d0pzYWJKbXIzbC1pTTVLZlZPajh4VGFLQWhmd0JPeFg4aHVHV0NPMUlZV2xYdHMyQWhoLXdpcENfc3Z5cmtsUTZsMmdFVFlIa3ZnYlhobFJZeXZ4SnZmWDNIZGlTYkZoc1h4UWVJZEd0WldBdkpGa25MREhpMEptdEdHd3owTjRYV3dLbjIwc0RVZDloTDJjU2RsUkRaaUlkOGVtY0hONWZpWGdoaHVkZFRPWkEzTnNhUTdHbzFwWU01MDRLTWYwRUFRNjhfQi1fQjZlNkduN3hERjhTVEZsbzFGOXRNUGtkOTgydnpFVFZkRkc5Q2hoS3JkbkZOeEFlSnBxYW90?oc=5"
+    },
+    {
+      "date": "2025-12-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Mint",
+      "title": "SP MP Rajeev Rai tears into Bengaluru police over ‘irresponsible, worse traffic management’—here's what happened",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFdmT19wbl9fV0xQczBuaVpWZGowUHdCMktWQm1SS3FmdlBvcWF5U296VWViODNqeDN0ajc2ZjY2THVod2NSODF2Mi1hRm4yZmJTTHV2X05OTUs5RFFRcF9rLXkwbUluV3k5bHVWZUQxTG1tU3Jjd3ZWMDlQUFE1M0FWdHdJc3Y0VVVhSWFIdTRtRl81Vkp6aXpkOVduMTJsRG1JMzFpZHRJOUdaRGtjUlBWcGE5b3NPeVNPNXZ3akcxNXVnRTZDUlc1NlZERXB2WjBXdW83M0FzX28xMUFFd01hc05VUTdvRnF5OGhkd1ZBdnJVQU9N0gH8AUFVX3lxTE1IZGpLdG9DbktqRWRwa0xlYi1oa3ZtaFV0ZGxHbXNEcVNvemVYeW1qX1ZCbDY0RWhGbnpaM2pfTko2UWx4N19mcWJVa0lhNEFoMFA2OU9xSHJES25pTEpXNEdNMXhoMmFXdXFTeUZHZzFKNnRSZVYxNThOeHRnX091bnVvLTBLYWdZSy1nQ2RudE1JS3A5MWlMcGlXZmRJMlhKZ3FzV2lOSUthMzJzNXc5SDlVMWpHeExrcWtxUk9XNmg0RVAxUnRpV1NhRWp6dEtjRVJyeXJFVnhna1BZMjNOeGpIc1Radk9CNEVqcG1SVXNPbVZTTzJOYVFvUw?oc=5"
+    },
+    {
+      "date": "2024-10-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "FIR lodged against Samajwadi Party MP Rajeev Rai after doctor’s complaint",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUdTYmhGR01XY3RCeUl5LWlLb094ajVHTTJLY25YOXRjMnM0YkkwVll1VWNCcnVPSEZiOEJsb1pRSUFxa1dnNWgyYlQ0OUlLVXl0Rm0wT1NlX2s3Y0RXRTg3VmtVTU9ocmVFVDR1eGluVjI4SnZlenhtTGxyQjgxOFR0dHU5UXRsMzE2a3FMMnZXb1lvRkNuQTVhX1QtSzBEcEhZdWQ4U2NXUzlETEN5eVhIbk5sSEXSAb4BQVVfeXFMTkg1VGFRaUNKR3RiMFZGdGNURE1Wa18taTRXSktpX1VkanBLc2VXOXlkb1RPT0xNaFliTmw5WHZmdXl0Nnd5eFo1MTdHSDZrV1RrM2ZRZjE3ZEstQzhmejRyMjQ4NUV3WURrVnRhU1pFMVo0T2FTYUJMMFd4ZENpSUxVTm9YSk1VZExoQkZEaWd5aUtGNkRfUi11QV8tWE1PbGljNjktMVIwTkZXV2RYX05JQVNBMENwRk1uTTJ2dw?oc=5"
+    },
+    {
+      "date": "2024-10-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ETV Bharat",
+      "title": "Fresh Twist To Rajeev Rai-Mau Hospital Doctor Confrontation: Samajwadi Party MP Booked After Doctor's Complaint",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeEJ5NzhWbjU0bEFNYXdIaDJpUXBiZUVxVGdwdnc0OWFTT0xGb2MwZ3kySXFGVTdELVk2ZFZOb1M1SXZxQmEtVjBIY2NsMnR3WE1LODJ1RXNZR292WlVqWlpqd2U1T1FKSjhYN1pjck9uZjlhUUtFQU9rN0lQTGdwOWtYQVluQmtlLTZtQXJIbm5oZmJJTTlmdG1OdmFfOEpxTXNLNjlueW55NDhJVk9hOHlFRHRIU19pNWRxT2NQNmowUXBYaWF0aHY4VURZbmgyNWZQWFI3NmZKUmJCcHpUblE5M1dzeGtyXzhyYnozR0nSAfYBQVVfeXFMT0xKM1FKR3hQYnpLcHZGYjhSVE43SXRTQnluMU11LU54alZoX0kwcDBQYlJNVEZPcDFoNHZaZ1hiaXU3WklzbHdGNC1BckhXb3dWb3lRTFJWQXVybEhEejduWHdjRzQzWWZWaVBjR1RSQW50SHk3Z25uME02VUJRZXVWWEw4VFAtNTMzMnpNdDl5ZXZ1QmI2WHRSY2RjOGphd0ZwVGd2NVJpM3V4UEZ4cmRKZFB3YzdzV2ZCdW9kTnhGTTBWR3M5QVdEZnFEelE4UnRaNnVYTTVVZk52LTFlOVQzeEV0dkFhckNaVEx6S3ktN25OMFBR?oc=5"
+    },
+    {
+      "date": "2024-10-19T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "UP govt doctor files FIR against Samajwadi Party MP Rajeev Rai",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObUVoNWpiOG1GWHNMTUtmVlNqWUszQ2o1R2REcU9fYXZzc0dIMkNCSlRKbU9aaGc5VDByQWloWkgwQmVJRTlkeEVNeHdYWjhMeUdxTWVrS2o5djZkVkJLZ3EyYWhrekJad3FuQkQ0VTZYTlA5YUk1dFJ4UWdTNVp4akVaRHRrdmVSSXhINjZRc1VreHB6X2gxaTN5cnRiaVhqMVA1RkxGMkRTeUI4Y2VKck1LYUF6bndMMkdjc1dRT055RDdLS2tsLXc4dzhFMzBGU3JRatIB2gFBVV95cUxORXd0Wk9QVGZnSVdDTEJCTjhOVHZhbndVS3ZudG4wcG5NUlZzVVkwTkZWMVR1UmZPdDV6VldWd0RaWURkMDQ4RkpDQW9uekdfWG95TDVTdmVtNlZ0bEUxWU1lUURhbHhfZ1FyV2VsTEREYWdNZ1hkNEhEYVJmaUxYVkZkSFk2S09aWnd2aE1WN2I3clVJNVYybmlCZlJqdE1WOEx6REtYajc3ZGNvbEJ1Rnhzb3lfakpwZldFbkRTUlRBa2dVNFdoWUpwSENGdDE2di0wNjBEdmZrUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3518,
+  "notable_record": null,
+  "num_candidates": 28,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-70",
+  "pc_name": "Ghosi",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180475.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Educationist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand to Expand Coverage and Financial Limit Under Ayushman Bharat Scheme.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding restoration of subsidised power tariff to Weavers of Mau in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Financial Package to Restart the Closed Sugar Mill in Ghosi.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to establish an AIIMS hospital in Mau district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to restart operation of Kisan Sahakari Sugar Mills Limited, Ghosi in Mau district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need to run direct train service from Mau Railway Station to Delhi, Mumbai, Bengaluru & Tamil Nadu and also run the Lok Manya Tilak Express train & Mau-Anand Vihar train service on daily basis",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to extend reservation in Jobs for exservicemen to Group �A� and �B� posts",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding formation of a National Anti Fake Drugs Task Force to combat counterfeit cough syrups and fake drugs",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Urgent Request for Reconstruction of Mohan Setu Bridge and Compensation for Flood-Affected Villages",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding progress and status of schemes under Jal Jeevan Mission in Mau district of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal for the maintaince of roads in Ghosi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to establish educational Institute on the land of closed down Swadeshi Cotton Mill in Mau city, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to increase employability and productivity in unorganized sector",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of transport in Ghosi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Task Force to Investigate the Actual Status of 'Har Ghar Jal' Scheme Implementation in Mau District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to minister to provide railway connectivity in Ghosi Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Establish Army and Paramilitary Recruitment Center in Mau with Pre-Recruitment Training Facilities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to grant Organised Group �A� status to Railway Protection Force (RPF) officers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Govt. to End Discrimination Against Ghosi Lok Sabha Constituency and Implement Development Projects Immediately",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to enhance the pension of EPF pensioners and provide other social security benefits",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Clear Directive on Ayushman Card Policy Regarding Family Members",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to expedite recruitment process for appointment to the posts of Draughtsman and Barrack Store Supervisor in Military Engineering Services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need for appointment of teachers in Kendriya Vidyalayas and Jawahar Navodaya Vidyalayas on permanent basis",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding need to review complaint Redressal Mechanism in Government Departments and to implement Court orders",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request for immediate action to improve transportation facilities and provide support to businesspersons",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding need to include Bhojpuri language in the Eighth Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to improve rail connectivity to Mau District, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "The Bhartiya Vayuyan Vidheyak, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to run intercity train from Dohrighat in Mau district to Allahabad in Uttar Pradesh and also run trains from Mau to Mumbai, Chennai and Bengaluru and increase the frequency of Mau � Delhi railway service",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt start intercity express from dohrighat and trains should also be started for trichur and chennai for south india",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to govt give instruction to the district official they not to do deliberately keep the opposition MP from attending the meeting",
+        "type": "Special Mention"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Regarding problems faced by weavers in Eastern Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding need to conduct impartial entrance examination for NEET (UG) and UGC (NET)",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 46
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 129
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajeev-rai"
+  },
+  "qualification": "Post Graduate",
+  "questions": 39,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 2,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Defence": 3,
+    "Education": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Food Processing Industries": 3,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 3,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 3,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. ARVIND RAJBHAR",
+  "runner_up_party": "SUHELDEV BHARATIYA SAMAJ PARTY",
+  "score_breakdown": {
+    "base": 73,
+    "criminal_deduction": 6,
+    "legislative": 80,
+    "mplads": 62,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 494188267,
+  "total_liabilities": 62952119,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.73
+}

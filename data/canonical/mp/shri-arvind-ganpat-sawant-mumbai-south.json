@@ -1,0 +1,748 @@
+{
+  "accountability_score": 71,
+  "age": 75,
+  "assets_2019": 27181577,
+  "assets_2024": 50485191,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3300000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3200000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 6500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 195000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 36593520
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1250
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1114977
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6080414
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 43985191
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HbnEpZPcZqPZL3ZeWG",
+      "total_assets": 13132841,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HbnEpZPcZqPZL3ZeWG",
+      "total_assets": 27181577,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7097",
+      "total_assets": 50485191,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 284,
+  "assets_latest": 50485191,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Arvind Ganpat Sawant is an Indian politician from the Shiv Sena (UBT) party who have served as Minister of Heavy Industries and Public Enterprises from 30 May 2019 to 11 November 2019. He is Member of Lok Sabha since 2014. On 11 November 2019, Sawant quit as union minister in Modi government due to ongoing power tussle between Bharatiya Janata Party and Shiv Sena in follow up to 2019 Maharashtra Legislative Assembly election.",
+    "title": "Arvind Sawant",
+    "url": "https://en.wikipedia.org/wiki/Arvind_Sawant"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "3/87, Mithibai Bldg., Aacharya Donde Marg, Sewrie, Mumbai Maharashtra, 400015",
+    "emails": [
+      "arvind.sawant@mpls.sansad.in",
+      "arvindsawantg@gmail.com"
+    ],
+    "phones": [
+      "2224184488",
+      "9869004488",
+      "1123714488",
+      "9969004488",
+      "1123354488"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "S.C.C. No. 622/2023",
+        "charges_framed": false,
+        "court": "1-Civil Judge J.D. And J.M.F.C., Kudal",
+        "fir_no": "176/2023, Kudal Police Station, Dist. Sindhudurg, State: Maharashtra.",
+        "other_acts": "Section 37(1)(B),37(3),135 Of Maharashtra Police Act.",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 15,
+  "dob": "31/12/1951",
+  "eci_state": "Maharashtra",
+  "email": "arvind[dot]sawant[at]mpls[dot]sansad[dot]in,arvindsawantg[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2651750,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2636180,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1622300,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1413850,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1562070,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1217130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 988510,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 900430,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 600440,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 202320,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary From Parliament and Income From Investment"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pension and Income From Investment"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 20% of MPLADS local-area funds were spent — ₹11.81 Cr unspent.",
+      "headline": "80% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 118140491,
+        "utilisation_pct": 20
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹1.31 Cr (2014) to ₹5.05 Cr (2024).",
+      "headline": "Declared assets grew 284% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 13132841,
+        "from_year": 2014,
+        "pct": 284,
+        "to": 50485191,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 52673,
+  "minister": false,
+  "mp_name": "Shri Arvind Ganpat Sawant",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 28859509,
+  "mplads_unspent": 118140491,
+  "mplads_utilisation_pct": 19.6,
+  "mplads_works_completed": 13,
+  "mplads_works_recommended": 51,
+  "mpsno": 4713,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-30T04:07:18.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Arvind Ganpat Sawant",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHh5X2Y0eGFpUzNGVE1NTlo3TFAxTkFYYWpfQ1ZOX0pYZl9oR1VITzNOTUZpUEpDOFNicURBY3ZXQ2JKeTVicVROWjRvb0hmNE1BX3RZMnE0QzMyN1l4VFI3QWdiT1BSNGV0S1RZWG5lb1ZMZGlhZHR5dVZqeEVfYXlPZFo0aFpWYS1PaE5B?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Mumbai South Election Result 2024 Live Updates: SSUBT's Arvind Ganpat Sawant Has Won This Seat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRG0xUm1FNUlDNmRYelhoSUdTemFzdDVMd3lWSzJjOWVPUGppbS1XNTZqNDQtZjBpN2tpUUEtMTJENVJWcnBXZHBCQUxzV2t4bUdubklNRHZGY2hkeU5tT2tFNUw3YzM3TmxqeGVUV0xhc0JvWFZHdEJMNHNLQ1FZaF92WDYwYmxtWUE3MlcteXNYX09FOFg5YWFUY2xZakxwcVhrbGk2OTlQd3ZqQ1RTUmVKS2FLMWdCN1ZOMlNSMG9xV3JjemZkaHQ1TWg2d9IB2wFBVV95cUxQc25QR3RVQW9USVh1d2ZvbHNYSEYxcFdLR05BckhxYjJqeEVOS1Y3UXozSC1aOEZsUlBmRFpvU211NnhIOWpsNGRodzJIRHRoeVdja0lTa0hJT2hla1NtQ1VGNUhNQzZSUzFDSDdhOEFUdEg1bEZ1MjJjQzB3ZU1zSGZBMGl4QVVRa0JRZkFOeDNGdHdvY1ZQSTNycEdNdlR5dTZxZmZJUkRIWm05UzZYMnZlV1B2bUhaUU1Hdm4wcGhuanZXV3dUZGg0UUdoUGN3LXptRFJZQTlKUWs?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mumbai South election results 2024 live updates: Arvind Ganpat Sawant of Shiv Sena (UBT) wins",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObjREclNiWWdZLXhhRlVzdXRwR2ZNaVRpOG5JaEhSZTlQeG9Ka0s0VlNGTGN0TXYwNTFNNl90d2tESmdCbE9BdnEyRVEyWWFZTGFGS1gwVTliZDBSa1FvX2lyaDU5UHp0bk8zaEI4bm9FWWhwRlRMWnk1LXFxVzdvMG9tT0pSNXgtNGNRaGlqMC1WeXloX0JXcmtIZTlKSGVpOWVSMUhpV0lWZk1qY2tFNGxJNnFfdWdLUzVmbE5FSWE5OVQ5bFZINkxxYnZ3RS13OEs5eU00WVFYTXM4dHhqb3phQWl3d2s5Z0t0T0FGa1VmU2VTV2wwd2xKSWpTR3kxMk51bTd0WWVuZjVQclpjODBPZlZFRElmUEhsRzNrbmdsSVQtOXVBNHFvNFk1cnR0VmhSR2dKUVRySUtBUFlMdEFB0gHHAkFVX3lxTE5YWXBuTWdfd3pYTk1keHhQazhyRC15Ungzd1g2RFVjTElNS0F2NHpNWVhvZHFSZUNoYWtNV2I4cHcyaUlmLS1WakNSM0hXRGo3endRWlcxTTJCVXJIa211RWM0LUFveFlvcjd6RkNRZENpSnpOb2lwWDJ3bHhwV3N6Zml4bWh4cWlqR3pJSWtMR1FHWVJDd3JlS01yWEhNd25DMnB2YWRMNWhwN19Ub1hDZlFBV1pqUmRZc295M2dLa0VYcmQ0bFJuV2dlV19tbGdrd2hBMDFQVVBEdWk2OGs5TVVQbS00OTN1c05YazFFVDVmb2NBajRJRVpMSjdCc0FlcXQ1a0tiNXNPVTZzMEVRUEc5SnNnSldZSWVWSnY4Sm1tOTU2c09XRVYyWjBWZ0VKTTFhSXhJOGxCOWp6WEQ2RlhxT0FJRQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "CNBC TV18",
+      "title": "Mumbai South Election Result 2024: Thackeray's Shiv Sena candidate Arvind Sawant wins",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbFp3a08wallJYTRBd1BmUlZNTkZBYmVEa2NMeS1hYlFhbDN0Y3R6Zlc4QmdSVUxSZEZScUVLbDhSbHB5dThGQVFaalY2bFBZbm9nTmoyNXRhMHVyX2lvTWRIeDU1M1ZwRml4RGItMGVrYXlZcXBvVTdOOURYeE05NmUyYnc2Q2JKN29nZU1LNFBSbk9VQ1dDTS1CT2JBYVRtUThRZXhNQTJyWlYtQ3ZTVE9yZnc2cHJXZlptSkVibjA0TVd0Z3ZnTjUzbk5jMUxGVWZnZERVZzdVOWFkUk84TXFMN1ZORXd0aTZmZjJNeHlpdHM3UmpPbFpfcnVKVXN4bF9Z0gGIAkFVX3lxTE1ZOTZ1Mkx5bV9zZEF1UUJCZDZya1YyX3AxMEc1cmRBUWtuWDMzM05iU29aaTdTclN4ckxrYWVTcUhhQ1hXeHpwVGNBZHNwMXhkMDZKbldVNndLczN6NVN5NzktV1hBckRQalF3a2o3U3c0cHY2c1R1TjhaLTc2a2dZdnlkU3JpODlycGtfTG1PWDltUEF5bFEzd3h4SGlpMWhPdTh6Q19iUUZGVlBqeVlDNUJuZlhxRlNvTnFfWDVEY3BDekNBN3BWZkpUcEtnaHY4ZmluYjdwbU4wUC03MmIxSTN4YjRCel9uSEVIbVV6VWVnS09jWFloaTBlVDA5bTJ3WUs3NmNEVw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Times Now",
+      "title": "Mumbai South Election Result 2024 LIVE: Arvind Sawant Of Shiv Sena-UBT Leads, Shiv Sena's Yamini Jadhav Trails",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDloSTF5c2hiU1ZrOWR4WWFnV2hZY2tWZXZwS0xweFRLbFhwejQyZnE1MmJqUWdEeVRFWG85R01oMXVONU5rN0Jka1hDcW02UlFOWjRKRlRYOXJ1LURWOFZsaTFRYk1saFRaWFoxWTBUaVFLUEpCV1IwVjc3QUxBM3I5dDFLVndOQTdON3haV2FnWFhyVDFURW1QWGxTeEJWUmFpOWxycVpaRS1DaHlPeWJEXzR6VXNCZ0s3Tm9GU2h1YUZLTWlMLTFiRUluaFNYZXRBV18xZThJUTJGTGfSAeMBQVVfeXFMT18wTmNsQ1BRRThZOG53TnAwUTdxMlc2XzNfZm1yRm53dm15N0FnVl8xUHFRdkNRelYxVXB6X3ZVX21oRzk5amFEaUhkUTVhNlZOSzhFZGRfVXFHb05ZQlZGX1ZWUGQzS3pPUHoxOEZuRml0NXMwT05adHk0VUQxRHV5VXV4b25tN0E3bzJuT0J4M0VyQ2NObVRDa1hhdkJnSmYtY1hiVnAzREdoQjdsR2F4b0JBYnlKeC1nZ3ViZ1lUekhvZlBjb3VTeXVFX2lxbnhXelB3aF84NTRIbEpFNHhPeVk?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 13411,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+  "pc_id": "maharashtra-31",
+  "pc_name": "Mumbai South",
+  "pending_cases": 1,
+  "phone": "Tel: (011) 23714488, 09969004488 (M),,Fax: (011) 23354488",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180250.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand to Restore Train Services and Increase Special Trains for the Konkan Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Strict Action Against Corruption in Skill Development Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Text not available 63",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Transgender Persons (Protection of Rights) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need for integrated investigation into reported issues of missing women and girls in Maharashtra and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need for modernization, development and de-silting of Mumbai Port",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to bring a plan for redevelopment of slums in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding need to rename the Old Delhi Railway station as Sis Ganj Sahib Railway station and New Delhi Railway station as Guru Tegh Bahadur Railway station",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Amendment of MNREGA Rules to Extend Benefits to Farmland within Municipality and Nagar Panchayat Limits",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the problems of MTNL employees",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to give the hightest civilian honour to the late Jubeen Garg",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for an enquiry on financial irregularities and lapses in contractual compliance of BSNL",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "25.07.2025",
+        "title": "Regarding need to ensure passenger and aircraft safety through robust aviation measures",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Imposition of President�s Rule in Disputed Marathi-Speaking Border Districts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Resume Medical Aid Centres at Major Mumbai Railway Stations for Commuter Safety",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Statutory Resolution on the proclamation of the President�s Rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding hardships faced by fishermen community",
+        "type": "LS - Calling Attention (Rule-197)"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Government Action on Illegal Transfer and Sale of Enemy Property in Mira-Bhayandar Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request that the total voter list should be thoroughly revised and the Election Commission should answer to the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to restart production in textiles Mills under National Textiles Corporation closed during Covid period",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request for Resumption of Soybean Procurement in Maharashtra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request to Stop Offshore Sand Mining to Protect Fishermen and Coastal Ecosystem",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request for Response on Employees Pension Scheme 1995",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt a statue chhatrapati shivaji maharaj should be constructed in front of the chhatrapati shivaji maharaj terminus",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for amenties for the upcoming Kumbh Mela in Nashik",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to rehabilitate the hutment dwellers residing on the land of Mumbai Port",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding revival of MTNL and BSNL",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urge upon to govt to review the decision of the LIC management so as to restore the commission which they were getting earlier",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt. a special anti-narcotics drive should be initiated to spread awareness among youths and one special anticrime Helpline should also be started",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to govt. to kindly disburse the crop loan according to the targets fixed district-wise",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Urge upon to govt to give a comprehensive rehabilitation package for wayanad and declare the wayanad landslides as a national disaster",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Request to minister for the revival of the BSNL and MTNL",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Demand to govt. start the fertilizer corporation of india in haldia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 57
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 190
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/arvind-sawant"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 81,
+  "questions_by_ministry": {
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 5,
+    "Coal": 7,
+    "Commerce And Industry": 2,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Earth Sciences": 1,
+    "Education": 5,
+    "Finance": 2,
+    "Food Processing Industries": 2,
+    "Health And Family Welfare": 4,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 4,
+    "Labour And Employment": 3,
+    "Micro, Small And Medium Enterprises": 4,
+    "Mines": 3,
+    "New And Renewable Energy": 2,
+    "Petroleum And Natural Gas": 3,
+    "Power": 2,
+    "Railways": 5,
+    "Road Transport And Highways": 5,
+    "Rural Development": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Women And Child Development": 9
+  },
+  "reservation": "GEN",
+  "runner_up_name": "YAMINI YASHWANT JADHAV",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 69,
+    "criminal_deduction": 1,
+    "legislative": 89,
+    "mplads": 40,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 50485191,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 86,
+  "winner_vote_share": 51.18
+}

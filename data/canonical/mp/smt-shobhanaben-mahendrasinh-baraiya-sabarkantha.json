@@ -1,0 +1,485 @@
+{
+  "accountability_score": 55,
+  "age": 53,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3729000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 9700000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 3200000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 16629000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1103700
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 8571738
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 14560
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 5,17,478 5 Lacs+",
+        "value": 1512225
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1865000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2872500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 15939723
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3782",
+      "total_assets": 31828842,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 31828842,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Baraiya Mahendrasinh Kacharsinh is an Indian politician and he was elected as a member of Gujarat Legislative Assembly in 2012 from Prantij Assembly constituency as a member of Indian National Congress. He joined Bharatiya Janata Party in 2022.",
+    "title": "Mahendrasinh Baraiya",
+    "url": "https://en.wikipedia.org/wiki/Mahendrasinh_Baraiya"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "56, Gajanan Society, Approach Road Prantij, Sabarkantha ,Gujarat, 383205",
+    "emails": [
+      "shobhabjp2024@gmail.com",
+      "shobha.bjp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9979698831",
+      "9879533494",
+      "1123320201"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://x.com/BJP4Gujarat/status/1780243030672376206"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "09/06/1973",
+  "eci_state": "Gujarat",
+  "email": "shobhabjp2024[at]gmail[dot]com,shobha[dot]bjp[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 801720,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 775090,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 701050,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 667960,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 772096,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 493820,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 492190,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 497910,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 449130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 443011,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Farmer & Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Advocate, Farmer & Business"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.31 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 103119430,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 12744653
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 12744653
+  },
+  "margin_votes": 155682,
+  "minister": false,
+  "mp_name": "Smt. Shobhanaben Mahendrasinh Baraiya",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 43880570,
+  "mplads_unspent": 103119430,
+  "mplads_utilisation_pct": 29.9,
+  "mplads_works_completed": 54,
+  "mplads_works_recommended": 269,
+  "mpsno": 5611,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sabarkantha election results 2024 live updates: BJP's Shobhanaben Mahendrasinh Baraiya wins",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUk5qeFlQaHVwNDBiclAwd2NKYkVLMXEtbEtkSl81M1hrRWNkOVkxek1RZW9UMGZsZnY0M2JvMlA1Q1JwbzlZNkJqQmp2SWlnSjVISkpyVzEzSlNvejE2TU1paVJQTTY3UlRYTzJQaU5kcnVwZUc2WnFCN0l0LXlDb3dfRDNzUDF2bTdLaGR5Y1F6ZVNjZDVoeU11Ny1mRjJSek1ZZzF2RGdobkpxbHFpUjRxdGxYZndzcmFVajdUalJ1NGRpYTFMR1E2Smg3V3NPVzZpLUgwMlJSV3Y4blZnSHlRV3NMUnJVRndmMEdBLXZKbTRxTXk2WWkzbW5kMkVZRXQ0QXJMVU1SUEpaRUZEUWJacVJOZVRxMldPQnU0ZmN1VnlpMTdvX013Q0xBOFdrc1hleV9nRUZWaGRQekpvQ3pDME1sdnkzc3U2RU5aUDVZWTJIZGxpZVhB0gHfAkFVX3lxTE1nLWNTY3FsSHBjWTJ5TVRUblRWczJ3OWMzcm05RFhSU1RPcWFsd2VibnZFMTFrYmtla01ULVlmdnQtWkw5NHZ6VHZQRF9Bc0RXTGVxamswYzJmU1pDSXZRbUpFRE5ueThGQ2xucUh0VmdTbW5sZDFRUS04alJHOExRQzBHbnNYUEFibnZSTmw1a213R2J0SlV4b3ZObkNxVE9kRGh1UWkxdjFseUlzdUFiN2E0ZmdocWVjRXpVTU9oZ0stYkhqdE9Mc0EwRHlRQmZid0wzaTR4RjZPcEthZWlBc0Y0c1phY3VfZjJ6dVRzRFdrSXh5bmNsLW9IOXhncjdiMFZKYXg0QWNXWHZXWXZqUGgyOGQ2bG1xUzZ6WWpRRGlFOFNpek4zbE5MOXFQUkZGbzVpOTR0amJwQjVLUm1SejJIWmlvV3lkNVVySEMxWEFnMlFUeGxPcEVOUkdpcw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Sabarkantha Election Result 2024 Live Updates: BJP's Shobhanaben Mahendrasinh Baraiya Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0U5OHNpdWhIcmdsM3lUbGV1Qjl0SjZkb3hyVUVfVEphaDNFalJlbWpSaHVtRDlTTWg5akdwVklIVTBWRVdMRkZXMG5vc2laVWJUNDVRZVpOaUM5QVFNSzBXVFgtNTNMNDRFNTZRNV8xUWI3RzNrRHNhX3N1NFlvRmF0UkJ0a3Atbm91c3dDSEdRaUI5cGNWcHRZVU5qN0plUWpqN1NDbEtEN1VwTHFQZ1Fmd2hHSUV2dHY4TUxSNU5CSF9FNGk00gHUAUFVX3lxTE9FQS1jcGxMSmJWZzBfOFFJc0hIbHpKNk4zMWhnSjNtQVQwelNyWDFiTGh2ZGtKR2FOZ3g5dDJ6Z0JmMzYwSy1EOE9WeEl4X1JFdHYyVklZTUVrT1h2MVBteDhLSW1KQ0ozcWY0SzhPSVpqT0pVQWpobTExc0tNRFZ2RVdncURPSzV2NlF6QkZZRk54elBRejItS0Z4b2lIWXM3MWdUejl0Tl9URVdzNWt3TDlqV3FQUk9GODg0aTdPQ2xmUmRPVWExMWIyZGtfRGgxSHZO?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 21076,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-5",
+  "pc_name": "Sabarkantha",
+  "pending_cases": 0,
+  "phone": "(011) 23320201,9979698831, 9879533494(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180131.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Teacher (Retd.)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Related to Strengthening Digital Infrastructure and E-Gram Services in Rural Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to improve mobile telecommunication services in hilly and forest areas of Sabarkantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding establishment of institutions of higher education in Sabarkantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to establish a CSD Canteen in Sabarkantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding need for establishment of a permanent Canteen Store Department (CSD) in Himatnagar or Aravali district in Sabarkantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to expedite construction and operation of Kendriya Vidyalaya in Aravalli district of Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to commence functioning of Kendriya Vidyalaya in Aravalli district, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding improvement of NH-48 passing through Himmatnagar in Sabarkantha Parliamentary Constituency, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Widening and Upgradation of National Highway 848(K) and Bypass Construction in Sabarkantha Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding four-laning of NH 848 and construction of a bridge over Vatrak river near Vatrak Village in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to improve mobile telecom services in Sabarkantha and Aravalli districts, Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to expedite Himmatnagar- Mount Abu railway line project and sanction a new railway line between Khedbrahma and Hadad",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding construction of new railway lines in Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for the construction of Underpass in Sabarkantha highway",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to expedite construction of Himmatnagar-Khedbrahma and Mahesana-Ambaji new railway line projects",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt to immediate commencement of the approved Kendriya Vidyalaya in Modasa, Aravalli district and establishment of a PM SHRI school in the region",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 19
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 201
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shobhanaben-mahendrasinh-baraiya"
+  },
+  "qualification": "Graduate",
+  "questions": 36,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 1,
+    "Corporate Affairs": 1,
+    "Education": 2,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 2,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 3,
+    "New And Renewable Energy": 2,
+    "Parliamentary Affairs": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 1,
+    "Textiles": 1,
+    "Tourism": 2,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "CHAUDHARI TUSHAR AMARSINH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 0,
+    "legislative": 58,
+    "mplads": 49,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 31828842,
+  "total_liabilities": 12744653,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.36
+}

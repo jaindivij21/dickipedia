@@ -1,0 +1,454 @@
+{
+  "accountability_score": 37,
+  "age": 48,
+  "assets_2019": 399150416,
+  "assets_2024": 420262015,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 92189060
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 2150000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 81652880
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 100664836
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 276656776,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 3134251
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 92973661
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 0
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1081000
+      },
+      {
+        "category": "Birla Sunlife insurance 19,62,168 19 Lacs+ General Insurance 47,890 47 Thou+",
+        "value": 5234865
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 34291730
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 5976687
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 913038
+      }
+    ],
+    "movable_total": 143605239
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=A8GZmD8abwR3PD3u74hH",
+      "total_assets": 280516418,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=A8GZmD8abwR3PD3u74hH",
+      "total_assets": 399150416,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3607",
+      "total_assets": 420262015,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 50,
+  "assets_latest": 420262015,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dimple Yadav is an Indian politician and the incumbent Member of Parliament from Mainpuri of Uttar Pradesh. She has earlier been a member of the Lok Sabha for two terms from Kannauj and currently serving a second term from Mainpuri Lok Sabha constituency.",
+    "title": "Dimple Yadav",
+    "url": "https://en.wikipedia.org/wiki/Dimple_Yadav"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "At & P.O. Saifai, Distt. -Etawah Etawah Uttar Pradesh, 206301",
+    "emails": [
+      "dimpleyadav78@gmail.com",
+      "dimple.yadav@mpls.sansad.in"
+    ],
+    "phones": [
+      "5688276101",
+      "7408000003",
+      "9971820100",
+      "1123794848"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "15/01/1978",
+  "eci_state": "Uttar Pradesh",
+  "email": "dimpleyadav78[at]gmail[dot]com,dimple[dot]yadav[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 6750148,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 7866472,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5892928,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5914555,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 6145073,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 8451721,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 10172725,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 8398569,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 8356978,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 8688823,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Rent and Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Rent and Agriculture"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 50%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 50,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 29% of MPLADS local-area funds were spent — ₹13.67 Cr unspent.",
+      "headline": "71% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 136744572,
+        "utilisation_pct": 29
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3474000
+      },
+      {
+        "category": "Computer 3,00,000 3 Lacs+ GST 2,92,030 2 Lacs+",
+        "value": 1085434
+      },
+      {
+        "category": "Akhilesh Yadav 54,26,114 54 Lacs+",
+        "value": 5426114
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 9985548
+  },
+  "margin_votes": 221639,
+  "minister": false,
+  "mp_name": "Smt. Dimple Yadav",
+  "mplads_allocated": 192042469,
+  "mplads_expenditure": 55297897,
+  "mplads_unspent": 136744572,
+  "mplads_utilisation_pct": 28.8,
+  "mplads_works_completed": 29,
+  "mplads_works_recommended": 162,
+  "mpsno": 4580,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-26T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "UP: SP MP Dimple Yadav writes to Mainpuri DM, objects to delay in SIR notices",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkIwSWRJeEVpS3U3U3otTG4tN0E5dUpyRDFvYkREQmpPMWpTYjRqWUhzbGJYWUxCX3RFYlJpOERwd3pDcVotSDRkQjJDR2NMZ2wwQWV1b0Y4bjc4X2pOOVdPYXBBTEVPVEliYm9KVHpIY1duNlhZSFdnNzV1UzM4eXM4Y09QVHZ6SzU4QzlUTFJmX0dmcUEta1NqbGVOUHlLY19mSDdubEUtRk1EMlFhOXVNZFhPbHdobkdTd1NpR1poMXd3NnVIbFRfYkJJSmZm?oc=5"
+    },
+    {
+      "date": "2026-01-15T04:37:17.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Dimple Yadav simplicity stands apart in noisy Indian politics: Journey of daughter-in-law of UP's biggest p...",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRS1SRWI2di1HTHE5eTNSNTZoR0NaUkJpTE1uWVhoMU4zZmxLcnBVT0tlaVlnSWhaZ2JGV1JjcXRKV0pQSFdEczA5bWNDTkdJc2JjbTlERHliV3ZrWmxlMHNHNzV2N19ZQnJyUzEzZTVCSkswcDYxNDU1cGRRLXBvV0JBeFJVLV9JQVBHa3kwMWlDMm5sVlJfZk54blVsSEtkcWh3cVhNRnhlMUpmeWlSMnhBU0tENlZLOTJLeXo1WkZzUlpZXy1pUy1ReW1YbmdlWkg00gHYAUFVX3lxTE00ZGJIa0EtTHJKNzlxWTBMVURxaW95em9oYldMaWRZbG1LdTdJQmEzMWVEZk5FS2FNSFgzZG5uLTVHNFloa0NnbEtyRG55Vk1PQm9xdkRYSHZSaEtJd1ZHVEtTZzlvdjIyTTh6UDc1aDZmejJMc3Axbl9XTHU2WXZMQXlvWTB3aDFRMm4tRnVCTDFoekE1UDJ3SzZnUTI3RTFKWnRSSkktbTNsSmdDb2FOMnN5ZV9QdG5lOWxocF84RTFUR1U1WUJaNXdjVVlRblhuZFN1S0tTdA?oc=5"
+    },
+    {
+      "date": "2025-08-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "‘Beti’, ‘Bahu’, to MP, leader: The evolution of Dimple Yadav",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUVza2ZGbmh3c3BhdGJ4Y3JFT094bE5SUHZjT2E1VnFXU0NiQlM4Q1pYc3gzRHFyT0lGalRwT3BlTVlMelFtUGxYa0N6X3BPeThKRHhjRWp5c0RZNUctbEg3YzJZTlliRmZOT1pFTk1xTElSaUQ1WVA4UTNHWU9ZaG1YREZUb2s1MjU4dTVxRGJ4NWZaeUVPZHVwdlRkSVZ4RzFBS3VwWXBMRFVIX0NqTm5R0gG4AUFVX3lxTFBpRzh4NzFiZXo4QUpQaklyT0RGeDcwZ0VGTG9Wcy1QS0x3eDBXSFZKWmlzNkpwbWk3Zk0zV0ZHbWY4MEVCdnI5UjBuX1kwWE11RHotcTMwYy1KOEpoaUFKd1ppYVkxOXNiQUZZWFRmeUdxQjhlMlY5TVhHTlI5dlpnNjZ3UVloZFRsNHpmWUMtX3UyUnJkXzlvV3h1c21RUWlpZ2RnM2VJQ25QLWJPMjAwNm5yRUdSTFM?oc=5"
+    },
+    {
+      "date": "2025-07-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "UP women’s commission sends notice to cleric over remarks on Dimple Yadav",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRU0weXBfQkVQck56TzMyV1k3dEdoRGgyVDc1a0IxeDc1ei1taHdUc29iMUx6WjdjSFNQZlBLalZfbXFucXJhM1lYYkRhUG9td2JveUN4N2hIeGN4blBjTzJCeEhTMWNvenZjOVlXWlVaM2lJUGdxTmRnR0lFUnZsa3BxY2l1TlRldHlucHlWNFJjRGtMZ2lEUnZjRnVhWmhuZ0NRQ3BnR2JvRjdBWUpPNzZ1dFpiT3lQdVNwenQ1Nmx5YUJfNTc1QUxVZ1ZEZ2dSTE81Q2hXY2FBSERq0gHiAUFVX3lxTE5CX01tY25CeWVORGxLTUNZR3J5a0E5NFhwR3FxTXA4MldiMHNpcnFXSlF1WFlLbTJaa0R3dHkxcE1WRHdqWHJNZm9Zb2hULW9BbURORnhJd1ByLXRUaGtENnRvT2NzZEJPWWdYSThGeTNlQjB6a2hfY1BrVG1ReGRJbE1XSDl6UnhxNzZHcUY2R2ZHNTZnLW1uMHI5b2ZCbEFVVzcwTlptZm9hUEpiUDlTSkNWMC0xOUhWVVYyV1loNENEbmJDMjZybnlNYk5VT1Z2SW4wMW40RXlOdWt3dTRJZVE?oc=5"
+    },
+    {
+      "date": "2025-07-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Maulana Sajid Rashidi slapped by SP workers in Noida over derogatory remarks against MP Dimple Yadav",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdU81NjNIbEFmRGpYUk1sVm5tNDlSMDFIWHJFVmVxX0VRRVFua1d1dXNYejRSNFJ1OVBsNURmbFpxcFRCWnlKaThlNjdiVHpmTW5nNW8tQXFNQTRER0x3eGtmRTBmRjZsMXBYUmRNZUdhV2NZbEN1SUlOMEdWUFc3bjRIbWNsZDBjbjRnMzBxRGNnV1BBUVhxekVlMjJHZXFIOWlZM3NDUXVZNENNbFBiai1fZ1U3aVBkcTE2ZnZoR002czVEV1Y0Z25YWkN2N3lqTGZ6cXlfUzlRUGhHUWJhUF9fTV9MZ9IB8wFBVV95cUxQblk2bzc5YklIR3hYVnhndHJNUEFfeGxxSS1sM2R5WUpVbTFtb0RxQUxZTk5wN2xVSDQ1TnlIZXI4elE4b3VDM25jbFQyUXp0akxfOVAzNTBkRUhGdGZBTnc0WDR1UFBXUkZHWWVMeVBBclZUOWZRTlF4Qk4zVHZNNlNyRTlHYXEwYTBxR19qTnkwZVN5Wl82NzZaWGZpa0N2Nm84NXNPYkxQc0p5MmozbERZMi1iQm1EQmdKNnVuRkFHSUtIQUNHWWV5Ym5wZlBzNEc4YWEyTk1NRWtYc3g5RlNWdkc5T3ltMUI2TUFibzJDZDA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4582,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-21",
+  "pc_name": "Mainpuri",
+  "pending_cases": 0,
+  "phone": "Tels: (011) 23794848, 9971820100  (M),Fax: 23794848",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180443.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Need for Adequate Funding and Reform in the Ex-Servicemen Contributory Health Scheme (ECHS)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for a Parliamentary Debate on the Mental Health Crisis Among Youth and the Impact of Social Media, Academic Pressure, and Toxic Masculinity",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Better Facilities and Increased Honorarium for Anganwadi Workers and Helpers in Jalaun Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Request to minister kindly pay attention towards irregularities are increasing by NHAI during the widening of national highway in mainpuri",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 9
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dimple-yadav"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "JAYVEER SINGH",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 31,
+    "criminal_deduction": 0,
+    "legislative": 21,
+    "mplads": 46,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 420262015,
+  "total_liabilities": 9985548,
+  "wealth_pct_increase": 5,
+  "winner_vote_share": 56.79
+}

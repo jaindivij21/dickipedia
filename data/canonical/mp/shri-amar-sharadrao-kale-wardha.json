@@ -1,0 +1,485 @@
+{
+  "accountability_score": 41,
+  "age": 53,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 11977700
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 13862600
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 34907000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 60747300,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 361125
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 453168
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 200031
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Future General Insurance 5,11,250 5 Lacs+ LIC 5,16,709 5 Lacs+ Max Life Insuranc",
+        "value": 4897460
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 30950758
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1592167
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3996000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 2977035
+      }
+    ],
+    "movable_total": 45427744
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=RoZbx4X8V5QqWrMdd9",
+      "total_assets": 23023138,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1969",
+      "total_assets": 106175044,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 361,
+  "assets_latest": 106175044,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Amar Sharadrao Kale is a member of the 18th Lok Sabha. He represents the Wardha Lok Sabha Constituency. He belongs to the Nationalist Congress Party.",
+    "title": "Amar Sharadrao Kale",
+    "url": "https://en.wikipedia.org/wiki/Amar_Sharadrao_Kale"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Vasant Nagar, Arvi Wardha, Maharashtra, 442201",
+    "emails": [
+      "mlaamarkale@gmail.com",
+      "amarsharadraokale.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9881571571"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "13/08/1973",
+  "eci_state": "Maharashtra",
+  "email": "mlaamarkale[at]gmail[dot]com,amarsharadraokale[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1340714,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1201386,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1353890,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2349610,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2435880,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 488960,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 444770,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 753460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 406000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 188810,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension And Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "No"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹2.30 Cr (2019) to ₹10.62 Cr (2024).",
+      "headline": "Declared assets grew 361% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 23023138,
+        "from_year": 2019,
+        "pct": 361,
+        "to": 106175044,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹8.32 Cr between affidavits, while declared income across 5 ITR years totalled ₹86.8 L.",
+      "headline": "Declared assets rose 10× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 83151906,
+        "declared_income": 8681480,
+        "itr_years": 5,
+        "ratio": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 18% of MPLADS local-area funds were spent — ₹12.07 Cr unspent.",
+      "headline": "82% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 120701582,
+        "utilisation_pct": 18
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 9525905
+      },
+      {
+        "category": "2,00,000 2 Lacs+",
+        "value": 19778448
+      },
+      {
+        "category": "2,00,000 2 Lacs+",
+        "value": 200000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 29504353
+  },
+  "margin_votes": 81648,
+  "minister": false,
+  "mp_name": "Shri Amar Sharadrao Kale",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 26298418,
+  "mplads_unspent": 120701582,
+  "mplads_utilisation_pct": 17.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 96,
+  "mpsno": 5820,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-01-20T12:29:21.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Amar Sharadrao Kale",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWTRxZEYwdTEwdEJkQzdnVXN2bE5FNVlYWktRZ2JzZ3hoMlB2allsTDdzbDRyelpKWHBNbUZvQjJ3cS1zdm9pV0JFUWtnLTE4a3ZhSUtqd1ZlaUpISWhKcDNVQ21TbE1JSm9wUXd5bldpa1lJVkR4eWl0SEJKWVVWRzJtcVMtNUtTRGhGUA?oc=5"
+    },
+    {
+      "date": "2024-06-11T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kale’s command in BJP’s strongholds stuns rivals",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVFIdkpwdjVSRzllNmY0WC11NlJqQWFOcDgwTzRGRWRJWjdqMkswU0ZkbUlkVmpBSzdmckRocUFTSzhOQWZWM0hXVURrUUlHNTk2azlndExOZ0JtMExjUmpfRHhmdlh3TlkxaFNUVlFYUWpBeVYxUEJ6cVBOQWQyaDIwcjFSelRwNUZsTzRwTGdPMXVhblNiTElaZDgtVEhkMUNGOTlJMmlOeHEzTGNJVlExRXNWWjR2U2dYdtIBwgFBVV95cUxNWW9Fbm1ka25zOHZZZ2NjeWlqbi1FREJmM3MxYkhUMkZqRjh5bDJqRzdOZHdkR3BmX2hiSTdQMmR4Sm0zQ25kV0xfU3ZOVTFMb3ZKMlNiZ3ZYbHRlZTRBQldnWXdRMnBTZFFjYmgwSmNBREN3MWlUZDNVOFpRQlhvRi02a3VHRUYzUFF3aFF3RTFvUXgtV016bkdWMkQ4MUNPa0ZiZHhoMTAzVHl6eDc2MXBLZWUxVlpOZFpNN0xFdVNkQQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Wardha election results 2024 live updates: NCP (SP)'s Amar Sharadrao Kale wins",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPX1VlbDR2WTRZVXlIeEUxY1JmT1R5bXMtX05Dd3hpa3VpdHNMUGUzTVg5TmNQenU5V3BuN1hoTTZFUTVSR19maUg1TFRTSEN3STVnVkNPd1AwbkpRUEZZMnFycldEbXFra1NUNVd6eE5fakYxYzZfVU0wOVl0VWFrLV9TMU5oQVpLRWx2eExCZ19pTDJ4eHJweTg0WGp0X09PMVNMUGN2RTl3MldhNVJNaU9HR21KSmpyMjk3aGVKSWk5Z2g5SkN1TW9wcHl5Yk8tcjVVSXdaWWl0RHkyM2ZYZmxaZDdNZzQxV2xSQThZUVJNdEIyeVB1MFE0b1hTWWN2OGpPZDd5Zy1BRU8wVFdYVUktVTNmNmM0dld1NGxxanBaMFpkc0l5QXl3TnNXMXJ3bzQ1ZFJMeWFpZlJwRVHSAcMCQVVfeXFMTU92VGwtc3BZM3E1ZzJoM3FtZGV2MUhuVUtoeml6enlYLW9sa0VGZGtRN3VjUHdlX0NrdDhrTlB3X1l0aEZiNUk1VGtRSWN6TzdFNlRTYTJmNV9BbUxJUWIxYV95RVdEWW9WelY0TDBJQ1didjg3S0dkZ1VmYzlmVkJGNmppVFhlLWFDMjFmU3FzMTBlRllNYTlrVENTdTdzTXNrWE5ZZDExTzBhTFRodUJuVzRWWHJobXNkaFBNaHdWUWdIUk1QY1NpaWM4VkhtN0pxb3d5YWthZHZZLWJ1c1Exc1IycnZIVU82aDEyb1c4Qi1ZWWR4TGh4c2dqM1Y0X1pIMHRQby12UWtHZDhyQVRlR25lM01rdmdTaktqVEZTNm5pWWdWZXBMQ3QzcFN3a2tfS1VWWXNiel96QjQwbkg1TEk?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kale opens doors for Sharad Pawar’s entry in region",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVlR1dTY4bVFZRzQyQTl4WExtMFd2c3gtbkdhWTg4aDFKZjVqd3g1d3hqU05MNHZfTldTbVp3aW4xUjNUMTlld1NRSU94aVhZUEpwVU1MRDh3Z0pQMXQwUXJKeFBKelpvcTFNRDI0T25oZHowQk9fNDZuY0pQVVc4WUpSbWgwRFBNbkg0TUVLc0V5MXJ2R0NVamUxZDhpWXhEbG1oYTJXSEZ1WFhsd2Vqal9JSTZlLTlwbHBndm9iWFVhaE9ZUGNsSUNaQ2ZEQ2xvR1BES9IB2gFBVV95cUxNNTVsRTNsWlBrQkY5TnZXTWYydDMyV09FaEFxbkRzMG1SVTdubWZjaGkzREcyNHAydVI1YmJsQkZoeFJKSzZ0OUtJcmh1MHUxUnJMZWVieXFLNUhNM2hTTHdLdEJaT09aUmRyNHdrbmlKak5tNkRQdWVRZ3cxZFRCa0R1a1BnN1RRMlRqVTJNdlU3VzhwN09hRDl1TWFZUUdSRW1acURfNW03MmR3NUMtUkJwVm1MazAwUjlqeXRwblZxTmFmUkRScHAxYjg4U3pvUTdPV1hoMkZEUQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4634,
+  "notable_record": null,
+  "num_candidates": 24,
+  "party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "party_bond_total": null,
+  "party_full": "Nationalist Congress Party – Sharadchandra Pawar",
+  "pc_id": "maharashtra-8",
+  "pc_name": "Wardha",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180246.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Enhancement of MPs� Local Area Development Fund to ?30 Crore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Equal Financial Assistance of Rs. 2.5 Lakh for Both Urban and Rural Beneficiaries Under PMAY Scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Inclusion of Bhoyar Pawar Community in the Central OBC List",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 10
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 109
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/amar-sharadrao-kale"
+  },
+  "qualification": "Under Graduate",
+  "questions": 41,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 4,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 4,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 2,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Power": 3,
+    "Railways": 2,
+    "Women And Child Development": 4,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "RAMDAS CHANDRABHAN TADAS",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 43,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 21,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 2
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 106175044,
+  "total_liabilities": 29504353,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.68
+}

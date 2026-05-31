@@ -1,0 +1,454 @@
+{
+  "accountability_score": 41,
+  "age": 69,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 40066507
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 66300000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 535154176
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 91364965
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 732885648,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 985328
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 36622588
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3735372
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 889680
+      },
+      {
+        "category": "Life Insurance Poicy Kotak Life Insurance Company Limited Policy No 7559xxxxx 1,",
+        "value": 1085226
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 138154074
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6853644
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 52551805
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 10120451
+      }
+    ],
+    "movable_total": 250998168
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2597",
+      "total_assets": 983883816,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 983883816,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Cholenahalli Nanjappa Manjunath is an Indian cardiologist turned politician. He is the MP of Bangalore Rural Lok Sabha constituency. He is the son in law of H. D. Deve Gowda.",
+    "title": "C. N. Manjunath",
+    "url": "https://en.wikipedia.org/wiki/C._N._Manjunath"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "281, 80 feet main road, Padmanabhanagar, Banashankari IInd stage Bangaluru Karnataka, 560070",
+    "emails": [
+      "drcnmanjunath@gmail.com",
+      "drcnmanjunath.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9844006699"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "22/07/1957",
+  "eci_state": "Karnataka",
+  "email": "drcnmanjunath[at]gmail[dot]com,drcnmanjunath[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 15760987,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 7338690,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5529760,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 8122708,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 8291355,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 15701260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 14283020,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 12570460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 15039650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 14387150,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary and pension from Jayadeva Institute of Cardiovascular Sciences and Research, Professional Receipts from Medical Profession, Rental Income from properties, Interest income (from banks and others) and agricultural income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Rental income from properties, Interest income from banks, annuity pension and share of profit/loss from partnership firms"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 35% of MPLADS local-area funds were spent — ₹9.55 Cr unspent.",
+      "headline": "65% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 95546396,
+        "utilisation_pct": 35
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Anusuya Manjunath 3,50,000 3 Lacs+ Dr Satvik and Chandrashekar Joint Account 35,",
+        "value": 134845205
+      },
+      {
+        "category": "Refundable Security Deposit 92,32,720 92 Lacs+",
+        "value": 13301438
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 148146673
+  },
+  "margin_votes": 269647,
+  "minister": false,
+  "mp_name": "Dr. C N Manjunath",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 51453604,
+  "mplads_unspent": 95546396,
+  "mplads_utilisation_pct": 35,
+  "mplads_works_completed": 36,
+  "mplads_works_recommended": 200,
+  "mpsno": 5590,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-14T15:23:33.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Bangalore Rural MP C N Manjunath urges revival of Hosakerehalli Lake",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRjRZSEN0YjEtVkRmVUZ2VHhpbWQ0VGRsLTYwQUhxN0xQTE5DZWZjSmZIYWtGcVQ3c1JqcWZUeF93OU9nNTM3THI5bmdEU0Zla2xRN3VCaGN1Rl8yTDV1QTJ6TUJtVE04eVNMLWd6TTd5TlY4TkxIemxVenpaY04zc0JHS0VXQ0VHMEF2eDJqTXdHc2ttZVAwc3ZNX1FlMDJianhnelRVaWV1NTlzZlhlOEc3ODZfTl9aeTVsYlNLT2NXZjg3SUNQclFnZmZYcXQyYURzUVp1U01xa3lMR2hfdmN2SEo5alZXWEFUVg?oc=5"
+    },
+    {
+      "date": "2026-04-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Hosakerehalli Lake 2026: MP Manjunath seeks revival, civic action in B'luru",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSG0xMXQwSThDa2Z4ekRNZlZkZ3hLY0NTaTlqU1hxcWVuVTFVYzA0UU91YjJZbEhqNEY0ZExMZEladFJNT0EwSlp2am9LdndKVy1RT1NpSnhXMldSZ0VWbUdrb19SM191ZTlEWlZFWEtWdG43Wmd0WXFZVVgzTXEzY0xBQlViSi1Rdi1fa1FEdURRc3V1UVRDNzFwNGdQWDFwRTJoMmhhQkYtejlUc3JTYWNnTUx6NUdLLUtFd3lPemxOajhXN1pLYUhSRQ?oc=5"
+    },
+    {
+      "date": "2026-04-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Recital of Vedas aided Chandrayaan-3 success, says Bengaluru MP C N Manjunath",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWJQcEdLbkg1N0xVZVBDN1pSQVZWVEE1dHUyVlctZEprSUNBM0lWWmdLTGNnU1dXanA0Vml4c1hrSm5uSFZ6ejg5TDhYWlp3T2NvdE5heVFUV2xMUlB2Y2V1OVBQOGFSQzJ5S3JOWFo3ekRFd0JYTmdtSWJNUWVCM2EtXzZ0NFlMdHY2RGV4YVctT3NxQWdMRHpXTEZ4enhjM25fOTk0YmZGa1FYaXVSMXc4M2U1UDRCWWtSeE5TbnRpcnkzZ2hMWTdjZm5XQmxfa2ViUdIB4gFBVV95cUxPdFFGR1VmM24wUEd2LXBKTUNqMVczbzVXSWVyN0NyVEFDcTJOd3BFcnFGRVNpMU9oT05sSzFrcjhoaWpEWU5oa3MwSlVoRndVbFcxWUpRRnNmZ3dPdEhjdGxhMGRHbEJ4WUZpMFMtaExuRHFwQ2ZZMmVJWkpyRWtreVFKM0hVY1hqY3NYd2RiUjFQOUFmSFNjT0JRaU1FQVc3MVNKRElaTEhwTlVYUWYzZ3NtWGpBU2syT1B4cFFLM1pTMjE4RUNTbmhBZDVnYk9BR1VyZWlQNDk4YnNmOWpxTE9n?oc=5"
+    },
+    {
+      "date": "2026-04-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Universities have no funds to pursue research, says Manjunath at convocation address of Karnataka Sanskri",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPa05LeXlSWnZjUTROUHRvTFRTOE1HLTJMV1pLd1hiZHdDZWxvenZXa1pQMUtITnZobHBuTWJfdlhiTTVOcW5Ka3hQYkt3b0F2Nng2blM5aE5SWC0yb3VleFF5R1Rqc2kyaVhqYWV6M1lTdmMxbXUtTnY1OEZQLTJmVVpCWEZkcEJDaDE3Q0JxaTFFdlAxZF9uM1V2QUFyeDNWTDlTdFRaQXVjdE4zd3dQSHBaa3VWMXBOM3ZZRl9EdjJWaWRzVGhOMGtZektoSm1sbURaaFAzOWg4T0hiOF9qUUJRdEJ1YWhNcHpZYXFIYTBSTGNhOFZtU0JDX29iZlBXQ1AwTlZvaU5XUk45cE1TQ016dVJOcGdJRjFsSWRB0gGjAkFVX3lxTFBsZU9zVFI1TFhiT2ctdkZ1VmxQNUtEMXloTHcyN0FYVnRLQ25GYWQ2cTZLRmVNcWhuNWI1eXA2bFVYMXcyRTJKSlFoREFHeGxZTWlTWWt6aXJZUGdvRDFNNFpibE9NSG4weVJVb1VyN212S29jT1c4ZnE1TlRiYkVQWkJhaDB5LS1ZbmpKOXpQanZzQk5oNWtucWFiMUFqMmhMVDZPd2lqUFJ0Vl9ZeDdvc0l0R1BWU2k3TzVXS3RoQUFxSXBoNDgtVmVZbGpvZ3F3Um4za0hBRkthbWFLbkVjcHRmS3kxTmc1akJ5dENmQVNmanJNVlplOGJnVnVXNG9sRF9JeEZVWjJmRDRyS3A3bEZsY2J2Rm5uY05TeTBkSmoxaw?oc=5"
+    },
+    {
+      "date": "2026-03-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsFirst Prime",
+      "title": "MP Dr. C.N. Manjunath saves injured woman after road accident on Kanakapura Road in Bengaluru",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmNoa0hrcy15alJncE1iRGVtaUZlZGFZLXV2UmJaMnhSbUdES2IyT1hEblVCbWZzQk1QVGVtVHE5Z3U0WVRHZzYyVHV4YUU1ZlNEQ0NQemNsNWZXOVpjRHJuYWJOQU5VSmRxT2JyZXJTdDVINjFralZCcVE0UzFfUXRKazVBckZIbkxneTNaQ1p1UVJuV2RhSkMwazFkMDFHa3VTN3ZwWEpfanRmZUlJNnVLNnFJU2dFZjJYV1EwV1B0NXI3WWtCVnlIY2NsakJuTkE?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 10649,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-23",
+  "pc_name": "Bangalore Rural",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180168.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Consultant Physician and Cardiology",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "12.03.2026",
+        "title": "Supplementary Demands for Grants � Second Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Expedite STRR Project and Release Pending Land Compensation to Farmers in Bangalore Rural",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of Additional CGHS Wellness Centres in Bengaluru",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. to build barricades along a stretch of 31 kilometres to prevent elephant intrusion and provide same compensation to farmers as employee",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 13
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/dr-c-n-manjunath"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Textiles": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "D K SURESH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 41,
+    "criminal_deduction": 0,
+    "legislative": 33,
+    "mplads": 54,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 983883816,
+  "total_liabilities": 148146673,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 56.21
+}

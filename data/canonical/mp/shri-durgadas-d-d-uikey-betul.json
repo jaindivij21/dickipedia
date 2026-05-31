@@ -1,0 +1,345 @@
+{
+  "accountability_score": 87,
+  "age": 63,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 400000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5300000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 4500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 10200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 355000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 719232
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 1050000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5481569
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 682000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8288801
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=kiYJetDKSDSvCJum3tt",
+      "total_assets": 15413532,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1830",
+      "total_assets": 18487232,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 20,
+  "assets_latest": 18487232,
+  "attendance_pct": null,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Arjun Nagar, Ward No.2, H.No. 324/1, Betul Madhya Pradesh, 460001",
+    "emails": [
+      "dduikey12@gmail.com",
+      "durgadas.uikey@sansad.nic.in"
+    ],
+    "phones": [
+      "7141231600",
+      "9406959441",
+      "9013997231"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/dduikey"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/dduikey"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "29/10/1963",
+  "eci_state": "Madhya Pradesh",
+  "email": "dduikey12[at]gmail[dot]com,durgadas[dot]uikey[at]sansad[dot]nic[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1442070,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1521460,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1210600,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1169260,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 767472,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Retirement Benefits & Member of Parliament"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1182315
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1182315
+  },
+  "margin_votes": 379761,
+  "minister": true,
+  "mp_name": "Shri Durgadas D D Uikey",
+  "mplads_allocated": 151569503,
+  "mplads_expenditure": 82869394,
+  "mplads_unspent": 68700109,
+  "mplads_utilisation_pct": 54.7,
+  "mplads_works_completed": 281,
+  "mplads_works_recommended": 462,
+  "mpsno": 5057,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Betul election results 2024 live updates: Incumbent MP Durgadas Uikey of BJP wins",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZmdYejNLeUt1eFVjMmR1MXdKX203clVwVGJmYU13eVN4cm5ZR2d1WDIzcS1Tc3VIcEJjWFZsQl9waTNZdGVGZkZIWWJabVptc0JtWkdBX0QtS1lQNWU5YVd3Nlp3a2NSN3o1MmhGNG5SY0UzcXY1aXpQUlFQQlUwVjJuaW1aUU1jM1dWTUN3NGxBc0lOVkdBWHVscU1KNnoxdDVYMGoza0pXMHFrY3ZadUVQWTlPa2dqR2dwZTBTMEcwdFM1Znp0R0hIRFU2UWpEaHRXcUU4N2x5b2FJdU55bWJjLXYzOUt4WDVCamRhaS1fZkZNbDlVYXA4SnlKeFg5QldpdEZHaHUwcXB4U2lvWUVDLVpQUFRPb1hlZzRlS2RfNXFxdDB1ZC1ZZ1FObXphdUxMSlYyQjRkMWhXeEVKa0h6NNIByAJBVV95cUxOdmVZekJvNWdhZWdTS3RLNkxSZWZmSUZEOG1TeTlyN2FSU0VMUG5OOTllTlh4dXpKV2w3QXJDWXdFd3lRZ3ZPZEtmT3M5d0xtRngxUW1pb2t5MThSRUc5Y0xfQkIzU0VlSW8zbTdlcGlCUkdkSUdJWl9nWEpmQ20tR0p3aHBXUk9wd1dra1lQMjE4ckljT0QxQUx5MUdoN0RmcUNJa3VGbHlyTmFMVTIzQVNDejN3MVBaSmJQUDByM1AyNmRmVmJPME5CUWFhZUpBVjVxYjhjS1hfOFNtS0xOemNRb2xWVUtJbkFvSWhwbXJrZzhaZUQ1RE14OTIyT3l3QlZOenB4T2FHUkV3TTJuV2IzekNRR3lPaEFSVjZsYkNCWmNZZ0lRVUl4VDBFYk14c3daMHhwX0JKMDI1WUhOQlpiVFpkdjVr?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Betul Election Result 2024 Live Updates:BJP's Durgadas (D. D.) Uikey Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSS1ScTg1OUNmUWhFMUlzOXRMM19QZjhzMDNRdUprUGxYSWFVTDV1NHc3MWN0RGxxaE5IMDVYT1lKRjktM3FoYnlHTDVRdE4wR1BjdnZ4MWJhSGNCNi1XbHRYSGJ1dXVOcnJzVGNENVpBNV9tcU44bnNHNE5YMURmeGdsUzR6MmJPZnFRbmhTbWdjX1k2R2NfSldKRVlJX2hva3VpX25QdDlib1J1YlZqYUh2d2oya1QwTm1zWGNPRzVKenR5TkJtdNIB1gFBVV95cUxOQ3FMREQ0blVaQmVYVWw4OVdvUElZeDRzY2c4R2N2NGJFSjcxR0lUbTdtUkdrUFduQWkwN2ZXWldmemRhSW9xdDluaGJkNEZqdlNOWlZSOHhubVBwVFBWVUswNVo2czBjLVlBc0EwdVdPQkVheWRuMU5FeHByaW5DV09RbUlSaEFuX2N5Zm1WamxwRHhiX2JlYl9TNjBzR01SaVV3NDJiaGQ5QnUyV0hYYnlGcVJESlQ0blJCbUhMNHVEdDBuVW5wMnFOMVBpN0ZTa3A1em1R?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Betul Election Result 2024 LIVE Updates Highlights: Durgadas (D D ) Uikey of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3VNbDM3ZGRJNi1OejNGWC02WW1iSkRtNzlWS0hGa294Y1pTM21BMzlqcXpnVUxwalg5bXBIQTk5dTI2Z19QUHMyQmVZajZDU2tQUXhSWnNXZGtIN2hZQXVlS0dHUzV5a3BKeWZKNl9CLVhQV3RGOF9WQ1BNZHhKcy1lSXpXZmVnVl95aVRKNXc5Um9iZzRBVzd4c0tPMFkxNWtHMmZEYkl6R2pRZHpxZV9ncGtDTGVXN01iaHdxNE1kZUVZSTh4cGVSNVZ5b2RVVllhaktmSWJxSEtMRUFr0gHkAUFVX3lxTE1uZ2tGNUZxbmF4SU00RHNjR2xrbF9DVGZRcVpjakpnSUU3RFFrTzNxZEY0aEdXVDZ5aGtEWG5qRHh6OEtzVllOOXpLdHZKWHhOWjc2VmtGTjlPeHNaeDRZcWJPU0owQ0hCR2ZJN0QzRTRxVi1xMGRNWXluMkg5S01TcWl5SFRieUJmaEl6d0VOdGpPNFRPZ2hub2pIbG15cFBlbUx0VnlLVDZER2thV2NZSWNHVW43RlU1YmtXakNfQUlMR2xNQ2Z6VXpHRjBCejY5cjJTMGdtSFZfSlBxMjRESEdiYg?oc=5"
+    },
+    {
+      "date": "2024-05-06T06:12:36.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Durgadas (d. D.) Uikey, Bjp Party, Betul, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2FLZUpjb3VSU3JJM1M2N2ZiTmhCZXlzbEY2cW1xdlc5OFlKUlp6YURLYnRadWpMRk1tWWFlaDVqcmloVEpQMzBYQkV0ZG04eXBJdHhXdUVFYzBYUDdKOE1EeDFhQ0dQcXNDQzhhLXF0VU1VOHVsMGZsaFhSeTFaQ1UycXlYcnpoTEphenlaMVdNd1hNUDVDdm1ocENVTU83XzJzOWlUQWtQbzVmajVBSVcwc2FCOWk2NnRHdFJSdlhYMHdVX25MZWxjQ0Z0QUFlelZUdGtTRENtb1BqR0JqS0JsWGQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 20322,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-29",
+  "pc_name": "BETUL",
+  "pending_cases": 0,
+  "phone": "09406959441, 09013997231 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180224.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/durga-das-d-d-uikey"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "ST",
+  "runner_up_name": "RAMU TEKAM",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 85,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": null,
+  "total_assets": 18487232,
+  "total_liabilities": 1182315,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 60.76
+}

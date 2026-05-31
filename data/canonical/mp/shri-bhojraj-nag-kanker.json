@@ -1,0 +1,338 @@
+{
+  "accountability_score": 32,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 8000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 8000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 270000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 753680
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2330000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 1041260
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 4394941
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1932",
+      "total_assets": 12394941,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 12394941,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bhojraj Nag is an Indian politician. He has been elected to Lok Sabha from Kanker Lok Sabha constituency. He is a member of Bharatiya Janta Party.",
+    "title": "Bhojraj Nag",
+    "url": "https://en.wikipedia.org/wiki/Bhojraj_Nag"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Gram- Himoda, Post- Antagarh Tehsil-Antagarh Kanker Chhattisgarh, 494665",
+    "emails": [
+      "bhojrajnag01@gmail.com",
+      "bhojraj.nag01@mpls.sansad.in"
+    ],
+    "phones": [
+      "9770096124"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "07/04/1972",
+  "eci_state": "Chhattisgarh",
+  "email": "bhojrajnag01[at]gmail[dot]com,bhojraj[dot]nag01[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Former MLA Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹13.39 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 133895739,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 18,669 votes; the seat was won by 1,884.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 1884,
+        "nota": 18669
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 607061
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 607061
+  },
+  "margin_votes": 1884,
+  "minister": false,
+  "mp_name": "Shri Bhojraj Nag",
+  "mplads_allocated": 164672734,
+  "mplads_expenditure": 30776995,
+  "mplads_unspent": 133895739,
+  "mplads_utilisation_pct": 18.7,
+  "mplads_works_completed": 25,
+  "mplads_works_recommended": 72,
+  "mpsno": 5732,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kanker (ST) election results 2024 live updates: BJP's Bhojraj Nag wins against Congress’ Biresh Thakur by",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRGNvdnc4bmFONEhQX3BZbU9IRS1RWUZsb3p6dVNVMDZSUmZPX1hzaFlWRUdvTFB1TERkRzJCMHJWM3lkSDNDa1VXVENXQS1aV3VyMVQycHU3SWdZMEZVTGVNQ04wVHFwdVZfbkp4U3hnal9xM2ctbjNVaUM4TE9UUU16MVV5Y1YtZG1IcDh3VVBLRGRTbEk5QmJGblkwVDY1ZjBJanU1X2lqNTB5QjY3dXQ3R0FtLWVMTnlMdmE4X09XeDdoU0NJV3ExeTBaZWFWMS0xOUJpSUcwakVZWXVKdkY4Q1I3WlBYVDJZNXNsY0hEVHVxUDg2bzdob2MtMVpZRDBRRXlXVEx3ellSQ0lNbjZPNW1rRHIzMjEzM3gybTI4TGPSAagCQVVfeXFMT2l5WGlDUmNzSnpKWTV2bVpDWXZhTzMteE5TNUVSbk1OYzVkaVROVUVsRUtjR1FDcUxpSEVSUl8zc1JmdmZLQTVTN1Vkb0RjZVI1SGdxSkVqM2JON0NuNmhGWVhWTTlqS2Eza1p3Vl92X1lhWXluZTVzQW5sUHhsdHdpMU4xMTFEUEozZnkyTlFqQ0ZFZllqUHAzZUhqU0gzTEN5QmxQS0oxTFBoUmExcFhEalJuWkc5Tm1QN0ZsQXZvZ3NRQlZJMVdEdUFGdFp4TV84V2lKNzhZNEgwTGNHOTZLSnc3VnZEaVlvMUhGQS1NTzJtRUMyNnV3WUdkM1NLY01INkxEdkVYc3JyNzR5NWd0WHRncW1PajBPeE9xOTFIM0FlaGxwbVI?oc=5"
+    },
+    {
+      "date": "2024-04-25T10:28:13.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Bhojraj Nag, Bjp Party, Kanker, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYWxONmRXMmNRZk1YNl9TQVpaR3dYdlJzbW1Mbng2RFpqLUJRTjZMdGluN3NYRzM2dzlTOUFqcXlFMm5xbVYyZEZ6NDJhbE1xcmk5VWVGZ3ZBZEFOa3Z0MjkxeXZ0cmh5NXA4NTNRY3gyaEpQZmU2VU5IQnlpUElKX0VFRUV0OEpZNUZlVlpJa1hSZHFSOEtYRXBEYXhGQnlUNjgwUjg4U1FDcjhiQUZVUUwwM3JETDRhR2NJSVR0SzBYM2hBZ3ZPamZTaXgwQ1NCTGJlRjJZa29Odw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 18669,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "chhattisgarh-11",
+  "pc_name": "KANKER",
+  "pending_cases": 0,
+  "phone": "9770096124",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180084.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 87,
+      "value": 86
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Strict Action Against Illegal Religious Conversions in Bastar Region",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.3,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 123,
+      "value": 191
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhojraj-nag"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 9,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 3,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Tourism": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "BIRESH THAKUR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 37,
+    "criminal_deduction": 0,
+    "legislative": 32,
+    "mplads": 45,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 12394941,
+  "total_liabilities": 607061,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.23
+}

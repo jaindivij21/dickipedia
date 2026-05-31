@@ -1,0 +1,599 @@
+{
+  "accountability_score": 42,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 20000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8100000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 2500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6500000
+      },
+      {
+        "category": "Others",
+        "value": 340500
+      }
+    ],
+    "immovable_total": 37440500,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 183000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1272875
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Insurance Policy NO. 1K330238708 Yearly Amount 50000/- 3,50,000 3 Lacs+",
+        "value": 350000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 80000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3565000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 25000
+      }
+    ],
+    "movable_total": 5475875
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=gohoQRHhWDPFRrqHFRm2",
+      "total_assets": 24861970,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1936",
+      "total_assets": 42916375,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 73,
+  "assets_latest": 42916375,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Santosh Pandey is an Indian politician from the Bharatiya Janata Party And serves as the Member of Parliament, Lok Sabha from Rajnandgaon, Chhattisgarh.",
+    "title": "Santosh Pandey (Chhattisgarh politician)",
+    "url": "https://en.wikipedia.org/wiki/Santosh_Pandey_(Chhattisgarh_politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "H. N. 89, S LOHARA SAHASPUR SAHASPUR S LOHARA KAWARDHA Chhattisgarh, 491995",
+    "emails": [
+      "mpsantoshpandey@gmail.com",
+      "santosh.pandey666@mpls.sansad.in"
+    ],
+    "phones": [
+      "7741233100",
+      "9425246668",
+      "1123094446",
+      "9871880086"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/santosh pandey 44"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/@santosh pandey 44"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 1,
+        "description": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "section": "153A"
+      },
+      {
+        "count": 1,
+        "description": "Injuring or defiling place of worship with intent to insult the religion of any class",
+        "section": "295"
+      },
+      {
+        "count": 1,
+        "description": "Mischief committed after preparation made for causing death or hurt",
+        "section": "440"
+      },
+      {
+        "count": 1,
+        "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+        "section": "452"
+      },
+      {
+        "count": 1,
+        "description": "Lurking house-trespass or house-breaking after preparation for hurt, assault or wrongful restraint",
+        "section": "455"
+      },
+      {
+        "count": 1,
+        "description": "Deliberate and malicious acts, intended to outrage religious feelings or any class by insulting its religion or religious beliefs",
+        "section": "295A"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Joining unlawful assembly armed with deadly weapon",
+        "section": "144"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment",
+        "section": "109"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Assaulting or obstructing public servant when suppressing riot, etc.",
+        "section": "152"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "133/22",
+        "charges_framed": false,
+        "court": "Chief Judicial Magistrate, Kawardha",
+        "fir_no": "807/2021, Police Station Kawardha District Kabirdham Chhattisgarh",
+        "other_acts": "Section 3 Prevention of Damage to Public Property Act",
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "109",
+          "353",
+          "332",
+          "153A",
+          "186",
+          "188",
+          "295",
+          "427",
+          "120B",
+          "144",
+          "152",
+          "440",
+          "452",
+          "455",
+          "295A"
+        ],
+        "serial": 1,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "31/12/1967",
+  "eci_state": "Chhattisgarh",
+  "email": "mpsantoshpandey[at]gmail[dot]com,santosh[dot]pandey666[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1309340,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1117790,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 873390,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 884580,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 375700,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 421930,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 389150,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 377010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 298800,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 263570,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture, House Rent , Tower Rent & Member of parliament Salary and Allowances"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Tuition"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.10 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101018288,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3229688
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 3229688
+  },
+  "margin_votes": 44411,
+  "minister": false,
+  "mp_name": "Shri Santosh Pandey",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 45981712,
+  "mplads_unspent": 101018288,
+  "mplads_utilisation_pct": 31.3,
+  "mplads_works_completed": 53,
+  "mplads_works_recommended": 172,
+  "mpsno": 5015,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2024-08-03T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "Chhattisgarh: MP Santosh Pandey Criticises Congress Over Rail Expansion Claims, Highlights Modi Governments",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMGdtSnNlZTRsRXZscFczVWJ5SmhJYWlkMnNmd3BWSTh1bEp3UW1RVUF1SC00MmRaSk5xWC10U0E4NXZaMzhhd0YtR1ktUDluRkhPRU1ZeWNkenlscDRxeExRcTZEMXBxSVNXaHpocTdrbVhDR21hSTI3anVHbXl5MXBxZWFxMUw0T0x2MVJCOHF1ZE5NZFZGNVlMekZvcWE4cFY3VUhpWDBqb2tRLTc4YW9xRElONzdrbUdqRkhfNFA4VDFiZXpSLVVCLVZwTU11V2xGNy1VLTFLZUE3NjBtSi1hNVdwVExoeEV3NdIB8gFBVV95cUxQbW0tMTcta3BTa0lsUWhWLTBObXBqTkRBYjlCUzZ1QkJIam5wdHptQlJnTVYwUmt0VXhQVWlicFVuZHlVR0xZeXRhNUlmd3dOQi1EbDI2UmRhbENIVHh2aGd0djd3dzlzTjlnai1WTHRJQVFWeVdxNmhlOG40NkMzM0xJN1dJNjJ5c0xMeTNEdFRwb1Q2cC1oYW9GdDRJQTU5RDM1dnVVRDJJYVdhOFR2VU1ibU10dzBKeXFrNXhiWDhMQURpYTJpY1M4YzVwOVdyeU1WNjJpNll2bHZLV0o2ZnBmRnRfSzhwbEV6MC1HRmtsUQ?oc=5"
+    },
+    {
+      "date": "2024-07-30T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "IBC24 News",
+      "title": "CG News: Rajnandgaon सांसद Santosh Pandey को बड़ी जिम्मेदारी। Lok Sabha में बनाए गए BJP के सचेतक",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRl9PeTBEaG9LUU03Z3lneUF6eTUwbGViZ28xR2FNd1kyQXRseGlvc3Z6RHljUmtUSERzSk9KYlE0amZhY3dFdF9WcDJyY1JCUVNfR2g3Mk1oZF9QRGxfQWw2TFhiUm82a3hoc3lYZFNVTDVnVEZ3dDlZSWZNRVk0N0VkTWxpYmFxd0V4ZmIwM1djU19rTnFESm9BNVZQTWF2NmlkMmNvdjNaWEFTa0JiR1QwMXdZcVBETjZHN2d0RmNOTWtud2JRanl30gHPAUFVX3lxTE9FUEFrWEhpSlpPWmZra0VSdjJKQXNHcU95QWxteGQ0TEtYaC1reWNvWU9mdlB5akRGUFdSLVo1QjljTXFVQnBHNlQyYndUTThtaXNDR2ppSktFSFppNWxUU1YwZmpscVlmdDhYcGpBUVBmMHlRTUs3WWY2NmdoRjhSQmlsWU01dnUzVDZYX29PcWNBZzloeHNQQWMzR251Q1dYdWhRamk0T2RZYXlKcktYbmVTT2hUR3BKNk9tdjRtN3ZNYzhJMVk4RWRST0UwRQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Bhupesh Baghel Loses From Rajnandgaon Seat To BJP's Santosh Pandey",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWJndm1uTmJ5anNsYkItY09OcFdqbzFZWGFiZHlFOUJORExMUTAtSzl0WUVIQUhPOV9MRXB0dWZRMDFhOEZnRlh5RXZJSFlWOW9icGZoNjgyYVJvVzVkOEZpX2xNajNlck1JYUZWS0JwSl9FX200UjlsOU12Vm44Vkg0SkhmeW5oTWFRUGZEb1BZLXFJTDBIc1dhc2hocDBNZ3BQaHdxMFRWSjFoWVAtQWtVMWxMb1ZkekEySGc2aE5TTXI4bjlYX09tSzJlMHB2YW9qZExFdVHSAeABQVVfeXFMTldTWU1VTy0zOFo4WVVENHNFbFhuOEh1MFA3SlV2d2NTWEFJQUJGZGZaVzlETF84ZU02UU1EeWg1QjhIRTRMOExfRnV0NUs3aHNrYUo4M21xNm9iYUp3dEFlVV9yZjRHNjFBZm92T05reFd6SmRxZ3ZHaUdlY2RpV1phYTd2ODFfV0JCcUduLTNlS3RJSm1mRktSU2hqSExPYklYYUZkeEljRHhmTzc1VzJ4TkJxRXZLN3UwdS01VnpDTmIyTWNUYWhmVVA4bTJxZkRXM0xaalY1cWg5VnNZQUs?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Rajnandgaon Election Results 2024: BJP's Santosh Pandey stuns former CM Bhupesh Baghel",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWFZlN3pRVHA2eEZOUkd1Z2JYdUFmY3hCd1pzUlM4ZkVYSjFlR2NUTUJDSFdmU0wxMHVNZDVyVTlia1hTelE1b3dtenFpSTZoUWtwYWxvd0NDZEM4d0ZFM1NQbGZpbzQ5YkxTOFJ0V3V4SDZVellWZjZWWUFGMXlQdzhNM2lHMzBqOG0yZTBlU1BJV0FlTFV3bmpYQlBTZWEyODdSeG4wcWwybnVZQmRVTko0VENsb01aeWhuM0x6VU1GamZhMEllejdabTloZ0dtTXNleUttejFxNllYMHBPVFUtM1A4cmdPb3B5bkwyYnQ1WW15Und0MTVWZVdRNkRzMjdtWjY1UnRXdXdydXdRQ0ppUk9wMUnSAZwCQVVfeXFMTmJIaHpBNXVyOXA3cWFtYlZVRXdETmhOdnJRczd6TmU1MjM4a3BrcFVnTG5DalkydmNoNW1ZSDVDd1JnRU0xWk9ZdFJOcmo0RTFiaVNDcm81VHVpaF9sMTlZYksyQlNMWlh0U0Y5Mk4xT0RyTm1BMUlvNGdzT0NaZnFfTmxULTQzS1pMLTIzenJDZWVuS25INlJZNjFMTUtNYVRVV2pSRjkyeEthYUw1TEg2Rk1UT2lEQlUyTDVXZXRrYkk1cTNabDZYeFl4YkxkZnZHeU5zWHcxVm9qQjU1bUpQaVZ3cTk4dFRvZ09maFZKdjVtbExmZFJ3MmhvVFhiSV9heElsZkZiam1VRlpiZlpzZG5Ua3dlMVJvUWk?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Rajnandgaon Lok Sabha Elections 2024 Result LIVE: In the battle of Bhupesh Baghel vs Santosh Pandey, will Congress win or will the lotus blossom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV3ZucTNjNEVZNWZFb0Fnc0o4aWFQNHV0TE8tbG1SRjlwLVBtMjh6b3UtRW9pQzhqMl9tdXc1YXZnVTlURjNMblJLNVpNZjRNNnpnbWZEY1lPbExCeGR5MGFHVWp3Q1pESWhOWkYybkJTdjg2MDhscDVpWGhVZjRlR1QtSVJJMFpENEZTemVsdUhIeW9hdnJNOHF3VG83QmV4SXRuOHR4QVo1Nm9tSnZlMkdVUkdpc09lNWhZZjV3SU8zcXBBQ2FWblVFZlp3UQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9553,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "chhattisgarh-6",
+  "pc_name": "RAJNANDGAON",
+  "pending_cases": 1,
+  "phone": "Tel : (011)  23094446, 09871880086 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180092.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Farmer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 87,
+      "value": 92
+    },
+    "debate_titles": [
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Grant Central University Status to Indira Kala Sangeet Vishwavidyalaya in Rajnandgaon-Khairagarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Acknowledgment of Central Government�s Efforts in Internal Security and Counter-Maoist Operations in Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to provide incentives for the development of sports in Kawardha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Establishment of a Modern and Spacious Post Office in Kawardha, Rajnandgaon",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to construct permanent building for Head Post Office at Kawardha in Rajnandgaon Parliamentary Constituency, Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding setting up of a Maize Processing Unit in Rajnandgaon Parliamentary Constituency, Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.3,
+      "value": 14
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 123,
+      "value": 16
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/santosh-pandey"
+  },
+  "qualification": "",
+  "questions": 4,
+  "questions_by_ministry": {
+    "Education": 1,
+    "Health And Family Welfare": 1,
+    "Home Affairs": 1,
+    "Road Transport And Highways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "BHUPESH BAGHEL",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 46,
+    "criminal_deduction": 6,
+    "legislative": 38,
+    "mplads": 58,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 42916375,
+  "total_liabilities": 3229688,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 49.25
+}

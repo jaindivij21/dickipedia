@@ -1,0 +1,507 @@
+{
+  "accountability_score": 12,
+  "age": 56,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 112755950
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 55305550
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 229517776
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 67810198
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 466289474,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1646410
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2472167
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 123354960
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC 932741136 10000000 9,60,152 9 Lacs+",
+        "value": 1497010
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 124473273
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 60816383
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 13690622
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 300907598
+      }
+    ],
+    "movable_total": 628858423
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Maharashtra 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yMmH9syeh4toJ9unDYXB",
+      "total_assets": 11746325,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=yMmH9syeh4toJ9unDYXB",
+      "total_assets": 26619897,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7090",
+      "total_assets": 1075534826,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 9056,
+  "assets_latest": 1075534826,
+  "attendance_pct": 60,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "309 Tejaswi Sadan Gundawali Kalher Bhiwandi Thane Maharashtra, 421302",
+    "emails": [
+      "sureshmhatre1701@gmail.com",
+      "suresh.mhatre1701@mpls.sansad.in"
+    ],
+    "phones": [
+      "7272993333",
+      "1123350775"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/mebalyamama"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/mebalyamama"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "15/06/1970",
+  "eci_state": "Maharashtra",
+  "email": "sureshmhatre1701[at]gmail[dot]com,suresh[dot]mhatre1701[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 14280000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 14582220,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 12133460,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 7109780,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 5100899,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 8216380,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6736320,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 670460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 536300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1295819,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 248230,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 253330,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Income From Rent"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹1.17 Cr (2009) to ₹108 Cr (2024).",
+      "headline": "Declared assets grew 9,056% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 11746325,
+        "from_year": 2009,
+        "pct": 9056,
+        "to": 1075534826,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹106 Cr between affidavits, while declared income across 5 ITR years totalled ₹5.32 Cr.",
+      "headline": "Declared assets rose 20× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 1063788501,
+        "declared_income": 53206359,
+        "itr_years": 5,
+        "ratio": 20
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 28% of MPLADS local-area funds were spent — ₹10.55 Cr unspent.",
+      "headline": "72% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 105462213,
+        "utilisation_pct": 28
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 47771363
+      },
+      {
+        "category": "Sharda Mhatre Business Loan 1,33,00,072 1 Crore+ Earth India Finlij Pvt Ltd Busi",
+        "value": 248626677
+      },
+      {
+        "category": "Moje Pimpalas Pogaon Nimbavli Land Purchase 17,36,50,614 17 Crore+ Business Loan",
+        "value": 460161742
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 756559886
+  },
+  "margin_votes": 66121,
+  "minister": false,
+  "mp_name": "Shri Balya Mama Suresh Gopinath Mhatre",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 41537787,
+  "mplads_unspent": 105462213,
+  "mplads_utilisation_pct": 28.3,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 121,
+  "mpsno": 5644,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhiwandi election results 2024 live updates: Suresh Gopinath Mhatre of Nationalist Congress Party (SP) wi",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQc05nVWlUaGhSQ0JQQ3hHY01FRzNmRGRUaERIR3FHZGRuRHRDODVPZkZ2NXhnd0RuZklNOTd6cWNKM1NFTElfamN6cFRBOHlGLWg2WnBDTGozNXV0YVFrLTRMakNvOU1pVmJ6c3dKMnp3UEh0Mmk0SWhsSVBBSEhlSlNvelV1eUk2T21FTGExeWh2cE5ZcTBsa0hKX08xRGVMOFRZT2x2U01RWVVGMXM1SVFBeF8wYXVibDE0VjU1cHNlWHp5SDQxb3lLNzBSOHctVE1CZXVmcTRINFRWcGNseVlJcHpDUENoWmotT3dFeS14N0w2d3hqS2JCakFzVEFUeWhQZWxrVDJPZjNway1CV0dMQ2g5V0hOTnBCLS1R0gGjAkFVX3lxTE9CY0xORlFaUVFUcHJqZ0lBd3RrV255TnFhSnMtUDV5Z3FoWllwa1V0UFcxMHlWSnp2QW5NOHhhNGpMTUlVMFZCMjVubTNhUVR4cFRRQUZ3UFFydmsxV1FodDA3cGxZWnlpV0wzel9WZmZfaUlIZFF4TGN0NDRpQk1fMEtLUHI1VW4yekhwQ2ZQZzZJclVhRFB5SUlKcUxnYmJOeGVsWjdDUmdPeVZoaFJ0VmxEU0sybUQzX1RaYWNGVXk3WG9EaWx1TF9iR0VocUM1Zi1JdmRYLVlZYjQ2c21obm8tS0ZBZFlkWXVNN3hOd0tQRS1ja2hMRENYOGxJVkFpcU5UWXJqLV9pQnNfV3NwbkdBYlEtZTFhcmoxckVRaFVONA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bhiwandi Election Result 2024 Live Updates: NCPSP Balya Mama - Suresh Gopinath Mhatre Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3NhMlZROHhjcGtQZDAxeURxYmdYQWZ6QzBac2dBX2lkU2ZoUEFhUXNfZG5ROHVGbGp4UWpJT3d4RHo1a0oxNHVSVTNEdEN0OFc4Ym9WaXQ1bE5MRTM2bXVJaUJCY2lmTEtpM2tYUGN6eXpubjhLQXBpN21vUkptOVhMQ3dwb0x2NTZQaC1sd2I1d1J4VFMwUWdEMzNwYmdUQjEySThCWVVDT1RlLVMzT2E4YlZoVFZQdzJ4U1BuQVhZZVp3c3NWadIB1gFBVV95cUxQRVBWdlRNVjVYU2ZNX2xzbGttVmdFWDNiempHWENocng1N2dvdEktSExMLVB4QjJHd3FmX0pFb1l6VVFGd1pHVU84MlU3anBfSzJzaVhyWVIyYUExMlVtQTNrb2hlbGNDSFI3c3AwV0tzRFVIQ2ExdWMyZ1RzeEdUVFh0ZGhsWF93aHlabGY5VnJwZHdENlhkdEliSlhxZ1ljejhUcVU4YU1MalBZRXF6MnVGT1F2WE9JeFl6WG82Uk5pQWhhS1FxZHNLcjFyR0g2a3pvbG5B?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhiwandi election results 2024 live updates: BJP's Kapil Patil vs Sharad Pawar-led NCP's Suresh Mhatre",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNkpuUlUtejMxTDdJZUJTTE91OUVySXJRcE8xdkg0aFJMc3NmZmtjWEFfNF9BNVc3Y1dRS3FoaV9GdHZRcmRVNWVVLTRJaDBVejY5V1MtLWVrWEF3ZHJGWnNJeXN6aG1vcU94M2d6VzRKblJEZU9QOUpNaHVQT1JYQ2V6UENnei1QbFNBelRlQUlXTVVjd0lwamRjOGduVnNCVElEdUNtM1RCMGhqUnNtbWJCZ2d5V3U5dmkyazVIeXE4MWZTMXRpMlRCZ0hSczJrZm5kWm8tVVRZRHBZdmN5TXp5S2ttWGc1LUtVaWN1cHVUNU43alVzbW1QY9IBgAJBVV95cUxPbEh5T1NHdXJqUGVDRHU2VkxZQmg4X3dqUE1WbjBZVEVSQ2hGbXJ3czJoUlpSc1FFajRnZGlSTVJkdVNIRWxJVm0wUGZ4OWJwWlNkTktWbGU1YzRhSmJlcVlMZlNscWt5WHJxQlBGNVVhQTNJQmk2bFd6cUprMmNueTAwZjhIdldDQ1dmYnR5NmFXXzBtTnNxVlA2SXdRang4SnVYSVhQN0Nnak5iQ0cwVU5NWEgzOVBOZFJCNEZIaWpwNFd1c0tScE4waVk0elJWSzBqRkRHYzhPUVp3bnVwVERydkRhUV9uN21kRWdvVTBEa3RRWE5UYmtUWFk2NWxv?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 9347,
+  "notable_record": null,
+  "num_candidates": 27,
+  "party": "NATIONALIST CONGRESS PARTY – SHARADCHANDRA PAWAR",
+  "party_bond_total": null,
+  "party_full": "Nationalist Congress Party – Sharadchandra Pawar",
+  "pc_id": "maharashtra-23",
+  "pc_name": "Bhiwandi",
+  "pending_cases": 0,
+  "phone": "011-23350775",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180289.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 66
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Rename Navi Mumbai International Airport After Shri D.B. Patil",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.08.2025",
+        "title": "Regarding need to link Bhiwandi Road Railway Station with local train network in Maharasthra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to name Navi Mumbai Airport after Late Shri D.B Patil",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request to Merge Sub-District and District Hospitals for Better Healthcare in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Urgent Action on Mismanagement and Exploitative Practices of Torrent Power Company in Bhiwandi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Regarding need to include Bhiwandi in Smart city Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to expedite the construction of Kalyan-Murbad railway line project in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding various Railways related issues pertaining to Bhiwandi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 11
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 135
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-gopinath-mhatre"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 38,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "Coal": 2,
+    "Communication": 1,
+    "Corporate Affairs": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 2,
+    "Law And Justice": 2,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Panchayati Raj": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Statistics And Programme Implementation": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 2,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KAPIL MORESHWAR PATIL",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 0,
+    "legislative": 46,
+    "mplads": 36,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 1075534826,
+  "total_liabilities": 756559886,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 39.85
+}

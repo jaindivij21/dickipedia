@@ -1,0 +1,539 @@
+{
+  "accountability_score": 43,
+  "age": 50,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 135859625
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 1021550717
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 29357250
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 311884872
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1498652464,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1222664
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 28514443
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 571308053
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 47857069
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 87599220
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 175820979
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1829014
+      }
+    ],
+    "movable_total": 914151446
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3393",
+      "total_assets": 2412803910,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 2412803910,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Prabha Mallikarjun is an Indian politician and a Member of Parliament representing Davanagere in 18th Lok Sabha.",
+    "title": "Prabha Mallikarjun",
+    "url": "https://en.wikipedia.org/wiki/Prabha_Mallikarjun"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "2636/1, Shiva Parvathi M C C B Block, Davanagere, Southern Extension-DVG Davanagere Karnataka, 577004",
+    "emails": [
+      "prabhassmallikarjun@gmail.com",
+      "prabha.mallikarjun@mpls.sansad.in"
+    ],
+    "phones": [
+      "9844095353",
+      "9980133999"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/SSMDVG?mibextid=ZbWKwL"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/DrPrabhaSSM"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/drprabhamallikarjunss/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 8,
+  "dob": "15/03/1976",
+  "eci_state": "Karnataka",
+  "email": "prabhassmallikarjun[at]gmail[dot]com,prabha[dot]mallikarjun[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 37542530,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 20760610,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 29656960,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 23735280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 6122540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 840600,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 784780,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 718300,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 648080,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 605320,
+        "person": "huf"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1411220,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business, Salary & Rental Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Salary Income"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 24% of MPLADS local-area funds were spent — ₹11.22 Cr unspent.",
+      "headline": "76% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 112175000,
+        "utilisation_pct": 24
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "KB Giriraj 23,25,000 23 Lacs+ K G Nagaraj 15,00,000 15 Lacs+ K G Basavana gowdru",
+        "value": 247124278
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 247124278
+  },
+  "margin_votes": 26094,
+  "minister": false,
+  "mp_name": "Dr. Prabha Mallikarjun",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 34825000,
+  "mplads_unspent": 112175000,
+  "mplads_utilisation_pct": 23.7,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 96,
+  "mpsno": 5753,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-29T03:11:02.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Davangere ಬೈ ಎಲೆಕ್ಷನ್​ನಲ್ಲಿ ಜಯ.. ತಾತನ ನೆನೆದ Samarth Shamanur.. Prabha Mallikarjun ಏನಂದ್ರು?| #TV9D",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmtnVFQ1V1RpUnVzdmRXVW54Y1JDLXVVT0hnMXJFZDVmTkhzZW1UTnNlV1BCUFNqVWg3YzRNcDlLZThIVDNKMC1VQXhaNl9KLUYyVVVXS0doTXRWb2drV2tlZ2pmdXA5dWJWSEF3ZjNmcUNkTEg4eTB1VlJxLWdsWnhzOFlrdGM1THZ1cHIyZTY3azdhR1B3QnN6SDI1dTVHUWlwc3VKUTZqUjQ?oc=5"
+    },
+    {
+      "date": "2026-05-28T22:49:16.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Prabha Mallikarjun On Davangere By-Election Result Tomorrow : ಸಮರ್ಥ್ ಶಾಮನೂರು ಗೆಲುವು ನಿಶ್ಚಿತ",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFFWQzE3NXc0WWFUcXpOQl9sY3dOMW4tcDIwMjhVcWpPaDFDNGh3OXREWWpwN1l0a1JKQ010eGdqSzFVMERacTFwQmgwaklDTERfbWwwOVVzcElMY0hRSFhDWjk3MXNiZTU0NUtORXVXUk1hRU0wT2ZhZ3RCVlZrX2NIZkUzWWQ0bEF0X0o3c2hNMjhaZWV1MHhac0M2US12X1JqTEEwNmgxcmNha1FIcVpLZ0djNW1zalZPdkg2RERvN2dJNlNMcTJLR0dEUFBlT1pNMlllaVJhNjFGWWFya3RBVGZRT2F4eHhhOTBGUFh0Rnc5YUFpbHZB?oc=5"
+    },
+    {
+      "date": "2026-04-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Action against party rebels justified, says MP Prabha Mallikarjun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjVQNDdoOExWYkNZWHdkSjk4UTFVZWgxNWw5X1N3RHB3Wnlqb1RRSkJ3dlktME9rdTJlM1FfUXNleGVGdXhqT1d5Z0ZaOWJVQVJ3aFBaLVV5LWoxR3dYTDRneldxbHZVWDRwSV9mZ3cxSzkzd1ExbG5rNUlHeGQ3dXlIQ3VUT3JNTjEwS1BabGpRRzZ2OE5BYkE2UDMwdGdfVTBHUncya1M3dFpOVW9FQTVoU3FSUdIBuwFBVV95cUxQQXVFZDhDWjZUU0dCMVBOalpTWWdXNW1NRjl3bExuVE1CYmR0aHE2RlA0dm1ocS1OSGR0ODROcGNaaVYtajVvSEFqeWtYYzI4MW16LUgtUDFLZ3BQOXgtYnhsbFVjZUZsaTdDa3lOMFRqVXRzOUNLVFVwbXV2d0dJdU50TEQycVA2UmIxcVdwREY0azZicHQ1RFVObUxYMXF1ckJJZ1puSGc4M0liR3dwN0ZHNkdFdkh4REdF?oc=5"
+    },
+    {
+      "date": "2026-04-23T17:42:22.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Davanagere: MP Prabha Mallikarjun urges EC to review PM Modi's speech during elections",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQc05ESnllaVMteHdjd29PX1Nvd2FWampUREU5ZVU4RUx6NTU5eDNOdVhzbk1lR25ncUxWcGxhNTVoMzR6VnNjbDMybnhrRU95VHhjMTNPM2Y4OVAyRnloRFlldWIxWHA3VDNwNTFXc2JLeUVPZVZGb2puLXhyVEJyNzBzUld5dExyb3NjSllNRmN1d2tFUm10ZHBQM2dvMDhRWkhYR3B5dDBnQ05lSUVNZDEwWDNGSkJWYXBva3AzMVZYaHFNNFBKM2RYaWlLeVcwdjlJeG9QcFQ5cEFrQ0VWdl92c0NrRDVzSzNfa2dHV2djRnlRQjU1MU9tNm9aek5rSUdnaS0xaTRKUQ?oc=5"
+    },
+    {
+      "date": "2026-04-22T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Prabha Mallikarjun accuses NDA govt of branding opposition as anti-women",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnB3ZXFrNkZFX1JyX2J0TU5pQmF2RXQ0MW5ZVFhKc2dROUw4ck5uT0pxejhkd2NEWWQ2cUxneVRDNFQ2OFd6OWlUOUkzbzNPdzI4VkNPdnJMVjVZaHZnV3hrMEh0aWxZWG5FbUFRb0JSRFNBVDk0YnJZeU95ZmJrRXJwTmFZNlRsR2FDT2RhNnNRWWRnVFdTNUM1UWl1NURuNG0wT2ZWejYtYUNWSFVURnR0YW9NTGdVcjY0bEFzM3ZpVDJTWHlGSkRObG1IYzVHZ2J4SWpxbllLaFRwTkdSLWh30gHnAUFVX3lxTE4xeGg4czl0WHRfdS1Ld1BOTGQ3Yl9GRmJENk1wUHFTc1BqT2VqaEwxUGlWOGN2b3h4cXJra2RwRU92dlM2emhUdXBJVHhMZzF2RElRTVBQXzg4b2hkYWtTMTVnUlJPMUYxS2psVEZ3dTV6NGRCZ29vZXRMeWJ2bjRvSS1hMmViNEh5NUVJdDhQU3ozTkVUcEs3NWl2bHowcHdocmhpVURHR2VpSlhzYjNUaTFJNU1zbllpTVZCR2hPaXRqVnhGLWxPT3JrcjlqWUNsMG5DOHZMRXN4UEhGY0FBb3cxbnlsYw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3176,
+  "notable_record": null,
+  "num_candidates": 30,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-13",
+  "pc_name": "Davanagere",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180180.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Service",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 81
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Immediate Government Intervention to Protect Jowar Growers and Ensure MSP Implementation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the problems of mobile connectivity in Davangere, Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to raise the ESI ceiling and institutionalize periodic revisions",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to increase the ceiling of insured persons under ESI Act, 1948 from Rs. 21000 To Rs. 30000 per month",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Rising MRP of Essential Medicines and Its Impact on Patients",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Concerns Regarding Phase IV Guidelines of PMGSY and the Need for Provision of Alternative Roads",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Protect Areca Nut Farmers in Karnataka by Regulating Prices, Imposing Import Duties, and Establishing an Areca Nut Board",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Expedited Approval and Execution of NH-173 Extension to Boost Karnataka's Economy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to increase the central share in the honorarium of mid day meal workers and helpers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. to upgrade SH25 as national highway from mariyammanahalli to shivamogga in the state of karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 25
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 87
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/prabha-mallikarjun"
+  },
+  "qualification": "Graduate",
+  "questions": 17,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Commerce And Industry": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "Health And Family Welfare": 3,
+    "Jal Shakti": 2,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "GAYITHRI SIDDESHWARA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 43,
+    "criminal_deduction": 0,
+    "legislative": 51,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 2412803910,
+  "total_liabilities": 247124278,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.95
+}

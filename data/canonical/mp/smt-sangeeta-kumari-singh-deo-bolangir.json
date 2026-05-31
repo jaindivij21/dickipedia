@@ -1,0 +1,720 @@
+{
+  "accountability_score": 20,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2200000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 330000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 14600000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 248400000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 595200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 146000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 11694835
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 20790740
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 23913312
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5290000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 16014002
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 77860630
+  },
+  "assets_earliest_year": 2004,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2004",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BvFR2kqnBnW9DhFZhAts",
+      "total_assets": 26899686,
+      "year": 2004
+    },
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BvFR2kqnBnW9DhFZhAts",
+      "total_assets": 45688804,
+      "year": 2009
+    },
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BvFR2kqnBnW9DhFZhAts",
+      "total_assets": 62357000,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=BvFR2kqnBnW9DhFZhAts",
+      "total_assets": 379590851,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7154",
+      "total_assets": 673060630,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 2402,
+  "assets_latest": 673060630,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sangeeta Kumari Singh Deo is an Indian politician and the wife of the titular Maharaja of Bolangir, an erstwhile princely state located in Odisha. She is the current Member of Parliament in the Lok Sabha from Bolangir of Odisha representing the BJP. She is a member of the National executive of the party.",
+    "title": "Sangeeta Kumari Singh Deo",
+    "url": "https://en.wikipedia.org/wiki/Sangeeta_Kumari_Singh_Deo"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Shailashree Palace, P.O. - Patnagarh, Distt. - Balangir, Odisha, 767001",
+    "emails": [
+      "sksinghdeo@hotmail.com",
+      "sk.singhdeo@mpls.sansad.in"
+    ],
+    "phones": [
+      "9810152090",
+      "1123368330"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/sangeetakumarisinghdeo"
+      },
+      {
+        "platform": "instagram",
+        "url": "http://www.instagram.com/sangeetakumarisinghdeo"
+      }
+    ]
+  },
+  "contracts": [
+    {
+      "detail": "Director with Dasmati Enterprises Pvt. Ltd. which entered into a contract to become a dealer of M/s. Avanti Feeds Ltd., Kovvur - 534 350, West Godavari District, Andhra Pradesh.",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      },
+      {
+        "count": 1,
+        "description": "Malignant act likely to spread infection of disease dangerous to life",
+        "section": "270"
+      },
+      {
+        "count": 1,
+        "description": "Act endangering life or personal safety of others",
+        "section": "336"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": null,
+        "fir_no": "PS Case No. 29 Town P.S Sambalpur Date 21.02.2021",
+        "other_acts": "Section- 56 Disaster Management Act, Sec- 3 Epidemic Diseases Act",
+        "sections": [
+          "143",
+          "269",
+          "270",
+          "336",
+          "353"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 13,
+  "dob": "03/12/1961",
+  "eci_state": "Odisha",
+  "email": "sksinghdeo[at]hotmail[dot]com,sk[dot]singhdeo[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1235340,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1299680,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1749790,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2537920,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 381375,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 985660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 850460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 705280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1307074,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1622635,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1109576,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 951230,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 814540,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 895570,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 955380,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary ,Rental & Agricultural"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary ,Rental & Agricultural"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹2.69 Cr (2004) to ₹67.31 Cr (2024).",
+      "headline": "Declared assets grew 2,402% across 5 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 26899686,
+        "from_year": 2004,
+        "pct": 2402,
+        "to": 673060630,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹64.62 Cr between affidavits, while declared income across 5 ITR years totalled ₹72.0 L.",
+      "headline": "Declared assets rose 90× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 646160944,
+        "declared_income": 7204105,
+        "itr_years": 5,
+        "ratio": 90
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹14.58 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 145767205,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 7500000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7500000
+  },
+  "margin_votes": 132664,
+  "minister": false,
+  "mp_name": "Smt. Sangeeta Kumari Singh Deo",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 1232795,
+  "mplads_unspent": 145767205,
+  "mplads_utilisation_pct": 0.8,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 228,
+  "mpsno": 426,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-12-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Sambad English",
+      "title": "Bolangir MP Sangeeta Kumari Singh Deo conferred with Best Woman Parliamentarian of the Year Award",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFFsS0VrY2xqeHQ2dUE0eUNrdVhNWnc0TjVPZXlPN21NQlJsVF9ibVJucjRHaklIUm1PdThpMkl6eWpFMWE4RVlUb1NGUXlieVAxOWV1cHI2ejBlTjZSSGNkMWhHZXZKWFRRQkl6SU9RRmNoUV8tMHdJTzc0akVodHZtM29qUDdLcFY3eFZVeGFPUXRoV0pfRFhXcVhtNE5XbDZ4aXhmdDJ6OG4xNTNnVXhIaDdXeEN5dkRpRk1OemU4VnZOVDdYSjlCbW1ZeEotS3h1YUplWG3SAd4BQVVfeXFMTWlBRUluaXJaQlBPOG85SzIxR0pJTVZJalBqUzRSaERYN3c5bnZrMzZSbzU2R25Zb24xQWh4ejdBdnQtUk5SRXVvSlhPWGlpMHhnMElOMU95QWlNMjJGdjU2N2pZT1h1THRrVUx6Yk1CdjVnay01TV9sQ2dyQmFMSTc2RlI0eHp4a0M0OTJNVW5taXdOdnY1REpkQlJsNENJVzNFX3hnYm5qai1zaWxJVFBxeS1sR1ZDZEJ1cFgzRWFUNzNHUExSNnRCeV9IeFNia3FjNjFfRE51cmRyNGFB?oc=5"
+    },
+    {
+      "date": "2025-12-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "pragativadi.com",
+      "title": "Bolangir MP Sangeeta Kumari Singh Deo Wins Best Woman Parliamentarian Awards",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTd3ZGNiZWFmQ2R5QWt0MUhzQU1CWDhRTUxOVWd3WjJOb3U0WmhqTzJtbm15bmZqR0ljeWp3ZGZKcTQ3UUtaOExka0V3al9laFY1SG5VckM4YU5rWEZ6RHI3LUFHQmM5aEZTV0F1M0VYRkQ2dnUwU2VabkF5S0JLdkFtRm5qUFJfRjV3NGVvMXh2VVMtS0JpSDZHUWhRMVk1bm9N?oc=5"
+    },
+    {
+      "date": "2025-05-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "Dy CM Singh Deo Holds Talks With Prez Murmu On Odisha’s Progress",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0J4X2VNS184cXVvZndwZmZIeEYzOUY4YkY0OHUyTW9mOWJHbXQzcjRZdHEwRzU5SGtJNUNhWVBSUkNQblpBcnV3Wmx4SERNNHJSOFRiVlJxbW1YWUFqN2k0a1NfMkZHdHlIQVAzcmNsNUQ3VUJWS0dVSG9ZQVgyNUx6anRTRExVZ1pjeVVNMEZkT0Y5T1h2dnJiRzVYTGF5?oc=5"
+    },
+    {
+      "date": "2024-11-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "Dy CM KV Singh Deo Inaugurates 33/11 KV Power Grid In Balangir Dist",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEptV19ldjE2LW9xXzVmeUdGbEpGcm9oQ3hEODFJTUNiU19kQ05rbEhiODFrLUxjRjN1dkliT0FKYTZxUlRqbjE1bmp0aUVScHdDZ1R1ZHY2aDZwbkd1OHBTRFNqbU5qSXhsNFV0elFLbjRsRVVRU29HMDlKbEJMaUZxcDgteE9oTnpRNkJKTVp3SWxoM25aWmNxcXJkT0N1bkNtWHp3?oc=5"
+    },
+    {
+      "date": "2024-06-21T07:58:30.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sangeeta Kumari Singh Deo , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHRGSWFGaEljVmJld000S0puaGFqZVNKbDc2UUpJTk83eVJUQ19idmZYZHpWMnIzRElpbWFWZ3dsY2FIUFptUm9kUjM3TjRBNkNSSVdJa0E4SXBieHh5Z2tyejVVbnNfeGozcW02OEdsaGktV2hRNWZ2emlYOU9kZjBYN0J5WDdkNWN5SXdjQ0JueVpn?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 16064,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-10",
+  "pc_name": "Bolangir",
+  "pending_cases": 1,
+  "phone": "Tel: (011) 23368330",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180316.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 79
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to expedite implementation of In-stream Storage Structure (ISS) on Mahanadi river near Godhaneswar village in Subarnapur district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need for timely lifting of Custom Milled Rice (CMR) pending in Balangir and Subarnapur districts in Odisha by Food Corporation of India (FCI)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need for comprehensive measures for expansion of irrigation, completion of pending water projects and to ensure availability of potable drinking water in drought prone regions of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to expedite auction and operationalisation of pending mineral blocks in Balangir, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need for approval for establishment of Mega Food Parks in Balangir district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Remove District-Wise Barriers in Cotton Procurement by CCI and Allow Flexible Registration",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Permanent Activation of Intra-Circle Roaming (ICR) Facility Across Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Regarding need for permanent activation of Intra-circle Roaming facility for BSNL subscribers in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need to ensure mandatory attendance of Block Development Officers (BDOs) in District Development Coordination and Monitoring committee (DISHA) meetings",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to formulate comprehensive policies for sustainable repurposing of mine voids in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Amend MNREGA Guidelines to Include Rural School Infrastructure and Ensure Timely Wage Payments",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Immediate Investigation and Action on Phosphogypsum Waste Disposal Issues by Paradeep Phosphates Limited in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Extension of Target Achievement and Utilization Period for Incentive Funds under (SASCI 2024-25) until the end of the next financial year",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "06.02.2025",
+        "title": "Regarding need to formulate policies for sustainable repurposing of opencast mine voids with fly ash",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "06.12.2024",
+        "title": "Regarding need to include �Kuli� as the synonym of �Kulis� in the list of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Issue concerning violation of rights, harassment and mental torture to lady officers in UCO Bank in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Regarding need to establish an Agriculture college in Balangir, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Request to set up several agro-based industries in Subarnapur and Bolangir",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt for intervention for the development of western odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Urge upon to minister for the establishment of a fisheries college in Subarnapur District of Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding setting up of a new textile mill in Bolangir, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 35
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 95
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sangeeta-kumari-singh-deo"
+  },
+  "qualification": "Graduate",
+  "questions": 25,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Defence": 1,
+    "Development Of North Eastern Region": 1,
+    "Education": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Information And Broadcasting": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Parliamentary Affairs": 1,
+    "Ports, Shipping And Waterways": 2,
+    "Railways": 2,
+    "Road Transport And Highways": 1,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Social Justice And Empowerment": 2,
+    "Tourism": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SURENDRA SINGH BHOI",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 39,
+    "criminal_deduction": 1,
+    "legislative": 64,
+    "mplads": 1,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 8,
+    "track": "parliamentary",
+    "wealth_deduction": 26
+  },
+  "serious_cases": 0,
+  "terms": 5,
+  "top_inference_severity": "extreme",
+  "total_assets": 673060630,
+  "total_liabilities": 7500000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 44.12
+}

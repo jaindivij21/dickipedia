@@ -1,0 +1,453 @@
+{
+  "accountability_score": 42,
+  "age": 34,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": null,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 180000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2291566
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 26716621
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 18900000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 46600000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 94688187
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1900",
+      "total_assets": 94688187,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 94688187,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Yaduveer Krishnadatta Chamaraja Wadiyar is an Indian politician and a royal scion from the Wadiyar dynasty, currently serving as a Member of Parliament from Mysore since 2024. The great-grandson of Maharaja Jayachamarajendra Wadiyar, Yaduveer Wadiyar was adopted on 10 December 2013 by Pramoda Devi Wadiyar after the demise of her husband Srikantadatta Wadiyar. He was installed as the titular Maharaja of Mysore in a private ceremony in 2015.",
+    "title": "Yaduveer Krishnadatta Chamaraja Wadiyar",
+    "url": "https://en.wikipedia.org/wiki/Yaduveer_Krishnadatta_Chamaraja_Wadiyar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "The Palace Mysore Mysore Karnataka, 570001",
+    "emails": [
+      "ykcwadiyar@gmail.com",
+      "ykc.wadiyar@mpls.sansad.in"
+    ],
+    "phones": [
+      "9845127054"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "24/03/1992",
+  "eci_state": "Karnataka",
+  "email": "ykcwadiyar[at]gmail[dot]com,ykc[dot]wadiyar[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2842970,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 851340,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 168330,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6200,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 4000,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Directors Remuneration, Dividend, Interest Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "Mutual Funds"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 31% of MPLADS local-area funds were spent — ₹10.11 Cr unspent.",
+      "headline": "69% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 101124000,
+        "utilisation_pct": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 139262,
+  "minister": false,
+  "mp_name": "Shri Yaduveer Wadiyar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 45876000,
+  "mplads_unspent": 101124000,
+  "mplads_utilisation_pct": 31.2,
+  "mplads_works_completed": 14,
+  "mplads_works_recommended": 162,
+  "mpsno": 5682,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-17T12:29:08.000Z",
+      "flagged": false,
+      "publisher": "Star of Mysore",
+      "title": "MP Yaduveer Wadiyar flags off Mysuru Heritage Car rally",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1R2WjlPa09XQTlUaTI5dVBIS1ViNGdDeVBSY2JKbmhrOGZRWEtxbmVDWGRpZ2tYeW1TTkEzYVYtSHFGUzdlLXBFWWdvdnFRcDVzazcxUzcwbWxBanhUeGNVWmRya3hxSWRTc0dvS3Y5Qzc5SGRQSENTdnROMmFwVVhxZERCTnVE?oc=5"
+    },
+    {
+      "date": "2026-04-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Sun",
+      "title": "Cassandra Fernando and Yaduveer Wadiyar meet Melbourne Kannada community at Ugadi gathering",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLUdKX1hfcjJHZm9TTUtHcEU4RTI2Y2FWWlE0NGNoWmcxN1dxRXAteUMzYVkxYmRGRjBkX1Z2Tk5ObkFMSjg2LTF0dlp5UU1GN2s5WFJHNTRIbVdzQlBzVmhHU196UXdIQ2Rja3pxZjNnOGdmaG4xQjRGUFNrVjBBdWJxR1V1SVg5M0p2N1hHeXRWWnJqSERaZGRiaHYxTl9fLWZNYmhwazhDVHhrd2ZTWTJWOWRRWnpOSG1odnVkcEhjUEFmcUM5X0sxcmxBV0ZU?oc=5"
+    },
+    {
+      "date": "2026-04-01T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Press Trust of India",
+      "title": "‘Mysuru Maharaja’ Yaduveer Wadiyar 'does not own house, car or land'",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1M3bU5VMkxRTklUaXNEVzB0aG80QmFKZkJ0a19MemV4Vm5NZVFoUlNSZWVTV1NPcHdsVFdSVXktSHR6Z01LckZ0VExBd1ZGMm41R0luZFVDdUJaeTR4NVAtWU9WMjN6a2FWandnTkk5VTI2alBINEI0VzktTTZqZFBQTnlBQkhOWXg1Z0htRlYxNGJnU0dQelJsQTZuV3RKUnlIMHcxRjFvckRuTk5hTk5B?oc=5"
+    },
+    {
+      "date": "2026-02-23T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Yaduveer Wadiyar slams Karnataka govt over Centre blame, KSIC land",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkNJNmpGbVNTbTBweFQtS2xZTUFfLXZ2TWNXd1BwOWVER25MX05pM0FkNFR3TWktM1pzN0hqSVVtYjlMWVNfT1l6Vm9zeWxocHJibVZ4M0llcHRTeTg1dWJ3R2I3cmdCRU1tR0hOUDdfeXJpN3gySXJZNmttU1U1T2tqX2FMeS1OdkhHZm8wQ2txY2hSQ0tvWjRibXdQNEYxZGh3TXV0OUtiTW41M2NScF9VWEdXVWlz?oc=5"
+    },
+    {
+      "date": "2026-01-19T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Udayavani",
+      "title": "Mysuru royal family and Udupi share two-century-old ties: Yaduveer Wadiyar",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW8tdHdCRzZ4ZVhhby1zc050M2NDZ2pCcFo3X1hzbFY5aFIybDZadnJfMDZadVg1NkF5eWxSUERUZlhsRjdQOE01NGpqZ1BFdV9SNF9lM0I1X2JVdDVYZjRRaUprcVVHY3hfZHZUN3Z6a1ViY2hhalZlVHVCUHdBS0Z2QzJkUnp6RWdGUDJGNXZ6VFdVWUNFT3R1MDJWcE9i?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 4490,
+  "notable_record": null,
+  "num_candidates": 18,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-21",
+  "pc_name": "Mysore",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180192.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding the law and order situation in Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for a Heritage Urban Development Framework for Mysore and Other Heritage Cities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.08.2025",
+        "title": "Regarding establishment of regional sports academies in Mysore and Kodagu, Karnataka to promote indigenous traditional games",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to establish an NCB Task Force unit in Mysore",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal to Safeguard Bandipur Tiger Reserve and Uphold Night Ban on NH-766",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Immediate Action to Address Health Hazards Caused by Unscientific Solid Waste Unit in Hale Kesare Village, Mysuru",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding preservation of heritage buildings in Mysore",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 16
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 104
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/yaduveer-krishnadatta-chamaraja-wadiyar"
+  },
+  "qualification": "Graduate",
+  "questions": 20,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 2,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Power": 1,
+    "Rural Development": 1,
+    "Science And Technology": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "M. LAKSHMANA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 0,
+    "legislative": 41,
+    "mplads": 43,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 94688187,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.59
+}

@@ -1,0 +1,533 @@
+{
+  "accountability_score": 42,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 350000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 119525000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 122875000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1000000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10119884
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 10276537
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "HDFC Bank Policy No 2344xxxxx 4,11,250 4 Lacs+ HDFC Bank Policy No 2387xxxxx 4,1",
+        "value": 4754123
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6732000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 32882943
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5102",
+      "total_assets": 155757943,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 155757943,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Krishna Prasad Tenneti is an Indian politician, a retired IPS officer and the elected candidate of Lok Sabha from the Bapatla constituency as a Member of Parliament of the 18th Lok Sabha and also serves as a member of the panel of chairpersons. Krishna Prasad serves as the member of the panel of chairpersons of the house and helps in the smooth running of the Lok Sabha. He is a member of the Telugu Desam Party.",
+    "title": "Krishna Prasad Tenneti",
+    "url": "https://en.wikipedia.org/wiki/Krishna_Prasad_Tenneti"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Plot 5, Prashasan nagar Jubilee Hills Hyderabad Telangana, 500033",
+    "emails": [
+      "kp1080@gmail.com",
+      "mp.kp1080@mpls.sansad.in"
+    ],
+    "phones": [
+      "8008041185",
+      "9440627999"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "02/03/1960",
+  "eci_state": "Andhra Pradesh",
+  "email": "kp1080[at]gmail[dot]com,mp[dot]kp1080[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3333546,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1640082,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1351449,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2773776,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2653697,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2852989,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 822556,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 946813,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1075484,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 799307,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension, Rentals, Gain from Mutual Funds, Interest from savings accounts in banks and Investment Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "Consultation Income, Rentals, Interest from Savings Accounts in Banks and Investments Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹16.17 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 161667142,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 19400000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 19400000
+  },
+  "margin_votes": 208031,
+  "minister": false,
+  "mp_name": "Shri Krishna Prasad Tenneti",
+  "mplads_allocated": 167796849,
+  "mplads_expenditure": 6129707,
+  "mplads_unspent": 161667142,
+  "mplads_utilisation_pct": 3.7,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 134,
+  "mpsno": 5680,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-02-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Indian Express",
+      "title": "TDP MP who objected to Congress leader referring to LS Chair as ‘yaar’: Who is Krishna Prasad Tenneti?",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTllpcXRtX3VwYmVOLXFLZWo4d3V3bGYwR0JrTkNlbUxTZ2x3RnZyWTZmTUMtOVRacHRzb2JhYWM5VTJyQlFtS3NwU1l3RTFnX2lpT1RWV2hRc1ZCeW9rWW53RWN1QzZwWFRTcjN1bUJxTkx0ano0SHBUZHdsZkl0TkJtSEMxMVRSbmZRb2k4MTlpbzdmOGl0VTZUdHN2N20zS1MtbzRnZmxrcjZXMWl0WS1lM3RIb2g5UU9lZzBxQzhzQ0pZeWlFYnlxRmFNY0s5aHBRVUY0eHhxTEFrWTdYWG5lcGFzRnFfVHljQUNIY9IB9gFBVV95cUxPenV1X2d3aGdJVGEza1B1VFBBMkREWkdDdVY5SFUwVVhqU1h0Y3Vld2gzZnNnWldNRjR1RHl1Qk1PZU5BU19uNndnVTN5dG85R1RiVUlXdkdWa3lnNXdwejZnMzNxMy1EaEE0bUJDT0E0SmhpVVpSdm1Odl90dncxYzIxWl9PYmhWdUd5cGl4VUQ3LVhjaWYxaGdWa3Y4eUhNMDVVN2dtMWlUeHpzQnR2RWlwbzJDV3hUZzZxRWI5cWVRc01zbUJUOV9UamZQUjBoZWdyT1pady1maV9tYWo3Rk4yeUFfRFFGcmhXRUZQd3cxeWw2blE?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bapatla (SC) Election Results 2024: Krishna Prasad Tenneti of TDP triumphs in Bapatla Loksabha constituen",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcXJtRHNkRWFEWm5mVkpfRWZfa0pPdU9kS1VwVzBSS1FJRGNIWXpjRUVLY3RpUlVrTlBBemVmX0drSld6V040S2VMcXJ6MGlTc013cUVnSlVQaUJwLUJNN3NaQ0NScV9rcW41Wi1sMFplZzcySlNvamtVWktNWWZKOU4xeWhNTjZPRWl2N0ZGNkdfcGZSMXZYSHd3N1c1c2lFNnR0YS01WWt0UTAwYlhpdjR3ZG5YaFJpbDF4MWdQWGQ3RUpoN3RNTDRqaWU5RFBkWW5WdWJRbDFOMHNndVY2eEpyVXZCcFFoRlp4Yk9HNmpVaFRhTlV2UUl3cDNWQUk2c2hLSUJBMzZzaGxDMnZVRWY2WHYtZkFPNHVKTXhnTDd5Y3FLd3lLQVYxS25jdXZFUmE3VmpjNm9xcnMzLXY2eGktZGNJejc5T2RCZWFXU1V1NlNYQnhVN1ZzdEpURGt5bDh6bEIyZGzSAe4CQVVfeXFMTlFmMFFocGdiV1VFN09ZdnZlcXpCWjdRUno0SXNUZUpnN1F5SHpBUHE4bjlpaFJYOGQzamJjTll6ekFTNzVYdXdhZjktZjVQM1ZlME1SbHdrTm1qMlFNYzdSRFFNSU9tRGJCeko1MlJBX3VkeGRMN3ExSmh3THMxTjJvMGVDZFZ5TnA5dGJDNmVlT3NNV3Z6TEdWTk1VbzNhcUZ0SlV6cUg0S05KRVRYc241OEFmZ28wcWIyWlF1Vzg4TUJfcHloZTRyeEEzYy1hNlZwWGRZNmZ2V0RpRXVlb0o1Q2V6Zk9FM01XUlNGZDhGeGtvbTRSaG1GQ2hGSUc0bWpKNXJvUTROWUZuREMwMnhualdhVHpXOWJuMFdiRXhXZm1XTWNzWHV1YW9ZbFRXZTBHS2hTOVJfN2RtTFF2dURXWDluN0JkTjVXQkhKVTF4LTJBQ0ZQVWJUeG1SY3UyTE1sN2dZVXczSDJGMWhB?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Bapatla Election Result 2024 Live Updates: TDP's Krishna Prasad Tenneti Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1oxVWM2alhqRDVxWHZjMTFUY2dEMVVNNHFzNXNBT2JlVlp5THkyYnVUVk5YSWRoX0s0QVlIejMwQ3cyWkZySFpiSGhwb3VINjBmeGR4VkdIZUUwNWlWajFhRUplUjR6dFZ5VFNXdXFvazlsS2Q3T21GWC0tSzN2TTZiLS1tN21QeVM2OXpHTDhUQXJJZGVCN2VxN2psb2ZjZzM3VWg4Y3NYVHJibXZXVlpIdkZUMzBjZkFsQk1jVmUzOWZ0QVFPVlJpd3hLUdIB2wFBVV95cUxQdm1tbHZPa2Q2Mm5uQkNLNWZQTEQ0NXR0TE55a0VMejUtZWpKajM4NG1zSTdkNWlKd293c3J0cjF2ekY5ejBOZ0pZVXJtU0U2bDZYaV9fN0c1VUdEYldiUDBJc0JCZDJpZjZmYU02R3AtYXEtb1U4Qlg5LWJCTU1zVTRUYU11QmtremJGeW55R2VOSGxPV2tRa08xRUgteDJJdUtXQ1dtQXNmemZFZXY4SFItUUNPVkRSTHBiMnJnVUh4ajJOX3AxdnNIYkVLVEo0SGhCS1UxRjZyOVU?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Bapatla Election Result 2024 LIVE Updates Highlights: Krishna Prasad Tenneti of TDP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOejZaRDRqMTZyUFZTbktZX2VfY0wwU0tRSm50UnNabEVYcnk3LWNvUEFFZW1jaDNZU2YtUHJfb1lNc19LUTdDTndyR21QWE95SHJLcmYxdXhzU0Jmdk5vREhnaEh1VnFFMnJVaGd1Y0RBU3dwNXgyZkpLUmc1WC1xMjlmcnhzY3BSWnYyNjdlbzVGMkI3NzZueEFTcGJUUkFEWmpnS3NCX3BaUGRmbjNrTVBaY2NkYmdQVW9yaG9uNk9vTzEwZ1hoakwzQUg0Zk9EYTRjWDhYWkplaHBFUFl1bUxR0gHnAUFVX3lxTFB6UEdlVGQtRHFlWnVVNnNiejZkNDB1YTA5ZFpTQVZZcEljQjlzVW9qeVdzZzlXcW1RWkNLbW9GRXlhUC02aDlNM1JTeGlJYXpPVjBtQmNaaGRManFVM2pzb25Gd0xQYnJFemNMaGhmbHIzMWFRYW5WQ1pLRGdTUVl4NkJSRUJQVmw3VERoRGxlZGRjZEZmUzNPVHZJak1oRUYwekhEeC13Z2VqUGNSelo4UW1PNDVzeERGTVpoRXg4UXZCZ1JlNDFETUFCbEcxYzVYTmtlckNfUnoxMkRDOUtzU2R6cmtCTQ?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:37:24.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Krishna Prasad Tenneti",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZlhELVVmTVRseVFIVk40V09iZGpQa3M4dGhGYnZPRFkwQjV0MzMwd3JOMkxHRXRBRTUyQ0JOLWNWRDRGZHJUYVR3U2VkZmJMYzh4Yy15djZKTXdNSWdhY3VlSVBLRW5tbEZ6ODAtZ1NEUjVtUGpYZ0FNbzlYRzhWcHZISUZUclA1RGRzWjk5OWg3Z3lrUlV0dGcyYVpoMlpRYVRzWlJBdE14cENRcmxSSzVlMHFpbVJmYmQySDlZcTlBTmJJQS14bg?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 13723,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-15",
+  "pc_name": "Bapatla (SC)",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180015.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "IPS Officer (Retd.)",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding need to expedite operationalization of allocated Day Care Cancer Centres in Andhra Pradesh and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need for establishment of emerging technology based Skill Development Centres in Bapatla Parliamenary Constituency, Andhra Pradesh to boost employment generation and industrial growth",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Establish Pradhan Mantri Kaushal Kendra (PMKK) and RSETIs in Bapatla Parliamentary Constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.12.2025",
+        "title": "Regarding need to provide financial assistance under Production Linked Incentive and Modified Special Incentive Package Scheme to Amravati, the capital of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need for infrastructure facilities and technological upgrading in Industrial Training Institutes (IITs) in Bapatla Parliamentary Constituency, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2025",
+        "title": "Regarding need to ensure efficient implementation of centrally sponsored Fisheries Schemes in Bapatla Parliamentary Constituency, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "The Carriage of Goods by Sea Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Regarding need to regulate and promote AYUSH as mainstream healthcare system",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Introduction of a Legal Definition of Shell Companies in Indian Law to Prevent Financial Crimes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "(i) Supplementary DFGs -Second Batch for 2024-25; (ii) Demands for Excess Grants for 2021-22; (iii) General discussion on the Budget for the State of Manipur for 2025-26; and (iv) DFGs on Account for the State of Manipur for 2025-26. (v) Supplementary DFGs for the State of Manipur for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to minister to expedite the process of setting up a new jawahar navodaya vidyalaya, six new kasturba gandhi balika vidyalayas and ekalavya model residential schools in my Bapatla parliamentary constituency",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to allocate adequate funds under Samagra Shiksha Abhiyan to reintegrate child labour",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to set up Skill Development Centre in every block of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding implementation of Jal Jeewan Mission in Bapatla Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 178
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/krishna-prasad-tenneti"
+  },
+  "qualification": "Post Graduate",
+  "questions": 46,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Corporate Affairs": 1,
+    "Culture": 2,
+    "Development Of North Eastern Region": 1,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 4,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 2,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 3,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 2,
+    "Textiles": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "SC",
+  "runner_up_name": "NANDIGAM SURESH BABU",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 0,
+    "legislative": 66,
+    "mplads": 5,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 155757943,
+  "total_liabilities": 19400000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 55.16
+}

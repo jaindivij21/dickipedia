@@ -1,0 +1,619 @@
+{
+  "accountability_score": 45,
+  "age": 72,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 31599208
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 28987677
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6802141
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 67389026,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 580000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 74480
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 14598850
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 4124148
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1238000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2596260
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 180000
+      }
+    ],
+    "movable_total": 23391738
+  },
+  "assets_earliest_year": 2009,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2009",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9kdRPbDqrKXr3Ni5fc5R",
+      "total_assets": 21968281,
+      "year": 2009
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9kdRPbDqrKXr3Ni5fc5R",
+      "total_assets": 57266147,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=286",
+      "total_assets": 90780765,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 313,
+  "assets_latest": 90780765,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Harendra Singh Malik is a current Member of the Parliament of India from Muzaffarnagar Lok Sabha in Uttar Pradesh. He previously served as a Member of the Rajya Sabha, the upper house of the Indian Parliament, representing Haryana.",
+    "title": "Harendra Singh Malik",
+    "url": "https://en.wikipedia.org/wiki/Harendra_Singh_Malik"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "57-58, Prempuri, Muzaffarnagar Uttar Pradesh, 251001",
+    "emails": [
+      "harendrasinghmalik15254@gmail.com",
+      "harendrasingh.malik@mpls.sansad.in"
+    ],
+    "phones": [
+      "9219699999",
+      "9412211636",
+      "1312970735",
+      "1123782036"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "Parivaad No -28/2019",
+        "charges_framed": false,
+        "court": "ACJM MP/MLA Court No-1 Muzaffarnagar",
+        "fir_no": "Police Station Sikhera Dist-Muzzafarnagar",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 11,
+  "dob": "15/02/1954",
+  "eci_state": "Uttar Pradesh",
+  "email": "harendrasinghmalik15254[at]gmail[dot]com,harendrasingh[dot]malik[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1489989,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 948700,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 872440,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 879480,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1625660,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 648209,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 649050,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 655280,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 653584,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 451330,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture , Business or Pensio"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹2.20 Cr (2009) to ₹9.08 Cr (2024).",
+      "headline": "Declared assets grew 313% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 21968281,
+        "from_year": 2009,
+        "pct": 313,
+        "to": 90780765,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹6.88 Cr between affidavits, while declared income across 5 ITR years totalled ₹58.2 L.",
+      "headline": "Declared assets rose 12× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 68812484,
+        "declared_income": 5816269,
+        "itr_years": 5,
+        "ratio": 12
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 26% of MPLADS local-area funds were spent — ₹10.85 Cr unspent.",
+      "headline": "74% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 108542031,
+        "utilisation_pct": 26
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1129634
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1129634
+  },
+  "margin_votes": 24672,
+  "minister": false,
+  "mp_name": "Shri Harendra Singh Malik",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 38457969,
+  "mplads_unspent": 108542031,
+  "mplads_utilisation_pct": 26.2,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 181,
+  "mpsno": 5631,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Muzaffarnagar Election Results 2024: Harendra Singh Malik of Samajwadi Party wins",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdVNVbXB6akd2UGZIOV9wU3Q3NnR3ZXVrcF9OLXpod0VlYzYyTlBJYmpidnFDS0tsSWdEajZBeVVBb3JLdjZudnNfbXJjZ2d3RmtBSVl4cnFZbEpycnJmQmlDMDVPUTB0TWhxSTVoOWp2QWxqdFNRYlhXTG1FNEZWYXdPMm85cGJaNWZmOWpoeWRtX0NYYmZacnQ0anE1V0NnRUVVaGRWbDFFQUlwLTlhbGxITXhwQkJqWVF2N3ZOTFVzRjYtYzY0bVJCWWNBaVVDejJjcVcyY3FhcC1HemFiYzI0MHpHSDlQcmJseXdaUVlyOVViRlZCai1sN1dKYnpYNzYtRGoyT3pwakNmajQ2WE4yN2h6ekZ3V2fSAZ8CQVVfeXFMTzVxWXltM3dscWowZkRST2xmbW1SS3RQSUxMbXM4VXJ6a0RSMzFpS2ZxY19MQ3F3VklXeGxKNUNsODhUV1JMRlA1ZXNuVzhBcV9pd2daRHBZVEE4cjVLRXpHYjVGVUtWQS1MbldCWThvSzRadDFWUGo0NWhJLV84cDhLSWVNTkdFS1dKUzRKamN1eVlieTgzSWZla0ZUN1BRUnBPbC1ZbTFvcy04RUxtYzJVVF81X1c4Z0N2bUh1cEhGeDNaeDFaelZUQWpwTnFPMGhGSm9pSnpqSV9mcWtKZEc3WGEzYUxXcHZMeFlmMllXWmFjOHowZkRqMXpFdEhQWjZoSFdQdEdfRFdiQm5SREMzelh5OHpOcXhaeUdYQ28?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "UP: SP’s Harendra Malik defeats Union Minister Sanjeev Balyan in Muzaffarnagar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHQ5RDVWVktQTkRIUW9tN3JmZHB1RUViWXVJWXRXZDNjNl8zeENndXI2dEZVRFM3cDczeTBJTUF2eThnNEpYWDRkWmczUGpVVXZUdEs1Y3F3SUJSWExkWTBQTmZpeHpzVFk2bkFTY3VIUEdBTXNGUlhDaVhuaTJlVWVRMnNHRWVQMW5veVZ1VXpzVmptZkNsZ0FHQVNMQkFPOHN1cTJTMTd6eXZjTjFJYdIBtgFBVV95cUxQNVg5cEQweW54TVV5TGgtNzNFcWFiOWF0TUtvREowbmhfS0hjQlduWVJoSnJ1RDNzeGxrdHNXTGlrdDM2c3VDV2UxdzE4YXQzT1NzaWtQTFh2NUpVcTFxUUtKSkRBbGlKQ2h3WUR0dENaVEpwNjA5MFNwelJpSFF3TnZzdjByajVkN3E5Q1dwckxjOXQ1TW9PQjBTLWIwU2FyOUduMkhnU3NPU0dRYUQ1ZUZVRGdjdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Muzaffarnagar Election Result 2024 Live Updates: Samajwadi Party's Harendra Singh Malik Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0RfNU42bDRyaWZtT05GR0lJdjNFQnctY1BFU1VUNzF3VjlETDhGVURhSG9oVEVHMGFITmFJaWRDMnBVeUIwUVFzbEp0Qml3THN5emxYSEZVR05IM3FSeElxUk9IcTYtMmc1VWk2VE5jTk5laXM2RlgtUVNkR1JYS3hYTnVhLTV4RE83WnN1eXJwZVk3SlluOU1ycEczZW50WUxkN0RtRkVOLWN5cExzeFFlZThyTVJzYWY4S2thTFh4eW0xV1lzTm9va2p2N2xsU1HSAd8BQVVfeXFMUENSQ2xMd05nM25VTC1fcW9fZW9GQWVpMEV5LThlTUZIakFaTXBkc01IeWFrLUhsYnFFRlhiUUNnQ2JoQTdFeEtDR29GNjE0ZHVIUGYwWDhFR05xQ01hMmVTYUg1ZFRkQ2FsaEdsRlgzeHZqdDZZUHlXX3FaWEM5TWpxSWNRSDUwSm5WVkJnaXA5YXNFNm9fWF9UQVJ5dTJLelAtdUVKeW93QTEyU2lxNGE0M0pNM1FPQTdmS0doaGs3bjdITjRuSXdFdElrdU1GUmZSUExSSnhnd0V2V0NoYw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Muzaffarnagar Lok Sabha Election Result 2024: SP's Harendra Singh Malik vs BJP's Sanjeev Balyan. Who won?",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRWF5Umt0RHY5b1B3ZGZqNEl0Q21NWlRrM3pSTHY5bzRoTl8zNHpFQTZ1Wi11ZlhKYWQtQklIVVdLOHRRemJFYzl2MDJDWXJDUHBKb2l2TzBJbzNZVE1PQ0RaVkxRLWNTMkJWb0RuTVF4eEg4Q2s2R2FXSGdGMjctdC1kQVhQUGVVQTZLOW9HY3hXUWlUTjNrYngzbnhnOGRIeXpZSmJ2YWI5NHBqMXAwOWdaLUgyaHhjeEZXY1BnTTZyRDhxYzhLYjk2aVBraWlpTTA4TzRRUEJtYkxpaW9DczRjclhuaXhncjF0X1RveUxQTm8xcFJOOUVUc09LRlgyQVhjQmJJdXZyc1lIc0ttT01TUEJmUHhQWGJ3NFlR0gGjAkFVX3lxTE9jMlg0VEsycnF6NnVMOFZITy1TVTZwcTlZMS1ESGxMa2lfaTl1RWctZm1teTdnQlpQcG9pVkx3ampZSHlNOWZLQmNBYS0xQnMxWmJFN1V4cDNtQWM0UkhfQ1Z0dnc3Q25vbXRJellrZ1NRNkhaOGd3VWdPVjNJbmY5dFJXRmY5b0RrVHpnTHd3T2lCRnEyVkFwSE9TTDdKNFg1cFRycjdNQWIwTFN2dWtmRzAybUtmbVBEYmVWeWpTVkVyZ2FPZEwyb0RON3FhVjVDazdHay02OWpIR25rOUtCV0VXb1NEYmlRM3RHM1EzNmpTcVVfd3JoS1YwNnplbXNhUzZEYU5PWU9rejBNWk42TWhKT1hrWEZCOWl6MHlVY0R3UQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Muzaffarnagar Lok Sabha Elections 2024 Result LIVE: Sanjeev Baliyan vs Harendra Malik in the battle! Will the bicycle run or will the lotus bloom? See moment by moment updates of vote counting",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUFLa3NLY1F6UF9pOHlVSjB6T0JQaUdfT2VxYTNjazd5cUFFMXU5elZ1N0FzeXpIZ0pGVjhudFJyU1lXYXNsUDVnMS1pQ1p4N2MxVGZqRVAxdGNiU2NtNWhIdG5pNFliN3hZS0pybHJQYW1ORHJybHVzbUpEdGdOVkpheElLcXJlcXJCQWFxZi05cGZ0em5mWGw5WHMyckYyMDlscnRvd2t4bDVqaERPNUxZTGNjUEJ5M05ZSTE0djgyUm5vVlhkT2dpSU5EelV1?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 3916,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "SP",
+  "party_bond_total": null,
+  "party_full": "Samajwadi Party",
+  "pc_id": "uttar-pradesh-3",
+  "pc_name": "Muzaffarnagar",
+  "pending_cases": 1,
+  "phone": "011-23782036",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180446.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Request for Strong Measures to Eliminate Drug Mafia Activities Affecting Youth in North India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Establishment of CGHS and ESIC Hospitals and a Cancer Treatment Centre in Muzaffarnagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding need to check the increasing cases of drug-addiction among youth and set up Government run De-addiction Centres in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to ensure release of Indian nationals who have been forcibly inducted into RussiaUkraine war and Indian sailors held captive in Iran",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding agriculture land acquisition by builders for commercial purposes in Muzaffarpur district, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Regarding extension of Delhi-Meerut Rapid Rail service to Muzaffarnagar and Haridwar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Improvement of Muzaffarnagar Railway Station Facilities, Including Foot Overbridges and Escalators",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Fair Sugarcane Price Revision and Action on Mills with Outstanding Farmer Payments",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to build hospitals equipped with modern facilities in Muzaffarnagar and Shamli districts in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand for legal action against selling substandar potash",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Railway Line Expansion Between Haryana and Western Uttar Pradesh to Improve Connectivity and Support Local Commuters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Strict Action Against the Sale of Fake Fertilizers, Seeds, and Pesticides Exploiting Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need to exclude Muzaffarnagar and Shamli from NCR",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Addressing Rising Cases of Cancer, Heart Diseases, and Water Pollution in Western Uttar Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to increase the price of sugarcane to beyond Rs 400",
+        "type": "Special Mention"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. provide subsidies to the small units that were installed under pradhan mantri rojgar srajan yojana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Issue related to the land grabbed by the land mafia with the help of local administration in muzaffarnagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt through you that keeping in view the helplessness of the farmers, a uniform rate of electricity should be fixed all over india",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding non payment of sugarcane farmers dues",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding need to open a Branch of AIIMS in Western Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt extend the rapid rail to the muzaffarnagar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 31
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 41
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/harendra-singh-malik"
+  },
+  "qualification": "Graduate",
+  "questions": 14,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Earth Sciences": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Planning": 1,
+    "Power": 1,
+    "Railways": 1,
+    "Steel": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SANJEEV KUMAR BALYAN",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 47,
+    "criminal_deduction": 1,
+    "legislative": 57,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 1
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 90780765,
+  "total_liabilities": 1129635,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 43.64
+}

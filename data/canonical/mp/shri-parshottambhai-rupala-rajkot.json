@@ -1,0 +1,497 @@
+{
+  "accountability_score": 47,
+  "age": 72,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 5702980
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 12794814
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 16908625
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 23787368
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 59193787,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2803344
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4578340
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 75581539
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 4421739
+      },
+      {
+        "category": "Nil",
+        "value": 188507
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 17780326
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 9681591
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 87500
+      }
+    ],
+    "movable_total": 115122886
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3595",
+      "total_assets": 174316673,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 174316673,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Ishvariya IEN Amreli Amreli Gujarat, 365601",
+    "emails": [
+      "p.rupala@mpls.sansad.in"
+    ],
+    "phones": [
+      "9825326660",
+      "9013181667"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/ParshottamRupala/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/PRupala?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for Defamation",
+        "section": "500"
+      },
+      {
+        "count": 1,
+        "description": "Defamation",
+        "section": "499"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honorable 2nd Additional Civil Judge, Judicial Magistrate First Class Court,",
+        "fir_no": "Criminal Case No 12/2024",
+        "other_acts": null,
+        "sections": [
+          "500"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honorable 1st Principal Civil Judge & Judicial Magistrate First Class",
+        "fir_no": "Criminal Case No 84/2024",
+        "other_acts": "Sec.200 in the code criminal procedure, 1973",
+        "sections": [],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Honorable 2nd Additional Civil Judge and Judicial Magistrate First Class",
+        "fir_no": "Criminal Case No 04/2024",
+        "other_acts": null,
+        "sections": [
+          "499",
+          "500"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 2,
+  "dob": "01/10/1954",
+  "eci_state": "Gujarat",
+  "email": "p[dot]rupala[at]mpls[dot]sansad[dot]in,p[dot]rupala[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1577110,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1118740,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1371540,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1739610,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1608910,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1270650,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1579300,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1236270,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 574600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 636340,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Minister Salary, Interest, Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business, Rent, Interest, Agriculture"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 21% of MPLADS local-area funds were spent — ₹11.68 Cr unspent.",
+      "headline": "79% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 116760421,
+        "utilisation_pct": 21
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 195000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 195000
+  },
+  "margin_votes": 484260,
+  "minister": false,
+  "mp_name": "Shri Parshottambhai Rupala",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 30239579,
+  "mplads_unspent": 116760421,
+  "mplads_utilisation_pct": 20.6,
+  "mplads_works_completed": 59,
+  "mplads_works_recommended": 211,
+  "mpsno": 5598,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Rajkot Lok Sabha Election Result 2024 Live Updates: BJP's Parshottambhai Rupala Has Won This Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnVxclVaWnFEQTRkWTQwRWtkaldwQnVWamhPdnVBUjRQU2oyY2o4TWR2SHUxZGtoYXZpRVZwQzdaVWFNbDVKR21zRjM3dEhsVWdDbERJMlRBSWtKRFFwUER5T2dGTXFudHI2OUxoZmlpMmFvaG1tWU1SNUUyalNYc2J0WmhMWkJVeU5naC1MaFQzSmVIQWI4dUtxMWI3TVAzb1FWYkFIdlFGb285bFVTRW9ZRzN4Ty15RzlBaWhqRFnSAc4BQVVfeXFMUGU2ZmpEdFBOWjBFQzNhSHZ2aDhmNjRNMVhLMGc5cks1QXZFc3VCQktyUGFhc1FCWVV4ZV9JUmJzUDZWUmc2WjB1M3JWXy1CS2RMUVRVT3E2cHNhUWI0a0VtUGttX1RibS1YUmNPSUZqbGdTX0llU2dMMGJtc0NPMTNtbG5GbGxTWGx1RVRLNDVOVmZZdFNZUWZXeG5yd1psWFFnM3AyZzY3d0ZPU05hdEc4NjNKd3dVVWJMeVRLOXRhOGpveWtMUVZUcW1Fd0E?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Rajkot election results 2024 live updates: BJP's Parshottambhai Rupala wins, Congress' Dhanani Paresh los",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTGJnaUFiVzlQblpVNVRyVXBzbzRhbXFNLUdoX1hnNVdHYVJJeTVjdDRPNXU5eXNhSHpMVkttLWthbGVoRjZtb09nVkpjV3JkVzliMWtwT2pXdHdWaEVISnplT2VlRHFtZ091YnlCU2hKY1hUTlg5UUhvMnJFcElGdTdHUkFvU3oxY0o1d0VKbmtwNy16WGFnSkxIUGl5d2xJeVRTUG9KaE5iMEdSOFN4MWQ1Rm9yT3N2QVM2LWR3VjJrUkdRMjZvSTVJRXBUNVZYN1NlRnlCV0FiR25kWTRvZkRySXN2WDNhaVlyQ1hoM01tZGhEU0dvZEhwV1JXcm9YSFBqcmxfRXpBRUJvV3J6N2h4M2xkSWVoZnZsdHhONmlmVVhpa2JDNVFpand4c2_SAbQCQVVfeXFMTnZQRnVGbkxfLVlUSHlLMnY2M2lTTFNHR1MxNHBaU1p5S29veVRCRTYwdUdEY01HcjhDcXdsemF4VGxWOElmckpNM0VqRUFOZ0lVbU9LWlFBb1FvWDlYbWFJWHBqbmpKcmtUTFh6cUNPalR4ajI0R2R6ZWZfUkZVUklNbnViTjAxd1dhZHFTYmxWSUxQX19jeFhuUzM4dXQ2QXhpV0hxZzhUM2llR1NCZjJ3VUdxWVcxTGJrRFhsSThBLUlEQ1YtaGc4ZjRTMUpkTFhyR212YVZOc1c5Y2Z5RFJvNzNwVmMycWdoMVVaWmpxRDJ0cXR2eWtHRzNsYmJNanRzUWdFTV9fQjh4cVJIQ2FwdjUybmloZnBWcDY4WU5iTjFSSGtyUy1oWVV4cHZBTHAtbzA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Rajkot Election Result 2024 LIVE Updates Highlights: Parshottambhai Rupala of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb1liYUJRZnF6clgzTTlmNENkd2Mxc2ZrX3hhU1hJZjFCalVzRkwxWC0tWGlFdG1VZ2wxN01tSEtZYlRfa1JGTG9PYllJZE9iZ3VLNl9ycmpFeDB3SHFyRlM4V2sxTVZmREo4dHVzZmVEcmpHLXVPTGhQZEJtb1d5SDF1anFoaWZldXRvUkVPbWp2d09LeEgya3VWbEdITm1DYkZKdWFGc2Q1S0RJcXJJZVhtY2NoYjVHWktsNjg1TjdRUGFES1BjZW04YUdBQlBrRmdsWi1wc1BDN2NsdnYxY9IB5gFBVV95cUxQWlY1cV9VUkVSRjhLZTY2UDNyYjhFZTNHVXJXbHJrRVhESW5KZVlfWWZfVm5MajA1TEJjN09kOERoZXphZnpxZ2JENWQ4bUN3YjRYZEFDR2pvSDNKcFpDQ3Y3NnFtTlJIOWxjRTRLOVVCcFFPdGFsSUNFdWhBYVR1MWM2SFZ3c1F3TkxsaDBYOEZWTVA0T3ZWblNEbFB2SGVtbVdVbUg5MktIcUZKLXVZb3pkZklNNmFUeWZhVHIzY005ME5tcXV2UDVLd0Ffekd6Y0JQc0drVFdwa1l3LXIzY1JFQk5Udw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Zee Business",
+      "title": "Gujarat Lok Sabha Election Winners List 2024: Amit Shah wins by 7.45 lakh votes in Gandhinagar; Parshottambhai Rupala wins from Rajkot; Mansukh Mandaviya in lead",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPYm81dUtYOHA3Qy1udEVBNEpHZ0RLR3g1TjhYS2ZxX3p0dXZCUWJkNUVfYWNMUWlhUjdiSXZQMmJZTkpTRXNUMUxXSTlNU09xNlBXUUF5NXItQk0zQVJlVWZDWFFIbXBkdTN6V0FGWGVQeTZCX2FOejBHMEFtUFVQZk9xUHZhb0ZIb3o4cUt4YmVremlSRmFzNkZDUnJ4b0tGanhFU0M3ZUlDSUZ4eEdJOHVLdC01d3ZaVlloUU1yZDJDZ2V0Mm1oa2I4QS1xOHZPUjZ4eEZwcGhsTWozUWxMQi1xSW9ZM08tanlXRXI3Y283SThSTmZUenJVUU11c3ZuSEI5eDNDYjQtQld5d003cmdFMVZ1ZFhab0dOUzdKQXRCRzBIczFRb1d2bmRYaFU4S1hCQ3paWHR6Z0ZCak1INkxwVnNGTVhuOVJoTnA2Zk9ZVXF6NjBKTw?oc=5"
+    },
+    {
+      "date": "2024-05-31T14:41:42.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Parshottambhai Rupala",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkVLZVU4X1Nqam10T1FOYW0zNXhIV3VIX1NGM3VjNmFVMW9NbDBpZ05hMnU0NUstQmdPUXNaLWVLUm5TRnl5RV9VMjBQQUxoT0laX1hCc1hjcFlaYUZObFYydjV6bWVuS0JJMTFnbnhiUFBSN2RycDlBdWNEVlA1Ty1QczJ3TnNLNjgxd1BiNzQtMjRHLWFrR0YwYjlNbE9qcTZFamt5ZXg2eF9sMzlrT1hYSWNKcnlEWW9fQXR3?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 15922,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "gujarat-10",
+  "pc_name": "Rajkot",
+  "pending_cases": 3,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180128.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 94,
+      "value": 97
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Request to Provide Financial Assistance to Farmers Suffering Crop Loss in Gujarat.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Strict Action Against Racist Attacks on People from North-East India.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for High-Level Inquiry into Stock Market Volatility and Protection of Middle-Class Investors",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Government Support Amidst Diamond Industry Slowdown in Surat",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to bring a comprehensive policy for proper distribution of human organs obtained through donations",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to take comprehensive measures to ensure security of oil and natural gas pipelines",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to develop a special policy for disposal of Enemy Properties",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 10.8,
+      "value": 7
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0,
+      "value": 1
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 109,
+      "value": 123
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/parshottambhai-rupala"
+  },
+  "qualification": "Graduate",
+  "questions": 37,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Ayush": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 3,
+    "Communication": 1,
+    "Cooperation": 1,
+    "Earth Sciences": 1,
+    "Electronics And Information Technology": 2,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 2,
+    "Law And Justice": 1,
+    "Mines": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 2,
+    "Ports, Shipping And Waterways": 3,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Rural Development": 1,
+    "Textiles": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DHANANI PARESH",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 3,
+    "legislative": 55,
+    "mplads": 43,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 174316673,
+  "total_liabilities": 195000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 67.37
+}

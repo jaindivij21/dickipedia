@@ -1,0 +1,435 @@
+{
+  "accountability_score": 21,
+  "age": 71,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 165000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 61200000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 32000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 98365000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1787266
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 7230240
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 173420
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 282647
+      },
+      {
+        "category": "HDFC policy No 0468xxxxx 10,43,218 10 Lacs+",
+        "value": 1543218
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 12859195
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 11485113
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 89880
+      }
+    ],
+    "movable_total": 35450982
+  },
+  "assets_earliest_year": 2013,
+  "assets_history": [
+    {
+      "label": "Karnataka 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=w5iCCLEau3k6AjhVPmiT",
+      "total_assets": 49522333,
+      "year": 2013
+    },
+    {
+      "label": "Karnataka 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=w5iCCLEau3k6AjhVPmiT",
+      "total_assets": 122635305,
+      "year": 2018
+    },
+    {
+      "label": "Karnataka 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=w5iCCLEau3k6AjhVPmiT",
+      "total_assets": 135199529,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3421",
+      "total_assets": 133815982,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 170,
+  "assets_latest": 133815982,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Jagadish Shivappa Shettar is an Indian politician, who served as the 15th Chief Minister of Karnataka from 2012 to 2013. He is currently serving as Member of parliament representing Belgavi constituency. He has subsequently served as Leader of the Opposition in the Karnataka Legislative Assembly. He also served as the Speaker of the Karnataka Legislative Assembly during 2008–2009. He is a member of the Bharatiya Janata Party. Earlier in 2023 he had joined the Indian National Congress, where he quit the BJP on being denied the MLA ticket in 2023. He represented Hubli-Dharwad Central Vidhan Sabha seat, which he resigned in 2023 before the elections. In March 2024, he was announced as the BJP candidate from the Belgaum Constituency for the 2024 Lok Sabha Elections.",
+    "title": "Jagadish Shettar",
+    "url": "https://en.wikipedia.org/wiki/Jagadish_Shettar"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "No. 31, Madhura Estate, Nagashetty Koppa, Keshwapura, Hubbali Hubballi Karnataka, 580023",
+    "emails": [
+      "jshettar@gmail.com",
+      "jagadish.shettarmp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9448146123"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 1,
+  "dob": "17/12/1955",
+  "eci_state": "Karnataka",
+  "email": "jshettar[at]gmail[dot]com,jagadish[dot]shettarmp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 3316890,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2976900,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1489390,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2457800,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1203580,
+        "person": "self"
+      },
+      {
+        "fy": "2006-2007",
+        "income": 146650,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary , rent, agriculture sources"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture source"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹8.43 Cr between affidavits, while declared income across 5 ITR years totalled ₹1.14 Cr.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 84293649,
+        "declared_income": 11444560,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 2% of MPLADS local-area funds were spent — ₹14.36 Cr unspent.",
+      "headline": "98% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 143622756,
+        "utilisation_pct": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹4.95 Cr (2013) to ₹13.38 Cr (2024).",
+      "headline": "Declared assets grew 170% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 49522333,
+        "from_year": 2013,
+        "pct": 170,
+        "to": 133815982,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1351354
+      },
+      {
+        "category": "PS shettar (brother) personalized wristbands 4,50,000 4 Lacs+ SM loan 3,00,000 3",
+        "value": 4740000
+      },
+      {
+        "category": "Building security deposit dodghala hospitality, pvt lmt mumbai 1,00,000 1 Lacs+ ",
+        "value": 1075000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 7166354
+  },
+  "margin_votes": 178437,
+  "minister": false,
+  "mp_name": "Shri Jagadish Shettar",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 3377244,
+  "mplads_unspent": 143622756,
+  "mplads_utilisation_pct": 2.3,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 165,
+  "mpsno": 5733,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-06T05:48:16.000Z",
+      "flagged": false,
+      "publisher": "All About Belgaum",
+      "title": "7.37 Crore Released for Development of Kanabargi Industrial Area Roads: MP Jagadish Shettar",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXBUZWpJaDhrek5fWlhrX2RQSnRrSkRXYXJXR25Hcy1jYk9QZlMzRjNCOHUtalF4TlFtaTFhenN2UFJxMktCM1dKYkF0VjRVNEtZUWRET21aNmpJT21iQmZHcWJQcnBYZDJuU3hLT2FuUVhNSE5NbDdET2laMjRUamZXTWwzQ3NfTk94TTVxSmpoZ3puTXNRbmtNYWFYcUIxbXFzcmxJVjdGQ2ZDWWhRWkpPc1BNVlZZOEZHTVd6N2xzUQ?oc=5"
+    },
+    {
+      "date": "2026-03-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "All About Belgaum",
+      "title": "Shettar Seeks 895 Cr Central Support For Roads, Bus Safety Systems",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnRaaTRZa1dDdUQ3elBuM05OMG9KSEdwa2FDNFJzMFZmZEU0OF9YR0lNNzhiYi1EUEdfazBpbUlYeE4xLUtJWUlvdi1BaGRQTFJxWUxuTUVxU0pSZHFhc050UDh2a3BmRy00akFSOHh3STh2WUhrVU9STEp5dEVXZTFybkFKRkQ0WVV4YlhGRkJYU2Zxc0E0bkRjOG5Oa2Fo?oc=5"
+    },
+    {
+      "date": "2026-01-14T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "IndiGo will re-start Belagavi-Mumbai flights, says MP Jagadish Shettar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM1Z6eGkyc25pRFhHNjE0RjBEdmp6UkhyZ1hFMVRTMF9pVmQ3cXVMOHlEOEVCV0hzNFZ1RWNrUmpfT2Zycks4Tkh6dXRxbGNNNm1SblJTdHJNcy1DaTRZd3NpOXcyZ083VGNyQnR5UV9TUW1wRktsdVA1N3FvM0pObmtlNll4RHZpRE9FVVM2NE13Z010c3JjV3kwYVVQMHFjaHhwT1RzVWlSN181Z2Zob1E4b2dIWk1Ec3BJQVd5S2hHS3Fqem0tdUJ1U05hSmZmVlp3TNIB2wFBVV95cUxOald5cWcwNzBONXluZjJhUnlBY0dRQmhSOXdQMUtXeVVjek9vU1NoNS1Bb05RQVZyVUJmQUZmeUpMTi1zRFBScENwRXpuTndwRjFYVlI1bXhTQVl3TkhBQ2FMSC1Xa3V6dUxoMGVSMVlMUml1VTRDeUlzTGN3aXU0NkNCU0VSRkZrUndqQTFXcjQ2YWFZaWxfYmVxTHBDYzRpYkg2c1FqaWl0WWF0SnZPV3lYcWxfeGVyTkdRNEl2NHJQU3pON2h1c2ZZWFdFM0wzRi05cUREUFJZazQ?oc=5"
+    },
+    {
+      "date": "2025-12-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Herald",
+      "title": "Belagavi MP News: Shettar to Address Allegations",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2dyS0IyT0Z6a1V2VEZ5NWFaT1M5VklJMmZhM0k3c3JOYUdUazlNa21rZjdpdXg1RTdoVkt5dkxBNi1sMnBuTWRPVXFEeWVVbTRCLWRWVXItUlg1Z2ZEUnZwTV9vNGRWU2pnNE95QWw5VjQ4b1BSN2dLQnpaRzQ4U1lacU16VUJYa0FBZ3NJTjdndzVrUG5NQ0ZJaTlUNzVzSTZ3TzdhWGVlT1dlV2dSa2IzRXJFb0w0S2tJY2M1WWhjNWFqYnhydFhwdEV3MFp1c3pXTzhBdnByRzQ?oc=5"
+    },
+    {
+      "date": "2025-12-05T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "All About Belgaum",
+      "title": "Your MP In Parliament: See How Many Questions Jagadish Shettar Raised",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTW9IOTJKYW01QTE4WHFsLVBCeDE0aEgtcWdFNFBFbW9BYmtJRTNsV1ROeUliT01YTlBMblpUT2Y5RWVucElVMGJtVktlLVB0bkVOT1VPallwSjJ2ZGV1LURRYTlmMjRrUVFCa2RlcDhRSFFSajJkbE10VWxkSlRYb2JoeU4zdXhOMmVSSHQ4TzQxZU84R3A1Q3ctcFo0RkxJWUFmVw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5726,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "karnataka-2",
+  "pc_name": "Belgaum",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180173.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Advocate",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 3
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 42
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/jagadish-shettar"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 13,
+  "questions_by_ministry": {
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Power": 1,
+    "Railways": 4,
+    "Road Transport And Highways": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MRINAL R HEBBALKAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 21,
+    "criminal_deduction": 0,
+    "legislative": 33,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 133815982,
+  "total_liabilities": 7166354,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 55.06
+}

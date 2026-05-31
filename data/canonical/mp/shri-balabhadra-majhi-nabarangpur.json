@@ -1,0 +1,609 @@
+{
+  "accountability_score": 28,
+  "age": 65,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 9600000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 31800000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 15000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 12500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 69200000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1500000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 915110
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 926022
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Max Policy No 40638xxxxx 25,00,000 25 Lacs+",
+        "value": 3098950
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 143300
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2219178
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2379000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11181560
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=W3YxdCEKNykQRaiqmi9R",
+      "total_assets": 52977088,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=W3YxdCEKNykQRaiqmi9R",
+      "total_assets": 87471475,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=6335",
+      "total_assets": 78863561,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 49,
+  "assets_latest": 78863561,
+  "attendance_pct": 70,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Balabhadra Majhi is an Indian politician. He is a Member of Parliament from Nabarangpur. He was also elected to the 16th Lok Sabha in 2014 from Nabarangpur constituency in Odisha. He is a member of the Bhartiya Janta Party since March 2019.",
+    "title": "Balabhadra Majhi",
+    "url": "https://en.wikipedia.org/wiki/Balabhadra_Majhi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Phataki Chandahandi Nabarangpur Odisha, 764077",
+    "emails": [
+      "balabhadra.majhi@mpls.sansad.in",
+      "bmajhi86@yahoo.co.in"
+    ],
+    "phones": [
+      "6742300560",
+      "7750024920",
+      "9013869314"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Punishment for criminal intimidation",
+        "section": "506"
+      },
+      {
+        "count": 2,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 2,
+        "description": "Obscene acts and songs",
+        "section": "294"
+      },
+      {
+        "count": 2,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 2,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 2,
+        "description": "Punishment of criminal conspiracy",
+        "section": "120B"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful Confinement",
+        "section": "342"
+      },
+      {
+        "count": 1,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "150/2021",
+        "charges_framed": false,
+        "court": "JMFC Jharigaon",
+        "fir_no": "34, dt. 05/03/2021 at Jharigaon Police Station, Jharigaon",
+        "other_acts": null,
+        "sections": [
+          "342",
+          "353",
+          "294",
+          "506",
+          "149",
+          "143",
+          "186",
+          "120B",
+          "427"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "151/2021",
+        "charges_framed": false,
+        "court": "SDJM, Nabarangpur",
+        "fir_no": "59 dt. 02.02.2021 at Nabarangpur Police Station, Nabarangpur",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "294",
+          "341",
+          "353",
+          "506",
+          "120B",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 5,
+  "dob": "09/02/1961",
+  "eci_state": "Odisha",
+  "email": "balabhadra[dot]majhi[at]mpls[dot]sansad[dot]in,bmajhi86[at]yahoo[dot]co[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1198800,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1084250,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 930940,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 944960,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1713600,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 5178470,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 678840,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 485840,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 490170,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 347050,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 248450,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 237920,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 248510,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 249150,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 260690,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business and Cultivation"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹14.08 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 140773956,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1124732
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1124732
+  },
+  "margin_votes": 87536,
+  "minister": false,
+  "mp_name": "Shri Balabhadra Majhi",
+  "mplads_allocated": 147413962,
+  "mplads_expenditure": 6640006,
+  "mplads_unspent": 140773956,
+  "mplads_utilisation_pct": 4.5,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 220,
+  "mpsno": 4796,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2025-12-22T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "South Odisha Development Council to start functioning soon: CM Majhi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkhOZnk5NzlSVU1HVWUyc2xyMl93TnVOejlRMDRFSW96UHluOUMyemtTd0UtbzdKUTF3LWtzMVBqNEVnVFB6SFpjWFBOd0cybWN6cXhPaVZaaG1YekIyMDB4QTlOQkNjMDc3cHlESWdIZVp4eHVHa1haS3ZhdW9LU0EwT1Foa2RDRVFteld4ekpRWkxoRGJzWmxXZGY1b3FyS0pqMzBuRmJvblF2X0NOUTJkWTJkSmhBWVFXOGZjVUtoRzht0gHSAUFVX3lxTE1pcHlSbk0yalMyWGVod1lGdjRpYkNwREVwNWJSNlRWdlREamtVOThxcVdwazdhSkZxdnQ0QWs0RjVkSnlKQ0QtMFRtSWZ3UjNaYlhsSHBxdG9TenRJVmpURGhINVNOckswRU1vdzNXX1k4Si1SRUxCdTh0dDVhcHFrRGktVWxMZWZ5MU94dVZBTm9nbks2VVA0ZW1YRXFzWkhrMHdYcjUwN1ZXckZfTGJaLURfRUVkdGZuc052b1h5Vjh0bVRqenFKanNPc05CUkhmUQ?oc=5"
+    },
+    {
+      "date": "2025-12-20T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "EdexLive",
+      "title": "MP Balabhadra Majhi flags delay in setting up MSME technology centre",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3BHRHhWTDRvNHBlM0tKUTFNeTllV05QVVY0T3MzYnZ6UEEwMFFCcW9uNFhNOGZRUV9Ld0w2WkdOZjZNRXdzQjRmRENGQlBSVTQzODZ5eDYwUmNRNUFrY245ek1jWEUwMlBQMlVaYmRDWlNWNHVSMWpGTUdXYTBSZ1QyNkFYZmlUalBkSUpYTFdTclQ0YTQxX3FFWnVZbm_SAawBQVVfeXFMTkVYXzhsNWp5a1lzcFdPbUw0S0J0MEc1RkY0Q002M0pDVlBUTmVoQkVxY0RYNExmb09UTExKeWdlX3QxUWV1MVJjM01SS0p4S2tEV3NDRXFlSlNxeXVxVWZqZnpWd0UzaEFTTjd4ZUNORnFHUjk4QjJEYjlTZ3VtSVdwSzZTVEVfY3QwNWxCX29JV1hSRlk1TVVmYUVaSFR0dkdBNy1MdjZiVVd0Yw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Nabarangpur Election Result 2024 Live Updates: BJP's Balabhadra Majhi Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSW84MWQ4MzlndXJWWVF2RWlXOU5fcFpuTUNSZ2E2UzVlcDJFc3FpeE5KSDZPT1FWVUFCMkY2bWlqa2oyRDNBWTRvX0hPUVJSQ0lHcF9KN0twckNUTVRxNGVxZnhwRnFFczdvcWFlN1V5WFRVcUtId0hTYkVjWjNOdXNCSGJocVZQdWg3YkhzLUJnb0tXN2EtNF80cTBZNXFaN0hMWDhDRU9sZDhETHlJREtUR3hlU0NlNDBNbnBpa1NVNnR0SEHSAdMBQVVfeXFMUGpzMGtYNDZLZzVhbXZ0ekZyTVpUcmJmNk9UbkJ3b1FzU2wzaUZidVRRR0xZZjJGQzVSRFgyZTB0UlpWQWZoa3F4Q2lwbWtaWFVwS0ZOQUlmOG4xTUpwbWEydjkxRnJNa1Z2eHZNTFlqSi01MF9GQlJuMVFyWHlLWHdwemdNNERfZFMteUt4Ym9zUmVKT0luLV84eWtPN1dRN1NNU0J4dUVFcTNnOGFGYXM3RVFNYzVSMUhjMlRnTzJoWHBlRjYxU00tT0RVNy1DOHloMA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Nabarangpur Election Result 2024 LIVE Updates Highlights: Balabhadra Majhi of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR1dPZG9GaVBneDZ5NVpFWHg4TDV5dE5CZjEtcFNJc1FIeXhwLVdFa1pjMzV0VGpnX1Z3bTlfcDlMakMzblZqV0hyZkV5NXhqRldqekx4Yy02OUNlSGhsVWpfd1FGNmhIT1I0WVhhUVpGUU9TdjJIMTJyU0QyaGJRTElhUVpVS05DTDRtaGpoMGJIWFQ3R1NQMWJIRnlkeWhKUmNNSEpvR3I1eG5rTmNfREZ4di1EVDUtc2pIXzB1T1BPa0syQS15alBxYUVPN0RhZFJQRnFLRlpnOVNJMlY0U2xLanBISkXSAewBQVVfeXFMT2J2M1dGX3lZNDRzQ2dOX3NzVFNLNENDTjhlc1JiZjhLSkgxa0VPRU85ZnVjRlFxbXptZDB5Ymt4MllPQXVDR3QwcjlkUUE1VkNEWG83bEtmeHFUNG5nUnV5dVNmQk0zb0w3SUd3OTZtMkJWSGV1ZGFPM3I3YW5FRFlEUk9HdEJMWUhzRjBFeHdtdGlrTm51TGRveWc1RE1kcDVROXU4endVVHB1OW8xLWZ1VWQ5MGRGcVlweE5nSUJhY0NPYWJBa2RPVWx6NDVrTm5nNEVwaHYyVEhLOWUtYmxSajJES3hqaE5WY00?oc=5"
+    },
+    {
+      "date": "2020-05-16T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Former Odisha MP Balabhadra Majhi seeks change in land laws",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOC1Db09rUVZHZ2NOTTVIMVlpRHM5Mks1MkEyS2VsR1JKUHplcHZLNDlNQTUzeFZoWnBYT1JHQk5JdUN0aFk4TGxtTXBnbTJYNGcyRnpVR3ZkWFA4WmEtSmlVZ2l4SDFVVWJ3WS1WUGxOUTdEME1mcDZVajFOWndTMHFoQkdSRjJ0UEItcFB0aVk3TjFuZUY2amItSkc4OThWVGQwbkNyZWt0eW42Njd4SENhU1lKLUFvWWlwWlJoU1UzRjhKeXRpZFhGa9IB2AFBVV95cUxPdFNhUTltQ0UxUHV1djhDR00wWXNYb3BscnNlRkVzcDNUXzFCOU1oZzg1WUxGR3BDSWc1eFNwWnBNNk9XWEYyRXZ2NjNSbHRYYUdLazFZa2xRSDNFVVBmTjNFR1k4ZDZqeG9ySGpBM0pTaFNBMXNGN255aTRHSng1c2R0VThOYWxXcTZad0JCUWZiQUx2dDVnU3I1a3hnbkU2cUlSWXRCVEZybWJ2UTdoVDZJQUs3MzhZUG43c2hFVWlJQ1NIU1FCdUlnSXJ0MEg1UklxdkE2SVk?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 43268,
+  "notable_record": null,
+  "num_candidates": 4,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-12",
+  "pc_name": "Nabarangpur",
+  "pending_cases": 2,
+  "phone": "09013869314 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180303.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 86
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to provide internet service and installation of mobile telephone towers in all the panchayats of Nabrangpur Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to provide internet services through Bharat Net alongwith installation of telephone towers in all the villages of Nabarangpur Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding need for a Standard Operating Procedure (SOP) for protection of trees during construction/widening of road projects in country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need to establish soil testing laboratories at Panchayat level in Odisha to give impetus to Soil Health Card Scheme in the State",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request to Fill Vacant Doctor Posts at AIIMS Bhubaneswar and Regulate Patient Load Affecting Local Residents",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2025",
+        "title": "Regarding need for establishment of a medical college/Super Specialty Hospital in Malkangiri district of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need to ensure efficient implementation of MGNERGS in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "05.12.2024",
+        "title": "Regarding need to ensure daily payment of wages to the Job Card Holders under MGNREGA",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt remove 3-kilometre rule under pradhan mantri gram sadak yojana and all villages should be connected with public roads",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Schedule of payment of wages to labourers under MGNREGA",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 15
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 182
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/balabhadra-majhi"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Ayush": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Culture": 1,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Jal Shakti": 2,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 2,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Rural Development": 2,
+    "Tourism": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "PRADEEP KUMAR MAJHI",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 28,
+    "criminal_deduction": 2,
+    "legislative": 43,
+    "mplads": 6,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 78863561,
+  "total_liabilities": 1124732,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 38.74
+}

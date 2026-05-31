@@ -1,0 +1,475 @@
+{
+  "accountability_score": 38,
+  "age": 76,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 18686936
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14022490
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 11861226
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 49518852,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 6960554
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2214439
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 330150
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": 500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 29401474
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2150000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6443750
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 48000369
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Maharashtra Election 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=WGiVCsa85uvSyj9Jg399",
+      "total_assets": 79898992,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=WGiVCsa85uvSyj9Jg399",
+      "total_assets": 89493665,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5331",
+      "total_assets": 97519221,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 22,
+  "assets_latest": 97519221,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Bhausaheb Rajaram Wakchaure is a member of the Lok Sabha of India. He represents Shirdi of Maharashtra and is a member of the Shiv sena (UBT) political party.",
+    "title": "Bhausaheb Rajaram Wakchaure",
+    "url": "https://en.wikipedia.org/wiki/Bhausaheb_Rajaram_Wakchaure"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Sai Arpan Bunglow Near SaiSharddha Housing Society Behind Saibaba Bhakta Niwas At & Post Shirdi Tal Rahta Distt Ahmednagar Maharashtra, 423109",
+    "emails": [
+      "br.wakchaure@mpls.sansad.in",
+      "wakchaurebr@gmail.com"
+    ],
+    "phones": [
+      "2423257644",
+      "9423786904"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "04/01/1950",
+  "eci_state": "Maharashtra",
+  "email": "(i) br[dot]wakchaure[at]mpls[dot]sansad[dot]in,(ii) wakchaurebr[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 980660,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 781240,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 877710,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 750850,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 447478,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 3535980,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 495890,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 497010,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 4527290,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 890342,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Pension, Bank Interest, Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Pension, Bank Interest, Agriculture, Home Rent"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 5% of MPLADS local-area funds were spent — ₹13.99 Cr unspent.",
+      "headline": "95% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 139869246,
+        "utilisation_pct": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2432000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 2432000
+  },
+  "margin_votes": 50529,
+  "minister": false,
+  "mp_name": "Shri Bhausaheb Rajaram Wakchaure",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 7130754,
+  "mplads_unspent": 139869246,
+  "mplads_utilisation_pct": 4.9,
+  "mplads_works_completed": 2,
+  "mplads_works_recommended": 136,
+  "mpsno": 4385,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Shirdi Lok Sabha election results 2024 live updates: Bhausaheb Rajaram Wakchaure of Shiv Sena (UBT) wins",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVE1vcHBLdU5TQ1hULTBHaDMya1ZRZnl3TC1XLS1GQW03ZUFIUUJHeFo1aGwxNjR1XzN4Z2RKR3NVcUdZdmhqSjhjZUxSZURYQzBXdHRNZlR3MzhDVHhFTERiTWZzYnF4QVJfd2M1R1B1WVc1Y0RGcGVxZFdJN0FHaEl6VW9ZRm93Rm5ieVhaQ2NIdUJmTkNFbTV6S241UXY0eTY4Qkl0TFFRUUVLWV96LUh2akVSV2tvQlg0V1NOR3NmRXJ2VmI2YmREYzlXZUc1LTc5TVJXN19rR011alV3ZzN6dmoxbzRMLTdlWnR0WDhYXzFyS2RhZHZ0Z3VNU1o5ZHdPMnNOMjgyV1k4M0NhcXh3LWloY1dpc3Y1Q0xYMWhoM0x2bVZmdnljckJPakhyWmlYQl9xdFRWVG02eUMtOGdvbWtlWjhUa1VpX9IB0gJBVV95cUxQemlLMVo3Vk5kVWg2R3QzVVRvVkJjVXluUWxNczFDZ2ZBWC1TVV9mbW5obmZfaFhHQ1owai1KUkxzeDFlRmVLRFBvMVpXS3YweXlIeEpLNmh2ME5QSU8wTWpNc0FMUkxpMXFRREJZdUNYS3JUX3hPNmFVdGxCWDA0WG9xaC1kTEVYOVVkMVRQNF9mWmNLQXVYNUxabGwtM2hPNDJKTGFDTGtwOGIweEJScFljUzZZNnVocVZ3T2FvMUJaTnY0MTc0OG5Ud2RRY09uTHhsT1NUVW9LUDFfUmZoa190YnF6UHZQM0cyd29tcHdHQm01NUtCb04yWXQ5R2Izc1BYdlFhMjJTR2NLcTVEd3RNSlJ0RzNhWHN1ZWdCNmZISk1NOVFLd1pNWEhRVXZSTlVVYXFNN1lfNTcydnlfQm5UVi1yY2U0SVFOTkZ3SE9LUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Shirdi Election Result 2024 Live Updates: SSUBT's Bhausaheb Rajaram Wakchaure Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZDBPNVFTRzN2UXhmdmZFbUxseWQ5SU5hZmhCWGhSTUk5cWgtMDVBaUNwVmdCTk1yd0pnc0ZnQ1ZPYml2QmgyTjRBQjl6QV9LbkE4RFhOc2dpUU16ZXF0cHlMaHlydDVoLUhLbUtMZFdENF9pS2xCcDc0a2pkZ1RpeEFQbzVqZ29IMHI3NF9aWU40WjYzUmFGbXc0SFUzLUlkZDIyOTZIZ0d2akFWZm50RVBLak1pR0VuMUtWdTd4LWtzMUlOZXfSAdMBQVVfeXFMTkRFOS1majFvNTlpME1kRUF4N21QY1hZNWZMSEdUZDhGQzZocTFIeDFYeVVNSHVTLXRoeVNIOXFVUUJsVXg0TVhpS1M3YXpVLXYxbUMzclJWWm80TnVoM1NYTGZzZWc0MmFnQk5fSXpQdWJPakZKVm92SHc3WTJUdHhFOXZ3Y3dZeHAxZzdxRmhmYUhSNUZHUlRSMl9LcjB5M3EtVGMzRWtPMXRRQkdEVkJ4MmNKOEFRMnB1SEk1MUg3NTZRSnR6MlVLdkRCVXJxRkpmUQ?oc=5"
+    },
+    {
+      "date": "2024-06-02T10:06:56.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Bhausaheb Ramnath Wakchaure",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFB0NlZLYW1Pd3pYYkYzNV92bUU5OXpwZFFrY0Q5QmVhUHdBcGVZUnY2NVY2cHVoQi00WW83X3VMQU80Sk1HZWJSaXpHb19ic2ZCRnJaSW9saWNWNkc4dnQ3WVVlbkxkTEY5WC0wcldEOE4xSkNkQXg4di1GYnl0bjJZTHkxc3gwcklPcnh5aGg5TkdKcHJ3?oc=5"
+    },
+    {
+      "date": "2024-06-02T10:01:34.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Bhausaheb Rajaram Wakchaure",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2VYMUFucWhLMUJ1YzRXeGE2VmFYNTdBbGZvb19mOU41UEhJYkg4WVVtZVdnUXA0OUVmalNVNFMwNXJ0bWEtRmg4NDMybldyRVBRdDBFTWFnOVZXaHVnZm5LNkhDNGdudjcyZ3Fjd2NOa2JqQWk4c1hVbjhVQzFhX0ZJdVpRWmFOd2ZkNEt3b2RldndUMHk4?oc=5"
+    },
+    {
+      "date": "2024-05-31T14:57:31.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Bhausaheb Rajaram Wakchaure",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVVFQy1YQldsdTZwb1ZCakpIRlZ6MVp1SWZPemRsQ1M0N2I5Ukd2WDJSb1BtQ1dTZUJIcU1DRy1vMGhIc1dZUUo2T3FBeDJycGhYRWtNbUFibFNGdHpDZ2NyUVRlNUVQekVWY0NhRGE2RlNIaGVyRjctNTNuczNXQzFCR0Fvb013WG44bHNqQnZyaTkwYldycC1Nc1c0V0dMZkktUlZ4VF94b2FHRjBMbVFLVTlLNDFUb3BZMFBPckY5UzFjU0ZEdWU2SQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 5380,
+  "notable_record": null,
+  "num_candidates": 20,
+  "party": "SHIV SENA (UDDHAV BALASAHEB THACKREY)",
+  "party_bond_total": null,
+  "party_full": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+  "pc_id": "maharashtra-38",
+  "pc_name": "Shirdi",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180255.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 84,
+      "value": 91
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "05.02.2026",
+        "title": "Regarding need to allocate funds for providing various facilities during upcoming Mahakumbh, 2027 in Shirdi Parliamentary Constituency, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding human-animal conflict in Shirdi Parliamentary Constituency, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to include places in Ramayan circuit associated with Bhagwan Shri Ram in Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding resolving anomalies in EPS-95 Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 30.8,
+      "value": 11
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.9,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 160,
+      "value": 134
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhausaheb-rajaram-wakchaure"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 38,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 3,
+    "Civil Aviation": 2,
+    "Communication": 1,
+    "Culture": 1,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Law And Justice": 3,
+    "Panchayati Raj": 1,
+    "Personnel, Public Grievances And Pensions": 1,
+    "Planning": 1,
+    "Prime Minister": 2,
+    "Railways": 1,
+    "Road Transport And Highways": 1,
+    "Rural Development": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "LOKHANDE SADASHIV KISAN",
+  "runner_up_party": "SHS",
+  "score_breakdown": {
+    "base": 36,
+    "criminal_deduction": 0,
+    "legislative": 56,
+    "mplads": 7,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 97519221,
+  "total_liabilities": 2432000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 45
+}

@@ -1,0 +1,678 @@
+{
+  "accountability_score": 42,
+  "age": 37,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 2500000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 9113000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 11613000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 857900
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3055461
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 4098000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4400000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 13392000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 25803362
+  },
+  "assets_earliest_year": 2017,
+  "assets_history": [
+    {
+      "label": "Punjab 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=YaiDJWShsfdvfSe5UmQC",
+      "total_assets": 4317013,
+      "year": 2017
+    },
+    {
+      "label": "Punjab 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=YaiDJWShsfdvfSe5UmQC",
+      "total_assets": 4406505,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8730",
+      "total_assets": 37416362,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 767,
+  "assets_latest": 37416362,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gurmeet Singh Meet Hayer is an Indian politician and a prominent member of Aam Aadmi Party (AAP). Currently serving as the Member of Parliament, Lok Sabha for Sangrur constituency and is also the Floor leader of Aam Aadmi Party in Lok Sabha.",
+    "title": "Gurmeet Singh Meet Hayer",
+    "url": "https://en.wikipedia.org/wiki/Gurmeet_Singh_Meet_Hayer"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "House No. 43/147, Shaheed Jeet Singh Nagar, Barnala, Punjab, 148101",
+    "emails": [
+      "meethayer.mp@gmail.com",
+      "meet.hayer@mpls.sansad.in"
+    ],
+    "phones": [
+      "9780000971",
+      "9554000001"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/meet_hayer"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/meet_hayer"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Voluntarily causing hurt to deter public servant from his duty",
+        "section": "332"
+      },
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Rioting, armed with deadly weapon",
+        "section": "148"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "PCH/4637/2021",
+        "charges_framed": true,
+        "court": "CJM Chandigarh",
+        "fir_no": "324 Dated 24.10.2020, Police Station Sector 39 Chandigarh",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "PCH/5143/2021",
+        "charges_framed": false,
+        "court": "CJM Chandigarh",
+        "fir_no": "01 Dated 10.01.2020, Police Station Sector 3 Chandigarh",
+        "other_acts": null,
+        "sections": [
+          "147",
+          "148",
+          "149",
+          "188",
+          "332",
+          "353"
+        ],
+        "serial": 2,
+        "serious": true,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 9,
+  "dob": "21/04/1989",
+  "eci_state": "Punjab",
+  "email": "meethayer[dot]mp[at]gmail[dot]com,Meet[dot]hayer[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1575070,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 776450,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 745410,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 799490,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 762980,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1748540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1054350,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 714410,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 833560,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 812790,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Business & Profession and Interest Income"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹43.2 L (2017) to ₹3.74 Cr (2024).",
+      "headline": "Declared assets grew 767% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4317013,
+        "from_year": 2017,
+        "pct": 767,
+        "to": 37416362,
+        "to_year": 2024
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹3.31 Cr between affidavits, while declared income across 5 ITR years totalled ₹46.6 L.",
+      "headline": "Declared assets rose 7× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 33099349,
+        "declared_income": 4659400,
+        "itr_years": 5,
+        "ratio": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 2
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.23 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102252183,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 172560,
+  "minister": false,
+  "mp_name": "Shri Gurmeet Singh Meet Hayer",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44747817,
+  "mplads_unspent": 102252183,
+  "mplads_utilisation_pct": 30.4,
+  "mplads_works_completed": 117,
+  "mplads_works_recommended": 319,
+  "mpsno": 5829,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-14T23:09:57.000Z",
+      "flagged": false,
+      "publisher": "MSN",
+      "title": "MP Meet Hayer dedicates renovated Sangrur museum to public",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTko1NXV1eWJralA0VURKZ2ZBVW4xMElVb2VYekh0MGQwZ09JOUUwLXBSWjdXbXJmMFJ1eFAySkpkM3QyZG9vXy1WTEZVX05RU3IzLTAwVm5IZkw2Tk5sc3VxSjAtdWx0c2lHLWlzWEVXcjFOSk53U3ZWeFZyNDlZY3k0cTRmSWtJTEtPYWZocU1nUzk3WkhuYlJxWjYyb1lTUXd0ekU5QTEtZHVWeTM5UFhqczlzSlRqRkdEYkR5NkhQTThTNlVnSVFUN1lwQlJPSDZZQ1gzR2RhV0c2dHBXZVBPYWhVaVBaZUpBd0ZwNkF0UjlTR0htSnhid05SajlVNGZoMmlxYkd1a25aNVkxS21HMXVkdXpqaGF2UGU3UGJZUGhrOHAzdm1BTG9jRk1nVXFwZU1lS0Z5NkR5TmgxdXRYVTFjODRpNkliTjdUSWJVeUVFSTJWaTRFX2FvVFk?oc=5"
+    },
+    {
+      "date": "2026-04-18T16:49:38.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Full Support for Women's Reservation, but Centre indulging in theatrics: Gurmeet Singh Meet Hayer",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQUko3anE1Yjdka3Awc0VRdlp1VWpHZTJ1SXFUcTNqcXlaemgzVDBCdnk4eEJTTVBNSktBTUpHVS1WOV9MeE9wM1JkdTExUnI0X2MxVFZ1SDNmN04ya181RTRqMlVQdFJkR1R2Zjk3VE1ZX0lOeERlUUtFZEJSeUEyQ0lRMTZYTS1aRnN0anROeUplbGlhMUxRdnJLNkI5YXlIWTVXaFBkV3R5anhIbmtHRWhhdnpqZjlwX2dWRkpCbGJYWjJfVUU4VnBQRlZHX054Z29aZjl6emcxVlExQ2VhbjVmcTZRdkJ4eklyTGhVNUVkNGdoZTRxZTJBWGNvQWIzeGNKS1pPRWdKRllGNFdrejAwTjZ6OEMxV2l0OA?oc=5"
+    },
+    {
+      "date": "2026-04-10T11:14:44.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Member Parliament Gurmeet Singh Meet Hayer dedicates District Museum Sangrur to the public",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZXRHeDNUbUJWVFMxdEpmdEZJV2V5dHVtREtGdFRoc3RiZ1oyWGhqbzMxSVNhNVUzTU5iVHAydTBlY2QwdDk5NkI2TkVlWkFvRGE3VUhBcFAtODRzblI3VXNQbW1yMXFxOG9ibkpCTGZ3dkFFaDFhSzN4eTMxbE1XNjFsU014ak9Ob3J0R0VidWhRbjA2dHd2eWJGSFRlWVNPOXdwSGVYSmVxWU8yMlU4NUUyZV94RnVCb2VCajN1Yi1qS2dMQW9tbzF4XzZtNUpxMDNWRUhXcE9KaGxhbXNCZHI1bnFqMURqYnEyVFJhM1NGSjQxYUtzUWF1VzROQ2IzN3lvbmY5NDRzVmVIRDJCRkdCVFJoRVU?oc=5"
+    },
+    {
+      "date": "2026-04-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Sangrur MP Gurmeet Hayer dedicates renovated museum to public",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTc3ZTVzUUtKR0tOWTFuckNFV1NEM29jVVdTNnNXREE2LVpldm9PTURkS3ZmYjJTaFA2Q1ZIQ0lCOXJZRXM1NERVTUhleVUxcGk1QjJYc1JjTHpjT0QyNEtSY2tXVzZERHUySUtJRENHbU9KNzM5Z1Bzd3FjbTEtVkdmSzNRRWJiTGJITDJVTm8zRDd3WkRfTS1KbEJOQkpNQlFuTGVn0gGqAUFVX3lxTFBUcDMwaXl5YjhRUnlrODlOYlR3M1RIOGF0bnN3eWRxUWxoQ2tOMXBXNHZuWmxVdS1INURrQ3k0bFNHMDZ0aGFOMjNMU2t5SW4yeVBISzU5UV90LV8xZHVWQUJYNGVsME02eExrdUkycFF4MDlTeFJGcVRoWU5JbUpjQzVybVpac2tVb3kxWnprNnRkUXJQTFY3T0ZaVFRvQ2VTRGtuMVVmamFB?oc=5"
+    },
+    {
+      "date": "2026-04-09T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "MP Meet Hayer dedicates renovated Sangrur museum to public",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMExNUlA5LVF2UlNOWGYybGtuR0s0dkNCajBRV2kwdXVubkNidlB0YllMRU1Ca1BOdXBOY1lZOXREcE9hM0lZRUJFRmZXRnFDZ1dram1sTDMybEM1WUpKeW5rX1VUU0JLVXlFV2JUaGRwclhpUnJVZmdqQlE0VXZseUJ2MmUzMldmaF9YY25CMjNTU3l1MWxMYjFRcFRiaE5YXzIwY0h2V0c1MlpOc1l4SHhwZEMyazQ0VFYwQlF5bnUwaFFkRWFmM1ZtRGpEemNRenfSAdcBQVVfeXFMTlVmUXNTVFVDVWRzSVF1dUZfaVZwVlFXbURSQUdTMjAzTUJNRFA3SmQ5NUNpV2N5MHd2S3E2WkdROGJyQUlIVEhsOHY2R053Sl9jVkxFQTRJRzQ1MndiRk9XU0haSWRxb1J1SDdKdjlfWk1wbEEwdGE5Y2llaHlkejFlT1NlOUhxLXA1c3pEWUY4Sl94bkpXSGsxRnExNVhZWXFsTFRWLUtEYVl6aUY4c3h5QTFHa3d6eWdnUS1qN1hfUFFvWXE4U01ocktRRkFJbmtuTDNaSDg?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 3820,
+  "notable_record": null,
+  "num_candidates": 23,
+  "party": "AAP",
+  "party_bond_total": 654500000,
+  "party_full": "Aam Aadmi Party",
+  "pc_id": "punjab-12",
+  "pc_name": "Sangrur",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180326.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Political Activist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 70,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Immediate Release of the Film Based on Human Rights Activist Jaswant Singh Khalra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Repealing and Amending Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Uphold Punjab�s Rights Over Chandigarh and Prevent Centralization of Its Administration",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to control prices of essential medicines",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Restore Commission Rates for Aadhati and Address Rice Mill Storage Issues in Punjab",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request to Establish a Sports Facility in Sansarpur, Jalandhar, to Revive Its Olympic Legacy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "The \"Tribhuvan\" Sahkari University Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to raise the amount of MPLAD",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand for more funds in Punjab for sports",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 30
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.2,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 63,
+      "value": 86
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gurmeet-singh-meet-hayer"
+  },
+  "qualification": "Professional Graduate",
+  "questions": 19,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Defence": 1,
+    "Health And Family Welfare": 3,
+    "Minority Affairs": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Tourism": 1,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SUKHPAL SINGH KHAIRA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 55,
+    "criminal_deduction": 7,
+    "legislative": 52,
+    "mplads": 61,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 6
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 37416362,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 36.06
+}

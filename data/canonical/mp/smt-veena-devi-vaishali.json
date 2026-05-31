@@ -1,0 +1,461 @@
+{
+  "accountability_score": 55,
+  "age": 59,
+  "assets_2019": 337284632,
+  "assets_2024": 467170049,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 84064714
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 835000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 58779970
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 1718800
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 145398529,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 661769
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 215148981
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 38667250
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Police No 82858xxxxx 6,89,000 6 Lacs+",
+        "value": 1638000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 54312018
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 8984994
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2000000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 358500
+      }
+    ],
+    "movable_total": 321771520
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=HpdDFRYVK3SpwmEND8kP",
+      "total_assets": 337284632,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8070",
+      "total_assets": 467170049,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 39,
+  "assets_latest": 467170049,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Veena Devi is an Indian politician serving her 2nd term as current Member of Parliament (MP) from Vaishali. She is a former member of Bihar Legislative Assembly from the Gaighat constituency. In the 2019 Indian general election, she contested from Vaishali with Lok Janshakti Party and defeated Raghuvansh Prasad Singh.",
+    "title": "Veena Devi",
+    "url": "https://en.wikipedia.org/wiki/Veena_Devi"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Village & P.O. — Daudpur, P.S. — Paroo, Distt. — Muzaffarpur, Bihar, 843107",
+    "emails": [
+      "officialveenadevi@gmail.com",
+      "mp.veenadevi@mpls.sansad.in"
+    ],
+    "phones": [
+      "6212255700",
+      "9431239700",
+      "9546555573"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 3,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 3,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "GR No. 3121/19",
+        "charges_framed": false,
+        "court": "ACJM - 1st (E)",
+        "fir_no": "352/2019, Town Muzaffarpur",
+        "other_acts": null,
+        "sections": [
+          "188",
+          "143",
+          "34"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "TR No. 3589/23",
+        "charges_framed": false,
+        "court": "Court No. 02 (E) JM",
+        "fir_no": "256/2010, Gaighat, Muzaffarpur",
+        "other_acts": "Section 133 R.P. Act",
+        "sections": [
+          "171(E)",
+          "171(F)",
+          "171(H)"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "GR No. 3486/10",
+        "charges_framed": false,
+        "court": "ACJM-10 (E)",
+        "fir_no": "404/2010, Town Muzaffarpur",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "22/04/1967",
+  "eci_state": "Bihar",
+  "email": "officialveenadevi[at]gmail[dot]com,mp[dot]veenadevi[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 12839610,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 10004910,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 14736745,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 11032530,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 21834570,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 6507065,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6409645,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 7648270,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 6874195,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 11330450,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture Income, Rental Income, Bank Interes, Interest from Firm , Remuneration and Allownce as MP, Other Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture Income Rental Income Bank Interest, Bank Interest , Remuneration and Allowance as MLC, Other Interest"
+      }
+    ]
+  },
+  "inference_count": 0,
+  "inferences": [],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 5067877
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Loan from Devender Kumar 11,00,000 11 Lacs+ Loan from Disnesh Prasad Singh 2,45,",
+        "value": 155884446
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "MVI Act Case has beeen filed by the Govt against Tax dues in the court of Dist C",
+        "value": 1772693
+      },
+      {
+        "category": "AY 2020-23 4,900 4 Thou+ AY 2019-20 54,090 54 Thou+ AY 2018-19 2,55,620 2 Lacs+ ",
+        "value": 1885058
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "1,52,801 1 Lacs+",
+        "value": 152801
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 164762875
+  },
+  "margin_votes": 89634,
+  "minister": false,
+  "mp_name": "Smt. Veena Devi",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 93983889,
+  "mplads_unspent": 53016111,
+  "mplads_utilisation_pct": 63.9,
+  "mplads_works_completed": 30,
+  "mplads_works_recommended": 31,
+  "mpsno": 5223,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-14T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "2 constituencies, 2 IDs? Electoral rolls show duplicate entries; EC probes LJP MP Veena Devi & husband Di",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbkYtQ1N3ZXBIMS1IZGdMdFVFQ2tJX2dTVmFmTm1ZbFh6TUNPSGN6dkpEbkd1SGlPemlfR3I2djNQN0JZVUQzakQ1R05mQ0xaYmFBdUxoWm9nMlRaTG1RWHZzQ2E5aWZFS0JkMWF2Ung1S2htalNVUFowYjlqUE5ycXlkM3hyWUNodnJsT2J6S0tnbVZaN2owaC1FQ0VIRzZlamlvQk9jdF9MUnNfNllDWW1xZ2NLOWpGaHluWG5GRUIzOUZBdEdCb0VBV3poYnJaeHBqSkp2Y2VwOWZVR0FWUGpucFl3RFFmM2dma1ByeW9NWHYwel9aMFAwdVBET3NybUpZQzhVRWlmbnNBNlkzVtIBlgJBVV95cUxObG10Q2p3SFNJYXIyUk1LWEFjZGNocFljVmtKYlRCTFo0dFpWbW0yY2VYN3hGaG51cElHR1pYR0NwUHB6ZC1CRE9TdWpWUDFjM1pUd2J4amM0c1JFS3VPalJpRzFSWGluOGlIaW5QQ3B5S001ZmFGc29vYXAtXzIzbEVlRTJzbE1zQ0hUSzRxSC1yNWoxQ0lHczFQY1hqbTdvR2gtVFdtY1dYN05xLTczYTdZSkN1UTNWS1dBZnJEZ09uSVI3VUw2Zm1RckdOcXd2R1I1QndFQ1FnT2RCMFlRcWc2eDlaN2JZb1R2cVczLVdlSTJIQ0txWHZDV0E2cEV5bjlRN3R3RnpBeHFQQXVVeW80NEotQQ?oc=5"
+    },
+    {
+      "date": "2025-08-14T07:00:00.000Z",
+      "flagged": true,
+      "publisher": "ETV Bharat",
+      "title": "'Is SIR A Fraud?': Tejashwi Yadav Reveals Vaishali MP Veena Devi And Her MLC Husband Have Two EPICs",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUHVVOFIzMkVlVHNkcGhKUjUxVkwwWmU3ejhQUDNoS0pzN2dFNUZ3N1F5MFJFODRlaXNSaGFLdkhDREVhVmxpaGJ3U09IcXRPOGJGU0U4TWxGVEw3MkVnZFBKVlQwcTlxamtnY2hfRWRmbm5NbjVmWlhEc3VlWmlWRHpHeVBQdV9PZG5rTGx3em9xZFJtQ3N0aGc5RXFha1hFYS14TUFyV01uVUwtUmNvSFRsMDhBYllCOU14Y3hNT2lBcWl3bF9KWnpOYjZRWl9tWUxESGMzYnFoVHpIVTByWVVZeVB3YTZkREtmTTlB0gHzAUFVX3lxTE05WUVvcWRGbUl6Z1JCRnFRdFN5SmNodzl4SG5MZnB4anJDNVNNcEVXd0ViTmVqcElSTjRiWW5tZTFURi1jdFc1b2hMbFg1b0xpMHBtLTNaUENsY2VkZVpPUTdWb2dWZExWUFlZVk55QUVRYjJGLVQ2d1dScUJFajh3UklORHpBai1ZZ3BRSmQ1b2VScHFYb1dleDE1ay1YRGd3RUwweXI5ZXZhOEFfVmx0WVJzeTk2V0ZrODM2NlN5LWZXUWdNQ2Fya295OU9ZMGpWb0dkOWNNNTR1MGdNOWVmSzUwcG1wSmk1SW1FU3BlMW9SNA?oc=5"
+    },
+    {
+      "date": "2025-08-08T09:18:05.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Veena Devi",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHlOWXRidWZ2UkxmN29JUlFJWW5PZ3JoMndZcjd0dldiT0RSTXVFUUhqOENmTnF2dnVtZ0ZDUHhTaGs2b0psUDk3SFZXcWdHcHlfbEoyY21HOXhuZ3M0ZkZQZzU0VVh5VkxVUGNZMW1wNVlubExPdDF3SFRDWHU5UQ?oc=5"
+    },
+    {
+      "date": "2024-09-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Vaishali MP Veena Devi’s son dies in road accident",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzFfbGp6dzI3ZHhXU1ljVUQ4dVdad2lhQ3BYU0VGNzhkNUwzdnN0SXVhRzktWEhVRHFWYWhRcVlEeGhfUUQ0MGJ2UHpaUnFGNTA2VG9aeTUyeXBEdl82UVNlWWdUY21DTHFnN3k2NUFlUmFla0xPNElfS2VvTHItaHRLTjF4TTF1V283RjlOOWlVcy1iMEZ6NVdfdFZiV1RnQVk5bkhIWE1TeHJ1ejFTd2lhX0LSAbsBQVVfeXFMUHFIZm1HVGtCaTFEdU1meWNWdVQ5ZVVJc3pxM1o0MVExa1JfM2FLVkdkNlN1alYxdU83WGplUm16bkNkblNnVnNoWHBKc3ZETEN2dkM2Nm9CVkFOcG1QTGtjUUx1aHQ1MUU5blFkdTVDV3BXWXliQnBULVNEc3k1WjJ0cThqWXVQOHVDWW1kWEdKbUpuNmYzWWpPZW1yWktkUHpzNFNldnVRRTlGd0NxY2daOTNodWR6SldWNA?oc=5"
+    },
+    {
+      "date": "2024-09-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "LatestLY",
+      "title": "Bihar Road Accident: Vaishali MP Veena Devi’s Son Chotu Singh Dies After Vehicle Collides With His Bullet",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRXoxVEN5Q2VwS09yb0E3XzVSR1NnTW42Qk9IbWpjN1JwQjhnUXkwWFhSTVQxeFkxVmQ2ZTNFd09TMWx1U2draFJKQkxJSGFsTjluNGpYMXkybFlLOE5ham1hbFE4TzNROXJ6ejNkQ0VjRmFPd2dhNi1QTlQzazVJMW5xMy1fVUNHNUNIbVVRcm8tZmJEMlEwX1VSekxyNE5oZFVlX21WUkwtLUlISlp0OW5ma3g2SnhMejVSWUdZd08xM2laWEx4TnVkTWxYOTZNLVVPYVlkTm1wVGxtaVFzbk40RzZYNUhKTk45TTVTYVo4VFZsT2J1NlpkQS1IWUJqUVHSAYcCQVVfeXFMTnJjQV81QWFmR2JQVVU0Unl0dGFfWnZuVE9ZWlNVSkRXbW93b1k2ZDlvdktUNlIyejF4emJsekl5MFN1X013TmVzQmY2VVE2aElSRVRRUzFBMFBCTU9MQzcySFdIb3l6UWJaUjZJSVZLc2ZxdVdvcFhLSWxkM2FSUnQzWlE5OU9uSmpBdlJQUlpQQmN3QVNfYXF3ME5FUlZmVlJwYnBmaE10MU9DaHMyT000amY5MFpCNk90bmRxRGdHQkRWQzNvTlFJMUhMSkNUMkYzRmtxZEZIc256ZXU0a0IyeXdiRzJuUTBiLUtHdUNnVTBmU3E5UktvUU9RaWxrVFR4NlJKNE0?oc=5"
+    }
+  ],
+  "non_serious_cases": 3,
+  "nota_gt_margin": false,
+  "nota_votes": 27460,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "LOK JANSHAKTI PARTY(RAM VILAS)",
+  "party_bond_total": null,
+  "party_full": "Lok Janshakti Party(Ram Vilas)",
+  "pc_id": "bihar-16",
+  "pc_name": "Vaishali",
+  "pending_cases": 3,
+  "phone": "Tel :09431239700 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180080.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Vande Bharat Service to Muzaffarpur�Howrah and Daily Superfast Train Connectivity to Bengaluru",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Early Commencement of Sahebganj�Motipur Rajapatti Railway Line Project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 5
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 1
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/veena-devi"
+  },
+  "qualification": "Matric",
+  "questions": 1,
+  "questions_by_ministry": {
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "VIJAY KUMAR SHUKLA",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 56,
+    "criminal_deduction": 3,
+    "legislative": 26,
+    "mplads": 100,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": null,
+  "total_assets": 467170049,
+  "total_liabilities": 164762876,
+  "wealth_pct_increase": 39,
+  "winner_vote_share": 48.38
+}

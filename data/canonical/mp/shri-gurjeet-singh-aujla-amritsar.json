@@ -1,0 +1,569 @@
+{
+  "accountability_score": 65,
+  "age": 54,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 11550000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 6675000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 18225000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1124733
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1336250
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 5508800
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Canara HSBC Policy No 0107984712 6,00,000 6 Lacs+",
+        "value": 1404555
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 18997583
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6911667
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 35283591
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zCNGu2MynQv2Cu8sNh5F",
+      "total_assets": 33239719,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=zCNGu2MynQv2Cu8sNh5F",
+      "total_assets": 34011739,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8734",
+      "total_assets": 53508591,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 61,
+  "assets_latest": 53508591,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Gurjeet Singh Aujla is an Indian politician and a member of Indian National Congress and current member of Parliament for Amritsar in Punjab, India.",
+    "title": "Gurjeet Singh Aujla",
+    "url": "https://en.wikipedia.org/wiki/Gurjeet_Singh_Aujla"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "16-A Guru Amar Dass Avenue, Airport Road Amritsar Punjab, 143001",
+    "emails": [
+      "amritsarmpgs@gmail.com",
+      "gurjeet.aujla@mpls.sansad.in",
+      "amritsarmp@gmail.com",
+      "aujla.gs@mpls.sansad.in"
+    ],
+    "phones": [
+      "9013869325",
+      "8511633333",
+      "9872027477",
+      "1123060600"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/aujla.gs1/"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/GurjeetSAujla/status/1625431797885734912"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/gurjeetsingh.aujla/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 11,
+  "dob": "30/10/1972",
+  "eci_state": "Punjab",
+  "email": "amritsarmpgs[at]gmail[dot]com,gurjeet[dot]aujla[at]mpls[dot]sansad[dot]in,amritsarmp[at]gmail[dot]com,aujla[dot]gs[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1385151,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1342566,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1000267,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1352362,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1546729,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 482220,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 454940,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 784370,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 674050,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 704500,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary , House Property, Agricultural & Other Sources"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income & Other Souress"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 37% of MPLADS local-area funds were spent — ₹9.30 Cr unspent.",
+      "headline": "63% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 92998431,
+        "utilisation_pct": 37
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "1,22,05,250 1 Crore+",
+        "value": 13781750
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 13781750
+  },
+  "margin_votes": 40301,
+  "minister": false,
+  "mp_name": "Shri Gurjeet Singh Aujla",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 54001569,
+  "mplads_unspent": 92998431,
+  "mplads_utilisation_pct": 36.7,
+  "mplads_works_completed": 74,
+  "mplads_works_recommended": 225,
+  "mpsno": 4940,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-24T08:10:00.000Z",
+      "flagged": false,
+      "publisher": "Babushahi.com",
+      "title": "MP Gurjeet Singh Aujla slams Punjab Govt over murder of ASI Joga Singh in Amritsar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EWFVqaEJpeDNnM1Ixd0hfTU5nc2RTT3hDdnYzQjJVZnBld2l3bWQySWhLYUwwaWlZcXN6ckRTWHFvb0V4NzkyU29lOFlvc1dzRWdGamlDZ05aWjgyWnc?oc=5"
+    },
+    {
+      "date": "2026-05-13T08:36:15.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "MP Gurjeet Singh Aujla urges Centre to restart Amritsar-Katra Vande Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObmFHaE93SkZCVHFiTWVWYklSUkZLZmdrZmNZOU1mX044T01IOWJLOTU0T0hFLWtoaFhtM09DMjc5bXdYQ09wZldSeTJlaEp1cTg0WWk3dkEzNGc4d1o4OHRpZk04MGRrWjdWdVA3UF8yXzMyLTRHek1vSDhKVUo5a25wbHZIMGcxNXkyRUNNbHBUeEdRSlNldnc2QmpBNklqRE55MW1USWNfd1QxdnRiSGhEdUo1RFprS3hkeFVxRV9KZEQ3N053Sk94UnZGUFp6NzA3SFZ6M1pidHB2c2ZLNVFSMGNVbEFUbndSanR3MHNJX0E?oc=5"
+    },
+    {
+      "date": "2026-05-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "MP Gurjeet Singh Aujla urges Centre to restart Amritsar-Katra Vande Bharat",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXBkSXFDWTR2QmRWQ1Bnc0pGNjhpdFBURHZwQVdlYjB6RkRUaFZjTWIxTnF1RFZfcXFwVnFqdlg3UEttMzNMTnBzYVJHMVZnVVg0ODRURlRkVFlya1A5UGptc1d4cHZDdF9SSkRqMnJuTDluVDJtM3drQ2M0d254S1pJRHA4SlRMRHlkSHllZ3ZsYUVqSmhpekdxbmhxbmZESnNLVlI3MA?oc=5"
+    },
+    {
+      "date": "2026-05-05T18:28:20.000Z",
+      "flagged": true,
+      "publisher": "Dailyhunt",
+      "title": "Gurjeet Singh Aujla Slams Mismanagement and Alleged Scam in Attari Grain Markets",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcVU3TVBVVVdUUHJ5ekNyLVVNekJRcHhiQUVEZm40cjJLZTFPcndPNkltVEkwXzF5dFlTNXhnUVVWeVBWdlptUFNqNV9obE9hOXdoVkxVdEZrUFpMaElnekhvT3BKYUxOZkdVbkNIdVhSVjZqTmg1M1lXS0gzN1M1TkdGUHllVDJPb0VhQVA1TkJFMm1GU185WkJpTFZ4RVN3MEQxSlBrS25HVmdjdEVOM0JTVUF2Z2dlTlVmMHhtRGtXQV9yOWtobzdyQ0hkRjctZTFJSFVnOTJBaXIyVHpRYVNpdTZJSzF6dXl3eG5SRVlyTFc0QzU5WEdaVjlEa2FCeUZENlZ2aG53UQ?oc=5"
+    },
+    {
+      "date": "2026-05-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Tribune",
+      "title": "Amritsar MP Gurjeet Aujla inspects mandis, flags irregularities",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelF4NTNtVTNfR2R6SkRNQmVCSnNPeTZfdWpWYmxfcFdLZVRZTDBZVTlwQmUzbHUxYWxNY2Y2OU1BNkdreTl2emV5NndCdjBrZ0lSSTBvbWpZeHpZV1Q4V1RqR3hJdG5OdWlxUEJxYTJwMTRMcS0wb1hPSzctbTlIUHE3ZkVTbkZTVjhtOGxXc05hV19vUHdKQUZhOG9vUlVONC1SQThkZ2wzQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 3714,
+  "notable_record": null,
+  "num_candidates": 30,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "punjab-2",
+  "pc_name": "Amritsar",
+  "pending_cases": 0,
+  "phone": "Tels : (011) 23060600, 09013869325 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180325.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 70,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Minimum ?10 Lakh Assistance from PM Relief Fund for Cancer Patients in Punjab",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Related to Black Marketing and Need for Delivery Authentication System in LPG Cylinder Distribution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding alleged irregularities in tender processes of Food Corporation of India and Punjab State Warehousing Corporation",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding the issue of the suicide of the District Manager (DM) of the Punjab State Warehousing Corporation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding the issues of Amritsar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Matter related to irregularities and corruption in highway projects in Amritsar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regrading the law and order situation in Punjab",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to declare Amritsar as a �no war zone'",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to reduce GST on health insurance",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to govt. to Address the Deteriorating Law and Order Situation in Punjab and Ensure Justice for Grenade Attacks in Amritsar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Safeguard LIC Agents� Interests and Reduce GST on Medical Insurance",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Ban on Chinese Manja to Prevent Fatal Accidents",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt should prepare a proper project for Tung Dhab Drain and Buddha Nala and pay special attention to the living conditions of the people in these areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. reduce the cap for 1509 basmati rice",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding need to review the decision to impose 200% duty on Indo-Pak trade through Wagah Border",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt that the wagah border trade should be restarted",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 28
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.2,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 63,
+      "value": 71
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/gurjeet-singh-aujla"
+  },
+  "qualification": "Graduate",
+  "questions": 21,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Commerce And Industry": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 2,
+    "New And Renewable Energy": 1,
+    "Planning": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Tourism": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "KULDEEP SINGH DHALIWAL",
+  "runner_up_party": "AAP",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 0,
+    "legislative": 57,
+    "mplads": 66,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "notable",
+  "total_assets": 53508591,
+  "total_liabilities": 13781750,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 28.18
+}

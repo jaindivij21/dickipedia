@@ -26,6 +26,7 @@
     "myneta_serious": "tsx pipeline/20_myneta_serious.ts",
     "merge": "tsx pipeline/17_merge.ts",
     "inferences": "tsx pipeline/18_inferences.ts",
+    "publish": "tsx pipeline/21_publish.ts",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

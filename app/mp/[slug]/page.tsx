@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
-import { getMp, allSlugs, getParty } from '@/lib/data';
+import { allSlugs, getParty } from '@/lib/data';
+import { loadMp } from '@/lib/mp';
 import { MpHeader } from '@/components/mp/MpHeader';
 import { ElectionSection } from '@/components/mp/ElectionSection';
 import { WorkSection } from '@/components/mp/WorkSection';
@@ -21,7 +22,7 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const m = getMp((await params).slug);
+  const m = await loadMp((await params).slug);
   if (!m) return { title: 'Not found — dickipedia' };
   return {
     title: `${m.mp_name} — ${m.pc_name} (${m.party}) · dickipedia`,
@@ -30,7 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 export default async function MpPage({ params }: { params: Promise<{ slug: string }> }) {
-  const m = getMp((await params).slug);
+  const m = await loadMp((await params).slug);
   if (!m) notFound();
   const party = getParty(m.party);
 

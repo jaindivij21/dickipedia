@@ -1,0 +1,461 @@
+{
+  "accountability_score": 51,
+  "age": 62,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 14000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 14000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 137350
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 434453
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 243167843 2,30,114 2 Lacs+ HDFC Life Insurance 2,76,750 2 Lacs+",
+        "value": 506864
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 365941
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 629000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2073608
+  },
+  "assets_earliest_year": 2022,
+  "assets_history": [
+    {
+      "label": "Uttarakhand 2022",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=oP7srT4FgpG63PavkapN",
+      "total_assets": 4771371,
+      "year": 2022
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=8557",
+      "total_assets": 16073608,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 237,
+  "assets_latest": 16073608,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Satpal Brahamchari is an Indian politician and social worker. He is currently serving as a Member of Parliament of 18th Lok Sabha representing Sonipat. He belongs to Indian National Congress.He was born in Gangoli Village Jind District.",
+    "title": "Satpal Brahamchari",
+    "url": "https://en.wikipedia.org/wiki/Satpal_Brahamchari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Thana Ram Ashram Kailash Gali Bhupatwala Haridwar Uttarakhand, 249401",
+    "emails": [
+      "spbrahmchari11@gmail.com",
+      "satpal.brahmchari@mpls.sansad.in"
+    ],
+    "phones": [
+      "9837471888"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 4,
+  "dob": "25/04/1964",
+  "eci_state": "Haryana",
+  "email": "spbrahmchari11[at]gmail[dot]com,satpal[dot]brahmchari[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 690320,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 490170,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 497950,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 499020,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 497440,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Rental Income 127050, Business Income 471650, Interest Income 45590"
+      },
+      {
+        "person": "Spouse",
+        "source": "No"
+      },
+      {
+        "person": "Dependent",
+        "source": "No"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 14% of MPLADS local-area funds were spent — ₹12.62 Cr unspent.",
+      "headline": "86% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 126200478,
+        "utilisation_pct": 14
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹47.7 L (2022) to ₹1.61 Cr (2024).",
+      "headline": "Declared assets grew 237% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4771371,
+        "from_year": 2022,
+        "pct": 237,
+        "to": 16073608,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 21816,
+  "minister": false,
+  "mp_name": "Shri Satpal Brahamchari",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 20799522,
+  "mplads_unspent": 126200478,
+  "mplads_utilisation_pct": 14.1,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 146,
+  "mpsno": 5585,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sonipat election results 2024 live updates: Congress's candidate Satpal Brahamchari wins the seat",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX29CRm9XeUhTNkwxOVhwR1lFbzRlOG1VOWNCejF5SzdDUE1odm9kMjBucDJldmc2SVRSRmlWZHZXTktKUWZZajVDdExXM0VGYjdnMUFpbk5UTWtHODBVTjZZaFV5S3F5MkV2RFkwWlFrcXZsbHh3OVZia1NlMkp2M2hQZmVrZXl1dUFfWWZQTXBrZzk4N1FsdTZrMHMzR3dmVzFsc3FfUzQ3U2o0Qmh1aXFYLXpqeXN2QnB1bW5aM2ZtVjFGQmVoRjdIYldLNEVjNDhrNjlNbGk1STVZRDlkOVpOaFpHaE9zM3JjSUhMcVRnRXc5UWxR0gH8AUFVX3lxTE0xOEdIdE10TndEbjBKTGJBQmFfNEMxN0t3STdWUW0yQUM4dGdmTV9vcHY3THNCMzB5TXVvdE5jQzlJRkE1Qk9OTFNBanFIbDQ5Z2k0S3pidGhsVTZYenlQMEdGMlltM2ZrQlRZTkJiUjJRbGU3STg1REJzbkl4bUFuazZzNUhjOENDM3VNSmVXQnFJcnF4a0ZhWHR3X1F3UkdnaF9rbGU4aVhQb0JaS05GNm9ycmJ0amhreGd5bzFacnpVeE5CeTNuTzZkNC1hUnpfaFQyXzdvRnU1QXFnSDU5RlMxbUdaUjBsWTgzN05BQ3hsUjh3NTgycWczMA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Sonipat Election Result 2024 Live Updates: Congress' Satpal Brahamchari Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1pveDUwT3RScFBHU2duMU5Ra1g3dlJqTGEzNGNnUzBPR2FHeGxMd3ZkTHZac281UHVmMXF5MFdYWjdoWG5OUFlLVld3MEg4VzVrSVV3alhLc2o2TGdMR1Nzem02TXloVnZ0Q3VRdWIyQWltV3lFUnVNYW5rcFEzRzdKOHcxZ0dEVEd1NG9OTWZzWFhBN3BFT25yTVpkZUtNdzBxWTdYb3gyZmMyVUN6MTVEMUQtS1NJSHV6cHR4dnJqQdIBzwFBVV95cUxNTnktSUx5dnZ6Rzg2LTU1blgwNnBMaFJsMG0xR3ZnSW9PT1ZMTHVSVzZlbEoxcDF4S1lLRWlsZ2V1NEl1Y2wxX2hXbnNqUDB4Q2tWX2oyOWZvNG5pMFAtVThSSGE1c3ZiLUVlMldaejBDV19kUzVyOHE1ZGRfT0h1ejhrT2JzdWRIV29fcVJUUlpHb0dEZXQ1djBMSmxqVmpiRTdOWlhGNm1CMEJjWV9nMzFsUnJLa2dIaUhlRFVUaEQ1SGpjYlJJUjJ1VWtibWs?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Sonipat Election Result 2024 LIVE Updates Highlights: Satpal Brahamchari of INC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUW9CQWtnZUdfUmdhMVVTUnZKdFBCMy1RQk1XN3hzdEQ1WjQ5MFZJZ0ZZdElUdjhqRlVqSm1XMVBDd1J2YXNBQVhGeGpGR19iX2taUkdtd3NIRGpGY09HLUNOclV1MkFoM3JXVmxKOWxuMnF3eURWTFVlRnJWUHZwYndqcmFacHVBQW1NOGNsT3NOZ08zYktvX3lxSm9TVnJEcHJKV2dDSGFCbml2dG14UnRFMGQyUzVFQXlaUjR6UkhsOXVodlY2NXlGOFJCMGU3emRNWU8yMWRGSWc2eFpoUi130gHnAUFVX3lxTFBDaHRSMDJyZDBMQUY1c19oc2cxaGdZZUpjV0ZVeU10NllIWlFwbDRWNVhvNTJIMTFEZXdfM1diRk9vLUZ5ZlVUbWJBcE9tbFBGdnRiLWNhMVB4NHVfb3paOTNuN1lYQnNwR0owa1JkUnJZTUhFMGtuRlZFMm9Dd2tudG1PM2R5UkI2S2ltV0pmU0s0cTNpQ0JPamJEYmdNUTZFME9PYVNsS3J4YThwX1FwRmxIYldTNjVlbzdYWXBVeWtXeXFxdTRIVUk0Z2Vrb1hvVUJHVlB5UUdseGlEQTVDZTZvcDVCOA?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2320,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "haryana-6",
+  "pc_name": "SONIPAT",
+  "pending_cases": 0,
+  "phone": "9837471888",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180139.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Service",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 93,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to construct a railway overbridge at level crossing on Rohtak-Jind railway line in Julana in Jind district, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2026",
+        "title": "Regarding stoppage of trains at Sonepat Railway Junction, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Regarding need for new train services between Jind and Gohana in Haryana to Ringas in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Appeal to confer Bharat Ratna on Haryanvi folk poet Lakhmi Chand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.08.2025",
+        "title": "Regarding need to build a �Dwar�(Gate) on Haryana-Delhi border in honour of Pandit Lakhmichand, a poet of Haryanvi language",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2025",
+        "title": "Regarding rate of compensation of farmers of Murthal Village in Haryana acquired by NHAI",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Regarding issues pertaining to train services",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need to restore the services of DelhiPanipat Express (Train No. 04909)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to experdite the construction of Jind-Panipat road",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding Railway related issues of Sonipat Parliamentary Constituency, Haryana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Regarding expansion of Delhi Metro Network upto Sonipat",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 14.7,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 88,
+      "value": 151
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/satpal-brahamchari"
+  },
+  "qualification": "Graduate",
+  "questions": 52,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 2,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 3,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Culture": 2,
+    "Earth Sciences": 1,
+    "Education": 2,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 2,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 3,
+    "Housing And Urban Affairs": 2,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Panchayati Raj": 2,
+    "Petroleum And Natural Gas": 1,
+    "Power": 1,
+    "Railways": 2,
+    "Road Transport And Highways": 2,
+    "Science And Technology": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Statistics And Programme Implementation": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "MOHAN LAL BADOLI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 51,
+    "criminal_deduction": 0,
+    "legislative": 71,
+    "mplads": 20,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 16073608,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 48.82
+}

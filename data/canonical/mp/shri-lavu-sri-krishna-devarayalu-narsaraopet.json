@@ -1,0 +1,662 @@
+{
+  "accountability_score": 44,
+  "age": 43,
+  "assets_2019": 177710073,
+  "assets_2024": 566548466,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 19242500
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 424594070
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 56840400
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 500676970,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 96383
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 25621267
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 6005168
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Of India 676706864 14,74,276 14 Lacs+ PNB Mel Life 24219612 15,00,000 15 Lac",
+        "value": 9969501
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 17782160
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4002557
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2394460
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 65871496
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=UjtebMsj93QKCsXtKYyF",
+      "total_assets": 177710073,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5116",
+      "total_assets": 566548466,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 219,
+  "assets_latest": 566548466,
+  "attendance_pct": 90,
+  "bio": null,
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "3-30-5/2, Ist Lane, Brindavan Gardens Guntur, Andhra Pradesh, 522002",
+    "emails": [
+      "krishna.lavu@yahoo.in",
+      "lavu.krishna14@mpls.sansad.in"
+    ],
+    "phones": [
+      "8632351861",
+      "9491747777",
+      "1123010714"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/Sri Krishnalavu/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 9,
+  "dob": "29/04/1983",
+  "eci_state": "Andhra Pradesh",
+  "email": "krishna[dot]lavu[at]yahoo[dot]in,lavu[dot]krishna14[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 7613198,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 7557193,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 161003,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 12118365,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 11493700,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2917420,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2648080,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 965260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2044540,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2086230,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary & Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Professional income"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹38.88 Cr between affidavits, while declared income across 5 ITR years totalled ₹3.89 Cr.",
+      "headline": "Declared assets rose 10× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 388838393,
+        "declared_income": 38943459,
+        "itr_years": 5,
+        "ratio": 10
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹17.16 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 171606978,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹17.77 Cr (2019) to ₹56.65 Cr (2024).",
+      "headline": "Declared assets grew 219% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 177710073,
+        "from_year": 2019,
+        "pct": 219,
+        "to": 566548466,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Vignan Tutorials 4,86,21,382 4 Crore+ Smt K jalaja 1,00,00,000 1 Crore+ Sri Lavu",
+        "value": 68088135
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 68088135
+  },
+  "margin_votes": 159729,
+  "minister": false,
+  "mp_name": "Shri Lavu Sri Krishna Devarayalu",
+  "mplads_allocated": 174009663,
+  "mplads_expenditure": 2402685,
+  "mplads_unspent": 171606978,
+  "mplads_utilisation_pct": 1.4,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 43,
+  "mpsno": 5096,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-15T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Good Morning Andhra",
+      "title": "Lavu Sri Krishna Devarayalu Joins TDP Politburo, Gains Key Leadership Role",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQk5kaFFiOGY4UVU1WVRUc2M3bVZubUxiQWFUZWUxV1ZXUjdpLURxVmpPVU9ZNmljSFJ3VXdJZDE3cWZmVW0yM1VQN3FOWU1ZRnpKc2NHYWdPamkyRkNYek5LU01weDZ1SlpieGdjeFA4Y0hmLUM4?oc=5"
+    },
+    {
+      "date": "2025-12-01T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "TDP Parliamentary leader Lavu Sri Krishna Devarayalu seeks SIR in Andhra Pradesh",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVhKU0pMRFFEb3BiNkdReHdpdkFMalk4ZVJWSU52dHdlSEJEbUw4WXJ6eTg3SEpjN2lheEZULTJIZHlaZXF4MDBZM2h2NERjNm9rSFBhZ2loNUlXU3E0VHgycE1Nc2QyX1Z2M3FNLTNsVTBESk9yU09xeFpKZnhwaFB1SFRGdUE5VjZoZG5LTXEwWUlaZWZGWXE4SnhLaGJYWGNVdDBoSVpsLXlKZ3VvWVkyUXlLTUpUREItTlFnM3M?oc=5"
+    },
+    {
+      "date": "2025-05-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The News Minute",
+      "title": "We told countries diplomacy with Pak not working: MP Lavu Sri Krishna Devarayalu on delegation",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWkw0elU1Q3FMaXhqNXVoSHhzXzBIMk5RYmMzamoydlowRGdoZm5LWExJbTZjcm5wLUE5djMxa09jSGNsUnhjMjVtbXlzRE9UUEMwS1haSkk2T09mR3YxRzNLMkNTXy12T21pTXJGLXBiczRHclJscVV4VV8yNWFPbmc4OWVBbV93cXhMbVhYMmJIR2RUVEtLdW1uNks4RDNCWmMzMjI3MnlkMjkxT3JPYnFSd212TEJLejAzbHZBT2RZR0pTZW85TC1SanZ5T3k5d2M2Mw?oc=5"
+    },
+    {
+      "date": "2024-05-20T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "TDP Narsaraopet candidate Lavu Sri Krishna Devarayalu demands comprehensive probe into post-poll violence",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSlJHYkMzNl9VbHhzLWRSSzloYzJGaW0tcU9xWVVDMEtzR1l5N3h2YlZNbHFMUHVHYmFtSWVCQnpkX0dES1o0TEpRTEljd1JqaEN1UzhBRVFlSnFKWExwZlU2U2hNaU5ZMXdVNDFzeFRjei03ajlYeFNCN1FSaXRURDREQVNNS0g0czlxenAzQmJaaHoxY0xNZHNOUHc2SXJnLTdjMnJROFdfU3VXZ1ZZVUZPTjdNd09obHQ3a1R6OFdjSENZYWVFMUlkODVkWHVzOEJmenJ2ZFk0OTBZZEJQUmJYN1BLU3p4Rl9jWVNPU0hwX09hQnNyaWZ5Z2RLU1kyQ1ZtZmw0ekcyRnfSAZICQVVfeXFMUGRVZnlRZnFTTDlyX3lUNzBLdXQwbmZnSG5IZjF5Z2doeEE3Y0Q1VHlDOTFoemRKSmM1enNkdmlhX0IteVp4WE5aMmdPWWZMTFZZODlzZnpub3ducENlWG00dGM2eFNsZWU2UTBNWjhsdWV2ZnJTaFlZOU1Va252dDVxOGRMeVpvaEVQTTF0WWZMRU9uN1NudFI5TGtOTm81aHNfdjU3UHJYT0xNU2xELWk0U3pvdFVxNEVLYTVTVy1ucUJSaUp1cjRhWVFkQ2xpNzRtcDlTQWVzOFkxbHdQN1ROZXl1WERfaDIzVDNOVmVWNV9VbDJlTFNkM3NMSUV3ckRQbXlWRk44RUxvLWxoeWVYUQ?oc=5"
+    },
+    {
+      "date": "2024-04-02T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The New Indian Express",
+      "title": "Developing Palnadu region is my only agenda, says Lavu Krishna",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcURPLWFtcG9ZcnVwcG0zVTl5ckV3SGtmaG5QRFFMdktXMFg5cy1BOTZJOWFDbFlEV0E0RW1IbFB3ZmxxaXlxck03ZEVaOWJhV0tnSzdUYlgzQy1jQ1QybzRUTXh2dlo2OXAyQ19xSU56bDhwWHc2c1d4RllrbEVDcTVwZGVoUlczZGRmVTBPUk51VVd4aGk2TENhQzZSVHl5czB6d2RtalhsT0xyZ0xXcUExOWlONFV0VFpRenMwTUlLT1k1RURv0gHUAUFVX3lxTFBCYW55NWRMOG9ZdmNHTXB5NG9pNUVkWWlwbUZSYVhfT3pIako3LVBVUFBVMmpWU09SMUxQbV9NbkNKOXRsVS1QUmlQcXRqa09Xd0lPOFBMS0IxUTR0dWJ2QVdXTHdBTFJGaEFGNUotcnVLUXJRZVFvVFZ0Mnp4RWJCNk1ZblBnc2RBOTl5RmYxT0xvdXgwWHlFa2MyX0pxS2JRWlVZUHJaT3g5Y0lXZ2lxdEMyaWpLRnFFQS0zY05TWVl5NlNOYmxaaFdNODdvVXJ3Qjhu?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 11199,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "TDP",
+  "party_bond_total": null,
+  "party_full": "Telugu Desam",
+  "pc_id": "andhra-pradesh-14",
+  "pc_name": "Narsaraopet",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23010714, 09491747777 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180016.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Educationist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 86,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "Regarding need to approve the proposal to include water bodies in Andhra Pradesh under Phase III of the Pradhan Mantri Krishi Sinchai Yojana (PMKSY)",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.03.2026",
+        "title": "The Finance Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need for implementation of Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DA-JGUA) in Palnadu district of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need to formulate a uniform national policy to safeguard the minor children from social media",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need for establishment of National Chilli Research Centre in Palnadu district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Matter related to problems faced by cotton farmers of Andhra Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Discussion on Election Reforms",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Legislative Protection to Exempt Pre-23 August 2010 Appointed Teachers from Mandatory TET Requirement",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need for establishment of Ekalavya Model Residential School (EMRS) in Palnadu district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.08.2025",
+        "title": "Regarding need to sanction birth waiting halls in all the tribal Primary Health Centres in Palanadu, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Request to Reduce Loan Sanction Delay and Reopen Application Portal under the National Livestock Mission",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Statutory resolution regarding the extension of President�s rule in Manipur",
+        "type": "Others"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Regarding establishment of an 100-bedded ESI hospital in Narasaraopet, Palnadu district, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request for Review of Seafood Export Tariff Disparity and Support for Andhra Pradesh's Seafood Sector",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "The Coastal Shipping Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Resolution regarding appropriate measures to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Implement Layered Tax System on Sugary and Processed Foods to Promote Public Health",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Central Government Intervention to Approve Revised Land Resurvey Framework and Investigate Misuse of Funds in Andhra Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to take comprehensive measures to address issues concerning Human Trafficking in Andhra Pradesh and other parts of country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding problems being faced by the employees of Kendriya Vidyalayas in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to Union govt to take urgent steps to enact legislation at the national level that will recognize tenant farmers and ensure they are included in govt schemes like PM Kisan Samman Nidhi, as well as provide them with access to credit and financial support",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need for investing in in-depth agricultural research in Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "The Finance (No.2) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 18.3,
+      "value": 43
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.5,
+      "value": 2
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 148,
+      "value": 187
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/lavu-sri-krishna-devarayalu"
+  },
+  "qualification": "Graduate",
+  "questions": 37,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 1,
+    "Corporate Affairs": 3,
+    "Education": 1,
+    "Electronics And Information Technology": 1,
+    "External Affairs": 1,
+    "Finance": 2,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 5,
+    "Heavy Industries": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "New And Renewable Energy": 1,
+    "Petroleum And Natural Gas": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Social Justice And Empowerment": 1,
+    "Statistics And Programme Implementation": 1,
+    "Steel": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 3
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ANIL KUMAR POLUBOINA",
+  "runner_up_party": "YSRCP",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 0,
+    "legislative": 68,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 566548466,
+  "total_liabilities": 68088135,
+  "wealth_pct_increase": 219,
+  "winner_vote_share": 53.88
+}

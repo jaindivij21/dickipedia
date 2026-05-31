@@ -1,0 +1,440 @@
+{
+  "accountability_score": 15,
+  "age": 42,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 3135350
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 121000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 91500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 215635350,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 157655
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 24678291
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 64610385
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 29220708
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4540673
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 20697868
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 99118295
+      }
+    ],
+    "movable_total": 243023875
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5183",
+      "total_assets": 456304016,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 456304016,
+  "attendance_pct": 55,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Yusuf Khan Pathan is an Indian former cricketer and politician of the Trinamool Congress. Pathan made his debut in first-class cricket in 2001/02 as a right-handed batsman and a right-arm off-break bowler. His younger brother, Irfan Pathan was also an Indian cricketer. Pathan retired from all forms of cricket in February 2021. He was a member of the Indian team that won both the 2007 T20 World Cup and the 2011 Cricket World Cup. As of June 2024, Pathan is a Member of Parliament from the Baharampur Lok Sabha constituency of West Bengal.",
+    "title": "Yusuf Pathan",
+    "url": "https://en.wikipedia.org/wiki/Yusuf_Pathan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Bage-e-Mehmood, Plot No. 90. Behind- Angan Bunglow Vasna Road Vadodara Gujarat, 390012",
+    "emails": [
+      "yusuf_pathan128@yahoo.co.in",
+      "yusufpathan.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "7984308391",
+      "9953657801"
+    ],
+    "socials": []
+  },
+  "contracts": [
+    {
+      "detail": "i) Franchise Agreement, Sansys Enterprise, Execution Date: 10.02.2024 ii) Franchise Agreement, Vijay Sports Academy, Execution Date: 01.04.2024 iii) Franchise Agreement, Shahji Sports Club, Execution Date: e: 01.04.2023",
+      "party": "Private Companies in which candidate or spouse or dependents have share"
+    }
+  ],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "27/10/1984",
+  "eci_state": "West Bengal",
+  "email": "yusuf_pathan128[at]yahoo[dot]co[dot]in,yusufpathan[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 29428760,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 6418550,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 10239050,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 20646830,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 31014928,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional fees, Rental Income, Interest Income, Capital Gains and Dividend Income and Remuneration as Director of Cricket Academy of Pathans Private Limited, Business Income from Partnership at Aris Associates."
+      },
+      {
+        "person": "Spouse",
+        "source": "Consultancy Fees"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 3% of MPLADS local-area funds were spent — ₹14.27 Cr unspent.",
+      "headline": "97% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 142686600,
+        "utilisation_pct": 3
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Attended 55% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 8% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 55,
+        "percentile": 8
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 36570484
+      },
+      {
+        "category": "Devsi Rambhai 4,00,000 4 Lacs+ G H Pathan 1,50,000 1 Lacs+ Irfan M Pathan 7,42,9",
+        "value": 83100074
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 119670558
+  },
+  "margin_votes": 85022,
+  "minister": false,
+  "mp_name": "Mr Pathan Yusuf",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 4313400,
+  "mplads_unspent": 142686600,
+  "mplads_utilisation_pct": 2.9,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 178,
+  "mpsno": 5818,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-25T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Yusuf Pathan, Former India Cricketer, Takes Oath As Berhampore MP In 18th Lok Sabha- WATCH",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXcyT1R5NnBwVWZhT2h2WWlPWXN5SVpFbjlSYjlsOG5QaUlUamlUUVB6YkZXS2pmaTBsamxxMkhMQ1dKVzloWGdXdmNqSzQ3ek1KbkF1c1BBT3ctNnZtaW5CNVROY3U5ZUhZNE56Sl8yZnY5clYtUXJjbjZrS0tZbURJVnJ5VUNQWW1NVzFqMHNjX05FcllXXzNOOG8yLWJsQXJCc1hYMzhLLWpKZFNUUWtTWXp4RXdBQXVnVC1jQjdJU3lvb3A4eXBlNWdjSEFtUDZoR0RPRE9xd1NqMy1qUVRIMNIB6AFBVV95cUxPZGNnT1NDcnhZN05sLWNGalg3eGhtZC1KWjBka3RuZEgySG91T1pCUVE0bk9UM0JmUHl2czlfNmNfT1BNT1BTM3lxM3JOSkZudDN0V1g5c3NwODVfU0NMOEpjNjhBUlRfLTZMeGFRa0pZR2tfeXlGZHNCS2lVSmw3UGo5U1dFMGJlWGlwbjRqc2MzVnJSajd2UU5aU3JaQndsV1I0NTQyNVl1alNoaG5wWThUaXBfelRHYVdNVG5nTURiT3BHUmdhR1h6dzdvcW5hM01OYlhPMDRsTzR0ZHZTdjIyOGlsS2k5?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Baharampur Election Result 2024 LIVE Updates Highlights: TMC's Yusuf Pathan Defeats Cong's Adir Chowdhury B",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNG5YRF9ELWNwRFowb2xEa1ZBWTZaT0N1MVlURmFCdVpNenhzSEhoaFJRUXBCd2s5bjAyMHZIemZTdF9NNm5nUXZzVzI4Z1JEY2EwTGZhUEhCbzRpdEVVNkVtanNIT2JFMHJWTzdqZnN2RVhxRGV1TXc2M1VLVXVUUm1ETGEwaXVNREY3LW5nMDQwaEZpdHZ6ZG12UVh4RXpZb3NJaThHX0NiR2gtUDRRYnJOVmMzMjZ4X0xqUkxXLVAzYVpucW5rS2dxS0xqQW5FNGx4Q2NGRThrSU9BaFlBc3ZleXFid9IB6wFBVV95cUxNZE9EY3VHcE5oc0dfM2hmRWVJZGJNbU9aRzVNU2JaWm95YTkyY2ZhRmd2MkxyUnRic0FOX3VmV3IweUVpVjVUU1dCT3FRMll5bXNFZ2pwaVhJRmZzOWV1UUtWUHJlYzk0YV80cFdyeHJDME1MSkJVNzFUNmUyQTBSWDd4b1Y0WEo2Z2doUDlmT0dCR2F6SVRScEpGVnR1UlI4NmxMM0F5QXM3YXpzbjM2WjNPVGlyTnBybm5Ib0plQXBNOXE5UG1zNHlFT3E5aXBIcWdoZGJKN19NeHp0ZllnZ3diaDBNSkp4SV93?oc=5"
+    },
+    {
+      "date": "2024-05-12T18:59:57.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Pathan Yusuf, Aitc Party, Baharampur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdW9Fd3FWRjQtaVRMaGRSczVvX19zSE55b2s3dzVqbW8zWEhIVjltb2dSQWQzbm9GTWs5WlRfNVlNa1JmUTExQU82VDB0Nm1iQ29qTk9xQmk4UEdPam11aDBWUXJPY1ZBVEVRTG9OUzVac2g3dVZkYkp6SmJ3T0lVbXhHalpiLTE4WGJBdTZvWlFKX1NTMkFiWHVMa1BHYW95YkQwWlp3VHZ0ZnBybThMNzJaSVZVcGRSOVZvZVRHc3RldkRVRnZqMlpZTlVRMjRGaHlNV0NKY3NFY1h3QVJZ?oc=5"
+    },
+    {
+      "date": "2024-05-10T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "Crowd-puller Team India cricketer Irfan Pathan bats for brother Yusuf Pathan in Baharampur",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSzktMTVpdldzamtKZkJSRTJwSFMyMkRzbUEzZnJHMGlPamhZYWZDdk5rQkk0SVhhMi04M3BlUUZfUkxpVFdNSHpsTmNtM0hfcXBSNXpveHdJWmFYUG5qU2g3b21WaEV4Rks1OC1YakRVWnMtV0ljVno4aHhpcGZCeUxINjdfNXNPUmNUSFVwRmhULTh3VjdFUXItN3dDT3g4aDJwb1JHaGdERGQ5OVVtMGl3dXZwUEdUdzAyaTJRdEc4bnhTVnMta1VtSUNtSVplZEdVMm9adG9DYVNLc2t4ZDJZN3FYeWVRc0NMUGNOc19RYmZ3VXJUNGppONIBgAJBVV95cUxNUm1OVDhLdmxaejBOdkRhWW9HYlY0M2F6LVA2dzNaVlNuc0Nibi1CMU8xemJVZ1lpVU9ER3VPVk9Qa1M5MFdVdXZIVzZxeS1GSktkZzlfX2dYSXMtdF8xUFQyMFNUUVVWZW5YOTN0YmRvcTRMVVNrdF9TT3NYRlZqUENING1ndm5TN2EtbDdnV3UyeTNYZWZPZjhnRzdmMFNXM2k0dHV5SWY4WFFLRnlqWFFib2JqX3Z3UU8xXzAtdWptaTZ6aHY1bVY2R21oTVJyWUw1UFpWb0JnTUVsZjgtNHNKM0dLLXp0bW9OSTRBdS1ZSi0wMkNDMTVqSVctWWZ3?oc=5"
+    },
+    {
+      "date": "2024-03-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "Yusuf Pathan joins long list of cricketers in politics, to contest from Bengal's Berhampore seat for TMC;",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRTV4bWVVSldfY3dMcWdBWGlFWkF5cmJfOEVXMzk1ckQ1bUhFbTFFMFFOcktGTWlxLWYwcm53X0VHa2QtWGZSeFVHbzJNNGRQbTVpVEU0XzVvcFo0WlVaRUQyUTQtekxxN2hvdHZaZzVkdmFlTmNlY0pHb0dTMm9nYnQyR3BQNnpaRHdGb0lndEFyczJtTElVRmJ5dmlEQXUwdVNUWlZCVHZWZzNBZEVhOElUODA2dlcwY1Y3RzN6bEpVU1JwdjZ4aTBnX0lNSU82RHJ3OG1zLWNSZm9SM1pZaUJNLWVmM21IN1BUU2hxRWQzMXRYbjcxQS1oanNOSi0wX0JleUlXUDZjYTBOcHhreEVWODd1OW_SAZwCQVVfeXFMT1JrSDBPNzhGNWQ2M0U3TmN3Y2pJZF9zVS1CR0VfN01fOEJnd01iVUFMN2h2UDJnS2VHNFBrSl9zdERmMERUTGZpNVlaSEhkQlhWZ0V4ZXRwTHBUWFFUZFNNNFZJN1BiLWJIUGxOZHAxb0lIY1ZDZ2NmRHNmMncwaVBuaUY2ODVDMHBZQk5DWEdqYkJsN0c0Y1VvN2NjVHhMTjFzRE4xMDRjSVFPbHp6THBkSGw5X2VjcVRzbjFjUTQ2ZDhsX2NydjlyWE9hcUg1clRaVFZnaE9iSUF3TWRkN1Y1WTlwVU1HQndkQWVqdWFzc1NTWXlxeUxiSFEweFdqZlVfSnNZdWpXREhUWkJLMFQ2ZzhqMnNxaG9fbjI?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 7485,
+  "notable_record": null,
+  "num_candidates": 15,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-10",
+  "pc_name": "Baharampur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180528.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Cricketer",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 56
+    },
+    "debate_titles": [
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to expedite framing and implementation of service regulations for the Registrar Cadre Officers in Central Universities",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Urgent Measures to Address Shortage of Medical Staff.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to provide stoppage to Howrah Kamakhya Vande Bharat Sleeper Express (Train No. 27575/27576) at Khagraghat Road railway station in Murshidabad, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need for preservation and development of Karnasubarna, a heritage site in Murshidabad district, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to take action to stop reported incidents of violence and discrimination meted out to Bengali migrant workers in different parts of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Need for Immediate Government Intervention to Stop Discrimination Against Bengali Migrant Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2026",
+        "title": "Regarding need for direct flight connectivity between Kolkata and Jeddah, Saudi Arabia",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "Regarding need for direct flight connectivity between Kolkata and European countries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Request for Expedited Grant of Geographical Indication (GI) Tag to Murshidabad Handloom Textile",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Reqeust to govt to pay special attention to prevent the degradation of jute and efforts should be made to promote it and maximum employment can be provided to the jute workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt prepare a detailed project for the construction of double lane flyover or underground bypass at the railway gates and necessary funds should be sanctioned for this purpose",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 11
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 85
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/pathan-yusuf"
+  },
+  "qualification": "Matric",
+  "questions": 7,
+  "questions_by_ministry": {
+    "Civil Aviation": 1,
+    "Health And Family Welfare": 2,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Minority Affairs": 1,
+    "Railways": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ADHIR RANJAN CHOWDHURY",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 15,
+    "criminal_deduction": 0,
+    "legislative": 23,
+    "mplads": 3,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 456304016,
+  "total_liabilities": 119670558,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 37.88
+}

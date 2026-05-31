@@ -1,0 +1,432 @@
+{
+  "accountability_score": 14,
+  "age": 46,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 34207000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 34207000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 725700
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 2926769
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 160674871
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Paid up Value 12,76,003 12 Lacs+",
+        "value": 3049435
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 143358974
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 10538750
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 250000
+      }
+    ],
+    "movable_total": 321524499
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5294",
+      "total_assets": 355731499,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 355731499,
+  "attendance_pct": 60,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kunduru Raghuveer is an Indian politician and the elected candidate for Lok Sabha from Nalgonda Lok Sabha constituency. He is a member of the Indian National Congress.",
+    "title": "Kunduru Raghuveer",
+    "url": "https://en.wikipedia.org/wiki/Kunduru_Raghuveer"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Plot No 564/A38 Road No 92 Jubilee Hills Hyderabad Telangana, 500096",
+    "emails": [
+      "kundururaghuveer@gmail.com",
+      "kunduru.raghuveer@mpls.sansad.in"
+    ],
+    "phones": [
+      "9866603636",
+      "9849026262"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 2,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 2,
+    "ipc_summary": [
+      {
+        "count": 2,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial First Class Magistrate Miryalaguda",
+        "fir_no": "88/2024 P.S-Miryalaguda II Town Nalgonda Dist-Telangana State",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial First Class Magistrate at Nidamanooru",
+        "fir_no": "119/2021, CC.No.724/2021, P.S-Peddavoora Police Station, Nalgonda Dist-Telangana State",
+        "other_acts": "Sec-57 Disaster Management Act",
+        "sections": [
+          "269",
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 0,
+  "dob": "02/01/1980",
+  "eci_state": "Telangana",
+  "email": "kundururaghuveer[at]gmail[dot]com,kunduru[dot]raghuveer[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 142740,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1903160,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1550810,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1553810,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1320230,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1540460,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1730830,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1300000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1307450,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1319580,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Director"
+      },
+      {
+        "person": "Spouse",
+        "source": "Director/Partner"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹15.67 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 156684604,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Abhishek Thiwari Hand Loan Unsecured Loan 10,00,000 10 Lacs+ Raghunandan Tiwari ",
+        "value": 176679000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 176679000
+  },
+  "margin_votes": 559905,
+  "minister": false,
+  "mp_name": "Shri Kunduru Raghuveer",
+  "mplads_allocated": 162952022,
+  "mplads_expenditure": 6267418,
+  "mplads_unspent": 156684604,
+  "mplads_utilisation_pct": 3.8,
+  "mplads_works_completed": 4,
+  "mplads_works_recommended": 22,
+  "mpsno": 5793,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-11T12:32:21.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kunduru Raghuveer , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkRfR1poM2trY25aVDNKVExPY2R1clNZNVo4MWZ3dnJJSlVkMEJ3TmtQRzFtUlp0dHZRc3ozTmh3WkRxT1M0SjR5cmNHdGxnaFdreE5kMEYwbVE1WnN3VEdOcUdJbkRwaHYzcDJmam5UTDNiUkJadjNmbXpKNEN5R202cVVRQW9JZlE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Deccan Chronicle",
+      "title": "Raghuveer Sets Fresh Record in Win Margin",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWUxLTBtQ0stNXFJaGtNdlEzVEY4LUFUeVZnQ1VqUnpTRkN3bUVrNGQ3QnZTTlp0d2EyZ2w0QXloc2g0VERTWWJuejNlY1o1SU9fdUd2Ml81dUpDUGxKQkN6cG9nOGpvamFOQ0QxRmxfOC13UnJfcE1UNjdjZV9KNXh0RUszXzlfeTg0YTJ0NlUwQkh4YzJkNmxod3czUHZYTGp6Q0tMdmJ3QdIBrwFBVV95cUxQY1ROT2QtX09LeDNxVWd1cjZ5cHFOSHUxTUpoZ0NKZ2VLTHlxd3RVR2FLUFNnWFUxN1l4MURZeEROSVk1LXljRFowTWhLbjd3U3U3RFQ0VWRTamRSOTg2N1dBYVFNczE1RnNfZTFpM2NsaGFYcUJBM2JtVWtHSmRQdDEzVXgzRE5UVG5KX0JGX2pWVWdtMll0N3Nfa0k5NGNxWE81OUJyTGZSck1keDFJ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Nalgonda Election Result 2024 Live Updates: Congress' Kunduru Raghuveer Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakNTLUtmck51SGNxX21tbUZqT2QwU0Q2TWwydkY2RkNMSE5hUFJjZzZPak1EYU9yckh1X2JEVC1zSjFoLTAtY0RfZ1p0SmxvLXV6QlNrdm9EcjYwN3dnSUd3SG9IX01ic0hGSGQ5aDZzNzNxUnFqSlJnODNaYVM1a1dwU2RNNEMtTmhGMDFqSnZqSDFqSEpFcHdZdUkxOWdJSzB1UEQwVjJxSXM0bWYtQkhFZW9FY2g3eGcyRVhNdHJJaU9rNVHSAdMBQVVfeXFMT2Vua1ZraTZLZ1N1MmNJd0VRbkJtZThUbldmWVRQVF92YXJwbmFsQUxaX1NUendkZ2VzRXI1VlFJR3o0MGNuM2FtNV9aa2xsTlk0a24yOFFkaGcwYWhYSEEwZFZVYmFmcFhGalR2Z2dmT0JRX3dHajI0VFlSS3lWY1l0dURVdkMxQzlrR3I2VGx3X0p2eXNEZjBhbTNMZ3kyQ1N4Umg4bHVtaVVEMjRRaDRjV21vUmRFYzNOTXdBTjBzUTZkUGZWZHFoTC1pdTAycGlubw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Nalgonda election results 2024 live updates: Cong's Kunduru Raghuveer wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOcTJ0NjJyWlRWeE5tOEFwOXM5SXhhUGpySnBaNGd4SFdYRnlVYUJZenNEaEQ1MmR0UmZUc3Nsc2h0VVQxamhuN184Ym5vSzh5YnRWZGE5OG45SXh0TXRzaEVpT2NIZEI1X1RLTkxZR2JiaWJTcXZmYUZvcUNkOVhXc1FxclA2RzdXY2lnek5IamIzLWpjM1djZGxlSTVpYWRIU0kxaDhCMDk1TC1JRkFzOFJkNmpHd3Nwb0pqWm5TWDI5a0hZV0VLcDRjSUJPWUpraFd4VEM5QnZuSURBRTRXd1RKc0JSelhBb0NJbTNoekg5MENsSWlTUW03Q2pVWHM1anRZbzJaVlNLT015VjAxWW5mbWxvcmtpaXBwSjZVZ29HNHRpMUZxZ002UG03clU1TEN0dDFNVGpVQ3lKVVJZYkg5bEhYZm9fSG51WFVlQ01xcmpGUFdVNmxrQVhoVHpZ0gHmAkFVX3lxTE9lMHhrY1pDakFaclhOdlk0WUdHODJseXpzdmtiaU0tTXdsRlhLNXRJN2twQVVQTEZ6ZHB4SDd6TVR3TXdSWEZRcmlnUzBsTXVNNll6d1RnRVBQVWlrbTlRelZ6YjZDQm1jd3hLMFYyZTBHWGRpUERVU2lmazU3cmlvbWpnT1JRczNGSTNsWGxSWDJVbEFWU3pPSTJmbHRSbzNVTzhadk9NcFVEQkt4ZDIyM0o4bkdCcDlPdXVWQmNFcVIzRXVMWFdXSzJla1M5LUxSWFE3RFdoLWx5NUFNVHVQWlRMWWs1dXd6VHRyaXFLMGNrWVg4YVlwekZMVV80cmFRQXFHRFgyZVI2YVJSVHhTMzZCMVloaS1FTXpQVHNuWkc4cFU2MUwydXl1ZXdsSlhSLWx2cEZvMk9iWllhRG43QkZBd1V0ZWpUYy1zNi1zc0ExZjJKV0xndzVNbHZlMlJWLUJOekE?oc=5"
+    },
+    {
+      "date": "2024-05-12T21:02:01.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Kunduru Raghuveer, Inc Party, Nalgonda, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLWQ1cV9Ia0tQWVJnOWJJQTBYOTZ4ajlrNWdWWTc2VFMzS2ZOeWJySkEyMjhQa09EMmVPVG9YSTlncTVhcGFOSmdaWGRvdWFIbUZ6TWt1QVp6M2hLd2RUekNfcU1PTDliNTdYdk1xN0t4WmtMVU85elhVN3ZqS3VzZnVXZUtjZTBwR1VkQlhsalluU0RoYnNONkQ1YXpUZ3RWV1EyOHpXdVNxU3NOQW5jRWU2RGMzVnJfTmtyYTNiVUFCb19vYjgtMllNUzhOaFVNT2xvMTA2Vm9ubXE0dEI5TA?oc=5"
+    }
+  ],
+  "non_serious_cases": 2,
+  "nota_gt_margin": false,
+  "nota_votes": 6086,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "telangana-13",
+  "pc_name": "Nalgonda",
+  "pending_cases": 2,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180408.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Politician",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 64
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 53
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kunduru-raghuveer"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "SAIDI REDDY SHANAMPUDI",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 16,
+    "criminal_deduction": 2,
+    "legislative": 15,
+    "mplads": 16,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 355731499,
+  "total_liabilities": 176679000,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 60.5
+}

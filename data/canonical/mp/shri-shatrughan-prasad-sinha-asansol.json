@@ -1,0 +1,431 @@
+{
+  "accountability_score": 34,
+  "age": 80,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 105000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 655801740
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 2010800000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 2771601740,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 273577
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 49791754
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 66871895
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 61223114
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6554957
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 27130796
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1593805
+      }
+    ],
+    "movable_total": 213439898
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=xfP4m4XkjpzgxaCQsZW",
+      "total_assets": 1935459756,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5179",
+      "total_assets": 2105041638,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 9,
+  "assets_latest": 2105041638,
+  "attendance_pct": 50,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Shatrughan Prasad Sinha is an Indian actor and politician. He is a Member of Parliament, Lok Sabha from Asansol constituency as a member of Trinamool Congress. Earlier, he was elected as Member of Parliament, Lok Sabha from Patna Sahib. He was also a Member of Parliament, Rajya Sabha during 1996–2002 and 2002–2008. He was a Union Cabinet Minister of Health and Family Welfare and Shipping in the Atal Bihari Vajpayee government. He was a member of standing committee on transport, tourism and culture and member of consultative committee in ministry of external affairs and overseas Indian affairs from 2014 to 2019.\nIn 2016, his biography, Anything but Khamosh, was released.",
+    "title": "Shatrughan Sinha",
+    "url": "https://en.wikipedia.org/wiki/Shatrughan_Sinha"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Bhuneshwar Niwas House No.12, D Block, Kadamkuan Patna Bihar, 800003",
+    "emails": [
+      "shatrughansinha@gmail.com",
+      "shatrughansinha@ymail.com",
+      "shatrugn@mpls.sansad.in"
+    ],
+    "phones": [
+      "9821067268",
+      "9818840999"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "15/07/1946",
+  "eci_state": "West Bengal",
+  "email": "shatrughansinha[at]gmail[dot]com,shatrughansinha[at]ymail[dot]com,shatrugn[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 14079700,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 7391090,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5852890,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 8991210,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 9742450,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 12172000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 13752230,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 15542060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 17543630,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 14304380,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary as Member Parliament, Professional fees, Income from Rent, Interest Income, Capital Gains and Dividend."
+      },
+      {
+        "person": "Spouse",
+        "source": "Business Income, Professional fees, Income from Rent, Interest income, Capital Gains and Dividend."
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "No starred or unstarred questions recorded, while declared wealth grew between affidavits.",
+      "headline": "Asked zero questions, yet declared assets rose 9%",
+      "key": "silent_but_richer",
+      "numbers": {
+        "growth_pct": 9,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs",
+        "myneta"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha. No starred or unstarred questions were recorded either.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Attended 50% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 7% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 50,
+        "percentile": 7
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "Only 42% of MPLADS local-area funds were spent — ₹8.49 Cr unspent.",
+      "headline": "58% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 84851727,
+        "utilisation_pct": 42
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Sonakshi Sinha, Personal Loan 11,58,80,324 11 Crore+ Kartiken Kalla, Lease Secur",
+        "value": 175569574
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "36,000 36 Thou+",
+        "value": 512136
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 176081710
+  },
+  "margin_votes": 59564,
+  "minister": false,
+  "mp_name": "Shri Shatrughan Prasad Sinha",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 62148273,
+  "mplads_unspent": 84851727,
+  "mplads_utilisation_pct": 42.3,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 27,
+  "mpsno": 4468,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Asansol election results 2024 live updates: TMC's Shatrughan Prasad Sinha wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNN25mRldKWGE4WlJMWnVWbVoxWmVtcFJmVXNOUE5iMzRJNnJwaS1JMHFfLUw0NnZTa0VJQUhDNUdyeU9WaGRBNGMxNF9GbTFHQlNDdWNGUXRFcW9kVkl1NXNtYk5TRGlEY0Y2WF9RNjFvMDNySXNrZ3VUeHNrMXo4UUE2cTdsTFNNVUdOSklYYjRVY0FRd3Zsa0FZYmw3Mml0Mk1XcUNSMVFsUndZNXV6cjJrMFZFOTlmRHduMTdtWkQxYnZkdEpoOV9XdExUNUg3T0x4bmZ0VGtaNXlneHVZX2c5Qk5iVEhjMHJkck55YVhldEtldGVZbVAtWUxpTnhYSjl3VHRaOXJvOWdMY0x0dkZzQ2JmOGp6NEdpZnI2aE9WX3N2WnBQSHYzbDhuY0VEM2hRQVFiWlVQT2tDQTcyMFk4ZXh4S3lhMkNCZ2E0UlpUazV0cGl0ekhseWd1RnRm0gHmAkFVX3lxTFBGRWo1SEh4V3RqU1RSV1JDNkk0eUo3dmpuaHdQUllvd28wdmRScXRuZGR5RjBVUzZuOHk4cmh3c0ZQdFdwVDR3Ym0tc0o2U2w5ZFZjR1plakZmQVQ4eHhpc0ctQllsYTJBSmY4VFJnR0dua2dabTVKMXBNRmRYSXJqMHQ4VnMyNTNCem0zVk9SUXd4MEZ1ZUZfV0M0MTJmbUg0empWTkdMbXJwUHJYYmFjTF9weFE5SzdBTjNpNzI4UlFqWEpnTWpIRUs1ejUxSHNiQ0M3REJuNDVUTmJHNzJveFIzWlhOM0lucjU3UmJxN2U1TlNSMkhfdldETC10RTQ2T0JZQkg2bFpPZkRBQWN3U3ZodkxOUW5wYlpxLWxUQnpGVUhkdnRhNGZlWUNCZ1E0YnNKUG5HUWdaa1RORFFNaWt1c01ncnhfR0hWTm5SRDZjMFhvT2hqUENCN21nbERUbi1IMlE?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Asansol Election Result 2024 LIVE Updates Highlights: Shatrughan Prasad Sinha of TMC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUlVGeWZUcHZmdGFKdWlDMG15ZFlsTy1iNDZ0RzJNc0N1OVppR1RlM01uaEhuUGdqUWNuZ2hRYlNJODZnYkVBWVhoU2tSc09CT3pra2FIdXhmd21aSTdRTFd2RUk3dWpNdERlemNhYVppdllMcFF0ZFBVR2tReW9FRkJTVVg5RDdkWGpzOHlWdHFkb1AyeWhGRzFEWm96VnY3ZUpKc29iSnJCT2N2UzhOWjMzRkNFX3NrMUtyWXZnRTVzQnc0Zi14cG9PTTZYR2F2eFlJbGI0MWplbjVrTFZOSjJB0gHnAUFVX3lxTE9zeEdrTHg2ZWFFQVVHV3Z0dXZsRmZkeU1xeFpnSk5GUHBRYzFfOVlrQTdCTVpXM2pibE92UU16a0FOaWt5bUh5N0Z0MlNhNzZkYnB4VE50MzJxNGNlbWNkSnFrcW82V1RpQmJlQ1VzbnJKaXllOHhmWFhpaDU3TW5OeXNFVml0akQzTFBoZTJYQUdrU25ORHJ4VEFhdGRLNjZoZ21MYUVEZ3RSM0htbEs5c0VWVUJVYW5Oa0pqbVA5eDk5WXJRMXg2R1Q3VmpfOEdtbktXMk5YOHRJcC1zaXplVW1NU2xzdw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Asansol Lok Sabha Result: TMCs Shatrughan Sinha Retains Seat With Win By Over 60,000 Votes",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG11c0hzd09GeGJ2QWdmWlhpbWlPSGlmellMQ2tpNGY1cmtxX1FVbDVqTEJUUmlpRXphWVRsQ0hUX21kQ0JjT05kMTVXM0J1cC05R3c1X2RRLWtHOUxRZDVBM1pRdWxsamVTLXE2MXJweTFLWG5VMm1nT1Bub2lLYU1SLWgwMXRpNVRzUHNHdTV0VXdYV251YzlFZl9RRWotVUJ2ZTljX3A5X0FTbVk2NnhlSnpyVURZSXo1VWx1SEhpQWw3aGh1SENYaWM0X01vNHJEUHB0ZUpLTk81WU42cnlxZ9IB6AFBVV95cUxNNTRKTlBhRnJSVUJfRlhPNnEtRjdGc0F5cVptWXdJWF9EUzFiZjVTU1ZoRnN6UXdnaDEyWWpaeGRTMGhtQ1hEZmExNGlnamtUQ1FLcjhGRDgyMGRLMzN1UUZIalpUa3NxaXoyc01jN1ZudHBCSEJDYVJJYUFhVUNIWnMyY0dzT09jOVFOY29zMU9oZXhHWG92U0IzNzVmLWNIaVZDbzdqU1RFUUVqZjdzak5MXzVqaTNFc2FBVlJ6eGZjMDhUM2U2SzM1U0VMMWJRQ1BwWFJCYkJycVRsLXp3TU9teVVYZVBk?oc=5"
+    },
+    {
+      "date": "2024-05-31T19:56:32.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Shatrughan Prasad Sinha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm9rZmRvWEtqVEx2X2FGajFDVHhVT0xUdHVRUk14UnQ4NVdsWVlTQWdjU0pMam1nTVNKcXFKT0dyT0JaOG9Fd2czMVM1QVpoU1laZmctSkM3MEptN2t3UnJKdTdwenI1ckpTdTNJMDRPQWlRRWhKZ25QMW1pZnNXUk85SXlTY2hIeU83V1ltYXRJdWpXZ2czaklZRWhVNkk5aXlJNFNvbXhzSFNDaEZBMlFFMFZ6U1RYN29jTVpQTWtCUHM1ZGc?oc=5"
+    },
+    {
+      "date": "2024-05-13T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "\"Asansol... aaj apki baari hai\": Sonakshi Sinha urges voters to exercise their franchise",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjZvT2FKdjUycWpwX0V6V3NZOFRpdGxSN0Etd1Q5MHZfRWFxajFlbjNwTXVBR2oyckxiRkhRMk9mLVZVNnE2M21fTXVuaEktc1VESnpHZmRMMlRWSVk3dVZtQ085R3FJUlBEQTJKMEV2cUROTG55UEFKaEFVZkRFalVUZDdiZ05oWnh1cF93RVM5cGJvWmpNLVVGMl96blNxSTIwNXlneXBaTE5IOEpmNUtkRnhTWF9xdzNEVU9FdnJFSUNUal9PUmxVSU1Xb3lrazlvem4tNG13WVZTZlZfcUJ3?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 15510,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-40",
+  "pc_name": "Asansol",
+  "pending_cases": 0,
+  "phone": "Tel: 9818840999 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180539.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Film Artist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 64
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 6
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/shatrughan-sinha"
+  },
+  "qualification": "Graduate",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "SURENDRAJEET SINGH AHLUWALIA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 28,
+    "criminal_deduction": 0,
+    "legislative": 13,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 2105041638,
+  "total_liabilities": 176081710,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.53
+}

@@ -1,0 +1,636 @@
+{
+  "accountability_score": 34,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 4000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 4500000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 40100
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 271017
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1500000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 760500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 2571617
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Jdg2zCQBgWiHyuW6tZsx",
+      "total_assets": 580000,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7157",
+      "total_assets": 7071617,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1119,
+  "assets_latest": 7071617,
+  "attendance_pct": 80,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sukanta Kumar Panigrahi is an Indian politician from Daspalla, Odisha. He was elected as a Member of Parliament from Kandhamal Lok Sabha constituency. He belongs to Bharatiya Janata Party.",
+    "title": "Sukanta Kumar Panigrahi",
+    "url": "https://en.wikipedia.org/wiki/Sukanta_Kumar_Panigrahi"
+  },
+  "charges_framed_count": 3,
+  "committees": null,
+  "contact": {
+    "address": "Village Patanda Gania Nayagarh Odisha, 752085",
+    "emails": [
+      "sukanta7panigrahi@gmail.com",
+      "skpanigrahi.od@mpls.sansad.in"
+    ],
+    "phones": [
+      "9437873717",
+      "8249332088"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/sukanta.panigrahi.7"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/sukanta.panigrahi.7"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 4,
+        "description": "Punishment for Being member of an unlawful assembly",
+        "section": "143"
+      },
+      {
+        "count": 4,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      },
+      {
+        "count": 3,
+        "description": "Danger or obstruction in public way or line of navigation",
+        "section": "283"
+      },
+      {
+        "count": 2,
+        "description": "Obstructing public servant in discharge of public functions",
+        "section": "186"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Obscene acts and songs",
+        "section": "294"
+      },
+      {
+        "count": 1,
+        "description": "Assault or criminal force to deter public servant from discharge of his duty",
+        "section": "353"
+      },
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Mischief causing damage to the amount of fifty rupees",
+        "section": "427"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "S.D.J.M Phulbani",
+        "fir_no": "Case No. 73, Date- 18.04.2024, Phulbani Town P.S",
+        "other_acts": "Section- 7 Crl. A Act.",
+        "sections": [
+          "143",
+          "341",
+          "294",
+          "283",
+          "186",
+          "353",
+          "188",
+          "149"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "C.T 756/2017",
+        "charges_framed": true,
+        "court": "S.D.J.M Boudh",
+        "fir_no": "Boudh P.S",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "427",
+          "149"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "J.M.F.C Dasapalla",
+        "fir_no": "Case No. 179, Date- 29.12.2017, Dasapalla P.S",
+        "other_acts": null,
+        "sections": [
+          "143",
+          "186",
+          "283",
+          "149"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "J.M.F.C Dasapalla",
+        "fir_no": "Case No. 03, Date- 02.01.2013, Dasapalla P.S",
+        "other_acts": "Section- 7 Crl. A Act.",
+        "sections": [
+          "143",
+          "283",
+          "149"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 6,
+  "dob": "25/05/1967",
+  "eci_state": "Odisha",
+  "email": "sukanta7panigrahi[at]gmail[dot]com,skpanigrahi[dot]od[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 382720,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 314660,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 348560,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 307480,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2103000,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Advocate and Agriculture"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹5.8 L (2014) to ₹70.7 L (2024).",
+      "headline": "Declared assets grew 1,119% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 580000,
+        "from_year": 2014,
+        "pct": 1119,
+        "to": 7071617,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 24% of MPLADS local-area funds were spent — ₹14.52 Cr unspent.",
+      "headline": "76% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 145190598,
+        "utilisation_pct": 24
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "3 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 3,
+        "convicted": 0,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 21371,
+  "minister": false,
+  "mp_name": "Shri Sukanta Kumar Panigrahi",
+  "mplads_allocated": 190712424,
+  "mplads_expenditure": 45521826,
+  "mplads_unspent": 145190598,
+  "mplads_utilisation_pct": 23.9,
+  "mplads_works_completed": 47,
+  "mplads_works_recommended": 289,
+  "mpsno": 5615,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP’s Sukanta Kumar Panigrahi Wins From BJD Stronghold Kandhamal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRU95N214aFI3RmFUc1E5RTlnRGQwSXBGQk9KU1NHRThFTzF2UVdMQV9xWnJCMjUxQUc0R3JTa0h0c2NpU0xFV19RNjF3UV9hT3JialJxSFR6Vzl6WGdlamMwZERJQXhZZHFFT2wzWEs5N1lQNURkR1BEWXhySmV1VFg5SEplTUVZRGhXX3BIYm9nQ2ljdjFhRThldXc2Y29ZZkhsbUZ4cmhwX0N5R08yWlE1cw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Kandhamal Election Result 2024 LIVE Updates Highlights: Sukanta Kumar Panigrahi of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWhIY0FYTTU5M1E1Qm9ndG01MzAwc2ItLThjc1lNRjhTeV9ERy1wbmNoUFVKU28xNGd6aV9IQjBUQ0FVaGc2V3FYekhSTHZNRjhvNWxUemVjQ1AtNUNuZ0NDRnRBa2t0VkdUeGItSVg1bURMUm9ZbXYtLVFYZUVWODdkR21xclU1bjhMM0pRLTBsM2VsUl84RGZWOVVFemNvamNHeW8zUlYwOUh3R1NfSC1JNjRyVV9CYUZ4cDRidVVYUFQ5SzhieUdKNkhVZnJ5UmplU2FFaUtYVzhLaTFRUWdSNDbSAeoBQVVfeXFMT1pzVUszSi1DUFZBZkRPVVdyX2xNSmpGWW9TU2xOQzZNRmdac0tkMS03SmtnVGNzNlFaUGVTdlFoeVBoc0dTQmgzdjlKbFdlOU9paDJOTnpWMEJmYVYzdC1XV0VSN0NtOHFrRzJDYm9BN3dWSXNiRl95RE0zc0VUSzUxYU1KdmZCQTVqcVFBb1AxbkxpaklZUVVDMFFMeXJON3BIN1JrUlhtaVRfSmhKYUxaLWI2a2VhQjcxNFZuNFNPN3VQbld6SXpHYUoxMFNVT2ItMkRxeVZGTDhieGpTNmVnZ242a2FVX013?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Kandhamal election results 2024 live updates: BJP's Sukanta Kumar leads by 11578 votes",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMl85M05jcWxSdE85R2ppTDJrWDhKTGd3cWRkZnJUdVh0RnVmem5GbU1kc1MzUkxFb0NwUGxYdzJOSWx4NGpJcGlaYW40OFByaWdMWmp2QmM5S0NTNEE1QVpBTXNXSFUwd3M4MDNsZHR5WjcweEh0VUo0YXdidjZfNmRabFZxVExzcGhqQ296R0VUZnVuZG1tN0pKYVozRFl2QklicHppb0dPMEp1SmIxRDBuQjZfRExNTTk5MjcyUF84ZFVaMWVfbnBNVk9yZnBVTEpvTFZGbG9XUFM2YlZQLXROWlZGYW02QjlmSGs5NWhzaE1VTlB1cmx2TjhRV3F5Q2s0cjdhT1oxYTTSAZACQVVfeXFMTk1sVGpVQ2E0eHFWbjNDMXZtMERHSFVGWDJUSGlFOFRWelhBcHk4WmJ5bGNsc1FrUlQtTzdOazRLTlUxWjJ2WVZ4OFpkOFhobGZpMXlxbUtWUG1wdlE5N1F6dFBBa1gxMlRRS01xLTh2QkRkNndBRE1xTmIzUTNkZUFmZGNaNWtxOXBmYVJSdFdDT0tNVS1SWHNvOEx2bGtEdzh2MUhvNnJYZVcxakNSc205aU45dTVfQlg1MmZrZExWeUxpaWl1Q0pDVkoxNUJPLWdLS2xSa3RPRENfYWFuRUxMM3pIenZwR0ZKUUFROHdBUHhmMnFybWdabHlpMHBoZW5aUGY2dXlaVjE2bzdoWDI?oc=5"
+    },
+    {
+      "date": "2024-05-31T17:57:48.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Sukanta Kumar Panigrahi",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzBRLW83WXBTZmF1RkNUS0RrVlVKQWVjenZta3MtaWQxSDI2RU5xX2xkTmxlck9HUGZCaFhlN0xuQzNRQS1DVS1seHU3WmM0bDZ0ZzRtSklpUlRYRW5VMEk2YzI3RUtCeTVtYTQ5clRydDM1WUdWNEIwODA0bXRPWEtEQjJBODJtWDZ5MjY4Y0hIOGozRVhjVzhfX0hSY3lWVy1ZamU1OWRid2kzSlFVVkEtT3ZWZDdBeURmWEZxYnRrZms?oc=5"
+    },
+    {
+      "date": "2024-05-17T15:50:13.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Sukanta Kumar Panigrahi, Bjp Party, Kandhamal, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbnFzSXFGdWV2N1hzVU1HTlJKRkczX1lvVzM2Vm5URnBqcHQyNUhGVmVWT0swZXZfWUdQQjlJNnVCR3NqclU5SnU2aG1BeUcyVDNOVXFkaW8xNW1Yc0FsbG1oUXlIb3B5dTFsNGtNNGU4ZGNzRWVmM29SX3FBdnh5UmpHRkhRUEEwVkd5eTZfQlVXY0hlcExsdENZczJyenlNZktYcWh3XzlBLWtqbnF1a0ROMTdjMlFTUXFMakJrUkhmQ21FZnFwYzNVczVYaFlLQWx3ZXJUelplVGk3YnFkV3EyTmNYQQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 4,
+  "nota_gt_margin": false,
+  "nota_votes": 15720,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-13",
+  "pc_name": "Kandhamal",
+  "pending_cases": 4,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180318.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Early Approval and Construction of Gopalpur�Rairakhol Railway Line",
+        "type": "Special Mention"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Request for Permanent Accommodation for Post Offices in Tribal Areas of Kandhamal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need for establishment of a Tribal Cultural Academy in Kandhamal Parliamentary Constituency, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "13.02.2026",
+        "title": "Regarding need to strengthen institutional, financial and marketing support to address the issues faced by coffee growers in Kandhamal district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "Regarding need to undertake a comprehensive feasibility study for establishment of Small Modular Nuclear Reactors (SMRs) in Bhanjanagar or Boudh district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to establish a Haldi Board Satellite Office in Kandhamal district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need to expedite approval for establishment of a 50-bedded ESIC hospital in Kandhamal, Odisha alongwith upgrading the existing dispensaries in the district",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need for a multipurpose major irrigation project including construction of dam at Gambhira Darha in Boudh district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Appeal for Inclusion of Boudh District in India�s Official Buddhist Circuit and Preservation of its Heritage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.03.2025",
+        "title": "Request for Official Recognition and Promotion of Lanka Podi Yatra Festival",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need for all weather road connectivity in rural areas of Kandhamal district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Regarding need for establishment of Ayurvedic Medical College in Kandhamal district of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Regarding Setting up of a Central University in Kandhamal Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to minister to provide adequate telecom services in Kandhamal, Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Regarding need to connect Gopalpur with Sambalpur rail line with Phulbani",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 21
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 133
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sukanta-kumar-panigrahi"
+  },
+  "qualification": "Post Graduate",
+  "questions": 31,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Mines": 1,
+    "Panchayati Raj": 3,
+    "Parliamentary Affairs": 1,
+    "Railways": 2,
+    "Rural Development": 3,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 4,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ACHYUTANANDA SAMANTA",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 4,
+    "legislative": 55,
+    "mplads": 39,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 11
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 7071617,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 41.8
+}

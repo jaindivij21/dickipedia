@@ -1,0 +1,417 @@
+{
+  "accountability_score": 61,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1357901
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6352000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": null
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 7709901,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 210000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 867990
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC Policy No 35919xxxxx 25,390 25 Thou+",
+        "value": 36177
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1588945
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2777500
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 5480612
+  },
+  "assets_earliest_year": 2013,
+  "assets_history": [
+    {
+      "label": "Chhattisgarh 2013",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9PSNjddXLUCbAnWrXWbA",
+      "total_assets": 4302808,
+      "year": 2013
+    },
+    {
+      "label": "Chhattisgarh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=9PSNjddXLUCbAnWrXWbA",
+      "total_assets": 11580528,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3590",
+      "total_assets": 13190513,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 207,
+  "assets_latest": 13190513,
+  "attendance_pct": null,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Tokhan Sahu is an Indian politician and a member of parliament to the 18th Lok Sabha from Bilaspur. He is currently serving as Minister of State for Ministry of Housing and Urban Affairs. He was also a member of 4th legislative assembly of Chhattisgarh from Lormi.",
+    "title": "Tokhan Sahu",
+    "url": "https://en.wikipedia.org/wiki/Tokhan_Sahu"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Gram- Dindouri Tehsil- Lalpur Mungeli Chhattisgarh, 495334",
+    "emails": [
+      "tokhansahubilaspursansad@gmail.com",
+      "tokhan.sahu@mpls.sansad.in"
+    ],
+    "phones": [
+      "9893593068",
+      "7580806868"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/tokhan.sahu.3/"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": null,
+  "dob": "15/10/1969",
+  "eci_state": "Chhattisgarh",
+  "email": "tokhansahubilaspursansad[at]gmail[dot]com,tokhan[dot]sahu[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 400000,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 400000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 436500,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 362450,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 179970,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 448600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 380200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 346500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 302500,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 298000,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture Income and MLA Pension"
+      },
+      {
+        "person": "Spouse",
+        "source": "Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "From ₹43.0 L (2013) to ₹1.32 Cr (2024).",
+      "headline": "Declared assets grew 207% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 4302808,
+        "from_year": 2013,
+        "pct": 207,
+        "to": 13190513,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 30% of MPLADS local-area funds were spent — ₹10.28 Cr unspent.",
+      "headline": "70% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 102843159,
+        "utilisation_pct": 30
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 668086
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 668086
+  },
+  "margin_votes": 164558,
+  "minister": true,
+  "mp_name": "Shri Tokhan Sahu",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 44156841,
+  "mplads_unspent": 102843159,
+  "mplads_utilisation_pct": 30,
+  "mplads_works_completed": 30,
+  "mplads_works_recommended": 127,
+  "mpsno": 5700,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-08-29T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "PIB",
+      "title": "On National Sports Day, Bilaspur Runs, Union Minister Tokhan Sahu Joins Marathon with Youth",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LUjVtWHg3U3N1Qm5yRF9STnNGMXpQd1BEcVBYRmI4ei1KSFdBR3g2TzQySHFMRFNyUFJ6T1B3SjU5TS1MeGt2NWc1SWxfMUtXM0QyN1BhUFJNWEwtbnhjR3M2ZmN1U3RH?oc=5"
+    },
+    {
+      "date": "2025-07-26T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehitavada.com",
+      "title": "Tokhan Sahu calls on Amit Shah",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbURTZlZwMlVoOW1rSjdZVGdsRW9GekQtNGdRdFV5QVMwbFRjSG5POERid1V2SEk3M3ZNNnNaX0dvaE5tSU1OOTBUelhEMjJkaGwzcV83V1hhU3F3c2IxRzBXMlByYl9ZVFliNk1yQV83UUVCRVA1Nlg1eUVGSmF0T0QzWWVJUdIBiwFBVV95cUxQRV9SREQyRVMzTHJrUVhhcFZrWmpFeGxPRGVEX3lNQ2VOMlBkMldoSTNJM2RiY2dFbm5xWGtwQ19IX1N3WWt4S2N0ajhGNDc2cGsyX0E4Z2tQRV81QjEwVjlyV2dhNHl3TmVZNEJSVEFfeHZFRHZUdnJpS2JRR2cxX3N2RXpNRWhkb053?oc=5"
+    },
+    {
+      "date": "2025-04-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Social News XYZ",
+      "title": "Huge gift to Chhattisgarh: Minister Tokhan Sahu thanks PM Modi for 615 km railway line",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0wwd0xBMDlhLWliS2xrZjhsLUFoNWtDa1k3QUwxVVE2OHZrRkRKM1l1NnlrTGgtVEcwQWNUSnZreWZ2bjhlUzhxRlVtNVpDdHJJZFlOaTU0ZTNEQy1UMC1FRkU4aVBZT0xfdy1ULXF4NjMzQk40a3hrQ3k2MnRPeU1SNkhveUNkMkNhNE5MZV9ocDlidmtfaGpGUndPdnQ1NWxaTjIyTmgwRDNpV0laVFdMMzJEVUo1UEMtemk2QzUzZ9IBwgFBVV95cUxPd0wwd0xBMDlhLWliS2xrZjhsLUFoNWtDa1k3QUwxVVE2OHZrRkRKM1l1NnlrTGgtVEcwQWNUSnZreWZ2bjhlUzhxRlVtNVpDdHJJZFlOaTU0ZTNEQy1UMC1FRkU4aVBZT0xfdy1ULXF4NjMzQk40a3hrQ3k2MnRPeU1SNkhveUNkMkNhNE5MZV9ocDlidmtfaGpGUndPdnQ1NWxaTjIyTmgwRDNpV0laVFdMMzJEVUo1UEMtemk2QzUzZw?oc=5"
+    },
+    {
+      "date": "2025-01-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "ANI News",
+      "title": "Union minister Tokhan Sahu reviews various urban development projects for Chhattisgarh",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR3FVS0F0OHNlTHVQaGVoTjBIOTVyQ1B4NFllNi1XdFF6VHBZcW1OWXlVRWJRekNZaU5nR1RBejhHN1ZjRXJPTHVLbWxVSnpwUWtFNEUzR1lDcl9uZVBmcTk5dkswZGVGZXNQSlRIZTJudzBFM2x1Nk9Rb2xFdU1ocndneDgwZGdjN2Z6TXFOaTlnbzNobVU3VnlEQTA3SGVqT2daWmJrWGhqWEV4Ynl5SzdwOFZXMUZBVXVHRjZ6bk5QX0JPMWVVM0hwME03RlBUNmhXSlRMbm9nbFpqU0lyREdBQUI?oc=5"
+    },
+    {
+      "date": "2024-06-24T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "thehitavada.com",
+      "title": "Tokhan Sahu meets CM",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Zbmp5eUVMcWM0Yl9YdlBTV205V3ltWFlPZ19xZmdtS2JSVEhmN0tXTmNEeGVQZ2N1d1lWT3pMdG1pQ1VUc2ZUdWtfOEpyRnlIOEp5R2dFMHZEckNwMjY1dmhuT2JyUVhBVW5hU3p5Wm9aOUtsXzJpTdIBfkFVX3lxTE5xQUNWVlhOTl9uTVg5cnlmYU9YTWlWaGd6OUJIVUU1bTg3cDBHMEIybWtGUGZlVmEyelpaUjhQbGgydlpxTl9GYmpzLWlSdFRzSFdRMXloaFEzSTR3N0pveThEeW5aUWVkYzdGQV9GdkV6M1lSd0RlcnI1dXd1Zw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 2849,
+  "notable_record": null,
+  "num_candidates": 37,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "chhattisgarh-5",
+  "pc_name": "BILASPUR",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180093.jpg",
+  "photo_source": "prs",
+  "pmbs": null,
+  "press_accountability": null,
+  "profession": "Social worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": null,
+      "sessions": [],
+      "state_avg": null,
+      "value": null
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": null,
+      "state_avg": null,
+      "value": 0
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/tokhan-sahu"
+  },
+  "qualification": "Post Graduate",
+  "questions": null,
+  "questions_by_ministry": {},
+  "reservation": "GEN",
+  "runner_up_name": "DEVENDRA YADAV",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 0,
+    "legislative": null,
+    "mplads": 51,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "executive",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "notable",
+  "total_assets": 13190513,
+  "total_liabilities": 668086,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 53.25
+}

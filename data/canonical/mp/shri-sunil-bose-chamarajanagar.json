@@ -1,0 +1,412 @@
+{
+  "accountability_score": 17,
+  "age": 45,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1660000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 38018000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3480000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 43158000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 909000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 735579
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "HDFC Life - 20112383, Premium 90909 8,18,181 8 Lacs+ TATA AIA - C228151223, Prem",
+        "value": 9818181
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 14960000
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": null
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4074400
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 35308251
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2193",
+      "total_assets": 78466251,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 78466251,
+  "attendance_pct": 40,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sunil Bose is an Indian politician. He has been elected to Lok Sabha from Chamarajanagar Lok Sabha constituency. He is a member of Indian National Congress.",
+    "title": "Sunil Bose",
+    "url": "https://en.wikipedia.org/wiki/Sunil_Bose"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "S/o H C Mahadevappa, Ambedkar Beedi Chikkaiahna Chathra Hobli Nanjangudu Talluku, Hadinaru Mysore Karnataka, 571302",
+    "emails": [
+      "sunilbose81@gmail.com",
+      "sunilbose.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9900511111",
+      "9844141111"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Wearing grab or carrying token used by public servant with fraudulent intent",
+        "section": "171"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "CC 320/2018",
+        "charges_framed": true,
+        "court": "PRL. Civil Judge (Jr. Dn) & JMFC Court Nanjangud, Nanjangud Mysore District",
+        "fir_no": "0181/2017, Rural Police Station Nanjangud, Nanjangud Mysore District",
+        "other_acts": null,
+        "sections": [
+          "171"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 1,
+  "dob": "31/08/1981",
+  "eci_state": "Karnataka",
+  "email": "sunilbose81[at]gmail[dot]com,sunilbose[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 655230,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1000000,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1810780,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 432480,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Business"
+      },
+      {
+        "person": "Spouse",
+        "source": "Not Applicable"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.44 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 114350000,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Attended 40% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 5% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 40,
+        "percentile": 5
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Unsecured Loans Anil Bose, Nanjanagud 35,00,000 35 Lacs+ Unsecured Loans, Baby K",
+        "value": 55678947
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 55678947
+  },
+  "margin_votes": 188706,
+  "minister": false,
+  "mp_name": "Shri Sunil Bose",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 32650000,
+  "mplads_unspent": 114350000,
+  "mplads_utilisation_pct": 22.2,
+  "mplads_works_completed": 1,
+  "mplads_works_recommended": 114,
+  "mpsno": 5758,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sunil Bose seeks revival of stalled railway projects of Chamarajanagar",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkJJNEdkeFJtM2I5aFlzS3k4TGhBZjk1QnhtcWNoN3FyWDJkZW9HMTNrUlFkT2R3aDFIa2gwLW1kMFlNQkNPNDZiODFZRlhtT0JKME9sV3pMeGhRRGVxYzZoQzRGQ0lCYVhvbnNMdFJiSlZ1WURLQW82dWhsTzZUSE85ZThEcl84T1I1VEZqZ2hXeUJqcFBZVVFSMmh5TDlOYkcxNUFkUjNfSUxteHQ1TmNDMF9TVm4wbXNIMUN4Vlh1U0lTNVpzalhScUl1b01vSVlEWkxR0gHcAUFVX3lxTE04c0NyS21oeGV0TDl4bzVNSllLczFnVXUyb2JNOV9BYThuZ1pZeS16azFUV1pFeG40bEtHaDZpdmNLZjFvWExsUGkwajBTR21xLWluMjQ4YzNERUN2VUVWN0Jja0lDTVF3b0lNbS1UVElPZ012T0dCRjRyMV96Y1N5X21MNU0wVWJRZGVWWWZnNTFSTVVMZV9qSDdXVTRDc1k4WVhZM0RvQ19sWEhnSWkyZUoxUXpJel9RdFM1dUZ0YWZ6Umg2T0xPSm9FYW9JektKaDk4Rld1b2hXUUQ?oc=5"
+    },
+    {
+      "date": "2026-02-27T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Star of Mysore",
+      "title": "No question of shutting down KSIC Factory at T. Narasipur: MP Sunil Bose",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTRBM3I1YXpIM3BraHJ6dUtpRUg1QzVvc1RkeHptSUd4Y1ZtYjRSTV9jTkgzSnB1ZEFzbmxiMk1iUXVJX0xiajk0Z0tCWjZ5YmtIVFM2V2lkVWNONGp2UlVkdzdNbElXT2tVeEFTeHhzR0lIZWprTGZSUmt4eFdkM3RadEFtMjU1REdJY0VlTDF3QTRNVVpmZ2RDbnM?oc=5"
+    },
+    {
+      "date": "2024-06-06T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Star of Mysore",
+      "title": "Newly elected Chamarajanagar MP Sunil Bose feted in Mysuru",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalVyUkItQ0g2di1qX2dLU2dKWk9qVDhwUTNudEhVMFE0NUsyTlJnM003V2xQcHM1VUlWMmliQ1gyV3dHZXZVVmRhcnZrVmtsY1Jlb2J1b203Q1JzX1Q2bVY0cUZvSUNEd0NmN3pZeVZKUklsT3luMVRxQVhwaEFqTHJJcEJ1dTNWZ0ZwbA?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Moneycontrol.com",
+      "title": "Congress party's Sunil Bose wins in Karnataka's Chamarajanagar",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0VWOTVISDlrb1RLZnBpcWhxelg5YkZUOXlDaHVqVzhiUkRvb1FwazdncExkRHVseXhhbTBQSC1TU25BNXhwLVVrYTlfLTZSX3Mzczhva1VtS29nVTM1YXUtLWw2MGhVRTRid2RkcjBuS1MzVlNnaUFSUjk4TUdDUktqcVlDUDVnek9YOFVITk5PQXFfcThyazFuTDlaYzBSSGxfdml3TjJlYWtEVmN3a192T0w4N2xRcnhBdmtLcHVFc05MM1VuSFBqRUZjSVJMVmhCUkRGTHZXX05UMGfSAeMBQVVfeXFMTzBDMjdYa0x5eWV0RUUtcFJURXZaVTZPWUVLLVNDUzBIVTlXWm1kaHN1YzJFRXZiS0Q4eTRHdEJjRGhrY1JkaXBQTG5wOFZITTZCMk9BTTZIekRFQXBTWXFRaEZaV3JBVkNQdl9CNTV1VjhURk5YYmtScDdMa3NuRFVBUHFvWHlzX2VBNV9ZazkwWGxmUjZvOVlGOGx3R3FONXlxOTBrNHFCNVd2U0o5V25zV3lXOU9CS2VUMnJTMTVhMTZKZTN4aXUxQ0RtOXF3STY2YndqTEZIUmVmWjl4ZFBKdkk?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sunil Bose wins Chamarajanagar, wrests seat from BJP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVZESjF1eThrdUVZcURoTjhjS0xHSTQzdUh1amp4SXloLTQ4bzNVSFo2ODJ3VzJVdmQ2Qml1VExHazF6cmdMclJDczFuRHM3WmM1N0RMVzBjWWJHbU1CbEVJY0d2QlVHWDRsY0ZLR09obGJaRWs1OFVBX3lqdExFSDlDUWh1aEpDTDRsY2Y4VlY2bVZwWjB2VFFDRXI0ZDM5ZWtqbGlrSjNwalRmWUplN3dsdVI1V1VnbzF3edIBwwFBVV95cUxOM3RTZkRZN0czZEpOQ0RjamxNaW5OMWItMVIySGtJb3M0R0tWYjc4UkQybmlQeUE2a2U0VFRFdmVSUWR2SXJ3eGhnQ0hNQmdQakxWZEFVOWJRSGtmSzh6YnVjSWJfT0lteVRCMHNlSVRkVEQwUWdWbVEyRVgzX0tfOEluLXprU3BhUnRzNS1Ma0tEVnQ1T0g2aFBVODhRaVFtWm01T3pRTEQ1R3lPOGZiN1RGZDFVY3Y0dlJJTTRVSkhxb3M?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 8143,
+  "notable_record": null,
+  "num_candidates": 14,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "karnataka-22",
+  "pc_name": "Chamarajanagar",
+  "pending_cases": 1,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180188.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 60
+    },
+    "debate_titles": [
+      {
+        "date": "16.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 81,
+      "value": 31
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sunil-bose"
+  },
+  "qualification": "Others",
+  "questions": 0,
+  "questions_by_ministry": {},
+  "reservation": "SC",
+  "runner_up_name": "BALARAJ.S",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 18,
+    "criminal_deduction": 1,
+    "legislative": 12,
+    "mplads": 27,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 78466251,
+  "total_liabilities": 55678947,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 54.87
+}

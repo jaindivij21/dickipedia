@@ -1,0 +1,645 @@
+{
+  "accountability_score": 55,
+  "age": 80,
+  "assets_2019": 8103274,
+  "assets_2024": 20252293,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 6937000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 3500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 11617980,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 46500
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 4325313
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 10000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 3712500
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 0
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 8634313
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=6TSuUN8GKyhcHT3u3t8c",
+      "total_assets": 8103274,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=2303",
+      "total_assets": 20252293,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 150,
+  "assets_latest": 20252293,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "E. T. Mohammed Basheer is an Indian politician and social worker who serves as the Member of Parliament from Malappuram Parliament Constituency of the Indian state Kerala.",
+    "title": "E. T. Mohammed Basheer",
+    "url": "https://en.wikipedia.org/wiki/E._T._Mohammed_Basheer"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Soumyam\" Mapram, P.O. Cheruvanyur, Vazhakkad, Malappuram Kerala Kerala, 673645",
+    "emails": [
+      "basheeret@gmail.com",
+      "basheer.et@mpls.sansad.in"
+    ],
+    "phones": [
+      "4832743636",
+      "9447125278",
+      "9013180206",
+      "1123752428"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Negligent act likely to spread infection of disease dangerous to life",
+        "section": "269"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": null,
+        "charges_framed": true,
+        "court": "Special ACJM (MPs MLAs) Ernakulam",
+        "fir_no": "425/2021, Harbour Police Station,, Kochi-682003",
+        "other_acts": "Section 4(2)(e) R/W 5 Kerala Epidemic Diseases Ordinance 2020",
+        "sections": [
+          "269"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 12,
+  "dob": "01/07/1946",
+  "eci_state": "Kerala",
+  "email": "basheeret[at]gmail[dot]com,basheer[dot]et[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 1278680,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1204370,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 871610,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1231880,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1264599,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Remuneration of Parliament Member"
+      },
+      {
+        "person": "Spouse",
+        "source": "House Wife"
+      },
+      {
+        "person": "Dependent",
+        "source": "No"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Only 7% of MPLADS local-area funds were spent — ₹15.27 Cr unspent.",
+      "headline": "93% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 152731311,
+        "utilisation_pct": 7
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹81.0 L (2019) to ₹2.03 Cr (2024).",
+      "headline": "Declared assets grew 150% across 2 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 8103274,
+        "from_year": 2019,
+        "pct": 150,
+        "to": 20252293,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 300118,
+  "minister": false,
+  "mp_name": "Shri E T Mohammed Basheer",
+  "mplads_allocated": 163895872,
+  "mplads_expenditure": 11164561,
+  "mplads_unspent": 152731311,
+  "mplads_utilisation_pct": 6.8,
+  "mplads_works_completed": 6,
+  "mplads_works_recommended": 124,
+  "mpsno": 4561,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-11-20T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kerala local body polls: UDF will weaponise govt. policies in civic battle, says E.T. Mohammed Basheer",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSDFJcmxjYkkwcE1acEhDR19TS24tSHVuUTgtOVJTeEpYR2dsQjg3NjlvX2lqNVR6aEtQNm1NM0Fud2ZCU181QWxXLUtRN2dYSkl6dWRiQmYtbGRnUm45OHRHSXZnRm5zU2lwdGVRQmhlQ1dNSWY0b3pCbW9CemhlN2VLdDEzLVVoeDFidFNUeHJIaVJCMEJXenQyRThlVFlWYkVGWTI4WUVfSThaOU5KMW41cHFhc1hydnU0SWI1WVZjUHRZS0RPbVRZYXR6QnFkRjBzSWNzUmNxQmp3SlhneGprWG1tZnc5VHNIWEh1UF9pNGEtRkHSAfwBQVVfeXFMUEN3MHVKM0dvdGpvZ21MVkRHcWY0Z25MemVGM2dBMEVrNll6b0RpUy1zUHBPbjJtc3JQNnZaZVFkOERWSUR4aDEyQkQyNUdBWmhnUmcyLVBTamtTVXRIU0JwVkJtYUc5aXUyOE90Y3FIbVNSUWRBcHdLNzdfSnVRVExGdzUtdi0wTjdMV2l3OGE4VkVDdWh3WDY4Y0VydG5CeXVrbGs4NTV0MFV0UDJEUWxCeEVLOWpLZWJ4ek5ZdmlVUHRvcmdBVWtvSlNBTlBOUFFRVXE3eXJtMEQ3NmRHYUNYYjV4cGt5Mi1MSVBZUjBraWhydjMzd2czR09q?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Malappuram election results 2024 live updates: IUML's ET Mohammed Basheer wins",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOSzBhNDdkbFhoM3ZjQldvckVGYk9HRkttdWpWZnhaRmpRWWVjZ1NxbTduUllZR0tFb3pTQ0xJMWM4Yll1UHliam9zYXNBaFVnbmxTOUR5NFBZTVJYVzFsU1VfTUJxZGw4N2huZXJVdmFtRVlCRVd0WnZPLTU1QkhFOWlUR1BFVUpwSFQtNDE2VUswNEg3bXpTb0F2ZUt2SXlIOUt6a0VRTmxYQmZ4ZGEyMmlLelZzeEJmTk4wczBkUXVDMlFnbzU5X0hXd0VNcE1wMF9RYlhHd0pqV2Q1cU9kZU1qM3VIcm9sOVpac21OdFp1a0tTMGZMemVSS1ZsZjhUX2ZtZWVsUDA0RmNwYUtpNlNIX29MUmk3R0ZCdG91WDc5d2tPMk9FWnVMX2dtYU5tN3hybjZRdVnSAb4CQVVfeXFMTWk5dGpPU28zd1NDVWtmc3ctOUJZbnNBcUF6SEtsRVRTTl9hSTBIX2psaExPMEdqc3ZVY1FEbV9ERG12SjQtXzFjcS0tX1lyb29yMVN2RVk4ajhoQU52cm5zbmd1ZThuMUZlLXJaWFFacGVFa2x0enJ0dG5HUjlIdjJya0I4YkdzU01KZFJQVU1MNHNlQUZ1NVlIMVJ0c2VSajd6ZWJ6QVZrNGFqRGZhTXlWcHdUR25zUG5walJiRGk4b2N0YWNPb2UtdjNwNUJNT04xamNMWURyVE4yZkxqeXRCSnJWY044dXdKaEJVYU5QdTFHV1VfdnlaMGVfV29tbkY5a2EtaFlkYmdBTnF4TE1DSGR4VlNOQ2JjTEdzd3M5bV8tR1R2QTBjazQ5WnQxQXNmWHl5SlJWeHNyZm5R?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Malappuram Election Result 2024 Live Updates: IUML's E.T. Mohammed Basheer Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3pfMEtGbTU3MlJFSTFWYmRPaTFha25nTEotM2UzZmdaclRJSklIWms1SHhqb0piLVZvbFQ0UlB6QkF3SGxvdW1XWjloQVpFaUNZSW11OVFVQ2RSNDkyVkp3RTlyR1NnS1NGZkVxYzkzbERyVDRIRUJaa1R3WW1MUjZLczNPRUVzZzkwOUNGMDBNcFNnakZOaXZFVW9leHJYLTZuWVU2ODJIY2lETjBWV2hORG9LeW1MMDlVcENUamZTX1Fo0gHSAUFVX3lxTE9mUDlpT251ajFkUW0yLURMaU1paUtGbTFfeThVY2VaU0J1V0dBd0Zrb0NFLWdiRkk2NGplSms3MEVYQnZkUld3aG9QeWQwV1B2anNMY2Y2WlVVNXRLYzRCQjgtdkJsTVl5WnZXWmFaWS1lUUEydDZsYjVCUWlIOTFBY3A2TTFDNGh3elR2VHFOTGV6cS1yVXFqOEhVMGZxWDFTaTRyd1FHOGRPaF85Wks1UHJGWHhYUmg5U3Brd015anB5eTRycU1jMHlSWFlPZS1xUQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Malappuram Election Result 2024 LIVE Updates Highlights: E T Mohammed Basheer of IUML Wins",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONFphdElfclZ4U0VkTEtVb2FyV2xjdFVNMHNHNTdMdHdESWxnQXBzMk94YjNIVjFwNV9GZWZHLWhJTnJ0YmtyNUhPV2wzRUVYejNoaHI3cENzNEQ2TmthQXhsTG1NRjlkRnYzdW9pekxNWGV6OHFwai1SWndaZWFxXzl2ZndoWGdNeGF1RnpUdk1YaGhRSm1iSDRaa1pKWE9lLU5aNVBBUXY3Q1doaWFrYmdDWWtqUDJsYjZEdHVQVkNhbEptOVNZd0Ribm9Da2pHRXhaMUJLTkFiRm5Kd0JpVURBWV9CQdIB6wFBVV95cUxOOVM5bDZrU2lZTnBBazFsX2hHS3R2UTlmZXo0TmFYYmNLcU9rQ2x4VmtsVTNqX2ZTMWJiWFI1Y3pQQV9iRGZNTm16cFZRNDRwZkVtbmNsa3hfbFl3LXNRazZRZFlaNXlVUDFyZGNvTG8weFBra0ZxUS1rb3hrX0JsRmctZktfYUtRd3RnWWNJRUFDNHVKTnB0MW90SUY5ZTY5TXhrTWdRUzBtTDRfMjFYODRvQllmRGc3UVRBUnZscUEwQTdCSENXR0RodXZTZmpMNnpBQThsTVF3VUd3MVZBVWxnVVJFOWlLUTJz?oc=5"
+    },
+    {
+      "date": "2024-05-31T14:36:15.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "E. T. Mohammed Basheer",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHFsWHpxR0VNWUx5TjVpMV96X2hQWFN4RWx6Vk5jeVhoZU9sMnR3TGZEenFmRG9iNGtpdFl6OGVUd0FveEF6dUtGWWJjbW9pNWYycV9RYmlTMFZFN0JPbzM2M21BeVUtTnJvTElMNzVkRFFXSVpUeUotQm1IWmFIMW5pSlNzS0Ntdmc0VzV0b3lLQTU3bk1SWEpKUXlwc2NJdldMRExUV2lzVDZzMWN0ejVHN2hOUmtZOEpMUHczYUw?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 6766,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "INDIAN UNION MUSLIM LEAGUE",
+  "party_bond_total": null,
+  "party_full": "Indian Union Muslim League",
+  "pc_id": "kerala-6",
+  "pc_name": "Malappuram",
+  "pending_cases": 1,
+  "phone": "Telefax : (011) 23752428,09013180206, 09447125278 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180197.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 79,
+      "value": 90
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Regarding need to conduct a feasibility study for establishment of a 100 bedded Employees' State Insurance (ESI) hospital in Malappuram district, Keral",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "The Industrial Relations Code (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to review the decision to the proposed closure of Manjeri Bazar Post Office and Vakkethodi post office in Malapuram district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to ensure strict adherence to Constitutional Provisions to safeguard the rights of minority community in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Discussion on the 150th Anniversary of the National Song �Vande Mataram�",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding need for an inclusive Education System in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Discussion on India's strong, successful and decisive 'Operation Sindoor' in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "01.04.2025",
+        "title": "Regarding recent revision of text books",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need to establish proposed Equal Opportunity Commission in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "The Boilers Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "24.03.2025",
+        "title": "The Finance Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request to Protect Autonomy and Academic Freedom in Higher Education Sector",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "The Oilfields (Regulation and Development) Amendment Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Regarding need to ensure Nehru Yuva Kendra as a platform for youth empowerment and social harmony",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt take a decision to reopen the Maulana Azad Education Foundation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding alleged adverse impact of new education policy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Urge upon to govt to take immediate steps to ensure that the anganwadi Workers, ANM Workers, ASHA Workers, and resource persons working under SERP & MEPMA schemes are provided fair wages in accordance with the minimun wages act",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Opposed the introduction of the (i) The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 and (ii) The Union Territories Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Regarding reported non-implementation of reservation policy in recruitment of faculties in Central Educational Institutions in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Urge to govt to take immediate and effective steps to preserve the secular character of our country and ensure the safety and dignity of all communities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "The Banking Laws (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Opposed the introduction of The Waqf (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Regarding Landslide incident in Wayanad District, Kerala",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding enactment of exclusive legislation to prevent mob lynching",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Regarding need to appoint an independent commission to re-write school text books",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 32.6,
+      "value": 40
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 1.4,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 125,
+      "value": 104
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/e-t-mohammed-basheer"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 36,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Ayush": 2,
+    "Chemicals And Fertilizers": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Culture": 1,
+    "Earth Sciences": 1,
+    "Education": 3,
+    "External Affairs": 2,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Health And Family Welfare": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 1,
+    "Parliamentary Affairs": 1,
+    "Petroleum And Natural Gas": 1,
+    "Prime Minister": 1,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 3,
+    "Women And Child Development": 1,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "V. VASEEF",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 50,
+    "criminal_deduction": 1,
+    "legislative": 76,
+    "mplads": 11,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 6,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 4,
+  "top_inference_severity": "flag",
+  "total_assets": 20252293,
+  "total_liabilities": 0,
+  "wealth_pct_increase": 150,
+  "winner_vote_share": 59.35
+}

@@ -1,0 +1,715 @@
+{
+  "accountability_score": 71,
+  "age": 49,
+  "assets_2019": 36723865,
+  "assets_2024": 53322989,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 13000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 4300000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 6000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 23300000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 646683
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3941571
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3089848
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 3000
+      },
+      {
+        "category": "LIC No 50103xxxxx 10,54,711 10 Lacs+ LIC No 4567446xxxxx 0*(Value Not Given)",
+        "value": 3230636
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 6629010
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 10442233
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2040000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 30022989
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5hhMP3yMbMqJx3vPQqWM",
+      "total_assets": 25721266,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=5hhMP3yMbMqJx3vPQqWM",
+      "total_assets": 36723865,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=395",
+      "total_assets": 53322989,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 107,
+  "assets_latest": 53322989,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rahul Kaswan is an Indian politician. A member of the Indian National Congress, he serves as Member of Parliament, Lok Sabha from Churu. Previously, he was also elected to the Lok Sabha in 2014 and 2019 general elections as a member of the Bharatiya Janata Party.",
+    "title": "Rahul Kaswan",
+    "url": "https://en.wikipedia.org/wiki/Rahul_Kaswan"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "MP Colony Sankhu Road, Sadulpur Churu Rajasthan, 331023",
+    "emails": [
+      "rahul.kaswan@mpls.sansad.in",
+      "rahulkaswan2@gmail.com"
+    ],
+    "phones": [
+      "9650111599",
+      "9013869339",
+      "9560111599"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 20,
+  "dob": "20/01/1977",
+  "eci_state": "Rajasthan",
+  "email": "rahul[dot]kaswan[at]mpls[dot]sansad[dot]in,rahulkaswan2[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1345300,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1058973,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 740442,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1050615,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1022562,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1305848,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1415159,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 670272,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 494378,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 688125,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary From Parliament of India"
+      },
+      {
+        "person": "Spouse",
+        "source": "Private Job"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹2.76 Cr between affidavits, while declared income across 5 ITR years totalled ₹52.2 L.",
+      "headline": "Declared assets rose 5× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 27601723,
+        "declared_income": 5217892,
+        "itr_years": 5,
+        "ratio": 5
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "From ₹2.57 Cr (2014) to ₹5.33 Cr (2024).",
+      "headline": "Declared assets grew 107% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 25721266,
+        "from_year": 2014,
+        "pct": 107,
+        "to": 53322989,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 33% of MPLADS local-area funds were spent — ₹9.90 Cr unspent.",
+      "headline": "67% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 99016029,
+        "utilisation_pct": 33
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 3378555
+      },
+      {
+        "category": "Smt. Kamla Kaswan 13,16,747 13 Lacs+ Shri Bhupender Jakhar 15,00,000 15 Lacs+ Sm",
+        "value": 20530375
+      },
+      {
+        "category": "Nil",
+        "value": 508518
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 24417448
+  },
+  "margin_votes": 72737,
+  "minister": false,
+  "mp_name": "Shri Rahul Kaswan",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 47983971,
+  "mplads_unspent": 99016029,
+  "mplads_utilisation_pct": 32.6,
+  "mplads_works_completed": 14,
+  "mplads_works_recommended": 117,
+  "mpsno": 4654,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-26T13:21:09.000Z",
+      "flagged": false,
+      "publisher": "Dailyhunt",
+      "title": "Churu में किसानों से अवैध वसूली पर सांसद Rahul Kaswan ने अधिकारियों की ली कड़ी क्लास!",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQejN1UXVRSkdtWGFsNVVlV3NpcFNhNEd0WktoaFkyRHlURHlOQUZzQTQyR0haRTJsSkFYd1hRMDIyNlFIbUZQMGhRZFptdGo3VVdySGhSbFc3NWVaX1Z5Q1dXVWtNVHFjQ1ZHd1B0YmxvaFRjN0h0Z2I5cEpMWWp1S0ZkVkhudw?oc=5"
+    },
+    {
+      "date": "2025-11-17T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "Police stop Churu MP Rahul Kaswan’s tractor march: Seize over 100 vehicles and detain 20 farmers marching t...",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWE90U3dOZUU1VThIUXNBdWFfWWZuV2VUdDN0b1VXSzVtRjZqS29vV2J2ejJJd3g5QmpxcGM4RndMV3JSbkREak53OFZmakx1Zmx4UVRXcmxPdmU2UGlkZGQ4c01aX3NEeFBVVkhoMmtVV1pocHF6TW9VSzduUXZZUkJ6TV9idXZQWXFyd3dfeGVtYU5PdU8tUEx6MmZnRV9ZOGdBRXVJZnlqdGZGZEdFVXlKOVh4Z2xtb2N2VmVsMkw2SE9KX2ZNb3E5UVZpTl9ua252ZG9CRHNfU0RERV9fdGhDdE8yZmxXSWVrVjVMX1pyWWpBWDByYm42b0xtZXJIUEpORjd1Z9IBjAJBVV95cUxQODhDRFd5YkJ6bGtPWURJQ040M2tZUVFHOGF0NldxbHVucUgxZXdIdnFKcjFaazNiMVBzaV9RU2ltaVhnS05LaWZBd2czV00xNGFnOG5sYW9mSUd2QnF1M2RxdW02Q0R0UlotSlhTMDlvcVV4c3FTRzZkcjRTSHNBVC1BNFlMcWhMZlFTc2syUVhMOTkzU2lDUzFpeF9qd04zNzRneS1oaTBVZGxPRk9mU0dDLUdLUnZjek9wQnhnNDhMRWFfOXZGcFB0eFNRYXlCNHBIc2p5eS1oOTZ6UWRPZDBKWTBhVV9SZ0o3NHlrbTJNRFJUaklhWm9MTFQ3YWtRTXZhWXJLYTl0TWow?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ThePrint",
+      "title": "Rahul Kaswan, who switched to Congress after BJP denied ticket, leads in Rajasthan’s Churu",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcTRkbUlCalYwMk9MRmtZTzl4QlhudndYSmR5dnpueU9xUmw0cGxlWTdORVdtZ1d3ejlJZDRRblFvTFlYSURxN2NaUlAxcUhqSlg5M2ZQUXVGS2hTVVY5X3dydU1OaVJETDNwTHlTT0hVcHFPQWtlbUhZRFRuT0VMc1Jwb1lmc3RNSVc2Y25FT21vMUhKYVVDSC05NHFscjVJSlNBOHBXZUtpVEpmNEtCS0hFM3RHRThKLW9EUDBqTmJtMGdW0gHKAUFVX3lxTE94VktlUlZPYURMbi1sM1RMdlhRV0RDSGxEeUc0ZDRVNlN4cFV3dnBiZU1QTUdqb2NwaDVGdzJ0UVU2Vm1xOXBORktzUHhjWUZydGwzSnVOLXZaZTVIMHpyUEpsdzlYLWxPNzgzLVE1SXdXaEtQWlZlRzdlU2dvUG4wR0VHbEZQbk10a2pKb01nanVfMEFERGNneUJOZDlOUXdYb1RNY1RBYUNfV0JQdjhNTXl2Tl9SSnpJWUlodGRzN0VNNGhZTHI4N2c?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "India Today",
+      "title": "BJP rebel Rahul Kaswan leads against Paralympian Jhajharia in Churu",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLWI3YTZCV2kxbWNiU0VmVVZTZEJyQjNYUEdZdF9hUzJEeHFzVFZ0blVqU1JiRUR6RktDdTBvYlhVMDJpa0FpWXJndHA1V3daUllNYXhnYVNlUFVqb3pZdG1HYjl2ZV8yX1dxQXlYVk5rOEtEN0JKMkFkbWM3RGtmVFNncjRKWUhVLWdFMjFDRzQwVnJhNDQzM3E1YUVRSUsxaVl5T2d1eWVGc0xuSDRZMV9jMzN0bkdST0NwY0x0enJRQXZZcE4wMWRVM3lkd0FqRTljU2pvLXZYZ25KY2FRWlRxbXQ0MWcyc0ZDUTZHUndTcS1DanMyTNIB_gFBVV95cUxNMUlDSU5iNkhMckFkN1VNMFFXMHNhNUhOSC0wLXdMNmllMDJYbk5vSVp2LVhfdDYwc2FaTXVXMENjUUhzRUduU1ZvTG1Jc3JPWFFYeFFKaFUxeUZQcnEzajNPVHZCckxSVjNJR1QwbW5vN3BWWERiRmFnS01EY3ZHaXUwTzlwWXc4TDBNcUJobmxQdDJwUWRGVW1TdTZiVkpva0lpUGZ5c0FvZ3N2eWdha1ZwY1UyMjdTclRSa2otNjBtYzByYy1idlRKV01IS1ZoUzNXc2pkNDExaEpKQzI5eHhaZkVLQTJadlhBUFNBUmF6M3JNZ0FuQURKM3BkZw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "ABP News",
+      "title": "Lok Sabha Election Results 2024: Congress Leader Rahul Kaswan Leads With 28,221 Votes In Churu",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdm9wWlB5OU4tbklwX01Vam1tVnZ5ZGtGU0FlUnduN3haTzJPY29PZFFST0J1Z0J5bUxtN2p1WlNobVhsX1hjNG0zQWpVWTdEa0RzcVhhbFFvc1dOR2l4NmROX3E1MnFCNXZ4clZfNDNXSFI3RzRTNGtqWUo1LVQ0YnpUbWs5NDFSYWR4RTdXeXF1TVJxUGZxYUx6MGRPTnNhRGlSa0hOQ1BOaFQwUzdWQ3ZqYWJpTGtqS01WYU5heTBtNUpzMVpJV2V6V2xiMVhuRjhLNm5IdzlxWUdD0gHiAUFVX3lxTFBVOF9lZ2swaWNPcHVwUE5sZFAyWU41Mk44anAxMVliZXpCZGUwYmhLRVV1cDY0RGNSal92NG8zZjM4VC1LNlI2Zy1qLWxJYW8wZ0d4YUtIY3d2S2Q0Tkl2bU5qeGFSb2dGdk9PUlF6SnhYVzR1M1JoeVhoS0RxNEFydU1yVnBBYU04emo3YzJOVHBKckxVUlhqcUxadjRzVVFNeWprTDMyejA3RFFTWXBBRXlMaHNjMFZ5ck40TjlaMXFra0lEOXJxVVJVcnRETTdQeFRpbDNhTEtPMTBwTVF0Qmc?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 6656,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "rajasthan-3",
+  "pc_name": "CHURU",
+  "pending_cases": 0,
+  "phone": "09013869339, 09560111599 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180353.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 96,
+      "value": 98
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Return of Investors� Money Deposited in Sahara and Other Chit Fund Companies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Designated Checking Points on National Highways to Prevent Harassment of Truck Drivers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Regarding situation arising out of Eviction Notice issued by Forest Department allegedly without public hearing in Hanumangarh district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Comprehensive Regulations to Protect Children from Social Media and Online Gaming Addiction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Regarding establishment of Skill Development Centres for Ex-servicemen and welfare schemes for Martyrs' families in Shekhawati region in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Issue Regarding Irregularities in MSP Procurement in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2026",
+        "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "10.03.2026",
+        "title": "Regarding need to take necessary measures to channelise the Yamuna river water to Shekhawati Region of Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "Regarding need to set up a bench of Rajasthan High Court in Bikaner",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "General discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.12.2025",
+        "title": "Regarding need to upgrade irrigation canal system and divert water from Indus Basin to Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Inclusion of Charu Lok Sabha Constituency Crops under PM National Edible Oil Mission Scheme for Effective Implementation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.12.2025",
+        "title": "Regarding need to issue fresh SOPs for use of pesticides and chemicals in agriculture",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to increae the limit of kisan credit card",
+        "type": "Special Mention"
+      },
+      {
+        "date": "20.08.2025",
+        "title": "Regarding need to develop a fast-track mechanism to bring back mortal remains of Indian Citizens who die in foreign countries",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding alleged irregularities in recently conducted SSC examination",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2025",
+        "title": "Regarding need to take stringent action against companies involved in production and sale of spurious fertilizers and seeds",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding regular quality check of water in Indira Gandhi Canal and set up special Health Centres in cancer affected areas in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding construction of Railway overbridge in Churu district headquarters in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Removal of 2-Hectare Cap and Increased Compensation for Crop Loss Due to Hailstorm in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt for the construction of the Railway Under Passes at Churu District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Ban on Chinese Manja to Prevent Fatal Accidents",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding alleged increase in incidents of antisocial activities in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to expedite disposal of insurance claims pertaining to Kharif Season 2023",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "17.12.2024",
+        "title": "Regarding need to include Rajasthani language in the Eighth Schedule to the constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Supplementary Demands for Grants - First Batch for 2024-25",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Demand to clear the Pending claims of Prime Minister Crop Insurance Scheme in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Regarding disposal of claims under Pradhan Mantri Fasal Bima Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt should prepare a proper project for Tung Dhab Drain and Buddha Nala and pay special attention to the living conditions of the people in these areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt reopen the portal for moong purchasing",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2024",
+        "title": "Regarding laying of new railway lines in Churu Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding need to make available adequate quantity of DAP to farmers in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to govt. that the claim with interest for the year 2021 should be alloted to the farmers as soon as possible",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Regarding power situation in Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 43 and 44 under the control of the Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding the unpaved roads of Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to minister to re-start the korba-gevra road passenger train and start pit line at korba",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Request to govt provide different budget for strengthen the panchayats",
+        "type": "Special Mention"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding paper leak in NEET and NET Examiantions",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "Request to govt implemented the old pension schemes for defence employees and provide 100 days leave to them",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 31.9,
+      "value": 52
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.8,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 138,
+      "value": 136
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rahul-kaswan"
+  },
+  "qualification": "Graduate",
+  "questions": 40,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 2,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Communication": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Education": 2,
+    "Environment, Forest And Climate Change": 3,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 5,
+    "Home Affairs": 1,
+    "Jal Shakti": 3,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Minority Affairs": 1,
+    "Panchayati Raj": 1,
+    "Petroleum And Natural Gas": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 3,
+    "Textiles": 1,
+    "Women And Child Development": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DEVENDRA JHAJHARIA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 67,
+    "criminal_deduction": 0,
+    "legislative": 81,
+    "mplads": 47,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 53322989,
+  "total_liabilities": 24417448,
+  "wealth_pct_increase": 45,
+  "winner_vote_share": 51.12
+}

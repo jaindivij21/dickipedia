@@ -1,0 +1,908 @@
+{
+  "accountability_score": 68,
+  "age": 47,
+  "assets_2019": 37587560,
+  "assets_2024": 70956659,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 30710460
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 5000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 24000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 59710460,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1125000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 3739174
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": null
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "ICICI Prudential Life Insurance Smart RP policy No 6893xxxxx 52,605 52 Thou+ SBI",
+        "value": 488170
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2241975
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3764050
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 11358369
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=2Hh62baVgvE3Z3DSR3PM",
+      "total_assets": 37587560,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5071",
+      "total_assets": 70956659,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 89,
+  "assets_latest": 70956659,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Saptagiri Sankar Ulaka is an Indian tribal politician, software professional and tribal rights activist from Rayagada, Koraput. A member of the Indian National Congress (INC), he is one of the party’s tribal leaders from eastern India and currently chairs the Parliamentary Standing Committee on Rural Development & Panchayati Raj. The panel has been vocal on revision of MNREGA wages and ease of wage/labour payments. Currently he is appointed as the AICC In-charge for Tripura, Manipur, Nagaland, and Sikkim.",
+    "title": "Saptagiri Sankar Ulaka",
+    "url": "https://en.wikipedia.org/wiki/Saptagiri_Sankar_Ulaka"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "New Colony, AT/PO/District: Rayagada District: Rayagada Rayagada Odisha, 765001",
+    "emails": [
+      "saptagiriu@gmail.com",
+      "saptagiri.ulaka@mpls.sansad.in"
+    ],
+    "phones": [
+      "6856222244",
+      "9778195222",
+      "8260432788",
+      "1123010840",
+      "1123010860"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "http://www.facebook.com/Saptagiriulaka"
+      },
+      {
+        "platform": "twitter",
+        "url": "http://www.twitter.com/Saptagiriulaka"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 20,
+  "dob": "01/01/1979",
+  "eci_state": "Odisha",
+  "email": "saptagiriu[at]gmail[dot]com<>\r\n\r\nsaptagiri[dot]ulaka[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2023-2024",
+        "income": 960830,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1095760,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 730750,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1375210,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 2627192,
+        "person": "self"
+      },
+      {
+        "fy": "2023-2024",
+        "income": 402910,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 452660,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 453060,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 425000,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 310424,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Rent"
+      },
+      {
+        "person": "Spouse",
+        "source": "Tuitions & Graphic Design Freelancing"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 19% of MPLADS local-area funds were spent — ₹21.75 Cr unspent.",
+      "headline": "81% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 217535924,
+        "utilisation_pct": 19
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 16002929
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 16002929
+  },
+  "margin_votes": 147744,
+  "minister": false,
+  "mp_name": "Shri Saptagiri Sankar Ulaka",
+  "mplads_allocated": 269500000,
+  "mplads_expenditure": 51964076,
+  "mplads_unspent": 217535924,
+  "mplads_utilisation_pct": 19.3,
+  "mplads_works_completed": 103,
+  "mplads_works_recommended": 545,
+  "mpsno": 4996,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-02-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "MP Ulaka Urges Scindia To Ensure 4G Connectivity In Koraput, Rayagada Villages",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUhQYXAxTTJtYUtHVlhreV9WRFdDM1RvN2JRa2RnQ3pWOTkxNDY2ZjhRcUZzSmFNNkM0LUc1ajFrN1FKd3p5OV9kYzRoQWtwVXZkNF84RTFrNTB2anJTeXRyZC1JMlRyTXBURmJQNVJ5OV9JaXozX3g4TDUwbUJQSDlNakJOQk1sV2dwVnV3Yl94RVBQUXdjb2R2RFVVRTJtNENqTXByakdpLU1mT2lvdVRDUQ?oc=5"
+    },
+    {
+      "date": "2025-07-21T11:24:27.000Z",
+      "flagged": false,
+      "publisher": "pragativadi.com",
+      "title": "FM College Case: MP Saptagiri Ulaka Pushes for Urgent Institutional Reform in Parliament",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG1qRkVCR3Z6ajBwUWFqTVhhbTJWbC1lZEJmaWstYWhsX0p4NUkwWldGQW1Wd2NhMzR4R0pJSzVVYjB5LXdpYm44c2RWRDdLN0tmWEdpZjdEQjk0Y1NYZkhtblRKWGd1X1l6N1h1NWtUWVFtQW50dXpXeWYzUUEyMWNvMDZ6VFlFRFJsXzlxM2MxcktEUmRpZmxQbjZ4YUhUbzk5WGlyZVg2ellVdDJGQ3Z3?oc=5"
+    },
+    {
+      "date": "2025-07-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "prameyanews.com",
+      "title": "Odisha FM College Self-immolation case reaches Parliament: Koraput MP SS Ulaka demands urgent discussion",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFZhc2JEbm9tQmg4a2hRRk45R0tDeWJfSHBESVBEb0tFSWJZUkFneGE4cGR5RDNZSTk2X01kOHVEUGVicUh5U3FYSjVhUzhkMzdiQ3g4eDUzQklTVU9yU2RZcGQydnZkNENMWHhKeTVGZzN5UmdMYmo2THNHTWNlNnQ2bkh5Tm9xMG14VmFmY1NrQm1kT0Vpb1RBX3drYlg1LXNsVWJ5SWNBNU9hQlZvWU9SNENTWURacEtTd3MzMzlmcHpXXzFyUVprRQ?oc=5"
+    },
+    {
+      "date": "2025-07-21T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Ommcom News",
+      "title": "Congress MP Saptagiri Ulaka Seeks Adjournment Motion In Lok Sabha On FM College Girl’s Self-Immolation",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZGZaTHVJQUV0b01RNXg0VThRbzNQcVVNMlpnNDA4emtHWU4zck9LQnc3dHhrMmJVMkpQeXRXR3RjejZZZjcyYk9LdDJNQXFPZVlYem0xa2NlMzZCNm8tSGw1YlB4N18zZ0ZVczloZFM2Rzc2cDZaak14cjZfeGI4V3N6NlFEbVVKWGZwZmVjcTdHVmJ3Y2Qxa2pxQUlOWGk5MVdtNzNJZjNPRHlRZDUwRlFUVGpZZUZmTWNqY2ZFQnVHbnRWczVFckNFLUJGbVZyTXZZ?oc=5"
+    },
+    {
+      "date": "2025-06-11T08:22:45.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Saptagiri Sankar Ulaka , INC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3lsSExlYzBqeHlMWXotR2FrUVZjaWVsdmtyZzZkcXphTnF3cjE5MFNQdkxzU0NMWTI1YjZLelMzdGlaRDJ6RGRoUlVDaUYxTzFjeUd5QXgxUFlPc3NkSVlEM0pCX2lDU2lfNWRwX0kzdWl4MVVSY25QQTVwOFhWTlpubUZtR0FiSzZlNlZ0UmQ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 37131,
+  "notable_record": null,
+  "num_candidates": 11,
+  "party": "INC",
+  "party_bond_total": null,
+  "party_full": "Indian National Congress",
+  "pc_id": "odisha-21",
+  "pc_name": "Koraput",
+  "pending_cases": 0,
+  "phone": "Tel : (011) 23010840,Fax : (011) 23010860",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180317.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 99
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Issue Related to Rising Mental Health Concerns Among Children Due to Social Media Usage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Restoration of Peace and Normalcy in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Discussion on efforts to free the country from left-wing extremism",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Rehabilitation of Villagers Affected by Pollution from NALCO Plant in Damanjodi.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Comprehensive Regulations to Protect Children from Social Media and Online Gaming Addiction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand to Ensure Uninterrupted Supply of Fuel and LPG",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request to Strengthen e-Mitra Service Centres and Address the Problems Faced by Operators",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Text not available 66",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Request for Early Notification of Sunabeda Tiger Reserve in Nuapada District of Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "27.03.2026",
+        "title": "Demand for Immediate Release of Prisoners Including �Bandi Sikhs� Who Have Completed Their Sentence",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Regarding need to ensure operationalizaton of Software Technology Parks of India (STPI) Centre at Jeypore in Koraput district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.03.2026",
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to grant Geographical Indication (GI) tag to various traditional and iconic food items of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Regarding alleged communal clash by vested interests at Thiruparankundram temple in Tamil Nadu",
+        "type": "Submissions by Members"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request to Develop Koraput as an Integrated Tourism and Ecotourism Circuit with Focus on Tribal Heritage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Intervention to Protect Teachers from Mandatory TET and Ensure Fair Recruitment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Protect Pre-2010 Appointed Teachers from Mandatory TET Requirement and Amend the RTE/NCTE Acts",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Adequate Compensation to Farmers Affected by Unseasonal Rainfall in Bhandara�Gondia",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Protect Constitutional Rights of Tribal Communities under the Fifth Schedule",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request to Protect the Service Rights of Pre-TET Teachers and Ensure Their Job Security",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Comprehensive Review of NEET and Action Against the Coaching�Dummy School Nexus",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the problems of mobile connectivity in Davangere, Karnataka",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to inclued Boya-Valmiki community in the ST list",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to give the hightest civilian honour to the late Jubeen Garg",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to upgrade railway facilities in Koraput, Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal for early resolution of pending property related issues in Chandigarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to set up a Government medical College and Hospital in Rayagada district of Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the loan issues of MSME",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Demand to increase the facilities for the treatment of cancer",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of spam nuisance and right to privacy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue of drug addiction among youth",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to land pooling policy of Punjab",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Issue related to arrest of Nuns in Durg, Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the case of self-immolation and death of a young student in Balasore, Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.07.2025",
+        "title": "Discussion on India�s strong, successful and decisive �Operation Sindoor� in response to terrorist attack in Pahalgam",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Urgent Need for Adequate Funding and Reform in the Ex-Servicemen Contributory Health Scheme (ECHS)",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request regarding India's territorial integrity and foreign policy concerns involving China and trade tariffs",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Demand for Granting Shaheed Status and Bharat Ratna to Bhagat Singh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Grant International Status to Raipur Airport and Develop Air Connectivity Infrastructure in Chhattisgarh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Reopen Aluva-Munnar Road and Stop False Cases Against Peaceful Protesters in Kerala",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Remove Section 44(3) from the DPDP Act to Protect the Right to Information",
+        "type": "Special Mention"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Illegal Mining Issue in Rajasthan",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request to Establish Army and Paramilitary Recruitment Center in Mau with Pre-Recruitment Training Facilities",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Government Action to End Highway Blockades and Restore Free Movement in Manipur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for CBI Inquiry into the Brutal Murder of Rajkumar Jat in Rajkot, Gujarat, to Ensure Justice",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for CBI Investigation and Compensation in the Tragic Death of a Newborn Girl in Alwar District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request for Immediate Implementation of the 73rd Amendment in Goa",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Appeal for Declaring Assam's Flood and River Erosion Crisis as a National Problem and Ensuring Effective Mitigation Measures",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to the Government to Prevent Privatization of IDBI Bank and Maintain Its Current Status",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to govt. to take immediate action by introducing legislation or amendments to safeguard the rights of gig workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2025",
+        "title": "Request to Include Specialized Medical Facilities in Saharanpur Under Existing Health Schemes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Immediate Action on Atrocities Against Women in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Increased Honorarium, Timely Payments, and Pension Benefits for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for 100% Electrification and Strengthening of Power Infrastructure in Remote Areas of Himachal Pradesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Guarantee of MSP and Loan Waiver for Farmers to Prevent Further Agitations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Action Against Chinese AI Technology DeepSeek for Denying Arunachal Pradesh as Part of India",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request that the total voter list should be thoroughly revised and the Election Commission should answer to the Country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Discussion on Allegations Regarding Voter List Irregularities Across States",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to govt. for the establishment of a Greenfield Airport at Kanyakumari",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request to Review and Stop Excessive Digital Mandates in Welfare Schemes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request to govt for the construction of the Railway Under Passes at Churu District",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Appeal to Withdraw Offshore Sand Mining Order to Protect Fishermen and Coastal Environment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt for minor realignment of the gunupur-theruvali railway line so it can pass through station like Gunupur, Chalakamba, Padmapur, Bissam Cuttack, Gumuda, Penkam, Ramanaguda, Bankili, Durgi and Theruvali",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "13.12.2024",
+        "title": "Regarding need to stop mining activities in the region around Gandhamardan Hills in Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "The Disaster Management (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "11.12.2024",
+        "title": "Issue related to the Polavaram Dam and its Impact on Odisha Villages and Rehabilitation Issues",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to govt expedite the construction of National Highway 55 (NH 55), which stretches from Manguli to Sambalpur via Dhenkanal and Angul",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Urgent request for clean water provision and establishment of medical facilities in Kishanganj, Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Request to ensure proper implementation of SC, ST, and OBC reservations",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Reqeust to govt an action should be taken to prevent unsolicited telemarketing calls and protect privacy",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to resolve the Mahanadi River dispute between Odisha and Chhattisgarh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding the issue of sambhal incident",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to minister intimate the house about the latest position regarding bangladesh",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt take action against the police and the people of administration that are responsible for spoiling the atmosphere of Sambhaal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt for setting up of an airport at Rayagada",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 46 and 47 under the control of the Ministry of Health and Family Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Request to govt to instruct the state of andhra pradesh not to intervene in the internal matters of odisha, and that kutia should remain a part of odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demands for Grants Nos. 25 and 26 under the control of the Ministry of Education",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "22.07.2024",
+        "title": "Issue concerning NEET and competitive exams in the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 96
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 3
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 148
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/saptagiri-sankar-ulaka"
+  },
+  "qualification": "Graduate",
+  "questions": 48,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 3,
+    "Chemicals And Fertilizers": 1,
+    "Commerce And Industry": 1,
+    "Communication": 3,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Education": 5,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "Finance": 1,
+    "Health And Family Welfare": 1,
+    "Housing And Urban Affairs": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Minority Affairs": 1,
+    "New And Renewable Energy": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 1,
+    "Rural Development": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 2,
+    "Tourism": 2,
+    "Tribal Affairs": 4,
+    "Women And Child Development": 3,
+    "Youth Affairs And Sports": 2
+  },
+  "reservation": "ST",
+  "runner_up_name": "KAUSALYA HIKAKA",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 66,
+    "criminal_deduction": 0,
+    "legislative": 87,
+    "mplads": 36,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "flag",
+  "total_assets": 70956659,
+  "total_liabilities": 16002929,
+  "wealth_pct_increase": 89,
+  "winner_vote_share": 41.03
+}

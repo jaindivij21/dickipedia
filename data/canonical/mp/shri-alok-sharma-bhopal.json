@@ -1,0 +1,603 @@
+{
+  "accountability_score": 28,
+  "age": 59,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 22300000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 8400000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 0
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 31000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 61700000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 151000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 10555378
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2300000
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "New India Insurance Family Mediclaim Beema 73,837 73 Thou+",
+        "value": 473837
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 3687668
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2075000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 6320000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 1362354
+      }
+    ],
+    "movable_total": 26925237
+  },
+  "assets_earliest_year": 2008,
+  "assets_history": [
+    {
+      "label": "Madhya Pradesh 2008",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Gnf8ivN3rWsTsHY9qfya",
+      "total_assets": 7611300,
+      "year": 2008
+    },
+    {
+      "label": "Madhya Pradesh Nagar Nigam 2017",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Gnf8ivN3rWsTsHY9qfya",
+      "total_assets": 34679808,
+      "year": 2017
+    },
+    {
+      "label": "Madhya Pradesh 2023",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=Gnf8ivN3rWsTsHY9qfya",
+      "total_assets": 80594326,
+      "year": 2023
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=3941",
+      "total_assets": 88625237,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 1064,
+  "assets_latest": 88625237,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Alok Sharma is an Indian politician who was elected to 18th Lok Sabha from Bhopal on a BJP ticket.",
+    "title": "Alok Sharma (Indian politician)",
+    "url": "https://en.wikipedia.org/wiki/Alok_Sharma_(Indian_politician)"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "21, Ramanand Ashram Colony (Pahadi) Nevri Mandir Road, Bhopal, Madhya Pradesh, 462001",
+    "emails": [
+      "alok25bjp@gmail.com",
+      "aloksharma.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "9425020518",
+      "7049969598"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 4,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 4,
+    "ipc_summary": [
+      {
+        "count": 3,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for wrongful restraint",
+        "section": "341"
+      },
+      {
+        "count": 1,
+        "description": "Punishment for Rioting",
+        "section": "147"
+      },
+      {
+        "count": 1,
+        "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "section": "149"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "RCT No. 7999/2023",
+        "charges_framed": false,
+        "court": "JMFC Bhopal Kapil Borasi",
+        "fir_no": "146/19, P.S. Kotwali Dist Bhopal",
+        "other_acts": "Section 3 Defacement of Property Act.",
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCT No. 11703/2023",
+        "charges_framed": false,
+        "court": "JMFC Bhopal Sanjana Saral",
+        "fir_no": "218/19, P.S Talaiya Dist. Bhopal",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "UNCR 6/2023",
+        "charges_framed": false,
+        "court": "JMFC Mungawali Dist. Ashok Nagar",
+        "fir_no": "251/20, P.S. Bahadurpur Mungawali Dist. Ashok Nagar",
+        "other_acts": "Section 6 The Religious Institutions (Prevention of Misuse) Act, 1988",
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "RCT No. 2692/2019",
+        "charges_framed": true,
+        "court": "JMFC Bhopal Sandip Kumar Namdev",
+        "fir_no": "649/18, P.S. Gautam Nagar, Dist. Bhopal",
+        "other_acts": null,
+        "sections": [
+          "341",
+          "147",
+          "149"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 7,
+  "dob": "25/11/1967",
+  "eci_state": "Madhya Pradesh",
+  "email": "alok25bjp[at]gmail[dot]com,aloksharma[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 527250,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 619398,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 347268,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 656392,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 639650,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 335254,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 550076,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 696326,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 744948,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 583067,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 184508,
+        "person": "dependent1"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 147298,
+        "person": "dependent1"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture & Income From Rent & Etc"
+      },
+      {
+        "person": "Spouse",
+        "source": "Private Work"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "From ₹76.1 L (2008) to ₹8.86 Cr (2024).",
+      "headline": "Declared assets grew 1,064% across 4 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 7611300,
+        "from_year": 2008,
+        "pct": 1064,
+        "to": 88625237,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹8.10 Cr between affidavits, while declared income across 5 ITR years totalled ₹27.9 L.",
+      "headline": "Declared assets rose 29× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 81013937,
+        "declared_income": 2789958,
+        "itr_years": 5,
+        "ratio": 29
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 18% of MPLADS local-area funds were spent — ₹12.11 Cr unspent.",
+      "headline": "82% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 121106280,
+        "utilisation_pct": 18
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 7992310
+      },
+      {
+        "category": "Loan For Agriculture Land 50,32,000 50 Lacs+",
+        "value": 5032000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 13024310
+  },
+  "margin_votes": 501499,
+  "minister": false,
+  "mp_name": "Shri Alok Sharma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 25893720,
+  "mplads_unspent": 121106280,
+  "mplads_utilisation_pct": 17.6,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 62,
+  "mpsno": 5674,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-04-11T03:54:12.000Z",
+      "flagged": false,
+      "publisher": "thehitavada.com",
+      "title": "Hindu organisations receive death threats; MP Alok Sharma submits memo to Commissioner",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDVKZ3RQcEV3VEgtMWdJVEUwUFcxQ3VLZHpnTkg1OXJpc2NLbUhzQ3poZzNhVDZ1dHhNcTh3ZG92VFU5RUs2VndEVVp5TkgtdndnaFJ6VlhPb1BiZDAwNHdraXdJRFJzY2RVakgwZTNCT2wzclEyQmFyNVhKNDZ1MjlqZmpnTlpwSlc4dmx4N3dnbkNxX1ZCazJhOFRZenpXLV9LQXNuV3Y0eHVSZzhUdERRdHM4U2E1cGdUbkZnLVBxUl9vT1BCb19aamhOa00?oc=5"
+    },
+    {
+      "date": "2026-01-06T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Free Press Journal",
+      "title": "MP News: Bhopal Member Of Parliament Alok Sharma Demands Helipad For AIIMS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzRqb3NOMlBkLU16Y0UzNjdXU25VOFlEX3VobTBOVU11cHh1QWljeVJ5b0d4OWR3OG1sSnlMajRHUkROS1hjaGtxc0FOVkRUdmRPRWhucEtnRUFKN3VkalNXSm42T0FtUk1xSHE5cG83QkhsaVE5cm5LRF9MYVBsR3FXclA0bjFnRDhnS3F0N3VoWDJRSUo3Wm0tNjlWSkotcWdFNFRMTVNjNXZ3aVJMcTNR0gG3AUFVX3lxTE9KckdjX2ZNcjc4ZFpiSmJCb25CZmdxYTF4R3RqRU9yOFNQbTlNbUhQVWdVTEJQU2lPdXM3bFRkaDFhdU1YNElOSkNXUVMtVlF6RXZKaUNGNzJiVHBoRzBaNHNXd1FxWkp4QWdtWkwxRGpIeWNSZmM4YXZ4d2NzVm54Y2Y0aHJjNXZaWVYyMnVvOV9RYXM0aEJNOFBONndWa3g2Z195NDc1SHBYVng1ZkRSWGpOUmFmUQ?oc=5"
+    },
+    {
+      "date": "2025-09-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "NDTV",
+      "title": "Row Over Bhopal BJP MP Alok Sharma's Warning For \"Love Jihad At Garba Events\"",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSURxT1VkYjdkODIwQWJPVDF1bWZKTXZvUzl1MG80V3JoN2dwdkhUSkQ4dDZWTEpCMm5wUlhsY2liTG1WYTR0R1V5aVBxbW56QlhUNERDUVQ5aHNteUc0VzJ3cjU5NVZwTmVETDN3Vk5MMThsY0t5OTBpSHVIZHVNSDNEdDNxaWtYYzdnN1QxeWlXNVRRWm5RX25LOE96OHZwVmNHeW42VTktS2lKem1SRG02X1PSAbwBQVVfeXFMTXUwcGtjcjBiaGNEZk9iZG50N3A4UEt4WGtVTUpwNmQ2dUt4ajdfX3RUVUxpbjNrVzZJNjdSa3JHd2tnZHJmaU45cnFXRk8tRmFRZ2I3NUFPakl0bVBvQnc4djJfSXc2alVwYzVSQ1ZuM1h2NVNjLXhxNk9oQjFoQUxlNVNyY2hGMFRMRU9hTDlNMTNMTkN3V1FrX2t1WHlDZFNGNVdKMW9pMlZ6c3I0X0lGWUtoc2M0MnNwNF8?oc=5"
+    },
+    {
+      "date": "2025-09-18T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "'Fake videos being made using AI in 'Machhli' case': MP Alok Sharma says, 'Ministers, MLAs, MPs’ image bein...",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOTBETGRGQ3dkc3dWcERnUWdvY2pEZFlHOUFXUFk5bHp4SnB2Qkwyel9wOUYyQ1h1QTg1NC0wWEg2ZDBJMmxXWVZpa2hhY1FSeVpYckJLbHNQSERMRENKVEpkSE4xZUlqSy1EaHJTOXdGcEJGYjdZR1g5d3FBYTloSF9tXzdlN3ZUOVBrSnBPc1d0UW40eVZ6UkhqdHFoSUZ3ZUQ4UGxiWGwwYUJ0YXNfbEZDTFdGeVhmZDdybjF5dGxZZURnd01BY2tIOXQ0dWl5dlZjcGpUNFBzUkFUZ1ZRa0VtQThHbmVVVm1VVTU3WFJfVUMwTGVlbkUwaThiaFRMUnhXRNIBigJBVV95cUxQeV9sQm44d0FKSXlCSXZEdURKNjJkOXI1a2plZXlkUkx3d1Vndnc2R2dNTVFnRXY1SkRGdWZUZTJEVFhsSGx4ZUgyaGF6UGs2VjF2RG1EZHBKSkxEZVRxOUV1aHd4X2lVRkFKOENFRzdELWlUX2k2VE1aX1BhS3pySURwQlI1Z2RlY2pTdlVHLVluTnRFalY5RjAydUdFeEdBOFZjZ2d3VERvWlNUS0Z6T1ZSdzd6dGdWTGlScXctU3F6V0MwS055V3hZT2F0ejFwOEVhaTBRbW11UmJSVXh4dnkyeWo0VXhBZVlzUUZZanp2Q2JfVjZNOGZaemw4aEEteEp1b01nY0Jkdw?oc=5"
+    },
+    {
+      "date": "2025-08-25T13:04:59.000Z",
+      "flagged": false,
+      "publisher": "Bhaskar English",
+      "title": "‘Bhopal does not belong to Muslims,’ says MP Sharma: Sparks row; PCC Chief hits back, calls BJP an anti-nat...",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSnFsT3E4Sm1WSDVfclByRDAyRk41ZFcyVXFyc1lLYTk5RjhMVEFGX2c4VVBEaGRtUnYxOHVCSmptZGo5dTRrckdFSEYwZlhWY09zcmFkQWtncUoycUN1UWdaNWxUY3N1eGFqaGoza01ROWFKN0ltUFBKN1hMSXp2cHdxUEdnZUo0cGlTbkJfSnBoZE1sVWRCYWV0S2p4M1dTakk3Q0lpZVhjWkhKakxQQUZ0c3JvLVBFbjhSdS0tR05QSklKZWdLaWtwdDNPZGVqVFc1dnJxOUN5T0RQMHpQZ24xa1JnVkV6OThoQXJkQdIB9AFBVV95cUxQMDNXMkJiUXB5OVJHMzF0V3pvMDBETGJNd1ZXcG1NdlpWNGo4OUxTUW9FWGV1N2RreEd3UExtbjZVSkEyWlUzM196Ym1URmVfd01FN3JoUTRPaWZDeWFtbXFPc0Jvb20tWENfYUZJaWp2Y1pUbHA0THVGNjBWeGViQ3p0M2dBN2hYWnk4d0VlU3NpMWxOX2lESzJjWDNwaGV5N3hoNkNjTGFHSzBnYVV2cWZ0c0EzdlpJUzlpRnJrekN2YXRmODZQblhTZ1hTOGhwcTZ2MExmd2xPX3NSWlg3UkR2eFk1emdrTzZGVmxDZDlPZmdq?oc=5"
+    }
+  ],
+  "non_serious_cases": 4,
+  "nota_gt_margin": false,
+  "nota_votes": 6621,
+  "notable_record": null,
+  "num_candidates": 22,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-19",
+  "pc_name": "BHOPAL",
+  "pending_cases": 4,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180215.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 85
+    },
+    "debate_titles": [
+      {
+        "date": "30.07.2025",
+        "title": "Request to Protect Bhopal's Upper Lake from Encroachment and Pollution",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2025",
+        "title": "Regarding need to make �Bada Talab� of Bhopal free from encroachment and pollution and make measures to conserve the same",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to start operation of international flight services from Raja Bhoj International Airport, Bhopal, Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Question on the central plan to bring Bhopal's heritage to the world stage",
+        "type": "Special Mention"
+      },
+      {
+        "date": "08.08.2024",
+        "title": "Regarding violation of terms of lease agreement of land of BHEL, Bhopal leased out to industrialists",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.08.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Issue related to the disposal of the waste of Union Carbide factory in Bhopal",
+        "type": "Special Mention"
+      },
+      {
+        "date": "29.07.2024",
+        "title": "Regarding issues pertaining to BHEL, Bhopal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2024",
+        "title": "Request to minister to include the work of building a railway station at berasia of bhopal in the budget for the financial year 2024-25",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 10
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 214
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/alok-sharma"
+  },
+  "qualification": "Graduate",
+  "questions": 27,
+  "questions_by_ministry": {
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 2,
+    "External Affairs": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Ports, Shipping And Waterways": 2,
+    "Prime Minister": 1,
+    "Railways": 3,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Tourism": 1,
+    "Women And Child Development": 2
+  },
+  "reservation": "GEN",
+  "runner_up_name": "ADVOCATE ARUN SHRIVASTAVA",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 42,
+    "criminal_deduction": 4,
+    "legislative": 57,
+    "mplads": 21,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 10
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 88625237,
+  "total_liabilities": 13024310,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 65.48
+}

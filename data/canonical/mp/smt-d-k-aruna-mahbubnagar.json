@@ -1,0 +1,679 @@
+{
+  "accountability_score": 38,
+  "age": 66,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 60000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 35000000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 271550000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 40230000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 406780000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 22685716
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 16309165
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 1650000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 97584741
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 8932000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 115478239
+      }
+    ],
+    "movable_total": 264789871
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Telangana 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ViY2V6um3dMtSqJqz9b",
+      "total_assets": 362787233,
+      "year": 2014
+    },
+    {
+      "label": "Telangana 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ViY2V6um3dMtSqJqz9b",
+      "total_assets": 773089403,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=ViY2V6um3dMtSqJqz9b",
+      "total_assets": 788398644,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5236",
+      "total_assets": 667569871,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 84,
+  "assets_latest": 667569871,
+  "attendance_pct": 95,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Dharmavarapu Kottam Aruna is an Indian politician from Telangana state. She served as a minister in Andhra Pradesh for Information and Public Relations in Y. S. Rajasekhara Reddy's cabinet (2004–2009) and for Small Scale industries, Sugar, Khadi and Village Industries in Rosaiah's cabinet (2009–2010). She represented Gadwal constituency as an MLA in Andhra Pradesh Legislative Assembly between 2004–2014 and in Telangana Legislative Assembly between 2014 and 2018.",
+    "title": "D. K. Aruna",
+    "url": "https://en.wikipedia.org/wiki/D._K._Aruna"
+  },
+  "charges_framed_count": 1,
+  "committees": null,
+  "contact": {
+    "address": "Rd. No. 56, Plot No. 1176, Jubilee Hills Hyderabad Telangana, 500033",
+    "emails": [
+      "kottam.aruna@gmail.com",
+      "kottam.aruna@mpls.sansad.in"
+    ],
+    "phones": [
+      "9440296022",
+      "9985850745"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 6,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 6,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Punishment for bribery",
+        "section": "171E"
+      },
+      {
+        "count": 1,
+        "description": "Illegal payments in connection with an election",
+        "section": "171H"
+      },
+      {
+        "count": 6,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      },
+      {
+        "count": 1,
+        "description": "Acts done by several persons in furtherance of common intention",
+        "section": "34"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "359/2019",
+        "charges_framed": true,
+        "court": "Judicial Magistrate of First Class at Gadwal Town, Jogulamba Gadwal District",
+        "fir_no": "188/2018, Police Station Maldakal Maldakal Mandal Jogulamba Gadwal Dist",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial Magistrate of First Class at Gadwal Town Jogulamba Gadwal District",
+        "fir_no": "324/2018, Police Station Gadwal Town PS, Jogulamba Gadwal Dist",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 2,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial Magistrate of First Class at Narayanpet and District",
+        "fir_no": "36/2024, Police Station Utkoor PS, narayanpet District",
+        "other_acts": "Section 26 TS Dist. Police Act 1329 of Utkoor PS.",
+        "sections": [
+          "188"
+        ],
+        "serial": 3,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": "CC No. 457/2021",
+        "charges_framed": false,
+        "court": "Judicial Magistrate of First Class at Gadwal Town",
+        "fir_no": "27/2020, Police Station Gadwal Town Jogulamba Gadwal Dist",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 4,
+        "serious": false,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial Magistrate of First Class at Gadwal Town",
+        "fir_no": "23/2020, Police Station K.T. Doddi K.T. Doddi Mandal",
+        "other_acts": "Section 123 R.P. Act.",
+        "sections": [
+          "188",
+          "171E",
+          "171H",
+          "34"
+        ],
+        "serial": 5,
+        "serious": true,
+        "status": "pending"
+      },
+      {
+        "case_no": null,
+        "charges_framed": false,
+        "court": "Judicial Magistrate of First Class at Gadwal Town",
+        "fir_no": "330/2021, Police Station Gadwal Town Jogulamba Gadwal District",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 6,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 4,
+  "dob": "04/05/1960",
+  "eci_state": "Telangana",
+  "email": "kottam[dot]aruna[at]gmail[dot]com,kottam[dot]aruna[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 2837440,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1269363,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 972980,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1015210,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 987861,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 4966130,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4922260,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 5805880,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 5925140,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 7305767,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Agriculture and Telangana Member of Legislative Assembly Pensioner"
+      },
+      {
+        "person": "Spouse",
+        "source": "Agriculture, Business"
+      },
+      {
+        "person": "Dependent",
+        "source": "Not Applicable"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹30.48 Cr between affidavits, while declared income across 5 ITR years totalled ₹70.8 L.",
+      "headline": "Declared assets rose 43× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 304782638,
+        "declared_income": 7082854,
+        "itr_years": 5,
+        "ratio": 43
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 22% of MPLADS local-area funds were spent — ₹11.52 Cr unspent.",
+      "headline": "78% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 115225725,
+        "utilisation_pct": 22
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "Self-declared in the sworn affidavit — pending ≠ convicted; framing of charges is a court stage, not a verdict.",
+      "headline": "1 declared case(s) where charges have been framed",
+      "key": "charges_framed",
+      "numbers": {
+        "charges_framed": 1,
+        "convicted": 0,
+        "pending": 6
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 13879689
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dy. Diredtor of Mines & Geology Hyderabad Addressed Lr.No. 550/Q-III/2008 Date 1",
+        "value": 2252745
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 16132434
+  },
+  "margin_votes": 4500,
+  "minister": false,
+  "mp_name": "Smt. D K Aruna",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 31774275,
+  "mplads_unspent": 115225725,
+  "mplads_utilisation_pct": 21.6,
+  "mplads_works_completed": 61,
+  "mplads_works_recommended": 268,
+  "mpsno": 5703,
+  "myneta_serious": true,
+  "news": [
+    {
+      "date": "2026-05-08T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "MP Aruna demands fair selection of Indiramma housing g beneficiaries",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEN2aE41cjdhaTFGTkM1MkQ3LUtOb3BIemw5WU5rUEl1enk4MXZpUjQ1ZUNXOXlsdjY1bGl5S05HREVYZkJXQzl4OVozVktKTHJFbU45aXhkY1EyY2RWdmxvMFliSE8tbE84Z2FIZnNUcFZpV2FBZWJhVk52aDltM2JuOHJpdEgzN0UtWWo1T2pHM0RTektyVHF1b2RtYjJoWThRQzNmclNJdU5NQ1BNaERkemNGUdIBuwFBVV95cUxPNUphUXdaYlI1ZmtRajhEenVGSjgtb0lub1JwS2MzOWZaTy1JcGhLZnRkTVRLeDZ1M1paLXlCX0NqVi1Jd252U0tKdlYyZTRBSEZ6VXE2QUtFRVZEdGVFY0JqbnBDRGU3ZTZ6b2FJS1NwRXJwRXlzc2lsQkh3aDBqVzhJeS11dGRhdXF3cXhHMHl5bjVxa3haODB0amhRdlV4SUNCeU96NE5QWGZXaG4wVlJPR1NERGNKNnN3?oc=5"
+    },
+    {
+      "date": "2025-12-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "NewsMeter",
+      "title": "MP DK Aruna’s election win in Mahabubnagar seat challenged; HC reserves order",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3VQSEFMZ21uMzBtckp6THA2b3FMNHFSeFk1UjFzUEVSb2Y1bC1qZFdXb0RIMlBycFU0TnJzaGV4WUJLV2pjUTUybE5qOTg0b2VmU1kteFBCUk1WYWtDYTIzNzctY1kyd2dqOEYyXzdRcDRmSklnenQ4LWhPWk5EU2xIU3dpTTRWMDAxT1UxaHZUdW9zZXBObTBCYXZ4WnBiQkpiNklYREVyQlBEcF90UmF3?oc=5"
+    },
+    {
+      "date": "2025-10-27T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "MP D.K. Aruna Unveils ‘Unity March’ Poster, Calls on Youth to Unite on Ekta Diwas",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEU1R19XU2NmRGhudGhXMEZMbWRIMDN1Q0FYaWhLRWNDeVc4Uy1XeXBGcEt0RDNXU0xJS0lVc2RzaDZtZmhCRzAwRVdoWFdoemdfSGk0QjY0X0pfcWs0ZjZVNlMtSjRYLTliSlp3TGtvT0FoUXR1ZmRDYmx5UVk3cVhSeHBfUlFEQjN6MXY5dnVBS0ZINzUyODdKVUU2R1dRUS1IRWdybG9lWmdjb1VQQTg5TmpPRzgzbEJKalY3VjDSAcYBQVVfeXFMUDBLSzZlQlZnQkY2M3ZtcG9FQ3I3MjBRLUo3bklKM05XcGI4WWl5eVVNV3pqR1VVeXUzZUhfd2FGUDB3WWJncWZkNEJmUElSa3BRUWhnVXd6NUhtZ1FjUW9tRjQ3cmZiUHVLTkNRVVMxaDBqdFhucHhuTUlLbERjUHFLZmJzdWc3T0pvR0lLSGNLVmJIVXVoOTNucEthNjZvbXNqY1FNUW5HckN0WlhKSS1PTGV2UkFpaE1DX0ZCRG8zV25rME9B?oc=5"
+    },
+    {
+      "date": "2025-08-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "metroindia.net",
+      "title": "DK Aruna thanks Centre for Navodaya School in Mahbubnagar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDNnLVM3SlpBNk96YjJNSFpudUE5Y3NJajZtbjhHVGZ6VTZ3N1Q3MTVSWXl6SVJoT1dsbUdENVJ1cUxFZDMxM29feHVGbVhxWGtKb1d4dGU1MjJ5UU1kcGh3X282cmthWEF6VUg0SXFLdWNOX0hqVEJ6Z3JMR1I3bGVkbVIwRHEwbC11bG44eHdSWU4xSUxhNmFLVmVLOG54czhySGNwRE1hZ1U?oc=5"
+    },
+    {
+      "date": "2025-04-17T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Hans India",
+      "title": "Expedite pending railway works, Aruna tells officials",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREEtS2RZcDRCQXBpbDlDSjRpbkdiT0dTTE9CWENESjNfeHZ4bF8wcnFOMVZVQjlwVEh4TnhSbDltbElUNFJXTjhPN1Jla3V1bjJ6UU9NYXlnOWdfQmV3a1FQeWZWZHljRE94MTB1RmJVRHRsckpqemh2Wmp4Vlk3TkxuN1ZFc0hYWm1WRjIzYmMtVGgyZF9tbERXSmhXejA?oc=5"
+    }
+  ],
+  "non_serious_cases": 5,
+  "nota_gt_margin": false,
+  "nota_votes": 4330,
+  "notable_record": null,
+  "num_candidates": 31,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "telangana-11",
+  "pc_name": "Mahbubnagar",
+  "pending_cases": 6,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180398.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 83
+    },
+    "debate_titles": [
+      {
+        "date": "17.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "30.03.2026",
+        "title": "Regarding need to impress upon the Government of Telangana to maintain the ratio of students and teachers in medical colleges of Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.03.2026",
+        "title": "Regarding need to address the problems of Multi Level Health Providers/Community Health Officers serving in National Arogya Mandirs under National Health Mission in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "08.12.2025",
+        "title": "Regarding need to address the problems being faced by Handloom Weavers in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.12.2025",
+        "title": "Regarding need to amend the Right to Education Act, 2009",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.08.2025",
+        "title": "Regarding need for inclusion of Gor-Boli language of Banjara community in the 8 th Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.08.2025",
+        "title": "Regarding establishment of IIM and NIT in Mahabubnagar district headquarters, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2025",
+        "title": "Regarding need to provide stoppage to Hundry intercity Express at Malakpet railway station in Hyderabad",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need for utilization of vacant land near Gadwal Railway Station in Telangana by establishing a Skill Development centre for unemployed youth",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2025",
+        "title": "Regarding need to lay new railway lines from Mahabubnagar to Tandur and from Jadcherla to Miryalaguda in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Regarding need for road connectivity to all the unconnected habitations under PMGSY in Mahbubnagar Parliamentary Constituency, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "Request for Establishing an IIIT in Mahbubnagar, Telangana, to Promote Education and Employment",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need for establishment of an IIIT in Mahabubnagar Parliamentary Constituency, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Regarding need to include various temples and pilgrimage sites in Telangana under PRASAD Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishment of Kendriya Vidyalaya Schools in Makthal, Kodangal, and Gadwal in Mahbubnagar Parliamentary Constituency, Telangana",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.03.2025",
+        "title": "Request for Inclusion of Boya Valmiki Community of Telangana and Andhra Pradesh in the List of Scheduled Tribes",
+        "type": "Special Mention"
+      },
+      {
+        "date": "13.02.2025",
+        "title": "Regarding need for official recognition for celebration of Sant Shri Sevalal Maharaj Jayanthi on 15th February",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for National Recognition of Sant Shri Sevalal Maharaj Jayanthi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "04.02.2025",
+        "title": "Regarding need to expedite various developmental works of Alampur Jogulamba temple in Mahbubnagar Parliamentary Constituency, Telangana under PRASHAD scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2024",
+        "title": "Regarding need to set up a Handloom Park in Jogulamba Gadwal district, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "Regarding need to set up a Textile Park in Narayanpet District in Mahababunagar Parliamentary Constituency, Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.11.2024",
+        "title": "Regarding need to include Valmiki or Boya community of Telangana in the list of Scheduled Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister to kindly intervene to expedite the set up a new sainik school in narayanpet district",
+        "type": "Special Mention"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 15,
+      "value": 24
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 105,
+      "value": 146
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/aruna-d-k"
+  },
+  "qualification": "Inter/Higher Secondary",
+  "questions": 30,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Education": 1,
+    "External Affairs": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 4,
+    "Housing And Urban Affairs": 2,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Labour And Employment": 2,
+    "Micro, Small And Medium Enterprises": 2,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 1,
+    "Science And Technology": 1,
+    "Social Justice And Empowerment": 1,
+    "Steel": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "CHALLA VAMSHI CHAND REDDY",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 49,
+    "criminal_deduction": 11,
+    "legislative": 55,
+    "mplads": 41,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 1,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 667569871,
+  "total_liabilities": 16132436,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 41.66
+}

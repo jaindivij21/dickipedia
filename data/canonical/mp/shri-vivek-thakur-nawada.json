@@ -1,0 +1,437 @@
+{
+  "accountability_score": 0,
+  "age": 57,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 13966000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 14530220
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 28496220,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 160000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 5097388
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 3880628
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 34945
+      },
+      {
+        "category": "Niva Bupa Health Insurance 42,801 42 Thou+ Bajaj Allianz Health 8,231 8 Thou+ Al",
+        "value": 3088563
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 5222316
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4586230
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 22070077
+  },
+  "assets_earliest_year": 2005,
+  "assets_history": [
+    {
+      "label": "Bihar 2005",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PbMRoiXmPm8s83LaTz",
+      "total_assets": 832954,
+      "year": 2005
+    },
+    {
+      "label": "Bihar 2015",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=PbMRoiXmPm8s83LaTz",
+      "total_assets": 10297752,
+      "year": 2015
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1695",
+      "total_assets": 50566297,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 5971,
+  "assets_latest": 50566297,
+  "attendance_pct": 100,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Vivek Thakur is an Indian politician. He was elected to the Rajya Sabha the upper house of Indian Parliament from Bihar as a member of the Bharatiya Janata Party. He was elected as a Member of Parliament, Lok Sabha from Nawada, Bihar in 2024 Indian general election. He is the son of politician C.P. Thakur.",
+    "title": "Vivek Thakur",
+    "url": "https://en.wikipedia.org/wiki/Vivek_Thakur"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Uma Complex Fraser Road Patna Bihar, 800001",
+    "emails": [
+      "vivek.thakur@mpls.sansad.in"
+    ],
+    "phones": [
+      "9431009196",
+      "9499400880"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 2,
+  "dob": "27/11/1969",
+  "eci_state": "Bihar",
+  "email": "vivek[dot]thakur[at]mpls[dot]sansad[dot]in,vivek[dot]thakur[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1079858,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1080350,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 760811,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 548988,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 269166,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1743045,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1720522,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1303445,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1447072,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1474259,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "AGRICULTURE,Business and rajya sabha salary and bonus"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary"
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "From ₹8.3 L (2005) to ₹5.06 Cr (2024).",
+      "headline": "Declared assets grew 5,971% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 832954,
+        "from_year": 2005,
+        "pct": 5971,
+        "to": 50566297,
+        "to_year": 2024
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Assets increased by ₹4.97 Cr between affidavits, while declared income across 5 ITR years totalled ₹37.4 L.",
+      "headline": "Declared assets rose 13× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 49733343,
+        "declared_income": 3739173,
+        "itr_years": 5,
+        "ratio": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 1% of MPLADS local-area funds were spent — ₹14.51 Cr unspent.",
+      "headline": "99% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 145122402,
+        "utilisation_pct": 1
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 8669564
+      },
+      {
+        "category": "Friend loan Mr Abhay Sharma 17,75,000 17 Lacs+",
+        "value": 1775000
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 10444564
+  },
+  "margin_votes": 67670,
+  "minister": false,
+  "mp_name": "Shri Vivek Thakur",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 1877598,
+  "mplads_unspent": 145122402,
+  "mplads_utilisation_pct": 1.3,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 5,
+  "mpsno": 5712,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2025-07-08T07:39:06.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Vivek Thakur , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYXR0bDg2VHFBajktcGkyZThoOEsyNUYzeEhmTEplTVdLT1ZTaWhHU0M4N25xRC0yVjYwR2RpSF9RZzVRWGthMUQ4dTAxMUppaEUyUl9VTzZwOGtsRkRQblVTSTNzN1RNaGxDbnBIQVMxSHFpOWhMT1QteGZLa1NkYXBRdw?oc=5"
+    },
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Nawada election results 2024 live updates: BJP's Vivek Thakur wins",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU3R2bW1Ic0p0SXBCV0ZDb0xEYkxpcHVNRTNweW9EVzZ0MXhObndXcXJYcm9wUE5wUEFKMEVlLTFyT29BWlJJa1AyN1VhNHgxMWJXSWM3QlhieE9DcWRvRFpNbEhwWnl3NDNCc0kxSF92WDhMVGtoMUlaUE04M0pMLVdBY0h0VGJnM0Y4bGE2SGMwSWJfbExOVG5BcFR1bk1aMzlTdEpJS3AtcEYzdHZ1aGdWRmM2RDJfZmtfTWstMGw4VENNQ2haMTBTb0JXTlZrMmFYN1R1LTNuSkRYRWRCSXJBWnJnRUU5QkF6a0QtMFBuRzRjSFJJWUtuMUtDczhpTEI0d2ZMT0I4NXpfU2laUTFB0gGXAkFVX3lxTE4wMzZJNGZpdXU3dkZiVHJjNFRpNWZnYWhRT0VPUXlya1ZMTjhVamU2elJEbWZWZkU4dThNS2FFVThMV0ZJYm1YVTBkVG80YzNqZWdjTHlMeFloX2NCOUVFSGl0b1JRWV93Rk50YTA3TVZtb18wYnQySXpYSVI5eWJKQjFtdXdKQzA0VmE0Z2VYRFBTc3BfS2ViMkcyWUVpU1FyNF9DVE9iSTE3Q09JOXkyT2FGY2luOTBfY1pud1N2Ty1oeHJlbVJzX1dWTVZFdEMzZlFzRWk3dG8wU192eTJNTkxRQWNoaUxNUEdPMVl6ZS16c2VDdVl6N2xFZGZST0lYVE1HNUgwbDdGeklNeDRJOUJiOVdxTQ?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Nawada Election Result 2024 LIVE Updates Highlights: Vivek Thakur of BJP Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORVlzYmR0dUJyQ1NYTUl3b0hoT285NmpBSHUwcm96aUhqQmdScER6SnpNSGxuU0FOZmFzSFVxTTQycHV3TzRpVldzekI4UkhVU2h2ZkFncjYyVXdQTmNGclFrQVNac0V2VFRmZmJ1WF9WR2oxWm4xWVJyOWJBekFYZURXRTZaMDIwSHJTdEpKYzJIRllNUUhsdHVyZzZGWnI2ZXNOLXk2ZkZFM1pOSVR2WmJOcjJrQzNUVzlWYUJ4UnBTX2dJUm9VTW5nUDdfMExLTkV6R0ZpR25sMno3VEJPb9IB5gFBVV95cUxOenp1Wnp1bkc1VUl1c19KTUxBVlVjY2hTYmRlNjBNeHliQW5EOWtyUFlHY3lsb2o4a3FkaTZYZUNuc2J3a3VhajAycVI0d3ZGSlJfUWRlTWRmNXVGUk5MTmdTRWZpWk9mQUdqR1ZTVUJBWjdHdlR5UGROb3BoMW1USXZxOU11SUFmRFhJc0puSGxhRTBhN2hfcjRsa2hKNGtyeXptNE10VzN3Uk1YTTdPR2FfWHh0Yll6R000bXVUN1VPYjF0aUtFSWZhTUphLWFmQnAyR2tfQU5idzgtN21FQkRibTM1UQ?oc=5"
+    },
+    {
+      "date": "2024-04-19T13:42:42.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Vivek Thakur, Bjp Party, Nawada, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbk5Qam5XNDR6elFXYW4tcUJhZ3R3VmdaSmlrUmNzNkptQ0NkdFlKbEZEeHpLaFJMVGRnM1B1TXJOdjBKSXcyck41MWZEWWUyaGprUHBwd2FYaXZzaFhhR2VaZEFWMWlkNU9uak5fNUxaYk1MaDJOcVFTRjV0cFBFRjAtOWhvbTF6REo3RlpYbkFKSzdaRFE3Yll5aHJncGRyUWEycjZDTC1pZFJoOWtpM1AwY0s5ZGV2MFljRGFFczRQTjRiZERNN0VKTWoxMEJPM2c?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12592,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "bihar-39",
+  "pc_name": "Nawada",
+  "pending_cases": 0,
+  "phone": "9499400880(M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180082.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 89,
+      "value": 96
+    },
+    "debate_titles": [
+      {
+        "date": "08.08.2024",
+        "title": "Issue related to the baksauti barrage project",
+        "type": "Special Mention"
+      },
+      {
+        "date": "25.07.2024",
+        "title": "(i) General Discussion on the Budget-2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.8,
+      "value": 2
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.6,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/vivek-thakur"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 11,
+  "questions_by_ministry": {
+    "Commerce And Industry": 1,
+    "Cooperation": 1,
+    "Culture": 1,
+    "Education": 1,
+    "Electronics And Information Technology": 2,
+    "Home Affairs": 1,
+    "Information And Broadcasting": 1,
+    "Jal Shakti": 1,
+    "Power": 1,
+    "Textiles": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "SHRAWAN KUMAR",
+  "runner_up_party": "RASHTRIYA JANATA DAL",
+  "score_breakdown": {
+    "base": 23,
+    "criminal_deduction": 0,
+    "legislative": 37,
+    "mplads": 2,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 30
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 50566297,
+  "total_liabilities": 10444564,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 47.2
+}

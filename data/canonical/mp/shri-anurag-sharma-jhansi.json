@@ -1,0 +1,604 @@
+{
+  "accountability_score": 82,
+  "age": 62,
+  "assets_2019": 1243060113,
+  "assets_2024": 2120765800,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 156000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 99500000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 395000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 517500000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 1168000000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 2510900
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 23391204
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 723846373
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "LIC POLICE No 23244xxxxx 5,00,000 5 Lacs+",
+        "value": 1500000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 63909479
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 1079348
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 53241114
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 83331563
+      }
+    ],
+    "movable_total": 952809981
+  },
+  "assets_earliest_year": 2019,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=8tEV2giqvy3v2aTv67fm",
+      "total_assets": 1243060113,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7176",
+      "total_assets": 2120765800,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 71,
+  "assets_latest": 2120765800,
+  "attendance_pct": 90,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Anurag Sharma is a Bharatiya Janata Party politician and two time Member of Parliament in Lok Sabha from Jhansi-Lalitpur constituency of Uttar Pradesh having contested and won in both 2019 & 2024.",
+    "title": "Anurag Sharma (politician)",
+    "url": "https://en.wikipedia.org/wiki/Anurag_Sharma_(politician)"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "962 Mangalam Civil Line Jhansi Uttar Pradesh, 284001",
+    "emails": [
+      "anuragsansad@gmail.com",
+      "anuragsharma.mp@mpls.sansad.in"
+    ],
+    "phones": [
+      "5102330333",
+      "9839387400",
+      "9810099772",
+      "9873244211"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/anuragjhansi/"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/anuragjhansi/?hl=en"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 10,
+  "dob": "16/11/1964",
+  "eci_state": "Uttar Pradesh",
+  "email": "anuragsansad[at]gmail[dot]com,anuragsharma[dot]mp[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 106169792,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 67238458,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 48551901,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 50807515,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 84509719,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 23783916,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 18595514,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 16813210,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 13136153,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 12071940,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 5481134,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 4785722,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 4411117,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 3828522,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2213264,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Business, Agriculture, Rent, Interest"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Business, Agriculture, Rent, Interest"
+      }
+    ]
+  },
+  "inference_count": 1,
+  "inferences": [
+    {
+      "detail": "Only 42% of MPLADS local-area funds were spent — ₹8.59 Cr unspent.",
+      "headline": "58% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 85900664,
+        "utilisation_pct": 42
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Anand Kumar Sharma 1,00,00,000 1 Crore+",
+        "value": 10000000
+      },
+      {
+        "category": "42,81,330 42 Lacs+",
+        "value": 4948530
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 14948530
+  },
+  "margin_votes": 102614,
+  "minister": false,
+  "mp_name": "Shri Anurag Sharma",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 61099336,
+  "mplads_unspent": 85900664,
+  "mplads_utilisation_pct": 41.6,
+  "mplads_works_completed": 78,
+  "mplads_works_recommended": 171,
+  "mpsno": 5148,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-23T18:29:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Anurag Sharma News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Vm1JeDNLZk1oWjU1TEtPcGVhRzA0R19mcWFsNENLdW50MHBPNlE1M3Bha0VZeWdORFpub3JPSkt2T3NjdGdZNWdYQTRnTWh6TnZqUnJsLVl0RWcwaGtRcVhqTm8yVU9CSHNjWg?oc=5"
+    },
+    {
+      "date": "2024-11-13T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Zee News",
+      "title": "Jhansi MP Anurag Sharma Takes Budelkhand To Global Stage",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVVKbERtLTAxQWdCbGZZdUxzREo4MGdCM00zaWV2RV9Dd05OUnd1d1dQY09TM3ROWmhNSXVkdjhKdGluYlliYnkwTFJqc3BzZWFyZm1KOHRVaFd5N3R4bUpIWF9OOFF5VzZndl9CeWtXdUh0a1RYWElWZ081dmVPT28wcy1zM09oNDlLWEZ6ckttMnpOR3ZtQXFGbkxLOEhudkR30gGoAUFVX3lxTE92MUloOFYtME5MZWZ1ZnpqZnp5c3hhdF9VOEZrenU3TDNXMkVjaDZSUXRjSTRJcXozczJ6MXZmSW9CWmhKdWNiRTVic0hEalRQVVk1OFh1Z0NOZ3dBNWZ3YkNIMjVhdGtLNHNlVTlJZk93UFExeml6SjlCeUFwNjFrdXduYnBScHF6dzczSFo3RTJPdlE4UjJTaElWdXJ2Q0NoQ0R6NTNhTw?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Jhansi election results 2024 live updates: BJP's Anurag Sharma wins with over a margin of 1 lakh votes",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNalVrTC1LdmNSR016bzBfOGlfZG9KTlYxX29fMmNoUV9YYmd5NnBCSFV0bFI3X3lxMHdPeE1BWTZMODkwZmZzOEZyYks1bmZ6RW9GYUtKLU1UT0w4QUF4LWhUZ1p6enRkVXUtY1lRUmpteVJHSnRwN2tJbmRDaGtIM2FsYnMza2JJT0FaaDBxbWt0ZnIzT0w0dW9URTNtT2w0MG1ITGhpenF3Umt0Znl0TFcyLTF1NkczU0RaSmZxdlNEWWtzSGVBc2c4eEtrZ2hOdGJxWGVRLUxVMmY1V3JZN1B3YU1Qdmo5Z1JwdGl4TkFha19mVTNfMlMzdElqQzA4UUJIUGJCcVcySDRiVUpCOWdnNHlYTUFubHJ2ZFVmclVwTUloVGhSeHltWFNCX2R5WGNHRkhWSTRZUUhCRlHSAcMCQVVfeXFMTk8tVkZXLWxEYTRrSnpQVGlmaHl2cWx4UWNBZnZ1T2p5WFJLWDI3M2VDUERLMnFsYXFBZnRTcjlzUG9RMmdXdUVmUElkYkMwMkw2ek1yQ0dQa1h2ZEdlWFZMTmU1UUhHV1BfWGY4QW1aYkI5aTJsTko0OS1JYXZ6Z19aS2VFbWtVcDhMeGltQ2RLV1pEVDV1NEZUcmZpd1BhTDljX2J1QjZ5TE5QXzJBbWNUUVBkTDBpaEFxdzFDRHNid0lXTlpDR3M3QU1SYzZzd2NFNE4tMUtBSEhOUDhLaWpBUmRmZzFNNE1rb2t5clMyM0xaLXFPOHBFdHVHTVJ4X0hiWkl0N1drZnFSWW9Oa3p1UkdGX3k2b0lybzF5OFFhWGtZTjVaX01SQ005RjVkTU45R0FMSU9NVnduQ2FjdTBVVU0?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "Jhansi Chooses BJP's Sitting MP Anurag Sharma For Another Term",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGRNM2RHdGdSTGZUaXpNUE9RX0VYOEVPMUh0WEpjdWNvRmhPemZPS1NiT2NpcDkyNjdQeE5wNXl2bkVJUV9hTE9GcUVpZmg4blhfUnVhR1poYTZXalVVYnZqalB1RHF6Mm1WZ2tXNnJjaUo4OWhVdlNUSFFYdlVLNjI5ZWdQRkx4LTZqTUVUTnZ3X21ROC1wTHpDVmI2d3JTcllENEJ6bTU4QnJCV3o4NA?oc=5"
+    },
+    {
+      "date": "2024-06-03T06:36:11.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Anurag Sharma , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFIwNGJQRXQ3MWstWFRJLXFsU3dNejZvRTFrLVBRZ3B0bGlJZ083TkkwWm00S3NzQmwzR3N6X01EdXNLdldsck15SlVhemFNUkZtVXdvOXVCR1h6c2FaRmhNbkhyVG04VXFUVUktcGI3UUUtT0xzWW9ma0JjZUVlUWRRTFM?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 15302,
+  "notable_record": null,
+  "num_candidates": 10,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "uttar-pradesh-46",
+  "pc_name": "Jhansi",
+  "pending_cases": 0,
+  "phone": "Tel: 9873244211, 9810099772 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180426.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Businessperson",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 95
+    },
+    "debate_titles": [
+      {
+        "date": "02.04.2026",
+        "title": "Regarding need for a National Policy to comprehensively improve connectivity to farming land in country to boost agricultural economy",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "01.04.2026",
+        "title": "Demand for Temporary Electricity Supply for Rabi Crops and Establishment of a Pulses Board in Bundelkhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "18.03.2026",
+        "title": "Regarding need to ensure uninterrupted supply of electricity during harvesting season in rural areas of Bundelkhand region, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.03.2026",
+        "title": "Regarding need to amend the disability threshold from 80% to 50% for availing asistance under ADIP Scheme and to provide Ayushman Cards to Divyangjan under Ayushman Bharat Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.02.2026",
+        "title": "Regarding need to upgrade Bundelkhand Institute of Engineering and Technology (BIET), Jhansi as a Central Technical University or IIT or NIT",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.02.2026",
+        "title": "Regarding need to announce a special GOBAR dhan package for establishment of Compressed Bio Gas (CBG) plants in Bundelkhand, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "29.01.2026",
+        "title": "Regarding need to take comprehensive measures for promotion of millets produced in Bundelkhand region of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.12.2025",
+        "title": "Expedite Approval and Construction of Airports and Industrial Areas in My Constituency for Viksit Bharat 2047",
+        "type": "Special Mention"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding arrangement of water allocation quota for Uttar Pradesh and Madhya Pradesh under Ken-Betwa river link project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2025",
+        "title": "Request for Central Government Support for Circle Rate Revision and Land Compensation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding alleged irregularities in implementation of drinking water projects under Jal Jeevan Mission in Jhansi and Lalitpur districts of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand to provide help to the SHGs of Jhansi, UP",
+        "type": "Special Mention"
+      },
+      {
+        "date": "24.07.2025",
+        "title": "Regarding need to ensure adequate supply of DAP and Urea to farmers in Jhansi Parliamentary Constituency, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.04.2025",
+        "title": "Regarding inclusion of �Bundeli� language in theEighth Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "25.03.2025",
+        "title": "Regarding need for improvement in electricity distribution service in Jhansi and Lalitpur districts in Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "18.03.2025",
+        "title": "Regarding need to ensure effective distribution and availability of water for irrigation and drinking purpose in Bundelkhand region of Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Regarding need for comprehensive measures to preserve the existence of river Pahuj flowing through Uttar Pradesh and Madhya Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Regarding need to create �Divyang Kavach\", a moble application to address the challenges faced by Divyangjan in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "18.12.2024",
+        "title": "Regarding need to convert outreach programmes for registration of eligible persons with disabilities under Niramaya Scheme in Bundelkhand and Jhansi, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "10.12.2024",
+        "title": "Regarding need to amend Jhansi Master Plan 2031",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding need to extend the benefits of Pradhan Mantri Kisan Samman Nidhi Scheme to the tenant farmers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.11.2024",
+        "title": "Regarding implementation of PM Surya Ghar Yojana in Bundelkhand, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister establish a airport at jhansi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding affiliation of Krishi Vigyan Kendras in Jhansi and Lalitpur Districts with Rani Lakshmi Bai Agricultural University, Jhansi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Regarding request for proper compensation and employment to farmers affected by Land Acquisition in upcoming Bundelkhand Expressway Development Authority Project",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "26.07.2024",
+        "title": "Regarding need to establish a Dry Port in Bundelkhand region",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 21.7,
+      "value": 30
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 76,
+      "value": 184
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/anurag-sharma"
+  },
+  "qualification": "Post Graduate",
+  "questions": 49,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Ayush": 5,
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Cooperation": 1,
+    "Corporate Affairs": 1,
+    "Earth Sciences": 1,
+    "Electronics And Information Technology": 3,
+    "Environment, Forest And Climate Change": 1,
+    "Health And Family Welfare": 1,
+    "Heavy Industries": 1,
+    "Housing And Urban Affairs": 3,
+    "Jal Shakti": 4,
+    "Labour And Employment": 1,
+    "Law And Justice": 1,
+    "Micro, Small And Medium Enterprises": 2,
+    "Mines": 1,
+    "New And Renewable Energy": 2,
+    "Panchayati Raj": 1,
+    "Ports, Shipping And Waterways": 1,
+    "Prime Minister": 1,
+    "Railways": 2,
+    "Skill Development And Entrepreneurship": 1,
+    "Tourism": 4,
+    "Tribal Affairs": 1,
+    "Women And Child Development": 2,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "PRADEEP JAIN \"ADITYA\"",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 80,
+    "criminal_deduction": 0,
+    "legislative": 79,
+    "mplads": 80,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 2,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 2,
+  "top_inference_severity": "notable",
+  "total_assets": 2120765800,
+  "total_liabilities": 14948530,
+  "wealth_pct_increase": 71,
+  "winner_vote_share": 50
+}

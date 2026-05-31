@@ -1,0 +1,491 @@
+{
+  "accountability_score": 32,
+  "age": 55,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 300437950
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 500000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 800437950,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 200000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 31214406
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1253489
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "Bajaj Allianz Policy No 035640xxxxx 18,15,770 18 Lacs+ Bajaj Allianz Policy No 0",
+        "value": 16123086
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 6100000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 3904000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 58794982
+  },
+  "assets_earliest_year": 2018,
+  "assets_history": [
+    {
+      "label": "Chhattisgarh 2018",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=8XAFsCdEQ5XD4geuiMia",
+      "total_assets": 546221511,
+      "year": 2018
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=1765",
+      "total_assets": 859232932,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 57,
+  "assets_latest": 859232932,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Kriti Devi Debbarman is a member of Tripura Royal family and Indian politician from Tripura. She was elected as an MP from Tripura East Lok Sabha constituency. She was the joint candidate of Tipra Motha Party and Bharatiya Janata Party.",
+    "title": "Kriti Devi Debbarman",
+    "url": "https://en.wikipedia.org/wiki/Kriti_Devi_Debbarman"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "Palace Kawardha (Moti Mahal), Ward no-09, Kawardha, Kabeerdham, Chhattisgarh, 491995",
+    "emails": [
+      "maharanikritisinghdebbarma@gmail.com",
+      "kriti.singh.debbarma@mpls.sansad.in"
+    ],
+    "phones": [
+      "9863905346",
+      "9589535855"
+    ],
+    "socials": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/kritisdebbarma"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 5,
+  "dob": "03/06/1971",
+  "eci_state": "Tripura",
+  "email": "maharanikritisinghdebbarma[at]gmail[dot]com,kriti[dot]singh[dot]debbarma[at]mpls[dot]sansad[dot]in",
+  "gender": "FEMALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 506400,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 558676,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 431630,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 793860,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 508466,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1726290,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1584180,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1651020,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1846214,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1345863,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Self Employed / Agriculture"
+      },
+      {
+        "person": "Spouse",
+        "source": "Self Employed/ Agriculturist/Ex. MLA of Chhattisgarh State Legislative Assembly"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹31.30 Cr between affidavits, while declared income across 5 ITR years totalled ₹28.0 L.",
+      "headline": "Declared assets rose 112× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 313011421,
+        "declared_income": 2799032,
+        "itr_years": 5,
+        "ratio": 112
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 13% of MPLADS local-area funds were spent — ₹12.84 Cr unspent.",
+      "headline": "87% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 128376697,
+        "utilisation_pct": 13
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 1525809
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 1525809
+  },
+  "margin_votes": 486819,
+  "minister": false,
+  "mp_name": "Smt. Kriti Devi Debbarman",
+  "mplads_allocated": 147000000,
+  "mplads_expenditure": 18623303,
+  "mplads_unspent": 128376697,
+  "mplads_utilisation_pct": 12.7,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 51,
+  "mpsno": 5575,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-05-15T08:27:58.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Kriti Devi Debbarman , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVpBcTV3YURobHJjaGpZbHo5WUt1YXEwVWlNN1JyN0hxWkl5TXhqWnF0UllndEE3TGdTZ21zckRBM0RoT0w1Z21lT3Rsd2JTdF9DaEtfY3dTOUlRWnRCZTlsQkxjMFRaR1RPcHhjVElYMV9ZYnpRTzRWN1JpdVBMMUZrUnl6OUpqS25Gb2Vn?oc=5"
+    },
+    {
+      "date": "2025-03-03T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Tripura Chronicle",
+      "title": "MP Kriti Devi Debbarman launches 100 days TB campaign with NTEP Tripura",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHJhaE9rSDByWEMzUWU0YnlLMjNwMDVfdndIbUgwN0NJd1c3TTlDMHJlcmRHSDMtSGd6V3dGcVBkeTh5akpmVF9BZG80R25sWUZoRkRZMk9aMzM0TVdhMFJFSHlrbHVyend0Q2p6bWVVWVVxN1FaSVk0UGV5Q2ZmNm9mSWUwVlBNLUpQZHEzLVJrdVhZeGpRZGZGOU9vSnp4RkFoRUwwTHJYeDlTNmo5cw?oc=5"
+    },
+    {
+      "date": "2024-12-10T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Telegraph India",
+      "title": "Plea to Amit Shah: Kriti Devi Debbarman seeks empowerment of Sixth Schedule areas",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS0tUS3JPaGp0dHMxSUMyM18wTllvZnJvV0VxTHpfRy1xSS0wcWxyeGtFb1o2UGtKUUcwLWhQaFZqaGoxblVxX25ZbTVfSlBuNGp1TFFkaEV3UG0yenoyXzhwSkFJd01VdWplU1JhckJ1d0plUkNGM0FqbDc2ZE5jbUJ5TjgzOXU5TVlxVmprWFlnUEl0dW11WWxqX1ZzcjFBWm1fN2VILUNqR0JkQlFwR3ZFcFJRZy1Ma05VdXlmRjRoR0ZWY0hQUUk3dERQNTTSAdQBQVVfeXFMT2hnTkpaZVBsaDhyXzhNTXVJZ05VTnJ1VXVBdEJnRU9sdkgzcUpBelZadno3UWV4dDdtbUxCWGpINmlPeVFrZGJYZlIyVS1FdUhueVlsM0cydnZoaEdodU9faTBiVUh1SGt5ZVQ3WWhOU0ozc181OFFpSW5GczdoSk5yYzlqajl5WjgzN0gzMXgtR1lXNXFXSVRDcjJiRU9jWWJhSnZGXzBoeU9WTXFURWcySWxIUVk3cTZpclFIck9rdVdEUnhuQmpPekxvTEF0ZmhlNGY?oc=5"
+    },
+    {
+      "date": "2024-12-09T08:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "Tripura MP Kriti Devi Debbarman Urges Swift Passage of 125th Amendment for Empowerment of Northeast’s Sixth Schedule Areas",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOblF3am43VkRsVE5hSVpQYVN3cUpnTnBlRDMzN05ET2JUbzVBajhPTUloMVQyU0phNGRIR3pvTXJnWHVhUENLVmxmWmtFd3ZySmF6a1lIa2Vvc2ttRmxBLUxCcXNuQmtTMXBZcmM3NHMyRDIzNlFZRUI1UmgxUkxFYVdEM3k1WUpkeUsxTi1vdlpWUUtBN2pmWmk1MjJLdDlvT0VXYks2YnFTc05OWmNXeVpHaDA2d1lKd2UyT0hORmMzRmNNSEZJaFUwSW5Cb2swUE1Mc1kxbFVlTVZHcHlpWTJiTGxOVjVBRzZreHJNcw?oc=5"
+    },
+    {
+      "date": "2024-08-28T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Northeast Today",
+      "title": "Tripura East MP Kriti Devi Debbarman Allocates Rs 1 Crore for Urgent Flood Relief Efforts",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVNEdFQ3WkM0T0FSSENOVkhOZjJhSHBjVUV1U2hfTHhuZlhxOXB0NnJibk1Zc1FzMFJPQzlXcGVPV2xMYU9meVN1SXkzajA1X2pYa1ZWZnRZZUVzcGtNb3k3WnNTdWljbDBYa3piSFZ4alVZcUU3RjlkOWpDZzRFaXJkNUZGUlNWZTdJU05FUlhFZm81MndvcFpXY3VHNzBMTUZRSHYtS05qeDFaZVl2VGctSHVhREgySktVR01kcktwV2JH?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 18303,
+  "notable_record": null,
+  "num_candidates": 9,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "tripura-2",
+  "pc_name": "Tripura East",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180416.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Agriculturist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 83,
+      "value": 84
+    },
+    "debate_titles": [
+      {
+        "date": "16.04.2026",
+        "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
+        "type": "Government Bills"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Request for Enhancing Women�s Participation in the Higher Judiciary up to at Least 30 Percent",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.04.2026",
+        "title": "Demand for Strengthening Grassroots Sports Development and Infrastructure in Tripura East",
+        "type": "Special Mention"
+      },
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Regarding need to set up a Tribal Cultural Academy in Tripura East Parliamentary Constituency, Tripura",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need to expedite completion of all pending Projects under Jal Jeevan Mission in Tripura East Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "15.12.2025",
+        "title": "Regarding need to recognize the Roman script for Kokborok, an indigenous tribal language of Tripura",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.12.2025",
+        "title": "Regarding need to take comprehensive measures to check illegal immigration of Bangladeshi into Tripura and other North-Eastern States",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to ensure timely passage of the 125th Amendment to the Constitution Regarding empowerment of Autonomous District Councils in the Sixth Schedule Areas",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "14.12.2024",
+        "title": "Discussion on the glorious journey of 75 years of the Constitution of India",
+        "type": "LS - Short Duration Discussions (Rule-193)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister to kindly ensure that the ongoing temple corridor project, which is currently under the tripura state govt., must have provisions for free or affordable accommodation for the devotees, primarily the indigenous people",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.08.2024",
+        "title": "Regarding protection of rights of the indigenous people of Tripura",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "02.08.2024",
+        "title": "Regarding setting up of AIIMS, Navodaya Vidyalayas and Kendriya Vidyalayas in Tripura East Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.5,
+      "value": 14
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": null,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 90,
+      "value": 63
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/kriti-devi-debbarman"
+  },
+  "qualification": "Professional Post Graduate",
+  "questions": 15,
+  "questions_by_ministry": {
+    "Chemicals And Fertilizers": 1,
+    "Civil Aviation": 1,
+    "Communication": 1,
+    "Corporate Affairs": 1,
+    "Finance": 1,
+    "Food Processing Industries": 1,
+    "Health And Family Welfare": 2,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "New And Renewable Energy": 1,
+    "Skill Development And Entrepreneurship": 2,
+    "Tribal Affairs": 1
+  },
+  "reservation": "ST",
+  "runner_up_name": "RAJENDRA REANG",
+  "runner_up_party": "COMMUNIST PARTY OF INDIA (MARXIST)",
+  "score_breakdown": {
+    "base": 32,
+    "criminal_deduction": 0,
+    "legislative": 42,
+    "mplads": 15,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "extreme",
+  "total_assets": 859232932,
+  "total_liabilities": 1525809,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 68.54
+}

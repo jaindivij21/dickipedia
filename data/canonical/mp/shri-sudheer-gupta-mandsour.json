@@ -1,0 +1,715 @@
+{
+  "accountability_score": 64,
+  "age": 67,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 39686000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 14866000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 41500000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 22831000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 118883000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 1519434
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 36704833
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 1231452
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 4807988
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 9972346
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 4195710
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 14871352
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 698524
+      }
+    ],
+    "movable_total": 74001642
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=eBmyVUtm6Vj3Wm9jUTYb",
+      "total_assets": 57429237,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=eBmyVUtm6Vj3Wm9jUTYb",
+      "total_assets": 90908944,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=5064",
+      "total_assets": 192884642,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 236,
+  "assets_latest": 192884642,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sudhir Gupta is an Indian politician and member of the Bharatiya Janata Party. He is currently a member of parliament, having been elected thrice, in 2014, 2019, and 2024 to the Lok Sabha election from Mandsour constituency in Madhya Pradesh.",
+    "title": "Sudhir Gupta",
+    "url": "https://en.wikipedia.org/wiki/Sudhir_Gupta"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "2/2, Housing Board Colony, Nai Aabadi, Mandsour Madhya Pradesh, 458001",
+    "emails": [
+      "sudhirgupta.mp@mpls.sansad.in",
+      "sudhirgupta2760@gmail.com"
+    ],
+    "phones": [
+      "7422224365",
+      "9425105331",
+      "9013869242",
+      "1123384966"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 1,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 1,
+    "ipc_summary": [
+      {
+        "count": 1,
+        "description": "Disobedience to order duly promulgated by public servant",
+        "section": "188"
+      }
+    ],
+    "pending": [
+      {
+        "case_no": "01/24.01.24",
+        "charges_framed": false,
+        "court": "MPMLA Indore",
+        "fir_no": "27/2020, PS Neemuch Cantt",
+        "other_acts": null,
+        "sections": [
+          "188"
+        ],
+        "serial": 1,
+        "serious": false,
+        "status": "pending"
+      }
+    ]
+  },
+  "debates": 10,
+  "dob": "19/05/1959",
+  "eci_state": "Madhya Pradesh",
+  "email": "sudhirgupta[dot]mp[at]mpls[dot]sansad[dot]in,sudhirgupta2760[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1579085,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1341716,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 821651,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1261979,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 1130205,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 1964672,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1867968,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1637866,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1048192,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 819775,
+        "person": "spouse"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 2461082,
+        "person": "huf"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 2409333,
+        "person": "huf"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 1291275,
+        "person": "huf"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 923124,
+        "person": "huf"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 522811,
+        "person": "huf"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Salary, Agriculture Income, LIC Agency Income, Grain Warehouse Rent, Income from Deposit Amount in Bank"
+      },
+      {
+        "person": "Spouse",
+        "source": "Salary, Agriculture Income, LIC Agency Income, Grain Warehouse Rent, Income from Deposit Amount in Bank"
+      },
+      {
+        "person": "Dependent",
+        "source": "N.A."
+      }
+    ]
+  },
+  "inference_count": 3,
+  "inferences": [
+    {
+      "detail": "Assets increased by ₹13.55 Cr between affidavits, while declared income across 5 ITR years totalled ₹61.3 L.",
+      "headline": "Declared assets rose 22× faster than declared income",
+      "key": "asset_growth_vs_income",
+      "numbers": {
+        "asset_increase": 135455405,
+        "declared_income": 6134636,
+        "itr_years": 5,
+        "ratio": 22
+      },
+      "severity": "extreme",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 11% of MPLADS local-area funds were spent — ₹13.20 Cr unspent.",
+      "headline": "89% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 132000169,
+        "utilisation_pct": 11
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "From ₹5.74 Cr (2014) to ₹19.29 Cr (2024).",
+      "headline": "Declared assets grew 236% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 57429237,
+        "from_year": 2014,
+        "pct": 236,
+        "to": 192884642,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 36023495
+      },
+      {
+        "category": "Unsecure loan 25,00,000 25 Lacs+",
+        "value": 20650000
+      },
+      {
+        "category": "Nil",
+        "value": 1780000
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": 58453495
+  },
+  "margin_votes": 500655,
+  "minister": false,
+  "mp_name": "Shri Sudheer Gupta",
+  "mplads_allocated": 148988015,
+  "mplads_expenditure": 16987846,
+  "mplads_unspent": 132000169,
+  "mplads_utilisation_pct": 11.4,
+  "mplads_works_completed": 55,
+  "mplads_works_recommended": 205,
+  "mpsno": 4615,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-06-07T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Mandsour election results 2024 live updates: BJP's Sudheer Gupta wins",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQTVdmblFwUUxmdEhIY0JTNjFpaUFzY2Rsa1NRSmNJdnpSSF8wWHlMNU40YWF5S19VWTRaanpxRjhUQmFZNXVYb1lVa1AyMmJiNEJyN254WFdkYTV0M0doc0NxckhUOFZ3ZDB2eURYSU5RUzhNYkRma2xwN1pKRWVKby1BWGpRU1BCOS1hTUtNNF93bU1fblVXLURyeUpRdGVDSENmOWxjVS1LRkNIQ2dZbzA4MjBMcWlLbUltaHBKRG5PUGJhakh5NTdBdlhCbThYblpTODhteGZTaEJtZHFTWU9Ib3lsaFh1NDJQZ0Z2VTZoa3l6UnBzd3BzUTZMVmhVc1JtcDcwN2otLXJKY2U5eGJJeWc1RDNxV2s0QktqLWJhdlhCa3l3VkttblFVT2dkOE1YeHVQRG9ZdXlEX0ZzNDNzcVhpYzAtVFNQaHJydFRIT3hJ0gHaAkFVX3lxTE91UVY4em9oeVpvVWc1WWI4RW1DSENSVUpNUnRHQjNkQTBXMzItRzNoSlZPUFFCam1sb25NcHViNEd2MGJDTWF6V3dYeW8wUHhURjNROXZ0aG9tc0QtRVRjMUczeUNYZ2V5dlhWNWhXVUtnamdvR2M2SnZSekxmalVzQV9maGVmV0xGQUZfUlJfd3VCQTlsT1RNRHpUT3JoYkhEbkZfcThGWWQ1d1Z4b1hQRUdGT0FDZnUxNmxadUdoZjljYzloRXR1Q3Z3Wm04Vk0tZmVXUUdQSzl1bmV0WkNuVHhUd3BZU2dybngtLUVpSTM3NERVX1hlQURGZzZNUExfTWRLUUk1X3FERlpfOVpGSzR0M3FFcm96X2laa2ZaNjdYTXFZMzc5cjlJd0E0bWlrQXdTRFI4eXk0TG0wVlhRQWxYc3ZtR1doNUlTSnVUbFlwd0dCNlV0RHc?oc=5"
+    },
+    {
+      "date": "2024-06-02T00:42:01.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Sudheer Gupta , BJP candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDlBbkJuX0oxT3lSeUxMaW54bXB0OVB2bnNnajZkdGhRWmZKb2FhbHlUY3lpZWJ5dlRPZEpvRDVaOURRbnRmcURSb3M0LXFsVnNyMm1TLUZQblJKRG82dkp2X1ZONV9JU091QmQ2LVlzVlV2TVQ0YkxIR0NEVmx1QVlnLUU?oc=5"
+    },
+    {
+      "date": "2024-05-12T19:33:06.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Sudheer Gupta, Bjp Party, Mandsour, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbGRkN25zX3lINEM3VXptN0pieTM5emFOY3JITk1GYk0zQ18tWVBPYmEyUk5paTJpSHNSZk9zQ0t0aE9hcUs1bkppbzNDbUhzcVhvTlRwazQ0QWl4V0c1cEY5STR3Rzh1bUUzNEJ5bmpReHl2bF96STFDX2pMTW8xcWpWR2pSSVUyX0tWNmFXQ005dzJrSlA2MXFVQnJEeTZQQ3dqUWFDTDFRTEE3RnFFZG5Nd2NrekYybUNfdURiWVFRaTVHbUExOWFuOW5PTzd6QXd2cno4a1lmMVh2aDRvajFn?oc=5"
+    },
+    {
+      "date": "2019-05-23T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "Firstpost",
+      "title": "Mandsaur Lok Sabha Election Result 2019 LIVE updates: Sudheer Gupta of BJP wins against Congress' Meenakshi Natarajan",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcjRMXzdvM2hwcGlEVVl6alhHSUlTVE9aSDZGbTZfVFhQOWdwWE5pNDRsbm9DUnB6enRERmxmMjdLUHlNbUdPQU5pWjJueXJ3VGdDaU9VSWJocUp0RmtUQ2YteWpUNzBlaTdHckZiUThNVlpmMTlVMnFPUTBrVU80QTFXSUF4TUttc3ZFdmRuZlcxWFYySmVtWWlwNXZnTUxuZ2o5MVFCbS1sWlNnVzF6dXliOXNpdlJCWUxtOXFHbmd3bWI5SHF1N0RSOFdKVjg3b0VOaUMxcnoxWkJlRlVtMy10NmF2RGtBbG5fNlRtVklYc3JTZGfSAfsBQVVfeXFMUHZIN05IZ2FWcW9kbDM0WHRicmFEN1pKMjBYU2x0Q3FlWUtZWl9wYVptb0pTQzdvb0FoU3JzUW1sMHRnQzdSdms2VEYyZHlUY1YxLXVTV2JHc1FMbzAwaUdxYjdXeTZENmQyaklSdHRVWnZmTldVTEw4U1BodUZxSHZ0dzNvdnZIRURibGM5dFhWbXVoeUI4X0syN3lvV242Vi1RUS1oampLMEJTYjJXaFN4dmhFQjAwYVhtZWk0MjFKS0RIcXM4cFM3VGk1c0gweExnVV9GZ0hrWlZaeGE0RnRhYmN2cUxaMnJzVzBWZVRqcERDTkE2X2xydXM?oc=5"
+    },
+    {
+      "date": "2018-09-24T13:37:34.000Z",
+      "flagged": false,
+      "publisher": "Oneindia",
+      "title": "Sudheer Gupta: Age, Biography, Education, Wife, Caste, Net Worth & More",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pM201TXhiUEJhUVFNeDZQV2loQk5HVGF2VDU5TUlxLXVfMWM2cXVqRnlIeHR5VnJ0RldINDFvN0JrZW9aU1hnQzZCakFnY2x0dlNieTZhTFFyTWUxSFd5b0dYYXZKbmZwNVoydA?oc=5"
+    }
+  ],
+  "non_serious_cases": 1,
+  "nota_gt_margin": false,
+  "nota_votes": 11662,
+  "notable_record": null,
+  "num_candidates": 8,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "madhya-pradesh-23",
+  "pc_name": "MANDSOUR",
+  "pending_cases": 1,
+  "phone": "Tel : (011) 23384966, 09013869242 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180241.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Social Worker",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 92,
+      "value": 93
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Demand for Conversion of Rosera Railway Station into a Junction to Improve Rail Connectivity in North Bihar",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.02.2026",
+        "title": "Demand for Establishment of a Potato Development Board to Ensure Remunerative Prices for Potato Farmers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2026",
+        "title": "General Discussion on the Union Budget for 2026-2027",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to exempt teachers recruited before 2009 from TET rules",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to run Vande Bharat train from Mathura",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to notify master plan in Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Appeal to take forward the Horti-tourism initiative in Uttarakhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the misuse of Ayushman Card by private hospitals",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Demand for more trains from Chittorgarh to Mumbai and Chennai",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding the issue of misappropriation of funds of PMFBY by insurance companies",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for a CBI Inquiry into the Brutal Assault of an Army Officer and His Son by Punjab Police",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request for Timely Land Acquisition and Completion of the Economic Zone Project for the Carpet Industry in Bhadohi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "28.03.2025",
+        "title": "Request to Extend Train Services Beyond Dahanu and Improve Passenger Facilities at Gholvad Railway Station",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Establishing Agricultural Research and Processing Centers in Mandsaur Parliamentary Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Special Cancer Awareness and Prevention Drive in Assam",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Need for Conservation and Development of the Narmada River",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Educational and Skill Development Centers for SC, ST, and OBC Communities in Rural Areas",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Approval of New Railway Doubling and Vande Bharat Train for Chittorgarh Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Expedited Completion of Indo-Nepal Road Construction",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Request for Establishment of a Navodaya Vidyalaya in Beawar Region",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt give water to refinery of balotra from pali, jodhpur and balotra after tertiary treatment by applying RO so that it can be use this water",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt an investigation should be done for those who receive money from U.S. Ad.",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt include baba koteshwar dham a religious place in balaghat under the adopt a heritage scheme",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt to please provide the facility of first class pass in vande bharat train to the freedom fighters",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Urge upon to minister to take immediate action within a time frame to provide ownership rights to landless people and farmer of Delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt made a special plan to connect every village with solar energy and provide special assistance to farmers for solar panels",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to minister to give contract for the construction of NH-8 road of tripura on the bid of merit basis and form a committee of NHIDCL to look after it",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Issue related to the regular flood situation in uttarakhand",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Request to govt take necessary steps to stop the construction of the dam making by china so that the entire north-east india including assam can be saved from future crises",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.02.2025",
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Raised the issue of air pollution in Delhi NCR",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Remembered the contribution of Babu Jagjivan Ram",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.12.2024",
+        "title": "Inquiries into alleged links between Congress party and external funding sources",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Regarding the issue of bengali hindu struggle for Justice and survival",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Request to govt set up an AIIMS screening centre in north-east district of delhi",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2024",
+        "title": "Urge that the law governing interstate trade should remain intact, and if production is low, the prices should be regulated uniformly across the country",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to minister to include sickle cell anemia in ayushman card scheme and pension involved should be increase to 2500",
+        "type": "Special Mention"
+      },
+      {
+        "date": "07.08.2024",
+        "title": "Request to govt construct a third line from barang to kapilas road so that most of the superfast trains can travel through cuttack",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2024",
+        "title": "Discussion on the Demand for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "01.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 17.2,
+      "value": 41
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 114,
+      "value": 231
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/sudhir-gupta"
+  },
+  "qualification": "Post Graduate",
+  "questions": 70,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 2,
+    "Atomic Energy": 1,
+    "Ayush": 3,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 2,
+    "Commerce And Industry": 3,
+    "Communication": 2,
+    "Consumer Affairs, Food And Public Distribution": 1,
+    "Corporate Affairs": 1,
+    "Defence": 2,
+    "Earth Sciences": 3,
+    "Education": 4,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 3,
+    "External Affairs": 4,
+    "Finance": 2,
+    "Health And Family Welfare": 3,
+    "Heavy Industries": 1,
+    "Home Affairs": 1,
+    "Housing And Urban Affairs": 3,
+    "Information And Broadcasting": 2,
+    "Jal Shakti": 2,
+    "Labour And Employment": 5,
+    "Micro, Small And Medium Enterprises": 1,
+    "Power": 1,
+    "Prime Minister": 2,
+    "Railways": 4,
+    "Road Transport And Highways": 3,
+    "Skill Development And Entrepreneurship": 1,
+    "Social Justice And Empowerment": 1,
+    "Textiles": 1,
+    "Tourism": 1,
+    "Tribal Affairs": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DILIP SINGH GURJAR",
+  "runner_up_party": "INC",
+  "score_breakdown": {
+    "base": 61,
+    "criminal_deduction": 1,
+    "legislative": 80,
+    "mplads": 31,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "extreme",
+  "total_assets": 192884642,
+  "total_liabilities": 58453495,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 65.98
+}

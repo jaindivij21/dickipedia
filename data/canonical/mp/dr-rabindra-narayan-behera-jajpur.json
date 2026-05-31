@@ -1,0 +1,467 @@
+{
+  "accountability_score": 15,
+  "age": 63,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": 1000000
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": 600000
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": 1000000
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 31000000
+      },
+      {
+        "category": "Others",
+        "value": null
+      }
+    ],
+    "immovable_total": 33600000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 150000
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 1982565
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 2881253
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": 2520916
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": null
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 2015103
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 2575000
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": null
+      }
+    ],
+    "movable_total": 12124837
+  },
+  "assets_earliest_year": 2024,
+  "assets_history": [
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9604",
+      "total_assets": 45567092,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": null,
+  "assets_latest": 45567092,
+  "attendance_pct": 85,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Rabindra Narayan Behera is an Indian politician from Bhubaneswar, Odisha. He was elected as a Member of Parliament from Jajpur Lok Sabha constituency. He belongs to Bharatiya Janata Party.",
+    "title": "Rabindra Narayan Behera",
+    "url": "https://en.wikipedia.org/wiki/Rabindra_Narayan_Behera"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "96/2452 Amrapalli, Sailashree Vihar, Phase-7 Bhubaneswar Odisha, 751021",
+    "emails": [
+      "rnbehera@nic.in",
+      "rnbehera@mpls.sansad.in"
+    ],
+    "phones": [
+      "9437164100",
+      "7008307693"
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/share/1Akndyk8a5/?mibextid=wwXIfr"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://x.com/i/flow/login?redirect_after_login=%2Fdrrnbehera2016"
+      }
+    ]
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 3,
+  "dob": "12/03/1963",
+  "eci_state": "Odisha",
+  "email": "rnbehera[at]nic[dot]in,rnbehera[at]mpls[dot]sansad[dot]in",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 1137076,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 1316230,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 970550,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 1302156,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 2969602,
+        "person": "self"
+      },
+      {
+        "fy": "2022-2023",
+        "income": 736600,
+        "person": "spouse"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 528200,
+        "person": "spouse"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 597640,
+        "person": "spouse"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 600710,
+        "person": "spouse"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 782423,
+        "person": "spouse"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Service"
+      },
+      {
+        "person": "Spouse",
+        "source": "Service"
+      }
+    ]
+  },
+  "inference_count": 2,
+  "inferences": [
+    {
+      "detail": "Only 4% of MPLADS local-area funds were spent — ₹14.11 Cr unspent.",
+      "headline": "96% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 141100012,
+        "utilisation_pct": 4
+      },
+      "severity": "flag",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "NOTA drew 6,788 votes; the seat was won by 1,587.",
+      "headline": "More voters chose NOTA than the victory margin",
+      "key": "nota_over_margin",
+      "numbers": {
+        "margin": 1587,
+        "nota": 6788
+      },
+      "severity": "notable",
+      "sources": [
+        "eci"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": null
+      }
+    ],
+    "total": null
+  },
+  "margin_votes": 1587,
+  "minister": false,
+  "mp_name": "Dr. Rabindra Narayan Behera",
+  "mplads_allocated": 147064617,
+  "mplads_expenditure": 5964605,
+  "mplads_unspent": 141100012,
+  "mplads_utilisation_pct": 4.1,
+  "mplads_works_completed": 0,
+  "mplads_works_recommended": 140,
+  "mpsno": 5595,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2026-03-12T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "prameyanews.com",
+      "title": "Jajpur MP Rabindra Narayan Behera receives Dadasaheb Phalke Golden Award",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlJjRVlkTmI4YV9lbmotOXk5RWY4Y2c4d254V3E2b0doaF9tN0NGU2ZBdWR4aWgxSm4zRGhGdzZXTUI4b3J0Y0VvSkpRYUFSXzUzem5FdERJNHpzcWtMNldQaXNzcW1VRS1JQmFNS1p2N24tdHI3ajliWS11SzdZODFFRkZnRkpRRnJlbkJyTTlMZEJOcVYyTmpoUUhkN3VRbHc?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "TimelineDaily",
+      "title": "BJP's Rabindra Narayan Behera Wins From Odisha's Jajpur",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3Q5bEZxNjcxRUY1czduSTVEM0VjSnMyMDhqQmI0WW9pZVRGNzhMcTRydmJzd3I4T3J0OGd4a3JMd1Y3ckxHNGpqTXh3QkE3b2lSVDY2MUE2TGJqX1BYLTdsSkt0LV91YklDdWE0VUctamp1TmxoTlRiVktkRVZZcDdoY0hLdHRTRjMtMzk2aDEwakUzQnpWVFlwa0pXcVdncDR2dnFn?oc=5"
+    },
+    {
+      "date": "2024-05-31T15:47:08.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Rabindra Narayan Behera",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0MzUktNWFgzVkt6VERkSm5yenZJWEN1ZUhSWkZfTkp6eFpTdktNTVdDZVB0b3RjS1BKQ0l6MmR6LVN6MUhJSS1TU2R0OXRuYnVvVUJBd3YzYWwyYjlBSnMzM0Q5NmRXZHEtTGJkaFJxMllIekYzOFhvd1dUUENPZ0dTN0VYVHQ1Vm5aRnJqYmVvYkZjaU5OQkFsMW9DWUZOVGx5ZkM0X3pHT1pXVi11ZWx4M3A2aElhZURLVXFoQQ?oc=5"
+    },
+    {
+      "date": "2024-05-25T02:11:15.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Rabindra Narayan Behera, Bjp Party, Jajpur, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUWpjRXFKa3F0YUpjZ2dPRk5lUU9RNV9YS0hHaWp5WmVUbUFHN01UcW5DT2szbkZBSjIyQURFcURNVHlzclhjeDRwR3NLTDFFQ09aWl9ySmd6X1lHQU9uMTl1dG5WWDhhS3R3ckR3SWhXYUoxenctRVFOZEY3LXV6ekExSW1tck9waGdnZUdKWVJ4czN1Q3dfX2syb3VNTUIzVzNVd3FXY1c5ZXV0dHEwQ20zVmVCVHRBU0pmejgzR2kySGhSYzNYVUI5QW94UjlVUHIzd2s3YjJIYy1lZ0lmTzJR?oc=5"
+    },
+    {
+      "date": "2024-03-31T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Economic Times",
+      "title": "'Thankful for giving me chance to fight from Jajpur': Rabindra Narayan Behera",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHVoNTNHbThTMll2SjJ5Vkt4cVNqNHZCUWxDYkRuU0lkTXVob0EzOG10SUw1bVZMc0Q5V3gyV1U2Xzc4TmRBUi1ROEFWczYzODJNcDZMV2RTWER5MzVHbXoyMnlHRUJzM1dNVWcxWlZjRjhieThqUGR0dUlGU3FqMEdkY2RXanBDdWQyOFJCQnNDREwxYndkcmpOOFpRaDdKaGpRb1lhMjM2Z1RoVUZqU0hFcVE2ZmczNVJ6LVJ5TkRUMlJoTXlVZTRTSkZJZHg3anRwTjRocVdGTy1aS2xQckRvVjFyMVRpZVdmMzJEenNYTmtCVEUzZDQwcDhVd9IBgwJBVV95cUxPa0RCSzhEWjNVZXhiNkdvSzZnbEo5M3d1THItd2cxRkRreWNJQkoyZm52QU16Y1ZGV2pTRm5OWWtjbmF0Skt3b3hwVjNuamxYVXRoWVNvSEtfQWRqWWdXOWZjdWRZVTI5aENDaWNTVHNPeGZjUlV5aXZNb2NYRTU1c19RLXFCTkZzV3N3OVVpLVdBbVVwdHk2b29UQ2U5MVp2bnVMYUp6c0RLRGtqNGZFT3VsOUh1Vm9vZGJXWUd3dEpEZkI5dE5FOVAwdEx0X0R5cEltNmJUYjZIcUdCMElpelNrMmxCRndUYkZfejZjTDdzRlZmdDhsRWZRazdNTnlLZFpZ?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": true,
+  "nota_votes": 6788,
+  "notable_record": null,
+  "num_candidates": 13,
+  "party": "BJP",
+  "party_bond_total": 60605111000,
+  "party_full": "Bharatiya Janata Party",
+  "pc_id": "odisha-8",
+  "pc_name": "Jajpur",
+  "pending_cases": 0,
+  "phone": "",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180313.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Other",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 88,
+      "value": 89
+    },
+    "debate_titles": [
+      {
+        "date": "17.03.2026",
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Demands for Grants"
+      },
+      {
+        "date": "06.02.2026",
+        "title": "Regarding need for comprehensive and integrated planning to develop Kalinga Nagar, Vyasanagar, Jajpur Road and Panikoili together as a planned city in Jajpur district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "17.12.2025",
+        "title": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.12.2025",
+        "title": "Raised the issue of tussar weavers of Jajpur",
+        "type": "Special Mention"
+      },
+      {
+        "date": "05.12.2025",
+        "title": "Request for Notification of Indian Engineering and Medical Services as All-India Services",
+        "type": "Special Mention"
+      },
+      {
+        "date": "03.12.2025",
+        "title": "Regarding the issue of AI for improving governance in Odisha",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding need for revival of canals and sub-canals in Jajpur district, Odisha for irrigation and navigation purpose",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "27.03.2025",
+        "title": "The Immigration and Foreigners Bill, 2025",
+        "type": "Government Bills"
+      },
+      {
+        "date": "12.03.2025",
+        "title": "Request for Sanction and Timeline of Rail Connection from Jajpur Keonjhar Road to Dhamra",
+        "type": "Special Mention"
+      },
+      {
+        "date": "16.12.2024",
+        "title": "Regarding need to set up a Research Institute of Indian Ocean Cultural Studies in Jajpur district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "09.08.2024",
+        "title": "Request to minister to revive the past glory of kalinga",
+        "type": "Special Mention"
+      },
+      {
+        "date": "02.07.2024",
+        "title": "Motion of Thanks on the President's Address",
+        "type": "Motion of Thanks on the President's Address"
+      }
+    ],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 23.9,
+      "value": 12
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.3,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 119,
+      "value": 19
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/rabindra-narayan-behera"
+  },
+  "qualification": "Doctorate",
+  "questions": 3,
+  "questions_by_ministry": {
+    "Culture": 1,
+    "Railways": 1,
+    "Road Transport And Highways": 1
+  },
+  "reservation": "SC",
+  "runner_up_name": "SARMISTHA SETHI",
+  "runner_up_party": "BIJU JANATA DAL",
+  "score_breakdown": {
+    "base": 20,
+    "criminal_deduction": 0,
+    "legislative": 29,
+    "mplads": 5,
+    "nota_deduction": 5,
+    "press_deduction": 0,
+    "seniority_bonus": 0,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 1,
+  "top_inference_severity": "flag",
+  "total_assets": 45567092,
+  "total_liabilities": 0,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 46.01
+}

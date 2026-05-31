@@ -1,0 +1,436 @@
+{
+  "accountability_score": 58,
+  "age": 44,
+  "assets_2019": null,
+  "assets_2024": null,
+  "assets_breakdown": {
+    "immovable": [
+      {
+        "category": "Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Non Agricultural Land",
+        "value": null
+      },
+      {
+        "category": "Commercial Buildings",
+        "value": null
+      },
+      {
+        "category": "Residential Buildings",
+        "value": 197272000
+      },
+      {
+        "category": "Others",
+        "value": 1840000
+      }
+    ],
+    "immovable_total": 199112000,
+    "movable": [
+      {
+        "category": "Cash",
+        "value": 26758
+      },
+      {
+        "category": "Deposits in Banks, Financial Institutions and Non-Banking Financial Companies",
+        "value": 102066371
+      },
+      {
+        "category": "Bonds, Debentures and Shares in companies",
+        "value": 21501765
+      },
+      {
+        "category": "NSS, Postal Savings etc",
+        "value": null
+      },
+      {
+        "category": "SBI Life Insurance 5,00,000 5 Lacs+ LIC Policy No 494660840 1,00,00,000 1 Crore+",
+        "value": 12200000
+      },
+      {
+        "category": "Personal loans/advance given",
+        "value": 11969500
+      },
+      {
+        "category": "Motor Vehicles (details of make, etc.)",
+        "value": 11240000
+      },
+      {
+        "category": "Jewellery (give details weight value)",
+        "value": 4918582
+      },
+      {
+        "category": "Other assets, such as values of claims / interests",
+        "value": 8312093
+      }
+    ],
+    "movable_total": 172235069
+  },
+  "assets_earliest_year": 2014,
+  "assets_history": [
+    {
+      "label": "Loksabha 2014",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=AficceN2xNFjUfmKCEKo",
+      "total_assets": 152447159,
+      "year": 2014
+    },
+    {
+      "label": "Lok Sabha 2019",
+      "source_url": "https://myneta.info/compare_profile.php?group_id=AficceN2xNFjUfmKCEKo",
+      "total_assets": 317320579,
+      "year": 2019
+    },
+    {
+      "label": "Lok Sabha 2024",
+      "source_url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=7933",
+      "total_assets": 371347069,
+      "year": 2024
+    }
+  ],
+  "assets_history_pct": 144,
+  "assets_latest": 371347069,
+  "attendance_pct": 0,
+  "bio": {
+    "license": "CC BY-SA 4.0",
+    "text": "Sisir Kumar Adhikari is an Indian politician who represented Kanthi Lok Sabha constituency from 2009 till 2024. He is a former Union Minister of State for Rural Development in the Manmohan Singh government. He is the father of Suvendu Adhikari, the 9th Chief Minister of West Bengal.",
+    "title": "Sisir Adhikari",
+    "url": "https://en.wikipedia.org/wiki/Sisir_Adhikari"
+  },
+  "charges_framed_count": 0,
+  "committees": null,
+  "contact": {
+    "address": "4201/4301, Tower-3, Bengal NRI Complex Ltd \"URBANA\" 783 Anandapur Kolkata West Bengal, 700107",
+    "emails": [
+      "adhikari.deepak@mpls.sansad.in",
+      "medevadhikari@gmail.com"
+    ],
+    "phones": [
+      "9013869520",
+      "9163055555"
+    ],
+    "socials": []
+  },
+  "contracts": [],
+  "convicted_cases": 0,
+  "criminal_cases": 0,
+  "criminal_detail": {
+    "convicted": [],
+    "count": 0,
+    "ipc_summary": [],
+    "pending": []
+  },
+  "debates": 0,
+  "dob": "25/12/1982",
+  "eci_state": "West Bengal",
+  "email": "adhikari[dot]deepak[at]mpls[dot]sansad[dot]in,medevadhikari[at]gmail[dot]com",
+  "gender": "MALE",
+  "income": {
+    "itr": [
+      {
+        "fy": "2022-2023",
+        "income": 49915770,
+        "person": "self"
+      },
+      {
+        "fy": "2021-2022",
+        "income": 26835930,
+        "person": "self"
+      },
+      {
+        "fy": "2020-2021",
+        "income": 28482130,
+        "person": "self"
+      },
+      {
+        "fy": "2019-2020",
+        "income": 19936700,
+        "person": "self"
+      },
+      {
+        "fy": "2018-2019",
+        "income": 13508140,
+        "person": "self"
+      }
+    ],
+    "sources": [
+      {
+        "person": "Self",
+        "source": "Professional Fees, Salary as Member of Parliament, Interest Income, Rental Income"
+      },
+      {
+        "person": "Spouse",
+        "source": "NA"
+      },
+      {
+        "person": "Dependent",
+        "source": "NA"
+      }
+    ]
+  },
+  "inference_count": 4,
+  "inferences": [
+    {
+      "detail": "Attended 0% of sittings, against a house average that runs far higher.",
+      "headline": "Attendance in the bottom 1% of all MPs",
+      "key": "attendance_bottom_decile",
+      "numbers": {
+        "attendance": 0,
+        "percentile": 0
+      },
+      "severity": "flag",
+      "sources": [
+        "prs"
+      ]
+    },
+    {
+      "detail": "From ₹15.24 Cr (2014) to ₹37.13 Cr (2024).",
+      "headline": "Declared assets grew 144% across 3 affidavits",
+      "key": "asset_growth",
+      "numbers": {
+        "from": 152447159,
+        "from_year": 2014,
+        "pct": 144,
+        "to": 371347069,
+        "to_year": 2024
+      },
+      "severity": "notable",
+      "sources": [
+        "myneta"
+      ]
+    },
+    {
+      "detail": "Only 44% of MPLADS local-area funds were spent — ₹11.30 Cr unspent.",
+      "headline": "56% of development funds lie unspent",
+      "key": "mplads_underspent",
+      "numbers": {
+        "unspent": 112958649,
+        "utilisation_pct": 44
+      },
+      "severity": "notable",
+      "sources": [
+        "mplads"
+      ]
+    },
+    {
+      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
+      "headline": "Left no recorded intervention on the floor of the House",
+      "key": "floor_silent",
+      "numbers": {
+        "interventions": 0,
+        "questions": 31
+      },
+      "severity": "notable",
+      "sources": [
+        "prs"
+      ]
+    }
+  ],
+  "liabilities_detail": {
+    "lines": [
+      {
+        "category": "Loans from Banks / FIs",
+        "value": 2931407
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Professional Advance 2,56,72,500 2 Crore+",
+        "value": 25672500
+      },
+      {
+        "category": "Dues to departments dealing with government accommodation",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Nil",
+        "value": null
+      },
+      {
+        "category": "Whether any other liabilities are in dispute, if so, mention the amount involved",
+        "value": 969215
+      }
+    ],
+    "total": 29573122
+  },
+  "margin_votes": 182868,
+  "minister": false,
+  "mp_name": "Shri Adhikari Deepak Dev",
+  "mplads_allocated": 200747364,
+  "mplads_expenditure": 87788715,
+  "mplads_unspent": 112958649,
+  "mplads_utilisation_pct": 43.7,
+  "mplads_works_completed": 145,
+  "mplads_works_recommended": 186,
+  "mpsno": 4847,
+  "myneta_serious": false,
+  "news": [
+    {
+      "date": "2024-09-29T21:53:34.000Z",
+      "flagged": false,
+      "publisher": "The Hindu",
+      "title": "Adhikari Deepak (Dev) , AITC candidate bio : Assets , Total Income , Liabilities , Criminal Cases and other details.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXpKWUVHeVBQQ2F4M3JLTWpWZFZMY3BUMk5XQk56d3EzZE9TaDY1dUx1NnVadlNfbUI1RldEajBKVG4yNmxYLW82MWduN2hjYndpYUZiRnpnSEo2d1hpM25POGNJZkxDYUNzZUN3U2lTQXR3X0NnYWtMd2RSOUt6b3ZhTnRMTmIwaHJsbQ?oc=5"
+    },
+    {
+      "date": "2024-06-05T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Times of India",
+      "title": "Ghatal election results 2024 live updates: AITC's Adhikari Deepak (Dev) wins",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNnEwTlhzM1daWE9acEl5ZEFycEdfdzFEdlJyV3JrWEdRTDhBOHE2QVRBZHE1UkgyVGlhdVNlRU1lUFYzakVJODc1SnpxQkdhWTQweEk3T1h6bVhnNEdqdGFVQi1Yc0JZNHM3czZMT1BBa2x0MEZDdmplMEZ4Z1Fpdm9DaW96Q3lKb0o4Njg1VnVGYU9uRGI4NElIb04zcnB5WXp6QlI1TlNjcE1UY1d3VWd5T29VdklQS0puMzR5aHhDcWNxSEFRdUcxNUVtb3JIb3dwX2k1OHByUjhVMmJXSVNmOTZHRWR1Mjk0d0NucGZRcThGM0Njc0hFSEdYSEFldExJTXg2UzBfd3MxLVI0U3ZSSlJOY0M5eG80RWpkZzk5dnlhU2lVUTM5NkpJYWVGZ0U5dtIBugJBVV95cUxQNEl2dGZuZnRqRlhrdXRianA3RkZNTG5acnZTVUpSSUh3aGVRcGUtbWQwSFBheHVQRFZlWG55MGx1QjVsTS1fbzRpSkp4bEdxLXJYTFFRRXhBQ3JTRld1NmlQOHY0UnZpWTZHa0FSNzdsTm8xR1JfTXQtR1Y3MFRJTlN6RWV4T1NWWklHbWpjd3YxbzA5WUc3R1dZQW5Za09JbzZGQVVFbmsyRVVaU2JOay1XU05zTHVnUktxbUM0YnA3N1NWeE1pNmljUm9jRGdQZEtaZE4wajJTcExFVWtlaFBoTngtaVk1Qnh5aWdRaWdoQ3dCZVZQUW1mRzVYb2JBaXhRSUJwNHZGMzBQRnpUYXpFTkc5VTZQNHFyRWpwM21NYUVGMjZXV2h3YVE5NTVlaXJVN2VjNndudw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "The Quint",
+      "title": "Ghatal Election Result 2024 Live Updates: TMCs' Adhikari Deepak Has Won This Lok Sabha Seat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWU5HUG0yR1pPaXJJcU1EZnZvZlhiNzV2NnZNWjVjcHl6MEs0UTNnZ0FBUEx1NEFfOUhsVnpJM3QwZndfOGRJVEppUUhtdHpZcWZzaDVlTWZoLWN6cWlhUVh1bDRjOW1JLW9NQnhZYUxSY012X1B4WkxtTF8zRklKX1JVNnEtRHp6Z0hjdFh2Wm1GYjdFRkVBTDkySWFKUDhSemEwd3JTNXpUZ282b2wyUUQ3Unc0T2ZWNFR6anByRXhRWGEzZWfSAdMBQVVfeXFMUE02SGptVEJRb0ljQ05fVlF0N3ItUlltRTBMbnN4ZlVlMl9sbmhxMjhreDkxOFRXRXk4YUUzTEl6ZE55TnVaTHprdno2Nnh5YnBGR2tRbjVUTmJGanY4N1dhZy1DOTlsY0tpMU9iYnRpdHNVNW0wX21lSWNyRXFROHVKYlRpVWtaMnpXQkktc3dQTXV6M0V2UU8zNEtlZ2RtOUgxUzhyLTRXWWNmS1pETnc1Ym5aNHEzenNXc0RYT2I3c0FlMnE3bGFnZ2hZekpOcFdXbw?oc=5"
+    },
+    {
+      "date": "2024-06-04T07:00:00.000Z",
+      "flagged": false,
+      "publisher": "News18",
+      "title": "Ghatal Election Result 2024 LIVE Updates Highlights: Adhikari Deepak (Dev) of TMC Wins",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaXNXNmtmam1kdnlCZnFjS3lxUDRZLVRIZVdvb21SRkE3OHFIOW9Hb2E2Z3JNeXJqcDVSOEEtVkw1dlpmQlN0NG5jYk9nb3ZnMlZrWWktQTdPXzc1cWNUSkFYZ1U1Q3pjV3hQVnFpLV94M2pOU1ByTEUwLXdYcW9mM1dVSjFDSUU2OHJvMjFraDQtaWttR3B1clgzTU80WUdZOXR1b00zclZXdVk5dUV4c2NJazJSQWUzUDVnSFRlU2hYWl94Qm9kOWNBR29CRWdDUUV6bmh3Vk00eTRNVHdfRdIB5gFBVV95cUxPdF8wbUY5RUstZEdsUUhFLTVYa0RMWWhPVmg2RGRxQ3htbUhFaTRPdkMzWjZIRXMtNUk1aEZ0WC1uOXlrb2VIQmZDYWdobnZ2RFZNRGlDRUs2azhoY1JvcGwwQnUwWFFLZFBWb29GcFJRR2FyQXRDR2ljQVNWY1NvUS03UVNhMW12aTdPSVdtQUNVaVlzM2JnME5wLXVaYlU2eVA4aWdHS2ttZEZ4Z2NyTVVncjNzVklmWVV6QW9hN0ROeVlPMUtHTUlUTkRpQUxyNUFJQVFkbVZUQTZOR21lZWducTQwQQ?oc=5"
+    },
+    {
+      "date": "2024-05-24T23:56:44.000Z",
+      "flagged": false,
+      "publisher": "India TV News",
+      "title": "Political Profile of Adhikari Deepak (dev), Aitc Party, Ghatal, and Net Worth",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNWItbnZMVE90N2NrVlZfTTRDNnBOU0h5SXJ2Z1FYMzFxUnpkMUk5Ukg2WkxjdFF3cTZWQzVQY1JrSHBqUDJaNmh2WjYzUzh6dGxoOXIyMElHN0pkUW0tV3IzUnVlUWFXYl9tLWJ0T3VtTi1Cc0lyeUxtbS1ieXVUdmJMZHdtb1dXVDBjSXpLZFdseEdZdHRQQ0lEa19NcVN2QzdFZkJFQVVEUEdtdlVRaURsdXZHS2xzaU82aW9SMk0xbFFuVTRYUTZUOXgtWFNIaGNLUC1ocTNVUlhZZEpJXzlJcw?oc=5"
+    }
+  ],
+  "non_serious_cases": 0,
+  "nota_gt_margin": false,
+  "nota_votes": 12966,
+  "notable_record": null,
+  "num_candidates": 7,
+  "party": "AITC",
+  "party_bond_total": 16095314000,
+  "party_full": "All India Trinamool Congress",
+  "pc_id": "west-bengal-32",
+  "pc_name": "Ghatal",
+  "pending_cases": 0,
+  "phone": "Tel: 09013869520 (M)",
+  "photo_hotlink": "https://prsindia.org/files/mptrack/18-lok-sabha/profile_image/180510.jpg",
+  "photo_source": "prs",
+  "pmbs": 0,
+  "press_accountability": null,
+  "profession": "Film Artist",
+  "profile_url": "",
+  "prs_detail": {
+    "attendance": {
+      "national_avg": 85,
+      "sessions": [],
+      "state_avg": 67,
+      "value": 8
+    },
+    "debate_titles": [],
+    "debates": {
+      "national_avg": 20.4,
+      "state_avg": 11.9,
+      "value": 0
+    },
+    "pmbs": {
+      "national_avg": 0.4,
+      "state_avg": 0.1,
+      "value": 0
+    },
+    "questions": {
+      "national_avg": 103,
+      "state_avg": 59,
+      "value": 91
+    },
+    "url": "https://prsindia.org/mptrack/18th-lok-sabha/deepak-dev-adhikari"
+  },
+  "qualification": "Diploma Course",
+  "questions": 31,
+  "questions_by_ministry": {
+    "Agriculture And Farmers Welfare": 1,
+    "Chemicals And Fertilizers": 2,
+    "Civil Aviation": 1,
+    "Coal": 1,
+    "Commerce And Industry": 1,
+    "Consumer Affairs, Food And Public Distribution": 2,
+    "Electronics And Information Technology": 1,
+    "Environment, Forest And Climate Change": 1,
+    "External Affairs": 1,
+    "Finance": 4,
+    "Fisheries, Animal Husbandry And Dairying": 1,
+    "Home Affairs": 1,
+    "Jal Shakti": 2,
+    "Labour And Employment": 1,
+    "Micro, Small And Medium Enterprises": 1,
+    "Mines": 1,
+    "Power": 1,
+    "Prime Minister": 1,
+    "Railways": 3,
+    "Road Transport And Highways": 2,
+    "Rural Development": 1,
+    "Youth Affairs And Sports": 1
+  },
+  "reservation": "GEN",
+  "runner_up_name": "DR. HIRANMOY CHATTOPADHYAYA",
+  "runner_up_party": "BJP",
+  "score_breakdown": {
+    "base": 54,
+    "criminal_deduction": 0,
+    "legislative": 32,
+    "mplads": 87,
+    "nota_deduction": 0,
+    "press_deduction": 0,
+    "seniority_bonus": 4,
+    "track": "parliamentary",
+    "wealth_deduction": 0
+  },
+  "serious_cases": 0,
+  "terms": 3,
+  "top_inference_severity": "flag",
+  "total_assets": 371347069,
+  "total_liabilities": 28603907,
+  "wealth_pct_increase": null,
+  "winner_vote_share": 52.36
+}
