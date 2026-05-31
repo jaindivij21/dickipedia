@@ -1,8 +1,7 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
-import type { Provenance } from './lib/types.ts';
+import type { Provenance } from '../../lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const CURRENT_YEAR = 2024;
 const CANDIDATE_2024 = (id: number): string =>
   `https://myneta.info/LokSabha2024/candidate.php?candidate_id=${id}`;
@@ -56,7 +55,7 @@ function preferred(a: AssetYear, b: AssetYear): AssetYear {
   return (b.total_assets ?? -1) > (a.total_assets ?? -1) ? b : a;
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const crosswalk = await load<CrosswalkRow[]>('crosswalk.json', CANON);
   const myneta2024 = await load<Myneta2024Row[]>('myneta_2024.json', RAW);
   const deep = await load<MynetaDeepRow[]>('myneta_deep.json', RAW);
@@ -107,7 +106,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/raw/myneta_history.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

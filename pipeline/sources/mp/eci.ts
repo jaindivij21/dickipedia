@@ -1,23 +1,24 @@
 import { mkdir, writeFile } from 'node:fs/promises';
-import { fetchText } from './lib/http.ts';
-import { parseCSVObjects } from './lib/csv.ts';
-import { normConstituency, normName, normParty } from './lib/text.ts';
-import { reservationFor } from './lib/reservation.ts';
-import type { EciSpineRow } from './lib/types.ts';
+import { fetchText } from '../../lib/http.ts';
+import { parseCSVObjects } from '../../lib/csv.ts';
+import { normConstituency, normName, normParty } from '../../lib/text.ts';
+import { reservationFor } from '../../lib/reservation.ts';
+import type { EciSpineRow } from '../../lib/types.ts';
+import { RAW } from '../../lib/paths.ts';
 
 const WINNERS_CSV =
   'https://data.opencity.in/dataset/85a345c6-78c0-4f57-adfc-236c726c5456/resource/3e96ed32-9b97-4c5b-9201-7807d90b20e5/download/2a4e0925-0903-4857-902b-9a57cfb78094.csv';
 const RESULTS_CSV =
   'https://data.opencity.in/dataset/85a345c6-78c0-4f57-adfc-236c726c5456/resource/d164b73a-b855-4b68-be0c-0f3450e7ab9f/download/1b837c18-4f7a-4acb-aad0-918c51186a54.csv';
 
-const OUT = new URL('../data/raw/', import.meta.url);
+const OUT = RAW;
 const num = (s: string | undefined): number =>
   Number(String(s ?? '').replace(/[^0-9.-]/g, '')) || 0;
 const pcKey = (state: string, pcNo: string): string =>
   `${normConstituency(state).toLowerCase().replace(/\s+/g, '-')}-${String(pcNo).trim()}`;
 const isNota = (s: string | undefined): boolean => /\bNOTA\b|None of the Above/i.test(s || '');
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log('Fetching ECI winners + full results (opencity CKAN, Public Domain)...');
   const winners = parseCSVObjects(await fetchText(WINNERS_CSV));
   const results = parseCSVObjects(await fetchText(RESULTS_CSV));
@@ -78,7 +79,3 @@ async function main(): Promise<void> {
   console.log(`PCs where NOTA > winning margin: ${notaFlag}`);
   console.log(`Wrote ${new URL('eci_spine.json', OUT).pathname}`);
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { allSlugs, getParty } from '@/lib/mp/data';
 import { loadMp } from '@/lib/mp/loader';
+import { buildMetadata } from '@/lib/site';
 import { MpHeader } from '@/components/mp/MpHeader';
 import { ElectionSection } from '@/components/mp/ElectionSection';
 import { WorkSection } from '@/components/mp/WorkSection';
@@ -22,12 +23,14 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const m = await loadMp((await params).slug);
-  if (!m) return { title: 'Not found — dickipedia' };
-  return {
-    title: `${m.mp_name} — ${m.pc_name} (${m.party}) · dickipedia`,
+  const { slug } = await params;
+  const m = await loadMp(slug);
+  if (!m) return buildMetadata({ title: 'Not found', path: `/mp/${slug}` });
+  return buildMetadata({
+    title: `${m.mp_name} — ${m.pc_name} (${m.party})`,
     description: `Accountability record for ${m.mp_name}, MP for ${m.pc_name}, ${m.eci_state}. Score ${m.accountability_score ?? '?'} / 100. Public records only.`,
-  };
+    path: `/mp/${slug}`,
+  });
 }
 
 export default async function MpPage({ params }: { params: Promise<{ slug: string }> }) {

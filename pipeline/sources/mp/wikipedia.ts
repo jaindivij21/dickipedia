@@ -1,10 +1,9 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
-import { fetchJsonOrNull, sleep } from './lib/http.ts';
-import { tokenSortRatio } from './lib/text.ts';
-import type { Provenance } from './lib/types.ts';
+import { fetchJsonOrNull, sleep } from '../../lib/http.ts';
+import { tokenSortRatio } from '../../lib/text.ts';
+import type { Provenance } from '../../lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const SEARCH = (q: string): string =>
   `https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&srlimit=5&srsearch=${encodeURIComponent(q)}`;
 const SUMMARY = (title: string): string =>
@@ -128,7 +127,7 @@ async function resolve(s: CrosswalkRow): Promise<WikiBioRow | null> {
   return best;
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const crosswalk = JSON.parse(
     await readFile(new URL('crosswalk.json', CANON), 'utf8'),
   ) as CrosswalkRow[];
@@ -159,7 +158,3 @@ async function main(): Promise<void> {
   console.log(`Wikipedia bios resolved: ${out.length}/${crosswalk.length}`);
   console.log('Wrote data/raw/wikipedia.json + crosswalk_wiki.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

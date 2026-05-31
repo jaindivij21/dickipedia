@@ -7,11 +7,11 @@ import {
   tokenSortRatio,
   tokenSetRatio,
   initialsRatio,
-} from './lib/text.ts';
-import type { EciSpineRow, PrsRow } from './lib/types.ts';
+} from '../lib/text.ts';
+import type { EciSpineRow, PrsRow } from '../lib/types.ts';
+import { RAW, CANON } from '../lib/paths.ts';
 
-const RAW = new URL('../data/raw/', import.meta.url);
-const OUT = new URL('../data/canonical/', import.meta.url);
+const OUT = CANON;
 const load = async <T>(f: string): Promise<T> =>
   JSON.parse(await readFile(new URL(f, RAW), 'utf8')) as T;
 const loadOpt = async <T>(f: string): Promise<T | null> =>
@@ -60,7 +60,7 @@ function pick<T>(
   return bc >= threshold ? { row: best, conf: bc } : { row: null, conf: bc < 0 ? 0 : bc };
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const spine = await load<EciSpineRow[]>('eci_spine.json');
   const prs = await load<PrsRow[]>('prs_18th.json');
   const sansad = await load<any[]>('sansad_18th.json');
@@ -375,7 +375,3 @@ async function main(): Promise<void> {
   console.log(`Parties: ${partySeen.size} (with election symbol: ${withSymbol})`);
   console.log('Wrote data/canonical/mps.json + parties.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

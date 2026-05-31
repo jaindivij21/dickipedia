@@ -1,11 +1,9 @@
 import { writeFile, readFile } from 'node:fs/promises';
-import { isSeriousCase } from './lib/serious.ts';
-import { hasAccusatoryPhrasing } from './lib/text.ts';
-import { cohortCaps, scoreMp, type ScoreInput } from './lib/score.ts';
+import { isSeriousCase } from '../lib/serious.ts';
+import { hasAccusatoryPhrasing } from '../lib/text.ts';
+import { cohortCaps, scoreMp, type ScoreInput } from '../lib/score.ts';
+import { RAW, CANON, CURATED } from '../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
-const CURATED = new URL('../data/curated/', import.meta.url);
 const MYNETA_2024 = 'https://myneta.info/LokSabha2024/';
 const RESPONSES = new Set(['positive', 'neutral', 'negative', 'divided']);
 const SUPERLATIVE = /\b(greatest|biggest|historic|landmark|visionary|iconic)\b/i;
@@ -112,7 +110,7 @@ function mergeContact(
   return { emails, phones, address: sansad?.address ?? null, socials: sansad?.socials ?? [] };
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const mps = JSON.parse(await readFile(new URL('mps.json', CANON), 'utf8')) as Record<
     string,
     unknown
@@ -275,7 +273,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/canonical/mps.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

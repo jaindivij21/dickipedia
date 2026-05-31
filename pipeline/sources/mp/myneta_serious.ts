@@ -1,11 +1,10 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';
-import { fetchText, sleep } from './lib/http.ts';
-import type { Provenance } from './lib/types.ts';
+import { fetchText, sleep } from '../../lib/http.ts';
+import type { Provenance } from '../../lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const LIST = (page: number): string =>
   `https://myneta.info/LokSabha2024/index.php?action=summary&subAction=winner_serious_crime&sort=candidate&page=${page}`;
 const SLEEP_MS = 800;
@@ -36,7 +35,7 @@ function candidateIdsOnPage($: CheerioAPI): number[] {
   return [...ids];
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log(
     'Fetching MyNeta winners with declared serious criminal cases (ADR/MyNeta.info, from ECI affidavits)...',
   );
@@ -77,7 +76,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/raw/myneta_serious.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

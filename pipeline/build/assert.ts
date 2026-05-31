@@ -1,6 +1,5 @@
 import { readFile } from 'node:fs/promises';
-
-const CANON = new URL('../data/canonical/', import.meta.url);
+import { CANON } from '../lib/paths.ts';
 
 const EXPECTED_MPS = 543;
 const SCORE_COVERAGE_FLOOR = 0.9;

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Stamp, ArrowUpRight } from 'lucide-react';
 import { MANIFEST } from '@/lib/mp/data';
 import { LastUpdated } from '@/components/ui/LastUpdated';
+import { SITE, buildMetadata } from '@/lib/site';
 import './globals.css';
 
 const gelasio = Gelasio({
@@ -18,9 +19,16 @@ const ubuntuMono = Ubuntu_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "dickipedia — the public record of India's powerful",
-  description:
-    'An open, sourced encyclopedia that holds India’s public officials to their own public record.',
+  ...buildMetadata(),
+  metadataBase: new URL(SITE.url),
+  title: { default: SITE.title, template: SITE.titleTemplate },
+  applicationName: SITE.name,
+  keywords: [...SITE.keywords],
+  authors: [{ name: SITE.name, url: SITE.url }],
+  creator: SITE.name,
+  publisher: SITE.name,
+  category: 'politics',
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

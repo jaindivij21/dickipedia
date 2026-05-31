@@ -1,7 +1,6 @@
 import { writeFile, readFile } from 'node:fs/promises';
-import { BANNED } from './lib/text.ts';
-
-const CANON = new URL('../data/canonical/', import.meta.url);
+import { CANON } from '../lib/paths.ts';
+import { BANNED } from '../lib/text.ts';
 
 const GROWTH_NOTABLE = 100;
 const GROWTH_FLAG = 300;
@@ -242,7 +241,7 @@ function guard(infs: Inference[]): void {
     }
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const mps = JSON.parse(await readFile(new URL('mps.json', CANON), 'utf8')) as Mp[];
   const attSorted = mps
     .filter((m) => !m.minister && m.attendance_pct != null)
@@ -273,7 +272,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/canonical/mps.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

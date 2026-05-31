@@ -1,9 +1,8 @@
 import { writeFile, readFile, mkdir, readdir, rm, stat } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
-import { cohortCaps, type ScoreInput } from './lib/score.ts';
+import { CANON, RAW } from '../lib/paths.ts';
+import { cohortCaps, type ScoreInput } from '../lib/score.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const MP_DIR = new URL('mp/', CANON);
 
 const SCHEMA_VERSION = 1;
@@ -79,7 +78,7 @@ async function sourceAsOf(
   return fallback;
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const mps = JSON.parse(await readFile(new URL('mps.json', CANON), 'utf8')) as Json[];
   const parties = JSON.parse(await readFile(new URL('parties.json', CANON), 'utf8')) as Json[];
   const symbolByCode = new Map(parties.map((p) => [asStr(p.code), p.symbol ?? null]));
@@ -206,8 +205,3 @@ async function main(): Promise<void> {
     `Published ${mps.length} MP files · index (${slim.length} slim) · manifest as_of ${generated_at} · bands P${aggregates.score_bins.poor}/M${aggregates.score_bins.mediocre}/D${aggregates.score_bins.decent}/S${aggregates.score_bins.strong}`,
   );
 }
-
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

@@ -1,12 +1,13 @@
 import { mkdir, writeFile } from 'node:fs/promises';
-import { fetchText } from './lib/http.ts';
-import { parseCSVObjects } from './lib/csv.ts';
-import { normConstituency, normName, normParty } from './lib/text.ts';
-import type { PrsRow } from './lib/types.ts';
+import { RAW } from '../../lib/paths.ts';
+import { fetchText } from '../../lib/http.ts';
+import { parseCSVObjects } from '../../lib/csv.ts';
+import { normConstituency, normName, normParty } from '../../lib/text.ts';
+import type { PrsRow } from '../../lib/types.ts';
 
 const PRS_CSV =
   'https://raw.githubusercontent.com/Vonter/india-representatives-activity/main/csv/Lok%20Sabha/18th.csv';
-const OUT = new URL('../data/raw/', import.meta.url);
+const OUT = RAW;
 const num = (s: string | undefined): number | null => {
   const n = Number(
     String(s ?? '')
@@ -16,7 +17,7 @@ const num = (s: string | undefined): number | null => {
   return Number.isFinite(n) ? n : null;
 };
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log(
     'Fetching PRS/Vonter 18th LS activity (ODbL-1.0; attribute PRS Legislative Research)...',
   );
@@ -72,7 +73,3 @@ async function main(): Promise<void> {
   );
   console.log(`Wrote ${new URL('prs_18th.json', OUT).pathname}`);
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

@@ -15,8 +15,3 @@ export async function stamp(source: string, iso: string): Promise<void> {
   );
   await writeFile(FETCHED, `${JSON.stringify(sorted, null, 2)}\n`);
 }
-
-const cliSource = process.argv[2];
-if (cliSource) {
-  stamp(cliSource, new Date().toISOString()).then(() => console.log(`stamped ${cliSource}`));
-}

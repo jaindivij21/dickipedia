@@ -26,6 +26,11 @@ on:
           - wikipedia
           - party_contact
           - latest_news
+      dry_run:
+        description: 'Rehearse only — run the full path but skip the commit/push'
+        type: boolean
+        required: false
+        default: false
 
 concurrency:
   group: data-dispatch-${{ github.event.inputs.source }}
@@ -67,6 +72,7 @@ jobs:
         run: npm run assert:canonical
 
       - name: Commit refreshed data
+        if: ${{ !inputs.dry_run }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore(data): manual refresh of ${{ github.event.inputs.source }} [skip ci]'

@@ -1,11 +1,11 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchText, sleep } from './lib/http.ts';
-import { normConstituency, normName, normParty, tokenSortRatio } from './lib/text.ts';
+import { fetchText, sleep } from '../../lib/http.ts';
+import { normConstituency, normName, normParty, tokenSortRatio } from '../../lib/text.ts';
+import { RAW } from '../../lib/paths.ts';
 
 const HOME = 'https://myneta.info/LokSabha2024/';
 const BASE = 'https://myneta.info/LokSabha2024/index.php';
-const RAW = new URL('../data/raw/', import.meta.url);
 const rupees = (s: string): number | null => {
   const m = String(s).match(/Rs\s*([0-9][0-9,]*)/i);
   return m ? Number(m[1].replace(/,/g, '')) : null;
@@ -15,7 +15,7 @@ const intOf = (s: string): number => {
   return m ? Number(m[0]) : 0;
 };
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const $h = cheerio.load(await fetchText(HOME));
   const constMap = new Map<string, { id: string; name: string }>();
   $h("a[href*='constituency_id=']").each((_, a) => {
@@ -108,7 +108,3 @@ async function main(): Promise<void> {
   if (notFound.length)
     console.log(`Still absent (${notFound.length}): ${notFound.slice(0, 25).join(', ')}`);
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

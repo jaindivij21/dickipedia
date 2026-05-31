@@ -1,11 +1,10 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchTextOrNull, sleep } from './lib/http.ts';
-import { deobfuscateContact, tokenSortRatio } from './lib/text.ts';
-import type { Provenance } from './lib/types.ts';
+import { fetchTextOrNull, sleep } from '../../lib/http.ts';
+import { deobfuscateContact, tokenSortRatio } from '../../lib/text.ts';
+import type { Provenance } from '../../lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const INC_PAGE = (p: number): string => `https://inc.in/lok-sabha-members?page=${p}`;
 const INC_MAX_PAGES = 12;
 const SLEEP_MS = 500;
@@ -64,7 +63,7 @@ async function scrapeIncContacts(): Promise<
   return out;
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const crosswalk = JSON.parse(
     await readFile(new URL('crosswalk.json', CANON), 'utf8'),
   ) as CrosswalkRow[];
@@ -107,7 +106,3 @@ async function main(): Promise<void> {
   console.log(`Party-site contact gap-fills: ${out.length}`);
   console.log('Wrote data/raw/party_contact.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

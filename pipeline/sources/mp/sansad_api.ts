@@ -1,10 +1,9 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
-import { fetchJsonOrNull, sleep } from './lib/http.ts';
-import { deobfuscateContact } from './lib/text.ts';
-import type { Provenance } from './lib/types.ts';
+import { fetchJsonOrNull, sleep } from '../../lib/http.ts';
+import { deobfuscateContact } from '../../lib/text.ts';
+import type { Provenance } from '../../lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const MEMBER = (mpsno: number): string => `https://sansad.in/api_ls/member/${mpsno}`;
 const SLEEP_MS = 250;
 const FLUSH_EVERY = 60;
@@ -107,7 +106,7 @@ function toContact(m: MemberDto): Contact {
   return { emails, phones, address, socials };
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const crosswalk = JSON.parse(
     await readFile(new URL('crosswalk.json', CANON), 'utf8'),
   ) as CrosswalkRow[];
@@ -145,7 +144,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/raw/sansad_deep.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

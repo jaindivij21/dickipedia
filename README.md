@@ -49,8 +49,8 @@ npm run format:check   # prettier --check
 
 ## Data pipeline & refresh
 
-The source list lives in one place — `pipeline/registry.ts` (each source's script, cadence, and
-whether it feeds the accountability score). The orchestrator runs them:
+The source list lives in one place — `pipeline/engine/registry.ts` (each source's `run`, cadence, and
+whether it feeds the accountability score). The engine runs them:
 
 ```bash
 npm run ingest -- --cadence monthly      # fast feeds (parliamentary activity, news)
@@ -74,12 +74,17 @@ components/
 lib/
   format.ts     generic formatters · sources.ts  generic source registry
   mp/           MP-volume data layer (types, data, loader, bio, constants, filter)
-pipeline/       numbered ingestion scripts + registry.ts (engine) + lib/ helpers
+pipeline/
+  engine/       registry (source-of-truth) + runner + ingest CLI + tests
+  sources/mp/   one module per MP-volume source (eci, prs, mplads, …)
+  build/        deterministic recompute: canonical → merge → inferences → publish (+ assert)
+  lib/          generic helpers (http, csv, text, score, paths, …)
 data/
   canonical/    the truth the app reads (per-subject files, index, manifest) — committed
   raw/          pipeline scraper outputs (committed; reproducible inputs)
   config/       sources + score-band config · curated/  hand-curated, sourced facts
   cache/        HTTP response cache (gitignored)
+public/assets/mp/parties/   party-symbol images (served at /assets/mp/parties/…)
 ```
 
 Generic, reusable code (primitives, charts, formatters) lives outside the volume folders; only

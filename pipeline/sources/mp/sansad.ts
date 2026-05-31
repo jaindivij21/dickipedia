@@ -1,9 +1,10 @@
 import { mkdir, writeFile } from 'node:fs/promises';
-import { fetchJson } from './lib/http.ts';
-import { normConstituency, normName, normParty } from './lib/text.ts';
+import { fetchJson } from '../../lib/http.ts';
+import { normConstituency, normName, normParty } from '../../lib/text.ts';
+import { RAW } from '../../lib/paths.ts';
 
 const API = 'https://sansad.in/api_ls/member?perPageSize=6000';
-const OUT = new URL('../data/raw/', import.meta.url);
+const OUT = RAW;
 const str = (v: unknown): string => (v == null ? '' : String(v)).trim();
 
 interface RawMember {
@@ -29,7 +30,7 @@ interface RawMember {
   qualification?: string;
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log('Fetching Sansad member directory (Lok Sabha Secretariat; facts + deeplink only)...');
   const data = await fetchJson<{ membersDtoList: RawMember[] }>(API);
   const all = data.membersDtoList || [];
@@ -72,7 +73,3 @@ async function main(): Promise<void> {
   );
   console.log(`Wrote ${new URL('sansad_18th.json', OUT).pathname}`);
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

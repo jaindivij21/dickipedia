@@ -1,10 +1,11 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchText } from './lib/http.ts';
-import { normConstituency, normName, normParty } from './lib/text.ts';
+import { fetchText } from '../../lib/http.ts';
+import { normConstituency, normName, normParty } from '../../lib/text.ts';
+import { RAW } from '../../lib/paths.ts';
 
 const INDEX_URL = 'https://myneta.info/LokSabha2024/index.php?action=show_winners&sort=default';
-const OUT = new URL('../data/raw/', import.meta.url);
+const OUT = RAW;
 
 const rupees = (s: string): number | null => {
   const m = String(s).match(/Rs\s*([0-9][0-9,]*)/i) || String(s).match(/([0-9][0-9,]{3,})/);
@@ -17,7 +18,7 @@ const intOf = (s: string): number => {
   return m ? Number(m[0]) : 0;
 };
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log(
     'Fetching MyNeta winners index (ADR/MyNeta.info, from ECI affidavits; non-commercial, attributed)...',
   );
@@ -68,7 +69,3 @@ async function main(): Promise<void> {
     );
   console.log(`Wrote data/raw/myneta_2024.json`);
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

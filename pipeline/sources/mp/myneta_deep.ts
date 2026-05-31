@@ -2,12 +2,11 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import { readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';
-import { fetchTextOrNull, sleep } from './lib/http.ts';
-import { parseRupees, parseInt0 } from './lib/money.ts';
-import type { Provenance } from './lib/types.ts';
+import { fetchTextOrNull, sleep } from '../../lib/http.ts';
+import { parseRupees, parseInt0 } from '../../lib/money.ts';
+import type { Provenance } from '../../lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const MYNETA_BASE = 'https://myneta.info';
 const CANDIDATE = (id: number): string =>
   `https://myneta.info/LokSabha2024/candidate.php?candidate_id=${id}`;
@@ -89,11 +88,7 @@ interface MynetaDeepRow {
   _provenance: Provenance;
 }
 
-const clean = (s: string): string =>
-  s
-    .replace(/\u00A0/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
+const clean = (s: string): string => s.replace(/\s+/g, ' ').trim();
 const yes = (s: string): boolean => /^\s*y(es)?\s*$/i.test(clean(s));
 const parseSections = (raw: string): string[] => {
   const out: string[] = [];
@@ -311,7 +306,7 @@ function parse(html: string, pc_id: string, candidate_id: number): MynetaDeepRow
   };
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const crosswalk = JSON.parse(
     await readFile(new URL('crosswalk.json', CANON), 'utf8'),
   ) as CrosswalkRow[];
@@ -344,7 +339,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/raw/myneta_deep.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

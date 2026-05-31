@@ -1,19 +1,19 @@
 import { mkdir, writeFile } from 'node:fs/promises';
-import { fetchText } from './lib/http.ts';
-import { parseCSVObjects } from './lib/csv.ts';
-import { normParty } from './lib/text.ts';
+import { RAW } from '../../lib/paths.ts';
+import { fetchText } from '../../lib/http.ts';
+import { parseCSVObjects } from '../../lib/csv.ts';
+import { normParty } from '../../lib/text.ts';
 
 const ENCASH =
   'https://raw.githubusercontent.com/apoorv74/electoral-bonds-sbi/main/data/encashment.csv';
 const MATCHED =
   'https://raw.githubusercontent.com/saisantoshv3/electoral_bonds/main/data/final.csv';
-const RAW = new URL('../data/raw/', import.meta.url);
 const rupee = (s: string): number => {
   const n = Number(String(s).replace(/[^0-9]/g, ''));
   return Number.isFinite(n) ? n : 0;
 };
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log('Ingesting electoral-bond disclosure (party-level)...');
   const enc = parseCSVObjects(await fetchText(ENCASH));
   const matched = parseCSVObjects(await fetchText(MATCHED));
@@ -75,7 +75,3 @@ async function main(): Promise<void> {
     );
   console.log('Wrote data/raw/electoral_bonds.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

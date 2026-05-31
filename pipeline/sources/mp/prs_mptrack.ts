@@ -1,11 +1,11 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';
-import { fetchText, fetchTextOrNull, sleep } from './lib/http.ts';
-import { looseConstituency, normState, tokenSortRatio } from './lib/text.ts';
-import type { EciSpineRow, Provenance } from './lib/types.ts';
+import { fetchText, fetchTextOrNull, sleep } from '../../lib/http.ts';
+import { looseConstituency, normState, tokenSortRatio } from '../../lib/text.ts';
+import type { EciSpineRow, Provenance } from '../../lib/types.ts';
+import { RAW } from '../../lib/paths.ts';
 
-const RAW = new URL('../data/raw/', import.meta.url);
 const ORIGIN = 'https://prsindia.org';
 const LISTING = (p: number): string => `${ORIGIN}/mptrack?page=${p}&per-page=9`;
 const MAX_PAGES = 80;
@@ -167,7 +167,7 @@ function parseDetail(html: string, pc_id: string, url: string): PrsDeepRow {
   };
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const spine = JSON.parse(await readFile(new URL('eci_spine.json', RAW), 'utf8')) as EciSpineRow[];
   console.log('Scraping PRS mptrack listing for profile slugs...');
   const listing = await scrapeListing();
@@ -201,7 +201,3 @@ async function main(): Promise<void> {
   console.log(`PRS deep parsed: ${out.length} (with debate titles ${withDebates})`);
   console.log('Wrote data/raw/prs_deep.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

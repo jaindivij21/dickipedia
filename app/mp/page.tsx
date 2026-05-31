@@ -1,11 +1,13 @@
 import Link from 'next/link';
 import { MpBrowser } from '@/components/mp/browse/MpBrowser';
 import { SLIM_MPS, parties, states } from '@/lib/mp/data';
+import { buildMetadata } from '@/lib/site';
 
-export const metadata = {
-  title: 'Lok Sabha MPs — dickipedia',
+export const metadata = buildMetadata({
+  title: 'Lok Sabha MPs',
   description: 'The sourced public record of all 543 members of the 18th Lok Sabha (2024).',
-};
+  path: '/mp',
+});
 
 export default function MpIndex() {
   return (

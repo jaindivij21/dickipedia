@@ -1,9 +1,8 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
-import { fetchBuffer, fetchJson, sleep } from './lib/http.ts';
-import { stripDiacritics } from './lib/text.ts';
+import { fetchBuffer, fetchJson, sleep } from '../../lib/http.ts';
+import { stripDiacritics } from '../../lib/text.ts';
+import { RAW, PARTY_SYMBOLS } from '../../lib/paths.ts';
 
-const RAW = new URL('../data/raw/', import.meta.url);
-const PUBLIC = new URL('../public/parties/', import.meta.url);
 const COMMONS_FILE = (f: string): string => `https://commons.wikimedia.org/wiki/${encodeURI(f)}`;
 const IMAGEINFO = (files: string[]): string =>
   `https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=${encodeURIComponent('url|extmetadata')}&titles=${encodeURIComponent(files.join('|'))}`;
@@ -69,7 +68,7 @@ const codeKey = (c: string): string =>
   stripDiacritics(c)
     .toUpperCase()
     .replace(/[–—]/g, '-')
-    .replace(/[‘’`]/g, "'")
+    .replace(/[''`]/g, "'")
     .replace(/\s+/g, ' ')
     .trim();
 const slugify = (s: string): string =>
@@ -125,7 +124,7 @@ async function resolveImageInfo(files: string[]): Promise<Map<string, ImageInfo>
   return out;
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const spine = JSON.parse(await readFile(new URL('eci_spine.json', RAW), 'utf8')) as {
     winner_party: string;
     winner_party_full: string;
@@ -145,7 +144,7 @@ async function main(): Promise<void> {
   );
   const info = await resolveImageInfo(uniqueFiles);
 
-  await mkdir(PUBLIC, { recursive: true });
+  await mkdir(PARTY_SYMBOLS, { recursive: true });
   const symbols: Record<string, SymbolEntry> = {};
   const gaps: string[] = [];
   for (const { p, file } of wanted) {
@@ -160,11 +159,11 @@ async function main(): Promise<void> {
     }
     const ext = (ii.url.split('.').pop() || 'svg').toLowerCase();
     const slug = slugify(p.code);
-    const rel = `/parties/${slug}.${ext}`;
+    const rel = `/assets/mp/parties/${slug}.${ext}`;
     const buf = await fetchBuffer(ii.url, { headers: { 'User-Agent': WIKIMEDIA_UA } });
     await sleep(DOWNLOAD_SLEEP_MS);
     const bytes = ext === 'svg' ? Buffer.from(sanitizeSvg(buf.toString('utf8')), 'utf8') : buf;
-    await writeFile(new URL(`${slug}.${ext}`, PUBLIC), bytes);
+    await writeFile(new URL(`${slug}.${ext}`, PARTY_SYMBOLS), bytes);
     symbols[p.code] = {
       symbol: rel,
       symbol_file: file,
@@ -203,7 +202,3 @@ async function main(): Promise<void> {
     );
   console.log(`\nWrote data/raw/party_symbols.json`);
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

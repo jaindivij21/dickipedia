@@ -42,7 +42,12 @@ lives outside the volume folders; only subject-specific content lives in a volum
 - `components/mp/` — **MP-volume** components: the per-topic sections (`MpHeader`, `ElectionSection`, `WorkSection`, `WealthSection`, `MpladsSection`, `AffidavitSection`, `PartyFundingSection`, `InferencesSection`, `ContactSection`, `NewsSection`, `SourcesSection`, `MpInfobox`, `MpLede`) plus `browse/` (the index browser), `affidavit/`, and `work/`. The masthead/footer live in `app/layout.tsx`.
 - `lib/` — **generic** app utilities: `lib/format.ts` (formatters, `scoreBand` reading `data/config/score-bands.json`, `colorVar`, `fmtDate`), `lib/sources.ts` (source registry over `data/config/sources.json`).
 - `lib/mp/` — **MP-volume** data layer: `types.ts` (the `Mp`/`SlimMp`/`Party` + detail types), `data.ts` (index/manifest loaders, `getParty`, cohort aggregates `AVG_*`, `featuredMp`), `loader.ts` (`loadMp`, server-only `fs` read), `bio.ts`, `constants.ts` (MP UI constants + filter types), `filter.ts` (the browse hook).
-- `pipeline/` — numbered scrapers (`01_*`…`20_*`); **the ingestion engine** `registry.ts` (source → script → cadence → feeds-score) + `ingest.ts` (the runner). `pipeline/lib/` holds normalisation helpers (`csv.ts`, `http.ts`, `text.ts` party aliases + banned-word guard, `money.ts`, `serious.ts`, `reservation.ts`, `stamp.ts`) and the accountability-score formula (`score.ts`). The score is computed in `pipeline/17_merge.ts` (after deep criminal/wealth inputs fold in); `18_inferences.ts` appends inferences; `21_publish.ts` emits the per-subject files + index + manifest; `assert_canonical.ts` validates.
+- `pipeline/` — the ingestion engine, organised generic-vs-volume like the app:
+  - `pipeline/engine/` — `types.ts` (`SourceDef`/`StageDef`), `runner.ts` (`runSources`/`runStages`, auto-stamps, continue-on-error), `registry.ts` (the single source-of-truth: each source's `run`, `volume`, `cadence`, `feedsScore`). `pipeline/ingest.ts` is the CLI over it (`--cadence` / `--sources` / `--build` / `--stages` / `--plan`).
+  - `pipeline/sources/mp/` — one module per MP-volume source (`eci.ts`, `prs.ts`, `mplads.ts`, …), each exporting `run()`. Future volumes add a sibling `sources/<volume>/`.
+  - `pipeline/build/` — the deterministic recompute stages `canonical → merge → inferences → publish`, plus the `assert.ts` validator. The score is computed in `build/merge.ts` (after deep inputs fold in); `build/inferences.ts` appends inferences; `build/publish.ts` emits the per-subject files + index + manifest.
+  - `pipeline/lib/` — generic helpers: `paths.ts` (data/public dir anchors), `http.ts`, `csv.ts`, `text.ts` (party aliases + banned-word guard), `money.ts`, `serious.ts`, `reservation.ts`, `stamp.ts`, and the accountability-score formula `score.ts`.
+  - `pipeline/engine/runner.test.ts` — engine unit tests (`npm test`); run with no network.
 - `data/` — `canonical/` (the truth the app reads: `mp/<slug>.json` per subject + `index.json` slim list/aggregates + `parties.json` + `manifest.json` timestamps; `mps.json` is a gitignored intermediate) · `raw/` (committed scraper outputs + the `_fetched.json` timestamp sidecar) · `config/` (`sources.json`, `score-bands.json`) · `curated/` (hand-curated sourced facts) · `cache/` (gitignored HTTP cache). **Never move `data/`**: the pipeline reads it through relative `node:fs` URLs.
 
 ### Hard structural rules
@@ -56,7 +61,7 @@ lives outside the volume folders; only subject-specific content lives in a volum
 
 - **TypeScript strict; no `any`.** Use `unknown` + narrowing. Validate canonical JSON shape before use.
 - **No comments.** Code is self-documenting via names, types, and extracted constants. Only `// @note` / `// @todo` are allowed. No TODO/FIXME prose — open a GitHub issue.
-- **DRY.** One home per constant: app sources → `lib/sources.ts` + `data/config/sources.json`; scoring weights & caps → `pipeline/lib/score.ts`; band thresholds → `data/config/score-bands.json` (read by `lib/format`'s `scoreBand` and the browse legend — never hard-code bands again); MP UI constants → `lib/mp/constants.ts`; party aliases → `pipeline/lib/text.ts`; ingestion source list → `pipeline/registry.ts`.
+- **DRY.** One home per constant: app sources → `lib/sources.ts` + `data/config/sources.json`; scoring weights & caps → `pipeline/lib/score.ts`; band thresholds → `data/config/score-bands.json` (read by `lib/format`'s `scoreBand` and the browse legend — never hard-code bands again); MP UI constants → `lib/mp/constants.ts`; party aliases → `pipeline/lib/text.ts`; ingestion source list → `pipeline/engine/registry.ts`; data/asset path anchors → `pipeline/lib/paths.ts`.
 - **No magic numbers.** Scoring weights, caps, and repeated marker keys are SCREAMING_CASE constants.
 - **Small files.** Split components over ~150 lines; one section per file.
 - **Tailwind: inline editorial utilities** (`border border-border`, `bg-surface`, `bg-surface-2`, `divide-border`). Only semantic helpers live in `@layer utilities` in `app/globals.css`: `.eyebrow`, `.rule-top`, `.mark-accent`, `.font-mono`. Do not invent compound classes.
@@ -89,7 +94,9 @@ npm run typecheck      # tsc --noEmit
 npm run lint           # eslint
 npm run format:check   # prettier --check (CI)
 
-# data — the ingestion engine (source list lives in pipeline/registry.ts)
+# data — the ingestion engine (source list lives in pipeline/engine/registry.ts)
+npm test                                 # engine unit tests (no network)
+npm run ingest -- --plan --cadence monthly   # dry-run: validate registry + resolved sources
 npm run ingest -- --cadence monthly      # fast feeds: PRS activity + news
 npm run ingest -- --cadence semiannual   # full re-crawl of every source
 npm run ingest -- --sources mplads,bonds # an arbitrary subset
@@ -108,7 +115,7 @@ which call `npm run ingest`, rebuild, validate, and **auto-commit** the refreshe
 - [ ] Facts sourced to a public registry (`eci/prs/sansad/myneta/mplads/bonds`, or curated `press`)
 - [ ] No platform-authored accusation; self-declared data labelled as such; bonds kept party-level
 - [ ] `npm run typecheck && npm run lint && npm run format:check && npm run build` pass
-- [ ] Pipeline/scoring change → `npm run rebuild` + `npm run assert:canonical` pass, `data/canonical` diff intended; a new source is registered in `pipeline/registry.ts`
+- [ ] Pipeline/scoring change → `npm run rebuild` + `npm run assert:canonical` pass, `data/canonical` diff intended; a new source is registered in `pipeline/engine/registry.ts` (+ `npm test` passes)
 - [ ] Generic code kept out of volume folders; subject-specific code stays in `components/mp` / `lib/mp`
 - [ ] No new comments; no `any`; constants extracted; components < ~150 lines; Conventional Commit message
 

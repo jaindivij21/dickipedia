@@ -17,6 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Validate workflows (actionlint)
+        run: |
+          bash <(curl -fsSL https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+          ./actionlint -color
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -52,6 +57,14 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Engine unit tests
+        run: npm test
+
+      - name: Validate ingestion plan (registry + cadence wiring)
+        run: |
+          npm run ingest -- --plan --cadence monthly
+          npm run ingest -- --plan --cadence semiannual
 
       - name: Rebuild canonical from committed raw data
         run: npm run rebuild

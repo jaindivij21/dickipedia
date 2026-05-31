@@ -1,11 +1,10 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchTextOrNull, sleep } from './lib/http.ts';
-import { hasAccusatoryPhrasing, normName } from './lib/text.ts';
-import type { Provenance } from './lib/types.ts';
+import { RAW, CANON } from '../../lib/paths.ts';
+import { fetchTextOrNull, sleep } from '../../lib/http.ts';
+import { hasAccusatoryPhrasing, normName } from '../../lib/text.ts';
+import type { Provenance } from '../../lib/types.ts';
 
-const CANON = new URL('../data/canonical/', import.meta.url);
-const RAW = new URL('../data/raw/', import.meta.url);
 const SLEEP_MS = 1500;
 const MAX_ITEMS = 5;
 const FLUSH_EVERY = 40;
@@ -88,7 +87,7 @@ function parseRss(xml: string, key: NameKey): NewsArticle[] {
   return out.sort((a, b) => b.date.localeCompare(a.date)).slice(0, MAX_ITEMS);
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const mps = JSON.parse(await readFile(new URL('mps.json', CANON), 'utf8')) as MpLite[];
   const limit = process.argv[2] ? Number(process.argv[2]) : mps.length;
   const rows = mps.slice(0, limit);
@@ -120,7 +119,3 @@ async function main(): Promise<void> {
   );
   console.log('Wrote data/raw/latest_news.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

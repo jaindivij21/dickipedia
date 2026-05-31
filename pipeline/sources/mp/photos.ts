@@ -1,10 +1,9 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchText, imageOk, sleep } from './lib/http.ts';
-import { looseConstituency, normState, tokenSortRatio } from './lib/text.ts';
-import type { EciSpineRow, Provenance } from './lib/types.ts';
-
-const RAW = new URL('../data/raw/', import.meta.url);
+import { fetchText, imageOk, sleep } from '../../lib/http.ts';
+import { looseConstituency, normState, tokenSortRatio } from '../../lib/text.ts';
+import type { EciSpineRow, Provenance } from '../../lib/types.ts';
+import { RAW } from '../../lib/paths.ts';
 
 const PRS_ORIGIN = 'https://prsindia.org';
 const PRS_PAGE = (p: number): string => `${PRS_ORIGIN}/mptrack?page=${p}&per-page=9`;
@@ -210,7 +209,7 @@ async function scrapeBjp(targets: EciSpineRow[]): Promise<{ pc_id: string; photo
   }
 }
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const spine = await load<EciSpineRow[]>('eci_spine.json');
   const myneta = await load<MynetaRow[]>('myneta_2024.json');
 
@@ -309,7 +308,3 @@ async function main(): Promise<void> {
     `Wrote data/raw/photos.json (${Object.keys(byPcId).length} constituencies with a fallback photo)`,
   );
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

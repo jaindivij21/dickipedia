@@ -1,10 +1,10 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { fetchText } from './lib/http.ts';
-import { normName, tokenSortRatio } from './lib/text.ts';
+import { fetchText } from '../../lib/http.ts';
+import { normName, tokenSortRatio } from '../../lib/text.ts';
+import { RAW } from '../../lib/paths.ts';
 
 const URL_ = 'https://myneta.info/LokSabha2024/index.php?action=recontestAssetsComparison';
-const RAW = new URL('../data/raw/', import.meta.url);
 const num = (s: string): number | null => {
   const m = String(s).match(/([0-9][0-9,]{2,})/);
   return m ? Number(m[1].replace(/,/g, '')) : null;
@@ -14,7 +14,7 @@ const pct = (s: string): number | null => {
   return m ? Number(m[0]) : null;
 };
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   console.log('Fetching MyNeta wealth-growth (recontestAssetsComparison)...');
   const $ = cheerio.load(await fetchText(URL_));
   const winners = JSON.parse(await readFile(new URL('myneta_2024.json', RAW), 'utf8')) as any[];
@@ -73,7 +73,3 @@ async function main(): Promise<void> {
     );
   console.log('Wrote data/raw/myneta_wealth.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});

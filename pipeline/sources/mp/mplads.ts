@@ -1,14 +1,15 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import axios from 'axios';
-import { sleep } from './lib/http.ts';
-import { normName } from './lib/text.ts';
+import { RAW } from '../../lib/paths.ts';
+import { sleep } from '../../lib/http.ts';
+import { normName } from '../../lib/text.ts';
 
 const BASE = 'https://mplads.mospi.gov.in/rest/PreLoginDashboardData';
 const DASH = 'https://mplads.mospi.gov.in/digigov/dashboard.html';
 const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
-const OUT = new URL('../data/raw/', import.meta.url);
+const OUT = RAW;
 const STATE_LIMIT = process.env.STATE_LIMIT ? Number(process.env.STATE_LIMIT) : 0;
 
 const rupee = (s: unknown): number | null => {
@@ -20,7 +21,7 @@ const intOf = (s: unknown): number => {
   return m ? Number(m[0]) : 0;
 };
 
-async function main(): Promise<void> {
+export async function run(): Promise<void> {
   const ax = axios.create({ headers: { 'User-Agent': UA }, timeout: 60000 });
   const dash = await ax.get(DASH);
   const cookie = ((dash.headers['set-cookie'] as string[]) || [])
@@ -95,7 +96,3 @@ async function main(): Promise<void> {
     );
   console.log('Wrote data/raw/mplads.json');
 }
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
