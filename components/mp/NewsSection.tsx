@@ -1,11 +1,8 @@
 import { Newspaper, ExternalLink } from 'lucide-react';
-import type { Mp, NewsItem } from '@/lib/data';
+import { type Mp, type NewsItem, MANIFEST } from '@/lib/data';
+import { fmtDate } from '@/lib/format';
 import { DataSection } from '@/components/mp/DataSection';
-
-const fmtDate = (iso: string): string =>
-  iso
-    ? new Date(iso).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })
-    : '';
+import { EmptyState } from '@/components/ui/EmptyState';
 
 function Row({ item }: { item: NewsItem }) {
   return (
@@ -31,7 +28,6 @@ function Row({ item }: { item: NewsItem }) {
 
 export function NewsSection({ mp }: { mp: Mp }) {
   const items = (mp.news ?? []).filter((n) => !n.flagged);
-  if (!items.length) return null;
   return (
     <DataSection
       icon={<Newspaper size={20} />}
@@ -39,12 +35,17 @@ export function NewsSection({ mp }: { mp: Mp }) {
       title='In the news'
       sub='Recent third-party press matched to this MP via an automated news search — aggregated headlines linking out to the original publishers. These are the publishers’ own words: not verified by dickipedia, not one of the public registries, and excluded from the accountability score. An automated match may occasionally be imperfect.'
       src='news'
+      updatedAt={MANIFEST.sources.news?.as_of}
     >
-      <ul>
-        {items.map((item, i) => (
-          <Row key={`${item.url}-${i}`} item={item} />
-        ))}
-      </ul>
+      {items.length ? (
+        <ul>
+          {items.map((item, i) => (
+            <Row key={`${item.url}-${i}`} item={item} />
+          ))}
+        </ul>
+      ) : (
+        <EmptyState message='No recent third-party press matched to this MP.' />
+      )}
     </DataSection>
   );
 }

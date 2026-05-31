@@ -49,7 +49,6 @@ export interface Mp {
   mplads_works_recommended: number | null;
   party_bond_total: number | null;
   accountability_score: number | null;
-  // deep record (steps 11-18): nested, fully typed, each may be null/empty for partial coverage
   bio: Bio | null;
   assets_history: AssetYear[];
   assets_latest: number | null;

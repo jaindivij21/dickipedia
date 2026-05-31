@@ -1,6 +1,3 @@
-// Pipeline step 9: electoral-bond PARTY funding (party-level only; never per-MP).
-// Source: ECI/SBI disclosure (SC: ADR v Union of India, 15 Feb 2024), public-domain facts,
-// ingested from community CSV mirrors. Aggregates party totals + top donors.
 import { mkdir, writeFile } from 'node:fs/promises';
 import { fetchText } from './lib/http.ts';
 import { parseCSVObjects } from './lib/csv.ts';

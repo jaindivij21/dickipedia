@@ -21,17 +21,17 @@ export function ordinal(n: number): string {
 }
 
 export type ScoreToken = 'danger' | 'warning' | 'success';
-interface ScoreBand {
+export interface ScoreBand {
   max: number;
   token: ScoreToken;
   label: string;
 }
-const BANDS = scoreBandsJson.bands as ScoreBand[];
+export const SCORE_BANDS = scoreBandsJson.bands as ScoreBand[];
 const NULL_BAND = scoreBandsJson.null_band as { token: ScoreToken; label: string };
 
 export function scoreBand(v: number | null | undefined): { token: ScoreToken; label: string } {
   if (v == null) return NULL_BAND;
-  return BANDS.find((b) => v < b.max) ?? BANDS[BANDS.length - 1];
+  return SCORE_BANDS.find((b) => v < b.max) ?? SCORE_BANDS[SCORE_BANDS.length - 1];
 }
 
 export const colorVar = (token: ScoreToken | 'primary') => `var(--color-${token})`;

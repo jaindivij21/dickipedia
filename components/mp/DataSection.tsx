@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react';
-import { SourceCredit } from '@/components/SourceCredit';
+import { SourceCredit } from '@/components/ui/SourceCredit';
+import { LastUpdated } from '@/components/ui/LastUpdated';
 import type { SrcKey } from '@/lib/sources';
 
 export function DataSection({
@@ -8,6 +9,7 @@ export function DataSection({
   title,
   sub,
   src,
+  updatedAt,
   children,
 }: {
   icon: ReactNode;
@@ -15,6 +17,7 @@ export function DataSection({
   title: string;
   sub?: string;
   src?: SrcKey;
+  updatedAt?: string;
   children: ReactNode;
 }) {
   return (
@@ -42,6 +45,11 @@ export function DataSection({
         {sub && <p className='text-ink-soft mt-3 max-w-[68ch] text-sm leading-relaxed'>{sub}</p>}
       </div>
       <div className='mt-6'>{children}</div>
+      {updatedAt && (
+        <p className='mt-4'>
+          <LastUpdated date={updatedAt} />
+        </p>
+      )}
     </section>
   );
 }

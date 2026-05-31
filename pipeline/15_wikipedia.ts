@@ -1,8 +1,3 @@
-// Pipeline step 15: leader bios from English Wikipedia (the one descriptive, non-registry source —
-// attributed CC BY-SA, excluded from scoring). Resolve each MP to a page by merging candidate titles from
-// several name/party/state/constituency searches, disambiguate by politics / state / party tokens + name
-// similarity, then take the REST summary's one-paragraph extract. Below a confidence floor we emit nothing
-// (a wrong bio is worse than none). Also writes a crosswalk_wiki overlay (pc_id -> title) merged by 17_merge.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { fetchJsonOrNull, sleep } from './lib/http.ts';
 import { tokenSortRatio } from './lib/text.ts';

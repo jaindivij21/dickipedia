@@ -1,7 +1,3 @@
-// Pipeline step 9: portrait coverage. Resolves a hotlink photo URL per ECI constituency (pc_id) from
-// in-registry sources (PRS mptrack, MyNeta candidate pages) and, only for any residual gap, the party
-// sites (INC, BJP). Hotlink URLs only — non-open portraits are never re-hosted (Invariant 6). Output is
-// keyed by pc_id so 10_canonical does a clean exact lookup (sansad -> prs -> myneta -> inc -> bjp).
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import { fetchText, imageOk, sleep } from './lib/http.ts';
@@ -68,7 +64,6 @@ const push = <T>(m: Map<string, T[]>, k: string, v: T): void => {
   (m.get(k) ?? m.set(k, []).get(k)!).push(v);
 };
 
-// index by state+loose-constituency and by loose-constituency alone (sources without a clean state)
 function buildIdx<T extends SpineMatch>(rows: T[]): { sc: Map<string, T[]>; c: Map<string, T[]> } {
   const sc = new Map<string, T[]>(),
     c = new Map<string, T[]>();
@@ -79,7 +74,6 @@ function buildIdx<T extends SpineMatch>(rows: T[]): { sc: Map<string, T[]>; c: M
   }
   return { sc, c };
 }
-// resolve one spine row against an index: state+constituency, then constituency, then fuzzy; name-confirm
 function resolve<T extends SpineMatch>(
   s: EciSpineRow,
   idx: { sc: Map<string, T[]>; c: Map<string, T[]> },
@@ -145,8 +139,6 @@ async function scrapePrs(): Promise<PrsRow[]> {
 const mynetaPhoto = (html: string): string | null =>
   cheerio.load(html)("img[src*='images_candidate/LokSabha2024/']").first().attr('src') ?? null;
 
-// INC listing carries name + constituency but no portrait; the photo (when present) lives on the
-// per-member profile page. Best-effort, targeted at the residual gap only.
 async function scrapeInc(targets: EciSpineRow[]): Promise<{ pc_id: string; photo: string }[]> {
   if (!targets.length) return [];
   const profiles: { name: string; href: string }[] = [];
@@ -189,7 +181,6 @@ async function scrapeInc(targets: EciSpineRow[]): Promise<{ pc_id: string; photo
   return out;
 }
 
-// BJP listing blocks simple fetches; best-effort, never fatal.
 async function scrapeBjp(targets: EciSpineRow[]): Promise<{ pc_id: string; photo: string }[]> {
   if (!targets.length) return [];
   try {
@@ -230,8 +221,6 @@ async function main(): Promise<void> {
 
   const byPcId: Record<string, PcPhoto> = {};
 
-  // PRS is primary, but some mptrack listings link a profile_image that 404s (e.g. by-election
-  // seats) — validate every URL and keep only the live ones; the rest fall to the MyNeta backstop.
   const prsCandidates = spine
     .map((s) => ({ s, m: resolve(s, prsIdx) }))
     .filter((x): x is { s: EciSpineRow; m: PrsRow } => Boolean(x.m?.photo));
@@ -242,7 +231,6 @@ async function main(): Promise<void> {
   });
   console.log(`  PRS images live: ${prsLive.filter(Boolean).length}/${prsCandidates.length}`);
 
-  // MyNeta backstop (validated) for every MP without a live PRS portrait
   const mynetaIdx = buildIdx(myneta);
   const mnTargets = spine
     .filter((s) => !byPcId[s.pc_id]?.prs)
@@ -260,7 +248,6 @@ async function main(): Promise<void> {
   }
   console.log(`  MyNeta photos: ${mnCount}`);
 
-  // residual gap after PRS + MyNeta → only then attempt the party sites (validated)
   const residual = spine.filter((s) => !byPcId[s.pc_id]?.prs && !byPcId[s.pc_id]?.myneta);
   console.log(`Residual gap after PRS + MyNeta: ${residual.length}`);
   const inc = await scrapeInc(residual);

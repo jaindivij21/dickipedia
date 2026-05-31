@@ -1,7 +1,3 @@
-// Pipeline step 16: supplementary party-site contact (INC / BJP), used ONLY to fill gaps left by the
-// Sansad directory (which already covers ~98% of contact). Targets the residual no-contact MPs, scrapes
-// the party member listings best-effort, and records any mailto:/tel: found. Never fatal: a blocked site
-// or empty result yields {} and the merge proceeds. Facts + deeplink only.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import { fetchTextOrNull, sleep } from './lib/http.ts';

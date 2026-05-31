@@ -24,8 +24,6 @@ axiosRetry(client, {
 
 export const sleep = (ms: number): Promise<void> => new Promise((r) => setTimeout(r, ms));
 
-// liveness check for a hotlinked asset: 200 + image content-type. Raw axios (no retry) so a dead
-// link fails fast instead of burning the retry budget. Used to drop 404 portrait URLs before record.
 export async function imageOk(url: string, timeout = 12000): Promise<boolean> {
   try {
     const res = await axios.head(url, {
@@ -67,8 +65,6 @@ export async function fetchJson<T = unknown>(url: string, opts?: FetchOpts): Pro
   return JSON.parse(await fetchText(url, opts)) as T;
 }
 
-// Graceful-degradation variants: a single dead page in a 543-MP crawl returns null instead of
-// aborting the whole run. Network/parse failures and non-2xx responses resolve to null.
 export async function fetchTextOrNull(url: string, opts?: FetchOpts): Promise<string | null> {
   try {
     return await fetchText(url, opts);
@@ -90,7 +86,6 @@ export async function fetchJsonOrNull<T = unknown>(
   }
 }
 
-// binary-safe fetch (images); caches raw bytes to disk like fetchText caches text
 export async function fetchBuffer(url: string, opts: FetchOpts = {}): Promise<Buffer> {
   const { headers = {}, cache = true } = opts;
   const cp = cache ? await cachePath(url) : null;

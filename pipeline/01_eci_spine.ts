@@ -1,5 +1,3 @@
-// Pipeline steps 1-2: build the canonical 543-PC ECI spine (the join key for everything).
-// Source: Election Commission of India results via opencity.in CKAN (Public Domain).
 import { mkdir, writeFile } from 'node:fs/promises';
 import { fetchText } from './lib/http.ts';
 import { parseCSVObjects } from './lib/csv.ts';

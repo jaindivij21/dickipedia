@@ -1,7 +1,3 @@
-// Pipeline step 21: publish — emit the per-subject canonical files the app reads, from the merged blob.
-// Splits data/canonical/mps.json (the pipeline intermediate) into one file per MP, a slim index carrying
-// precomputed cohort aggregates, and a timestamp manifest. Deterministic + stable-key-ordered so an
-// unchanged MP serialises byte-identically (zero diff). Runs last, after 18_inferences.
 import { writeFile, readFile, mkdir, readdir, rm, stat } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { cohortCaps, type ScoreInput } from './lib/score.ts';

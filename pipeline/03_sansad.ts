@@ -1,5 +1,3 @@
-// Pipeline step 4: Sansad member directory — identity, contact, profile/photo link.
-// Source: Lok Sabha Secretariat (sansad.in). Facts + deeplink only; portrait HOTLINKED (never re-hosted); bio not re-hosted.
 import { mkdir, writeFile } from 'node:fs/promises';
 import { fetchJson } from './lib/http.ts';
 import { normConstituency, normName, normParty } from './lib/text.ts';

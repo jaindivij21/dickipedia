@@ -1,6 +1,3 @@
-// 18th Lok Sabha (2024) constituency reservation status, fixed by the 2008 Delimitation Commission
-// Presidential Order (unchanged across 2009/2014/2019/2024). Source: ECI delimitation, cross-checked
-// against Wikipedia "List of constituencies of the Lok Sabha". 84 SC + 47 ST reserved of 543.
 import { normConstituency, normState } from './text.ts';
 
 const RESERVED_SC: Record<string, string[]> = {

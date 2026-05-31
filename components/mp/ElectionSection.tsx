@@ -1,8 +1,8 @@
 import { Vote, Users, Trophy } from 'lucide-react';
-import type { Mp } from '@/lib/data';
+import { type Mp, MANIFEST } from '@/lib/data';
 import { pct } from '@/lib/format';
 import { DataSection } from '@/components/mp/DataSection';
-import { StatCell, StatGrid } from '@/components/StatCell';
+import { StatCell, StatGrid } from '@/components/ui/StatCell';
 import { Bar } from '@/components/charts';
 
 const inIN = (n: number) => n.toLocaleString('en-IN');
@@ -38,6 +38,7 @@ export function ElectionSection({ mp }: { mp: Mp }) {
       title='How they won the seat'
       sub='2024 general election result, as declared by the Election Commission of India.'
       src='eci'
+      updatedAt={MANIFEST.sources.eci?.as_of}
     >
       <StatGrid>
         <StatCell

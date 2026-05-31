@@ -1,5 +1,3 @@
-// Pipeline gap-close: recover MyNeta winners missing from show_winners (485) via per-constituency pages.
-// Homepage: constituency_id -> name. show_candidates&constituency_id=N -> winner row (criminal/assets/etc.).
 import { readFile, writeFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
 import { fetchText, sleep } from './lib/http.ts';
@@ -18,7 +16,6 @@ const intOf = (s: string): number => {
 };
 
 async function main(): Promise<void> {
-  // 1. homepage constituency_id -> name
   const $h = cheerio.load(await fetchText(HOME));
   const constMap = new Map<string, { id: string; name: string }>();
   $h("a[href*='constituency_id=']").each((_, a) => {
@@ -29,14 +26,12 @@ async function main(): Promise<void> {
   });
   console.log(`Homepage constituencies: ${constMap.size}`);
 
-  // 2. existing coverage
   const spine = JSON.parse(await readFile(new URL('eci_spine.json', RAW), 'utf8')) as any[];
   const myneta = JSON.parse(await readFile(new URL('myneta_2024.json', RAW), 'utf8')) as any[];
   const covered = new Set(myneta.map((m) => m.constituency_norm));
   const missing = spine.filter((s) => !covered.has(s.pc_name_norm));
   console.log(`MyNeta covered: ${covered.size} · missing constituencies: ${missing.length}`);
 
-  // 3. recover each missing via per-constituency winner row
   const newRows: any[] = [];
   const notFound: string[] = [];
   for (const s of missing) {

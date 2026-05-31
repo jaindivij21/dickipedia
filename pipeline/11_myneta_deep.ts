@@ -1,8 +1,3 @@
-// Pipeline step 11: deep MyNeta affidavit per winner. Crosswalk-driven (candidate_id). Reproduces the
-// sworn ECI affidavit VERBATIM — criminal cases split Pending vs Convicted (court / sections / charges-
-// framed read from the affidavit's own columns, never inferred), movable + immovable asset lines,
-// liabilities, sources of income + ITR, and government contracts. Source: ADR / MyNeta (non-commercial,
-// attributed). pending ≠ convicted is preserved in the data, never collapsed.
 import { mkdir, writeFile } from 'node:fs/promises';
 import { readFile } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
@@ -100,9 +95,6 @@ const clean = (s: string): string =>
     .replace(/\s+/g, ' ')
     .trim();
 const yes = (s: string): boolean => /^\s*y(es)?\s*$/i.test(clean(s));
-// MyNeta lists IPC sections inconsistently — commas and spaces separate distinct sections AND a
-// section from its own subsection, e.g. "153, 153A, 505, (1) (B), 505 (2)" means 153, 153A,
-// 505(1)(B), 505(2). Re-attach any parenthetical-only token to the preceding section number.
 const parseSections = (raw: string): string[] => {
   const out: string[] = [];
   for (const tok of raw.split(/[,\s]+/).filter(Boolean)) {
@@ -261,9 +253,6 @@ function contracts($: CheerioAPI): Contract[] {
   return out;
 }
 
-// MyNeta links the SAME candidate across elections in an "Other Elections" table on each profile
-// (declaration body + year, declared assets, declared cases) plus a compare_profile group link.
-// This is MyNeta's own cross-election resolution — the time-series source, no fuzzy matching.
 function otherElections($: CheerioAPI): { prior: PriorAffidavit[]; compare_url: string | null } {
   const table = $('th:contains("Other Elections")').first().closest('table');
   const prior: PriorAffidavit[] = [];

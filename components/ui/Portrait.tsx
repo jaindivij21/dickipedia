@@ -3,7 +3,6 @@ import { useState } from 'react';
 
 const HONORIFIC = /^(Shri|Smt|Dr|Adv|Prof|Kumari|Km|Mr|Mrs|Ms|Md|Haji|Maulana|Col|Gen|Capt)\.?\s+/i;
 
-// first-name + last-name initials, last resort when no portrait loads
 export function nameInitials(name: string): string {
   const words = name.replace(HONORIFIC, '').trim().split(/\s+/).filter(Boolean);
   if (!words.length) return '';
@@ -11,7 +10,6 @@ export function nameInitials(name: string): string {
   return (words[0][0] + last).toUpperCase();
 }
 
-// Renders the portrait; on a missing OR failed-to-load image it falls back to the initials box.
 export function Portrait({
   src,
   name,

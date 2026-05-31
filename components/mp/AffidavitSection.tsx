@@ -1,11 +1,10 @@
 import { ScrollText, Coins, FileSignature } from 'lucide-react';
-import type { Mp } from '@/lib/data';
+import { type Mp, MANIFEST } from '@/lib/data';
 import { rupeeCr } from '@/lib/format';
+import { TOP_ASSETS } from '@/lib/constants';
 import { DataSection } from '@/components/mp/DataSection';
-import { CriminalCasesPanel } from '@/components/mp/CriminalCasesPanel';
+import { CriminalCasesPanel } from '@/components/mp/affidavit/CriminalCasesPanel';
 import { BarList } from '@/components/charts';
-
-const TOP_ASSETS = 8;
 
 export function AffidavitSection({ mp }: { mp: Mp }) {
   const ab = mp.assets_breakdown;
@@ -32,6 +31,7 @@ export function AffidavitSection({ mp }: { mp: Mp }) {
       title='Cases, assets & income, line by line'
       sub='Reproduced from the sworn 2024 ECI affidavit. Self-declared — pending ≠ convicted.'
       src='myneta'
+      updatedAt={MANIFEST.sources.myneta?.as_of}
     >
       {mp.criminal_detail && (
         <CriminalCasesPanel detail={mp.criminal_detail} mynetaSerious={mp.myneta_serious} />

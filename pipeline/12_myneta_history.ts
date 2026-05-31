@@ -1,8 +1,3 @@
-// Pipeline step 12: declared-wealth time-series across an MP's own sworn affidavits. Pure transform
-// (no network) over step 11's parse: MyNeta's "Other Elections" table on each 2024 candidate page
-// links the SAME person across past elections (Lok Sabha + state assembly), so a series spans as far
-// back as MyNeta has data. Each point is a discrete sworn affidavit, tagged by its election. Ministerial
-// asset declarations (not elections) are excluded. Partial coverage is expected and honest.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import type { Provenance } from './lib/types.ts';
 
@@ -54,8 +49,6 @@ interface HistoryRow {
 const load = async <T>(f: string, base: URL): Promise<T> =>
   JSON.parse(await readFile(new URL(f, base), 'utf8')) as T;
 
-// Same-year collision: prefer a Lok Sabha affidavit over assembly/other, then the larger declaration.
-// Deterministic so the canonical JSON is reproducible.
 function preferred(a: AssetYear, b: AssetYear): AssetYear {
   const al = LOK_SABHA.test(a.label),
     bl = LOK_SABHA.test(b.label);

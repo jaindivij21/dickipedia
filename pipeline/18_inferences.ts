@@ -1,8 +1,3 @@
-// Pipeline step 18: computed inferences — cross-source arithmetic over the merged record. Each inference
-// is a NEUTRAL, sourced observation about the DECLARED numbers (never a characterisation of the person;
-// CLAUDE.md invariant 3). Headlines are constant templates filled only with figures; a banned-word guard
-// rejects any accusatory phrasing at build time. Inferences cite the registries they derive from and feed
-// the derived projection only — they are never primary facts. Runs last (needs the merged blob + cohort).
 import { writeFile, readFile } from 'node:fs/promises';
 import { BANNED } from './lib/text.ts';
 
@@ -104,7 +99,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
   const series = (mp.assets_history ?? []).filter((p) => p.total_assets != null);
   const growth = mp.assets_history_pct ?? null;
 
-  // 1. wealth growth across affidavits
   if (series.length >= 2 && growth != null && growth >= GROWTH_NOTABLE) {
     const first = series[0],
       last = series[series.length - 1];
@@ -127,7 +121,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
     });
   }
 
-  // 2. asset growth vs declared income (the salary-vs-wealth check, stated as arithmetic)
   const itr = (mp.income?.itr ?? []).filter((r) => /self/i.test(r.person) && (r.income ?? 0) > 0);
   if (series.length >= 2 && itr.length) {
     const delta =
@@ -153,7 +146,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
     }
   }
 
-  // 3. attendance in the bottom decile
   if (!mp.minister && mp.attendance_pct != null) {
     const pr = pctRank(attSorted, mp.attendance_pct);
     if (pr <= ATT_BOTTOM_PCTILE)
@@ -167,7 +159,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       });
   }
 
-  // 4. zero questions but rising wealth
   if (mp.questions === 0 && !mp.minister && growth != null && growth > 0)
     out.push({
       key: 'silent_but_richer',
@@ -178,7 +169,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       sources: ['prs', 'myneta'],
     });
 
-  // 5. MPLADS underspend
   if (mp.mplads_utilisation_pct != null && mp.mplads_utilisation_pct < MPLADS_UNDERSPENT_NOTABLE)
     out.push({
       key: 'mplads_underspent',
@@ -192,7 +182,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       sources: ['mplads'],
     });
 
-  // 6. NOTA exceeded the victory margin
   if (mp.nota_gt_margin)
     out.push({
       key: 'nota_over_margin',
@@ -203,7 +192,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       sources: ['eci'],
     });
 
-  // 7. pending cases with charges framed
   if ((mp.charges_framed_count ?? 0) > 0)
     out.push({
       key: 'charges_framed',
@@ -218,7 +206,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       sources: ['myneta'],
     });
 
-  // 8. serious IPC sections declared
   const serious = seriousSections(mp);
   if (serious.sections.length)
     out.push({
@@ -230,8 +217,6 @@ function build(mp: Mp, attSorted: number[], growthSorted: number[]): Inference[]
       sources: ['myneta'],
     });
 
-  // 9. no floor interventions on the itemised deep record (debate_titles, not the undercounting headline
-  // debates field) — the on-record analogue of putting oneself on the public accountability record
   const interventions = mp.prs_detail?.debate_titles?.length ?? 0;
   if (!mp.minister && mp.attendance_pct != null && mp.prs_detail != null && interventions === 0) {
     const alsoSilentQ = mp.questions === 0;

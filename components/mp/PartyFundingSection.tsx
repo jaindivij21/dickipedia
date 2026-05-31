@@ -1,11 +1,10 @@
 import { Landmark } from 'lucide-react';
-import type { Party } from '@/lib/data';
+import { type Party, MANIFEST } from '@/lib/data';
 import { rupeeCr } from '@/lib/format';
+import { TOP_DONORS_SHOWN } from '@/lib/constants';
 import { DataSection } from '@/components/mp/DataSection';
-import { StatCell, StatGrid } from '@/components/StatCell';
+import { StatCell, StatGrid } from '@/components/ui/StatCell';
 import { Bar } from '@/components/charts';
-
-const TOP_DONORS_SHOWN = 5;
 
 export function PartyFundingSection({ party }: { party: Party | undefined }) {
   if (!party || party.bond_total <= 0) return null;
@@ -19,6 +18,7 @@ export function PartyFundingSection({ party }: { party: Party | undefined }) {
       title='Who bankrolled the party'
       sub={`Electoral bonds received by ${party.full} between 2019 and 2024 — party-level, not attributable to this MP. The scheme was struck down by the Supreme Court in February 2024.`}
       src='bonds'
+      updatedAt={MANIFEST.sources.bonds?.as_of}
     >
       <StatGrid cols={3}>
         <StatCell label='National bond rank' figure={party.rank != null ? `№${party.rank}` : '—'} />

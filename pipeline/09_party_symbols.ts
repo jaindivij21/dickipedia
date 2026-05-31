@@ -1,8 +1,3 @@
-// Pipeline step 9: party election symbols. Resolves each party's ECI-allotted election symbol to an
-// openly-licensed Wikimedia Commons file, downloads the asset into public/parties/ (open licence permits
-// re-hosting), and writes data/raw/party_symbols.json (keyed by party code) for 10_canonical to merge.
-// The symbol is the legally-allotted election symbol (what disambiguates the two Shiv Senas / two NCPs),
-// not the party logo. Parties without a confident, verified mapping get no symbol (UI shows initials).
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { fetchBuffer, fetchJson, sleep } from './lib/http.ts';
 import { stripDiacritics } from './lib/text.ts';
@@ -17,8 +12,6 @@ const WIKIMEDIA_UA =
   'dickipedia/0.1 (open-source civic data; https://github.com/dickipedia) tsx-pipeline';
 const OPEN_LICENSE = /^(cc0|cc by|public domain|godl)/i;
 
-// party code (as in data/canonical/parties.json) -> Wikimedia Commons election-symbol file.
-// Verified to exist and carry an open licence. Keyed via codeKey() so en-dash/curly-quote variants match.
 const SYMBOL_OVERRIDES: Record<string, string> = {
   BJP: 'File:BJP Election Symbol.svg',
   INC: 'File:Indian National Congress hand logo.svg',

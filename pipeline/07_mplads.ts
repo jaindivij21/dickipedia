@@ -1,6 +1,3 @@
-// Pipeline step 8: MPLADS local-area development funds (allocated / spent / unspent / works).
-// Source: MPLADS eSAKSHI (MoSPI), GODL-India. Pre-login REST behind an F5 WAF — needs browser UA + Referer + cookies.
-// house=2 (Lok Sabha), tenureId=7 (18th LS). Resumable (skips MPs already saved) and throttled.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import axios from 'axios';
@@ -43,7 +40,7 @@ async function main(): Promise<void> {
 
   const states: { STATE_ID: number; STATE_NAME: string }[] = await post('getStateData', {});
   const outFile = new URL('mplads.json', OUT);
-  let out: any[] = existsSync(outFile) ? JSON.parse(await readFile(outFile, 'utf8')) : [];
+  const out: any[] = existsSync(outFile) ? JSON.parse(await readFile(outFile, 'utf8')) : [];
   const done = new Set(out.map((o) => o.mpId));
 
   let si = 0;

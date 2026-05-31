@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { MpBrowser } from '@/components/MpBrowser';
+import { MpBrowser } from '@/components/browse/MpBrowser';
 import { SLIM_MPS, parties, states } from '@/lib/data';
 
 export const metadata = {

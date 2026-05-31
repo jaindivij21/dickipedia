@@ -1,5 +1,3 @@
-// Pipeline steps 11-13: entity resolution + full canonical assembly (all 7 sources) + accountability score.
-// Constituency-anchored join off the ECI 543 spine; fuzzy fallback recovers spelling gaps. Output feeds the DB seed.
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import {
@@ -19,9 +17,6 @@ const load = async <T>(f: string): Promise<T> =>
 const loadOpt = async <T>(f: string): Promise<T | null> =>
   existsSync(new URL(f, RAW)) ? load<T>(f) : null;
 
-// MPLADS join: name-within-state only (no shared id across sources). The primary pass takes a
-// confident token match; the residual pass recovers abbreviated/boundary-split registry names
-// ("C R Patil" ~ "Chandrakant Raghunath Patil") only when one candidate dominates its bucket.
 const MPLADS_NAME_THRESHOLD = 85;
 const MPLADS_GAP_FLOOR = 60;
 const MPLADS_GAP_MIN = 25;
@@ -32,7 +27,6 @@ const mpladsScore = (a: string, b: string): number =>
 const mpladsResidualScore = (a: string, b: string): number =>
   Math.max(mpladsScore(a, b), initialsRatio(a, b));
 
-// per-pc_id resolution map of deep-source ids — the single authority the 11-16 deep scrapers iterate.
 interface CrosswalkRow {
   pc_id: string;
   pc_name: string;
@@ -48,7 +42,6 @@ interface CrosswalkRow {
   bonds: { matched: boolean; party: string | null };
 }
 
-// best fuzzy match of name within a candidate list
 function pick<T>(
   name: string,
   cands: T[],
@@ -90,7 +83,6 @@ async function main(): Promise<void> {
     >;
   }>('party_symbols.json');
 
-  // indexes
   const byKey = <T extends { state?: string; constituency_norm: string }>(rows: T[]) => {
     const sc = new Map<string, T[]>(),
       c = new Map<string, T[]>(),
@@ -125,7 +117,6 @@ async function main(): Promise<void> {
   const mpladsBucket = (state: string): any[] =>
     mpladsByState.get(normState(state)) ?? mpladsByLooseState.get(looseState(state)) ?? [];
 
-  // resolve a state+constituency source (PRS/Sansad), name-confirm
   const resolveSC = <T extends { state?: string; constituency_norm: string; name?: string }>(
     s: EciSpineRow,
     idx: { sc: Map<string, T[]>; c: Map<string, T[]>; lc: Map<string, T[]> },
@@ -133,7 +124,6 @@ async function main(): Promise<void> {
     let cands = idx.sc.get(`${normState(s.eci_state)}|${s.pc_name_norm}`) ?? [];
     if (!cands.length) cands = idx.c.get(s.pc_name_norm) ?? [];
     if (!cands.length) {
-      // fuzzy over constituency-only
       for (const [cn, rows] of idx.c)
         if (tokenSortRatio(cn, s.pc_name_norm) >= CONST_FUZZY) {
           cands = rows;
@@ -141,7 +131,6 @@ async function main(): Promise<void> {
         }
     }
     if (!cands.length) {
-      // loose-constituency fallback: UT names differ by "&"/"AND"/"THE" tokens (see looseConstituency)
       const lq = looseConstituency(s.pc_name_norm);
       cands = idx.lc.get(lq) ?? [];
       if (!cands.length)
@@ -154,7 +143,6 @@ async function main(): Promise<void> {
     if (!cands.length) return null;
     return pick(s.winner_name, cands, (r) => r.name || '', 0).row ?? cands[0];
   };
-  // resolve a constituency-only source (MyNeta), fuzzy fallback
   const resolveC = <T extends { constituency_norm: string; name?: string }>(
     s: EciSpineRow,
     idx: { c: Map<string, T[]> },
@@ -204,9 +192,6 @@ async function main(): Promise<void> {
     }
   >();
 
-  // MPLADS assignment (two-pass, mutually exclusive across MPs). Done up-front so both the canonical
-  // record and the crosswalk share one result. Pass 1 takes a confident token match; pass 2 recovers
-  // abbreviated/boundary-split registry names only when one unclaimed candidate dominates its bucket.
   const mpName = (s: EciSpineRow): string =>
     (resolveSC(s, sanIdx) as { name?: string } | null)?.name ||
     (resolveSC(s, prsIdx) as PrsRow | null)?.name ||
@@ -250,7 +235,6 @@ async function main(): Promise<void> {
     const w = resolveC(s, wIdx) as any;
     const mpDisplayName = san?.name || pr?.name || s.winner_name;
     const mplRow = mpladsByPcId.get(s.pc_id) ?? null;
-    // party funding: fuzzy full-name
     const bond = pick(s.winner_party_full, bondsDoc.parties, (p) => p.party_full || '', 80)
       .row as any;
 
@@ -261,13 +245,8 @@ async function main(): Promise<void> {
     if (mplRow) cov.mplads++;
     if (bond) cov.bonds++;
 
-    // accountability_score is computed in 17_merge.ts (pipeline/lib/score.ts), where the integrity
-    // tiers and wealth-growth inputs are folded in; left null here in the base canonical.
     const minister = pr?.minister ?? false;
 
-    // portrait: only validated, reliably-served hosts (PRS mptrack -> MyNeta -> party sites). All
-    // photos.json URLs are HEAD-checked live. sansad's image host is unreachable, so it is excluded;
-    // an MP with no live source resolves to null and the UI falls back to initials (last resort).
     const fb = photos?.by_pc_id?.[s.pc_id] ?? {};
     const photoUrl = fb.prs || fb.myneta || fb.inc || fb.bjp || null;
     const photoSource = fb.prs
@@ -281,7 +260,6 @@ async function main(): Promise<void> {
             : null;
     photoCov[photoSource ?? 'none']++;
 
-    // party rollup
     const pcode = s.winner_party;
     if (!partySeen.has(pcode)) {
       const sym = partySymbols?.symbols?.[pcode];
@@ -309,7 +287,6 @@ async function main(): Promise<void> {
       mp_name: mpDisplayName,
       party: s.winner_party,
       party_full: s.winner_party_full,
-      // identity (Sansad)
       mpsno: san?.mpsno ?? null,
       gender: san?.gender ?? pr?.gender ?? null,
       age: san?.age ?? pr?.age ?? null,
@@ -322,7 +299,6 @@ async function main(): Promise<void> {
       photo_hotlink: photoUrl,
       photo_source: photoSource,
       profile_url: san?.profile_url ?? null,
-      // mandate (ECI)
       margin_votes: s.margin_votes,
       winner_vote_share: s.winner_vote_share,
       runner_up_name: s.runner_up_name,
@@ -330,36 +306,29 @@ async function main(): Promise<void> {
       num_candidates: s.num_candidates,
       nota_votes: s.nota_votes,
       nota_gt_margin: s.nota_gt_margin,
-      // work (PRS)
       minister,
       attendance_pct: pr?.attendance_pct ?? null,
       debates: pr?.debates ?? null,
       questions: pr?.questions ?? null,
       pmbs: pr?.pmbs ?? null,
       questions_by_ministry: pr?.questions_by_ministry ?? {},
-      // affidavit (MyNeta)
       criminal_cases: mn?.criminal_cases ?? null,
       total_assets: mn?.total_assets ?? null,
       total_liabilities: mn?.total_liabilities ?? null,
-      // wealth growth (MyNeta recontest)
       assets_2024: w?.assets_2024 ?? null,
       assets_2019: w?.assets_2019 ?? null,
       wealth_pct_increase: w?.pct_increase ?? null,
-      // MPLADS
       mplads_allocated: mplRow?.allocated ?? null,
       mplads_expenditure: mplRow?.expenditure ?? null,
       mplads_unspent: mplRow?.unspent ?? null,
       mplads_utilisation_pct: mplRow?.utilisation_pct ?? null,
       mplads_works_completed: mplRow?.works_completed ?? null,
       mplads_works_recommended: mplRow?.works_recommended ?? null,
-      // party funding (party-level)
       party_bond_total: bond?.bond_total ?? null,
-      // score — assigned in 17_merge.ts
       accountability_score: null,
     };
   });
 
-  // crosswalk: re-resolve the deep-source ids per pc_id so steps 11-16 iterate ids, never re-fuzzy-match
   const crosswalk: CrosswalkRow[] = spine.map((s) => {
     const pr = resolveSC(s, prsIdx) as PrsRow | null;
     const san = resolveSC(s, sanIdx) as any;

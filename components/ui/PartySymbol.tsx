@@ -4,8 +4,6 @@ const MAX_ABBREV = 3;
 const MIN_FONT = 7;
 const FONT_RATIO = 0.34;
 
-// Election-symbol-less parties fall back to a mono abbreviation box: the code itself when it is
-// already an abbreviation (BJP, JD(U), IND), else the initials of the significant full-name words.
 function abbreviate(code: string, full?: string): string {
   if (ABBREV_RE.test(code)) return code;
   const words = (full || code)
