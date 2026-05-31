@@ -28,6 +28,7 @@
     "merge": "tsx pipeline/17_merge.ts",
     "inferences": "tsx pipeline/18_inferences.ts",
     "publish": "tsx pipeline/21_publish.ts",
+    "ingest": "tsx pipeline/ingest.ts",
     "rebuild": "npm run canonical && npm run merge && npm run inferences && npm run publish",
     "assert:canonical": "tsx pipeline/assert_canonical.ts",
     "dev": "next dev",

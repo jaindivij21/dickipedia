@@ -35,62 +35,11 @@ jobs:
           key: httpcache-semiannual-${{ github.run_id }}
           restore-keys: httpcache-semiannual-
 
-      # All source steps tolerate failure (throttled / WAF-guarded crawls). The trailing rebuild +
+      # The engine runs every source (in dependency-safe order) and tolerates per-source failure
+      # internally — throttled / WAF-guarded crawls don't sink the others. The trailing rebuild +
       # validate is the only hard gate, so a partial refresh still commits whatever succeeded.
-      - name: ECI spine
-        run: npm run eci
-        continue-on-error: true
-      - name: Sansad roster
-        run: npm run sansad
-        continue-on-error: true
-      - name: MyNeta index
-        run: npm run myneta
-        continue-on-error: true
-      - name: MyNeta gap-fill
-        run: npm run myneta_gap
-        continue-on-error: true
-      - name: MyNeta wealth
-        run: npm run wealth
-        continue-on-error: true
-      - name: Electoral bonds
-        run: npm run bonds
-        continue-on-error: true
-      - name: MPLADS
-        run: npm run mplads
-        continue-on-error: true
-      - name: Party symbols
-        run: npm run party_symbols
-        continue-on-error: true
-      - name: Photos (liveness)
-        run: npm run photos
-        continue-on-error: true
-      - name: MyNeta deep affidavits
-        run: npm run myneta_deep
-        continue-on-error: true
-      - name: MyNeta history
-        run: npm run myneta_history
-        continue-on-error: true
-      - name: MyNeta serious flag
-        run: npm run myneta_serious
-        continue-on-error: true
-      - name: Sansad deep (contact/committees)
-        run: npm run sansad_api
-        continue-on-error: true
-      - name: Wikipedia bios
-        run: npm run wikipedia
-        continue-on-error: true
-      - name: Party contact gap-fill
-        run: npm run party_contact
-        continue-on-error: true
-      - name: PRS activity
-        run: npm run prs
-        continue-on-error: true
-      - name: PRS deep (mptrack)
-        run: npm run prs_mptrack
-        continue-on-error: true
-      - name: Latest news
-        run: npm run latest_news
-        continue-on-error: true
+      - name: Ingest all sources
+        run: npm run ingest -- --cadence semiannual
 
       - name: Rebuild canonical
         run: npm run rebuild

@@ -35,16 +35,10 @@ jobs:
           key: httpcache-monthly-${{ github.run_id }}
           restore-keys: httpcache-monthly-
 
-      # Source steps tolerate failure so one rate-limited feed never sinks the others' fresh data.
-      - name: PRS activity
-        run: npm run prs
-        continue-on-error: true
-      - name: PRS deep (mptrack)
-        run: npm run prs_mptrack
-        continue-on-error: true
-      - name: Latest news
-        run: npm run latest_news
-        continue-on-error: true
+      # The engine runs each monthly source (PRS + news) and tolerates per-source failure
+      # internally, so one rate-limited feed never sinks the others' fresh data.
+      - name: Ingest monthly sources
+        run: npm run ingest -- --cadence monthly
 
       # The local recompute is the hard gate: a broken scrape must not be committed.
       - name: Rebuild canonical
