@@ -19,7 +19,7 @@ export function StatCell({
   icon?: ReactNode;
 }) {
   return (
-    <div className='border-border bg-surface hover:border-ink/25 hover:bg-surface-2 flex flex-col gap-2 rounded-lg border p-5 transition-colors motion-reduce:transition-none'>
+    <div className='border-border bg-surface hover:border-ink/25 hover:bg-surface-2 flex flex-col gap-2 rounded-lg border p-4 transition-colors motion-reduce:transition-none sm:p-5'>
       <span className='text-ink-soft flex items-center gap-1.5 font-mono text-[10px] tracking-wide uppercase'>
         {icon && <span style={token ? { color: token } : undefined}>{icon}</span>}
         {label}

@@ -75,13 +75,14 @@ export function WealthTimeSeries({
           p.label && !/lok\s*sabha|loksabha/i.test(p.label)
             ? p.label.replace(/\s*\d{4}.*$/, '').trim()
             : null;
+        const anchor = i === 0 ? 'start' : i === pts.length - 1 ? 'end' : 'middle';
         return (
           <g key={p.year}>
             <circle cx={p.px} cy={p.py} r={4} fill='var(--color-ink)' />
             <text
               x={p.px}
               y={p.py - 12}
-              textAnchor='middle'
+              textAnchor={anchor}
               fontFamily='var(--font-serif)'
               fontSize={13}
               fontWeight={700}
@@ -92,7 +93,7 @@ export function WealthTimeSeries({
             <text
               x={p.px}
               y={baseY + 18}
-              textAnchor='middle'
+              textAnchor={anchor}
               fontFamily='var(--font-mono)'
               fontSize={11}
               fill='var(--color-ink-soft)'
@@ -103,7 +104,7 @@ export function WealthTimeSeries({
               <text
                 x={p.px}
                 y={baseY + 31}
-                textAnchor='middle'
+                textAnchor={anchor}
                 fontFamily='var(--font-mono)'
                 fontSize={9}
                 fill='var(--color-ink-soft)'

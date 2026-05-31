@@ -19,10 +19,10 @@ function MandateRow({
   color: string;
 }) {
   return (
-    <div className='flex items-center gap-3'>
-      <span className='text-ink-soft w-28 shrink-0 font-mono text-[11px]'>{label}</span>
+    <div className='flex items-center gap-2 sm:gap-3'>
+      <span className='text-ink-soft w-24 shrink-0 font-mono text-[11px] sm:w-28'>{label}</span>
       <Bar value={value} max={max} color={color} />
-      <span className='w-24 shrink-0 text-right font-mono text-[11px] font-bold'>
+      <span className='w-20 shrink-0 text-right font-mono text-[11px] font-bold sm:w-24'>
         {inIN(value)}
       </span>
     </div>

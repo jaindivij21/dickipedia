@@ -15,7 +15,7 @@ export function InfoRow({
         {icon}
         {label}
       </span>
-      <span className='text-right font-medium text-balance'>{value}</span>
+      <span className='min-w-0 text-right font-medium text-balance break-words'>{value}</span>
     </div>
   );
 }

@@ -14,7 +14,7 @@ export function MpHeader({ mp }: { mp: Mp }) {
   const cases = mp.criminal_cases ?? 0;
   return (
     <header>
-      <nav className='text-ink-soft flex items-center gap-1.5 py-4 font-mono text-[11px]'>
+      <nav className='text-ink-soft flex flex-wrap items-center gap-1.5 py-4 font-mono text-[11px]'>
         <Link
           href='/mp'
           className='hover:text-accent focus-visible:ring-ink/40 rounded-sm transition-colors focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none'

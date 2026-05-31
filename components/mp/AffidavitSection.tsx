@@ -56,7 +56,7 @@ export function AffidavitSection({ mp }: { mp: Mp }) {
               </p>
             </div>
           </div>
-          {assetItems.length > 0 && <BarList items={assetItems} labelClass='w-48' />}
+          {assetItems.length > 0 && <BarList items={assetItems} labelClass='w-24 sm:w-48' />}
         </div>
       )}
 
@@ -70,10 +70,10 @@ export function AffidavitSection({ mp }: { mp: Mp }) {
               {income.sources.map((s, i) => (
                 <li
                   key={i}
-                  className='border-border flex items-baseline justify-between border-b py-2 text-sm'
+                  className='border-border flex flex-wrap items-baseline justify-between gap-x-3 gap-y-0.5 border-b py-2 text-sm'
                 >
-                  <span className='text-ink-soft font-mono text-xs'>{s.person}</span>
-                  <span className='font-medium'>{s.source}</span>
+                  <span className='text-ink-soft shrink-0 font-mono text-xs'>{s.person}</span>
+                  <span className='min-w-0 font-medium break-words'>{s.source}</span>
                 </li>
               ))}
             </ul>

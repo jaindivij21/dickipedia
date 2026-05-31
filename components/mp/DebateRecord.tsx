@@ -19,7 +19,7 @@ export function DebateRecord({ mp }: { mp: Mp }) {
   return (
     <div className='border-border bg-surface-2 mt-4 rounded-lg border p-5'>
       <p className='eyebrow mb-3'>How they used the floor · interventions by type</p>
-      <BarList items={items} labelClass='w-52' />
+      <BarList items={items} labelClass='w-28 sm:w-52' />
       <p className='text-ink-soft mt-3 text-xs'>
         {titles.length} recorded interventions across {byType.size} type
         {byType.size === 1 ? '' : 's'}, as logged by PRS.

@@ -14,8 +14,8 @@ export function SourcesSection() {
               rel='noopener noreferrer'
               className='border-border hover:border-ink/25 hover:bg-surface-2 group focus-visible:ring-ink/40 flex items-center justify-between gap-2 rounded-lg border px-4 py-3 transition-colors focus-visible:ring-2 focus-visible:outline-none motion-reduce:transition-none'
             >
-              <span className='flex items-center gap-2 font-mono text-[11px]'>
-                <ExternalLink size={12} className='text-ink-soft' /> {SRC[key].label}
+              <span className='flex min-w-0 items-center gap-2 font-mono text-[11px] break-words'>
+                <ExternalLink size={12} className='text-ink-soft shrink-0' /> {SRC[key].label}
               </span>
               <ArrowUpRight
                 size={14}

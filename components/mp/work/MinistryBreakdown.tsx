@@ -13,8 +13,8 @@ export function MinistryBreakdown({
       <p className='eyebrow mb-3'>What they ask about · questions by ministry</p>
       <div className='flex flex-col gap-2'>
         {ministries.map(([name, count]) => (
-          <div key={name} className='flex items-center gap-3'>
-            <span className='text-ink-soft w-44 shrink-0 truncate font-mono text-[11px]'>
+          <div key={name} className='flex items-center gap-2 sm:gap-3'>
+            <span className='text-ink-soft w-28 shrink-0 truncate font-mono text-[11px] sm:w-44'>
               {name}
             </span>
             <Bar value={count} max={max} color='var(--color-ink)' />
