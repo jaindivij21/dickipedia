@@ -398,6 +398,11 @@
     },
     "debate_titles": [
       {
+        "date": "24.07.2026",
+        "title": "Regarding need for special Central Assistance forcomprehensive development of Palghar district, Maharashtra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "02.04.2026",
         "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
         "type": "Special Mention"
@@ -514,13 +519,13 @@
       },
       {
         "date": "10.03.2025",
-        "title": "Regarding need to set up coaching centres for NEET and JEE in Eklavya Model Residential Schools and Tribal Schools in the country",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "The Bills of Lading Bill, 2024",
+        "type": "Government Bills"
       },
       {
         "date": "10.03.2025",
-        "title": "The Bills of Lading Bill, 2024",
-        "type": "Government Bills"
+        "title": "Regarding need to set up coaching centres for NEET and JEE in Eklavya Model Residential Schools and Tribal Schools in the country",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "11.02.2025",
@@ -604,9 +609,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 30.8,
-      "value": 41
+      "national_avg": 21,
+      "state_avg": 31.4,
+      "value": 42
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -614,9 +619,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 160,
-      "value": 247
+      "national_avg": 111,
+      "state_avg": 171,
+      "value": 265
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/hemant-vishnu-savara"
   },

@@ -413,10 +413,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
+      "state_avg": 80,
       "value": 92
     },
     "debate_titles": [
+      {
+        "date": "27.07.2026",
+        "title": "Regarding need to include Chikkaballapur district in Karnataka under Integrated Development of Horticulture (MIDH) Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need for financial and technical support to expedite completion of Bengaluru Suburban Railway Project in Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "27.03.2026",
         "title": "Concern Regarding Irrigation and Drinking Water Scarcity in Bayaluseeme Region of Karnataka.",
@@ -454,13 +464,13 @@
       },
       {
         "date": "04.12.2025",
-        "title": "Regarding need to impress upon the State Government of Karnataka to expedite completion of Bangalore Suburban Railway Transport System",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Demand for Fair Wages and Social Security for Anganwadi and Midday-Meal Workers in Karnataka",
+        "type": "Special Mention"
       },
       {
         "date": "04.12.2025",
-        "title": "Demand for Fair Wages and Social Security for Anganwadi and Midday-Meal Workers in Karnataka",
-        "type": "Special Mention"
+        "title": "Regarding need to impress upon the State Government of Karnataka to expedite completion of Bangalore Suburban Railway Transport System",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "18.08.2025",
@@ -584,9 +594,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11,
-      "value": 33
+      "national_avg": 21,
+      "state_avg": 11.4,
+      "value": 35
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -594,9 +604,9 @@
       "value": 2
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 81,
-      "value": 195
+      "national_avg": 111,
+      "state_avg": 87,
+      "value": 209
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-sudhakar"
   },

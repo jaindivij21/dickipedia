@@ -425,10 +425,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 67
+      "state_avg": 80,
+      "value": 69
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "09.12.2025",
         "title": "Discussion on Election Reforms",
@@ -456,9 +461,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 5
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 6
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -466,9 +471,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 87
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 96
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/dayanidhi-maran"
   },

@@ -422,7 +422,7 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
+      "state_avg": 80,
       "value": 83
     },
     "debate_titles": [
@@ -793,11 +793,6 @@
       },
       {
         "date": "06.08.2024",
-        "title": "Request to govt stop the mahi banswara atomic power plant project",
-        "type": "Special Mention"
-      },
-      {
-        "date": "06.08.2024",
         "title": "Request to govt to allocate 3 lakh crore for healthcare an establish an indian medical service like several all-india services",
         "type": "Special Mention"
       },
@@ -819,6 +814,11 @@
       {
         "date": "06.08.2024",
         "title": "Request to govt to form a committee on animal birth control",
+        "type": "Special Mention"
+      },
+      {
+        "date": "06.08.2024",
+        "title": "Request to govt stop the mahi banswara atomic power plant project",
         "type": "Special Mention"
       },
       {
@@ -1363,8 +1363,8 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
+      "national_avg": 21,
+      "state_avg": 25.1,
       "value": 187
     },
     "pmbs": {
@@ -1373,9 +1373,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 203
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 212
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/navaskani-k"
   },

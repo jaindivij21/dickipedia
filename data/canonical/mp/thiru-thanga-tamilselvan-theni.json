@@ -621,10 +621,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 80
+      "state_avg": 80,
+      "value": 81
     },
     "debate_titles": [
+      {
+        "date": "30.07.2026",
+        "title": "Regarding problems faced by traditional forest dwellers due to eviction process in Srivilliputhur-Megamalai Tiger Reserve in Theni, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.02.2026",
         "title": "Regarding need to review the decision to hand over the construction work on bypass projects of Usilampatti-TheniBodinayakkanur section of NH-85 in Tamil Nadu to NHAI",
@@ -697,13 +702,8 @@
       },
       {
         "date": "19.03.2025",
-        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
+        "title": "Urge upon the union govt. to bring a law to tackle the problem of infected dog menace",
         "type": "Special Mention"
-      },
-      {
-        "date": "19.03.2025",
-        "title": "Regarding need to expedite completion of laying of new broad gauge railway line between Dindigul and Sabarimalai in Theni Parliamentary Constituency, Tamil Nadu",
-        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "19.03.2025",
@@ -712,12 +712,17 @@
       },
       {
         "date": "19.03.2025",
-        "title": "Request for Government Action to Tackle Youth Unemployment",
+        "title": "Regarding need to expedite completion of laying of new broad gauge railway line between Dindigul and Sabarimalai in Theni Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for Immediate Improvement of BSNL Network Services in Attur Taluk and Other Affected Areas Across the Country",
         "type": "Special Mention"
       },
       {
         "date": "19.03.2025",
-        "title": "Urge upon the union govt. to bring a law to tackle the problem of infected dog menace",
+        "title": "Request for Government Action to Tackle Youth Unemployment",
         "type": "Special Mention"
       },
       {
@@ -757,9 +762,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 26
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 27
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -767,9 +772,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 86
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 98
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/thanga-tamil-selvan"
   },

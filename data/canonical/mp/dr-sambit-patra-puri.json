@@ -366,10 +366,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
+      "state_avg": 84,
       "value": 90
     },
     "debate_titles": [
+      {
+        "date": "30.07.2026",
+        "title": "The Prevention of Insults to National Honour (Amendment) Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "30.03.2026",
         "title": "Discussion on efforts to free the country from left-wing extremism",
@@ -447,9 +452,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 15
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 16
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -457,9 +462,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
-      "value": 69
+      "national_avg": 111,
+      "state_avg": 129,
+      "value": 78
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/sambit-patra"
   },

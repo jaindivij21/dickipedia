@@ -135,6 +135,11 @@
     },
     "debate_titles": [
       {
+        "date": "28.07.2026",
+        "title": "Regarding need to provide a special package to compensate loss of life and property due to heavy rains and cloud bursts in Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "27.03.2026",
         "title": "Issue Related to Rising Number of Ghost Villages Due to Migration in Uttarakhand",
         "type": "Special Mention"
@@ -196,13 +201,13 @@
       },
       {
         "date": "02.08.2024",
-        "title": "Regarding Human - Wild Animal Conflict in Uttarakhand",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Regarding request to run the train from Ramnagar, Kathgodam to Bandra three days in a week",
+        "type": "Special Mention"
       },
       {
         "date": "02.08.2024",
-        "title": "Regarding request to run the train from Ramnagar, Kathgodam to Bandra three days in a week",
-        "type": "Special Mention"
+        "title": "Regarding Human - Wild Animal Conflict in Uttarakhand",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "31.07.2024",
@@ -236,9 +241,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 9,
-      "value": 20
+      "national_avg": 21,
+      "state_avg": 9.3,
+      "value": 21
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -246,9 +251,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 79,
-      "value": 60
+      "national_avg": 111,
+      "state_avg": 86,
+      "value": 62
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/ajay-bhatt"
   },

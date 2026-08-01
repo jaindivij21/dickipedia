@@ -336,10 +336,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 96
+      "state_avg": 80,
+      "value": 97
     },
     "debate_titles": [
+      {
+        "date": "20.07.2026",
+        "title": "Regarding need to undertake a scientific study on diseases affecting arecanut in coastal and Malnad Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "30.03.2026",
         "title": "Regarding need for early identification and effective support system to address neurodevelopmental disorders among children in the country",
@@ -437,6 +442,11 @@
       },
       {
         "date": "19.03.2025",
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
+      },
+      {
+        "date": "19.03.2025",
         "title": "Regarding rolled back the decision of Karnataka government for approving a 4 per cent reservation for Muslim contractors in government tenders",
         "type": "Special Mention"
       },
@@ -444,11 +454,6 @@
         "date": "19.03.2025",
         "title": "Request to the Government to Abolish Religious-Based Reservation in Contracts and Protect OBC Rights",
         "type": "Special Mention"
-      },
-      {
-        "date": "19.03.2025",
-        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
-        "type": "Budget (General)"
       },
       {
         "date": "17.03.2025",
@@ -512,9 +517,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11,
-      "value": 34
+      "national_avg": 21,
+      "state_avg": 11.4,
+      "value": 35
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -522,9 +527,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 81,
-      "value": 181
+      "national_avg": 111,
+      "state_avg": 87,
+      "value": 199
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/captain-brijesh-chowta"
   },

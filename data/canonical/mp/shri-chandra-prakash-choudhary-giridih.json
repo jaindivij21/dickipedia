@@ -511,10 +511,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 86,
+      "state_avg": 87,
       "value": 88
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "Regarding need to address arbitrary Administrative suspension of licensed Insurance Surveyors in Public Sector General Insurance Companies",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.04.2026",
         "title": "Regarding establishment of 100-Bedded ESIC hospital in Bokaro district, Jharkhand",
@@ -572,13 +577,13 @@
       },
       {
         "date": "02.04.2025",
-        "title": "Regarding alleged coal-pilferage in Jharkhand",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
+        "type": "Government Bills"
       },
       {
         "date": "02.04.2025",
-        "title": "(i) The Waqf (Amendment) Bill, 2025 and (ii) The Mussalman Wakf (Repeal) Bill, 2024",
-        "type": "Government Bills"
+        "title": "Regarding alleged coal-pilferage in Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "27.03.2025",
@@ -622,9 +627,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.8,
-      "value": 21
+      "national_avg": 21,
+      "state_avg": 24.6,
+      "value": 22
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -632,9 +637,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 126,
-      "value": 114
+      "national_avg": 111,
+      "state_avg": 135,
+      "value": 115
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/chandra-prakash-choudhary"
   },

@@ -392,9 +392,19 @@
       "national_avg": 85,
       "sessions": [],
       "state_avg": 96,
-      "value": 96
+      "value": 97
     },
     "debate_titles": [
+      {
+        "date": "27.07.2026",
+        "title": "Regarding need to review rising trend of Caesarian Deliveries in hospitals",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2026",
+        "title": "Regarding need to increase the maximum distance limit for Monthly Season Ticket (MST) from 150 km to 250 km in Indian Railways",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.04.2026",
         "title": "Demand for Train Stoppages and Improved Rail Connectivity in Dausa District.",
@@ -512,9 +522,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 31.9,
-      "value": 23
+      "national_avg": 21,
+      "state_avg": 32.9,
+      "value": 25
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -522,9 +532,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 138,
-      "value": 147
+      "national_avg": 111,
+      "state_avg": 149,
+      "value": 157
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/murari-lal-meena"
   },

@@ -354,10 +354,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
-      "value": 89
+      "state_avg": 84,
+      "value": 90
     },
     "debate_titles": [
+      {
+        "date": "24.07.2026",
+        "title": "Regarding steps undertaken to promote green cities and towns aligning with Sustainable Development Goals",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.03.2026",
         "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
@@ -420,9 +425,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 12
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 13
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -430,8 +435,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
+      "national_avg": 111,
+      "state_avg": 129,
       "value": 19
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/rabindra-narayan-behera"

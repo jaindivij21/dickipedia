@@ -978,10 +978,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 86,
+      "state_avg": 87,
       "value": 84
     },
     "debate_titles": [
+      {
+        "date": "27.07.2026",
+        "title": "Regarding extension of Dhanbad-Delhi train upto Katra",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need to construct road overbridge/underpass on level crossings in Dhanbad, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.04.2026",
         "title": "Demand for Justice and Employment for Displaced People of Bokaro Steel Plant Project",
@@ -1124,9 +1134,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.8,
-      "value": 28
+      "national_avg": 21,
+      "state_avg": 24.6,
+      "value": 30
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -1134,9 +1144,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 126,
-      "value": 181
+      "national_avg": 111,
+      "state_avg": 135,
+      "value": 197
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/dulu-mahato"
   },

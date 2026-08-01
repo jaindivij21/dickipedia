@@ -389,10 +389,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
-      "value": 84
+      "state_avg": 84,
+      "value": 85
     },
     "debate_titles": [
+      {
+        "date": "23.07.2026",
+        "title": "Regarding need for decentralized Bio-CNG units at Pilgrimage hubs under SATAT to extract green energy from Floral Waste",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -445,9 +450,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 10
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 11
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -455,9 +460,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
-      "value": 164
+      "national_avg": 111,
+      "state_avg": 129,
+      "value": 175
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/aparajita-sarangi"
   },

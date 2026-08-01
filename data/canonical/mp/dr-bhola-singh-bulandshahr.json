@@ -378,6 +378,11 @@
     },
     "debate_titles": [
       {
+        "date": "29.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
         "date": "16.03.2026",
         "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
         "type": "Demands for Grants"
@@ -439,9 +444,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 21.7,
-      "value": 12
+      "national_avg": 21,
+      "state_avg": 22.3,
+      "value": 13
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -449,9 +454,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 76,
-      "value": 197
+      "national_avg": 111,
+      "state_avg": 83,
+      "value": 211
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhola-singh"
   },

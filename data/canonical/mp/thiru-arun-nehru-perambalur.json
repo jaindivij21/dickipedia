@@ -300,10 +300,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 83
+      "state_avg": 80,
+      "value": 84
     },
     "debate_titles": [
+      {
+        "date": "23.07.2026",
+        "title": "Regarding need to sanction and expedite the Detailed Project Repot for Tiruchirapalli Metro in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "23.03.2026",
         "title": "The Finance Bill, 2026",
@@ -456,9 +461,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 30
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 31
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -466,9 +471,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 71
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 80
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/arun-nehru"
   },

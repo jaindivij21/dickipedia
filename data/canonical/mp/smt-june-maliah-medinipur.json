@@ -384,10 +384,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 67,
-      "value": 76
+      "state_avg": 68,
+      "value": 78
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding increasing incidents of cloud bursts and other extreme weather events in Himalayan and other Hilly regions",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need to take comprehensive measures for holistic development of schools in the Santhal areas of Paschim Medinipur, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -525,9 +535,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11.9,
-      "value": 27
+      "national_avg": 21,
+      "state_avg": 12.3,
+      "value": 29
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -535,9 +545,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 59,
-      "value": 41
+      "national_avg": 111,
+      "state_avg": 62,
+      "value": 44
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/june-maliah"
   },

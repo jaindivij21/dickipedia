@@ -398,10 +398,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 89
+      "state_avg": 80,
+      "value": 90
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "Regarding need to include Cuddalore city in Tamil Nadu under Smart Cities Mission",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.03.2026",
         "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
@@ -429,13 +434,13 @@
       },
       {
         "date": "04.12.2025",
-        "title": "Request for Vande Bharat Train Stop at Virudhachalam Junction in Cuddalore District",
-        "type": "Special Mention"
+        "title": "The Health Security Se National Security Cess Bill, 2025",
+        "type": "Government Bills"
       },
       {
         "date": "04.12.2025",
-        "title": "The Health Security Se National Security Cess Bill, 2025",
-        "type": "Government Bills"
+        "title": "Request for Vande Bharat Train Stop at Virudhachalam Junction in Cuddalore District",
+        "type": "Special Mention"
       },
       {
         "date": "03.04.2025",
@@ -494,9 +499,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 18
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 19
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -504,9 +509,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 123
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 132
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/m-k-vishnu-prasad"
   },

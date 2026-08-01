@@ -352,9 +352,19 @@
       "national_avg": 85,
       "sessions": [],
       "state_avg": 94,
-      "value": 88
+      "value": 89
     },
     "debate_titles": [
+      {
+        "date": "30.07.2026",
+        "title": "Regarding need to improve healthcare facilities for tribal people living in remote and far-flung areas of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.07.2026",
+        "title": "Regarding need to check the increasing incidents of food adulteration in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "01.04.2026",
         "title": "Regarding need to improve the primary and secondary level school education in Bharuch Parliamentary Constituency, Gujarat",
@@ -477,9 +487,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 10.8,
-      "value": 24
+      "national_avg": 21,
+      "state_avg": 11.2,
+      "value": 26
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -487,9 +497,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 109,
-      "value": 41
+      "national_avg": 111,
+      "state_avg": 119,
+      "value": 49
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/mansukhbhai-d-vasava"
   },

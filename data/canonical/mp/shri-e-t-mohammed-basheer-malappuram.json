@@ -369,10 +369,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
+      "state_avg": 80,
       "value": 90
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -380,13 +385,13 @@
       },
       {
         "date": "11.03.2026",
-        "title": "Regarding need to conduct a feasibility study for establishment of a 100 bedded Employees' State Insurance (ESI) hospital in Malappuram district, Keral",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
       },
       {
         "date": "11.03.2026",
-        "title": "Resolution regarding Removal of Speaker",
-        "type": "Other"
+        "title": "Regarding need to conduct a feasibility study for establishment of a 100 bedded Employees' State Insurance (ESI) hospital in Malappuram district, Keral",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "12.02.2026",
@@ -405,13 +410,13 @@
       },
       {
         "date": "15.12.2025",
-        "title": "Regarding need to ensure strict adherence to Constitutional Provisions to safeguard the rights of minority community in the country",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
+        "type": "Demands for Grants"
       },
       {
         "date": "15.12.2025",
-        "title": "Supplementary Demands for Grants � First Batch for 2025-26",
-        "type": "Demands for Grants"
+        "title": "Regarding need to ensure strict adherence to Constitutional Provisions to safeguard the rights of minority community in the country",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "08.12.2025",
@@ -575,9 +580,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 32.6,
-      "value": 40
+      "national_avg": 21,
+      "state_avg": 34,
+      "value": 41
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -585,9 +590,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 125,
-      "value": 104
+      "national_avg": 111,
+      "state_avg": 133,
+      "value": 110
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/e-t-mohammed-basheer"
   },

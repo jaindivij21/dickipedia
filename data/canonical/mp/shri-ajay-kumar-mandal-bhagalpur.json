@@ -151,7 +151,7 @@
       }
     ]
   },
-  "inference_count": 4,
+  "inference_count": 3,
   "inferences": [
     {
       "detail": "Attended 25% of sittings, against a house average that runs far higher.",
@@ -193,19 +193,6 @@
       "severity": "notable",
       "sources": [
         "mplads"
-      ]
-    },
-    {
-      "detail": "PRS lists no debate, special mention or other intervention for this member across the 18th Lok Sabha.",
-      "headline": "Left no recorded intervention on the floor of the House",
-      "key": "floor_silent",
-      "numbers": {
-        "interventions": 0,
-        "questions": 32
-      },
-      "severity": "notable",
-      "sources": [
-        "prs"
       ]
     }
   ],
@@ -349,13 +336,19 @@
       "national_avg": 85,
       "sessions": [],
       "state_avg": 89,
-      "value": 41
+      "value": 42
     },
-    "debate_titles": [],
+    "debate_titles": [
+      {
+        "date": "22.07.2026",
+        "title": "Regarding establishment of a Kendriya Vidyalaya in Naugachia, Bihar and early operationalisation of Vikramshila Central University in the State",
+        "type": "LS - Matters under (Rule-377)"
+      }
+    ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 21.8,
-      "value": 0
+      "national_avg": 21,
+      "state_avg": 22.5,
+      "value": 1
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -363,9 +356,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 90,
-      "value": 93
+      "national_avg": 111,
+      "state_avg": 96,
+      "value": 101
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/ajay-kumar-mandal"
   },

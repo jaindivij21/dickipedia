@@ -501,10 +501,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
+      "state_avg": 80,
       "value": 94
     },
     "debate_titles": [
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need to constitute a regulatory body to prevent deepfake videos and to control misuse of Artificial Intelligence in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "30.03.2026",
         "title": "Regarding need to take comprehensive measures to address growing threat of absorption of microplastics in food chain and human body",
@@ -542,9 +547,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11,
-      "value": 7
+      "national_avg": 21,
+      "state_avg": 11.4,
+      "value": 8
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -552,9 +557,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 81,
-      "value": 197
+      "national_avg": 111,
+      "state_avg": 87,
+      "value": 209
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/p-c-mohan"
   },

@@ -372,9 +372,19 @@
       "national_avg": 85,
       "sessions": [],
       "state_avg": 84,
-      "value": 84
+      "value": 85
     },
     "debate_titles": [
+      {
+        "date": "30.07.2026",
+        "title": "Regarding need to provide immediate assistance and relief package for the flood-affected areas of Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need to set up an effective weather forecasting system in hill states of the country to prevent and minimise the loss of life and property caused by cloudburst in these States",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -432,13 +442,13 @@
       },
       {
         "date": "12.08.2025",
-        "title": "Regarding need to restore stoppage of trains at railway stations in Darrang-Udalgiri Parliamentary Constituency, Assam",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "The Indian Ports Bill, 2025",
+        "type": "Government Bills"
       },
       {
         "date": "12.08.2025",
-        "title": "The Indian Ports Bill, 2025",
-        "type": "Government Bills"
+        "title": "Regarding need to restore stoppage of trains at railway stations in Darrang-Udalgiri Parliamentary Constituency, Assam",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "04.08.2025",
@@ -647,9 +657,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 14.4,
-      "value": 54
+      "national_avg": 21,
+      "state_avg": 14.8,
+      "value": 56
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -657,9 +667,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 79,
-      "value": 242
+      "national_avg": 111,
+      "state_avg": 85,
+      "value": 259
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/dilip-saikia"
   },

@@ -461,10 +461,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
-      "value": 96
+      "state_avg": 84,
+      "value": 97
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding need to convert State Highway No. 1 from Khurda to Kalahandi in Odisha to a National Highway and integrate the same with NH57",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need for upgradation of Government Autonomous college, Phulbani, Odisha into a State University",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "27.03.2026",
         "title": "Demand for Early Approval and Construction of Gopalpur�Rairakhol Railway Line",
@@ -572,9 +582,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 21
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 23
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -582,9 +592,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
-      "value": 133
+      "national_avg": 111,
+      "state_avg": 129,
+      "value": 141
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/sukanta-kumar-panigrahi"
   },

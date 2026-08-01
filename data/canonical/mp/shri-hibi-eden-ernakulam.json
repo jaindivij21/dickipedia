@@ -589,10 +589,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 83
+      "state_avg": 80,
+      "value": 84
     },
     "debate_titles": [
+      {
+        "date": "30.07.2026",
+        "title": "Regarding need to review the decision to deposit the Instrument of Acceptance of the WTO Agreement on Fisheries Subsidies and protect the interest of traditional fishermen",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -630,12 +635,7 @@
       },
       {
         "date": "30.07.2025",
-        "title": "Regarding arrest of Nuns in Durg, Chhattisgarh",
-        "type": "Special Mention"
-      },
-      {
-        "date": "30.07.2025",
-        "title": "Demand to waive loans for the flood and landslide victims of Wayanad",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
         "type": "Special Mention"
       },
       {
@@ -645,7 +645,12 @@
       },
       {
         "date": "30.07.2025",
-        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "title": "Demand to waive loans for the flood and landslide victims of Wayanad",
+        "type": "Special Mention"
+      },
+      {
+        "date": "30.07.2025",
+        "title": "Regarding arrest of Nuns in Durg, Chhattisgarh",
         "type": "Special Mention"
       },
       {
@@ -660,13 +665,13 @@
       },
       {
         "date": "01.04.2025",
-        "title": "Regarding hardships faced by fishermen community",
-        "type": "LS - Calling Attention (Rule-197)"
+        "title": "Regarding need to construct underpasses/overbridges on the stretch of National Highway No. 66 from Edappally to Moothakunnam in Kerala",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "01.04.2025",
-        "title": "Regarding need to construct underpasses/overbridges on the stretch of National Highway No. 66 from Edappally to Moothakunnam in Kerala",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Regarding hardships faced by fishermen community",
+        "type": "LS - Calling Attention (Rule-197)"
       },
       {
         "date": "28.03.2025",
@@ -710,23 +715,23 @@
       },
       {
         "date": "10.03.2025",
-        "title": "Request for Minimum Wages and Social Security for ASHA Workers",
+        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
         "type": "Special Mention"
       },
       {
         "date": "10.03.2025",
-        "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "title": "Request for Minimum Wages and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "11.02.2025",
+        "title": "Urgent Request to Stop Offshore Sand Mining to Protect Fishermen and Coastal Ecosystem",
         "type": "Special Mention"
       },
       {
         "date": "11.02.2025",
         "title": "Discussion on The Union Budget � 2025-2026",
         "type": "Budget (General)"
-      },
-      {
-        "date": "11.02.2025",
-        "title": "Urgent Request to Stop Offshore Sand Mining to Protect Fishermen and Coastal Ecosystem",
-        "type": "Special Mention"
       },
       {
         "date": "11.02.2025",
@@ -745,7 +750,7 @@
       },
       {
         "date": "16.12.2024",
-        "title": "Demand for the enhancement of the minimum pension under EPFO",
+        "title": "Demand to take necessary action to inquire into the death of Anna Sebastian and ensure well being of the young professionals in the country",
         "type": "Special Mention"
       },
       {
@@ -755,7 +760,7 @@
       },
       {
         "date": "16.12.2024",
-        "title": "Demand to take necessary action to inquire into the death of Anna Sebastian and ensure well being of the young professionals in the country",
+        "title": "Demand for the enhancement of the minimum pension under EPFO",
         "type": "Special Mention"
       },
       {
@@ -820,9 +825,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 32.6,
-      "value": 45
+      "national_avg": 21,
+      "state_avg": 34,
+      "value": 46
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -830,9 +835,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 125,
-      "value": 108
+      "national_avg": 111,
+      "state_avg": 133,
+      "value": 116
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/hibi-eden"
   },

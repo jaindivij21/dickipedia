@@ -607,10 +607,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
+      "state_avg": 84,
       "value": 99
     },
     "debate_titles": [
+      {
+        "date": "27.07.2026",
+        "title": "Regarding need to include 'Laban/Labana' community of Odisha in the list of Schedule Tribes",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2026",
+        "title": "Regarding need to commemorate the Birth Centenary of freedom fighter Veerangana Parbati Giri at the National level and also release a biopic and a commemorative stamp in her honour",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "27.03.2026",
         "title": "Need for Establishment of Dalkhai Academy for Preservation of Cultural Heritage in Odisha",
@@ -753,9 +763,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 28
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 30
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -763,9 +773,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
-      "value": 148
+      "national_avg": 111,
+      "state_avg": 129,
+      "value": 161
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/pradeep-purohit"
   },

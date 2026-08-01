@@ -415,10 +415,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 77
+      "state_avg": 80,
+      "value": 78
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "Regarding need to sanction pit lines at Salem Junction in Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "12.03.2026",
         "title": "Regarding need for additional train services and upgradation of railway infrastructure at Salem junction railway station in Tamil Nadu",
@@ -516,9 +521,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 19
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 20
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -526,9 +531,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 145
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 156
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/t-m-selvaganapathi"
   },

@@ -476,10 +476,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 86,
+      "state_avg": 87,
       "value": 99
     },
     "debate_titles": [
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need to establish an AIIMS in Jamshedpur Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "30.03.2026",
         "title": "Regarding need to develop a bypass rail line to decongest rail traffic in Tatanagar-Ghamaria-Kandara section in Jamshedupur Parliamentary Constituency, Jharkhand",
@@ -572,13 +577,13 @@
       },
       {
         "date": "17.03.2025",
-        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
-        "type": "Budget (General)"
+        "title": "Request for Additional Funds for the Subarnarekha Multipurpose Project in Jharkhand",
+        "type": "Special Mention"
       },
       {
         "date": "17.03.2025",
-        "title": "Request for Additional Funds for the Subarnarekha Multipurpose Project in Jharkhand",
-        "type": "Special Mention"
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
       },
       {
         "date": "12.03.2025",
@@ -682,9 +687,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.8,
-      "value": 40
+      "national_avg": 21,
+      "state_avg": 24.6,
+      "value": 41
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -692,9 +697,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 126,
-      "value": 269
+      "national_avg": 111,
+      "state_avg": 135,
+      "value": 288
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/bidyut-baran-mahato"
   },

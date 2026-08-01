@@ -345,10 +345,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 83,
-      "value": 88
+      "state_avg": 84,
+      "value": 89
     },
     "debate_titles": [
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need for scientific assessment of coal bed methane reserves and its planned exploration in Singareni coalfield in Telangana and ensure employment of local communities therein",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -426,9 +431,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 15,
-      "value": 15
+      "national_avg": 21,
+      "state_avg": 15.5,
+      "value": 16
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -436,9 +441,9 @@
       "value": 2
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 105,
-      "value": 86
+      "national_avg": 111,
+      "state_avg": 113,
+      "value": 96
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/kadiyam-kavya"
   },

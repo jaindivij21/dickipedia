@@ -405,10 +405,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 67,
-      "value": 27
+      "state_avg": 68,
+      "value": 28
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "10.02.2026",
         "title": "General discussion on the Union Budget for 2026-2027",
@@ -426,9 +431,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11.9,
-      "value": 3
+      "national_avg": 21,
+      "state_avg": 12.3,
+      "value": 4
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -436,9 +441,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 59,
-      "value": 56
+      "national_avg": 111,
+      "state_avg": 62,
+      "value": 61
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/abhishek-banerjee"
   },

@@ -445,10 +445,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 83,
-      "value": 89
+      "state_avg": 84,
+      "value": 90
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "Regarding need to impress upon the Government of Andhra Pradesh to reimburse the expenditure incurred by Government of Telangana on services provided during the process of bifurcation",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -531,13 +536,13 @@
       },
       {
         "date": "21.03.2025",
-        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
-        "type": "Budget (General)"
+        "title": "Regarding need to sanction Hyderabad Metro Rail Phase-II Project",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "21.03.2025",
-        "title": "Regarding need to sanction Hyderabad Metro Rail Phase-II Project",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Budget (General)"
       },
       {
         "date": "19.03.2025",
@@ -606,9 +611,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 15,
-      "value": 31
+      "national_avg": 21,
+      "state_avg": 15.5,
+      "value": 32
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -616,9 +621,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 105,
-      "value": 135
+      "national_avg": 111,
+      "state_avg": 113,
+      "value": 147
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/chamala-kiran-kumar-reddy"
   },

@@ -328,10 +328,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
+      "state_avg": 80,
       "value": 86
     },
     "debate_titles": [
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need to extend proposed Bengaluru-Coastal Karnataka Vande Bharat Express upto Kundapura, Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "25.03.2026",
         "title": "Regarding need to expedite land acquisition process for construction and development of various National Highways in Karnataka",
@@ -414,9 +419,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11,
-      "value": 16
+      "national_avg": 21,
+      "state_avg": 11.4,
+      "value": 17
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -424,9 +429,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 81,
-      "value": 190
+      "national_avg": 111,
+      "state_avg": 87,
+      "value": 206
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/kota-srinivas-poojary"
   },

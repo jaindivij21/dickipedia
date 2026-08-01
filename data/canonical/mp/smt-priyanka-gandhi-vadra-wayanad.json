@@ -704,10 +704,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 82
+      "state_avg": 80,
+      "value": 84
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -760,9 +765,9 @@
       }
     ],
     "debates": {
-      "national_avg": 16.3,
-      "state_avg": 25.7,
-      "value": 10
+      "national_avg": 17,
+      "state_avg": 27.1,
+      "value": 11
     },
     "pmbs": {
       "national_avg": 0.3,
@@ -770,9 +775,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 90,
-      "state_avg": 99,
-      "value": 34
+      "national_avg": 98,
+      "state_avg": 107,
+      "value": 39
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/priyanka-gandhi-vadra"
   },

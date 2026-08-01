@@ -396,10 +396,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 83,
-      "value": 93
+      "state_avg": 84,
+      "value": 94
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "Regarding need for revival of Adilabad Cement Factory in Telangana",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.04.2026",
         "title": "Request for Expediting Forest Clearances for Road Construction in Adilabad District, Telangana",
@@ -447,9 +452,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 15,
-      "value": 9
+      "national_avg": 21,
+      "state_avg": 15.5,
+      "value": 10
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -457,9 +462,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 105,
-      "value": 128
+      "national_avg": 111,
+      "state_avg": 113,
+      "value": 142
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/godam-nagesh"
   },

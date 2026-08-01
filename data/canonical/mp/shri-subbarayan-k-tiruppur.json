@@ -321,10 +321,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 59
+      "state_avg": 80,
+      "value": 61
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -437,9 +442,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 22
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 23
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -447,9 +452,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 121
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 130
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/k-subbarayan"
   },

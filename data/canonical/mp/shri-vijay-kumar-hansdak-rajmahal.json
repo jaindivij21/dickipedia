@@ -382,10 +382,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 86,
-      "value": 87
+      "state_avg": 87,
+      "value": 86
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "17.03.2026",
         "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
@@ -443,9 +448,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.8,
-      "value": 11
+      "national_avg": 21,
+      "state_avg": 24.6,
+      "value": 12
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -453,9 +458,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 126,
-      "value": 37
+      "national_avg": 111,
+      "state_avg": 135,
+      "value": 42
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/vijay-kumar-hansdak"
   },

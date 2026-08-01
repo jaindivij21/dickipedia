@@ -600,10 +600,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 67,
+      "state_avg": 68,
       "value": 94
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "Regarding need to run superfast trains from Malda town in West Bengal to Mumbai and Bengaluru",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.07.2026",
+        "title": "Regarding need for restoration of Malda Airport or construction of a new airport in Malda district, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "18.03.2026",
         "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
@@ -761,9 +771,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11.9,
-      "value": 31
+      "national_avg": 21,
+      "state_avg": 12.3,
+      "value": 33
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -771,9 +781,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 59,
-      "value": 262
+      "national_avg": 111,
+      "state_avg": 62,
+      "value": 277
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/khagen-murmu"
   },

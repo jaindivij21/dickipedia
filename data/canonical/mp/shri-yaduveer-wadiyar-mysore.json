@@ -306,10 +306,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 84
+      "state_avg": 80,
+      "value": 83
     },
     "debate_titles": [
+      {
+        "date": "24.07.2026",
+        "title": "Regarding need to set up a National Institute for Coffee Research and Climate Resilience in Kodagu, Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "25.03.2026",
         "title": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2025",
@@ -392,9 +397,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11,
-      "value": 16
+      "national_avg": 21,
+      "state_avg": 11.4,
+      "value": 17
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -402,9 +407,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 81,
-      "value": 104
+      "national_avg": 111,
+      "state_avg": 87,
+      "value": 111
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/yaduveer-krishnadatta-chamaraja-wadiyar"
   },

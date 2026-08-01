@@ -502,10 +502,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 76
+      "state_avg": 80,
+      "value": 77
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding need to provide uninterrupted LPG supply to consumers in Kerala and other parts of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "20.07.2026",
+        "title": "Regarding need to review certain provisions of Foreign Contribution (Regulation) Amendment Bill, 2026 to ensure protection of genuine NGOs",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "18.03.2026",
         "title": "Regarding hike in prices of LPG Cylinder and its impact on domestic households and commercial establishments in the country",
@@ -513,13 +523,13 @@
       },
       {
         "date": "12.02.2026",
-        "title": "Request for Government Statement on Assault, Public Humiliation and Protection of Religious Freedom in Odisha",
-        "type": "Special Mention"
+        "title": "Regarding problems being faced by rubber growers in the country due to import of compound rubber under the IndiaASEAN Free Trade Agreement",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "12.02.2026",
-        "title": "Regarding problems being faced by rubber growers in the country due to import of compound rubber under the IndiaASEAN Free Trade Agreement",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Request for Government Statement on Assault, Public Humiliation and Protection of Religious Freedom in Odisha",
+        "type": "Special Mention"
       },
       {
         "date": "10.12.2025",
@@ -638,9 +648,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 32.6,
-      "value": 26
+      "national_avg": 21,
+      "state_avg": 34,
+      "value": 28
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -648,9 +658,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 125,
-      "value": 170
+      "national_avg": 111,
+      "state_avg": 133,
+      "value": 182
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/anto-antony"
   },

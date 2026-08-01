@@ -389,10 +389,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 82
+      "state_avg": 80,
+      "value": 83
     },
     "debate_titles": [
+      {
+        "date": "27.07.2026",
+        "title": "Regarding need to address the situation arising out of stray dog menace in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2026",
+        "title": "Regarding need to put in place a Standard Operating Procedure for nationwide rollout of Virtual Autopsy technology in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "16.03.2026",
         "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
@@ -490,9 +500,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 32.6,
-      "value": 19
+      "national_avg": 21,
+      "state_avg": 34,
+      "value": 21
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -500,9 +510,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 125,
-      "value": 117
+      "national_avg": 111,
+      "state_avg": 133,
+      "value": 120
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/m-p-abdussamad-samadani"
   },

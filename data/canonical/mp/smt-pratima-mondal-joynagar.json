@@ -352,10 +352,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 67,
-      "value": 85
+      "state_avg": 68,
+      "value": 82
     },
     "debate_titles": [
+      {
+        "date": "27.07.2026",
+        "title": "Regarding need for construction of a new rail line from Joynagar to Maipith via Jamtala at Sealdah-Joynagar section in South 24 Parganas, West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -573,9 +578,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 11.9,
-      "value": 43
+      "national_avg": 21,
+      "state_avg": 12.3,
+      "value": 44
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -583,9 +588,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 59,
-      "value": 85
+      "national_avg": 111,
+      "state_avg": 62,
+      "value": 90
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/pratima-mondal"
   },

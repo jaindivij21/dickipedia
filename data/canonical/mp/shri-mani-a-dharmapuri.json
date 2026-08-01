@@ -356,10 +356,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 49
+      "state_avg": 80,
+      "value": 52
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding need to introduce regular direct flight services from Salem in Tamil Nadu to New Delhi and Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need to introduce regular flight service from Salem in Tamil Nadu to New Delhi and Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "28.07.2025",
         "title": "Regarding need to conduct a feasibility study along with financial assistance for construction of an ROB at Affaivali Road in Tamil Nadu",
@@ -382,9 +392,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 4
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 6
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -392,9 +402,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 110
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 119
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/mani-a"
   },

@@ -120,10 +120,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 86,
+      "state_avg": 87,
       "value": 99
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding need to establish a Railway Wagon Manufacturing Unit or Mega Wagon Maintenance (POH/ROH) Workshop in Palamu, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "23.07.2026",
+        "title": "Regarding need for early construction of underpasses/Flyovers at Pokraha and Jod on the Ranchi-Varanasi Greenfield corridor (NH-39) in Palamu Parliamentary Constituency, Jharkhand",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.04.2026",
         "title": "Regarding need to start recording of programmes and other activities in Akashvani and Doordarshan Kendra in Medininagar in Palamu, Jharkhand",
@@ -151,13 +161,13 @@
       },
       {
         "date": "18.03.2026",
-        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
-        "type": "Demands for Grants"
+        "title": "Regarding need to reopen the SBI branch, Redma in Medininagar and also open new branches of SBI in Bishnupur and Bargarh in Palamu Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "18.03.2026",
-        "title": "Regarding need to reopen the SBI branch, Redma in Medininagar and also open new branches of SBI in Bishnupur and Bargarh in Palamu Parliamentary Constituency",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
+        "type": "Demands for Grants"
       },
       {
         "date": "16.03.2026",
@@ -326,9 +336,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.8,
-      "value": 40
+      "national_avg": 21,
+      "state_avg": 24.6,
+      "value": 42
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -336,9 +346,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 126,
-      "value": 202
+      "national_avg": 111,
+      "state_avg": 135,
+      "value": 212
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/vishnu-dayal-ram"
   },

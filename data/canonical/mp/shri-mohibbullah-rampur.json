@@ -348,6 +348,11 @@
     },
     "debate_titles": [
       {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
         "date": "02.04.2026",
         "title": "Request for Establishment of AIIMS in Rampur District, Uttar Pradesh",
         "type": "Special Mention"
@@ -414,9 +419,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 21.7,
-      "value": 13
+      "national_avg": 21,
+      "state_avg": 22.3,
+      "value": 14
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -424,8 +429,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 76,
+      "national_avg": 111,
+      "state_avg": 83,
       "value": 47
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/mohibbullah"

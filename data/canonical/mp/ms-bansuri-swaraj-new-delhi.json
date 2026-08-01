@@ -324,13 +324,23 @@
     },
     "debate_titles": [
       {
+        "date": "30.07.2026",
+        "title": "Regarding need to set up a modern National Esports hub in New Delhi Parliamentary Constituency",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
         "type": "Government Bills"
       },
       {
         "date": "02.04.2026",
-        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
+        "title": "Request for Ensuring Safety of Judicial Officers During SIR Exercise in West Bengal",
         "type": "Special Mention"
       },
       {
@@ -340,7 +350,7 @@
       },
       {
         "date": "02.04.2026",
-        "title": "Request for Ensuring Safety of Judicial Officers During SIR Exercise in West Bengal",
+        "title": "Need to Restore Railway Fare Concessions for Senior Citizens and Women",
         "type": "Special Mention"
       },
       {
@@ -400,9 +410,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 18,
-      "value": 15
+      "national_avg": 21,
+      "state_avg": 19.5,
+      "value": 17
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -410,9 +420,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 149,
-      "value": 29
+      "national_avg": 111,
+      "state_avg": 160,
+      "value": 37
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/bansuri-swaraj"
   },

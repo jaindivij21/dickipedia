@@ -463,10 +463,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 81
+      "state_avg": 80,
+      "value": 82
     },
     "debate_titles": [
+      {
+        "date": "20.07.2026",
+        "title": "Regarding need to ensure direct procurement of paddy by FCI and prompt payment to farmers in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -494,13 +499,13 @@
       },
       {
         "date": "17.12.2025",
-        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
-        "type": "Government Bills"
+        "title": "Regarding need for establishment of �Mappila Kala Kendram � Arabic and Urdu Literature Center of Excellence� at Charummoodu in Alappuzha district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "17.12.2025",
-        "title": "Regarding need for establishment of �Mappila Kala Kendram � Arabic and Urdu Literature Center of Excellence� at Charummoodu in Alappuzha district, Kerala",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
       },
       {
         "date": "12.12.2025",
@@ -599,12 +604,17 @@
       },
       {
         "date": "12.03.2025",
+        "title": "Request for Declaring Man-Animal Conflict in Kerala as a State-Specific Natural Disaster and Sanctioning Funds for Mitigation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "12.03.2025",
         "title": "Regarding need for construction of permanent buildings for functioning of dispensaries in Mavelikkara Parliamentary Constituency, Kerala",
         "type": "LS - Matters under (Rule-377)"
       },
       {
-        "date": "12.03.2025",
-        "title": "Request for Declaring Man-Animal Conflict in Kerala as a State-Specific Natural Disaster and Sanctioning Funds for Mitigation",
+        "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
         "type": "Special Mention"
       },
       {
@@ -615,11 +625,6 @@
       {
         "date": "10.03.2025",
         "title": "Request for Minimum Wages and Social Security for ASHA Workers",
-        "type": "Special Mention"
-      },
-      {
-        "date": "10.03.2025",
-        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
         "type": "Special Mention"
       },
       {
@@ -719,9 +724,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 32.6,
-      "value": 50
+      "national_avg": 21,
+      "state_avg": 34,
+      "value": 51
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -729,9 +734,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 125,
-      "value": 136
+      "national_avg": 111,
+      "state_avg": 133,
+      "value": 146
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kodikunnil"
   },

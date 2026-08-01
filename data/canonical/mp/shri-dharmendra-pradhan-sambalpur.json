@@ -621,15 +621,15 @@
   "profile_url": "",
   "prs_detail": {
     "attendance": {
-      "national_avg": null,
+      "national_avg": 85,
       "sessions": [],
-      "state_avg": null,
-      "value": null
+      "state_avg": 84,
+      "value": 0
     },
     "debate_titles": [],
     "debates": {
-      "national_avg": null,
-      "state_avg": null,
+      "national_avg": 0.3,
+      "state_avg": 0.4,
       "value": 0
     },
     "pmbs": {
@@ -638,8 +638,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": null,
-      "state_avg": null,
+      "national_avg": 3,
+      "state_avg": 4,
       "value": 0
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/dharmendra-pradhan"

@@ -330,10 +330,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 59
+      "state_avg": 80,
+      "value": 60
     },
     "debate_titles": [
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need to enhance the annual family income ceiling to Rs. 8 lakh as eligibility criteria to avail post-matric scholarship by SC and ST students",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "12.02.2026",
         "title": "The Industrial Relations Code (Amendment) Bill, 2026",
@@ -426,9 +431,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 18
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 19
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -436,9 +441,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 115
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 123
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/d-ravikumar"
   },

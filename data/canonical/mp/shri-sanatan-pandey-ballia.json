@@ -454,6 +454,11 @@
     },
     "debate_titles": [
       {
+        "date": "24.07.2026",
+        "title": "Regarding need to introduce 'Right to Learning Bill' in Parliament",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "01.04.2026",
         "title": "Demand to provide adequate compensation for crops damaged by electrical short circuits",
         "type": "Special Mention"
@@ -570,9 +575,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 21.7,
-      "value": 23
+      "national_avg": 21,
+      "state_avg": 22.3,
+      "value": 24
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -580,8 +585,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 76,
+      "national_avg": 111,
+      "state_avg": 83,
       "value": 92
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/sanatan-pandey"

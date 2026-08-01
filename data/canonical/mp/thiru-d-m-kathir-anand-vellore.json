@@ -444,10 +444,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 79
+      "state_avg": 80,
+      "value": 80
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding need to operationalize the Vellore Airport in Tamil Nadu under UDAN Scheme",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "24.07.2026",
+        "title": "Regarding need to establish an Integrated Fruit Pulp Research Centre with cold storage facility at Anaicut in Vellore, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.03.2026",
         "title": "Regarding need to address the grave situation arising out of shortage of LPG cylinders in Tamil Nadu",
@@ -665,9 +675,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 43
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 45
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -675,9 +685,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 144
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 153
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/d-m-kathir-anand"
   },

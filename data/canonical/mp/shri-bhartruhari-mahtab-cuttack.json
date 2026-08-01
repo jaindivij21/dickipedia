@@ -483,10 +483,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
+      "state_avg": 84,
       "value": 94
     },
     "debate_titles": [
+      {
+        "date": "29.07.2026",
+        "title": "Regarding need for a comprehensive National School Fitness Mission to ensure maintenance of fitness standards among school children in the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need to review regulatory norms to permit establishment of multiple nursing colleges in a city or town of the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "02.04.2026",
         "title": "Regarding need for robust regulatory framework to curb malpractices in private hospitals across the country",
@@ -614,13 +624,13 @@
       },
       {
         "date": "19.03.2025",
-        "title": "Regarding need to release approved funds under Development of Wildlife Habitats Scheme to Odisha",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
+        "type": "Budget (General)"
       },
       {
         "date": "19.03.2025",
-        "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
-        "type": "Budget (General)"
+        "title": "Regarding need to release approved funds under Development of Wildlife Habitats Scheme to Odisha",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "17.03.2025",
@@ -634,23 +644,23 @@
       },
       {
         "date": "10.03.2025",
-        "title": "Regarding Polavaram Multi-purpose Project",
-        "type": "LS - Matters under (Rule-377)"
-      },
-      {
-        "date": "10.03.2025",
         "title": "Urge upon the govt. to take immediate steps to appoint guards and construct a permanent boundary to protect historical site at Choudwar, Cuttack",
         "type": "Special Mention"
       },
       {
-        "date": "10.02.2025",
-        "title": "Regarding need to take steps to appoint Chairman Of Mahanadi Water Dispute Tribunal (MWDT) at the earliest",
+        "date": "10.03.2025",
+        "title": "Regarding Polavaram Multi-purpose Project",
         "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "10.02.2025",
         "title": "Request to govt to please provide the facility of first class pass in vande bharat train to the freedom fighters",
         "type": "Special Mention"
+      },
+      {
+        "date": "10.02.2025",
+        "title": "Regarding need to take steps to appoint Chairman Of Mahanadi Water Dispute Tribunal (MWDT) at the earliest",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "06.02.2025",
@@ -744,9 +754,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 51
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 53
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -754,9 +764,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
-      "value": 260
+      "national_avg": 111,
+      "state_avg": 129,
+      "value": 279
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/bhartruhari-mahtab"
   },

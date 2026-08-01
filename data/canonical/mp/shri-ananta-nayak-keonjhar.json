@@ -395,10 +395,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 88,
-      "value": 89
+      "state_avg": 84,
+      "value": 90
     },
     "debate_titles": [
+      {
+        "date": "21.07.2026",
+        "title": "Regarding need to set up a dedicated 'Tasar Silk Cluster' in Kendujhar district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "09.02.2026",
         "title": "Regarding need to expedite approval and execution of proposed Banspani-Barbil railway line project in Keonjhar Parliamentary Constituency, Odisha",
@@ -421,13 +426,13 @@
       },
       {
         "date": "27.03.2025",
-        "title": "Request for Tourism Development in Keonjhar, Odisha",
-        "type": "Special Mention"
+        "title": "Regarding need to establish a Kendriya Vidyalaya at Karanjia in Mayurbhanj district, Odisha",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "27.03.2025",
-        "title": "Regarding need to establish a Kendriya Vidyalaya at Karanjia in Mayurbhanj district, Odisha",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Request for Tourism Development in Keonjhar, Odisha",
+        "type": "Special Mention"
       },
       {
         "date": "21.03.2025",
@@ -486,9 +491,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 23.9,
-      "value": 17
+      "national_avg": 21,
+      "state_avg": 24.7,
+      "value": 18
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -496,9 +501,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 119,
-      "value": 99
+      "national_avg": 111,
+      "state_avg": 129,
+      "value": 116
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/ananta-nayak"
   },

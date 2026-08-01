@@ -353,10 +353,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
+      "state_avg": 80,
       "value": 85
     },
     "debate_titles": [
+      {
+        "date": "20.07.2026",
+        "title": "Regarding likely adverse impact on Tamil Nadu due to proposed construction of Mekedatu Balancing Reservoir on river Cauvery by Karnataka",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "01.04.2026",
         "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
@@ -464,9 +469,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 21
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 22
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -474,9 +479,9 @@
       "value": 1
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 131
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 140
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/veeraswamy-kalanidhi"
   },

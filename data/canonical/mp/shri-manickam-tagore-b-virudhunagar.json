@@ -389,10 +389,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 79,
-      "value": 89
+      "state_avg": 80,
+      "value": 88
     },
     "debate_titles": [
+      {
+        "date": "21.07.2026",
+        "title": "Regarding various Railway related issues of Virudhunagar and other districts of Southern Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "01.04.2026",
         "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
@@ -410,13 +415,13 @@
       },
       {
         "date": "12.12.2025",
-        "title": "Regarding the pending payments of MGNREGS in Tamil Nadu",
-        "type": "Special Mention"
+        "title": "Regarding appropriate measure to regulate airfare in the country",
+        "type": "Private Members' Resolutions"
       },
       {
         "date": "12.12.2025",
-        "title": "Regarding appropriate measure to regulate airfare in the country",
-        "type": "Private Members' Resolutions"
+        "title": "Regarding the pending payments of MGNREGS in Tamil Nadu",
+        "type": "Special Mention"
       },
       {
         "date": "11.12.2025",
@@ -445,12 +450,12 @@
       },
       {
         "date": "30.07.2025",
-        "title": "Regarding the slum demolitions in Delhi",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
         "type": "Special Mention"
       },
       {
         "date": "30.07.2025",
-        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "title": "Regarding the slum demolitions in Delhi",
         "type": "Special Mention"
       },
       {
@@ -485,12 +490,12 @@
       },
       {
         "date": "17.03.2025",
-        "title": "Request to govt. to take immediate action by introducing legislation or amendments to safeguard the rights of gig workers",
+        "title": "Request to Increase MGNREGA man-days and Wages, and Release Pending Funds for Kanchipuram and Chengalpattu",
         "type": "Special Mention"
       },
       {
         "date": "17.03.2025",
-        "title": "Request to Increase MGNREGA man-days and Wages, and Release Pending Funds for Kanchipuram and Chengalpattu",
+        "title": "Request to govt. to take immediate action by introducing legislation or amendments to safeguard the rights of gig workers",
         "type": "Special Mention"
       },
       {
@@ -505,23 +510,18 @@
       },
       {
         "date": "10.03.2025",
-        "title": "Request to Address Misleading Statements on PM SHRI Scheme and Protect Federal Rights in Education",
+        "title": "Request that the total voter list should be thoroughly revised and the Election Commission should answer to the Country",
         "type": "Special Mention"
       },
       {
         "date": "10.03.2025",
-        "title": "Request that the total voter list should be thoroughly revised and the Election Commission should answer to the Country",
+        "title": "Request to Address Misleading Statements on PM SHRI Scheme and Protect Federal Rights in Education",
         "type": "Special Mention"
       },
       {
         "date": "13.02.2025",
         "title": "Regarding need to fill up the vacancies in National Commission for Backward Classes (NCBC) and ensure its effective functionality",
         "type": "LS - Matters under (Rule-377)"
-      },
-      {
-        "date": "11.02.2025",
-        "title": "Urgent Appeal to Resolve Fishermen Detention and Attacks by Sri Lankan Navy",
-        "type": "Special Mention"
       },
       {
         "date": "11.02.2025",
@@ -534,14 +534,14 @@
         "type": "Special Mention"
       },
       {
+        "date": "11.02.2025",
+        "title": "Urgent Appeal to Resolve Fishermen Detention and Attacks by Sri Lankan Navy",
+        "type": "Special Mention"
+      },
+      {
         "date": "06.02.2025",
         "title": "Regarding wild boars menace in various districts of Tamil Nadu",
         "type": "LS - Matters under (Rule-377)"
-      },
-      {
-        "date": "16.12.2024",
-        "title": "Regarding Vijay Diwas",
-        "type": "Submissions by Members"
       },
       {
         "date": "16.12.2024",
@@ -549,8 +549,8 @@
         "type": "Special Mention"
       },
       {
-        "date": "11.12.2024",
-        "title": "Regarding situation in Manipur",
+        "date": "16.12.2024",
+        "title": "Regarding Vijay Diwas",
         "type": "Submissions by Members"
       },
       {
@@ -559,14 +559,19 @@
         "type": "Special Mention"
       },
       {
-        "date": "04.12.2024",
-        "title": "The Railways (Amendment) Bill, 2024",
-        "type": "Government Bills"
+        "date": "11.12.2024",
+        "title": "Regarding situation in Manipur",
+        "type": "Submissions by Members"
       },
       {
         "date": "04.12.2024",
         "title": "Request to govt bring a legislation to protect gig economy workers, ensuring fair wages, job security, social benefits",
         "type": "Special Mention"
+      },
+      {
+        "date": "04.12.2024",
+        "title": "The Railways (Amendment) Bill, 2024",
+        "type": "Government Bills"
       },
       {
         "date": "03.12.2024",
@@ -630,9 +635,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.5,
-      "value": 47
+      "national_avg": 21,
+      "state_avg": 25.1,
+      "value": 48
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -640,9 +645,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 114,
-      "value": 148
+      "national_avg": 111,
+      "state_avg": 124,
+      "value": 160
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/manickam-tagore-b"
   },

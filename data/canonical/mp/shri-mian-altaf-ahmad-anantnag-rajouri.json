@@ -332,10 +332,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 64,
-      "value": 64
+      "state_avg": 66,
+      "value": 65
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "17.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -418,9 +423,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.7,
-      "value": 16
+      "national_avg": 21,
+      "state_avg": 25.7,
+      "value": 17
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -428,8 +433,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 69,
+      "national_avg": 111,
+      "state_avg": 71,
       "value": 11
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/mian-altaf-ahmad"

@@ -420,6 +420,21 @@
     },
     "debate_titles": [
       {
+        "date": "29.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
+      {
+        "date": "27.07.2026",
+        "title": "Regarding need to take policy measures for early exploitation of Tungsten and Lithium deposits in Degana in Nagaur district, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "22.07.2026",
+        "title": "Regarding need for fair compensation to farmers in Rajasthan for land used for Transmission Tower and Corridors",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
         "type": "Government Bills"
@@ -441,12 +456,12 @@
       },
       {
         "date": "27.03.2026",
-        "title": "Need for Strong Action Against Corrupt Public Representatives in Rajasthan",
+        "title": "Issue Regarding Alleged Corruption by MLAs in Rajasthan Legislative Assembly.",
         "type": "Special Mention"
       },
       {
         "date": "27.03.2026",
-        "title": "Issue Regarding Alleged Corruption by MLAs in Rajasthan Legislative Assembly.",
+        "title": "Need for Strong Action Against Corrupt Public Representatives in Rajasthan",
         "type": "Special Mention"
       },
       {
@@ -586,11 +601,6 @@
       },
       {
         "date": "03.04.2025",
-        "title": "Request to Curb Corruption in the Kisan Credit Card Loan Distribution System",
-        "type": "Special Mention"
-      },
-      {
-        "date": "03.04.2025",
         "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
         "type": "Government Bills"
       },
@@ -598,6 +608,11 @@
         "date": "03.04.2025",
         "title": "Regarding need to provide adequate funds under Samagra Shiksha Abhiyan in Rajasthan",
         "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.04.2025",
+        "title": "Request to Curb Corruption in the Kisan Credit Card Loan Distribution System",
+        "type": "Special Mention"
       },
       {
         "date": "02.04.2025",
@@ -776,9 +791,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 31.9,
-      "value": 71
+      "national_avg": 21,
+      "state_avg": 32.9,
+      "value": 74
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -786,9 +801,9 @@
       "value": 1
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 138,
-      "value": 147
+      "national_avg": 111,
+      "state_avg": 149,
+      "value": 157
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/hanuman-beniwal"
   },

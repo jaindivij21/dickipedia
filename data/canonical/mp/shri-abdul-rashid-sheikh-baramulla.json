@@ -405,10 +405,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 64,
-      "value": 39
+      "state_avg": 66,
+      "value": 42
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "16.04.2026",
         "title": "The Constitution (131st Amendment) Bill, 2026. ii) The Union Territories Laws (Amendment) Bill, 2026. iii) The Delimitation Bill, 2026.",
@@ -476,12 +481,12 @@
       },
       {
         "date": "16.12.2025",
-        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "title": "The Repealing and Amending Bill, 2025",
         "type": "Government Bills"
       },
       {
         "date": "16.12.2025",
-        "title": "The Repealing and Amending Bill, 2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
         "type": "Government Bills"
       },
       {
@@ -551,9 +556,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 24.7,
-      "value": 28
+      "national_avg": 21,
+      "state_avg": 25.7,
+      "value": 29
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -561,8 +566,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 69,
+      "national_avg": 111,
+      "state_avg": 71,
       "value": 16
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/abdul-rashid-sheikh"

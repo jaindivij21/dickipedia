@@ -366,9 +366,14 @@
       "national_avg": 85,
       "sessions": [],
       "state_avg": 84,
-      "value": 80
+      "value": 81
     },
     "debate_titles": [
+      {
+        "date": "28.07.2026",
+        "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+        "type": "Government Bills"
+      },
       {
         "date": "01.04.2026",
         "title": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026",
@@ -486,6 +491,11 @@
       },
       {
         "date": "11.02.2025",
+        "title": "Regarding need to restart parcel service at Kalyan Junction Parcel office, Mumbai",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "11.02.2025",
         "title": "Discussion on The Union Budget � 2025-2026",
         "type": "Budget (General)"
       },
@@ -493,11 +503,6 @@
         "date": "11.02.2025",
         "title": "Urgent Need for Strict Regulation and Censorship on Social Media, Broadcast, and OTT Platforms",
         "type": "Special Mention"
-      },
-      {
-        "date": "11.02.2025",
-        "title": "Regarding need to restart parcel service at Kalyan Junction Parcel office, Mumbai",
-        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "04.02.2025",
@@ -531,13 +536,13 @@
       },
       {
         "date": "30.07.2024",
-        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
-        "type": "Budget (General)"
+        "title": "Regarding starting of shuttle train services between Kalyan and Thane",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "30.07.2024",
-        "title": "Regarding starting of shuttle train services between Kalyan and Thane",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "(i) General Discussion on the Budget�2024-25; (ii) General Discussion on the Budget of Union Territory of Jammu and Kashmir for 2024-25; and (iii) Demands for Grants in respect of Union Territory of Jammu and Kashmir-2024-25.",
+        "type": "Budget (General)"
       },
       {
         "date": "01.07.2024",
@@ -546,9 +551,9 @@
       }
     ],
     "debates": {
-      "national_avg": 20.4,
-      "state_avg": 30.8,
-      "value": 35
+      "national_avg": 21,
+      "state_avg": 31.4,
+      "value": 36
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -556,9 +561,9 @@
       "value": 6
     },
     "questions": {
-      "national_avg": 103,
-      "state_avg": 160,
-      "value": 234
+      "national_avg": 111,
+      "state_avg": 171,
+      "value": 242
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/shrikant-eknath-shinde"
   },
