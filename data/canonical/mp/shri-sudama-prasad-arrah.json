@@ -413,19 +413,24 @@
     },
     "debate_titles": [
       {
+        "date": "03.08.2026",
+        "title": "Regarding relief and rehabilitation measures in flood- affected Bhojpur district of Bihar",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "02.04.2026",
         "title": "The Central Armed Police Forces (General Administration) Bill, 2026",
         "type": "Government Bills"
       },
       {
         "date": "01.04.2026",
-        "title": "Demand for Construction of Flyovers and Replacement of Dilapidated Bridges in Arrah, Bihar",
-        "type": "Special Mention"
+        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
+        "type": "Government Bills"
       },
       {
         "date": "01.04.2026",
-        "title": "The Jan Vishwas (Amendment of Provisions) Bill, 2026",
-        "type": "Government Bills"
+        "title": "Demand for Construction of Flyovers and Replacement of Dilapidated Bridges in Arrah, Bihar",
+        "type": "Special Mention"
       },
       {
         "date": "27.03.2026",
@@ -459,12 +464,12 @@
       },
       {
         "date": "16.12.2025",
-        "title": "The Repealing and Amending Bill, 2025",
+        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
         "type": "Government Bills"
       },
       {
         "date": "16.12.2025",
-        "title": "The Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025",
+        "title": "The Repealing and Amending Bill, 2025",
         "type": "Government Bills"
       },
       {
@@ -594,9 +599,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 22.5,
-      "value": 36
+      "national_avg": 21.5,
+      "state_avg": 22.9,
+      "value": 37
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -604,9 +609,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 96,
-      "value": 104
+      "national_avg": 120,
+      "state_avg": 104,
+      "value": 109
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/sudama-prasad"
   },

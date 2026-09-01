@@ -463,10 +463,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
+      "state_avg": 81,
       "value": 82
     },
     "debate_titles": [
+      {
+        "date": "03.08.2026",
+        "title": "Regarding need to declare and develop the Kayamkulam -Punalur - Edamon corridor in Kerala as a four laning National Highway",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "20.07.2026",
         "title": "Regarding need to ensure direct procurement of paddy by FCI and prompt payment to farmers in Kerala",
@@ -499,13 +504,13 @@
       },
       {
         "date": "17.12.2025",
-        "title": "Regarding need for establishment of �Mappila Kala Kendram � Arabic and Urdu Literature Center of Excellence� at Charummoodu in Alappuzha district, Kerala",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
+        "type": "Government Bills"
       },
       {
         "date": "17.12.2025",
-        "title": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin): VB - G RAM G Bill, 2025",
-        "type": "Government Bills"
+        "title": "Regarding need for establishment of �Mappila Kala Kendram � Arabic and Urdu Literature Center of Excellence� at Charummoodu in Alappuzha district, Kerala",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "12.12.2025",
@@ -549,8 +554,8 @@
       },
       {
         "date": "03.04.2025",
-        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
-        "type": "Government Bills"
+        "title": "Request for Government Action to Protect Freedom of Expression and Democratic Values Amid Rising Censorship and Intimidation",
+        "type": "Special Mention"
       },
       {
         "date": "03.04.2025",
@@ -559,8 +564,8 @@
       },
       {
         "date": "03.04.2025",
-        "title": "Request for Government Action to Protect Freedom of Expression and Democratic Values Amid Rising Censorship and Intimidation",
-        "type": "Special Mention"
+        "title": "The Protection of Interests in Aircraft Objects Bill, 2025",
+        "type": "Government Bills"
       },
       {
         "date": "02.04.2025",
@@ -569,13 +574,13 @@
       },
       {
         "date": "27.03.2025",
-        "title": "Demand for Independent Inquiry into Kodakara Money Laundering Case and Alleged Hawala Network",
-        "type": "Special Mention"
+        "title": "Regarding need for a Special Central Scheme to ensure restoration and conservation of river Pamba in Kerala",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "27.03.2025",
-        "title": "Regarding need for a Special Central Scheme to ensure restoration and conservation of river Pamba in Kerala",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Demand for Independent Inquiry into Kodakara Money Laundering Case and Alleged Hawala Network",
+        "type": "Special Mention"
       },
       {
         "date": "26.03.2025",
@@ -604,22 +609,12 @@
       },
       {
         "date": "12.03.2025",
-        "title": "Request for Declaring Man-Animal Conflict in Kerala as a State-Specific Natural Disaster and Sanctioning Funds for Mitigation",
-        "type": "Special Mention"
-      },
-      {
-        "date": "12.03.2025",
         "title": "Regarding need for construction of permanent buildings for functioning of dispensaries in Mavelikkara Parliamentary Constituency, Kerala",
         "type": "LS - Matters under (Rule-377)"
       },
       {
-        "date": "10.03.2025",
-        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
-        "type": "Special Mention"
-      },
-      {
-        "date": "10.03.2025",
-        "title": "Request for Direct Payment System to Protect Farmers from Loan-Based Exploitation",
+        "date": "12.03.2025",
+        "title": "Request for Declaring Man-Animal Conflict in Kerala as a State-Specific Natural Disaster and Sanctioning Funds for Mitigation",
         "type": "Special Mention"
       },
       {
@@ -629,7 +624,17 @@
       },
       {
         "date": "10.03.2025",
+        "title": "Request for Better Wages, Recognition, and Social Security for ASHA Workers",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
         "title": "Request for Uniform Remuneration, Retirement Benefits, and Resolution of ASHA Workers' Agitation",
+        "type": "Special Mention"
+      },
+      {
+        "date": "10.03.2025",
+        "title": "Request for Direct Payment System to Protect Farmers from Loan-Based Exploitation",
         "type": "Special Mention"
       },
       {
@@ -724,9 +729,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 51
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 52
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -734,9 +739,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 146
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 156
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/suresh-kodikunnil"
   },

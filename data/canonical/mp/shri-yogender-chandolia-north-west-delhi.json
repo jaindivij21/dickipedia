@@ -482,6 +482,11 @@
     },
     "debate_titles": [
       {
+        "date": "05.08.2026",
+        "title": "Regarding need for a Unified EV charging App and expansion of EV charging facilities at petrol pumps across India",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "28.07.2026",
         "title": "Regarding need to facilitate implementation of Centrally sponsored schemes meant for welfare of farmers in Delhi",
         "type": "LS - Matters under (Rule-377)"
@@ -618,9 +623,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 19.5,
-      "value": 27
+      "national_avg": 21.5,
+      "state_avg": 20.2,
+      "value": 28
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -628,9 +633,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 160,
-      "value": 250
+      "national_avg": 120,
+      "state_avg": 172,
+      "value": 271
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/yogender-chandoliya"
   },

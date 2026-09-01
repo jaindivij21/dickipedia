@@ -348,6 +348,16 @@
     },
     "debate_titles": [
       {
+        "date": "10.08.2026",
+        "title": "Regarding need for central financial and technical assistance to mitigate grave coastal and deltaic erosion in Amalapuram Parliamentary Constituency, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2026",
+        "title": "Regarding need to set up a dedicated NABLaccredited aquatic residue testing laboratory in Amalapuram Parliamentary Constituency, Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "23.03.2026",
         "title": "Regarding need to expedite construction of Cancer Day Care Centre in Amalapuram, Andhra Pradesh and launch a targeted screening of high-risk cancer patients in the region",
         "type": "LS - Matters under (Rule-377)"
@@ -484,9 +494,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 19,
-      "value": 27
+      "national_avg": 21.5,
+      "state_avg": 19.5,
+      "value": 29
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -494,9 +504,9 @@
       "value": 1
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 158,
-      "value": 187
+      "national_avg": 120,
+      "state_avg": 169,
+      "value": 200
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/ganti-harish-madhur"
   },

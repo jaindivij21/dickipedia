@@ -497,10 +497,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
-      "value": 83
+      "state_avg": 81,
+      "value": 84
     },
     "debate_titles": [
+      {
+        "date": "06.08.2026",
+        "title": "Regarding situation arising out of Ethanolblended petrol in country",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "31.07.2026",
+        "title": "Regarding need to provide financial assistance to establish an Advance Forensic Science Laboratory in Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "21.07.2026",
         "title": "Regarding need to amend bail provisions under the NDPS Act to make the law more effective and equitable",
@@ -643,9 +653,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 28
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 30
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -653,9 +663,9 @@
       "value": 2
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 168
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 173
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/benny-behanan"
   },

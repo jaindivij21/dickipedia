@@ -371,10 +371,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 84,
-      "value": 85
+      "state_avg": 85,
+      "value": 86
     },
     "debate_titles": [
+      {
+        "date": "06.08.2026",
+        "title": "Regarding need to include reconstruction works in flood-affected areas in the list of eligible works under VB-G RAM G Act, 2025",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "30.07.2026",
         "title": "Regarding need to provide immediate assistance and relief package for the flood-affected areas of Assam",
@@ -657,9 +662,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 14.8,
-      "value": 56
+      "national_avg": 21.5,
+      "state_avg": 15.2,
+      "value": 57
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -667,9 +672,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 85,
-      "value": 259
+      "national_avg": 120,
+      "state_avg": 92,
+      "value": 278
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/dilip-saikia"
   },

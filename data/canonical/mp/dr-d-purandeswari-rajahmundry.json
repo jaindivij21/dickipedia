@@ -448,6 +448,11 @@
     },
     "debate_titles": [
       {
+        "date": "04.08.2026",
+        "title": "Regarding need to address the drought situation arising due to deficient rainfall in Rayalaseema and other parts of Andhra Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "27.07.2026",
         "title": "Regarding problems being faced by the recycled paper mills in Andhra Pradesh due to increasing imports of low priced paper and paper boards",
         "type": "LS - Matters under (Rule-377)"
@@ -564,9 +569,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 19,
-      "value": 23
+      "national_avg": 21.5,
+      "state_avg": 19.5,
+      "value": 24
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -574,9 +579,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 158,
-      "value": 177
+      "national_avg": 120,
+      "state_avg": 169,
+      "value": 195
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/daggubati-purandheshwari"
   },

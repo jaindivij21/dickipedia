@@ -325,6 +325,11 @@
     },
     "debate_titles": [
       {
+        "date": "03.08.2026",
+        "title": "Regarding refund of money to investors who invested in Adarsh Credit Co-operative Society",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "27.07.2026",
         "title": "Regarding need to connect Sirohi district Headquarters, Rajasthan with rail network",
         "type": "LS - Matters under (Rule-377)"
@@ -451,13 +456,13 @@
       },
       {
         "date": "17.03.2025",
-        "title": "Regarding railway related issues of Jalore Parliamentary Constituency, Rajasthan",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
       },
       {
         "date": "17.03.2025",
-        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
-        "type": "Budget (General)"
+        "title": "Regarding railway related issues of Jalore Parliamentary Constituency, Rajasthan",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "11.03.2025",
@@ -516,9 +521,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 32.9,
-      "value": 38
+      "national_avg": 21.5,
+      "state_avg": 33.7,
+      "value": 39
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -526,9 +531,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 149,
-      "value": 264
+      "national_avg": 120,
+      "state_avg": 161,
+      "value": 280
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/lumbaram"
   },

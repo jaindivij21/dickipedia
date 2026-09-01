@@ -387,10 +387,20 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 66,
+      "state_avg": 67,
       "value": 90
     },
     "debate_titles": [
+      {
+        "date": "11.08.2026",
+        "title": "Regarding need to expand drinking water schemes in Jammu Parliamentary Constituency and revamp water pipeline infrastructure therein",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2026",
+        "title": "Regarding need to introduce Vande Bharat Express between Jammu Tawi and Haridwar alongwith stoppage of express and superfast trains at Samba Station in Jammu and Kahsmir",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "24.07.2026",
         "title": "Regarding need for comprehensive development of border villages in the Jammu Lok Sabha Constituency",
@@ -548,9 +558,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 25.7,
-      "value": 31
+      "national_avg": 21.5,
+      "state_avg": 26.3,
+      "value": 33
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -558,9 +568,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 71,
-      "value": 186
+      "national_avg": 120,
+      "state_avg": 77,
+      "value": 199
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/jugal-kishore"
   },

@@ -702,10 +702,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 91,
-      "value": 97
+      "state_avg": 89,
+      "value": 96
     },
     "debate_titles": [
+      {
+        "date": "04.08.2026",
+        "title": "Regarding need for compensation, relief and rehabilitation to flood affected people in Dadra and Nagar Haveli, Daman and Diu and Gujarat",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "24.07.2026",
         "title": "Regarding need to re-establish Gujarat State Road Transport Corporation (GSRTC) Passenger Transport Facilities and Bus Terminal Services in Daman and Silvassa",
@@ -773,13 +778,13 @@
       },
       {
         "date": "11.03.2026",
-        "title": "Regarding need to curb increasing pollution in Daman Ganga and Kolak rivers flowing in Daman & Diu",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Resolution regarding Removal of Speaker",
+        "type": "Other"
       },
       {
         "date": "11.03.2026",
-        "title": "Resolution regarding Removal of Speaker",
-        "type": "Other"
+        "title": "Regarding need to curb increasing pollution in Daman Ganga and Kolak rivers flowing in Daman & Diu",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "13.02.2026",
@@ -923,13 +928,13 @@
       },
       {
         "date": "17.03.2025",
-        "title": "Regarding need to fill-up vacant posts in various departments in UT of Dadra and Nagar Haveli and Daman and Diu",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
+        "type": "Budget (General)"
       },
       {
         "date": "17.03.2025",
-        "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
-        "type": "Budget (General)"
+        "title": "Regarding need to fill-up vacant posts in various departments in UT of Dadra and Nagar Haveli and Daman and Diu",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "12.03.2025",
@@ -1033,9 +1038,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 49,
-      "value": 65
+      "national_avg": 21.5,
+      "state_avg": 49.5,
+      "value": 66
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -1043,9 +1048,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 180,
-      "value": 120
+      "national_avg": 120,
+      "state_avg": 194,
+      "value": 130
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/patel-umeshbhai-babubhai"
   },

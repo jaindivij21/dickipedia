@@ -431,6 +431,16 @@
     },
     "debate_titles": [
       {
+        "date": "11.08.2026",
+        "title": "Regarding need to include Bhojpuri language in the Eighth Schedule to the Constitution",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2026",
+        "title": "Regarding exemption from the TET qualification requirement for Teachers",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "21.07.2026",
         "title": "Regarding need to include Bhojpuri language in the Eighth Schedule to the Constitution",
         "type": "LS - Matters under (Rule-377)"
@@ -1077,9 +1087,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 22.3,
-      "value": 129
+      "national_avg": 21.5,
+      "state_avg": 22.8,
+      "value": 131
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -1087,9 +1097,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 83,
-      "value": 189
+      "national_avg": 120,
+      "state_avg": 90,
+      "value": 198
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/jagdambika-pal"
   },

@@ -369,7 +369,7 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
+      "state_avg": 81,
       "value": 90
     },
     "debate_titles": [
@@ -580,8 +580,8 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
+      "national_avg": 21.5,
+      "state_avg": 34.5,
       "value": 41
     },
     "pmbs": {
@@ -590,9 +590,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 110
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 113
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/e-t-mohammed-basheer"
   },

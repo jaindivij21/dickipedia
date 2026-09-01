@@ -2001,10 +2001,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
+      "state_avg": 81,
       "value": 81
     },
     "debate_titles": [
+      {
+        "date": "12.08.2026",
+        "title": "Regarding need to launch a nationwide antinarcotics campaign to curb trafficking and abuse of synthetic substances across the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "30.07.2026",
         "title": "Regarding need to direct State Bank of India to reinstate the special agricultural Loan Scheme for pineapple growers in Kerala and other parts of country",
@@ -2072,12 +2077,12 @@
       },
       {
         "date": "30.07.2025",
-        "title": "Issue of National Highway development in Idukki",
+        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
         "type": "Special Mention"
       },
       {
         "date": "30.07.2025",
-        "title": "Arrest of Nuns in Durg, Chhattisgarh",
+        "title": "Issue of National Highway development in Idukki",
         "type": "Special Mention"
       },
       {
@@ -2087,7 +2092,7 @@
       },
       {
         "date": "30.07.2025",
-        "title": "Regarding the issue of atrocities on minorities in Durg, Chhattisgarh",
+        "title": "Arrest of Nuns in Durg, Chhattisgarh",
         "type": "Special Mention"
       },
       {
@@ -2247,9 +2252,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 48
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 49
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -2257,9 +2262,9 @@
       "value": 3
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 159
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 170
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/dean-kuriakose"
   },

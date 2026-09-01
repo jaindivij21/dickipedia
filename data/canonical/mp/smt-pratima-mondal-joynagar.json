@@ -353,9 +353,19 @@
       "national_avg": 85,
       "sessions": [],
       "state_avg": 68,
-      "value": 82
+      "value": 83
     },
     "debate_titles": [
+      {
+        "date": "11.08.2026",
+        "title": "Regarding need to take comprehensive measures to expedite completion of the cases pending in SIR Tribunal in West Bengal",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "03.08.2026",
+        "title": "Regarding need for construction of RoB between Dakshin Barasat and Joynagar Mozilpur Station in South 24 Parganas district, West Benga",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "27.07.2026",
         "title": "Regarding need for construction of a new rail line from Joynagar to Maipith via Jamtala at Sealdah-Joynagar section in South 24 Parganas, West Bengal",
@@ -493,11 +503,6 @@
       },
       {
         "date": "19.03.2025",
-        "title": "Request for New Railway Line from Joynagar to Moipith via Jamtala",
-        "type": "Special Mention"
-      },
-      {
-        "date": "19.03.2025",
         "title": "Discussion on the Demands for Grants Nos. 62 and 63 under the control of the Ministry of Jal Shakti",
         "type": "Budget (General)"
       },
@@ -505,6 +510,11 @@
         "date": "19.03.2025",
         "title": "Regarding need to provide free treatment to cancer patients in the country",
         "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "19.03.2025",
+        "title": "Request for New Railway Line from Joynagar to Moipith via Jamtala",
+        "type": "Special Mention"
       },
       {
         "date": "12.03.2025",
@@ -523,13 +533,13 @@
       },
       {
         "date": "11.02.2025",
-        "title": "Discussion on The Union Budget � 2025-2026",
-        "type": "Budget (General)"
+        "title": "Request to provide two more train halts at Matla Railway Station in the morning and two more train halts at the evening",
+        "type": "Special Mention"
       },
       {
         "date": "11.02.2025",
-        "title": "Request to provide two more train halts at Matla Railway Station in the morning and two more train halts at the evening",
-        "type": "Special Mention"
+        "title": "Discussion on The Union Budget � 2025-2026",
+        "type": "Budget (General)"
       },
       {
         "date": "04.02.2025",
@@ -578,9 +588,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 12.3,
-      "value": 44
+      "national_avg": 21.5,
+      "state_avg": 12.6,
+      "value": 46
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -588,9 +598,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 62,
-      "value": 90
+      "national_avg": 120,
+      "state_avg": 66,
+      "value": 96
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/pratima-mondal"
   },

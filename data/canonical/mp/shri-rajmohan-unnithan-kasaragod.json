@@ -499,10 +499,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
-      "value": 78
+      "state_avg": 81,
+      "value": 80
     },
     "debate_titles": [
+      {
+        "date": "04.08.2026",
+        "title": "Regarding need to review the proposal to change in allocation of ration under National Food Security Act and ensure timely and adequate allocation to Kerala",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "28.07.2026",
         "title": "Regarding need to review and rationalize the enhanced passport fee structure in the country",
@@ -610,13 +615,13 @@
       },
       {
         "date": "09.08.2024",
-        "title": "Regarding need to set up an institute like AIIMS at Kasaragod in Kerala",
-        "type": "LS - Matters under (Rule-377)"
+        "title": "Urge upon to govt. to intervene in the matter related to the wages of the MGNREGS in kasaragod",
+        "type": "Special Mention"
       },
       {
         "date": "09.08.2024",
-        "title": "Urge upon to govt. to intervene in the matter related to the wages of the MGNREGS in kasaragod",
-        "type": "Special Mention"
+        "title": "Regarding need to set up an institute like AIIMS at Kasaragod in Kerala",
+        "type": "LS - Matters under (Rule-377)"
       },
       {
         "date": "31.07.2024",
@@ -630,9 +635,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 25
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 26
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -640,9 +645,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 118
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 126
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/rajmohan-unnithan"
   },

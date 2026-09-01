@@ -389,10 +389,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
-      "value": 83
+      "state_avg": 81,
+      "value": 80
     },
     "debate_titles": [
+      {
+        "date": "05.08.2026",
+        "title": "Regarding need to ensure protection of academic ecosystem in Maulana Muhammad Ali Jauhar University in Rampur, Uttar Pradesh",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "27.07.2026",
         "title": "Regarding need to address the situation arising out of stray dog menace in Kerala",
@@ -500,9 +505,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 21
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 22
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -510,9 +515,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 120
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 129
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/m-p-abdussamad-samadani"
   },

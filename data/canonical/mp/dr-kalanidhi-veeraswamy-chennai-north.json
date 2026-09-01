@@ -358,6 +358,11 @@
     },
     "debate_titles": [
       {
+        "date": "12.08.2026",
+        "title": "Regarding need for establishment of Kendriya Vidyalaya in Chennai North Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "20.07.2026",
         "title": "Regarding likely adverse impact on Tamil Nadu due to proposed construction of Mekedatu Balancing Reservoir on river Cauvery by Karnataka",
         "type": "LS - Matters under (Rule-377)"
@@ -389,13 +394,13 @@
       },
       {
         "date": "03.12.2025",
-        "title": "Demand for KV in Chennai North",
-        "type": "Special Mention"
+        "title": "The Central Excise (Amendment) Bill, 2025",
+        "type": "Government Bills"
       },
       {
         "date": "03.12.2025",
-        "title": "The Central Excise (Amendment) Bill, 2025",
-        "type": "Government Bills"
+        "title": "Demand for KV in Chennai North",
+        "type": "Special Mention"
       },
       {
         "date": "27.03.2025",
@@ -469,9 +474,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 25.1,
-      "value": 22
+      "national_avg": 21.5,
+      "state_avg": 25.6,
+      "value": 23
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -479,9 +484,9 @@
       "value": 1
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 124,
-      "value": 140
+      "national_avg": 120,
+      "state_avg": 132,
+      "value": 151
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/veeraswamy-kalanidhi"
   },

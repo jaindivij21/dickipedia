@@ -1215,10 +1215,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
-      "value": 74
+      "state_avg": 81,
+      "value": 75
     },
     "debate_titles": [
+      {
+        "date": "07.08.2026",
+        "title": "Regarding need for a coordinated and comprehensive mechanism to curb drug trafficking and rising substance abuse among youth across the country",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "29.07.2026",
         "title": "Regarding problems being faced by the pensioners covered under the Employees� Pension Scheme, 1995 in the country",
@@ -1311,9 +1316,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 18
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 19
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -1321,9 +1326,9 @@
       "value": 2
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 136
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 147
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/shafi-parambil"
   },

@@ -314,6 +314,16 @@
     },
     "debate_titles": [
       {
+        "date": "12.08.2026",
+        "title": "Regarding need for measures to address the problems faced by the handloom weavers in Kanchipuram Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "04.08.2026",
+        "title": "Regarding need for a long term plan under Jal Jeevan Mission to addres drinking water scarcity in Kanchipuram Parliamentary Constituency, Tamil Nadu",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "18.03.2026",
         "title": "Discussion on the Demands for Grants Nos. 1 and 2 under the control of the Ministry of Agriculture and Farmers Welfare",
         "type": "Demands for Grants"
@@ -395,9 +405,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 25.1,
-      "value": 16
+      "national_avg": 21.5,
+      "state_avg": 25.6,
+      "value": 18
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -405,9 +415,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 124,
-      "value": 242
+      "national_avg": 120,
+      "state_avg": 132,
+      "value": 257
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/g-selvam"
   },

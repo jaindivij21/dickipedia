@@ -374,10 +374,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 84,
-      "value": 80
+      "state_avg": 85,
+      "value": 81
     },
     "debate_titles": [
+      {
+        "date": "03.08.2026",
+        "title": "Regarding need to address the problems in flood-affected districts in Assam",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "17.03.2026",
         "title": "Discussion on the Demands for Grant No. 85 under the control of the Ministry of Railways",
@@ -470,9 +475,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 14.8,
-      "value": 18
+      "national_avg": 21.5,
+      "state_avg": 15.2,
+      "value": 19
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -480,9 +485,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 85,
-      "value": 65
+      "national_avg": 120,
+      "state_avg": 92,
+      "value": 72
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/kamakhya-prasad-tasa"
   },

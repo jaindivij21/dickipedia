@@ -502,10 +502,15 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
-      "value": 77
+      "state_avg": 81,
+      "value": 78
     },
     "debate_titles": [
+      {
+        "date": "06.08.2026",
+        "title": "Regarding need for registration of Nurses under National Nurses Registration and Tracking System along with issuance of Nurse Unique Identification Number Cards to them",
+        "type": "LS - Matters under (Rule-377)"
+      },
       {
         "date": "29.07.2026",
         "title": "Regarding need to provide uninterrupted LPG supply to consumers in Kerala and other parts of the country",
@@ -648,9 +653,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
-      "value": 28
+      "national_avg": 21.5,
+      "state_avg": 34.5,
+      "value": 29
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -658,9 +663,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 182
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 194
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/anto-antony"
   },

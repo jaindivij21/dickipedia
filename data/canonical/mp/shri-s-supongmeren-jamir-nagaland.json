@@ -279,6 +279,16 @@
     },
     "debate_titles": [
       {
+        "date": "10.08.2026",
+        "title": "Regarding need to restore Air India flight services to Assam, Manipur and Nagaland",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "06.08.2026",
+        "title": "Regarding need to implement the agreements of Government made with National Socialist Council of Nagaland (IM) and Naga National Political Groups in 2015 and 2017 respectively",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "21.07.2026",
         "title": "Regarding need to start passenger train services between Tuli, Nagaland and Guwahati, Assam",
         "type": "LS - Matters under (Rule-377)"
@@ -405,9 +415,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 25,
-      "value": 25
+      "national_avg": 21.5,
+      "state_avg": 27,
+      "value": 27
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -415,7 +425,7 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
+      "national_avg": 120,
       "state_avg": 7,
       "value": 7
     },

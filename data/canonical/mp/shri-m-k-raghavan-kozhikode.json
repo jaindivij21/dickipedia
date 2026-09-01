@@ -517,7 +517,7 @@
     "attendance": {
       "national_avg": 85,
       "sessions": [],
-      "state_avg": 80,
+      "state_avg": 81,
       "value": 73
     },
     "debate_titles": [
@@ -653,8 +653,8 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 34,
+      "national_avg": 21.5,
+      "state_avg": 34.5,
       "value": 26
     },
     "pmbs": {
@@ -663,9 +663,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 133,
-      "value": 145
+      "national_avg": 120,
+      "state_avg": 141,
+      "value": 155
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/m-k-raghavan"
   },

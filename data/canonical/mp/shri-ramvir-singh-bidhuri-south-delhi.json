@@ -430,6 +430,16 @@
     },
     "debate_titles": [
       {
+        "date": "11.08.2026",
+        "title": "Regarding need for retention of the Kendriya Vidyalaya at Badarpur, Delhi and expeditious opening of the proposed Delhi University college at Fatehpur Beri",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
+        "date": "05.08.2026",
+        "title": "Regarding need to expand AIIMS like health facilities in South Delhi and operationalize the Centre of AIIMS at Maidan Garhi",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "30.07.2026",
         "title": "Regarding problems being faced by citizens living in resettlement colonies which are established in Delhi for people who migrated to India during Partition",
         "type": "LS - Matters under (Rule-377)"
@@ -571,9 +581,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 19.5,
-      "value": 28
+      "national_avg": 21.5,
+      "state_avg": 20.2,
+      "value": 30
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -581,9 +591,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 160,
-      "value": 155
+      "national_avg": 120,
+      "state_avg": 172,
+      "value": 169
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/ramvir-singh-bidhuri"
   },

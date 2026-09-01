@@ -341,6 +341,11 @@
     },
     "debate_titles": [
       {
+        "date": "05.08.2026",
+        "title": "Regarding need to strengthen national action plan for effective control of air pollution and improvement of air quality",
+        "type": "LS - Matters under (Rule-377)"
+      },
+      {
         "date": "29.07.2026",
         "title": "Regarding need to strengthen and expand Cancer diagnosis and treatment facilities in Government hospitals in Semiurabn and rural areas of the country",
         "type": "LS - Matters under (Rule-377)"
@@ -497,9 +502,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 22.3,
-      "value": 31
+      "national_avg": 21.5,
+      "state_avg": 22.8,
+      "value": 32
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -507,9 +512,9 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 83,
-      "value": 169
+      "national_avg": 120,
+      "state_avg": 90,
+      "value": 183
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/arun-govil"
   },

@@ -481,6 +481,11 @@
     },
     "debate_titles": [
       {
+        "date": "12.08.2026",
+        "title": "The Foreign Contribution (Regulation) Amendment Bill, 2026 for Reference to Joint Committee",
+        "type": "Government Bills"
+      },
+      {
         "date": "28.07.2026",
         "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
         "type": "Government Bills"
@@ -567,9 +572,9 @@
       }
     ],
     "debates": {
-      "national_avg": 21,
-      "state_avg": 22.3,
-      "value": 17
+      "national_avg": 21.5,
+      "state_avg": 22.8,
+      "value": 18
     },
     "pmbs": {
       "national_avg": 0.4,
@@ -577,8 +582,8 @@
       "value": 0
     },
     "questions": {
-      "national_avg": 111,
-      "state_avg": 83,
+      "national_avg": 120,
+      "state_avg": 90,
       "value": 0
     },
     "url": "https://prsindia.org/mptrack/18th-lok-sabha/akhilesh-yadav"
